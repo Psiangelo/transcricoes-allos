@@ -4,7 +4,7 @@ serie: "Aprimoramento Clínico (Acervo)"
 fonte_id: acervo-11
 numero: 11
 titulo_original: "Encontro 21 e Encontro 22"
-facilitadores: ["Hidra (?)", "Apresentadora do tema (nome não identificado)"]
+facilitadores: ["Cindy (?)"]
 formato: "Mesa de estudos"
 video: "https://www.youtube.com/watch?v=ieKRsSAxIPg"
 duracao: "1:17:37"
@@ -24,44 +24,47 @@ aliases: ["Encontro 21 e Encontro 22", "Acervo 11", "Workaholismo e saúde menta
 > O vício em trabalho não é só um problema individual. Ele nasce de uma cultura de metas e de um trabalho precarizado e sem sentido. O psicólogo, que também é trabalhador, precisa cuidar de si e atuar nas organizações sem se colocar nem como salvador, nem como delator.
 
 > [!info] Ficha
-> **Facilitação:** uma apresentadora do tema (nome não captado pela legenda) e Hidra (?), que conduz o fechamento. Identificação incerta, ver Observações · **Duração:** 1:17:37 · **Formato:** Mesa de estudos (roda de conversa temática, online; formato inferido, o nome não é dito na gravação) · **Competências:** [[Pessoa do terapeuta]], [[Desenvolvimento profissional]], [[Relação terapêutica]], [[Articulação teoria-prática]]
+> **Facilitação:** Cindy (?), que apresenta o tema, distribui a palavra e conduz a escolha do próximo tema (identificação provável, ver abaixo), com participação destacada de Adria (?), plantonista da Allos · **Duração:** 1:17:37 · **Formato:** Mesa de estudos (roda de conversa temática, online; formato inferido, o nome não é dito na gravação) · **Competências:** [[Pessoa do terapeuta]], [[Desenvolvimento profissional]], [[Relação terapêutica]], [[Articulação teoria-prática]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=ieKRsSAxIPg) · **Transcrição:** [[11 - Encontro 21 e Encontro 22]]
+
+> [!warning] Quem conduz (identificação provável)
+> A gravação começa no meio da abertura e ninguém se apresenta. A condutora é **provavelmente Cindy (?)**. Ela abre com o tema e as leituras, distribui a palavra, relata plantão online pela Allos e, no fim, anuncia o próximo tema. Os indícios: um participante agradece "à Allos e [à Cindy?] que conduz o grupo há um tempo já" (a legenda escreve "Alos Cider e a Cuz Grupo"); Vinícius parece dirigir-se a ela ("a Cíndica", {{ts:acervo-11@1:03:21}}); e, no [[Acervo 20 - Mesa de estudos sobre plantão psicológico]], Cindy é a condutora da Mesa de estudos e plantonista online. **Adria (?)** é a grafia adotada no Acervo 20 para a colega plantonista de Fortaleza (a legenda oscila entre Adrian, Hidra, Eidra, Iria, Aira). Diogo participa como membro. O nome "Mesa de estudos" não é dito aqui; o formato foi inferido pela estrutura.
 
 ## Resumo
 
-Apesar de estar na playlist do Aprimoramento Clínico, este encontro **não treina uma competência de sessão**. É uma roda de conversa temática, com a estrutura de uma **mesa de estudos**: alguém traz um tema que andou lendo e o grupo discute. A apresentadora abre dizendo que o tema é pessoal (a própria terapeuta lhe pede "vai com calma") e cita artigos sobre uma "epidemia do novo século", a de uma geração que só encontra sentido na meta atingida, meta que se renova e nunca satisfaz. Lança então a pergunta que organiza a noite: **em que momento o trabalho deixa de ser prazeroso e vira vício?**
+Apesar de estar na playlist do Aprimoramento Clínico, este encontro **não treina uma competência de sessão**. É uma roda de conversa temática, com a estrutura de uma **mesa de estudos**: alguém traz um tema que andou lendo e o grupo discute. A condutora, provavelmente Cindy (?), abre dizendo que o tema é pessoal (a própria terapeuta lhe pede "vai com calma") e cita artigos sobre uma "epidemia do novo século", a de uma geração que só encontra sentido na meta atingida, meta que se renova e nunca satisfaz. Lança então a pergunta que organiza a noite: **em que momento o trabalho deixa de ser prazeroso e vira vício?**
 
-Seguem depoimentos, incluindo o de Hidra (?), que se diz "workaholic certificada" e conta que precisa contar as horas trabalhadas para conseguir descansar. A discussão vai do plano pessoal ao teórico, ao social e ao político. Vinícius, com uma leitura junguiana, diz que "parar" não existe para a psique: a energia sempre busca direção, e o **burnout é a represa que estoura**. O trabalho interior, por sua vez, não é reconhecido como trabalho ("afiar o machado"). Diogo, aqui como participante, critica a lógica da responsabilidade individual, do fim da escravidão ao "sou meu próprio chefe" dos aplicativos, e a **individualização do sofrimento** que chega à clínica como "me conserta". Uma participante lembra, com tom crítico, que a psicologia fala muito da aceleração e pratica pouco a desaceleração. Hidra (?) traz a precarização do próprio psicólogo, a NR-1, a saúde social e a agência coletiva.
+Seguem depoimentos, incluindo o de Adria (?), colega plantonista da Allos, que se diz "workaholic certificada" e conta que precisa contar as horas trabalhadas para conseguir descansar. A discussão vai do plano pessoal ao teórico, ao social e ao político. Vinícius, com uma leitura junguiana, diz que "parar" não existe para a psique: a energia sempre busca direção, e o **burnout é a represa que estoura**. O trabalho interior, por sua vez, não é reconhecido como trabalho ("afiar o machado"). Diogo, aqui como participante, critica a lógica da responsabilidade individual, do fim da escravidão ao "sou meu próprio chefe" dos aplicativos, e a **individualização do sofrimento** que chega à clínica como "me conserta". Uma participante lembra, com tom crítico, que a psicologia fala muito da aceleração e pratica pouco a desaceleração. Adria (?) traz a precarização do próprio psicólogo, a NR-1, a saúde social e a agência coletiva.
 
-O último terço trata do **psicólogo nas organizações**. Vinícius diz que o argumento "saúde mental dá lucro" é fraco e que a luta é contra a simbologia do progresso; o burnout nasce da falta de sentido. Diogo descreve o psicólogo "entre a cruz e a espada". Hidra (?) recusa a posição de salvadora e relata plantões em hospital e em clínica-escola que resultaram em propostas institucionais. A apresentadora conta que faz plantão online numa empresa parceira e defende que é antiético o psicólogo servir de **delator** da estabilidade emocional dos funcionários. O encontro termina com a **votação do próximo tema**: trauma venceu, com a sugestão de incluir o TEPT complexo da CID-11, e adicção fica para depois.
+O último terço trata do **psicólogo nas organizações**. Vinícius diz que o argumento "saúde mental dá lucro" é fraco e que a luta é contra a simbologia do progresso; o burnout nasce da falta de sentido. Diogo descreve o psicólogo "entre a cruz e a espada". Adria (?) recusa a posição de salvadora e relata plantões em hospital e em clínica-escola que resultaram em propostas institucionais. Cindy (?) conta que faz plantão online numa empresa parceira e defende que é antiético o psicólogo servir de **delator** da estabilidade emocional dos funcionários. O encontro termina com a **votação do próximo tema**: trauma venceu, com a sugestão de incluir o TEPT complexo da CID-11, e adicção fica para depois.
 
 ## Estrutura do encontro
 
 | Início | Bloco | O que acontece | Função pedagógica |
 |---|---|---|---|
 | {{ts:acervo-11@0:00:02}} | Abertura | Tema pessoal, artigos sobre a "epidemia" de metas, termo *workaholic*; pergunta disparadora. | Autorrevelação e foco. |
-| {{ts:acervo-11@0:02:10}} | Discussão | Depoimento de Hidra (?): "workaholic certificada", a "abstinência" ao ter de parar, contagem de horas. | Modela a vulnerabilidade; o tema atravessa os terapeutas. |
+| {{ts:acervo-11@0:02:10}} | Discussão | Depoimento de Adria (?): "workaholic certificada", a "abstinência" ao ter de parar, contagem de horas. | Modela a vulnerabilidade; o tema atravessa os terapeutas. |
 | {{ts:acervo-11@0:06:40}} | Discussão | Utilidade, preencher espaços, cultura do mercado financeiro, perda da sensibilidade para escutar. | Do pessoal ao cultural. |
-| {{ts:acervo-11@0:11:16}} | Discussão | A apresentadora sintetiza (construção pessoal e social) e pergunta pelos limites. | Síntese e relançamento. |
+| {{ts:acervo-11@0:11:16}} | Discussão | Cindy (?) sintetiza (construção pessoal e social) e pergunta pelos limites. | Síntese e relançamento. |
 | {{ts:acervo-11@0:13:01}} | Discussão | Vinícius: energia psíquica, represa/burnout, mundo interno, afiar o machado. | Referencial teórico (junguiano). |
 | {{ts:acervo-11@0:16:59}} | Discussão | Diogo: pensar e planejar não são tratados como trabalho. | Plano pragmático. |
 | {{ts:acervo-11@0:18:53}} | Discussão | Crítica: a psicologia fala e não pratica; sustentar o desconforto de desacelerar. | Discordância produtiva. |
-| {{ts:acervo-11@0:21:37}} | Discussão | Hidra (?): psicólogo como classe trabalhadora, NR-1, precarização, trabalho em rede, "capital do jeans". | O psicólogo como trabalhador. |
+| {{ts:acervo-11@0:21:37}} | Discussão | Adria (?): psicólogo como classe trabalhadora, NR-1, precarização, trabalho em rede, "capital do jeans". | O psicólogo como trabalhador. |
 | {{ts:acervo-11@0:29:19}} | Discussão | Diogo: responsabilidade individual, neoliberalismo, aplicativos, "me conserta"; empresa que ignora pesquisa interna. | Desnaturalizar a individualização. |
-| {{ts:acervo-11@0:35:32}} | Discussão | Hidra (?): privilégios, escala 6x1, política, saúde social, agência coletiva. | Da denúncia à ação coletiva. |
+| {{ts:acervo-11@0:35:32}} | Discussão | Adria (?): privilégios, escala 6x1, política, saúde social, agência coletiva. | Da denúncia à ação coletiva. |
 | {{ts:acervo-11@0:42:14}} | Discussão | Vinícius: a armadilha do argumento do lucro; simbologia do progresso; trabalho e tempo alienados. | Crítica à estratégia do psicólogo. |
-| {{ts:acervo-11@0:47:46}} | Discussão | Apresentadora: o vazio. Diogo: cruz e espada, "dar o peixe", a categoria profissional. | O dilema ético. |
-| {{ts:acervo-11@0:52:31}} | Discussão | Apresentadora: lucrar × precisar trabalhar; "o que fazemos com a nossa saúde mental?". | Volta à pessoa do terapeuta. |
-| {{ts:acervo-11@0:54:36}} | Discussão | Hidra (?): recusa da posição de salvadora; trabalho invisível; redesenhar com as pessoas; plantão hospitalar; etarismo. | Uma prática institucional concreta. |
-| {{ts:acervo-11@1:02:12}} | Discussão | Vinícius: o psicólogo como "agente infiltrado". Hidra (?): plantão no estágio, relatório e propostas. | Relatos de manejo institucional. |
-| {{ts:acervo-11@1:09:59}} | Discussão | Apresentadora: plantão online em empresa; sigilo; não ser delator. | Limite ético. |
+| {{ts:acervo-11@0:47:46}} | Discussão | Cindy (?): o vazio. Diogo: cruz e espada, "dar o peixe", a categoria profissional. | O dilema ético. |
+| {{ts:acervo-11@0:52:31}} | Discussão | Cindy (?): lucrar × precisar trabalhar; "o que fazemos com a nossa saúde mental?". | Volta à pessoa do terapeuta. |
+| {{ts:acervo-11@0:54:36}} | Discussão | Adria (?): recusa da posição de salvadora; trabalho invisível; redesenhar com as pessoas; plantão hospitalar; etarismo. | Uma prática institucional concreta. |
+| {{ts:acervo-11@1:02:12}} | Discussão | Vinícius: o psicólogo como "agente infiltrado". Adria (?): plantão no estágio, relatório e propostas. | Relatos de manejo institucional. |
+| {{ts:acervo-11@1:09:59}} | Discussão | Cindy (?): plantão online em empresa; sigilo; não ser delator. | Limite ético. |
 | {{ts:acervo-11@1:13:09}} | Fechamento | "Alguém mais quer comentar?"; avaliação espontânea de um participante novo. | Espaço final. |
 | {{ts:acervo-11@1:13:16}} | Tarefa | Votação do próximo tema (trauma × adicção); sugestão do TEPT complexo (CID-11). | Continuidade participativa. |
 
 ## Conteúdo teórico
 
 ### A cultura de metas e o vício em trabalho {{ts:acervo-11@0:00:02}}
-A apresentadora parte de artigos que falam de uma "epidemia do novo século": uma geração convencida de que precisa cumprir metas, em que "o único sentido que damos à vida é uma meta atingida". Como a meta se renova, ninguém fica satisfeito nem completo; ela é, na prática, inatingível. O **[[Vício em trabalho]]** (*workaholic*, "viciado em trabalho") é o ponto em que o trabalho deixa de ser prazeroso e vira necessidade {{ts:acervo-11@0:01:42}}. O depoimento de Hidra (?) mostra os sinais: "abstinência" quando é obrigada a parar, valor pessoal preso a "entregar tudo antes", contar as horas para se permitir descansar e dificuldade de "fazer nada". Ela diz que a origem está na história de vida e numa construção que vem da infância, reforçada por formas flexíveis e precarizadas de trabalho {{ts:acervo-11@0:03:26}}.
+Cindy (?) parte de artigos que falam de uma "epidemia do novo século": uma geração convencida de que precisa cumprir metas, em que "o único sentido que damos à vida é uma meta atingida". Como a meta se renova, ninguém fica satisfeito nem completo; ela é, na prática, inatingível. O **[[Vício em trabalho]]** (*workaholic*, "viciado em trabalho") é o ponto em que o trabalho deixa de ser prazeroso e vira necessidade {{ts:acervo-11@0:01:42}}. O depoimento de Adria (?) mostra os sinais: "abstinência" quando é obrigada a parar, valor pessoal preso a "entregar tudo antes", contar as horas para se permitir descansar e dificuldade de "fazer nada". Ela diz que a origem está na história de vida e numa construção que vem da infância, reforçada por formas flexíveis e precarizadas de trabalho {{ts:acervo-11@0:03:26}}.
 
 ### Energia psíquica, burnout e o trabalho do mundo interno {{ts:acervo-11@0:13:14}}
 Vinícius propõe uma leitura junguiana ([[Psicologia analítica junguiana]]):
@@ -71,13 +74,13 @@ Vinícius propõe uma leitura junguiana ([[Psicologia analítica junguiana]]):
 - **Metáfora do afiador de machado:** quem não está cortando a árvore está afiando o machado. O "afiar do machado psicológico" é o trabalho do mundo interno, muitas vezes negligenciado {{ts:acervo-11@0:15:58}}.
 
 ### O que conta como trabalho {{ts:acervo-11@0:16:59}}
-Diogo leva a mesma questão para as organizações. Parar para analisar e reformular um sistema, para que os problemas não se repitam, deveria ser mais valorizado do que "apagar incêndios". Mas ninguém é pago para pensar, e o gestor que não põe a mão na massa na hora do fogo é malvisto {{ts:acervo-11@0:18:06}}. Hidra (?) acrescenta o **[[Trabalho invisível]]**, como o trabalho de cuidado das mulheres (tema de redação do Enem), cujo reconhecimento muda "o que é trabalho" {{ts:acervo-11@0:55:31}}.
+Diogo leva a mesma questão para as organizações. Parar para analisar e reformular um sistema, para que os problemas não se repitam, deveria ser mais valorizado do que "apagar incêndios". Mas ninguém é pago para pensar, e o gestor que não põe a mão na massa na hora do fogo é malvisto {{ts:acervo-11@0:18:06}}. Adria (?) acrescenta o **[[Trabalho invisível]]**, como o trabalho de cuidado das mulheres (tema de redação do Enem), cujo reconhecimento muda "o que é trabalho" {{ts:acervo-11@0:55:31}}.
 
 ### Individualização do sofrimento {{ts:acervo-11@0:29:19}}
 Para Diogo, a lógica do "foco no indivíduo" é antiga. Com a abolição da escravatura, o trabalhador "livre" passou a pagar sozinho pelo próprio remédio. O neoliberalismo traz o discurso da autonomia, e os aplicativos, a ilusão do "sou meu próprio chefe": o entregador não trabalha quando quer, porque fora dos horários de refeição não ganha nada. Ele cita um professor que detesta o termo "autodidata" ("o livro foi escrito por alguém") e pergunta: "essa lógica de que é tudo responsabilidade do sujeito, a quem será que ela está servindo?" {{ts:acervo-11@0:30:40}}. Na saúde mental, isso aparece como **[[Individualização do sofrimento]]**: a pessoa chega à terapia pedindo "estou quebrado, me conserta" e perde a capacidade de olhar o todo e as pessoas que determinam o sofrimento {{ts:acervo-11@0:31:40}}.
 
 ### Precarização, inclusive do psicólogo {{ts:acervo-11@0:21:37}}
-Hidra (?) lembra que os psicólogos também são classe trabalhadora e entram nas estatísticas de burnout e afastamento. O debate cresceu com a NR-1 ([[Riscos psicossociais no trabalho]]). O psicólogo autônomo (avaliação, clínica, taxas) já vive uma **[[Precarização do trabalho]]** considerável. O trabalho online, por sua vez, aumentou o isolamento e interiorizou a pressão ("no online, a pressão é você pressionando você mesmo") {{ts:acervo-11@0:24:41}}. Ela cita um documentário mostrado em aula sobre a "capital do jeans" do país (a cidade não é nomeada; provavelmente Toritama, em Pernambuco — nota do fichamento). Lá, famílias inteiras costuram o ano todo nas garagens, as crianças são preparadas para a mesma função, e todos se endividam para "desapegar" no carnaval, quando a cidade vira fantasma. Depois, "começa tudo de novo". O "sou dono do meu" esconde uma construção social inteira em torno do trabalho {{ts:acervo-11@0:26:06}}.
+Adria (?) lembra que os psicólogos também são classe trabalhadora e entram nas estatísticas de burnout e afastamento. O debate cresceu com a NR-1 ([[Riscos psicossociais no trabalho]]). O psicólogo autônomo (avaliação, clínica, taxas) já vive uma **[[Precarização do trabalho]]** considerável. O trabalho online, por sua vez, aumentou o isolamento e interiorizou a pressão ("no online, a pressão é você pressionando você mesmo") {{ts:acervo-11@0:24:41}}. Ela cita um documentário mostrado em aula sobre a "capital do jeans" do país (a cidade não é nomeada; provavelmente Toritama, em Pernambuco — nota do fichamento). Lá, famílias inteiras costuram o ano todo nas garagens, as crianças são preparadas para a mesma função, e todos se endividam para "desapegar" no carnaval, quando a cidade vira fantasma. Depois, "começa tudo de novo". O "sou dono do meu" esconde uma construção social inteira em torno do trabalho {{ts:acervo-11@0:26:06}}.
 
 ### Trabalho alienado, tempo orgânico e a armadilha do argumento do lucro {{ts:acervo-11@0:42:19}}
 Vinícius conta que já usou o argumento "cuidar da saúde mental dos funcionários melhora o lucro" e que o gestor riu. Concluiu que é um argumento "fácil de ser quebrado", porque aceita a premissa do lucro. A pergunta "se meu empregado trabalha 12 horas e passar a trabalhar seis, vou faturar o dobro?" não tem resposta na psicologia. A resposta honesta é outra: "não vai, e não é isso que buscamos; é que isso é injusto" {{ts:acervo-11@0:46:57}}. A luta, diz ele, é contra a **simbologia do progresso** ("não se caminha só para a frente"). O [[Trabalho alienado]] e o tempo alienado do Ocidente, abstrato e sem referência (16 horas "é a mesma coisa" que 24), contrastam com o [[Tempo orgânico]], que começa com a luz do sol. "O trabalho só me causa burnout porque não tem sentido eu estar lá." O dinheiro seria um símbolo vazio, que não entrega a transformação prometida. Ao psicólogo cabe alertar para o significado por trás de um mundo que só enxerga o concreto {{ts:acervo-11@0:45:00}}.
@@ -85,16 +88,16 @@ Vinícius conta que já usou o argumento "cuidar da saúde mental dos funcionár
 Diogo acrescenta o dilema: pedir ao empresário que abra mão do lucro faz com que ele pare de ouvir, e usar o discurso do lucro reproduz a lógica criticada. Ele lembra uma professora de psicologia social: o objetivo é ensinar a pescar, mas "se a pessoa está morrendo de fome, você tem que dar o peixe naquele momento". Às vezes é preciso resolver o imediato dentro da lógica vigente e combatê-la por fora {{ts:acervo-11@0:50:24}}.
 
 ### O vazio {{ts:acervo-11@0:47:46}}
-A apresentadora liga a falta de sentido (Vinícius) ao "preencher espaços" (Carla). A exaustão viria de uma tentativa "amargurada e impossível" de preencher um espaço inconsciente do ser, e não só pelo trabalho: come-se, bebe-se, sai-se e relaciona-se mais "para preencher um vazio". Para ela, o [[Vazio]] "não é algo a ser preenchido, é algo a se ter com você". O difícil é ficar diante do desconhecido e do que não se controla.
+Cindy (?) liga a falta de sentido (Vinícius) ao "preencher espaços" (Carla). A exaustão viria de uma tentativa "amargurada e impossível" de preencher um espaço inconsciente do ser, e não só pelo trabalho: come-se, bebe-se, sai-se e relaciona-se mais "para preencher um vazio". Para ela, o [[Vazio]] "não é algo a ser preenchido, é algo a se ter com você". O difícil é ficar diante do desconhecido e do que não se controla.
 
 ### Saúde social e agência coletiva {{ts:acervo-11@0:38:13}}
-Hidra (?) diz que a discussão "vai além do mundo interno": é uma posição política sobre o que o país considera trabalho, sobre privilégios e sobre mobilizações como o fim da escala 6x1 {{ts:acervo-11@0:37:04}}. Ela estuda **[[Saúde social]]**: estimular a **[[Agência coletiva]]**, a capacidade de se mobilizar (do cafezinho que ela desceu para fazer até causas maiores que nós). O exemplo é o de um aposentado solitário numa vila italiana que convidou os vizinhos para jantar. O jantar virou rotina, gerou pertencimento e, depois, reivindicações conjuntas à prefeitura. "A nossa saúde mental não é só nossa, é de todos nós" {{ts:acervo-11@0:40:23}}. A crítica também se volta para a categoria: o Conselho Federal fala pouco do cuidado com os próprios psicólogos.
+Adria (?) diz que a discussão "vai além do mundo interno": é uma posição política sobre o que o país considera trabalho, sobre privilégios e sobre mobilizações como o fim da escala 6x1 {{ts:acervo-11@0:37:04}}. Ela estuda **[[Saúde social]]**: estimular a **[[Agência coletiva]]**, a capacidade de se mobilizar (do cafezinho que ela desceu para fazer até causas maiores que nós). O exemplo é o de um aposentado solitário numa vila italiana que convidou os vizinhos para jantar. O jantar virou rotina, gerou pertencimento e, depois, reivindicações conjuntas à prefeitura. "A nossa saúde mental não é só nossa, é de todos nós" {{ts:acervo-11@0:40:23}}. A crítica também se volta para a categoria: o Conselho Federal fala pouco do cuidado com os próprios psicólogos.
 
 ### O psicólogo nas organizações: nem salvador, nem delator {{ts:acervo-11@0:54:42}}
-- **[[Posição de salvador]].** Hidra (?) evita o lugar de "heroína" ("a psicóloga entrou, vai mudar tudo") porque ele adoece o profissional. Uma avaliação de NR-1 feita por uma psicóloga "não vai mudar tanta coisa". O que os trabalhadores querem, muitas vezes, é "mudar a hora de trabalho, a rotatividade, a forma como a liderança dá feedback", e não um plantão psicológico {{ts:acervo-11@0:56:30}}. A proposta é **redesenhar com as pessoas**, com visão de longo prazo.
+- **[[Posição de salvador]].** Adria (?) evita o lugar de "heroína" ("a psicóloga entrou, vai mudar tudo") porque ele adoece o profissional. Uma avaliação de NR-1 feita por uma psicóloga "não vai mudar tanta coisa". O que os trabalhadores querem, muitas vezes, é "mudar a hora de trabalho, a rotatividade, a forma como a liderança dá feedback", e não um plantão psicológico {{ts:acervo-11@0:56:30}}. A proposta é **redesenhar com as pessoas**, com visão de longo prazo.
 - **Limites do [[Plantão psicológico]].** Num hospital público, só as técnicas de enfermagem procuravam o plantão. Outros setores diziam estar bem por medo de serem vistos como "doidos". Com esse estigma, o plantão individual tem pouca utilidade, mas os **dados agregados** ("de tantas pessoas, todas trouxeram isso") permitem propor mudanças à liderança {{ts:acervo-11@0:57:39}}. Entre os achados estava o **[[Etarismo]]**: trabalhadoras mais velhas, mais lentas mas com saberes valiosos, eram desqualificadas com o aval da liderança {{ts:acervo-11@0:59:41}}.
 - **O psicólogo como "agente infiltrado".** Vinícius relata uma intervenção institucional numa grande empresa. A direção dizia "até aqui você pode ir" e exibia benefícios (café, pebolim), enquanto o primeiro funcionário atendido dizia "eu não aguento mais". O psicólogo seria "um exército invisível", que desperta consciência "de formiguinha" {{ts:acervo-11@1:03:21}}.
-- **[[Sigilo profissional]].** A apresentadora faz plantão online numa empresa parceira da Allos. Muitos chegam pedindo que ela "fale bem" deles ao chefe e só se abrem depois de 20–30 minutos. Ela não reporta nada e deixa isso claro às gestoras: "não é um trabalho ético a gente quantificar o quanto uma pessoa está estável ou não para trabalhar". Também convida o grupo a observar os vieses da própria prática em contexto organizacional {{ts:acervo-11@1:11:25}}.
+- **[[Sigilo profissional]].** Cindy (?) faz plantão online numa empresa parceira da Allos. Muitos chegam pedindo que ela "fale bem" deles ao chefe e só se abrem depois de 20–30 minutos. Ela não reporta nada e deixa isso claro às gestoras: "não é um trabalho ético a gente quantificar o quanto uma pessoa está estável ou não para trabalhar". Também convida o grupo a observar os vieses da própria prática em contexto organizacional {{ts:acervo-11@1:11:25}}.
 
 ## Dinâmica(s)
 
@@ -108,7 +111,7 @@ Hidra (?) diz que a discussão "vai além do mundo interno": é uma posição po
   1. Quem apresenta lê alguns artigos sobre o tema escolhido pelo grupo no encontro anterior.
   2. Abertura: por que o tema me atravessa, dois ou três achados das leituras e **uma** pergunta aberta.
   3. Palavra por ordem de mão levantada, nomeando quem fala.
-  4. Os facilitadores também dão depoimento, sem monopolizar.
+  4. A condutora e colegas experientes também dão depoimento, sem monopolizar.
   5. De tempos em tempos, a moderação liga falas e relança uma pergunta nova (limites; "o que fazemos com a nossa própria saúde mental?") {{ts:acervo-11@0:12:35}} {{ts:acervo-11@0:53:43}}.
   6. A discordância é acolhida como parte do método {{ts:acervo-11@0:21:37}}.
   7. Espaço final: "alguém mais quer comentar?" {{ts:acervo-11@1:13:09}}
@@ -154,7 +157,7 @@ Hidra (?) diz que a discussão "vai além do mundo interno": é uma posição po
   - {{ts:acervo-11@0:29:19}}
 - **Tese:** "saúde mental dá lucro" é uma armadilha argumentativa (Vinícius).
   - *Argumento:* aceita a premissa do adversário e é facilmente derrubada; a questão é de sentido e de justiça.
-  - *Contra quem / contraponto:* Hidra (?) defende mostrar gráficos e avaliações de risco às empresas; Diogo lembra que às vezes é preciso "dar o peixe".
+  - *Contra quem / contraponto:* Adria (?) defende mostrar gráficos e avaliações de risco às empresas; Diogo lembra que às vezes é preciso "dar o peixe".
   - *Implicação prática:* usar a linguagem do lucro só taticamente.
   - {{ts:acervo-11@0:42:19}}
 - **Tese:** o burnout nasce da falta de sentido do trabalho alienado (Vinícius).
@@ -162,17 +165,17 @@ Hidra (?) diz que a discussão "vai além do mundo interno": é uma posição po
   - *Contra quem / contraponto:* explicações só pelo excesso de carga.
   - *Implicação prática:* trabalhar o sentido, e não só a quantidade de horas.
   - {{ts:acervo-11@0:45:00}}
-- **Tese:** a saúde mental é coletiva e política (Hidra (?)).
+- **Tese:** a saúde mental é coletiva e política (Adria (?)).
   - *Argumento:* o tema envolve o que o país considera trabalho, privilégios e lutas como o fim da escala 6x1; saúde social e agência coletiva produzem pertencimento e mudança.
   - *Contra quem / contraponto:* a clínica exclusivamente individual.
   - *Implicação prática:* conectar-se a outros profissionais e movimentos e cuidar da própria categoria.
   - {{ts:acervo-11@0:37:04}}
-- **Tese:** o psicólogo não deve ocupar a posição de salvador nas organizações (Hidra (?)).
+- **Tese:** o psicólogo não deve ocupar a posição de salvador nas organizações (Adria (?)).
   - *Argumento:* essa posição adoece; mudanças reais vêm de redesenhar sistemas com as pessoas, a longo prazo.
   - *Contra quem / contraponto:* a expectativa de empresas e funcionários de que a psicóloga "vai mudar tudo".
   - *Implicação prática:* trabalhar com a cultura e a liderança e aceitar ganhos parciais.
   - {{ts:acervo-11@0:54:42}}
-- **Tese:** é antiético o psicólogo ser delator da estabilidade emocional do trabalhador (apresentadora).
+- **Tese:** é antiético o psicólogo ser delator da estabilidade emocional do trabalhador (Cindy?).
   - *Argumento:* quantificar a "aptidão emocional" para o empregador trai a confiança e foge à função do psicólogo.
   - *Contra quem / contraponto:* gestores que pedem relatórios detalhados.
   - *Implicação prática:* pactuar o sigilo com as gestoras desde o início.
@@ -184,16 +187,15 @@ Hidra (?) diz que a discussão "vai além do mundo interno": é uma posição po
   - {{ts:acervo-11@0:49:10}}
 
 ## Como o facilitador conduz
-- **Abre com autorrevelação e uma pergunta.** A apresentadora diz por que o tema é pessoal, cita as leituras e termina com uma pergunta aberta ("O que vocês acham?") {{ts:acervo-11@0:00:02}}.
-- **Facilitadora como participante.** Hidra (?) dá seu depoimento como qualquer membro, com humor ("Vai ser testemunho hoje"), o que modela a vulnerabilidade {{ts:acervo-11@0:05:36}}.
-- **Recebe quem chega sem interromper.** "Oi, Marina, minha amiga", e segue a fala {{ts:acervo-11@0:03:26}}.
+- **Abre com autorrevelação e uma pergunta.** Cindy (?) diz por que o tema é pessoal, cita as leituras e termina com uma pergunta aberta ("O que vocês acham?") {{ts:acervo-11@0:00:02}}.
+- **Depoimento logo após a abertura.** Depois da pergunta disparadora, uma colega experiente, Adria (?), dá seu depoimento com humor ("Vai ser testemunho hoje"), o que modela a vulnerabilidade para o resto do grupo {{ts:acervo-11@0:05:36}}.
 - **Distribui os turnos por inscrição.** "Carla, fala"; "Vinícius, pode falar"; "Quem levanta primeiro? Acho que o Diogo" {{ts:acervo-11@0:06:40}} {{ts:acervo-11@0:16:59}}.
 - **Faz sínteses que ligam falas.** "Uma coisa que o Vinícius falou eu liguei com a fala da Carla" {{ts:acervo-11@0:47:46}}; "igual o Diogo falou, nós temos duas vertentes" {{ts:acervo-11@0:52:31}}.
 - **Relança para a pessoa do terapeuta.** "O que nós estamos fazendo com a nossa própria saúde mental para não cair em nenhum dos dois lados?" {{ts:acervo-11@0:53:43}}; "Quando isso vai esbarrar no nosso limite?" {{ts:acervo-11@0:12:35}}
-- **Acolhe a crítica.** Diante de uma participante que critica o discurso da própria psicologia, Hidra (?) responde "achei muito legal que você trouxe, porque problematiza tudo isso" {{ts:acervo-11@0:21:37}}.
+- **Acolhe a crítica.** Uma participante critica o discurso da própria psicologia, e a crítica é incorporada ao debate: Adria (?) responde "achei muito legal que você trouxe, porque problematiza tudo isso" {{ts:acervo-11@0:21:37}}.
 - **Humaniza a condução.** "Acho que eu brisei muito aqui, estou com uma ansiedade patológica hoje" {{ts:acervo-11@0:49:10}}.
 - **Abre um espaço final.** "Alguém mais quer comentar?" {{ts:acervo-11@1:13:09}}
-- **Decide o próximo tema com o grupo.** A condutora expõe seu dilema (três semanas indecisa entre trauma e adicção), conta os votos, define uma sequência (trauma e depois adicção), acolhe a sugestão da CID-11 e fecha com humor: "Pronto, então tá decidido. Bati o martelo. Eu não decido mais nada" {{ts:acervo-11@1:14:28}} {{ts:acervo-11@1:17:11}}.
+- **Decide o próximo tema com o grupo.** Cindy (?) expõe seu dilema (três semanas indecisa entre trauma e adicção), conta os votos, define uma sequência (trauma e depois adicção), acolhe a sugestão da CID-11 e fecha com humor: "Pronto, então tá decidido. Bati o martelo. Eu não decido mais nada" {{ts:acervo-11@1:14:28}} {{ts:acervo-11@1:17:11}}.
 - **O que não acontece:** não há gestão explícita de tempo, síntese final do aprendizado nem retorno sistemático à técnica clínica; as falas longas (5–8 min) dominam.
 
 ### Comparado ao formato do Alan
@@ -202,7 +204,7 @@ Hidra (?) diz que a discussão "vai além do mundo interno": é uma posição po
 - **Exercício:** nenhum. Ninguém formula uma intervenção nem trabalha uma vinheta.
 - **Feedback:** não há correção de desempenho, só validação e relançamento.
 - **Foco:** não uma competência de sessão, mas a **pessoa do terapeuta** e o **contexto social e político** do sofrimento.
-- **Condução:** horizontal; as facilitadoras dão depoimento. O mais próximo, no Alan, é a [[Dinâmica - Roda de debate sobre cosmovisão]] ([[Alan 04 - Cosmovisão e clínica 1]]), mas lá o debate está amarrado a uma pergunta clínica.
+- **Condução:** horizontal; a condutora e colegas da Allos dão depoimento como qualquer membro. O mais próximo, no Alan, é a [[Dinâmica - Roda de debate sobre cosmovisão]] ([[Alan 04 - Cosmovisão e clínica 1]]), mas lá o debate está amarrado a uma pergunta clínica.
 - **Balanço:** ganha em pertencimento, elaboração coletiva e pensamento crítico; perde em transferência para a técnica, controle de tempo e fechamento didático. Para aproximá-lo do Alan, bastaria encerrar com uma vinheta fictícia ("um paciente workaholic diz que não consegue tirar férias; qual sua primeira intervenção?") e uma rodada de respostas com feedback.
 
 ## Conceitos-chave
@@ -233,13 +235,13 @@ Hidra (?) diz que a discussão "vai além do mundo interno": é uma posição po
 
 > "Quando não está cortando a árvore, está afiando o machado: o afiar do machado psicológico é o trabalho do mundo interno." (Vinícius) {{ts:acervo-11@0:15:58}}
 
-> "Eu preciso parar tanto quanto eu preciso trabalhar." (Hidra) {{ts:acervo-11@0:23:39}}
+> "Eu preciso parar tanto quanto eu preciso trabalhar." (Adria) {{ts:acervo-11@0:23:39}}
 
 > "Essa lógica de que é tudo responsabilidade do sujeito: a quem será que ela está servindo?" (Diogo) {{ts:acervo-11@0:30:40}}
 
-> "O que a gente está discutindo vai além do mundo interno da pessoa. É uma posição política." (Hidra) {{ts:acervo-11@0:37:04}}
+> "O que a gente está discutindo vai além do mundo interno da pessoa. É uma posição política." (Adria) {{ts:acervo-11@0:37:04}}
 
-> "A nossa saúde mental não é só nossa, é de todos nós." (Hidra) {{ts:acervo-11@0:40:23}}
+> "A nossa saúde mental não é só nossa, é de todos nós." (Adria) {{ts:acervo-11@0:40:23}}
 
 > "Se eu coloco o meu argumento no lucro, o meu argumento vai por terra." (Vinícius) {{ts:acervo-11@0:42:19}}
 
@@ -249,7 +251,7 @@ Hidra (?) diz que a discussão "vai além do mundo interno": é uma posição po
 
 > "Se a pessoa está morrendo de fome, você tem que dar o peixe naquele momento." (Diogo, citando uma professora) {{ts:acervo-11@0:50:24}}
 
-> "Eu tento me afastar da posição de heroína, de salvadora. Isso também adoece a gente." (Hidra) {{ts:acervo-11@0:54:42}}
+> "Eu tento me afastar da posição de heroína, de salvadora. Isso também adoece a gente." (Adria) {{ts:acervo-11@0:54:42}}
 
 > "A gente é meio que um exército invisível na conscientização dessas coisas." (Vinícius) {{ts:acervo-11@1:04:38}}
 
@@ -285,4 +287,4 @@ Hidra (?) diz que a discussão "vai além do mundo interno": é uma posição po
 - Conceitos: [[Burnout]] · [[Vício em trabalho]] · [[Individualização do sofrimento]] · [[Plantão psicológico]] · [[Sigilo profissional]] · [[Saúde social]]
 - Abordagem: [[Psicologia analítica junguiana]]
 - Formato: [[Alan 04 - Cosmovisão e clínica 1]] (roda de debate no formato do Alan, para comparar) · [[Alan 02 - Construção frasal]]
-- Acervo: [[Acervo 12 - Funções da metáfora na clínica]] (vídeo seguinte do acervo, em outro formato: aprimoramento conduzido por Diogo, com Vinícius também presente)
+- Acervo: [[Acervo 20 - Mesa de estudos sobre plantão psicológico]] e [[Acervo 07 - Violência estrutural e plantão psicológico]] (outras mesas de estudos, com Cindy e Malu) · [[Acervo 12 - Funções da metáfora na clínica]] (vídeo seguinte do acervo, em outro formato: aprimoramento conduzido por Diogo, com Vinícius também presente)

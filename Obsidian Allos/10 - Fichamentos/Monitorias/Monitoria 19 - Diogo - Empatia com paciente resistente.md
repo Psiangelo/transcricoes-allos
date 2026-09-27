@@ -325,5 +325,6 @@ Roteiro enxuto de uma monitoria sobre empatia com paciente simulado (cerca de 70
 - Competências: [[Relação terapêutica]] · [[Intervenção]] · [[Pessoa do terapeuta]] · [[Primeira sessão e entrevistas iniciais]] · [[Direção do tratamento]] · [[Escuta clínica]] · [[Acolhimento e validação]]
 - Encontros do Alan com temas vizinhos: [[Alan 01 - Relação terapêutica tensionada]] · [[Alan 03 - Distância, intensidade, forma e conteúdo]] · [[Alan 16 - Intervenção]] · [[Alan 17 - Qualidade da intervenção]]
 - Outras monitorias: [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] (mesmo paciente simulado) · [[Monitoria 18 - Diogo - Usos da comunicação na clínica]]
+- Série de Diogo (temas vizinhos): [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] · [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] · [[Monitoria 15 - Diogo - Responsabilização e vínculo na primeira sessão]] · [[Monitoria 16 - Diogo - Autenticidade e ser verdadeiro na clínica]]
 - Conceitos próximos: [[Ruptura e reparo da aliança]] · [[Aliança terapêutica]] · [[Contratransferência]]
 - Abordagens: [[Psicanálise freudiana]] · [[Análise do comportamento]] · [[Terapias contextuais]] · [[Gestalt-terapia]]

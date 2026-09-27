@@ -111,7 +111,7 @@ Diogo acrescenta um detalhe de escuta: "sobra pra mim também" indica que, para 
 Exercício proposto ao grupo em dois passos: (1) listar os elementos que se repetiram até ali; (2) resumi-los "numa figura ou num estereótipo". Justificativa de Diogo: trabalhar "no nível da forma" é útil porque, ao focar num aspecto do discurso, corre-se o risco de perder o panorama geral do caso. Resumir o que se repete em poucas palavras e associar uma figura "é muito útil para a gente não se perder" {{ts:mon-15@0:37:45}}. É parente da [[Imagem diagnóstica]] trabalhada por Alan (ver [[Alan 11 - Psicodiagnóstico]]), feita aqui de forma coletiva e rápida.
 
 ### Esperar e buscar; expectativa e ação {{ts:mon-15@0:39:16}}
-A monitorada marca a palavra "esperar" e pergunta o que ele esperava. A resposta mostra uma ambição no nível da expectativa mágica ("um sinal", como nos filmes). Diogo sugere que dava para brincar com o contraste entre esse "sinal" e o desprezo que ele declarou pelas "coisas espirituais" {{ts:mon-15@0:40:06}} {{ts:mon-15@0:40:47}}. Depois vem a pergunta diferencial: as expectativas falharam por falta de ação ou por serem irreais? {{ts:mon-15@0:42:21}}. Quando o paciente distingue "esperar" de "buscar" e diz que buscou, mas "parecia preso no barro", o grupo lê um **inimigo** construído (ele contra o mundo) e um **ressentimento**: ele esperava que o mundo lhe devolvesse algo {{ts:mon-15@0:41:21}} {{ts:mon-15@0:43:38}} {{ts:mon-15@0:44:33}}.
+A monitorada marca a palavra "esperar" e pergunta o que ele esperava. A resposta mostra uma ambição no nível da expectativa mágica ("um sinal", como nos filmes). Diogo sugere que dava para brincar com o contraste entre esse "sinal" e o desprezo que ele declarou pelas "coisas espirituais" {{ts:mon-15@0:40:06}} {{ts:mon-15@0:40:47}}. Depois vem a pergunta diferencial: as expectativas falharam por falta de ação ou por serem irreais? {{ts:mon-15@0:42:21}}. Quando o paciente distingue "esperar" de "buscar" e diz que buscou, mas "parecia preso no barro", o grupo lê um **inimigo** construído (ele contra o mundo) e um **ressentimento**: ele esperava que o mundo lhe devolvesse algo. Entre risos, alguém cita o "arrume o quarto antes de arrumar o mundo", ao que tudo indica de [[Jordan Peterson]] (?) (a transcrição traz "peron") {{ts:mon-15@0:41:21}} {{ts:mon-15@0:43:38}} {{ts:mon-15@0:44:33}} {{ts:mon-15@0:45:12}}.
 
 ### Hipóteses concorrentes {{ts:mon-15@0:46:52}}
 Diante da imagem da "linha de chegada que nunca foi para mim", há duas leituras:
@@ -275,7 +275,7 @@ Diogo diz que trabalharia na segunda, mas reconhece as duas como "bem plausívei
 
 > "Resumir aquilo que se repete em algumas palavras e associar uma figura é muito útil para a gente não se perder." {{ts:mon-15@0:37:45}}
 
-> "Esperar é diferente de buscar." (fala do paciente simulado, retomada pelo grupo) {{ts:mon-15@0:43:38}}
+> "Conectar ele ao social, conectar ele a outras pessoas, na verdade é secretamente algo necessário." {{ts:mon-15@0:53:17}}
 
 > "São duas posições bem plausíveis em termos de formulação de caso." {{ts:mon-15@0:47:49}}
 

@@ -329,5 +329,6 @@ Roteiro enxuto para uma monitoria temática sobre comunicação (cerca de 75 min
 - Competências: [[Construção frasal]] · [[Intervenção]] · [[Acolhimento e validação]] · [[Abertura e encerramento de sessão]] · [[Psicoeducação]] · [[Aprofundamento]] · [[Relação terapêutica]] · [[Escuta clínica]] · [[Feedback clínico]] · [[Primeira sessão e entrevistas iniciais]]
 - Encontros do Alan com temas vizinhos: [[Alan 02 - Construção frasal]] · [[Alan 03 - Distância, intensidade, forma e conteúdo]] · [[Alan 07 - Psicoeducação]] · [[Alan 17 - Qualidade da intervenção]]
 - Outras monitorias: [[Monitoria 19 - Diogo - Empatia com paciente resistente]] · [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] · [[Monitoria 03 - Alan - Análise da linguagem do paciente]]
+- Série de Diogo (temas vizinhos): [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] · [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] · [[Monitoria 17 - Diogo - Perguntas abertas, hipótese e movimento clínico]] · [[Monitoria 15 - Diogo - Responsabilização e vínculo na primeira sessão]]
 - Abordagens: [[Análise do comportamento]] · [[Terapias contextuais]] · [[Psicodrama]] · [[Psicanálise lacaniana]]
 - Autores: [[Aristóteles]] · [[Jacob Levy Moreno]] · [[Jacques Lacan]]

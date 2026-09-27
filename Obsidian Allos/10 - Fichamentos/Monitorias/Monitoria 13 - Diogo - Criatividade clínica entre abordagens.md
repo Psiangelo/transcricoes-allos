@@ -12,7 +12,7 @@ transcricao: "[[13 - Monitoria Diogo - Monitoria rodolfo]]"
 competencias: ["[[Formulação de caso]]", "[[Articulação teoria-prática]]", "[[Interpretação]]", "[[Relação terapêutica]]", "[[Direção do tratamento]]", "[[Intervenção]]", "[[Feedback clínico]]"]
 abordagens: ["[[Análise do comportamento]]", "[[Gestalt-terapia]]", "[[Abordagem centrada na pessoa]]", "[[Terapias contextuais]]", "[[Psicanálise freudiana]]"]
 dinamicas: ["[[Dinâmica - Criatividade clínica]]"]
-conceitos: ["[[Criatividade clínica]]", "[[Psicologia comparada]]", "[[Lócus de avaliação]]", "[[Congruência]]", "[[Autenticidade]]", "[[Análise funcional]]", "[[Punição]]", "[[Ambiente invalidante]]", "[[Controle pela audiência]]", "[[Discriminação de sentimentos]]", "[[Audiência não punitiva]]", "[[Awareness]]", "[[Pareamento de estímulos]]", "[[Generalização de estímulos]]", "[[Estágios de mudança]]", "[[Aliança terapêutica]]", "[[Cadeira vazia]]", "[[Figura e fundo]]"]
+conceitos: ["[[Criatividade clínica]]", "[[Psicologia comparada]]", "[[Lócus de avaliação]]", "[[Congruência]]", "[[Autenticidade]]", "[[Análise funcional]]", "[[Punição]]", "[[Ambiente invalidante]]", "[[Controle pela audiência]]", "[[Discriminação de sentimentos]]", "[[Audiência não punitiva]]", "[[Awareness]]", "[[Pareamento de estímulos]]", "[[Generalização]]", "[[Confronto terapêutico]]", "[[Estágios de mudança]]", "[[Aliança terapêutica]]", "[[Cadeira vazia]]", "[[Figura e fundo]]"]
 autores: ["[[Fritz Perls]]"]
 tags: [allos/monitoria, competencia/formulacao-de-caso, competencia/teoria-pratica, competencia/interpretacao, competencia/relacao-terapeutica, competencia/direcao-do-tratamento, competencia/intervencao, competencia/feedback-clinico, abordagem/analise-do-comportamento, abordagem/gestalt, abordagem/acp, abordagem/contextuais, abordagem/psicanalise]
 aliases: ["Monitoria Diogo - Monitoria rodolfo", "Monitoria 13 - Diogo"]
@@ -239,7 +239,8 @@ Uma participante sugere a noção gestáltica de **figura e fundo**: como o "fun
 - [[Audiência não punitiva]] — o terapeuta como uma audiência nova, que reforça o contato genuíno (FAP).
 - [[Awareness]] — tomada de consciência na Gestalt, sugerida como tradução do trabalho de discriminação; ampliada ao apontar incoerências entre corpo e discurso.
 - [[Pareamento de estímulos]] — quando pedir ou expressar ficou associado a sentimentos ruins, entrar em contato já dói; a tarefa é retirar o valor aversivo.
-- [[Generalização de estímulos]] — comportar-se do mesmo modo diante de estímulos parecidos; operante (ações) ou respondente (sentimentos). O terapeuta, como pessoa, pode evocar as reações dirigidas a outras audiências.
+- [[Generalização]] — comportar-se do mesmo modo diante de estímulos parecidos; operante (ações) ou respondente (sentimentos). O terapeuta, como pessoa, pode evocar as reações dirigidas a outras audiências.
+- [[Confronto terapêutico]] — provocar o paciente para tirá-lo do "personagem" (como Perls com Gloria); funcionou com outro paciente do monitorado, mas, com histórico de invalidação, pode reproduzir o que o paciente vive fora.
 - [[Estágios de mudança]] — a paciente talvez ainda não veja a questão como problema a mudar, o que explicaria a pouca abertura.
 - [[Aliança terapêutica]] — o vínculo existe (a paciente continua vindo), mas ainda não permite certas conversas.
 - [[Cadeira vazia]] — técnica gestáltica sugerida no chat para uma conversa simbólica com a mãe.

@@ -228,7 +228,7 @@ Um participante traz um episódio cotidiano (uma pessoa muda a aparência às pr
 - **Admite o que não sabe** (não conhecia mediação semiótica). {{ts:mon-22@1:14:19}}
 - **Fecha com "para que serve isso"**, ligando a comparação à efetividade clínica. {{ts:mon-22@1:20:41}}
 
-**Comparação com Alan.** Alan também treina "atender com várias almas" (ver [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]]), mas sempre ancorado num material clínico e num monitorado, com uma ferramenta escolhida de antemão. Aqui Diogo, sem caso, faz psicologia comparada no nível dos **fundamentos**, com o grupo todo e em tom de roda de conversa. O improviso (plano B montado na hora), a participação do facilitador como "mais uma abordagem" e a abertura para discordar sem fechar a questão são marcas de Diogo nesta série; a recusa de sínteses fáceis ("é tudo igual") aproxima-o da insistência de Alan em precisão conceitual.
+**Comparação com Alan.** Alan também treina "atender com várias almas" (ver [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]]), mas sempre ancorado num material clínico e num monitorado, com uma ferramenta escolhida de antemão. Aqui Diogo, sem caso, faz psicologia comparada no nível dos **fundamentos**, com o grupo todo e em tom de roda de conversa. O improviso (plano B montado na hora, como também acontece no início de [[Monitoria 19 - Diogo - Empatia com paciente resistente]]), a participação do facilitador como "mais uma abordagem" e a abertura para discordar sem fechar a questão são marcas de Diogo nesta série; a recusa de sínteses fáceis ("é tudo igual") aproxima-o da insistência de Alan em precisão conceitual.
 
 ## Conceitos-chave
 
@@ -311,7 +311,7 @@ Um participante traz um episódio cotidiano (uma pessoa muda a aparência às pr
 
 ## Relacionados
 
-- [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] (tradução entre abordagens sobre um caso) · [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] · [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]]
+- [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] (tradução entre abordagens sobre um caso) · [[Monitoria 19 - Diogo - Empatia com paciente resistente]] (monitoria de Diogo sobre empatia, tema previsto aqui) · [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] · [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]]
 - [[Articulação teoria-prática]] · [[Escuta clínica]] · [[Desenvolvimento profissional]]
 - [[Psicologia comparada]] · [[Psicanálise freudiana]] · [[Psicologia analítica junguiana]] · [[Análise do comportamento]] · [[Psicologia sócio-histórica]]
 - [[Alan 04 - Cosmovisão e clínica 1]] · [[Alan 05 - Cosmovisão e clínica 2]] · [[Alan 08 - Escuta em fenomenologia]] · [[Alan 09 - Escuta em psicanálise]] · [[Alan 10 - Escuta em sistêmica]]

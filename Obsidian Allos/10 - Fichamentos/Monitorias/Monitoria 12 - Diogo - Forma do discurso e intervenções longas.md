@@ -11,8 +11,8 @@ duracao: "0:45:46"
 transcricao: "[[12 - Monitoria Diogo - Monitoria Ângelo]]"
 competencias: ["[[Escuta clínica]]", "[[Interpretação]]", "[[Intervenção]]", "[[Construção frasal]]", "[[Psicoeducação]]", "[[Relação terapêutica]]", "[[Feedback clínico]]", "[[Pessoa do terapeuta]]"]
 abordagens: ["[[Abordagem centrada na pessoa]]", "[[Psicologia analítica junguiana]]"]
-dinamicas: ["[[Dinâmica - Leitura comentada de sessão simulada]]"]
-conceitos: ["[[Impressão clínica]]", "[[Forma e conteúdo do discurso]]", "[[Racionalização]]", "[[Resistência]]", "[[Antihermenêutica]]", "[[Espelhamento]]", "[[Metáfora terapêutica]]", "[[Compartilhamento de impressões]]", "[[Congruência]]", "[[Equação pessoal]]", "[[Introversão]]", "[[Paciente simulado]]"]
+dinamicas: ["[[Dinâmica - Leitura comentada do atendimento simulado]]"]
+conceitos: ["[[Impressão clínica]]", "[[Forma e conteúdo]]", "[[Racionalização]]", "[[Resistência]]", "[[Antihermenêutica]]", "[[Espelhamento]]", "[[Metáfora terapêutica]]", "[[Compartilhamento de impressões]]", "[[Congruência]]", "[[Equação pessoal]]", "[[Introversão]]", "[[Paciente simulado por inteligência artificial]]"]
 autores: ["[[Carl Rogers]]", "[[Fiódor Dostoiévski]]", "[[Albert Camus]]"]
 tags: [allos/monitoria, competencia/escuta, competencia/interpretacao, competencia/intervencao, competencia/construcao-frasal, competencia/psicoeducacao, competencia/relacao-terapeutica, competencia/feedback-clinico, competencia/pessoa-do-terapeuta, abordagem/acp, abordagem/junguiana]
 aliases: ["Monitoria Diogo - Monitoria Ângelo", "Monitoria 12 - Diogo"]
@@ -29,7 +29,7 @@ aliases: ["Monitoria Diogo - Monitoria Ângelo", "Monitoria 12 - Diogo"]
 
 ## Resumo
 
-Monitoria curta (cerca de 45 minutos, porque Diogo tinha um atendimento logo depois) no formato de acompanhamento individual. Um terapeuta em formação traz uma sessão que fez por texto com o paciente simulado da Allos e a lê em voz alta; Diogo interrompe a cada intervenção para discutir. A uma participante recém-chegada, Diogo explica o formato: como o encontro é aberto a pessoas de fora e a quem ainda não é terapeuta, **não se discutem casos reais**; por isso a equipe desenvolveu uma ferramenta de aprimoramento clínico, um chatbot que simula um paciente, "programado com histórico e um jeito de se comunicar", e a monitoria serve para discutir esses atendimentos "no nível mais micro da sessão": fala e escuta {{ts:mon-12@0:01:46}}. O caso é o do "homem ridículo", o mesmo personagem atendido por outra terapeuta na semana anterior e também discutido por Alan em [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]].
+Monitoria curta (cerca de 45 minutos, porque Diogo tinha um atendimento logo depois) no formato de acompanhamento individual. Um terapeuta em formação traz uma sessão que fez por texto com o paciente simulado da Allos e a lê em voz alta; Diogo interrompe a cada intervenção para discutir. A uma participante recém-chegada, Diogo explica o formato: como o encontro é aberto a pessoas de fora e a quem ainda não é terapeuta, **não se discutem casos reais**; por isso a equipe desenvolveu uma ferramenta de aprimoramento clínico, um chatbot que simula um paciente, "programado com histórico e um jeito de se comunicar", e a monitoria serve para discutir esses atendimentos "no nível mais micro da sessão": fala e escuta {{ts:mon-12@0:01:46}}. O caso é o do "homem ridículo", o mesmo personagem atendido por outra terapeuta nas monitorias anteriores de Diogo (provavelmente [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]], em que ela lia e ele parava "sem levantar um tema específico"; ver também [[Monitoria 19 - Diogo - Empatia com paciente resistente]]) e discutido por Alan em [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]].
 
 A primeira metade é de **leitura do discurso**. Diogo pede a impressão geral e separa **impressão** de **hipótese**, pede os elementos do texto que sustentam a impressão e discute se a resposta do paciente tem uma "construção lógica" ou se é racionalização e caracterização erudita, pedindo ao monitorado que defina o que chama de "lógica". O momento-chave vem quando o monitorado admite que só consegue "fantasiar" genericamente sobre a vida do paciente e atribui isso ao próprio estilo introvertido. Diogo transforma a dificuldade em dado clínico: até ali o paciente não disse qual é o problema; **a ausência de especificação já é um dado, e a forma vira conteúdo** {{ts:mon-12@0:22:43}}.
 
@@ -70,7 +70,7 @@ O encontro termina antes de ler como o paciente respondeu a essa intervenção. 
 | {{ts:mon-12@0:13:41}} | Discussão | Construção lógica × racionalização; "o que você chama de lógica?" | Precisão terminológica e evidência textual |
 | {{ts:mon-12@0:20:27}} | Discussão | "Você consegue ver conteúdo?"; fantasia genérica do monitorado; a forma vira conteúdo | Converter a dificuldade do terapeuta em dado clínico |
 | {{ts:mon-12@0:25:08}} | Feedback | Resposta à metáfora; a intervenção explorou o "soterramento"? Fuga, devolução para o terapeuta, resistência; comentário do chat | Checar a continuidade entre intervenções |
-| {{ts:mon-12@0:28:05}} | Demonstração | Intervenção longa: xadrez, livro de regras, "atitude quase infantil" | Material para a discussão central |
+| {{ts:mon-12@0:27:56}} | Demonstração | Intervenção longa: xadrez, livro de regras, "atitude quase infantil" | Material para a discussão central |
 | {{ts:mon-12@0:29:05}} | Combinados | Diogo envia o formulário de presença para avaliação do encontro | Coleta de feedback sobre o formato |
 | {{ts:mon-12@0:30:19}} | Feedback | Por que tão grande? Psicoeducação × espelho; os três recursos da intervenção | Classificar corretamente os recursos |
 | {{ts:mon-12@0:33:23}} | Feedback | Intenção: "trazer para jogar"; metáfora ampliadora; sugestão de versão curta | Ligar forma e intenção |
@@ -122,7 +122,7 @@ O monitorado explica que a intenção era trazer o paciente "para o jogo", para 
 
 ## Dinâmica(s)
 
-### [[Dinâmica - Leitura comentada de sessão simulada]]
+### [[Dinâmica - Leitura comentada do atendimento simulado]]
 - **Objetivo:** examinar no nível micro (fala a fala) a escuta e as intervenções de um terapeuta em formação, usando um atendimento feito com paciente simulado por IA.
 - **Competência treinada:** [[Escuta clínica]], [[Interpretação]], [[Intervenção]], [[Construção frasal]]
 - **Configuração:** um monitorado, supervisor e poucos ouvintes (três ou quatro pessoas); online, com o texto da sessão projetado na tela.
@@ -208,7 +208,7 @@ O monitorado explica que a intenção era trazer o paciente "para o jogo", para 
 ## Conceitos-chave
 
 - [[Impressão clínica]] — percepção geral que o discurso do paciente produz; distinta das hipóteses que a explicariam e sempre ancorada em elementos do texto.
-- [[Forma e conteúdo do discurso]] — o "como" o paciente fala (abstrato, erudito, sem especificar o problema) pode tornar-se o próprio conteúdo clínico.
+- [[Forma e conteúdo]] — o "como" o paciente fala (abstrato, erudito, sem especificar o problema) pode tornar-se o próprio conteúdo clínico.
 - [[Racionalização]] — justificar e naturalizar um estado ("é um dado do problema") com linguagem lógica ou erudita, sem uma cadeia causal real.
 - [[Resistência]] — afastamento do paciente em relação a um tema que o implica; primeira hipótese diante de desvios e devoluções da pergunta.
 - [[Antihermenêutica]] — evocada pelo monitorado para ler a fuga do paciente como algo que ele não quer tocar.
@@ -218,7 +218,7 @@ O monitorado explica que a intenção era trazer o paciente "para o jogo", para 
 - [[Congruência]] — lembrada via Rogers: o terapeuta se coloca no campo com a própria experiência.
 - [[Equação pessoal]] — o estilo do terapeuta (aqui, a tendência a abstrair) interfere no que ele consegue ver do paciente.
 - [[Introversão]] — termo junguiano usado pelo monitorado para explicar a própria tendência a abstrair em vez de captar especificidades.
-- [[Paciente simulado]] — chatbot de texto programado com história e estilo de comunicação, usado para treino e supervisão sem expor casos reais.
+- [[Paciente simulado por inteligência artificial]] — chatbot de texto programado com história e estilo de comunicação, usado para treino e supervisão sem expor casos reais.
 
 ## Frases para guardar
 
@@ -270,11 +270,13 @@ O monitorado explica que a intenção era trazer o paciente "para o jogo", para 
 - Espelho é sempre melhor do que psicoeducação? Em que quadros (ansiedade, psicoeducação sobre diagnóstico) a psicoeducação é indispensável?
 - Como distinguir, na prática, resistência de um estilo discursivo abstrato que é só traço de personalidade?
 - O paciente simulado reproduz bem a resistência humana, ou tende a um estilo literário próprio do modelo de linguagem? Que vieses isso cria no treino?
+- Em [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]], com o mesmo paciente passivo, Diogo prefere intervenções abertas e "não óbvias" ao espelho que entrega a resposta; aqui diz preferir o espelho à psicoeducação. Como conciliar as duas posições? (Hipótese: o espelho é melhor que explicar, mas pior que uma pergunta aberta quando o paciente delega o pensar.)
 - Como seria ler a mesma sessão com a pergunta de Alan (qual teoria organiza essa fala?) e com a de Diogo (o que a forma do discurso mostra?)?
 
 ## Relacionados
 
 - [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] (mesmo paciente simulado, supervisão de Alan) · [[Monitoria 03 - Alan - Análise da linguagem do paciente]]
+- [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] e [[Monitoria 19 - Diogo - Empatia com paciente resistente]] (mesmo personagem, outra terapeuta, supervisão de Diogo)
 - [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] · [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]]
 - [[Escuta clínica]] · [[Interpretação]] · [[Intervenção]] · [[Construção frasal]] · [[Psicoeducação]] · [[Relação terapêutica]] · [[Feedback clínico]] · [[Pessoa do terapeuta]]
 - [[Alan 02 - Construção frasal]] · [[Alan 03 - Distância, intensidade, forma e conteúdo]] · [[Alan 16 - Intervenção]] · [[Alan 17 - Qualidade da intervenção]]
