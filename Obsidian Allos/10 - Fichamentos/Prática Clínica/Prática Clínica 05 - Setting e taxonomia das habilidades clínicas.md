@@ -378,12 +378,12 @@ Uma participante observa que na clínica infantil "quem traz é sempre outra pes
 - Quais são as justificativas teóricas históricas para a duração e a frequência das sessões nas diferentes abordagens?
 - Esboçar uma taxonomia dos silêncios clínicos: quem silencia, por quanto tempo, com que expressão, em que momento, com que função.
 - A atribuição do argumento do "treino às cegas" a "Hayes" precisa de confirmação: é Steven Hayes ou outro autor (ex.: Scott D. Miller, Tony Rousmaniere)?
-- Escuta, raciocínio e comunicação ficaram sem desenvolvimento. Verificar se aparecem nos encontros seguintes da série ([[06 - 5º Encontro]], [[07 - 6º Encontro]]).
+- Escuta, raciocínio e comunicação ficaram sem desenvolvimento. Verificar se aparecem nos encontros seguintes da série ([[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]], [[Prática Clínica 07 - Como treinar cada elemento da interpretação]]).
 
 ## Relacionados
 
 - Competências: [[Relação terapêutica]] · [[Pessoa do terapeuta]] · [[Escuta clínica]] · [[Intervenção]] · [[Direção do tratamento]] · [[Abertura e encerramento de sessão]] · [[Psicodiagnóstico]] · [[Articulação teoria-prática]] · [[Desenvolvimento profissional]]
 - Conceitos: [[Setting]] · [[Quebra de setting]] · [[Expertise clínica]] · [[Prática deliberada]] · [[Psicologia baseada em medidas]] · [[Aliança terapêutica]] · [[Máximas clínicas]]
 - Abordagens: [[Abordagem centrada na pessoa]] · [[Psicanálise freudiana]] · [[Psicologia analítica junguiana]] · [[Terapias contextuais]] · [[Fenomenologia e existencialismo]]
-- Série Prática Clínica (transcrições): [[01 - 1º Encontro]] (linha progressiva; recomendado por Alan) · [[04 - 3° Encontro]] (encontro anterior) · [[06 - 5º Encontro]] (seguinte)
+- Série Prática Clínica: [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] (linha progressiva e simulador; recomendado por Alan) · [[Prática Clínica 02 - Atendimento ao vivo e ecos da palavra]] (atendimento ao vivo diante do grupo) · [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] (encontro anterior) · [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]] (seguinte)
 - Encontros do Alan: [[Alan 01 - Relação terapêutica tensionada]] (manejo de climões e rupturas) · [[Alan 18 - Terapia de casal]] (contraponto à tese "não existe terapia de casal")
