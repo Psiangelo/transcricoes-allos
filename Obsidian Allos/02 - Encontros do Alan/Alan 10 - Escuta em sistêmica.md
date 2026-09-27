@@ -11,7 +11,7 @@ duracao: "2:10:05"
 transcricao: "[[10 - Escuta em sistêmica]]"
 competencias: ["[[Escuta clínica]]", "[[Interpretação]]", "[[Aprofundamento]]", "[[Intervenção]]", "[[Construção frasal]]", "[[Psicoeducação]]", "[[Relação terapêutica]]", "[[Direção do tratamento]]", "[[Articulação teoria-prática]]"]
 abordagens: ["[[Terapia sistêmica]]", "[[Análise do comportamento]]", "[[Psicologia analítica junguiana]]", "[[Psicanálise freudiana]]", "[[Psicanálise lacaniana]]", "[[Terapia cognitivo-comportamental]]", "[[Gestalt-terapia]]", "[[Fenomenologia e existencialismo]]"]
-dinamicas: ["[[Dinâmica - Escutas]]", "[[Dinâmica - Intervenção em cadeia]]"]
+dinamicas: ["[[Dinâmica - Escuta em sistêmica]]", "[[Dinâmica - Intervenção em cadeia]]"]
 conceitos: ["[[Cibernética]]", "[[Propriedade emergente]]", "[[Princípio da parcimônia]]", "[[Razão como divisão]]", "[[Do obscuro ao mais obscuro]]", "[[Complexificação do problema]]", "[[Terapia comportamental de casal]]", "[[Associação livre]]", "[[Hipótese aberta]]", "[[Atendimento duplo]]", "[[Provocação clínica]]", "[[Metáfora clínica]]", "[[Método filológico]]", "[[Método comparativo]]", "[[Inflexão interpretativa]]", "[[Critérios de validade da interpretação]]", "[[Individuação]]", "[[Compensação]]", "[[Significante]]", "[[Pragmatismo]]", "[[Cosmovisão]]"]
 autores: ["[[B. F. Skinner]]", "[[William James]]", "[[Guilherme de Ockham]]", "[[Carl Jung]]", "[[Wilhelm Dilthey]]", "[[Friedrich Nietzsche]]", "[[Michel Foucault]]", "[[Émile Durkheim]]", "[[Charles Darwin]]", "[[Claude Lévi-Strauss]]", "[[Sigmund Freud]]", "[[Jacques Lacan]]", "[[Marie-Louise von Franz]]", "[[Jacob Levy Moreno]]"]
 tags: [allos/alan, competencia/escuta, competencia/interpretacao, competencia/aprofundamento, competencia/intervencao, competencia/construcao-frasal, competencia/psicoeducacao, competencia/relacao-terapeutica, competencia/direcao-do-tratamento, competencia/teoria-pratica, abordagem/sistemica, abordagem/analise-do-comportamento, abordagem/junguiana, abordagem/psicanalise, abordagem/lacan, abordagem/tcc, abordagem/gestalt, abordagem/fenomenologia]
@@ -143,7 +143,7 @@ Para Lacan, a cadeia significante não tem fim. Mesmo assim, há heurísticas:
 
 ## Dinâmica(s)
 
-### [[Dinâmica - Escutas]] — variante "escuta em sistêmica" com terapeuta coletivo
+### [[Dinâmica - Escuta em sistêmica]] (série "dinâmica das escutas", com terapeuta coletivo)
 - **Objetivo:** treinar a escuta de uma abordagem específica, aqui a sistêmica: fazer perguntas que **complexifiquem e enriqueçam** o caso (e não que o resolvam), conectando pontos distantes da narrativa. Se der certo, o grupo vê como funciona; se der errado, vê "como não fazer" {{ts:alan-10@0:37:01}}.
 - **Competência treinada:** [[Escuta clínica]], [[Intervenção]], [[Construção frasal]], [[Aprofundamento]]
 - **Configuração:** online; o facilitador faz o paciente. Plano original: 1 ou 2 voluntários como terapeuta. Adaptação em tempo real: duas pessoas "principais", e **todo o grupo pode intervir como terapeuta** ("vocês todos são meu terapeuta"), levantando a mão para perguntar {{ts:alan-10@0:37:43}}.
@@ -416,8 +416,8 @@ Para Lacan, a cadeia significante não tem fim. Mesmo assim, há heurísticas:
 - Lacunas da transcrição: quem é o comentador "Heráclito" (?), onde está exatamente o trecho de Jung (vol. 18/1) citado e o que é a "dinâmica do filcioso" (?) para o método filológico?
 
 ## Relacionados
-- Encontros vizinhos: [[Alan 08 - Escuta em fenomenologia]] · [[Alan 09 - Escuta em psicanálise]] (encontro anterior, com TCC, análise do comportamento e psicanálise freudiana) · [[Alan 06 - Esquemas de aprofundamento]] (os "esquemas visuais de aprofundamento" anunciados para outro encontro) · [[Alan 02 - Construção frasal]] ("E B?") · [[Alan 16 - Intervenção]] · [[Alan 18 - Terapia de casal]] · [[Alan 04 - Cosmovisão e clínica 1]]
+- Encontros vizinhos: [[Alan 08 - Escuta em fenomenologia]] · [[Alan 09 - Escuta em psicanálise]] (provável encontro anterior: TCC, análise do comportamento e psicanálise freudiana) · [[Alan 06 - Esquemas de aprofundamento]] (os "esquemas visuais de aprofundamento" anunciados para outro encontro) · [[Alan 02 - Construção frasal]] ("E B?") · [[Alan 16 - Intervenção]] · [[Alan 18 - Terapia de casal]] · [[Alan 04 - Cosmovisão e clínica 1]]
 - Competências: [[Escuta clínica]] · [[Interpretação]] · [[Aprofundamento]] · [[Intervenção]] · [[Construção frasal]] · [[Psicoeducação]] · [[Relação terapêutica]] · [[Direção do tratamento]]
 - Abordagens: [[Terapia sistêmica]] · [[Análise do comportamento]] · [[Psicologia analítica junguiana]] · [[Psicanálise freudiana]] · [[Psicanálise lacaniana]]
 - Conceitos: [[Propriedade emergente]] · [[Cibernética]] · [[Método filológico]] · [[Inflexão interpretativa]] · [[Hipótese aberta]] · [[Atendimento duplo]] · [[Associação livre]] · [[Individuação]]
-- Dinâmicas: [[Dinâmica - Escutas]] · [[Dinâmica - Intervenção em cadeia]]
+- Dinâmicas: [[Dinâmica - Escuta em sistêmica]] · [[Dinâmica - Intervenção em cadeia]]

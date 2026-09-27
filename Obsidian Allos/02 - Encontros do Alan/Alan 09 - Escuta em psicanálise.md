@@ -138,6 +138,9 @@ Por fim, perguntado sobre sua abordagem, Alan diz que boa terapia constrói uma 
 
 ## Dinâmica(s)
 
+> [!tip] Família de dinâmicas
+> As três dinâmicas abaixo são variantes da escuta por abordagem (ver também [[Dinâmica - Escutas]], a variante sistêmica em [[Alan 10 - Escuta em sistêmica]], e [[Dinâmica - Escutar sem projetar]], a base fenomenológica em [[Alan 08 - Escuta em fenomenologia]]).
+
 ### [[Dinâmica - Escuta lacaniana]]
 - **Objetivo:** localizar, pelo ouvido, o ato falho: o ponto em que a língua trai a intenção.
 - **Competência treinada:** [[Escuta clínica]], [[Interpretação]]
@@ -371,4 +374,4 @@ Por fim, perguntado sobre sua abordagem, Alan diz que boa terapia constrói uma 
 - Encontros: [[Alan 08 - Escuta em fenomenologia]] · [[Alan 10 - Escuta em sistêmica]] · [[Alan 04 - Cosmovisão e clínica 1]] · [[Alan 05 - Cosmovisão e clínica 2]] · [[Alan 12 - Formulação de caso 1]] · [[Alan 14 - Priorização clínica 1]]
 - Competências: [[Escuta clínica]] · [[Interpretação]] · [[Direção do tratamento]] · [[Formulação de caso]] · [[Priorização clínica]] · [[Articulação teoria-prática]] · [[Relação terapêutica]]
 - Abordagens: [[Psicanálise lacaniana]] · [[Psicanálise freudiana]] · [[Análise do comportamento]] · [[Terapia cognitivo-comportamental]] · [[Fenomenologia e existencialismo]] · [[Terapia sistêmica]]
-- Dinâmicas: [[Dinâmica - Escuta lacaniana]] · [[Dinâmica - Escuta em análise do comportamento]] · [[Dinâmica - Escuta em TCC]]
+- Dinâmicas: [[Dinâmica - Escuta lacaniana]] · [[Dinâmica - Escuta em análise do comportamento]] · [[Dinâmica - Escuta em TCC]] · [[Dinâmica - Escutas]] · [[Dinâmica - Escutar sem projetar]]
