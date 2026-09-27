@@ -44,7 +44,7 @@ A segunda metade mostra **tonicidade e timing** com o clichê "como foi sua sema
 | {{ts:dicas-02@0:04:26}} | Teoria | Parêntese: espelhar não é repetir; é síntese e ampliação. | Corrigir uma regra aprendida na faculdade. |
 | {{ts:dicas-02@0:09:13}} | Teoria | Regras gerais: acusar em vez de descrever, explicitar a hipótese; domínio consciente da língua. | Generalizar a escada. |
 | {{ts:dicas-02@0:10:18}} | Demonstração | Tonicidade e timing com "como foi sua semana?"; psicoeducação explícita e implícita. | Mostrar que acento e momento mudam a intervenção. |
-| {{ts:dicas-02@0:16:35}} | Tarefa | Exercício no WhatsApp: reescrever respostas em várias versões de potência. | Transferir para o cotidiano. |
+| {{ts:dicas-02@0:16:47}} | Tarefa | Exercício no WhatsApp: reescrever respostas em várias versões de potência. | Transferir para o cotidiano. |
 | {{ts:dicas-02@0:18:32}} | Fechamento | Possível parte 3 (sintaxe, análise do discurso); convite a treinar em grupo na Allos. | Encerrar e abrir caminho de prática acompanhada. |
 
 ## Conteúdo teórico

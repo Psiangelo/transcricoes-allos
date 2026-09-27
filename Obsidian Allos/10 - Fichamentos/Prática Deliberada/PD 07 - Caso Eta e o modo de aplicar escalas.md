@@ -116,7 +116,7 @@ Os dois revisam juntos as transcrições. O supervisor **elogia antes** a explic
 
 O facilitador para e pergunta ao grupo o que isso evoca {{ts:pd-07@0:30:22}}:
 - Uma participante diz que a escala "não está sendo verdadeira".
-- Outra lembra o **"paciente bonzinho"**, conceito de um encontro anterior: o paciente diz que melhorou para agradar o terapeuta, sobretudo quem se preocupa muito com a opinião alheia, como pessoas ansiosas.
+- Em seguida aparece a lembrança do **"paciente bonzinho"**, conceito de um encontro anterior: o paciente diz que melhorou para agradar o terapeuta, sobretudo quem se preocupa muito com a opinião alheia, como pessoas ansiosas.
 - O facilitador dá o nome técnico, **efeito Hawthorne**: a tendência de alguém mudar o próprio comportamento na presença de outra pessoa. Com a gentileza, Eta "preparou o terreno" para receber notas acima do que realmente aconteceu.
 
 *(Nota do fichamento: o fenômeno descrito, a retribuição da gentileza, também se aproxima de desejabilidade social e reciprocidade; o curso usa "efeito Hawthorne" como guarda-chuva.)*
@@ -189,7 +189,7 @@ Um participante recém-chegado, estudante que atende em clínica-escola, conta q
   5. Voltar ao slide panorâmico para mostrar em que etapa do ciclo o caso está.
   6. Fechar com uma síntese do método e deixar o caso em aberto para o encontro seguinte.
 - **Como o facilitador dá feedback / critérios de qualidade:** valida a resposta ("ok, perfeito"), pede mais ("mas que mais? tem algo que a gente falou há umas duas semanas"), acolhe a contribuição mais elaborada e dá o nome técnico (efeito Hawthorne).
-- **O que aconteceu na prática:** diante da gentileza de Eta, uma participante disse que a escala "não estava sendo verdadeira". Outra lembrou o "paciente bonzinho" e explicou que pessoas preocupadas com a opinião alheia tendem a dizer que melhoraram para agradar. O facilitador fechou com o conceito {{ts:pd-07@0:30:22}}.
+- **O que aconteceu na prática:** diante da gentileza de Eta, a primeira resposta foi que a escala "não estava sendo verdadeira". Veio então a lembrança do "paciente bonzinho", e uma participante explicou que pessoas preocupadas com a opinião alheia tendem a dizer que melhoraram para agradar. O facilitador fechou com o conceito {{ts:pd-07@0:30:22}}.
 - **Variações e armadilhas:** o risco é virar monólogo, e o próprio facilitador avisa que haverá mais leitura que comentário. Nas pausas, dá para pedir hipóteses **antes** de mostrar a leitura do supervisor. *Sugestão (não feita no encontro):* pedir que cada participante reescreva, com as próprias palavras, o roteiro de introdução da escala e o leia em voz alta, como Eta fez.
 
 ## Dicas clínicas

@@ -24,7 +24,7 @@ aliases: ["6º Introdução a PD", "PD 06", "Metrificação em prática delibera
 > A prática deliberada é um ciclo (dados, supervisão, objetivo de aprendizagem, exercício, aplicação), e a mensuração é só a "tocha" desse ciclo: ilumina, mas não ensina a caminhar. O encontro mostra como transformar os escores das escalas em métricas (tamanho de efeito, efeito relativo, mudança clinicamente significativa, deterioração, desistência) e defende a posição da Allos de que os fundamentos clínicos podem ser treinados antes dos números e sem depender deles.
 
 > [!info] Ficha
-> **Facilitador:** não identificado na gravação (membro da equipe da Allos que conduz o curso; não é o Alan, a quem ele se refere em terceira pessoa) · **Duração:** 0:56:23 · **Formato:** Curso de PD (aula expositiva online com slides, grupo pequeno de 5 a 6 participantes) · **Competências:** [[Desenvolvimento profissional]], [[Feedback clínico]], [[Relação terapêutica]], [[Direção do tratamento]]
+> **Facilitador:** não identificado na gravação (membro da equipe da Allos que conduz o curso; não é o Alan, a quem ele se refere em terceira pessoa) · **Duração:** 0:56:23 · **Formato:** Curso de PD (aula expositiva online com slides, grupo pequeno, com 4 a 6 participantes) · **Competências:** [[Desenvolvimento profissional]], [[Feedback clínico]], [[Relação terapêutica]], [[Direção do tratamento]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=MHDlojceuEk) · **Transcrição:** [[06 - 6º Introdução a PD]]
 
 ## Resumo
