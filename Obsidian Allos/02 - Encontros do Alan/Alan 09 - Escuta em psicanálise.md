@@ -125,7 +125,7 @@ Por fim, perguntado sobre sua abordagem, Alan diz que boa terapia constrói uma 
 - "Não tenho muita abordagem." Ele não acha a abordagem necessária, embora quem domina uma faça um excelente trabalho. Ensinar todas é "uma vaidade": que o aluno de TCC consiga ler Deleuze. "**Boa terapia não funciona com abordagem**: você constrói uma psicologia nova para cada caso." Não é a posição institucional da Allos, que tem núcleos por abordagem. {{ts:alan-09@1:31:38}}
 - **Integração:** é mais fácil na interpretação do que na relação ou na intervenção. Não existe relação ao mesmo tempo psicanalítica e comportamental, mas usar uma ferramenta interpretativa psicanalítica numa análise funcional "não é absurdo". {{ts:alan-09@1:32:33}}
 - **Interpretar é uma ciência só**, seja um caso, uma questão do ENEM ou um fato histórico. Uma "interpretação psicanalítica" não é uma interpretação, porque chega à conclusão na premissa. {{ts:alan-09@1:33:25}}
-- O plano do ciclo é caricaturar a escuta de cada escola e depois confrontá-la com historiadores e juristas, "para entender que interpretar é muito mais aberto". Alan acrescenta que a TCC não é simplista: está no meio do caminho em dificuldade, e humanismo e ACP são mais fáceis. {{ts:alan-09@1:46:30}}
+- Plano do ciclo: caricaturar cada escola e depois confrontá-la com historiadores e juristas. A TCC, diz ele, não é simplista: está no meio do caminho (humanismo e ACP são mais fáceis). {{ts:alan-09@1:46:30}}
 
 ### Quadro comparativo do ciclo
 
@@ -180,7 +180,7 @@ Por fim, perguntado sobre sua abordagem, Alan diz que boa terapia constrói uma 
   - **Diferenciar fenômenos:** pressa ≠ expectativa frustrada. "Ratio, razão, divisão." {{ts:alan-09@0:53:56}}
   - **Linguagem do paciente:** "lidar com a fase" é melhor que "ansiedade", que levou o chat para frustração e insegurança. {{ts:alan-09@0:56:33}}
   - **Sem projeção e sem muleta:** "não quero que vocês tenham o vício de pedir ao paciente para falar mais quando ele já falou o suficiente". {{ts:alan-09@0:46:19}}
-- **O que aconteceu na prática (anonimizado):** a narradora falou da reforma de um imóvel (gastos, sono, obra refeita). O raciocinador viu "dinheiro/risco" e depois uma "imagem idealizada da casa", criticada como projeção. O chat propôs "pedir para especificar", "trabalhar no agora", "controle", "expectativa", "pressa", e todas as propostas foram corrigidas. Uma participante chegou a "ansiedade para acabar logo", e Alan considerou que ela acertou o alvo. Ao conferir, a narradora desmentiu vários fatos inventados pelo grupo. As direções finais foram **dinheiro**, **"lidar com a fase"** e **"equilíbrio/tranquilidade"**; esses dois últimos termos ninguém lembrou. {{ts:alan-09@1:00:11}}
+- **O que aconteceu na prática (anonimizado):** a narradora falou da reforma de um imóvel (gastos, sono, obra refeita). O raciocinador viu "dinheiro/risco" e depois uma "imagem idealizada da casa", criticada como projeção. Propostas do chat ("pedir para especificar", "controle", "pressa") foram corrigidas; "ansiedade para acabar logo" acertou o alvo. A narradora desmentiu vários fatos inventados pelo grupo. As direções finais foram **dinheiro**, **"lidar com a fase"** e **"equilíbrio/tranquilidade"**; esses dois últimos termos ninguém lembrou. {{ts:alan-09@1:00:11}}
 - **Variações e armadilhas:** se a escuta fenomenológica do grupo for fraca ("todo mundo projetou"), o exercício desanda. Faça antes o exercício de **repetir o que a pessoa disse**. {{ts:alan-09@0:44:14}} Reaproveite a mesma narrativa com a escuta de outra abordagem (Alan fez isso com a TCC). Tarefa de casa: "quando seu pai contar um problema, brinque de análise do comportamento". {{ts:alan-09@1:03:06}}
 
 ### [[Dinâmica - Escuta em TCC]]
@@ -213,11 +213,9 @@ Por fim, perguntado sobre sua abordagem, Alan diz que boa terapia constrói uma 
 - **Não se vicie em pedir mais informação, concretude, "corpo" ou "presente".** — *Por quê:* funcionam para tudo, logo são rasas; viram muleta. "Quase nunca é errado", mas o melhor é tirar a direção do que já foi dito. *Quando:* se o paciente já disse o suficiente. {{ts:alan-09@1:01:07}}
 - **Antes de interpretar, garanta que consegue repetir fielmente o que foi dito.** — *Por quê:* "não tem problema interpretar; o problema é mal interpretar". *Quando:* sempre. {{ts:alan-09@0:44:14}}
 - **Na TCC, pergunte "o que passou pela sua cabeça quando isso aconteceu?".** — *Por quê:* o fato não diz nada; a crença sobre o fato dá direção, qualidade e "gosto". *Quando:* sobretudo quando há vários temas sem prioridade. {{ts:alan-09@1:19:48}}
-- **Use a estrutura para priorizar.** — *Por quê:* a técnica converte escuta em ação mais facilmente. *Quando:* quando a escuta aberta gerou direções equivalentes. {{ts:alan-09@1:24:07}}
 - **Na TCC, compartilhe as anotações com o paciente.** — *Por quê:* no empirismo colaborativo, o objetivo é torná-lo terapeuta de si mesmo. *Quando:* ao longo das sessões. {{ts:alan-09@1:45:22}}
 - **Integre abordagens na interpretação, não na relação ou na intervenção.** — *Por quê:* relações de escolas opostas se chocam. *Quando:* em prática integrativa. {{ts:alan-09@1:32:33}}
 - **Ao usar escalas de 0 a 10, lembre que elas pressupõem acesso privilegiado.** — *Por quê:* outras escolas contestam que o paciente saiba quão bem está. *Quando:* ao escolher instrumentos. {{ts:alan-09@1:18:43}}
-- **Treine a escuta no cotidiano, "brincando" de uma abordagem.** — *Por quê:* aumenta o volume de prática. *Quando:* entre os encontros. {{ts:alan-09@1:03:06}}
 
 ## Teses e posicionamentos
 - **Tese:** A psicanálise é antihermenêutica; para Lacan, a língua trai o falante.
@@ -270,8 +268,7 @@ Por fim, perguntado sobre sua abordagem, Alan diz que boa terapia constrói uma 
 - **Retomada econômica.** Resume em 2 minutos e remete à gravação: "se não deu para pegar, volta na última meia hora do encontro". {{ts:alan-09@0:02:19}}
 - **Formato fixo anunciado.** "Primeiro explicação teórica, depois exerciciozinho prático", uma abordagem de cada vez. {{ts:alan-09@0:19:06}}
 - **Didática explicitada.** Usa sempre os mesmos exemplos paradigmáticos, "agressivos e visuais", com piada, porque "as pessoas lembram mais". Tenta deixar interessante até a pergunta ruim de um aluno. {{ts:alan-09@0:05:44}}
-- **Protege o exercício.** "Quem conhece o exemplo não coloca a resposta no chat." {{ts:alan-09@0:06:46}}
-- **Legitima o erro.** "Pode chutar, não paga nada; vocês errando é muito bom." {{ts:alan-09@0:09:28}}
+- **Protege o exercício e legitima o erro.** "Quem conhece o exemplo não responde no chat"; "pode chutar, vocês errando é muito bom". {{ts:alan-09@0:06:46}} {{ts:alan-09@0:09:28}}
 - **Erro vira mini-aula.** Anuncia "vou fazer um parêntese", nomeia a operação (interpretação intuitiva), reconhece o que ela tem de razoável e mostra por que não serve. {{ts:alan-09@0:09:42}}
 - **Ajusta a dificuldade em tempo real.** Reconta mais curto e extrai a lição do próprio ajuste. {{ts:alan-09@0:11:39}}
 - **Sonda com mãos levantadas.** "Quem nunca ouviu falar da navalha?"; "pode falar 'não', que eu dou mais exemplo". {{ts:alan-09@0:21:27}}
@@ -343,7 +340,6 @@ Por fim, perguntado sobre sua abordagem, Alan diz que boa terapia constrói uma 
 - **Reels · abordagens-em-dialogo:** "TCC × análise do comportamento: o que é meio e o que é fim?" Corte sugerido: {{ts:alan-09@1:49:39}}–{{ts:alan-09@1:51:38}}
 - **Carrossel · formacao-do-psicologo:** "Você interpreta ou empresta a sua alma ao paciente?" → interpretação intuitiva × escuta ancorada na fala. Corte sugerido: {{ts:alan-09@0:09:42}}–{{ts:alan-09@0:11:39}}
 - **Reels · abordagens-em-dialogo:** "Uma 'interpretação psicanalítica' não é interpretação" → quem escolhe a escola antes já escolheu a conclusão. Corte sugerido: {{ts:alan-09@1:33:25}}–{{ts:alan-09@1:34:18}}
-- **Stories · bastidores-dos-grupos:** "Aqui, discordar do facilitador é bem-vindo" → enquete sobre a escuta em TCC e o trecho em que Alan dá razão e faz o disclaimer (sem expor a participante). Corte sugerido: {{ts:alan-09@1:37:24}}–{{ts:alan-09@1:38:30}}
 
 ## Para replicar este encontro
 **Pré-requisito:** o grupo já ter treinado a escuta fenomenológica (repetir fielmente o que foi dito) e ter visto a noção de antihermenêutica ([[Alan 08 - Escuta em fenomenologia]]).
