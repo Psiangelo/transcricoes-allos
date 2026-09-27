@@ -1,0 +1,721 @@
+{
+  "id": "pd-04",
+  "nota": "PD 04 - Linha de base e medidas de resultado",
+  "pasta": "10 - Fichamentos/Prática Deliberada",
+  "titulo": "Linha de base e medidas de resultado",
+  "serie": "Introdução à Prática Deliberada",
+  "formato": "Curso de PD",
+  "facilitadores": [
+    "Bernardo"
+  ],
+  "resumo": "Quarto encontro, depois de duas semanas de intervalo, com o facilitador doente e uma aula mais curta. O tema é a linha de base, a fotografia de onde o terapeuta está e ponto de partida de qualquer plano de melhora, ilustrada com as estatísticas do esporte. Como o julgamento clínico sofre do viés de superioridade ilusória, que não se corrige com a experiência, é preciso medir. Mas medir exige um critério de melhora, e o grupo debate sem consenso. Segue-se a história dos critérios: fidelidade à teoria (criticada porque a teoria é instrumento e a abordagem pesa pouco), depois a redução de sintomas após Eysenck (1952) e o DSM (criticada pela comorbidade como regra e pelo reducionismo), depois o bem-estar geral (a escala global de funcionamento), que também é inespecífico. A Allos critica o Better Results por não medir a demanda singular e pretende criar instrumentos. O encontro apresenta o OQ-45 e mostra na tela a ORS (início da sessão) e a SRS (fim da sessão, aliança segundo Bordin); números só viram informação com formulação de caso e com dados sobre o próprio terapeuta. Termina com o grupo escolhendo aulas de 50 minutos.",
+  "em_uma_frase": "Sem linha de base não há prática deliberada, e como o terapeuta se superestima, ela precisa de medida; mas o que conta como melhora em psicoterapia ainda é um debate aberto (teoria, sintoma, bem-estar, demanda singular).",
+  "competencias": [
+    "Desenvolvimento profissional",
+    "Feedback clínico",
+    "Relação terapêutica",
+    "Psicodiagnóstico",
+    "Formulação de caso",
+    "Articulação teoria-prática"
+  ],
+  "abordagens": [
+    "Terapias contextuais"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:01",
+      "bloco": "Abertura",
+      "descricao": "Avisa que está doente e com menos energia; promete um gostinho concreto de como começar a praticar.",
+      "funcao": "Ajustar expectativas com transparência.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:01:15",
+      "bloco": "Retomada",
+      "descricao": "Duas semanas sem encontro; recapitula os quatro pilares; anuncia a linha de base.",
+      "funcao": "Reancorar o grupo.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:02:18",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta-metáfora: perdido num lugar desconhecido, o que você precisa saber?",
+      "funcao": "Construir a intuição de ponto de partida.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:02:36",
+      "bloco": "Teoria",
+      "descricao": "Linha de base como fotografia atual; estatísticas no esporte; caso do jogador Andre Drummond nos lances livres.",
+      "funcao": "Mostrar que os dados orientam o treino.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:05:48",
+      "bloco": "Teoria",
+      "descricao": "Viés de superioridade ilusória dos clínicos.",
+      "funcao": "Justificar por que o julgamento próprio não basta.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:07:58",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta sobre ferramentas para a linha de base: feedback, grupo de prática, supervisão, ORS e SRS, escalas da terapia de aceitação e compromisso.",
+      "funcao": "Levantar o repertório do grupo.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:09:49",
+      "bloco": "Teoria",
+      "descricao": "Mensuração: antes indisponível, hoje há medidas bem estabelecidas; resistência cultural a medir.",
+      "funcao": "Legitimar a mensuração.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:12:03",
+      "bloco": "Discussão",
+      "descricao": "Qual o critério de melhora? Teoria, DSM, percepção do paciente, relação terapêutica, novos incômodos; debate em aberto.",
+      "funcao": "Problematizar antes da história.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:17:44",
+      "bloco": "Teoria",
+      "descricao": "Fidelidade à teoria como critério histórico; teoria como instrumento e não espelho; abordagem pesa pouco no resultado.",
+      "funcao": "Mostrar a fragilidade do critério teórico.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:19:57",
+      "bloco": "Teoria",
+      "descricao": "Eysenck (1952); DSM; modelo médico da faringite; redução de sintomas como critério.",
+      "funcao": "Explicar a origem do critério sintomático.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:22:14",
+      "bloco": "Discussão",
+      "descricao": "O que é sintoma? Crítica à comorbidade como regra e aos sintomas transdiagnósticos; exemplo de paciente cuja ansiedade persiste mas a vida melhora.",
+      "funcao": "Criticar o reducionismo sintomático.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:27:02",
+      "bloco": "Teoria",
+      "descricao": "Bem-estar e qualidade de vida; escala global de funcionamento (DSM-III); bem-estar como preditor de saúde e desempenho.",
+      "funcao": "Apresentar a alternativa e seus fundamentos.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:29:17",
+      "bloco": "Teoria",
+      "descricao": "Limites do bem-estar geral; crítica da Allos ao Better Results; projeto de instrumentos próprios.",
+      "funcao": "Posicionamento institucional.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:32:11",
+      "bloco": "Teoria",
+      "descricao": "Instrumentos mais usados: OQ-45, ORS e SRS.",
+      "funcao": "Nomear as ferramentas.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:33:29",
+      "bloco": "Discussão",
+      "descricao": "Como vocês veem a relação terapêutica? Confiança, identificação, não impor conclusões; relação pesa mais que a abordagem.",
+      "funcao": "Justificar a medida da aliança.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:39:11",
+      "bloco": "Dúvidas",
+      "descricao": "Metacomentário sobre a aula reduzida; posso traduzir a ORS e a SRS? Uso privado sim; uso público ou em pesquisa não.",
+      "funcao": "Resolver dúvida prática e ética.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:41:10",
+      "bloco": "Demonstração",
+      "descricao": "Mostra a ORS e a SRS na tela: quando aplicar, itens, pontuação em centímetros; número não fala por si.",
+      "funcao": "Tornar concreto o instrumento.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:46:53",
+      "bloco": "Fechamento",
+      "descricao": "Dados viram informação com formulação de caso e com dados sobre si (supervisão, gravação, roleplay); próximo encontro: desafios da mensuração.",
+      "funcao": "Síntese e continuidade.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:49:47",
+      "bloco": "Feedback",
+      "descricao": "Pede feedback sobre a duração (50 min ou 1h30); o grupo escolhe 50 min e ele adota; questão das gravações para potenciais associados.",
+      "funcao": "Adaptar o formato ao grupo.",
+      "duracao_min": 2
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Linha de base",
+      "definicao": "O ponto de partida do terapeuta: uma fotografia atual de como atende, dos resultados, dos casos e da postura. Sem ela é impossível traçar um plano de melhora ou comparar a evolução.",
+      "exemplo": "Perdido num lugar desconhecido, é preciso saber onde se está antes de chegar a algum lugar; as estatísticas de jogo que orientam os treinadores.",
+      "abordagem": "",
+      "ts": "0:02:36"
+    },
+    {
+      "nome": "Viés de superioridade ilusória",
+      "definicao": "Os clínicos acreditam ser mais eficazes do que são, subestimam cronicamente os clientes que pioram e pensam que estão melhorando quando não estão. O viés não se corrige com tempo nem com experiência.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:06:51"
+    },
+    {
+      "nome": "Psicologia baseada em medidas",
+      "definicao": "Uso de instrumentos para coletar dados sobre a própria prática e os resultados, porque o julgamento sozinho é enviesado. É culturalmente malvista na psicologia brasileira, mas necessária para estabelecer a linha de base e comparar ao longo do tempo.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:10:50"
+    },
+    {
+      "nome": "Critérios de melhora em psicoterapia",
+      "definicao": "O construto que define o resultado a medir. Não há consenso: teoria, sintoma, bem-estar, percepção do paciente, mudança na relação terapêutica, demanda singular. A falta de consenso atrapalha a generalização das medidas.",
+      "exemplo": "Novos incômodos do paciente podem ser sinal de evolução, a depender.",
+      "abordagem": "",
+      "ts": "0:12:03"
+    },
+    {
+      "nome": "Fidelidade ao modelo teórico",
+      "definicao": "O critério dos primeiros cem anos: bons resultados eram o que o terapeuta dizia que eram, e a preocupação central era aplicar fielmente a teoria e o método. É criticado porque a abordagem tem pouco peso no resultado.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:17:44"
+    },
+    {
+      "nome": "Primazia do fenômeno clínico",
+      "definicao": "O fenômeno clínico vem antes de qualquer coisa. A teoria tem valor instrumental e não é espelho da realidade; como abstração, enquadra e pode perder detalhes importantes.",
+      "exemplo": "Tomar a teoria como espelho leva a querer encaixar todos os pacientes nela.",
+      "abordagem": "",
+      "ts": "0:18:55"
+    },
+    {
+      "nome": "Redução de sintomas",
+      "definicao": "Critério adotado depois da revisão de Eysenck e da criação do DSM, no modelo da medicina: o sucesso é a eliminação do sintoma. Perdura até hoje em centenas de escalas, mas é criticado como reducionista.",
+      "exemplo": "Na faringite, a opinião do clínico importa pouco: a prova da cura é a eliminação da infecção.",
+      "abordagem": "",
+      "ts": "0:21:13"
+    },
+    {
+      "nome": "DSM",
+      "definicao": "Quadro diagnóstico comum criado para dar alvos de tratamento precisos e facilitar a determinação da eficácia. Criticado porque apresenta a comorbidade como regra e porque sintomas atravessam quadros.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:21:13"
+    },
+    {
+      "nome": "Comorbidade",
+      "definicao": "Quando é a regra e não a exceção, sinaliza que as fronteiras entre os transtornos estão mal estabelecidas e leva a questionar a construção do manual.",
+      "exemplo": "Pacientes com e sem diagnóstico fechado, com as mesmas dificuldades, são trabalhados da mesma forma.",
+      "abordagem": "",
+      "ts": "0:23:30"
+    },
+    {
+      "nome": "Bem-estar geral",
+      "definicao": "Critério que olha o funcionamento individual, social e ocupacional e a qualidade de vida. Prediz exercício, menos álcool e tabaco, saúde, longevidade, objetivos, relacionamentos e desempenho no trabalho. É inespecífico diante de melhoras idiossincráticas.",
+      "exemplo": "Paciente cuja ansiedade persiste, mas que melhorou em muitas áreas da vida.",
+      "abordagem": "",
+      "ts": "0:28:11"
+    },
+    {
+      "nome": "Escala de avaliação global de funcionamento",
+      "definicao": "Escala de funcionamento que, segundo a aula, foi introduzida no DSM-III; exemplo do critério de bem-estar. Para ser significativa, a mudança deve ser uma melhora real no funcionamento individual, social e ocupacional.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:28:11"
+    },
+    {
+      "nome": "Outcome Questionnaire 45",
+      "definicao": "Questionário de 45 itens sobre bem-estar e, em parte, sintomas. Segundo o facilitador, é o instrumento de resultado mais usado hoje e tem versão validada em português.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:32:11"
+    },
+    {
+      "nome": "Outcome Rating Scale",
+      "definicao": "Escala de bem-estar aplicada no início de cada sessão. O paciente pensa na semana anterior e marca um X em quatro linhas (individual, interpessoal, social e geral); a pontuação é a distância em centímetros até o polo esquerdo, somada nas quatro linhas.",
+      "exemplo": "Mostrada na tela; não é uma escala de 0 a 10, é um contínuo.",
+      "abordagem": "",
+      "ts": "0:41:10"
+    },
+    {
+      "nome": "Session Rating Scale",
+      "definicao": "Escala de aliança aplicada no fim de cada sessão, baseada na definição de Bordin: qualidade do vínculo e concordância sobre objetivos, métodos e abordagem geral. A pontuação é idêntica à da ORS.",
+      "exemplo": "Polos como não me senti escutado, compreendido e respeitado / me senti escutado, compreendido e respeitado; a abordagem aqui é o modo como o terapeuta se aproxima, não a orientação teórica.",
+      "abordagem": "",
+      "ts": "0:43:25"
+    },
+    {
+      "nome": "Aliança terapêutica",
+      "definicao": "A relação de confiança e colaboração entre paciente e terapeuta; segundo Bordin, vínculo mais acordo sobre objetivos e métodos. Pesa mais no resultado do que a orientação teórica e às vezes falha por culpa do terapeuta.",
+      "exemplo": "Pessoas que procuram psicólogo cristão por identificação (comentário de participante).",
+      "abordagem": "",
+      "ts": "0:35:59"
+    },
+    {
+      "nome": "Fatores comuns",
+      "definicao": "Aqui, a ideia apoiada em estudos de tamanho de efeito de que o modo de estabelecer a relação e de fazer a terapia importa mais do que a abordagem escolhida.",
+      "exemplo": "Pode ser psicanalista, TCC, junguiano, humanista: sem boa relação, não lida bem com o caso.",
+      "abordagem": "",
+      "ts": "0:19:57"
+    },
+    {
+      "nome": "Prática deliberada",
+      "definicao": "Neste encontro, o ponto de entrada prático do método: estabelecer a linha de base do caso e do próprio terapeuta para saber o que melhorar.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:01:15"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Pergunta disparadora",
+      "objetivo": "Fazer o grupo construir o conceito (linha de base, critério de melhora, relação terapêutica) antes do slide e trazer à tona crenças prévias sobre medir.",
+      "competencias": [
+        "Desenvolvimento profissional",
+        "Articulação teoria-prática"
+      ],
+      "configuracao": "Grupo todo, online, falas por microfone e chat (o facilitador lê o chat em voz alta).",
+      "tempo": "2 a 6 minutos por pergunta",
+      "materiais": "Slides.",
+      "consigna": "Se você está perdido num local desconhecido mas quer chegar em algum lugar, o que precisa saber? Que ferramentas vocês imaginam para a linha de base? Que critérios usam para avaliar a melhora do paciente? Como enxergam a relação terapêutica: dá para estabelecê-la com todo mundo?",
+      "passos": [
+        "Fazer a pergunta, às vezes como metáfora.",
+        "Acolher e ler as respostas do chat.",
+        "Problematizar cada resposta com nova pergunta.",
+        "Declarar o estado do debate (em aberto, sem consenso).",
+        "Apresentar o que o livro diz."
+      ],
+      "feedback": "Elogia, usa a resposta como definição e evita adiantar o conteúdo; problematiza sem desqualificar (por exemplo: o paciente tem capacidade de atestar a própria melhora?).",
+      "exemplos_praticos": "O grupo antecipou ORS e SRS, escalas específicas da terapia de aceitação e compromisso, grupos de prática e supervisão; no debate sobre melhora surgiram cinco critérios e um exemplo de paciente com ansiedade persistente mas vida melhor.",
+      "variacoes": "Em temas sem consenso, usar a pergunta para mostrar a abertura do problema, não para chegar à resposta certa.",
+      "armadilhas": "Fechar o debate cedo demais ou adiantar o conteúdo quando um participante antecipa a resposta.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:02:18"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Transparência sobre o próprio estado",
+      "descricao": "Avisa que está doente e com menos energia, e pede compreensão.",
+      "exemplo": "Se eu tiver um pouquinho mais lento hoje, é porque eu tô meio doente.",
+      "ts": "0:00:01"
+    },
+    {
+      "movimento": "Retomada depois de intervalo",
+      "descricao": "Reconhece que depois de 15 dias o grupo pode estar perdido e recapitula os quatro pilares.",
+      "exemplo": "Já faz aí duas semanas que a gente não se encontra.",
+      "ts": "0:01:15"
+    },
+    {
+      "movimento": "Metáfora em forma de pergunta",
+      "descricao": "Abre o tema com uma situação cotidiana para o grupo deduzir o conceito.",
+      "exemplo": "Perdido num local desconhecido, o que você precisa saber?",
+      "ts": "0:02:18"
+    },
+    {
+      "movimento": "Segurar o conteúdo",
+      "descricao": "Registra a antecipação de uma participante mas não pula etapas.",
+      "exemplo": "Vamos aos poucos, senão eu vou adiantar demais a discussão.",
+      "ts": "0:09:49"
+    },
+    {
+      "movimento": "Manter aberto o que é aberto",
+      "descricao": "Não inventa consenso sobre o critério de melhora e declara o debate em aberto.",
+      "exemplo": "É um debate em aberto, tá, pessoal?",
+      "ts": "0:16:31"
+    },
+    {
+      "movimento": "Ler e responder o chat",
+      "descricao": "Traz para a fala os comentários escritos.",
+      "exemplo": "Comentário sobre a percepção do paciente; comentário sobre psicólogo cristão.",
+      "ts": "0:14:26"
+    },
+    {
+      "movimento": "Admitir que não sabe e prometer checar",
+      "descricao": "Sobre a validação da ORS e da SRS em português, diz que não tem certeza e que vai conferir.",
+      "exemplo": "Não tenho certeza. Depois vou conferir, eu te passo essa informação.",
+      "ts": "0:33:45"
+    },
+    {
+      "movimento": "Correção ao vivo",
+      "descricao": "Esqueceu de traduzir um slide e traduz na hora, com desculpas.",
+      "exemplo": "Esqueci de traduzir essa parte, perdão.",
+      "ts": "0:19:57"
+    },
+    {
+      "movimento": "Mostrar o instrumento",
+      "descricao": "Exibe a ORS e a SRS na tela e percorre os itens e a pontuação.",
+      "exemplo": "Aqui tem a escala, os dados sociodemográficos, a breve introdução.",
+      "ts": "0:41:10"
+    },
+    {
+      "movimento": "Dosar a carga por critério pedagógico",
+      "descricao": "Encurta a aula porque a parte de mensuração fica maçante para alunos de psicologia, e explicita isso.",
+      "exemplo": "Eu acho que isso fica muito maçante, então decidi dar uma reduzida.",
+      "ts": "0:39:11"
+    },
+    {
+      "movimento": "Pedir feedback sobre o formato e adotá-lo",
+      "descricao": "Pergunta se o grupo prefere 50 min ou 1h30 e muda o formato conforme a resposta, considerando o cansaço noturno.",
+      "exemplo": "Faremos então a partir de semana que vem 50 minutos de aula.",
+      "ts": "0:49:47"
+    },
+    {
+      "movimento": "Resolver a logística",
+      "descricao": "Encaminha a questão do acesso às gravações para potenciais associados, a checar com um colega da Allos.",
+      "exemplo": "",
+      "ts": "0:50:29"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Levante sua linha de base antes de planejar a melhora.",
+      "justificativa": "Sem ponto de partida não há plano nem comparação posterior.",
+      "contexto": "Início de qualquer ciclo de prática deliberada.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:03:41"
+    },
+    {
+      "dica": "Desconfie da impressão de que seus pacientes estão melhorando.",
+      "justificativa": "Os clínicos superestimam a própria eficácia, subestimam as pioras e não se corrigem com a experiência.",
+      "contexto": "Avaliação dos próprios casos.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:06:51"
+    },
+    {
+      "dica": "Use pelo menos um instrumento de medida junto com o julgamento clínico.",
+      "justificativa": "Fora do próprio juízo é difícil ter referência que não envolva alguma mensuração.",
+      "contexto": "Todos os casos em acompanhamento.",
+      "competencia": "Feedback clínico",
+      "ts": "0:10:50"
+    },
+    {
+      "dica": "Explicite o critério de melhora que você usa em cada caso.",
+      "justificativa": "Medir sem saber o construto é inútil; há vários critérios possíveis.",
+      "contexto": "Contrato e formulação de caso.",
+      "competencia": "Formulação de caso",
+      "ts": "0:12:03"
+    },
+    {
+      "dica": "Não avalie o sucesso do caso só pela redução do sintoma.",
+      "justificativa": "O paciente pode melhorar em várias áreas sem que o sintoma-alvo mude; saúde não é ausência de doença.",
+      "contexto": "Revisão de progresso.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "0:27:02"
+    },
+    {
+      "dica": "Não use a fidelidade à sua abordagem como prova de que está indo bem.",
+      "justificativa": "A teoria é instrumento, não espelho; a abordagem pesa pouco no resultado.",
+      "contexto": "Supervisão e autoavaliação.",
+      "competencia": "Articulação teoria-prática",
+      "ts": "0:18:55"
+    },
+    {
+      "dica": "Acompanhe a demanda específica do paciente e como ela muda ao longo do tratamento.",
+      "justificativa": "O bem-estar geral é inespecífico; a melhora é muitas vezes idiossincrática (crítica da Allos).",
+      "contexto": "Todo o tratamento.",
+      "competencia": "Formulação de caso",
+      "ts": "0:30:45"
+    },
+    {
+      "dica": "Aplique a ORS no início de cada sessão, pedindo que o paciente pense na semana anterior.",
+      "justificativa": "Acompanha o bem-estar sessão a sessão com um instrumento simples.",
+      "contexto": "Cada sessão.",
+      "competencia": "Feedback clínico",
+      "ts": "0:41:10"
+    },
+    {
+      "dica": "Aplique a SRS no fim de cada sessão para monitorar a aliança.",
+      "justificativa": "A relação pesa muito no resultado e às vezes falha por culpa nossa sem que percebamos.",
+      "contexto": "Fim de cada sessão.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:43:25"
+    },
+    {
+      "dica": "Traduza a ORS e a SRS para uso privado no consultório, com cuidado; não publique nem use em pesquisa sem autorização.",
+      "justificativa": "Envolve direitos autorais; os autores foram reticentes.",
+      "contexto": "Adoção das escalas.",
+      "competencia": "Feedback clínico",
+      "ts": "0:40:09"
+    },
+    {
+      "dica": "Interprete os escores dentro de uma formulação de caso, nunca isoladamente.",
+      "justificativa": "Número não fala por si; só vira informação cruzado com o caso.",
+      "contexto": "Análise periódica dos dados.",
+      "competencia": "Formulação de caso",
+      "ts": "0:46:53"
+    },
+    {
+      "dica": "Levante também a sua linha de base como terapeuta: supervisão, gravação e roleplay com pares.",
+      "justificativa": "É preciso saber como está o caso e como você está no caso.",
+      "contexto": "Em paralelo ao monitoramento dos pacientes.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:46:53"
+    },
+    {
+      "dica": "Cheque com o paciente as conclusões que você tira sobre ele.",
+      "justificativa": "Impor conclusões que não são dele fere a relação; o feedback garante que estão nos mesmos termos (relato de participante).",
+      "contexto": "Ao interpretar ou formular hipóteses.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:35:59"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Não dá para confiar só no próprio julgamento para saber se somos bons terapeutas.",
+      "argumento": "Estudos sobre o viés de superioridade ilusória: superestimam acertos, subestimam pioras, não se corrigem com a experiência.",
+      "contraponto": "",
+      "implicacao": "Adotar mensuração e feedback externo.",
+      "quem": "Bernardo, a partir do Better Results",
+      "ts": "0:05:48"
+    },
+    {
+      "tese": "A teoria tem valor instrumental e não é espelho da realidade; o fenômeno clínico vem primeiro.",
+      "argumento": "Teorias são abstrações que enquadram e perdem detalhes; a abordagem tem tamanho de efeito pequeno.",
+      "contraponto": "A tradição de avaliar o sucesso pela fidelidade ao método.",
+      "implicacao": "Não encaixar pacientes na teoria; avaliar resultado por critérios externos à teoria.",
+      "quem": "Bernardo",
+      "ts": "0:18:55"
+    },
+    {
+      "tese": "A redução de sintomas é um critério de melhora reducionista.",
+      "argumento": "Comorbidade como regra indica fronteiras mal traçadas; sintomas são transdiagnósticos; o paciente pode melhorar sem que o sintoma mude; saúde não é ausência de doença (OMS).",
+      "contraponto": "O modelo médico adotado depois de Eysenck e do DSM.",
+      "implicacao": "Usar critérios mais amplos e específicos ao caso.",
+      "quem": "Bernardo e participantes",
+      "ts": "0:23:30"
+    },
+    {
+      "tese": "O bem-estar geral é melhor que o sintoma, mas insuficiente; é preciso medir a demanda singular.",
+      "argumento": "A melhora costuma ser idiossincrática; as medidas gerais não captam como a demanda mudou nem a percepção do paciente sobre sua resolução.",
+      "contraponto": "As medidas propostas pelo Better Results.",
+      "implicacao": "A Allos está desenvolvendo instrumentos próprios (fase inicial).",
+      "quem": "Allos (relatado pelo facilitador)",
+      "ts": "0:30:45"
+    },
+    {
+      "tese": "Não há consenso sobre o que é melhora em psicoterapia, e isso é um obstáculo para a prática deliberada.",
+      "argumento": "Múltiplos referenciais; falta até um estudo sobre o consenso entre terapeutas.",
+      "contraponto": "",
+      "implicacao": "Para a PD entrar no mainstream é preciso construir consensos.",
+      "quem": "Bernardo",
+      "ts": "0:16:31"
+    },
+    {
+      "tese": "A relação terapêutica importa mais para o resultado do que a orientação teórica.",
+      "argumento": "Estudos de tamanho de efeito; é habilidade comum a todas as abordagens, inclusive o manejo de transferência e contratransferência.",
+      "contraponto": "Há questões de personalidade no encaixe entre paciente e terapeuta; não é possível conectar com todos.",
+      "implicacao": "Medir a aliança (SRS) e treiná-la como competência.",
+      "quem": "Bernardo",
+      "ts": "0:35:59"
+    },
+    {
+      "tese": "A resistência a medir na psicologia é cultural.",
+      "argumento": "Medir é incomum e malvisto, mas é a única alternativa ao juízo enviesado.",
+      "contraponto": "A preocupação com quantificar pessoas.",
+      "implicacao": "Medir com propósito e transformar números em informação.",
+      "quem": "Bernardo",
+      "ts": "0:10:50"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "A linha de base é o seu ponto de partida: a fotografia de onde você está como psicoterapeuta.",
+      "tema": "linha de base",
+      "ts": "0:02:36"
+    },
+    {
+      "texto": "Não adianta eu querer chegar em algum lugar se eu não sei onde estou.",
+      "tema": "linha de base",
+      "ts": "0:02:36"
+    },
+    {
+      "texto": "Os clínicos acreditam ser mais eficazes do que realmente são, e esse viés de superioridade ilusória não se corrige por si só, apesar do tempo e da experiência.",
+      "tema": "viés",
+      "ts": "0:06:51"
+    },
+    {
+      "texto": "Nos primeiros cem anos da profissão, bons resultados eram literalmente o que os terapeutas diziam que eram.",
+      "tema": "história dos critérios",
+      "ts": "0:17:44"
+    },
+    {
+      "texto": "A teoria tem valor instrumental; ela não é um espelho da realidade.",
+      "tema": "teoria e clínica",
+      "ts": "0:18:55"
+    },
+    {
+      "texto": "Se você toma a teoria como espelho da realidade, vai querer encaixar todos os seus pacientes nela.",
+      "tema": "teoria e clínica",
+      "ts": "0:18:55"
+    },
+    {
+      "texto": "Quando o manual apresenta comorbidade como regra, e não como exceção, você passa a questionar a maneira como ele foi construído.",
+      "tema": "crítica ao DSM",
+      "ts": "0:23:30"
+    },
+    {
+      "texto": "Saúde não é simplesmente ausência de sintoma.",
+      "tema": "critério de melhora",
+      "ts": "0:25:55"
+    },
+    {
+      "texto": "O cara pode ser psicanalista, TCC, junguiano, humanista: se ele não consegue estabelecer uma boa relação terapêutica, não vai conseguir lidar com o caso.",
+      "tema": "relação × abordagem",
+      "ts": "0:35:59"
+    },
+    {
+      "texto": "Número não fala por si só; ele tem que ser analisado e transformado em informação.",
+      "tema": "mensuração",
+      "ts": "0:43:25"
+    },
+    {
+      "texto": "A gente precisa ter noção de como está o caso e também de como nós estamos nesse caso.",
+      "tema": "dupla linha de base",
+      "ts": "0:46:53"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Você provavelmente se acha melhor terapeuta do que é.",
+      "mensagem": "O viés de superioridade ilusória é documentado e não se corrige com a experiência; por isso medimos.",
+      "roteiro": [
+        "Pergunta: quantos dos seus pacientes melhoram?",
+        "O que as pesquisas mostram.",
+        "Três faces do viés.",
+        "A experiência não corrige.",
+        "Saída: linha de base e medidas."
+      ],
+      "corte_inicio": "0:05:48",
+      "corte_fim": "0:07:58"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "O que um jogador da NBA ensina a psicólogos.",
+      "mensagem": "Sem dado não há treino dirigido: a linha de base é o ponto de partida da melhora.",
+      "roteiro": [
+        "O jogador errava a maioria dos lances livres.",
+        "O dado orientou o treino.",
+        "E você: qual é o seu dado?"
+      ],
+      "corte_inicio": "0:02:18",
+      "corte_fim": "0:05:48"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Como se decide se a terapia funcionou? 100 anos em 5 slides.",
+      "mensagem": "Fidelidade à teoria, Eysenck e DSM, redução de sintomas, bem-estar, demanda singular: ainda não há consenso.",
+      "roteiro": [
+        "Fase 1: o terapeuta dizia.",
+        "Eysenck 1952.",
+        "DSM e sintoma.",
+        "Bem-estar.",
+        "E a demanda do paciente?"
+      ],
+      "corte_inicio": "0:17:44",
+      "corte_fim": "0:31:56"
+    },
+    {
+      "formato": "post",
+      "pilar": "abordagens-em-dialogo",
+      "gancho": "Sua abordagem importa menos do que você pensa.",
+      "mensagem": "A relação e o modo de conduzir pesam mais no resultado do que a escolha teórica; a teoria é instrumento, não espelho.",
+      "roteiro": [
+        "Frase de impacto e legenda com a explicação."
+      ],
+      "corte_inicio": "0:18:55",
+      "corte_fim": "0:21:13"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "ORS e SRS: duas escalas de 4 linhas para acompanhar seus casos.",
+      "mensagem": "A ORS no início da sessão mede o bem-estar; a SRS no fim mede a aliança; pontuação em centímetros; número não fala por si.",
+      "roteiro": [
+        "Por que medir.",
+        "ORS: o que e quando.",
+        "SRS: o que e quando.",
+        "Como pontuar.",
+        "Cuidado com a tradução e os direitos autorais."
+      ],
+      "corte_inicio": "0:41:10",
+      "corte_fim": "0:46:53"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Saúde não é só ausência de sintoma.",
+      "mensagem": "Um paciente pode continuar ansioso e ter a vida muito melhor; o critério de melhora precisa ser mais amplo.",
+      "roteiro": [
+        "Frase e legenda curta com o exemplo genérico."
+      ],
+      "corte_inicio": "0:25:55",
+      "corte_fim": "0:28:11"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Michael Lambert",
+      "contexto": "Coautor, com Ogles e Masters, da citação sobre medir a mudança em psicoterapia como questão complicada e multidimensional; também autor do OQ-45 (esta autoria não é dita na aula)."
+    },
+    {
+      "nome": "Benjamin Ogles",
+      "contexto": "Primeiro autor provável da citação atribuída a Alls, Lambert e Masters (transcrição automática; identificação provável: Ogles, Lambert e Masters)."
+    },
+    {
+      "nome": "Hans Eysenck",
+      "contexto": "Revisão de 1952 com 24 estudos que concluiu que as psicoterapias eram ineficazes e talvez danosas, o que levou à busca por rigor, ao DSM e ao critério de redução de sintomas (transcrito Eisenk, Hein, Isen)."
+    },
+    {
+      "nome": "Edward Bordin",
+      "contexto": "Definição clássica de aliança (vínculo; concordância sobre objetivos e métodos) em que se baseia a SRS (transcrito boarding)."
+    },
+    {
+      "nome": "Aaron Beck",
+      "contexto": "Inventários de depressão e de ansiedade citados como exemplo das centenas de escalas de sintoma."
+    },
+    {
+      "nome": "Scott D. Miller",
+      "contexto": "Coautor do Better Results, livro-base cujas medidas (ORS e SRS, bem-estar geral) a Allos critica; não é nomeado neste encontro."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Introdução à Prática Deliberada (Núcleo de Prática Deliberada da Allos)",
+    "objetivo": "Introduzir o método da prática deliberada, capítulo a capítulo, a partir do livro Better Results.",
+    "publico": "Estudantes de psicologia e psicólogos, associados e potenciais associados da Allos.",
+    "tamanho": "Cerca de 6 a 10 participantes ativos.",
+    "duracao": "52 minutos neste encontro; a partir dele o grupo decide por aulas de cerca de 50 minutos.",
+    "estrutura_padrao": "Retomada; pergunta disparadora; exposição com slides traduzidos do livro; debates abertos; demonstração de instrumentos; síntese; anúncio do próximo tema; pedido de feedback.",
+    "papel_facilitador": "Bernardo: Expositor-mediador que traduz o livro, problematiza, mantém abertos os debates sem consenso, mostra instrumentos e posiciona a Allos criticamente em relação ao livro.",
+    "regras_combinados": "Encontros semanais à noite, online, com ocasionais intervalos (15 dias antes deste); gravações no drive para associados, acesso de potenciais associados em verificação; duração ajustada pelo feedback do grupo."
+  },
+  "reflexoes_do_facilitador": [
+    "Decide fazer uma aula mais curta, por estar doente e porque o conteúdo de mensuração fica maçante para alunos de psicologia.",
+    "Admite não saber se a ORS e a SRS têm validação em português e promete checar.",
+    "Esqueceu de traduzir um slide e traduz ao vivo, pedindo desculpas.",
+    "Pede feedback sobre a duração ideal e adota 50 minutos por causa do cansaço do grupo no horário noturno."
+  ],
+  "referencias_a_outros_encontros": [
+    "Retoma o PD 03 (os quatro pilares), duas semanas antes.",
+    "Refere-se a encontros anteriores em que se problematizou o viés de superioridade e a crença de melhorar com a experiência (PD 01 e PD 02).",
+    "Anuncia que aulas futuras tratarão do mapa de competências fundamentais da psicoterapia, incluindo elementos da relação terapêutica.",
+    "Anuncia para o próximo encontro os desafios da mensuração e as respostas pouco honestas (PD 05)."
+  ],
+  "observacoes": "Facilitador identificado como Bernardo (Núcleo de Prática Deliberada da Allos): ele não diz o nome neste encontro, mas é o mesmo condutor da série, que se refere a si mesmo como Bernardo no PD 02 (0:30:13) e diz o nome no PD 07; há continuidade explícita entre os encontros (retomadas em primeira pessoa). Não é o Alan, citado em terceira pessoa na série. Transcrições a corrigir: Alls, Lambert e Masters = provavelmente Ogles, Lambert e Masters; Eisenk, Hein, Isen = Hans Eysenck; Q45 = OQ-45; RS = ORS; boarding = Bordin; Andre Drumund = Andre Drummond. Os números do caso Drummond (36% para 78%) e a atribuição da escala global de funcionamento ao DSM-III são reproduzidos como ditos, sem verificação. O facilitador menciona que a Allos conversou com os autores das escalas e do mapa de competências. O nome do colega a quem cabe resolver as gravações (Artur) não foi usado na nota."
+}

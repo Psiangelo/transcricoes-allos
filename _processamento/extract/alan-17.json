@@ -1,0 +1,984 @@
+{
+ "id": "alan-17",
+ "nota": "Alan 17 - Qualidade da intervenção",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Qualidade da intervenção",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Encontro de fechamento de ciclo, descrito por Alan como a culminação das últimas sete semanas (escuta, esquemas de aprofundamento, priorização, hermenêutica, construção de frase). Quase todo prático: participantes contam vinhetas de uns três minutos em roleplay, o roleplay é cortado na primeira intervenção do terapeuta e o grupo reconstrói a intenção e avalia a qualidade (fenômeno priorizado, esquema, construção frasal, timing). Em seguida há rodadas rápidas em que a mesma intervenção é reescrita um tom acima ou abaixo (intensidade) e mais perto ou mais longe da experiência imediata do paciente (distância, conceito criado na hora). A intensidade é bem assimilada; a distância gera confusão, e Alan admite que a metáfora foi infeliz. Desvios teóricos importantes: a tier list do acolhimento (interpretação é mais importante que escuta), pergunta transformada em afirmação, três formas de suavizar uma retificação, timing de intervenções agressivas, e um degradê da abstração ao aqui e agora ilustrado por uma supervisão gestáltica e pelo Caso Glória. Termina anunciando a dinâmica da votação de intervenções para o último encontro do ciclo e com autocrítica da didática.",
+ "em_uma_frase": "A partir de vinhetas encenadas pausadas na primeira intervenção, o grupo destrincha a qualidade da intervenção e aprende a reescrever a mesma intervenção variando intensidade e distância da experiência do paciente.",
+ "competencias": [
+  "Intervenção",
+  "Construção frasal",
+  "Priorização clínica",
+  "Aprofundamento",
+  "Acolhimento e validação",
+  "Interpretação",
+  "Relação terapêutica",
+  "Escuta clínica"
+ ],
+ "abordagens": [
+  "Gestalt-terapia",
+  "Psicanálise freudiana",
+  "Abordagem centrada na pessoa"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Abertura",
+   "descricao": "Anuncia a culminação das últimas semanas, pouco papo e ida direta à prática; situa no fim de um ciclo (cronogramas de 4 ou 8 semanas; próximo encontro provavelmente o último).",
+   "funcao": "Enquadrar o dia como integração e sinalizar alta participação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:01",
+   "bloco": "Retomada",
+   "descricao": "Lista o que estará presente: dinâmica da escuta, esquemas de aprofundamento, priorização (encontro anterior), hermenêutica, construção de frase. Exercício simples, execução difícil.",
+   "funcao": "Reativar o vocabulário acumulado que será usado como linguagem de análise.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:18",
+   "bloco": "Combinados",
+   "descricao": "Explica o exercício: vinheta de ~3 min em roleplay, pausa na primeira intervenção, análise por categorias (fenômeno priorizado, esquema de aprofundamento, construção de frase, timing). Recruta narradora e dupla; câmera opcional.",
+   "funcao": "Dar consigna e grade de análise antes da prática.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:04:51",
+   "bloco": "Demonstração",
+   "descricao": "Vinheta 1 (paciente mandada à terapia pelo gerente que a considera grosseira). O próprio Alan faz a intervenção: 'Então você está aqui para que eu te diga se você é [isso] ou não'.",
+   "funcao": "Modelar o exercício e expor a intervenção do facilitador à crítica.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:06:34",
+   "bloco": "Discussão",
+   "descricao": "Grupo reconstrói a intenção (transferência, espelhamento); Alan acrescenta o trabalho com expectativas sobre a terapia; contesta a leitura de 'provocativo'; corrige erro de escuta.",
+   "funcao": "Treinar leitura da intenção e da priorização.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:15:40",
+   "bloco": "Dinâmica",
+   "descricao": "Rodadas rápidas: a mesma intervenção um tom acima e um tom abaixo; Alan aponta quando alguém 'trocou a intervenção'.",
+   "funcao": "Primeiro eixo: intensidade.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:20:41",
+   "bloco": "Teoria",
+   "descricao": "Regras gerais: subir o tom com elipse e com pergunta transformada em acusação; descer focando na própria experiência. Demonstração de versão suave.",
+   "funcao": "Converter tentativas em heurística reutilizável.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:22:38",
+   "bloco": "Dinâmica",
+   "descricao": "Trocar a natureza da intervenção (da relação terapêutica para a questão em si) e depois subir o tom.",
+   "funcao": "Diferenciar foco de intensidade.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:25:18",
+   "bloco": "Teoria",
+   "descricao": "Cria o conceito ad hoc de metaintervenção/distância: 'como te atinge?' (1º grau) × 'por que é tão importante?' (2º grau) × 'o que é ser X?'; mais próximo = pedir uma história concreta.",
+   "funcao": "Segundo eixo: distância da experiência.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:31:02",
+   "bloco": "Dinâmica",
+   "descricao": "Vinheta 2 (paciente indeciso sobre tudo, relacionamento distante, sobrecarga). Intervenção da terapeuta: 'O que você sabe até aqui?'.",
+   "funcao": "Aplicar a grade à intervenção de um participante.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:33:34",
+   "bloco": "Feedback",
+   "descricao": "Reconstrução da intenção; Alan nomeia a máxima usada (começar por uma certeza); pergunta por fenômeno alternativo (comodidade); parêntese rápido de intensidade; diagnóstico de por que a comodidade foi evitada (construções distantes).",
+   "funcao": "Priorização, máximas e distância.",
+   "duracao_min": 14
+  },
+  {
+   "ts": "0:47:19",
+   "bloco": "Demonstração",
+   "descricao": "Transformar pergunta em afirmação ('Você não está confuso, você está incomodado'); três formas de suavizar a retificação: responsabilizar-se, apontar para o corpo, usar a linguagem do paciente.",
+   "funcao": "Núcleo técnico do encontro.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:55:12",
+   "bloco": "Dinâmica",
+   "descricao": "Vinheta 3 (jovem adulta com mãe superprotetora, dificuldade de se impor). Intervenção empática: 'Me parece que você está profundamente incomodada e gostaria que sua autonomia fosse preservada'.",
+   "funcao": "Aplicar a grade a uma intervenção de acolhimento.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:59:19",
+   "bloco": "Feedback",
+   "descricao": "Colocar-se nos sapatos do terapeuta; avaliar pela régua do objetivo; hipótese alternativa sobre o centro do caso (incapacidade de incomodar a mãe).",
+   "funcao": "Separar intenção, execução e priorização.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:02:59",
+   "bloco": "Teoria",
+   "descricao": "Tier list do acolhimento: repetir < pôr em palavras verdadeiras o que a pessoa sente < completar o raciocínio sem pressa; interpretação é mais importante que escuta.",
+   "funcao": "Desfazer noção imprecisa de acolhimento.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:07:45",
+   "bloco": "Dinâmica",
+   "descricao": "Reescrever a hipótese na mesma estrutura frasal ('me parece que... e queria que...'); versão curta; tom abaixo e acima; 'mais curto'; dica de timing; distância mais próxima (sensação corporal) e mais distante ('que tipo de filha você deseja ser').",
+   "funcao": "Construção frasal e os dois eixos aplicados.",
+   "duracao_min": 12
+  },
+  {
+   "ts": "1:20:20",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Preocupado com o horário, Alan desiste do terceiro eixo planejado e anuncia intenção de fazer um encontro futuro só sobre os eixos, começando pela teoria.",
+   "funcao": "Ajuste de rota explícito.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "1:21:18",
+   "bloco": "Dinâmica",
+   "descricao": "Variante: Alan narra vinheta 4 (encenada; solidão), uma participante é a terapeuta e os demais escrevem intervenções no chat e só enviam quando ela intervém; leitura das respostas. Reforça que o objetivo do aprimoramento é dar exercícios para treinar em casa.",
+   "funcao": "Obter várias intervenções independentes sobre o mesmo material.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "1:31:21",
+   "bloco": "Teoria",
+   "descricao": "Organiza as respostas num degradê da abstração ('o que seria performar?') ao aqui e agora ('você está performando para mim?'); relato de supervisão (presentes inapropriados de um paciente) e intervenção crua sugerida por um gestalt-terapeuta.",
+   "funcao": "Mostrar gradação dentro do mesmo fenômeno.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:39:18",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Contextualiza intervenções chocantes na Gestalt; recomenda o Caso Glória (Rogers e Perls); 'nada tão absurdo que algum psicoterapeuta não tenha proposto'; história da psicologia e hipnose.",
+   "funcao": "Relativizar estranhamento diante de outras escolas.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:42:57",
+   "bloco": "Feedback",
+   "descricao": "Retoma intervenções do chat: subir intensidade; aumentar distância com o macete do porquê; comparação pergunta geral × evento lembrado; cascata de variações (relação, corpo, cor, carro, pessoa lembrada).",
+   "funcao": "Fechar o eixo distância com exemplos concretos.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:51:40",
+   "bloco": "Fechamento",
+   "descricao": "Autocrítica (parênteses, metáfora ruim); participante devolve sua compreensão; Alan redefine distância como 1ª ordem × 2ª ordem.",
+   "funcao": "Checar compreensão e reformular.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:53:51",
+   "bloco": "Tarefa",
+   "descricao": "Explica a dinâmica da votação de intervenções como provável conteúdo do próximo e último encontro do ciclo.",
+   "funcao": "Ponte para o próximo encontro e exercício para treinar fora.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:55:56",
+   "bloco": "Fechamento",
+   "descricao": "Pede crítica à didática, faz autocrítica, para a gravação e fica para conversa informal.",
+   "funcao": "Feedback sobre a condução e encerramento.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Parâmetros da intervenção (distância, intensidade, forma e conteúdo)",
+   "definicao": "Variáveis que o terapeuta pode ajustar numa intervenção preservando seu núcleo (natureza/foco). Neste encontro são trabalhadas intensidade e distância; foco e construção da frase aparecem como critérios adicionais. Alan diz que são 'duas de setecentas variáveis possíveis'.",
+   "exemplo": "Pegar 'Então você está aqui para que eu te diga se você é X ou não' e fazê-la um tom acima, um tom abaixo, mais distante, mais próxima.",
+   "abordagem": "",
+   "ts": "0:50:35"
+  },
+  {
+   "nome": "Intensidade da intervenção",
+   "definicao": "Grau de agressividade/provocação ou suavidade de uma intervenção. Sobe com elipse (saltos no raciocínio), concisão, menos informação, transformar pergunta em afirmação ou acusação, pressupor algo e lançar hipóteses não óbvias. Desce com foco na experiência do terapeuta, responsabilização pela leitura, apontar para o corpo, uso da linguagem do paciente e preâmbulo.",
+   "exemplo": "'Então você está querendo que eu seja um juiz' (com tom irônico) é mais intensa que 'Então eu sou o juiz que vai te contar se você é X ou não'.",
+   "abordagem": "",
+   "ts": "0:20:41"
+  },
+  {
+   "nome": "Distância da experiência",
+   "definicao": "Termo criado ad hoc por Alan. Perto é o experiencialmente próximo para o paciente: sensações primárias, o que sente, percepções de primeira ordem, cenas concretas. Longe são reflexões de segunda ordem, como racionalizações, hipóteses, valores, causas e conceitos, menos transparentes para a pessoa. Em outra face, vai da abstração ao aqui e agora da relação terapêutica. O próprio Alan reconheceu que o termo foi infeliz.",
+   "exemplo": "Mais próximo: 'me conta uma vez em que te chamaram de X'; próximo: 'como te atinge ser chamada de X?'; distante: 'por que é tão importante ter certeza de que não é X?' ou 'o que é ser X?'.",
+   "abordagem": "",
+   "ts": "1:53:51"
+  },
+  {
+   "nome": "Metapergunta",
+   "definicao": "Perguntar o porquê da coisa em vez da coisa. Aumenta o grau de reflexão exigido e distancia a pergunta da experiência imediata; Alan chama de 'macete que sempre dá para fazer'. Também chamada de 'metaintervenção' ou intervenção de 'segundo grau'.",
+   "exemplo": "Em vez de 'essa solidão não é um problema para você?', perguntar 'por que é tão difícil ver essa solidão como um problema?'.",
+   "abordagem": "",
+   "ts": "1:46:24"
+  },
+  {
+   "nome": "Máximas clínicas",
+   "definicao": "Regras de ação que operam independentemente do conteúdo específico do caso e podem ser invertidas. Aqui aparece a máxima: se a pessoa está em dúvida sobre tudo, comece por uma certeza que ela tem.",
+   "exemplo": "'O que você sabe até aqui?' para um paciente que só traz incertezas; inversamente, perguntar pela insegurança a quem está absolutamente seguro, ou pela tristeza a quem está absolutamente feliz.",
+   "abordagem": "",
+   "ts": "0:34:54"
+  },
+  {
+   "nome": "Transferência",
+   "definicao": "Usada aqui para descrever o movimento de trazer para a relação com o terapeuta a posição que o paciente atribui a outros: a paciente coloca o terapeuta no lugar de juiz, como o chefe que a julga.",
+   "exemplo": "'Então você está aqui para que eu te diga se você é X ou não.'",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:09:01"
+  },
+  {
+   "nome": "Expectativas sobre a terapia",
+   "definicao": "O que o paciente acredita que vai acontecer na terapia e o papel que atribui ao terapeuta e a si mesmo. Conforme a proposta terapêutica, pode ser necessário alinhar ou adaptar essas expectativas.",
+   "exemplo": "Paciente que vem para o terapeuta dizer se o chefe tem razão; o terapeuta pode não trabalhar dando esse tipo de veredito.",
+   "abordagem": "",
+   "ts": "0:09:01"
+  },
+  {
+   "nome": "Retificação subjetiva",
+   "definicao": "Na fala de Alan, 'retificar a experiência do paciente': discordar frontalmente da leitura que ele faz de si ou afirmar o contrário do que ele disse. É um movimento de intensidade alta que pode ser temporizado por responsabilização, apontar para o corpo ou uso da linguagem do paciente.",
+   "exemplo": "'Você não está confuso, você está incomodado.'",
+   "abordagem": "",
+   "ts": "0:49:51"
+  },
+  {
+   "nome": "Níveis de acolhimento",
+   "definicao": "Hierarquia ('tier list') proposta por Alan. O básico é a escuta, repetir de volta o que a pessoa disse. Mais acolhedor é pôr palavras verdadeiras no que a pessoa sente e não disse. Ainda mais é completar ou antecipar o raciocínio dela sem pressa, sinal de sintonia. Uma retificação precisa do sentimento também é profunda empatia.",
+   "exemplo": "Metáfora da comédia romântica: amigos em sintonia completam a próxima palavra um do outro.",
+   "abordagem": "",
+   "ts": "1:02:59"
+  },
+  {
+   "nome": "Empatia",
+   "definicao": "Para Alan, construída 'mais no sentido do que na forma': o paciente sente que o terapeuta sentiu o que ele sentiu e o nomeia com precisão, às vezes antes dele. Por isso, para a empatia, interpretação é mais importante do que escuta.",
+   "exemplo": "Se a retificação 'você não está confuso, está incomodado' for verdadeira, a reação é 'é verdade, estou muito irritado', o que gera uma sensação de ser ouvido muito grande.",
+   "abordagem": "",
+   "ts": "1:06:51"
+  },
+  {
+   "nome": "Timing da intervenção",
+   "definicao": "O momento em que a intervenção é feita. Intervenções mais agressivas devem vir quando o assunto surge; trazidas depois ('do bolso'), parecem implicância porque o paciente já está em outro assunto.",
+   "exemplo": "Uma terapeuta desistiu de uma boa pergunta porque 'passou o timing e ia ficar desconexa'.",
+   "abordagem": "",
+   "ts": "1:15:04"
+  },
+  {
+   "nome": "Aqui e agora",
+   "definicao": "Polo do eixo de distância em que o fenômeno é trabalhado na relação presente com o terapeuta, e não como conceito. Trazer para o aqui e agora costuma também subir a intensidade.",
+   "exemplo": "Degradê: 'o que seria performar para você?' → 'você está performando para mim também?' → 'e para mim, que personagem você está mostrando?'.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "1:32:30"
+  },
+  {
+   "nome": "Esquemas de aprofundamento",
+   "definicao": "Movimentos-padrão de aprofundamento (espelhar e devolver, trazer para a relação, perguntar pela causa etc.), usados como uma das categorias de análise da intervenção.",
+   "exemplo": "Na vinheta 1, Alan descreve seu movimento como 'especular, de devolver para ela', com foco na transferência.",
+   "abordagem": "",
+   "ts": "0:02:18"
+  },
+  {
+   "nome": "Hermenêutica",
+   "definicao": "Citada como parte do repertório do ciclo ('tocamos algumas vezes, apesar de não termos entrado a fundo'), no fundo da análise do sentido das falas.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:01:01"
+  },
+  {
+   "nome": "Caso Glória",
+   "definicao": "Gravações clássicas em que a mesma paciente é atendida por diferentes terapeutas, entre eles Carl Rogers e Fritz Perls. Alan as considera 'obrigatórias para quem gosta de psicologia' e boas para ver como a Gestalt pode chocar.",
+   "exemplo": "Alan planeja um 'react' do caso com professores.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "1:40:16"
+  },
+  {
+   "nome": "Hipnose",
+   "definicao": "Fenômeno 'não explicado, mas verdadeiro', ligado ao mesmerismo e à escola de Nancy, fundacional para as primeiras psicoterapias e depois relegado para fora do campo da psicologia.",
+   "exemplo": "Qualquer pessoa que brinque de hipnose vê que 'o negócio existe e é impressionante'.",
+   "abordagem": "",
+   "ts": "1:41:53"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Qualidade da intervenção",
+   "objetivo": "Analisar uma única intervenção em todas as dimensões (escuta, fenômeno priorizado, esquema de aprofundamento, construção frasal, timing) e reconstruir a intenção por trás dela.",
+   "competencias": [
+    "Intervenção",
+    "Priorização clínica",
+    "Construção frasal",
+    "Escuta clínica"
+   ],
+   "configuracao": "Grupo todo, online (câmera opcional). Um narrador faz o paciente, um participante faz o terapeuta e os demais observam e anotam. Na primeira rodada o facilitador pode ser o terapeuta.",
+   "tempo": "10–25 min por vinheta (3–5 min de relato + análise)",
+   "materiais": "Vinhetas de reserva do facilitador; papel para anotar a intervenção exata.",
+   "consigna": "Conte uma vinheta de uns três minutos como se fosse o paciente: pode ser da sua vida, de um caso que atendeu, qualquer coisa. Quem for terapeuta pode escutar o quanto quiser, mas vamos cortar na primeira intervenção, então evite falas rápidas só para manter a conversa. Os demais, anotem a frase exata: vamos destrinchar da escolha do fenômeno à construção da frase.",
+   "passos": [
+    "Apresentar as categorias de análise: fenômeno priorizado, esquema de aprofundamento, construção de frase, timing.",
+    "Recrutar narrador e terapeuta; pedir que todos anotem a intervenção.",
+    "Narrador conta a vinheta (3–5 min no máximo); terapeuta faz a primeira intervenção; pausa.",
+    "Perguntar a um observador: por que você acha que ele fez essa escolha?",
+    "Perguntar ao autor: era isso mesmo? Tem algum porquê secreto?",
+    "Perguntar ao grupo: havia outro fenômeno com mais prioridade? Por quê?",
+    "Julgar a execução pela régua do objetivo declarado.",
+    "Passar às rodadas de variação."
+   ],
+   "feedback": "Critérios: fidelidade da escuta (quem disse o quê); coerência entre objetivo e execução; precisão (se o objetivo era fazer a pessoa se sentir compreendida); concisão e entonação; se a lógica da intervenção é óbvia para o paciente (construções que não são óbvias nem para um terceiro estão distantes demais); timing. Primeiro compreender a intenção, depois avaliar.",
+   "exemplos_praticos": "Vinheta 1: o grupo leu bem a transferência, mas um participante atribuiu à paciente um rótulo dado pelo chefe e chamou de provocativa uma intervenção que Alan considerava suave; Alan corrigiu ambos. Vinheta 2: uma participante descreveu a intervenção 'O que você sabe até aqui?' como cirúrgica, e Alan nomeou a máxima 'comece por uma certeza'. Vinheta 3: a crítica 'resposta rasa' a uma intervenção empática levou à tier list do acolhimento.",
+   "variacoes": "Facilitador como primeiro terapeuta, como demonstração; usar vinhetas próprias quando o grupo não trouxer.",
+   "armadilhas": "Falta de vinhetas; participantes que não prestaram atenção à vinheta não conseguem avaliar a priorização; quem chega atrasado se perde, então é preciso reexplicar a consigna.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:02:18"
+  },
+  {
+   "nome": "Dinâmica - Variação de intervenção",
+   "objetivo": "Treinar o controle consciente de parâmetros da intervenção (intensidade e distância) sem mudar o núcleo da intervenção.",
+   "competencias": [
+    "Construção frasal",
+    "Intervenção",
+    "Aprofundamento"
+   ],
+   "configuracao": "Grupo todo, online, respostas preferencialmente faladas; comandos dirigidos a pessoas específicas ou abertos.",
+   "tempo": "5–15 min por intervenção-base",
+   "materiais": "Uma intervenção-base anotada literalmente.",
+   "consigna": "Pegue essa mesma intervenção, com essa mesma intenção, e deixe um tom mais agressiva. Depois: agora vamos pisar em ovos, deixe mais suave; deixe mais distante da experiência dele; mais próxima; mais curta; troque a natureza (em vez de falar da relação, faça a pessoa refletir sobre a questão em si).",
+   "passos": [
+    "Fixar a intervenção-base repetindo a frase exata.",
+    "Dar um único comando de variação por vez.",
+    "Ouvir de 2 a 4 tentativas.",
+    "Para cada tentativa, dizer se cumpriu o comando, se manteve a mesma intervenção ou 'trocou a intervenção', e se a construção e a entonação estão boas.",
+    "Depois de algumas tentativas, formular a regra geral (subir: elipse, concisão, afirmação, pressuposto; descer: foco na própria experiência, responsabilização, corpo, linguagem do paciente).",
+    "Demonstrar a própria versão quando o grupo trava.",
+    "Consolidar um eixo antes de passar ao próximo."
+   ],
+   "feedback": "Frases típicas: 'achei uma variação, mas não particularmente mais provocativa'; 'essa é mais provocativa, mas você mudou a intervenção'; 'para aumentar a intensidade você tinha que dar menos informação'; 'ficou longo, mais curto fica mais potente'; 'não é mais suave: quem tivesse problema com meu tom teria com o seu'; 'funcionou, vírgula: a conexão não é transparente, é um salto'.",
+   "exemplos_praticos": "Intensidade foi bem assimilada; o grupo teve mais dificuldade de descer quando o tom já estava baixo. Uma participante contou que a acham 'bate-fofo' nas intervenções. O eixo distância gerou confusão repetida, e os participantes tendiam a trocar o foco da intervenção em vez de mudar o parâmetro. Exemplo de sucesso: 'Então sua mãe pode te causar incômodo, mas você não pode incomodá-la' → tom acima e mais curto: 'Mas você é uma adulta agora. Por que é tão difícil mostrar isso para sua mãe?'.",
+   "variacoes": "Acrescentar outros parâmetros (foco, construção da frase, um terceiro eixo que Alan cortou por falta de tempo); pedir 'um passo a mais' num degradê.",
+   "armadilhas": "Trocar a intervenção em vez de variar o parâmetro; apresentar um eixo mal definido (Alan propõe apresentar os eixos teoricamente antes, com metáfora melhor e exercícios mais estruturados); introduzir eixos demais num só encontro.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:15:40"
+  },
+  {
+   "nome": "Dinâmica - Intervenções simultâneas no chat",
+   "objetivo": "Produzir de uma vez várias intervenções independentes sobre o mesmo material, sem contaminação mútua, para compará-las em gradações (distância, intensidade, foco).",
+   "competencias": [
+    "Intervenção",
+    "Priorização clínica",
+    "Construção frasal"
+   ],
+   "configuracao": "Online; um narrador (aqui o próprio facilitador), uma terapeuta que fala e os demais (~7) escrevendo no chat.",
+   "tempo": "25–30 min",
+   "materiais": "Chat da videochamada.",
+   "consigna": "Só a terapeuta vai falar. Todo mundo escreve sua intervenção no chat, mas não envia: mesmo que já tenha escolhido, espere, porque você pode mudar de ideia e assim não confunde quem ainda está pensando. Assim que ela intervier, todo mundo dá enter. À terapeuta: não seja tão rápida, deixe o paciente falar para dar informação a todos.",
+   "passos": [
+    "Pedir que levante a mão quem vai participar (falando ou escrevendo).",
+    "Narrador conta a vinheta (3–5 min).",
+    "A terapeuta intervém; todos enviam ao mesmo tempo.",
+    "Facilitador lê as intervenções em voz alta.",
+    "Organizá-las num eixo (ex.: da abstração ao aqui e agora).",
+    "Pedir a alguém que empurre uma intervenção um passo no eixo (ex.: trazer para a relação terapêutica).",
+    "Trabalhar variações de intensidade e distância em intervenções individuais.",
+    "Perguntar ao 'paciente' qual preferiu e por quê."
+   ],
+   "feedback": "Agrupa intervenções equivalentes, mostra o degradê, propõe o passo seguinte ('e o que seria um passo a mais?'), oferece alternativa própria quando o tempo aperta.",
+   "exemplos_praticos": "Vinheta encenada de um adulto sem problemas objetivos, mas sozinho, que sente ser evitado e se pergunta se o incômodo é performático. Surgiram perguntas sobre responsabilidade pelo isolamento, se a solidão é um problema, o que sentiu ao se mostrar vulnerável, por que as pessoas o evitariam e o que seria performar. Delas saiu o degradê do 'performar' e a comparação entre pergunta geral e evento lembrado (o 'paciente' preferiu esta).",
+   "variacoes": "Com mais tempo, comparar sistematicamente a construção de todas as hipóteses; permitir escrever intervenções para um timing específico.",
+   "armadilhas": "Terapeuta que responde rápido demais tira informação do grupo; a terapeuta pode segurar uma boa intervenção e perder o timing; vinhetas longas demais.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:21:18"
+  },
+  {
+   "nome": "Dinâmica - Votação de intervenções",
+   "objetivo": "Ver as consequências de escolher uma intervenção e não outra no desenrolar de um atendimento.",
+   "competencias": [
+    "Intervenção",
+    "Direção do tratamento",
+    "Priorização clínica"
+   ],
+   "configuracao": "Grupo em roda; alguém conta um caso (não uma vinheta, 'contar um caso mesmo') e outra pessoa conduz o atendimento.",
+   "tempo": "Não especificado (proposta; provável encontro inteiro)",
+   "materiais": "",
+   "consigna": "Toda vez que quem está conduzindo parar para fazer uma intervenção, todo mundo da roda propõe uma intervenção alternativa, alterando critérios como intensidade, foco ou construção da frase. As pessoas votam na que intuitivamente parece melhor e justificam o voto. O atendimento segue com a intervenção escolhida.",
+   "passos": [
+    "Caso em andamento, conduzido por um participante.",
+    "Pausa a cada intervenção.",
+    "A roda propõe alternativas, explicitando o critério alterado.",
+    "Votação e justificativa do voto.",
+    "O atendimento continua com a intervenção vencedora.",
+    "Observar as consequências da escolha no atendimento."
+   ],
+   "feedback": "Justificativa dos votos; observação das consequências.",
+   "exemplos_praticos": "Não realizada neste encontro; apresentada como possível conteúdo do último encontro do ciclo. Uma participante já a havia feito antes.",
+   "variacoes": "Critérios de alteração explicitados pelo facilitador (intensidade, foco, construção da frase).",
+   "armadilhas": "Alan a considera 'um pouquinho complexa'; o encontro de hoje foi 'um passinho na direção dela'.",
+   "nivel": "avançado",
+   "funciona_online": true,
+   "ts": "1:53:51"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Abertura curta ancorada no ciclo",
+   "descricao": "Abre em um minuto, situa o encontro no fim do ciclo e anuncia que o dia é prático; admite que o cronograma não era rígido.",
+   "exemplo": "'Hoje tem muito pouco papo para começar e nós já vamos direto para a prática.'",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Entregar a grade antes da prática",
+   "descricao": "Nomeia as categorias de análise antes da primeira vinheta, para que a crítica tenha linguagem comum; declara o caráter experimental do formato.",
+   "exemplo": "'Ele priorizou uma coisa interessante? Qual esquema de aprofundamento usou? A construção de frase foi bacana? O timing?'",
+   "ts": "0:02:18"
+  },
+  {
+   "movimento": "Oferecer-se primeiro à crítica",
+   "descricao": "Ocupa o lugar do terapeuta na primeira vinheta e pede que o grupo avalie a intervenção dele, o que modela o exercício e reduz a ameaça.",
+   "exemplo": "'Eu poderia ter feito 300 intervenções diferentes. Eu escolhi fazer a que eu fiz. Que vocês acham?'",
+   "ts": "0:06:34"
+  },
+  {
+   "movimento": "Convocar pelo nome com pergunta de baixa exposição",
+   "descricao": "Diante do silêncio, chama alguém e faz uma pergunta de compreensão, não de julgamento; busca quem ainda não participou e quem chegou atrasado.",
+   "exemplo": "'Tá difícil, hein? Você está aí? Por que você acha que eu fiz essa escolha?'",
+   "ts": "0:07:53"
+  },
+  {
+   "movimento": "Compreender antes de avaliar",
+   "descricao": "Sequência fixa: um observador reconstrói a intenção, o autor confirma ou revela 'o porquê secreto', o grupo discute a priorização e só então se julga a execução pela régua do objetivo.",
+   "exemplo": "'Vamos nos colocar nos sapatos dele... [nome], era isso mesmo ou tem um porquê secreto?'",
+   "ts": "0:59:19"
+  },
+  {
+   "movimento": "Discordar com franqueza e humor",
+   "descricao": "Contesta leituras que não se sustentam e corrige erros de escuta diretamente, com leveza.",
+   "exemplo": "'Não achei que fui nem um pouco provocativo. Não sei se vocês estão inventando, porque eu tendo a ser.' / 'Primeira coisa, gente: prestar atenção é importante.'",
+   "ts": "0:12:37"
+  },
+  {
+   "movimento": "Exigir a frase",
+   "descricao": "Não aceita descrições abstratas do que o participante faria; pede a formulação concreta.",
+   "exemplo": "'Mas faz a frase.'",
+   "ts": "0:13:24"
+  },
+  {
+   "movimento": "Guardar a fronteira mesma/outra intervenção",
+   "descricao": "Aponta sempre que o participante troca o foco em vez de variar o parâmetro pedido e explica qual era o núcleo a preservar.",
+   "exemplo": "'Essa é mais provocativa, mas você mudou a intervenção: a intervenção tinha a ver com o meu papel, não com o fato de ela ser X.'",
+   "ts": "0:16:46"
+  },
+  {
+   "movimento": "Indução seguida de regra",
+   "descricao": "Deixa o grupo tentar algumas vezes e depois formaliza uma heurística geral e reutilizável.",
+   "exemplo": "'Deixa eu tentar dar um geral: para deixar mais agressiva, você faz elipse... para um tom abaixo, foca na sua experiência.'",
+   "ts": "0:20:41"
+  },
+  {
+   "movimento": "Demonstrar quando o grupo trava",
+   "descricao": "Entra na dinâmica e faz a intervenção ele mesmo, ou dá a alternativa que tinha pensado quando o tempo aperta.",
+   "exemplo": "'Deixa eu participar um pouquinho mais da dinâmica. Vou fazer para vocês verem: você não está confuso, você está incomodado.'",
+   "ts": "0:47:19"
+  },
+  {
+   "movimento": "Fanfic do processo do participante",
+   "descricao": "Levanta uma hipótese sobre por que o participante teve dificuldade e pede validação.",
+   "exemplo": "'Deixa eu fanficar sobre o que estava passando e por que você teve dificuldade... faz sentido ou estou viajando?'",
+   "ts": "1:08:45"
+  },
+  {
+   "movimento": "Forçar uma estrutura frasal",
+   "descricao": "Pede que o participante use literalmente a estrutura de outra intervenção para treinar construção.",
+   "exemplo": "'Tenta usar literalmente a mesma estrutura, se força um pouquinho: me parece que você está tanã-tanã e queria que tanã-tanã.'",
+   "ts": "1:09:44"
+  },
+  {
+   "movimento": "Parêntese teórico ancorado no erro",
+   "descricao": "Abre um mini-bloco teórico a partir de uma crítica concreta de um participante, dirigido a ele, com imagens para memorizar.",
+   "exemplo": "Tier list do acolhimento com a metáfora da comédia romântica: 'fiz esse parêntese gigantesco só para te falar de um jeito que você não esquecesse'.",
+   "ts": "1:06:51"
+  },
+  {
+   "movimento": "Administrar o tempo em voz alta e cortar conteúdo",
+   "descricao": "Explicita a preocupação com o horário, corta um eixo para não confundir e anuncia a duração do encerramento; autorregula os próprios parênteses.",
+   "exemplo": "'Já deu 8:30... eu ia introduzir outro eixo, mas acho que não dá tempo; só vou piorar a situação.'",
+   "ts": "1:20:20"
+  },
+  {
+   "movimento": "Escolher o canal pelo objetivo",
+   "descricao": "Prefere respostas faladas nas rodadas rápidas, mas usa o chat com envio simultâneo para obter intervenções independentes.",
+   "exemplo": "'Mesmo que você já escolha a sua, escreve e não manda... assim que a terapeuta falar, todo mundo dá enter.'",
+   "ts": "1:22:49"
+  },
+  {
+   "movimento": "Reformular a partir do retorno do grupo e pedir crítica à didática",
+   "descricao": "Ouve como um participante entendeu o conceito, redefine com mais precisão, faz autocrítica pública e pede crítica; para a gravação e fica para conversa.",
+   "exemplo": "'Se vocês querem criticar a didática... eu senti que não me fiz tão claro assim.'",
+   "ts": "1:55:56"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Antes de intervir, confira quem nomeou o quê no relato do paciente.",
+   "justificativa": "Intervir sobre um rótulo que o paciente não se deu (foi o chefe quem o deu) invalida a priorização e a intervenção.",
+   "contexto": "Rótulos, acusações e falas de terceiros relatadas.",
+   "competencia": "Escuta clínica",
+   "ts": "0:11:26"
+  },
+  {
+   "dica": "Se o paciente chega pedindo um veredito ('vim saber se sou X'), trabalhe a expectativa sobre a terapia e o seu papel.",
+   "justificativa": "Revela a fantasia sobre o terapeuta (juiz) e permite alinhar ou adaptar expectativas conforme a proposta terapêutica.",
+   "contexto": "Início do processo; demandas de diagnóstico ou julgamento.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:09:01"
+  },
+  {
+   "dica": "Transforme a pergunta que você queria fazer numa afirmação.",
+   "justificativa": "Em terapia toda afirmação funciona como pergunta: se o paciente nega, você recebeu uma resposta; se confirma, você segue. É o jeito mais simples de dizer o que você queria.",
+   "contexto": "Depois de ler o campo, porque aumenta a agressividade.",
+   "competencia": "Intervenção",
+   "ts": "0:48:42"
+  },
+  {
+   "dica": "Para subir o tom, faça elipse, dê menos informação e encurte a frase.",
+   "justificativa": "Saltos no raciocínio e concisão deixam a intervenção mais incisiva; 'mais curto fica mais potente'.",
+   "contexto": "Quando o vínculo comporta confronto.",
+   "competencia": "Construção frasal",
+   "ts": "0:18:31"
+  },
+  {
+   "dica": "Para baixar o tom, fale a partir da sua experiência ('o que eu estou ouvindo é...').",
+   "justificativa": "É a maneira mais simples de suavizar sem trocar a intervenção.",
+   "contexto": "Pacientes sensíveis a confronto; início de vínculo.",
+   "competencia": "Intervenção",
+   "ts": "0:20:41"
+  },
+  {
+   "dica": "Ao contradizer a leitura do paciente, responsabilize-se por ela ('me corrija se eu estiver ouvindo errado').",
+   "justificativa": "Assumir a autoria da leitura temporiza a acusação que você acabou de fazer.",
+   "contexto": "Retificações e afirmações contrárias ao que o paciente disse.",
+   "competencia": "Intervenção",
+   "ts": "0:49:51"
+  },
+  {
+   "dica": "Suavize uma retificação apontando para o corpo do paciente.",
+   "justificativa": "Em vez de discutir a interpretação, você convida a pessoa a verificar no próprio corpo o que sente.",
+   "contexto": "Quando o sentimento nomeado pelo paciente não bate com o que ele transmite.",
+   "competencia": "Aprofundamento",
+   "ts": "0:51:31"
+  },
+  {
+   "dica": "Suavize usando a linguagem exata do paciente.",
+   "justificativa": "Devolver as palavras dele (ex.: diz sempre 'essa pessoa', nunca 'minha namorada') sustenta até uma intervenção forte, porque o dado vem dele.",
+   "contexto": "Repetições e escolhas lexicais marcantes.",
+   "competencia": "Escuta clínica",
+   "ts": "0:52:15"
+  },
+  {
+   "dica": "Para gerar reflexão, pergunte o porquê da coisa, e não a coisa.",
+   "justificativa": "A causa do que sentimos é menos transparente que a sensação e exige reflexão de segunda ordem.",
+   "contexto": "Quando o paciente daria uma resposta automática ou se justificaria.",
+   "competencia": "Aprofundamento",
+   "ts": "1:46:24"
+  },
+  {
+   "dica": "Para aproximar da experiência, peça uma história concreta ou a sensação corporal num momento específico.",
+   "justificativa": "Lembrar uma cena é mais concreto e fácil do que nomear um sentimento ou generalizar como se sente 'em todas as situações'.",
+   "contexto": "Discurso racionalizado, abstrato ou genérico.",
+   "competencia": "Aprofundamento",
+   "ts": "0:29:46"
+  },
+  {
+   "dica": "Quando tudo é dúvida, comece por uma certeza que o paciente tem (e vice-versa).",
+   "justificativa": "Máxima que opera independentemente do conteúdo e tira o paciente do fluxo de ruminação.",
+   "contexto": "Confusão generalizada; ou segurança/felicidade absolutas (inverter).",
+   "competencia": "Intervenção",
+   "ts": "0:34:54"
+  },
+  {
+   "dica": "Faça a intervenção agressiva na hora em que o assunto surge.",
+   "justificativa": "Trazida do bolso depois, parece implicância, porque o paciente já está em outro assunto.",
+   "contexto": "Confrontos e hipóteses fortes.",
+   "competencia": "Intervenção",
+   "ts": "1:15:04"
+  },
+  {
+   "dica": "Numa intervenção de acolhimento, busque precisão, não repetição.",
+   "justificativa": "Pôr em palavras verdadeiras o que a pessoa sente é mais acolhedor do que devolver o que ela disse; a empatia está no sentido, não na forma.",
+   "contexto": "Intervenções empáticas e de validação.",
+   "competencia": "Acolhimento e validação",
+   "ts": "1:06:51"
+  },
+  {
+   "dica": "Avalie cada intervenção, sua ou de um colega, pela régua do objetivo dela.",
+   "justificativa": "Criticar um acolhimento por 'não gerar reflexão' troca o critério; a pergunta é se o objetivo foi bem executado e se o fenômeno era o central.",
+   "contexto": "Supervisão, autossupervisão e grupos de treino.",
+   "competencia": "Feedback clínico",
+   "ts": "1:01:37"
+  },
+  {
+   "dica": "Quando travar, traga o tema para a relação terapêutica.",
+   "justificativa": "'Uma saída sempre é trazer para a relação': torna o fenômeno presente, aqui e agora.",
+   "contexto": "Temas abstratos; padrões relacionais como performar, agradar, esconder vulnerabilidade.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:49:19"
+  },
+  {
+   "dica": "Saiba que pressupor algo sobe a intensidade da intervenção.",
+   "justificativa": "Perguntar 'que personagem você está mostrando para mim?' já assume a performance; sempre que se assume algo, aumenta-se a gradação.",
+   "contexto": "Use conscientemente e recue se não colar.",
+   "competencia": "Construção frasal",
+   "ts": "1:36:32"
+  },
+  {
+   "dica": "Lance hipóteses não óbvias que possivelmente colam, e recue se não houver gancho.",
+   "justificativa": "Uma hipótese inesperada pode abrir um campo novo; se não abrir, construa outra.",
+   "contexto": "Quando o discurso está girando em falso.",
+   "competencia": "Interpretação",
+   "ts": "1:50:34"
+  },
+  {
+   "dica": "Varie as portas de acesso ao sentimento: corpo, cor, 'que marca de carro seria', alguém que você lembra.",
+   "justificativa": "Evita ficar 'unilateral na mesma tecla' e oferece outras vias de acesso à experiência.",
+   "contexto": "Quando 'o que você sente?' já não rende.",
+   "competencia": "Aprofundamento",
+   "ts": "1:51:40"
+  },
+  {
+   "dica": "Evite construções cuja lógica não é óbvia para o paciente.",
+   "justificativa": "Uma pergunta que não é óbvia nem para um terceiro está distante demais da experiência em primeira pessoa e não produz efeito.",
+   "contexto": "Confrontos sobre incômodos negados.",
+   "competencia": "Construção frasal",
+   "ts": "0:45:43"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A qualidade da intervenção é a síntese de todas as competências clínicas.",
+   "argumento": "Para julgar uma única fala é preciso avaliar escuta, priorização, esquema de aprofundamento, construção frasal e timing; por isso o tema fecha o ciclo.",
+   "contraponto": "",
+   "implicacao": "O treino de intervenção deve integrar as dimensões, não isolá-las.",
+   "quem": "Alan",
+   "ts": "0:01:01"
+  },
+  {
+   "tese": "Toda intervenção pode subir ou descer de intensidade sem mudar de natureza, e isso deve ser pensado o tempo todo.",
+   "argumento": "Cada intervenção-base do encontro recebe versões mais agressivas e mais suaves que continuam sendo a mesma intervenção.",
+   "contraponto": "A ideia de que intensidade é incompatível com empatia: 'dá para fazer isso sendo empático, problema nenhum'.",
+   "implicacao": "O terapeuta dispõe de um 'botão de volume' independente do conteúdo.",
+   "quem": "Alan",
+   "ts": "0:24:34"
+  },
+  {
+   "tese": "Toda pergunta pode ser transformada em acusação, e isso está sempre à disposição do terapeuta.",
+   "argumento": "Em terapia afirmações funcionam como perguntas; 'as coisas são extremamente mais simples do que parecem'.",
+   "contraponto": "Aumenta a agressividade, o que exige leitura do campo.",
+   "implicacao": "Quando não consegue formular a pergunta, diga o que queria dizer.",
+   "quem": "Alan",
+   "ts": "0:48:42"
+  },
+  {
+   "tese": "Temos uma percepção imprecisa do que é acolhimento.",
+   "argumento": "Aprendemos acolhimento com um determinado tipo de professor, personalidade e abordagem; mas acolhimento pode ser várias coisas, inclusive uma retificação precisa do que o paciente sente.",
+   "contraponto": "Acolhimento como escuta passiva, repetição e gestos de concordância.",
+   "implicacao": "Confrontar com precisão pode ser a forma mais profunda de empatia.",
+   "quem": "Alan",
+   "ts": "1:02:59"
+  },
+  {
+   "tese": "Secretamente, interpretação é mais importante do que escuta para o acolhimento e a empatia.",
+   "argumento": "A sensação de ser ouvido é máxima quando o outro sentiu o que você sentiu e o nomeia; a empatia se constrói mais no sentido do que na forma.",
+   "contraponto": "Olhar para a pessoa, acenar com a cabeça, repetir (a forma).",
+   "implicacao": "Investir em entender o que é central para o paciente.",
+   "quem": "Alan",
+   "ts": "1:06:51"
+  },
+  {
+   "tese": "Completar a frase do outro, sem pressa, é sinal de sintonia e não grosseria.",
+   "argumento": "Grosseiro é acelerar a pessoa ('tá, entendi, próximo'); antecipar com precisão, como numa cena de comédia romântica, mostra conexão.",
+   "contraponto": "A norma cultural de alternância de turnos aprendida na infância.",
+   "implicacao": "O terapeuta pode completar o raciocínio do paciente quando tem precisão e não está com pressa.",
+   "quem": "Alan",
+   "ts": "1:05:12"
+  },
+  {
+   "tese": "Uma intervenção deve ser julgada pela régua do seu próprio objetivo.",
+   "argumento": "Se o objetivo era fazer a paciente se sentir compreendida, o critério é a precisão da descrição; criticá-la por não gerar reflexão é trocar a régua.",
+   "contraponto": "Crítica de participante de que a intervenção empática geraria 'resposta rasa'.",
+   "implicacao": "Na supervisão, perguntar primeiro 'o que você queria?' e só depois 'era o fenômeno central?'.",
+   "quem": "Alan",
+   "ts": "1:01:37"
+  },
+  {
+   "tese": "Algumas máximas clínicas operam independentemente do conteúdo do caso.",
+   "argumento": "'Se tudo é dúvida, comece por uma certeza' vale para qualquer tema e pode ser invertida.",
+   "contraponto": "",
+   "implicacao": "Estudar máximas dá movimentos portáteis entre casos.",
+   "quem": "Alan",
+   "ts": "0:34:54"
+  },
+  {
+   "tese": "Não há intervenção tão absurda que alguma escola de psicoterapia não tenha proposto.",
+   "argumento": "A história da psicologia inclui experimentos traumáticos, abusos e escolas agressivas hoje relegadas; a Gestalt choca quem vem de outras clínicas; a hipnose, fundacional, foi empurrada para fora do campo.",
+   "contraponto": "O estranhamento imediato diante de intervenções de outras escolas.",
+   "implicacao": "Antes de condenar uma intervenção estranha, entender a escola que a sustenta (ex.: assistir ao Caso Glória).",
+   "quem": "Alan (paráfrase de um economista não nomeado)",
+   "ts": "1:40:46"
+  },
+  {
+   "tese": "O aprimoramento serve para apresentar exercícios; o treino de verdade acontece fora dele.",
+   "argumento": "'O objetivo do aprimoramento é apresentar exercícios para vocês treinarem em casa; eu só dou o gostinho', com colegas de faculdade ou pessoas mais experientes.",
+   "contraponto": "",
+   "implicacao": "Cada encontro deve deixar uma dinâmica replicável.",
+   "quem": "Alan",
+   "ts": "1:21:56"
+  },
+  {
+   "tese": "Quando um conceito não fica claro, a responsabilidade é do didata.",
+   "argumento": "Alan avalia que desta vez a dificuldade não era intrínseca ao exercício nem culpa do grupo: ele usou um termo ruim ('distância') e deixou o exercício mais difícil do que precisava.",
+   "contraponto": "Sua tendência habitual, que ele mesmo admite, de atribuir a dificuldade ao grupo.",
+   "implicacao": "Conceitos criados ad hoc precisam de definição, exemplos e metáfora testados; apresentar teoria antes de exercícios estruturados.",
+   "quem": "Alan",
+   "ts": "1:55:56"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Eu poderia ter feito 300 intervenções diferentes. Eu escolhi fazer a que eu fiz.",
+   "tema": "escolha da intervenção",
+   "ts": "0:06:34"
+  },
+  {
+   "texto": "Em terapia, toda afirmação funciona como pergunta: se a pessoa disser que não, você recebeu uma resposta.",
+   "tema": "intensidade",
+   "ts": "0:20:41"
+  },
+  {
+   "texto": "A causa dos nossos comportamentos normalmente é mais obscura para nós do que a sensação que estamos tendo.",
+   "tema": "distância da experiência",
+   "ts": "0:28:15"
+  },
+  {
+   "texto": "Com frequência a gente consegue lembrar de uma história, que é ainda mais concreto, do que nomear o que está sentindo.",
+   "tema": "distância da experiência",
+   "ts": "0:29:46"
+  },
+  {
+   "texto": "As coisas são extremamente mais simples do que parecem: pegue a intervenção que você queria fazer e diga para a pessoa.",
+   "tema": "construção da intervenção",
+   "ts": "0:48:42"
+  },
+  {
+   "texto": "Toda pergunta que você faz como terapeuta pode ser transformada numa acusação. Isso está sempre ao seu dispor.",
+   "tema": "intensidade",
+   "ts": "0:48:42"
+  },
+  {
+   "texto": "Quando eu tomo responsabilidade sobre a acusação, eu temporizo o movimento que acabei de fazer.",
+   "tema": "suavizar intervenção",
+   "ts": "0:49:51"
+  },
+  {
+   "texto": "Completar o que a pessoa vai falar, sem pressa, mostra um grau de conexão muito grande.",
+   "tema": "acolhimento e sintonia",
+   "ts": "1:05:12"
+  },
+  {
+   "texto": "Quando a gente fala de acolhimento e de empatia, secretamente interpretação é mais importante do que escuta.",
+   "tema": "empatia",
+   "ts": "1:06:51"
+  },
+  {
+   "texto": "Trazer do bolso uma intervenção agressiva quase sempre é complicado: vai parecer que você está implicando com a pessoa.",
+   "tema": "timing",
+   "ts": "1:15:04"
+  },
+  {
+   "texto": "O objetivo do aprimoramento é apresentar exercícios para vocês treinarem em casa. Eu só dou o gostinho.",
+   "tema": "formato do grupo",
+   "ts": "1:21:56"
+  },
+  {
+   "texto": "Sempre que eu assumo alguma coisa, eu aumento a gradação da intervenção.",
+   "tema": "intensidade",
+   "ts": "1:36:32"
+  },
+  {
+   "texto": "Não existe nada tão absurdo ou idiota que não tenha sido proposto por algum psicoterapeuta.",
+   "tema": "história da psicologia",
+   "ts": "1:40:46"
+  },
+  {
+   "texto": "Em vez de perguntar sobre a coisa, você pergunta o porquê da coisa.",
+   "tema": "metapergunta",
+   "ts": "1:46:24"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Como deixar uma intervenção mais forte ou mais suave sem mudar o que você quer dizer",
+   "mensagem": "Intensidade é um botão independente do conteúdo: sobe com elipse, frase curta, afirmação e pressuposto; desce com foco na sua experiência, responsabilização, corpo e palavras do paciente.",
+   "roteiro": [
+    "Capa: a mesma intervenção pode ter vários volumes",
+    "Subir 1: elipse e frase curta",
+    "Subir 2: transforme a pergunta em afirmação (toda afirmação funciona como pergunta)",
+    "Descer 1: fale do que você está ouvindo/sentindo",
+    "Descer 2: 'me corrija se eu estiver errado'",
+    "Descer 3: corpo e palavras do paciente",
+    "Fecho: leia o campo antes de subir o tom"
+   ],
+   "corte_inicio": "0:20:41",
+   "corte_fim": "0:22:38"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pergunte o porquê, não a coisa",
+   "mensagem": "A metapergunta ('por que é tão difícil ver isso como um problema?') leva o paciente da resposta automática à reflexão.",
+   "roteiro": [
+    "Pergunta direta: 'isso não é um problema para você?'",
+    "Versão metapergunta: 'por que é tão difícil ver isso como um problema?'",
+    "Por que funciona: a causa é menos transparente que a sensação",
+    "Macete que sempre dá para usar"
+   ],
+   "corte_inicio": "1:45:27",
+   "corte_fim": "1:47:05"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "A tier list do acolhimento",
+   "mensagem": "Repetir é o básico; nomear com verdade o que a pessoa sente é mais; completar o raciocínio sem pressa é sintonia. Interpretação é mais importante que escuta.",
+   "roteiro": [
+    "Capa: acolher não é só ouvir",
+    "Nível 1: repetir o que a pessoa disse",
+    "Nível 2: pôr palavras verdadeiras no que ela sente",
+    "Nível 3: completar o raciocínio sem pressa",
+    "Empatia está no sentido, não na forma"
+   ],
+   "corte_inicio": "1:02:59",
+   "corte_fim": "1:06:51"
+  },
+  {
+   "formato": "stories",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Completar a frase do paciente: grosseria ou sintonia?",
+   "mensagem": "Grosseiro é acelerar a pessoa; completar sem pressa mostra conexão.",
+   "roteiro": [
+    "Enquete: você completa a frase do paciente?",
+    "Resposta: depende de como, com pressa ou com precisão",
+    "Citação do Alan"
+   ],
+   "corte_inicio": "1:05:12",
+   "corte_fim": "1:06:08"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Intervenção agressiva tirada do bolso vira implicância",
+   "mensagem": "Confronte quando o assunto surgir; depois, o paciente já está em outro lugar.",
+   "roteiro": [
+    "Frase-gancho",
+    "Explicação do timing",
+    "Dica prática: anote para retomar se o tema voltar"
+   ],
+   "corte_inicio": "1:15:04",
+   "corte_fim": "1:15:59"
+  },
+  {
+   "formato": "reels",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Por que uma intervenção da Gestalt choca quem vem de outra clínica?",
+   "mensagem": "Cada escola tem seu padrão de intensidade; antes de julgar, entenda a escola, e assista ao Caso Glória.",
+   "roteiro": [
+    "Gancho",
+    "Contexto de escola",
+    "Recomendação do Caso Glória (Rogers e Perls)",
+    "'Nada é tão absurdo que algum psicoterapeuta não tenha proposto'"
+   ],
+   "corte_inicio": "1:39:18",
+   "corte_fim": "1:41:53"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Um exercício para treinar intervenção com seus colegas",
+   "mensagem": "Vinheta de 3 minutos, pausa na primeira fala do terapeuta, destrinchar e reescrever um tom acima e um tom abaixo.",
+   "roteiro": [
+    "Como funciona a pausa na primeira intervenção",
+    "As quatro perguntas de análise",
+    "Rodadas de variação",
+    "Convite para o grupo"
+   ],
+   "corte_inicio": "0:02:18",
+   "corte_fim": "0:03:15"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Citado como um dos terapeutas do Caso Glória, recomendado como material obrigatório."
+  },
+  {
+   "nome": "Fritz Perls",
+   "contexto": "Um dos criadores da Gestalt-terapia; seu atendimento no Caso Glória é recomendado para ver como a Gestalt pode chocar."
+  },
+  {
+   "nome": "Caitel (?)",
+   "contexto": "Professor e gestalt-terapeuta de Alan (nome incerto na legenda), autor de uma sugestão de intervenção crua e direta numa supervisão sobre presentes inapropriados de um paciente; Alan recomenda uma aula dele no YouTube."
+  },
+  {
+   "nome": "Robson (?)",
+   "contexto": "Professor citado de passagem por outra história de supervisão (paciente que levava presentes, entre eles uma caneca)."
+  },
+  {
+   "nome": "Jacob Levy Moreno (?)",
+   "contexto": "Mencionado de forma pouco clara (legenda confusa) entre os percalços históricos da psicologia (psicodrama com o próprio filho)."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Alan)",
+  "objetivo": "Apresentar exercícios de treino de competências clínicas para os participantes repetirem fora do grupo ('eu só dou o gostinho'); neste encontro, integrar as competências do ciclo na análise da qualidade da intervenção.",
+  "publico": "Estudantes de psicologia e psicólogos em formação (menção a colegas de faculdade).",
+  "tamanho": "Cerca de 10 participantes online; ~7 ativos na última dinâmica.",
+  "duracao": "Cerca de 2 horas, à noite (menção a 20h30 no meio do encontro), online, gravado.",
+  "estrutura_padrao": "Ciclos de 4 ou 8 semanas com um tema por encontro (escuta, esquemas de aprofundamento, priorização, construção de frase, intervenção...). Encontro típico: abertura curta, bloco teórico e dinâmica com roleplay e feedback, fechamento; este encontro teve 'muito pouco papo' e foi quase todo prático.",
+  "papel_facilitador": "Propõe a dinâmica e a grade de análise, faz o primeiro papel de terapeuta como demonstração, convoca participantes pelo nome, dá comandos de variação, corrige e formaliza regras, abre parênteses teóricos, administra o tempo e pede feedback sobre a própria didática.",
+  "regras_combinados": "Vinhetas de 3–5 min contadas em roleplay (podem vir da própria vida, de casos atendidos ou ser inventadas); pausa na primeira intervenção; câmera opcional; preferência por falar em vez de escrever no chat nas rodadas rápidas; no chat simultâneo, escrever e só enviar quando a terapeuta falar; gravação encerrada antes da conversa livre final."
+ },
+ "reflexoes_do_facilitador": [
+  "Admite que o cronograma do ciclo 'não tinha uma estrutura tão rígida': algumas coisas ficaram de fora, outras ele acabou inventando.",
+  "Declara que o exercício é simples, mas de boa execução nada óbvia, e que está testando se consegue conduzir um grupo com uma dinâmica que exige mais conhecimento técnico.",
+  "Avisa que 'distância' é um conceito que não existe, criado na hora com palavras da língua portuguesa.",
+  "Reconhece várias vezes que o conceito de distância 'não está claro ainda', 'continua difícil, não está indo'.",
+  "Pede desculpas por um comando mal dado ('eu que não fui claro, perdão') e por ter entendido mal um comentário por estar preocupado com o horário.",
+  "Desiste de introduzir um terceiro eixo por falta de tempo e para não piorar a confusão; planeja um encontro futuro só sobre os eixos, começando pela teoria e depois com exercícios mais estruturados.",
+  "'Distância e intensidade são duas de setecentas variáveis possíveis, mas se der para trabalhar essas duas eu fico feliz.'",
+  "'Não é um problema de vocês, eu usei um termo ruim com distância'; 'esquece distância, fui infeliz nessa metáfora, vou reformular e trazer com uma nova cara'.",
+  "'Gosto de abrir muitos parênteses, gosto de ver vocês participando e, portanto, nosso tempo sempre acaba antes de eu conseguir fazer as coisas acontecerem.'",
+  "No fechamento pede críticas à didática e avalia que desta vez a dificuldade não foi culpa do grupo, 'como eu normalmente acho', nem intrínseca ao exercício: ele deixou mais difícil do que precisava.",
+  "Avalia que o grupo domina razoavelmente a intensidade, com mais dificuldade de descer o tom quando ele já está baixo."
+ ],
+ "referencias_a_outros_encontros": [
+  "Apresentado como culminação das últimas sete semanas do ciclo: estarão presentes a dinâmica da escuta ('acho que foi a primeira que a gente fez'), os esquemas de aprofundamento, a priorização (tema do encontro anterior, 'semana passada'), a hermenêutica (tocada algumas vezes) e a construção de frase.",
+  "Lógica de cronograma: 'a partir de agora' os cronogramas serão em ciclos de quatro ou oito semanas; este encontro está no fim do ciclo, e a segunda-feira seguinte deve ser o último dia de aprimoramento com Alan nesse ciclo.",
+  "O conteúdo do ciclo não foi totalmente planejado: 'algumas coisas ficaram de fora, outras eu acabei inventando'.",
+  "A dinâmica da votação de intervenções já foi feita antes por uma participante ('a área já fez com certeza') e é apresentada como provável conteúdo do próximo encontro (segunda-feira, último do ciclo); o encontro de hoje é 'um passinho na direção dela'.",
+  "Planos futuros: um encontro dedicado só aos eixos (intensidade, distância e outros), começando pela teoria (cf. Alan 03 - Distância, intensidade, forma e conteúdo, cujo título coincide com o tema; a numeração dos arquivos pode não ser cronológica); um 'react' do Caso Glória com professores convidados.",
+  "Nomenclatura de 'máxima psicológica' já vista em grupos de aprimoramento anteriores.",
+  "Encontros vizinhos pela numeração do vault: Alan 16 - Intervenção (anterior) e Alan 18 - Terapia de casal (seguinte); Alan 14/15 - Priorização clínica; Alan 06 - Esquemas de aprofundamento; Alan 02 - Construção frasal."
+ ],
+ "observacoes": "Legenda automática com muito ruído: nomes de participantes frequentemente deformados pela legenda (omitidos na nota). Nome do professor gestalt-terapeuta incerto (Caitel/Kaitel/Caetão?); menções históricas confusas ('filho do Moreno', 'Azalém' = Esalen?). O economista parafraseado não é nomeado. As vinhetas são roleplays (podem se basear na vida dos participantes); detalhes foram generalizados. A vinheta 4 foi encenada pelo próprio Alan com elementos de brincadeira com colegas presentes, e os nomes citados nela foram omitidos. A história dos presentes (supervisão de uma colega de Alan) foi anonimizada. O terceiro eixo que Alan pretendia introduzir não é revelado. A partir de ~1:56:44 há uma fala truncada de participante após o fim oficial."
+}

@@ -1,0 +1,780 @@
+{
+ "id": "acervo-22",
+ "nota": "Acervo 22 - Formas de encerrar a sessão",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "Formas de encerrar a sessão",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Rodolfo"
+ ],
+ "resumo": "Encontro de aprimoramento sobre encerramento de sessão. O facilitador (Rodolfo, nome deduzido da fala) defende que não existe forma correta única de encerrar e que desconforto no fim não é, por si, erro clínico; colhe relatos dos participantes como pacientes e apresenta um cardápio de formas de encerrar (tarefa de casa ou convite à reflexão, corte lacaniano, revisão do processo, reconhecimento de conquistas, autorrevelação, psicoeducação ou plano de ação e ligar os pontos pelo esquema do pente do Alan), afirmando que nenhuma pertence a uma abordagem. Em seguida conduz um roleplay de 10 minutos de primeira sessão com paciente simulado resistente e egossintônico; o terapeuta-voluntário encerra protegendo o vínculo (convite, pedido de consentimento, compromisso para a semana seguinte, não se posicionar de antemão, micro-autorrevelação). A discussão segue em camadas (intenção do terapeuta, observadores, paciente, pontuações) e termina com uma pergunta contrafactual sobre o que não seria bom neste caso (confronto lógico, imposição de ruptura, psicoeducação genérica). Fecha com a máxima 'não existe regra geral em terapia', formulário de presença e avaliação e o anúncio de Diogo como co-facilitador.",
+ "em_uma_frase": "Não há jeito certo de encerrar uma sessão, há um cardápio de formas cuja escolha depende do caso; com um paciente resistente na primeira sessão, o melhor fecho é o que protege o vínculo e garante que ele volte.",
+ "competencias": [
+  "Abertura e encerramento de sessão",
+  "Primeira sessão e entrevistas iniciais",
+  "Relação terapêutica",
+  "Acolhimento e validação",
+  "Intervenção",
+  "Psicoeducação",
+  "Aprofundamento"
+ ],
+ "abordagens": [
+  "Terapia cognitivo-comportamental",
+  "Psicanálise lacaniana",
+  "Abordagem centrada na pessoa",
+  "Gestalt-terapia"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:02",
+   "bloco": "Abertura",
+   "descricao": "Apresenta o tema (encerramento de sessão), suas funções (reflexão, integração, elaboração) e antecipa que não existe forma única correta.",
+   "funcao": "Dar relevância ao tema e antecipar a tese central.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:00:57",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Divulgação da clínica social da Allos (valor social negociável; régua alta na avaliação dos terapeutas).",
+   "funcao": "Recado institucional.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:03:01",
+   "bloco": "Teoria",
+   "descricao": "Encerramento pode fortalecer a relação, mas também gerar desconforto sem ser erro clínico; introduz a tarefa de casa da TCC.",
+   "funcao": "Desfazer a ideia de que um bom fim é sempre confortável.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:04:45",
+   "bloco": "Combinados",
+   "descricao": "Anuncia um exercício de cerca de 10 minutos e pede que levante a mão quem faz terapia.",
+   "funcao": "Preparar participação e trazer a vivência de paciente como material.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:05:38",
+   "bloco": "Discussão",
+   "descricao": "Relatos de participantes como pacientes: terapeuta que falou a sessão inteira (frustrante e depois útil), tarefas de TCC não feitas, contrato rígido de 50 minutos, 'bombas' trazidas no fim da sessão.",
+   "funcao": "Ancorar a teoria na experiência vivida e mostrar efeitos tardios do desconforto.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:14:52",
+   "bloco": "Teoria",
+   "descricao": "Cardápio de formas de encerrar: tarefa ou convite à reflexão, corte lacaniano, revisão do processo, reconhecimento de conquistas, autorrevelação, psicoeducação ou plano de ação, ligar os pontos (esquema do pente do Alan).",
+   "funcao": "Ampliar repertório antes da prática.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:22:14",
+   "bloco": "Teoria",
+   "descricao": "Formas de encerrar não pertencem a abordagens; integração conforme estilo pessoal; o grupo é espaço de experimentação.",
+   "funcao": "Liberar os participantes para experimentar.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:24:04",
+   "bloco": "Combinados",
+   "descricao": "Objetivo do exercício sem julgamento; roleplay terapeuta/paciente; voluntários; câmera opcional; foco apenas no terapeuta e no encerramento; timer de 10 minutos.",
+   "funcao": "Dar segurança e delimitar o foco do feedback.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:28:21",
+   "bloco": "Dinâmica",
+   "descricao": "Roleplay de primeira sessão com paciente simulado resistente; o terapeuta encerra com convite, pedido de consentimento e compromisso para a semana seguinte.",
+   "funcao": "Produzir material vivo para analisar o encerramento.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:38:05",
+   "bloco": "Retomada",
+   "descricao": "Situa participante recém-chegada sobre tema, roleplay e foco.",
+   "funcao": "Incluir quem chegou atrasado.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:38:48",
+   "bloco": "Feedback",
+   "descricao": "Terapeuta explica sua intenção (resistência percebida, vínculo primeiro); observadores comentam; quem fez o paciente diz como se sentiu; facilitador pontua fantasias sobre a terapia e micro-autorrevelação.",
+   "funcao": "Ler o encerramento pela intenção, pelo efeito e pelo contexto.",
+   "duracao_min": 16
+  },
+  {
+   "ts": "0:54:40",
+   "bloco": "Discussão",
+   "descricao": "Pergunta contrafactual: que escolhas não seriam positivas para este caso? Confronto lógico, imposição de ruptura com o sintoma, psicoeducação genérica; introjeção; o paciente 'dando o recado'.",
+   "funcao": "Aprender por contraste sem criticar o colega.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:02:12",
+   "bloco": "Fechamento",
+   "descricao": "Convida Diogo a comentar; síntese: não existe regra geral, é preciso sensibilidade para cada caso.",
+   "funcao": "Consolidar a máxima do dia.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "1:03:06",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Formulário de presença (horas complementares) e de avaliação; anuncia Diogo como co-facilitador; nova divulgação da clínica social.",
+   "funcao": "Logística e vínculo institucional.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:06:34",
+   "bloco": "Fechamento",
+   "descricao": "Rodada aberta: participante nomeia sua dificuldade com encerramento e intervenção em primeira sessão; facilitador reforça que o grupo é para experimentar e a convida a ser terapeuta na próxima.",
+   "funcao": "Nomear aprendizados e abrir o próximo ciclo.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Corte da sessão",
+   "definicao": "Encerramento abrupto e inesperado próprio da psicanálise lacaniana. Bem aplicado, evidencia um aspecto que estava sendo trabalhado e mantém o paciente engajado, pensando durante a semana; mal aplicado, parece e é sem sentido. Exige olhar situacional.",
+   "exemplo": "O paciente fica a semana inteira se perguntando por que a sessão terminou assim.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:16:04"
+  },
+  {
+   "nome": "Tarefa de casa",
+   "definicao": "Atividade proposta no fim da sessão para ser feita até a próxima: pode ser estruturada (registro de pensamentos) ou apenas um convite à reflexão sobre situações, sentimentos ou relações.",
+   "exemplo": "Participante conta que recebia folhas de diário na TCC e não as fazia; hoje recebe uma reflexão final.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:09:29"
+  },
+  {
+   "nome": "Generalização de habilidades",
+   "definicao": "Objetivo da tarefa de casa: fazer com que o que foi conversado e praticado na sessão chegue à vida cotidiana do cliente.",
+   "exemplo": "",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:09:29"
+  },
+  {
+   "nome": "Revisão do processo terapêutico",
+   "definicao": "Encerramento que revisa o caminho percorrido, os planos e objetivos (ainda fazem sentido? o que foi alcançado? que desafios surgiram?) e reorienta metas para o futuro; inclui o reconhecimento explícito das conquistas do paciente. Não cabe numa primeira sessão.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:17:06"
+  },
+  {
+   "nome": "Autorrevelação",
+   "definicao": "O terapeuta revela algo genuíno sobre si, por exemplo como se sente atendendo a pessoa. É mais arriscada e exige saber manejar reações diversas do paciente.",
+   "exemplo": "No roleplay, a micro-autorrevelação 'adorei conversar com você' reforçou o vínculo.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:19:22"
+  },
+  {
+   "nome": "Amarração da sessão",
+   "definicao": "'Ligar os pontos': mostrar ao paciente o mecanismo comum que atravessa temas aparentemente dispersos trazidos na sessão (trabalho, mãe, namoro). É a forma mais difícil de encerrar e pouco indicada para iniciantes.",
+   "exemplo": "Esquema do pente do Alan.",
+   "abordagem": "",
+   "ts": "0:22:14"
+  },
+  {
+   "nome": "Esquema do pente",
+   "definicao": "Um dos esquemas de aprofundamento do Alan: o terapeuta pergunta sobre várias áreas da vida sem aprofundar nenhuma, como numa anamnese, e no fim faz a ligação entre elas. Gera insights potentes, mas é difícil; o próprio Alan desencoraja muitos de usá-lo.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:21:18"
+  },
+  {
+   "nome": "Esquemas de aprofundamento",
+   "definicao": "Sistematização do Alan sobre como o aprofundamento acontece numa sessão; segundo o facilitador, ele refletiu sobre algo pouco teorizado e sem literatura própria.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:20:08"
+  },
+  {
+   "nome": "Contrato terapêutico",
+   "definicao": "Combinados de enquadre, como a duração fixa de 50 minutos, que estruturam a sessão, ensinam o paciente a se organizar dentro dela e ajudam a manejar temas 'bombásticos' trazidos no fim.",
+   "exemplo": "Participante relata que a terapeuta sempre encerrou no horário e começava a 'enxugar' a sessão antes quando previa necessidade de manejo.",
+   "abordagem": "",
+   "ts": "0:11:37"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "Aqui chamada de vínculo: o terapeuta do roleplay a coloca como prioridade da primeira sessão com paciente resistente, e o encerramento é usado para reforçá-la.",
+   "exemplo": "Metáfora do pratinho de comida oferecido ao animal selvagem.",
+   "abordagem": "",
+   "ts": "0:40:10"
+  },
+  {
+   "nome": "Expectativas sobre o processo terapêutico",
+   "definicao": "Fantasias e expectativas que o paciente cria sobre a terapia a partir de experiências anteriores; não garantem abandono, mas são ponto de atenção a explorar.",
+   "exemplo": "Paciente simulado com várias experiências ruins com terapeutas.",
+   "abordagem": "",
+   "ts": "0:53:32"
+  },
+  {
+   "nome": "Transferência",
+   "definicao": "Mencionada por participante no chat para nomear como as experiências com terapeutas anteriores atuam na relação com o terapeuta atual.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:53:32"
+  },
+  {
+   "nome": "Introjeção",
+   "definicao": "Termo da Gestalt usado pelo facilitador: profissionais que impõem um modo 'correto' de viver fomentam no paciente um funcionamento introjetivo; repetir isso na terapia reproduz o sofrimento externo.",
+   "exemplo": "Confrontar o paciente só com a lógica sobre o peso-meta.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:56:52"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Postura fechada do paciente ao processo, percebida pelo terapeuta do roleplay e razão para não confrontar e priorizar o vínculo.",
+   "exemplo": "Metáfora da porta de uma caverna escura em que o sol ainda não entra.",
+   "abordagem": "",
+   "ts": "0:38:48"
+  },
+  {
+   "nome": "Máximas clínicas",
+   "definicao": "Frases-guia repetidas na Allos: 'não existe intervenção errada, é questão de saber lidar com as consequências' e 'não existe regra geral em terapia'.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:19:22"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Roleplay de encerramento de sessão",
+   "objetivo": "Experimentar uma forma de encerrar a sessão sem risco para pacientes reais e discutir intenção do terapeuta, efeito no paciente e alternativas.",
+   "competencias": [
+    "Abertura e encerramento de sessão",
+    "Primeira sessão e entrevistas iniciais",
+    "Relação terapêutica",
+    "Acolhimento e validação"
+   ],
+   "configuracao": "Dupla voluntária (terapeuta e paciente) com vídeos fixados; o restante do grupo observa. Online, cerca de 5 a 7 participantes ativos; câmera opcional.",
+   "tempo": "10 minutos de atendimento e cerca de 25 minutos de discussão.",
+   "materiais": "Nenhum; quem faz o paciente inventa o caso. Útil ter o cardápio de formas de encerrar visível.",
+   "consigna": "Preciso de dois voluntários, um terapeuta e um paciente. Façam um atendimento rápido de 10 minutos, como uma primeira sessão. Depois discutimos: o foco é sempre no terapeuta e hoje só no encerramento, para entender o que ele estava propondo.",
+   "passos": [
+    "Expor brevemente o cardápio de formas de encerrar.",
+    "Combinar que o espaço é de experimentação: ninguém é julgado ou avaliado.",
+    "Chamar voluntários, fixar os vídeos e avisar que o paciente pode sinalizar desconforto a qualquer momento.",
+    "Marcar 10 minutos e deixar o atendimento correr sem interrupção.",
+    "Perguntar primeiro ao terapeuta o que o levou a encerrar daquela forma.",
+    "Abrir aos observadores, lembrando que o foco é o encerramento.",
+    "Ouvir quem fez o paciente: como se sentiu e o que achou do encerramento.",
+    "Pontuar o que foi levado em conta e o que ficou sem exploração.",
+    "Fazer a pergunta contrafactual: que encerramentos não seriam bons para este caso e por quê?",
+    "Sintetizar: não há regra geral; decide a sensibilidade ao caso."
+   ],
+   "feedback": "Predominantemente apreciativo e indireto: valida a leitura do terapeuta, amplia comentários do grupo e obtém contraste pela pergunta contrafactual, sem criticar o colega. Critérios implícitos: coerência do encerramento com o que aconteceu na sessão (resistência, tempo curto, vínculo frágil); uso das informações dadas pelo paciente (histórico de terapias ruins); consequência provável (o paciente volta?); não se posicionar cedo sobre o comportamento-problema.",
+   "exemplos_praticos": "Caso simulado: paciente desconfiado da terapia defendendo uma relação egossintônica com uma 'amiga' que representa um transtorno alimentar. O terapeuta acolheu, explorou custo-benefício e não confrontou; encerrou dizendo que havia muito a conversar e pouco tempo, convidou a voltar pedindo o 'ok' e o compromisso de se verem na semana seguinte, declarou não concordar nem discordar de antemão e agradeceu ('adorei conversar com você'). O paciente aceitou voltar mas disse que a relação 'não é negociável'. Observadores destacaram que o histórico de terapias ruins não passou batido e o compromisso mútuo; quem fez o paciente disse que a garantia de continuidade acertou em cheio; o grupo apontou como maus caminhos o confronto lógico, a imposição de ruptura e a psicoeducação genérica.",
+   "variacoes": "Trocar papéis se houver tempo; pedir que o terapeuta escolha ou sorteie de antemão uma forma do cardápio; aplicar a sessões intermediárias (revisão, conquistas, ligar os pontos); rodar duas duplas com o mesmo caso para comparar encerramentos.",
+   "armadilhas": "Foco escorregar para o atendimento inteiro; feedback só positivo; casos simulados muito pesados exigem cuidado com quem interpreta; 10 minutos não reproduzem o fim natural de uma primeira sessão; conexão instável derruba participantes.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:24:04"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Abrir com a tese de chegada",
+   "descricao": "Enuncia logo no início o tema, sua importância e a tese de que não existe forma única correta, que o encontro inteiro vai confirmar.",
+   "exemplo": "'Não existe exatamente uma única forma correta de encerrar uma sessão.'",
+   "ts": "0:00:02"
+  },
+  {
+   "movimento": "Anunciar o exercício cedo",
+   "descricao": "Interrompe a exposição para avisar que haverá um exercício rápido e que conta com a participação, preparando voluntários.",
+   "exemplo": "'Coisa de 10 minutinhos, vai ser bem maneiro e eu conto com a participação de vocês.'",
+   "ts": "0:04:45"
+  },
+  {
+   "movimento": "Usar a vivência dos participantes como pacientes",
+   "descricao": "Pergunta quem faz terapia e como o terapeuta encerra; os relatos viram exemplos vivos da teoria.",
+   "exemplo": "'Levanta a mão quem aqui está no próprio processo de terapia.'",
+   "ts": "0:04:45"
+  },
+  {
+   "movimento": "Normalizar em vez de corrigir",
+   "descricao": "Reenquadra relatos de raiva do próprio terapeuta como efeito possível de uma boa intervenção.",
+   "exemplo": "'O psicólogo é pago para falar aquilo que você precisa ouvir.'",
+   "ts": "0:07:57"
+  },
+  {
+   "movimento": "Trazer o chat para a conversa",
+   "descricao": "Lê comentários do chat em voz alta e os integra ao argumento.",
+   "exemplo": "'Quem nunca deixou uma boa para o final?'; 'psicoeducação seria ruim nesse caso?'",
+   "ts": "0:15:53"
+  },
+  {
+   "movimento": "Delimitar honestamente a própria competência",
+   "descricao": "Admite que Lacan não é sua área e não aprofunda o que não domina.",
+   "exemplo": "'Não vou entrar tanto nisso, que não é a minha área.'",
+   "ts": "0:17:06"
+  },
+  {
+   "movimento": "Criar segurança e recortar o foco",
+   "descricao": "Declara o grupo como espaço de experimentação sem julgamento e restringe o feedback ao terapeuta e ao encerramento.",
+   "exemplo": "'O foco sempre vai ser no terapeuta; hoje só no encerramento.'",
+   "ts": "0:27:15"
+  },
+  {
+   "movimento": "Proteger quem faz o paciente",
+   "descricao": "Antes de discutir um caso simulado pesado, autoriza o voluntário a sinalizar desconforto a qualquer momento.",
+   "exemplo": "'Se você se sentir incomodado a qualquer momento, sinaliza para a gente.'",
+   "ts": "0:38:48"
+  },
+  {
+   "movimento": "Feedback em camadas começando pela intenção",
+   "descricao": "Pergunta primeiro ao terapeuta por que encerrou assim, depois abre aos observadores e por último ao paciente, para avaliar a escolha à luz do objetivo.",
+   "exemplo": "'O que te levou a escolher encerrar o atendimento da forma que você escolheu?'",
+   "ts": "0:38:48"
+  },
+  {
+   "movimento": "Retomar para recém-chegados",
+   "descricao": "Resume o tema, o roleplay e o foco para quem entra no meio.",
+   "exemplo": "Explica a uma participante que chegou que o que ela viu foi uma simulação de 10 minutos.",
+   "ts": "0:38:05"
+  },
+  {
+   "movimento": "Ampliar a fala do participante",
+   "descricao": "Transforma observações do grupo em pontos clínicos mais precisos.",
+   "exemplo": "Da fala 'a informação não passou batida' extrai que o terapeuta levou em conta, sem explorar, as fantasias do paciente sobre a terapia.",
+   "ts": "0:43:08"
+  },
+  {
+   "movimento": "Pergunta contrafactual",
+   "descricao": "Pede que o grupo aponte escolhas ruins para o caso sem se referir ao colega, gerando contraste sem exposição.",
+   "exemplo": "'Não estou falando do encerramento dele; que possibilidades não seriam positivas para esse caso?'",
+   "ts": "0:54:40"
+  },
+  {
+   "movimento": "Relativizar as próprias quase-regras",
+   "descricao": "Depois de indicar um caminho, ressalva que não é regra geral, para que o grupo não saia com dogmas.",
+   "exemplo": "'Isso não quer dizer que confrontar é errado... me contradizendo aqui, mas...'",
+   "ts": "0:56:52"
+  },
+  {
+   "movimento": "Convidar o colega sênior",
+   "descricao": "Oferece a palavra a Diogo, que chegou atrasado, mantendo-o no grupo.",
+   "exemplo": "'Diogão, quer comentar alguma coisa?'",
+   "ts": "1:02:12"
+  },
+  {
+   "movimento": "Fechar com máxima, logística e rodada aberta",
+   "descricao": "Sintetiza com 'não existe regra geral', passa formulários de presença e avaliação, abre a última palavra e convida quem ainda não foi terapeuta para o próximo.",
+   "exemplo": "'Numa próxima oportunidade, você está mais que convidada a ser terapeuta.'",
+   "ts": "1:09:02"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Pense o encerramento desde o começo da sessão.",
+   "justificativa": "O fechamento depende do que foi construído antes; uma sessão impositiva não se salva no último minuto.",
+   "contexto": "Sempre, sobretudo com pacientes resistentes.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:55:37"
+  },
+  {
+   "dica": "Escolha a forma de encerrar pelo caso e pelo momento, não pela sua abordagem.",
+   "justificativa": "As formas não pertencem a escolas; vale o que faz sentido para o caso, o estilo e a personalidade do clínico.",
+   "contexto": "Ao planejar o fim de cada sessão.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:23:13"
+  },
+  {
+   "dica": "Use a tarefa de casa ou um convite à reflexão para levar a sessão para a semana.",
+   "justificativa": "Promove a generalização do que foi trabalhado para o cotidiano.",
+   "contexto": "Quando há habilidade a praticar ou tema a amadurecer.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:14:52"
+  },
+  {
+   "dica": "Reserve a revisão do processo para quando já houver processo.",
+   "justificativa": "Na primeira sessão não há caminho a revisar; mais tarde, a revisão reorienta objetivos e expectativas.",
+   "contexto": "Marcos do tratamento.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:17:06"
+  },
+  {
+   "dica": "Explicite, com concretude, as conquistas que você percebeu no paciente.",
+   "justificativa": "O feedback positivo sobre o progresso fortalece a relação terapêutica.",
+   "contexto": "Encerramentos de sessões de meio ou fim de processo.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:18:13"
+  },
+  {
+   "dica": "Só use autorrevelação no fim da sessão se estiver pronto para manejar a reação.",
+   "justificativa": "É arriscada; o paciente pode reagir de formas diversas e haverá uma semana até a próxima sessão.",
+   "contexto": "Com vínculo razoável e de forma genuína.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:19:22"
+  },
+  {
+   "dica": "Evite ligar os pontos (esquema do pente) enquanto estiver começando.",
+   "justificativa": "Exige identificar o mecanismo comum entre áreas da vida; errar transforma síntese em imposição.",
+   "contexto": "Depois de treino, ou em espaços de experimentação.",
+   "competencia": "Aprofundamento",
+   "ts": "0:22:14"
+  },
+  {
+   "dica": "Com paciente resistente na primeira sessão, encerre protegendo o vínculo: convide, peça consentimento e firme compromisso para a próxima semana.",
+   "justificativa": "O objetivo principal é que ele volte; pedir o 'ok' dá agência ao paciente.",
+   "contexto": "Paciente desconfiado da terapia ou defendendo o próprio sintoma.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:35:55"
+  },
+  {
+   "dica": "Não concorde nem discorde de antemão do comportamento-problema egossintônico.",
+   "justificativa": "Comunica que você quer entender antes de julgar, sem endossar o risco.",
+   "contexto": "Primeiros contatos com comportamentos que o paciente defende.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:47:10"
+  },
+  {
+   "dica": "Mostre que o histórico de terapias ruins não passou batido.",
+   "justificativa": "O paciente se sente ouvido e o terapeuta evita repetir o padrão anterior.",
+   "contexto": "Quando o paciente cita experiências negativas com outros profissionais.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:41:18"
+  },
+  {
+   "dica": "Explore as expectativas e fantasias do paciente sobre a terapia.",
+   "justificativa": "Experiências anteriores moldam o que ele espera; é ponto de atenção, não sentença de abandono.",
+   "contexto": "Primeira sessão, quando surgem relatos de terapias anteriores.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:53:32"
+  },
+  {
+   "dica": "Não conclua no primeiro encontro que o paciente tende a abandonar a terapia.",
+   "justificativa": "Às vezes quem falhou foram os terapeutas anteriores; o rótulo fecha hipóteses cedo demais.",
+   "contexto": "Ao ouvir 'já passei por vários terapeutas'.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:51:50"
+  },
+  {
+   "dica": "Não confronte só com lógica nem imponha a ruptura com o sintoma logo de início.",
+   "justificativa": "Repete o que o paciente já ouve fora, alimenta funcionamento introjetivo e tende a produzir abandono.",
+   "contexto": "Paciente egossintônico, vínculo inicial.",
+   "competencia": "Intervenção",
+   "ts": "0:55:37"
+  },
+  {
+   "dica": "Leia a última frase do paciente como um recado.",
+   "justificativa": "'Isso não é negociável' avisa o que o fará não voltar.",
+   "contexto": "Fecho de sessões iniciais.",
+   "competencia": "Escuta clínica",
+   "ts": "1:01:12"
+  },
+  {
+   "dica": "Evite psicoeducação genérica com quem já ouviu o mesmo de vários profissionais.",
+   "justificativa": "Parte de uma regra geral e soa como mais um que não escuta.",
+   "contexto": "Pacientes com longa trajetória de tratamentos.",
+   "competencia": "Psicoeducação",
+   "ts": "1:02:12"
+  },
+  {
+   "dica": "Firme o compromisso dos dois lados: o paciente volta e o terapeuta estará lá.",
+   "justificativa": "Para quem já foi deixado por terapeutas, a garantia de continuidade do próprio terapeuta pesa tanto quanto a do paciente.",
+   "contexto": "Primeiras sessões com histórico de rupturas.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:48:50"
+  },
+  {
+   "dica": "Aceite que o paciente pode sair desconfortável.",
+   "justificativa": "Desconforto no fim não é necessariamente erro; pode ser o que ele precisava ouvir.",
+   "contexto": "Ao avaliar o próprio encerramento.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:03:38"
+  },
+  {
+   "dica": "Estabeleça contrato de horário claro desde o início (sugestão de participante, relativizada pelo facilitador).",
+   "justificativa": "Ajuda o paciente a organizar a própria sessão e a manejar temas bombásticos trazidos no fim.",
+   "contexto": "Pacientes que tendem a estender as sessões.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:11:37"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Não existe uma forma correta de encerrar uma sessão.",
+   "argumento": "Cada forma produz efeitos distintos e a escolha depende do fenômeno em questão; o roleplay mostrou que o bom encerramento depende do caso.",
+   "contraponto": "Manuais e scripts de fecho padrão.",
+   "implicacao": "Formar repertório e sensibilidade situacional, não um script.",
+   "quem": "Rodolfo",
+   "ts": "1:04:10"
+  },
+  {
+   "tese": "Desconforto no encerramento não é, por si, erro clínico.",
+   "argumento": "Frustração ou confusão podem ser efeito pretendido (corte) ou o preço de ouvir o necessário; relatos mostram impacto positivo depois.",
+   "contraponto": "A ideia de que a sessão deve terminar sempre confortável.",
+   "implicacao": "Avaliar o encerramento pela condução e pelo manejo, não pelo conforto imediato.",
+   "quem": "Rodolfo",
+   "ts": "0:03:38"
+  },
+  {
+   "tese": "O psicólogo é pago para dizer o que o paciente precisa ouvir, não o que quer ouvir.",
+   "argumento": "Muitas vezes o papel do terapeuta é falar coisas difíceis.",
+   "contraponto": "Terapia complacente; no mesmo encontro, porém, participantes lembram que sem técnica e vínculo 'escancarar' vira violência.",
+   "implicacao": "Dosar a verdade pelo vínculo.",
+   "quem": "Rodolfo",
+   "ts": "0:07:57"
+  },
+  {
+   "tese": "As formas de encerrar não pertencem às abordagens.",
+   "argumento": "Há inclinações naturais, mas nenhuma regra impede o uso; o critério é o estilo pessoal e a clínica de cada um.",
+   "contraponto": "Identidade de abordagem que restringe o repertório técnico.",
+   "implicacao": "Integrar técnicas conforme o caso e o estilo.",
+   "quem": "Rodolfo",
+   "ts": "0:23:13"
+  },
+  {
+   "tese": "Não existe intervenção errada; é questão de saber lidar com as consequências.",
+   "argumento": "O valor de uma intervenção depende do manejo do que ela provoca (máxima atribuída à Allos).",
+   "contraponto": "Listas de 'nunca faça'; o próprio facilitador admite que algumas escolhas são muito mais arriscadas.",
+   "implicacao": "Antes de intervir, prever reações e ter um plano para elas.",
+   "quem": "Rodolfo",
+   "ts": "0:19:22"
+  },
+  {
+   "tese": "O corte lacaniano bem aplicado faz todo sentido; mal aplicado, não tem sentido algum.",
+   "argumento": "Evidencia um aspecto do discurso e engaja o paciente durante a semana; fora de contexto, é só estranho.",
+   "contraponto": "Tanto a ridicularização do corte quanto seu uso automático.",
+   "implicacao": "Olhar situacional antes de cortar.",
+   "quem": "Rodolfo",
+   "ts": "0:16:04"
+  },
+  {
+   "tese": "Confrontar não é errado, mas com paciente resistente na primeira sessão o caminho do vínculo é muito mais seguro.",
+   "argumento": "É difícil confrontar sem soar agressivo e o paciente já sinalizou que romperia.",
+   "contraponto": "A devolutiva impositiva e, no outro extremo, a regra 'nunca confronte'.",
+   "implicacao": "Adiar o confronto até haver vínculo.",
+   "quem": "Rodolfo",
+   "ts": "0:57:54"
+  },
+  {
+   "tese": "Os esquemas de aprofundamento do Alan sistematizam algo pouco teorizado.",
+   "argumento": "Alan refletiu sobre como o aprofundamento acontece, algo sobre o qual quase ninguém refletia e sem literatura própria.",
+   "contraponto": "Formação que ensina o que perguntar mas não como.",
+   "implicacao": "Usar os esquemas, como o pente, também como ferramenta de encerramento.",
+   "quem": "Rodolfo",
+   "ts": "0:20:08"
+  },
+  {
+   "tese": "O grupo de aprimoramento é espaço de experimentação, não de avaliação.",
+   "argumento": "Testar formas novas com pacientes reais tem riscos; no grupo ninguém é julgado.",
+   "contraponto": "Formação centrada em avaliação.",
+   "implicacao": "Estimular escolhas ousadas no roleplay.",
+   "quem": "Rodolfo",
+   "ts": "0:24:04"
+  },
+  {
+   "tese": "Só diante de um caso específico dá para discutir o melhor caminho.",
+   "argumento": "As consequências mais ou menos agradáveis dependem daquele paciente; não se transforma o que um colega fez em protocolo.",
+   "contraponto": "Busca de protocolos universais.",
+   "implicacao": "Treinar com casos concretos e variados.",
+   "quem": "Rodolfo",
+   "ts": "1:09:02"
+  },
+  {
+   "tese": "Devolutivas que 'escancaram' sem técnica nem vínculo estão por trás de muitas queixas éticas.",
+   "argumento": "Há técnica, forma e momento para dizer coisas difíceis.",
+   "contraponto": "O terapeuta que devolve com crueza em nome da verdade.",
+   "implicacao": "Devolver responsabilidade ao paciente de forma construída.",
+   "quem": "participante",
+   "ts": "0:59:04"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "O psicólogo, muitas vezes, é pago para falar aquilo que você precisa ouvir, não aquilo que você quer ouvir.",
+   "tema": "papel do terapeuta",
+   "ts": "0:07:57"
+  },
+  {
+   "texto": "Às vezes está tudo bem que o cliente sinta desconforto no encerramento de uma sessão. Isso não necessariamente indica um erro clínico.",
+   "tema": "encerramento e desconforto",
+   "ts": "0:03:38"
+  },
+  {
+   "texto": "Quando o corte é bem aplicado, ele faz todo sentido: evidencia um aspecto que estava sendo trabalhado e deixa o paciente pensando a semana inteira.",
+   "tema": "corte lacaniano",
+   "ts": "0:16:04"
+  },
+  {
+   "texto": "Não existe intervenção errada. É apenas uma questão de saber lidar com as consequências daquela intervenção.",
+   "tema": "máxima clínica",
+   "ts": "0:19:22"
+  },
+  {
+   "texto": "Não existe regra do tipo 'eu sou de tal abordagem, então tenho que usar tal coisa'.",
+   "tema": "abordagens e técnica",
+   "ts": "0:23:13"
+  },
+  {
+   "texto": "Você não está aqui para ser julgado nem avaliado. Este grupo é para a gente experimentar.",
+   "tema": "clima do grupo",
+   "ts": "0:24:04"
+  },
+  {
+   "texto": "O foco sempre vai ser no terapeuta.",
+   "tema": "foco do feedback",
+   "ts": "0:27:15"
+  },
+  {
+   "texto": "É como o pratinho de comida que você deixa para o animal selvagem: ele vai chegando aos pouquinhos.",
+   "tema": "vínculo na primeira sessão (participante)",
+   "ts": "0:40:10"
+  },
+  {
+   "texto": "O encerramento vai sendo construído ao longo da sessão.",
+   "tema": "encerramento",
+   "ts": "0:55:37"
+  },
+  {
+   "texto": "Isso não quer dizer que confrontar é errado. Quer dizer que, para este caso, possivelmente não seria um caminho interessante.",
+   "tema": "confronto",
+   "ts": "0:56:52"
+  },
+  {
+   "texto": "Ele está dando um recado muito claro: se você tentar impor essa ruptura, eu não volto.",
+   "tema": "escuta do fim da sessão",
+   "ts": "1:01:12"
+  },
+  {
+   "texto": "Não existe regra geral em terapia.",
+   "tema": "máxima clínica",
+   "ts": "1:03:06"
+  },
+  {
+   "texto": "Eu vi como ele fez, mas não dá para pegar o que ele fez e seguir como protocolo para qualquer caso.",
+   "tema": "aprendizagem clínica (participante)",
+   "ts": "1:07:54"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "7 jeitos de encerrar uma sessão (e quando cada um funciona)",
+   "mensagem": "Tarefa ou reflexão, corte, revisão, conquistas, autorrevelação, psicoeducação ou plano de ação e ligar os pontos: nenhum é exclusivo de uma abordagem; escolha pelo caso.",
+   "roteiro": [
+    "Capa: seu jeito de terminar a sessão é sempre o mesmo?",
+    "Tarefa ou convite à reflexão: leva a sessão para a semana",
+    "Corte: evidencia algo e engaja; mal feito, só confunde",
+    "Revisão do processo: só quando já existe processo",
+    "Conquistas: dizer o progresso fortalece o vínculo",
+    "Autorrevelação: só se souber manejar a reação",
+    "Ligar os pontos: o mais potente e o mais difícil",
+    "Fecho: não existe forma certa, existe a forma para este caso"
+   ],
+   "corte_inicio": "0:16:04",
+   "corte_fim": "0:18:13"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Seu paciente saiu irritado da sessão. Você errou?",
+   "mensagem": "Desconforto no encerramento não é, por si, erro clínico; o que importa é como foi conduzido e manejado.",
+   "roteiro": [
+    "Pergunta provocativa",
+    "Tese: desconforto não é sinônimo de erro",
+    "O terapeuta é pago para dizer o que você precisa ouvir",
+    "Mas: condução e manejo decidem"
+   ],
+   "corte_inicio": "0:03:01",
+   "corte_fim": "0:04:45"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Não existe intervenção errada.",
+   "mensagem": "Existe consequência que você sabe ou não manejar; antes de intervir, pense nas reações possíveis.",
+   "roteiro": [
+    "Frase em destaque",
+    "Legenda: exemplo da autorrevelação no fim da sessão"
+   ],
+   "corte_inicio": "0:19:22",
+   "corte_fim": "0:20:08"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como treinamos o fim da sessão sem colocar paciente em risco",
+   "mensagem": "Roleplay de 10 minutos e discussão só do encerramento, começando pela intenção do terapeuta e terminando no que não fazer.",
+   "roteiro": [
+    "Cena do combinado: ninguém é julgado aqui",
+    "Roleplay em 10 minutos",
+    "Primeira pergunta: por que você encerrou assim?",
+    "Pergunta final: o que não seria bom neste caso?"
+   ],
+   "corte_inicio": "0:24:04",
+   "corte_fim": "0:25:05"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Primeira sessão com um paciente desconfiado da terapia: como fechar para ele voltar",
+   "mensagem": "Convide, peça o ok, firme compromisso dos dois lados, não julgue de antemão e mostre que ouviu o histórico.",
+   "roteiro": [
+    "Capa",
+    "O objetivo da primeira sessão pode ser só: ele voltar",
+    "Convite com pedido de consentimento",
+    "Compromisso mútuo: você volta, eu estarei aqui",
+    "Não concordar nem discordar de antemão",
+    "Explore expectativas sobre a terapia"
+   ],
+   "corte_inicio": "0:53:32",
+   "corte_fim": "0:54:31"
+  },
+  {
+   "formato": "stories",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "O corte lacaniano é só estranho? (enquete)",
+   "mensagem": "Bem aplicado faz sentido, mal aplicado não; o que decide é o olhar situacional.",
+   "roteiro": [
+    "Enquete: já viveu um corte?",
+    "Resposta curta com o argumento",
+    "Caixa de perguntas"
+   ],
+   "corte_inicio": "0:16:04",
+   "corte_fim": "0:17:06"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Base do corte da sessão; inconsciente manifesto no discurso."
+  },
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Referência em tom de brincadeira ao terapeuta do roleplay ('Rogerinho encarnado') e comentário sobre autenticidade humanista."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Acervo) - roleplay único com discussão focada (condução de Rodolfo)",
+  "objetivo": "Experimentar, sem risco para pacientes reais, um recorte estreito de competência (aqui, o encerramento de sessão) e discutir intenções e consequências das escolhas do terapeuta.",
+  "publico": "Estudantes de psicologia e psicólogos iniciantes ligados à Allos (vários usam o grupo para horas complementares); muitos são também pacientes em terapia e alguns já atendem.",
+  "tamanho": "Pequeno: cerca de 5 a 7 participantes ativos em voz e chat, com entradas tardias.",
+  "duracao": "Cerca de 1h10 gravada; conversa livre continua após parar a gravação.",
+  "estrutura_padrao": "Abertura com tema e tese -> divulgação da clínica social -> exposição dialogada (~20 min) com cardápio de formas, entremeada de relatos dos participantes como pacientes -> combinados (experimentação sem julgamento; foco no terapeuta e no recorte do dia) -> roleplay 'padrão' de 10 min com dupla voluntária (paciente inventa o caso) -> feedback em camadas (intenção do terapeuta, observadores, paciente, pontuações do facilitador) -> pergunta contrafactual (o que não seria bom neste caso) -> síntese com máxima -> formulários de presença e avaliação -> rodada final aberta. Comparado ao Alan: mesmo esqueleto teoria mínima -> exercício -> feedback, mas teoria em forma de cardápio sem hierarquia, um único roleplay, sem notas nem regras gerais extraídas dos erros, feedback apreciativo e indireto.",
+  "papel_facilitador": "Expositor breve e mediador: apresenta opções sem prescrever, organiza o roleplay (voluntários, timer, fixar vídeos), delimita o foco do feedback, pergunta a intenção do terapeuta, amplia pontos do grupo, protege quem faz o paciente, propõe o contrafactual e fecha com uma máxima; não demonstra nem dá nota.",
+  "regras_combinados": "Espaço de experimentação (ninguém é julgado ou avaliado); foco sempre no terapeuta e, no dia, só no encerramento; câmera opcional; paciente pode sinalizar desconforto a qualquer momento; roleplay cronometrado em 10 minutos; formulário de presença (horas complementares) e avaliação do facilitador; gravação encerrada antes da conversa livre."
+ },
+ "reflexoes_do_facilitador": [
+  "Esquece e depois faz a divulgação da clínica social, lembrado por uma participante (0:00:57).",
+  "Admite que psicanálise lacaniana 'não é a minha área' e não aprofunda o corte (0:17:06).",
+  "Relativiza o contrato rígido de 50 minutos com a própria prática: algumas sessões suas chegam a 1h30 (0:13:51).",
+  "Corrige um deslize de gênero ao pedir 'uma terapeuta' e depois troca o nome de quem fez o paciente, pedindo desculpas (0:25:48; 0:27:15).",
+  "Pergunta se foi claro ao formular a pergunta contrafactual (0:55:37).",
+  "Reconhece estar 'se contradizendo' ao sugerir que confrontar seria pior neste caso, e reafirma que não é regra geral (0:57:54).",
+  "Anuncia que o grupo também é avaliado pelos participantes via formulário (1:04:10)."
+ ],
+ "referencias_a_outros_encontros": [
+  "Participante cita um roleplay de encontro anterior em que o paciente era mais aberto e caberia um encerramento reflexivo (0:44:07).",
+  "Menciona os esquemas de aprofundamento do Alan, em especial o esquema do pente (0:20:08) - ver Alan 06.",
+  "Anuncia que Diogo co-conduzirá o grupo a partir das próximas semanas (1:04:10); no encontro seguinte da série (acervo-23) Diogo conduz sozinho.",
+  "Cita outras atividades do cronograma: aulas, grupo de prática, mesa de estudos (às 19h no mesmo dia) e um cine debate no novo cronograma (1:03:06; 1:05:30).",
+  "Convida participante a ser terapeuta numa próxima oportunidade (1:09:02)."
+ ],
+ "observacoes": "Facilitador identificado como Rodolfo por duas menções indiretas (participante: 'achei que fosse você, Rodo'; ele mesmo imitando um participante: 'Ah, Rodolfo, tô precisando de hora complementar'); Rodolfo também aparece como participante nos grupos do Alan e numa monitoria com Diogo, o que é coerente, mas convém confirmar. Diogo entra perto do fim, só observa e é anunciado como co-facilitador. Uma participante (Carla/Carol) apoia a logística (fixa links e formulários). O caso do roleplay é simulado e envolve transtorno alimentar personificado ('Ana'), inferido do contexto; quem interpretou relatou depois que parte do histórico do personagem (terapeutas que sumiram) vinha de experiência própria, o que foi mantido genérico. Várias quedas de conexão de uma participante; o título original 'Encontro 43 e Encontro 44' não informa o tema."
+}

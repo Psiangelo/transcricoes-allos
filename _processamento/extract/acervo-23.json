@@ -1,0 +1,866 @@
+{
+ "id": "acervo-23",
+ "nota": "Acervo 23 - Comunicação não verbal na clínica",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "Comunicação não verbal na clínica",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo, analista do comportamento, abre definindo o Aprimoramento Clínico (uma habilidade por encontro, atividades práticas e teóricas, cerca de 1h30) e avisa que nesse dia não haverá roleplay. O tema é a linguagem como expressão corporal: ele parte do que o grupo já sabe (microexpressões, 'desviar o olhar é mentira', '70% é não verbal') e constrói a introdução relativizando mitos, fixando a convenção 'verbal = vocal' e justificando o tema pela discrepância entre fala e emoção. Uma pergunta sobre o não verbal no atendimento online gera discussão sobre enquadramento, iluminação, momento clínico e ganhos do online. Segue um exercício corporal com espelho ou câmera (neutro, alegria, espanto, tristeza) e um exercício de imaginação em que Diogo encena um paciente cuja fala contradiz a expressão; as intervenções propostas são comparadas pelos pressupostos, ganhos e riscos, sem ranquear. Uma mini-aula sob demanda sobre estágios de mudança, a técnica do espelho de Moreno e o esclarecimento de que relato discrepante não é mentira fecham o encontro, com ênfase na autonomia do paciente.",
+ "em_uma_frase": "Não há dicionário universal do corpo: o que importa clinicamente é perceber a discrepância entre fala e expressão e escolher como explorá-la conforme o momento clínico e o estágio de mudança do paciente, sem tratá-lo como mentiroso.",
+ "competencias": [
+  "Escuta clínica",
+  "Intervenção",
+  "Relação terapêutica",
+  "Direção do tratamento",
+  "Pessoa do terapeuta"
+ ],
+ "abordagens": [
+  "Análise do comportamento",
+  "Gestalt-terapia",
+  "Psicodrama"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Abertura",
+   "descricao": "Define o Aprimoramento Clínico (habilidade específica por encontro, atividades práticas e teóricas, cerca de 1h30); apresenta-se como coordenador.",
+   "funcao": "Explicitar o contrato do formato.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:07",
+   "bloco": "Combinados",
+   "descricao": "Dúvidas; microfone ou chat; câmera opcional; hoje sem roleplay; pedir espelho ou câmera de selfie.",
+   "funcao": "Preparar canais e materiais do exercício.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:28",
+   "bloco": "Rodada de respostas",
+   "descricao": "Apresenta o tema (linguagem como expressão corporal) e pergunta o que o grupo já sabe: microexpressões, olhar e mentira, 70% não verbal, O corpo fala.",
+   "funcao": "Levantar conhecimentos prévios e mitos.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:07:15",
+   "bloco": "Teoria",
+   "descricao": "Constrói a introdução com as respostas: relativiza o 70%, exemplo do joinha, comportamento verbal não vocal na análise do comportamento, convenção do dia, duvidar de certezas universais.",
+   "funcao": "Corrigir mitos sem expor e definir termos.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:11:24",
+   "bloco": "Teoria",
+   "descricao": "Relevância clínica: fala e emoção podem não coincidir; atenção à discrepância e ao seu motivo.",
+   "funcao": "Justificar o tema como competência clínica.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:14:36",
+   "bloco": "Dúvidas",
+   "descricao": "Checa compreensão e reforça a preferência pelo microfone.",
+   "funcao": "Garantir base comum.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:15:03",
+   "bloco": "Discussão",
+   "descricao": "Pergunta disparadora: dá para usar o não verbal no online? Enquadramento, objetos escondidos, iluminação, maquiagem, momento clínico, capilaridade, quem se expressa melhor em casa.",
+   "funcao": "Transpor o tema ao setting online.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:24:46",
+   "bloco": "Discussão",
+   "descricao": "Participante relata ter mostrado a casa à nova terapeuta na primeira sessão online; Diogo: rica fonte de dados, mas não se pede; a forma de obter a informação muda seu peso.",
+   "funcao": "Refinar o raciocínio sobre fontes de dados clínicos.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:29:39",
+   "bloco": "Dinâmica",
+   "descricao": "Montagem facial de emoções com espelho ou câmera: neutro, alegria, espanto, tristeza.",
+   "funcao": "Treinar observação fina e autopercepção corporal.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:34:03",
+   "bloco": "Rodada de respostas",
+   "descricao": "O que chamou atenção: inclinação da cabeça, olhos, emoção evocada pela simulação, expressividade contida, iluminação.",
+   "funcao": "Transformar a vivência em dado.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:37:27",
+   "bloco": "Demonstração",
+   "descricao": "Diogo encena paciente que antes falava com entusiasmo do estágio e agora diz 'tá legal' com expressão triste.",
+   "funcao": "Criar caso-problema vivo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:39:41",
+   "bloco": "Dinâmica",
+   "descricao": "Exercício de imaginação: quais intervenções diante da discrepância? Investigar a rotina, nomear a discrepância, nomear a mudança de registro.",
+   "funcao": "Gerar um leque de intervenções.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:45:22",
+   "bloco": "Feedback",
+   "descricao": "Compara intervenções por pressupostos, ganhos e riscos sem ranquear; perguntas diretas e indiretas; pergunta como estímulo antecedente.",
+   "funcao": "Ensinar a pensar a escolha da intervenção.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:54:21",
+   "bloco": "Teoria",
+   "descricao": "Mini-aula sob demanda: estágios de mudança (transteórico), queixa e demanda, recaída ampliada.",
+   "funcao": "Oferecer critério para dosar intervenções diretas.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:59:27",
+   "bloco": "Discussão",
+   "descricao": "Participante: amadurecimento e vínculo permitem ser mais direto; Diogo: se o paciente sai igual, a terapia não rendeu, e o fim ético é a autonomia; exemplo da própria clínica.",
+   "funcao": "Ligar a técnica à direção do tratamento.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:05:40",
+   "bloco": "Fechamento",
+   "descricao": "Síntese das formas de trabalhar a discrepância; técnica do espelho (Moreno); discrepância como questão clínica; pede concordância e acréscimos.",
+   "funcao": "Consolidar e checar entendimento.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:08:56",
+   "bloco": "Discussão",
+   "descricao": "Esclarece a confusão com 'fidedigno' pelo exemplo de quem vê o mundo como perigoso: o relato é verdadeiro para quem fala.",
+   "funcao": "Evitar a leitura 'paciente mentiroso'.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:12:31",
+   "bloco": "Rodada de respostas",
+   "descricao": "Participante sintetiza o aprendizado (contexto; intervenções diferentes com a mesma intenção); Diogo arremata com contexto e sujeito ativo.",
+   "funcao": "Metacognição do grupo.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:16:40",
+   "bloco": "Fechamento",
+   "descricao": "Encerra lembrando que haverá outra atividade à noite.",
+   "funcao": "Encerrar e apontar a continuidade.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Comunicação não verbal",
+   "definicao": "Toda comunicação que não usa palavras faladas: expressões faciais, postura, gestos, gesticulação. Na clínica, importa sobretudo quando diverge do que é dito, pois pode revelar o que é ocultado ou minimizado.",
+   "exemplo": "Responder com um joinha enquanto bebe água; fazer cara de chocado ou confuso.",
+   "abordagem": "",
+   "ts": "0:07:15"
+  },
+  {
+   "nome": "Comportamento verbal",
+   "definicao": "Na análise do comportamento, o comportamento verbal é definido pela função comunicativa e não pelo meio; um gesto ainda é verbal, apenas não vocal. No encontro, adota-se a convenção comum de que verbal é o que é vocal.",
+   "exemplo": "O joinha como comportamento verbal não vocal.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:09:12"
+  },
+  {
+   "nome": "Microexpressões",
+   "definicao": "Leitura popular de sinais faciais breves como indicadores fixos de emoções ou de mentira; tratada com ceticismo: pode valer em casos, nunca como reflexo absoluto.",
+   "exemplo": "Levantar a sobrancelha = desconfiança; desviar o olhar = mentira.",
+   "abordagem": "",
+   "ts": "0:10:12"
+  },
+  {
+   "nome": "Discrepância entre relato e expressão",
+   "definicao": "Descompasso entre o que o paciente diz e o que seu corpo expressa. Deve-se observar o fato de haver discrepância e o motivo dela; é questão clínica em si e pode atravessar outros relatos.",
+   "exemplo": "Paciente diz que o estágio 'tá legal' com expressão abatida.",
+   "abordagem": "",
+   "ts": "0:12:45"
+  },
+  {
+   "nome": "Atendimento online",
+   "definicao": "Setting diferente do presencial, com perdas (enquadramento da câmera, iluminação, travamentos, sinais escondidos) e ganhos (capilaridade, alcance, conforto de casa que facilita a expressão para algumas pessoas).",
+   "exemplo": "Mãos e pés fora da tela; brasileiro no exterior que se expressa melhor em português.",
+   "abordagem": "",
+   "ts": "0:22:41"
+  },
+  {
+   "nome": "Momento clínico",
+   "definicao": "Fase do processo e estado do paciente naquele período ou dia, que orienta a escolha do formato (online ou presencial) e do tipo de intervenção.",
+   "exemplo": "Início de processo pode pedir presencial; paciente exausto num dia específico.",
+   "abordagem": "",
+   "ts": "0:23:37"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "Modelo que descreve etapas pelas quais alguém lida com uma mudança: pré-contemplação, contemplação, preparação, ação, manutenção e possibilidade de recaída. Serve de critério para decidir quão direta pode ser uma intervenção.",
+   "exemplo": "Dois fumantes: um que não vê o cigarro como problema e outro já em tratamento buscando alternativas para crises de ansiedade.",
+   "abordagem": "",
+   "ts": "0:54:29"
+  },
+  {
+   "nome": "Psicologia transteórica",
+   "definicao": "Teorias e modelos de pesquisa não vinculados a nenhuma abordagem, aplicáveis a todas; os estágios de mudança são o exemplo dado.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:54:29"
+  },
+  {
+   "nome": "Queixa e demanda",
+   "definicao": "Queixa é o que o paciente traz como querendo trabalhar; demanda é o que o psicólogo entende que precisa ser trabalhado. Podem ou não coincidir.",
+   "exemplo": "Fumante que se queixa do casamento, mas tem demanda de trabalhar o tabagismo.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:55:42"
+  },
+  {
+   "nome": "Recaída",
+   "definicao": "Retorno temporário ao comportamento-problema depois de ganhos; não se restringe a dependências químicas.",
+   "exemplo": "Paciente que trabalhava sua postura infantil culpa um colega por um erro próprio por medo.",
+   "abordagem": "",
+   "ts": "0:57:39"
+  },
+  {
+   "nome": "Estímulo antecedente",
+   "definicao": "Na análise do comportamento, o que antecede e controla uma resposta. A pergunta do terapeuta deve ser pensada também por esse efeito, e não só pelo conteúdo: ela comunica, por exemplo, 'eu quero saber mais'.",
+   "exemplo": "'Você está mais triste?' versus 'como está sendo a rotina?'",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:51:36"
+  },
+  {
+   "nome": "Técnica do espelho",
+   "definicao": "Técnica do psicodrama descrita por Moreno: o terapeuta imita o paciente de forma um pouco acentuada para romper a resistência e dar acesso ao que ele não consegue expressar em palavras.",
+   "exemplo": "'Se pelo seu corpo não rolou, vamos tentar pelo meu.'",
+   "abordagem": "Psicodrama",
+   "ts": "1:05:40"
+  },
+  {
+   "nome": "Autonomia do paciente",
+   "definicao": "Propósito ético da terapia: independência do paciente em relação ao terapeuta e respeito à sua forma de ver o mundo, sem transformá-lo ao gosto do terapeuta.",
+   "exemplo": "Quem vê o mundo como perigoso: buscar mais satisfação e consciência, não corrigir a crença.",
+   "abordagem": "",
+   "ts": "1:03:00"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Montagem facial de emoções",
+   "objetivo": "Treinar a observação fina de mudanças faciais e corporais em si e nos outros e perceber a variação de expressividade entre pessoas e conforme a qualidade da imagem.",
+   "competencias": [
+    "Escuta clínica",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Grupo todo, online; quem tem câmera ligada observa colegas; quem não tem usa espelho ou câmera de selfie (ou fixa a própria imagem).",
+   "tempo": "Cerca de 4 minutos de exercício e 3 a 4 minutos de rodada.",
+   "materiais": "Espelho ou câmera frontal do celular, pedidos no início do encontro.",
+   "consigna": "Observem-se no estado neutro, o jeito como ficam para ouvir: olhos, rugas, sobrancelhas, boca, inclinação do rosto, ombros, pernas, mãos. Quando eu falar o nome de uma emoção, montem essa emoção; pode ser caricata. Observem o que muda em vocês e nos outros.",
+   "passos": [
+    "Observar a linha de base (estado neutro ou de escuta), parte por parte.",
+    "Montar alegria, observar a transformação e voltar ao neutro.",
+    "Montar espanto; o facilitador nomeia mudanças típicas (tronco para trás, boca aberta, olhos arregalados).",
+    "Montar tristeza; o facilitador nomeia mudanças típicas (postura prostrada, cabeça caída, sobrancelhas franzidas, olhar para baixo).",
+    "Rodada: que elemento do corpo chamou mais atenção, em si ou no outro?",
+    "Ponte para a clínica: por que isso é relevante no atendimento?"
+   ],
+   "feedback": "Sem certo ou errado: o facilitador nomeia as mudanças típicas durante a montagem, devolve o que cada um notou e acrescenta observações próprias sobre expressividade, iluminação e o próprio rosto.",
+   "exemplos_praticos": "Participantes notaram inclinar a cabeça tanto para aprender quanto na tristeza, os olhos se abrindo na alegria, e que simular tristeza evocou a emoção no corpo (ombros fechando, peso). O facilitador admitiu que suas expressões ficaram pobres por estar focado em conduzir e que uma participante com expressão contida e rosto mal iluminado foi difícil de ler.",
+   "variacoes": "Incluir raiva, nojo, medo, vergonha; em duplas, um monta e o outro adivinha; montar a emoção de forma contida, como um paciente a mostraria; comparar câmera frontal e lateral.",
+   "armadilhas": "Facilitador que conduz e executa perde expressividade; câmeras fechadas reduzem a troca; iluminação ruim; participantes podem se sentir expostos (deixar claro que pode ser caricato).",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:29:39"
+  },
+  {
+   "nome": "Dinâmica - Discrepância entre fala e corpo",
+   "objetivo": "Gerar e comparar intervenções diante de um paciente cuja fala contradiz a expressão, explicitando pressupostos, ganhos e riscos de cada uma.",
+   "competencias": [
+    "Intervenção",
+    "Escuta clínica",
+    "Direção do tratamento"
+   ],
+   "configuracao": "Grupo todo, online; o facilitador encena o paciente; participantes respondem por voz, um por vez.",
+   "tempo": "Cerca de 15 minutos de rodada, com discussão que se estende até cerca de 25 minutos.",
+   "materiais": "Nenhum; um caso encenável preparado pelo facilitador.",
+   "consigna": "É um exercício de imaginação: você me atende. Quatro sessões atrás contei, animado, que comecei um estágio novo. Agora o assunto sumiu, você pergunta como está e eu respondo 'tá indo bem, tá legal', mas com uma expressão que não mostra alegria. Quais seriam intervenções possíveis para explorar essa contradição?",
+   "passos": [
+    "Contextualizar: fala e emoção podem se contradizer e o terapeuta precisa de sutileza para perceber.",
+    "Encenar a resposta discrepante, com algum exagero declarado.",
+    "Perguntar quais intervenções seriam possíveis; recontar o caso em detalhe se alguém não entender.",
+    "Colher uma resposta por vez e devolver o pressuposto implícito de cada uma.",
+    "Comparar ganhos e riscos sem ranquear.",
+    "Acolher objeções (medo de perguntas diretas) e trazer critérios teóricos: pergunta como estímulo antecedente, estágios de mudança.",
+    "Fechar oferecendo uma alternativa que o grupo não trouxe (técnica do espelho)."
+   ],
+   "feedback": "Comparativo e não avaliativo: cada intervenção é lida pelo pressuposto sobre o paciente (sabe ou não discriminar o que sente), pelo nível em que opera (consciência ou dados concretos), pelo que comunica ('estou prestando atenção') e pelo efeito provável conforme o perfil (carente ou persecutório, resistente, estágio de mudança). 'Não é uma intervenção melhor que a outra.'",
+   "exemplos_praticos": "Uma participante propôs investigar a rotina para achar concretamente o que desagrada; outra, nomear a discrepância com delicadeza; outra, nomear a queda de empolgação em relação às sessões anteriores e perguntar se aconteceu algo. A objeção de que perguntas diretas travam algumas pessoas levou à discussão sobre resistência e estágios de mudança.",
+   "variacoes": "Transformar em roleplay curto com um participante testando a intervenção; variar o perfil do paciente encenado (persecutório, carente, pré-contemplativo); incluir tom de voz como terceira via de discrepância.",
+   "armadilhas": "Consigna abstrata confunde (contar o caso concreto logo); experiências pessoais dos participantes viram regra geral (devolver à análise de função); confundir discrepância com mentira.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:39:41"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Definir o formato na abertura",
+   "descricao": "Explica o que é o Aprimoramento Clínico, sua duração e objetivo, e apresenta-se, para que recém-chegados entendam o contrato.",
+   "exemplo": "'É focado no desenvolvimento de habilidades clínicas específicas por meio de atividades práticas e teóricas.'",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Combinar canais e materiais antes do tema",
+   "descricao": "Pergunta quem usará microfone ou chat, deixa a câmera opcional com humor e pede espelho ou selfie para o exercício.",
+   "exemplo": "'Não vou ser o tio carente do EAD.'",
+   "ts": "0:01:56"
+  },
+  {
+   "movimento": "Levantamento de conhecimentos prévios",
+   "descricao": "Começa perguntando o que o grupo sabe e insiste com 'que mais?' até esgotar as contribuições, conferindo o chat.",
+   "exemplo": "'O que vocês já sabem, já ouviram falar ou conhecem sobre linguagem corporal?'",
+   "ts": "0:02:28"
+  },
+  {
+   "movimento": "Construir a teoria com as falas do grupo",
+   "descricao": "Declara que usará as opiniões do grupo para montar a introdução e retoma cada contribuição relativizando-a sem desqualificar quem a trouxe.",
+   "exemplo": "'Eu não sei se 70% é o número exato, mas sim, a gente se comunica muito de forma não verbal.'",
+   "ts": "0:07:15"
+  },
+  {
+   "movimento": "Explicitar a própria abordagem e uma definição operacional",
+   "descricao": "Diz que é da análise do comportamento e que ali o gesto seria verbal, mas fixa para o encontro que verbal é o vocal, evitando disputa terminológica.",
+   "exemplo": "'Vamos considerar hoje que verbal é tudo que se faz com a voz.'",
+   "ts": "0:13:52"
+  },
+  {
+   "movimento": "Usar o próprio corpo como exemplo e se autorrevelar",
+   "descricao": "Demonstra gestos e caras ao vivo e conta que coçou a perna, virou na cadeira e segura um objeto por ansiedade fora do enquadramento.",
+   "exemplo": "'Eu estou com um brinquedinho aqui, e vocês não estão vendo.'",
+   "ts": "0:16:34"
+  },
+  {
+   "movimento": "Checar compreensão",
+   "descricao": "Antes de avançar, pergunta se ficou claro o tema e sua importância clínica.",
+   "exemplo": "'Deu para entender qual é o tema de hoje e por que ele é importante para a clínica?'",
+   "ts": "0:14:36"
+  },
+  {
+   "movimento": "Pergunta disparadora polêmica",
+   "descricao": "Abre a discussão com uma pergunta que admite várias posições e mobiliza a experiência de todos.",
+   "exemplo": "'Vocês acham que é possível usar a linguagem não verbal num contexto de atendimento remoto?'",
+   "ts": "0:15:03"
+  },
+  {
+   "movimento": "Síntese costurando contribuições",
+   "descricao": "Retoma participantes pelo nome e pela ideia e nomeia o conceito subjacente (momento clínico, capilaridade).",
+   "exemplo": "'Não é só sobre quem é o seu paciente, mas o momento clínico.'",
+   "ts": "0:23:37"
+  },
+  {
+   "movimento": "Acolher relato pessoal e nuançar",
+   "descricao": "Reconhece o valor do relato de uma participante, pergunta se foi iniciativa dela e explicita limites e variáveis.",
+   "exemplo": "'Isso é uma grande fonte de dados, porém não sei se é algo viável de se pedir para todo paciente.'",
+   "ts": "0:27:01"
+  },
+  {
+   "movimento": "Exercício corporal com observação dirigida",
+   "descricao": "Guia passo a passo o que observar e nomeia as mudanças típicas enquanto o grupo executa.",
+   "exemplo": "'Observem se o olho está aberto, se tem ruga de expressão, como está a boca, a posição do rosto.'",
+   "ts": "0:31:27"
+  },
+  {
+   "movimento": "Antecipar a objeção e encenar o paciente",
+   "descricao": "Verbaliza o 'e daí?' do grupo e responde com demonstração caricata, avisando do exagero.",
+   "exemplo": "'Tá bom, Diogo, eu entendi que emoções existem. Por que isso é relevante?'",
+   "ts": "0:37:27"
+  },
+  {
+   "movimento": "Reformular a consigna como exercício de imaginação",
+   "descricao": "Quando alguém não entende, reconta o caso concreto em detalhe e reposiciona a pessoa como terapeuta.",
+   "exemplo": "'É um exercício de imaginação. Imagine que você está atendendo a mim.'",
+   "ts": "0:39:41"
+  },
+  {
+   "movimento": "Devolver pressupostos e comparar sem ranquear",
+   "descricao": "Para cada intervenção, explicita o pressuposto sobre o paciente, os ganhos e os riscos, e declara que nenhuma é melhor em si.",
+   "exemplo": "'Não é uma intervenção melhor que a outra.'",
+   "ts": "0:47:34"
+  },
+  {
+   "movimento": "Teoria sob demanda",
+   "descricao": "Quando um participante menciona estágios de mudança, pergunta quem conhece e dá uma mini-aula com exemplo próprio.",
+   "exemplo": "'Vocês conhecem a teoria dos estágios de mudança ou não?'",
+   "ts": "0:54:21"
+  },
+  {
+   "movimento": "Exemplo da própria clínica",
+   "descricao": "Conta, de forma anonimizada, uma decisão clínica recente para mostrar o raciocínio em ato.",
+   "exemplo": "Aceitou que um paciente exausto não fizesse o exercício combinado porque o pedido foi claro e assertivo.",
+   "ts": "1:04:46"
+  },
+  {
+   "movimento": "Síntese com pedido de concordância e esclarecimento por analogia",
+   "descricao": "Fecha perguntando se concordam ou acrescentariam algo e desfaz um mal-entendido com exemplo cotidiano.",
+   "exemplo": "'Para essa pessoa, o mundo é de fato perigoso. Ela não está mentindo.'",
+   "ts": "1:07:53"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Desconfie de leituras universais da linguagem corporal.",
+   "justificativa": "Dificilmente um sinal significa o mesmo para todas as pessoas; tratá-lo como reflexo absoluto produz erro de leitura.",
+   "contexto": "Ao ouvir que desviar o olhar é mentir e afins.",
+   "competencia": "Escuta clínica",
+   "ts": "0:10:12"
+  },
+  {
+   "dica": "Procure a discrepância entre fala e expressão e pergunte-se pelo motivo dela.",
+   "justificativa": "Ela indica algo ocultado ou minimizado e dá acesso a camadas mais profundas.",
+   "contexto": "Quando o afeto não combina com o conteúdo relatado.",
+   "competencia": "Escuta clínica",
+   "ts": "0:12:45"
+  },
+  {
+   "dica": "No online, lembre que você só vê o enquadramento da câmera.",
+   "justificativa": "Mãos, pés e objetos ficam fora; parte da ansiedade não aparece.",
+   "contexto": "Ao interpretar calma aparente em sessões por vídeo.",
+   "competencia": "Escuta clínica",
+   "ts": "0:17:34"
+  },
+  {
+   "dica": "Considere iluminação e travamentos antes de ler uma expressão.",
+   "justificativa": "A luz muda cor e contorno do rosto e pode esconder choro; travamentos cortam momentos.",
+   "contexto": "Atendimento online.",
+   "competencia": "Escuta clínica",
+   "ts": "0:23:37"
+  },
+  {
+   "dica": "Decida entre online e presencial também pelo momento clínico.",
+   "justificativa": "Há fases em que o presencial acrescenta informação e outras em que o conforto de casa ajuda a expressão.",
+   "contexto": "Ao contratar ou reavaliar o formato.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:23:37"
+  },
+  {
+   "dica": "Não peça ao paciente para mostrar a casa; se ele oferecer, trate o gesto como dado clínico.",
+   "justificativa": "O pedido pode ser invasivo; a iniciativa espontânea é informação rica.",
+   "contexto": "Atendimento online.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:28:37"
+  },
+  {
+   "dica": "Pese cada informação pela forma como ela chegou.",
+   "justificativa": "Dados pedidos, espontâneos ou observados têm qualidade e peso diferentes na análise.",
+   "contexto": "Ao formular hipóteses.",
+   "competencia": "Formulação de caso",
+   "ts": "0:29:39"
+  },
+  {
+   "dica": "Compare o paciente com ele mesmo, não com uma norma.",
+   "justificativa": "A mudança de registro em relação a sessões anteriores é o sinal mais confiável.",
+   "contexto": "Ao retomar um tema após algumas sessões.",
+   "competencia": "Escuta clínica",
+   "ts": "0:48:29"
+  },
+  {
+   "dica": "Se o paciente talvez não saiba nomear o que sente, investigue o concreto (rotina, pessoas, tarefas).",
+   "justificativa": "Perguntar no nível consciente pode não render; dados concretos revelam a causa.",
+   "contexto": "Pacientes com pouca discriminação emocional.",
+   "competencia": "Intervenção",
+   "ts": "0:45:22"
+  },
+  {
+   "dica": "Se ele pode tomar consciência, nomeie a discrepância com delicadeza.",
+   "justificativa": "Dá acesso à emoção que transborda e informa sobre a relação; o risco é deixá-lo mais confuso se não conseguir discriminar.",
+   "contexto": "Com vínculo estabelecido.",
+   "competencia": "Intervenção",
+   "ts": "0:46:29"
+  },
+  {
+   "dica": "Saiba que dizer 'percebi que mudou' comunica atenção.",
+   "justificativa": "É ótimo para pacientes carentes e pode soar como vigilância para persecutórios.",
+   "contexto": "Ao escolher a formulação da intervenção.",
+   "competencia": "Construção frasal",
+   "ts": "0:48:29"
+  },
+  {
+   "dica": "Avalie a pergunta pela função, não só pelo conteúdo.",
+   "justificativa": "Toda pergunta é um estímulo antecedente e comunica algo além do que pergunta.",
+   "contexto": "Ao escolher entre pergunta direta e indireta.",
+   "competencia": "Intervenção",
+   "ts": "0:51:36"
+  },
+  {
+   "dica": "Em contexto de resistência, evite perguntas diretas.",
+   "justificativa": "Não adiantam e podem produzir fechamento ou abandono.",
+   "contexto": "Pacientes resistentes ou que travam quando se sentem invadidos.",
+   "competencia": "Intervenção",
+   "ts": "0:52:45"
+  },
+  {
+   "dica": "Situe o paciente nos estágios de mudança antes de decidir quão direto ser.",
+   "justificativa": "A mesma intervenção serve a quem está em ação e agride quem está em pré-contemplação.",
+   "contexto": "Ao planejar intervenções sobre temas sensíveis.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:58:46"
+  },
+  {
+   "dica": "Diferencie queixa de demanda.",
+   "justificativa": "O paciente pode não trazer como queixa o que o terapeuta identifica como demanda; forçar o tema gera resistência.",
+   "contexto": "Formulação inicial.",
+   "competencia": "Formulação de caso",
+   "ts": "0:55:42"
+  },
+  {
+   "dica": "Leia recaídas de forma ampliada.",
+   "justificativa": "Voltar temporariamente ao comportamento-problema ocorre também fora das dependências químicas e faz parte do processo.",
+   "contexto": "Quando o paciente regride depois de ganhos.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:57:39"
+  },
+  {
+   "dica": "Às vezes deixe um comportamento-problema acontecer se ele serve a outro objetivo clínico.",
+   "justificativa": "Uma esquiva pode vir como pedido claro e assertivo, ganho buscado em outra frente.",
+   "contexto": "Quando a esquiva aparece de forma nova e comunicativa.",
+   "competencia": "Priorização clínica",
+   "ts": "1:04:46"
+  },
+  {
+   "dica": "Experimente o espelho: devolva ao paciente, com seu corpo e de forma um pouco acentuada, o que o corpo dele mostra.",
+   "justificativa": "Se as palavras não dão acesso, o corpo do terapeuta pode ajudar a romper a resistência.",
+   "contexto": "Discrepância persistente, com vínculo.",
+   "competencia": "Intervenção",
+   "ts": "1:06:49"
+  },
+  {
+   "dica": "Trate a discrepância como questão clínica, não como detalhe.",
+   "justificativa": "Ela pode atravessar outros relatos e torná-los menos diretos.",
+   "contexto": "Formulação do caso.",
+   "competencia": "Formulação de caso",
+   "ts": "1:06:49"
+  },
+  {
+   "dica": "Não tente corrigir a visão de mundo do paciente; amplie consciência e satisfação.",
+   "justificativa": "O relato é verdadeiro para ele e o fim ético é a autonomia, não moldá-lo ao gosto do terapeuta.",
+   "contexto": "Crenças que destoam da maioria mas são coerentes para quem fala.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:11:26"
+  },
+  {
+   "dica": "Conheça sua própria expressividade.",
+   "justificativa": "O terapeuta também comunica sem palavras e pode ter a expressão empobrecida quando focado em conduzir.",
+   "contexto": "Autotreino com espelho ou gravação.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:36:28"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Sempre desconfie de afirmações universais sobre o significado de gestos e expressões.",
+   "argumento": "É muito difícil observar algo que ocorra do mesmo modo em todas as pessoas; pode valer para um caso, não como reflexo absoluto.",
+   "contraponto": "Divulgação popular de linguagem corporal (microexpressões, O corpo fala).",
+   "implicacao": "Ler sinais no contexto e na linha de base do paciente.",
+   "quem": "Diogo",
+   "ts": "0:10:12"
+  },
+  {
+   "tese": "Para o encontro, verbal é o vocal; na análise do comportamento, o comportamento verbal inclui o não vocal.",
+   "argumento": "A análise do comportamento define o verbal pela função; para não travar a discussão, adota-se a noção comum.",
+   "contraponto": "Equação popular de verbal com falado.",
+   "implicacao": "Explicitar definições operacionais em grupos de várias abordagens.",
+   "quem": "Diogo",
+   "ts": "0:13:52"
+  },
+  {
+   "tese": "Online e presencial são ambientes diferentes, com ganhos e perdas; a resposta é 'depende'.",
+   "argumento": "O online limita enquadramento e luz, mas amplia alcance, e há quem se expresse com mais verdade em casa.",
+   "contraponto": "Desqualificação do online e, no outro extremo, equivalência total com o presencial.",
+   "implicacao": "Escolher o formato pelo paciente e pelo momento clínico.",
+   "quem": "Diogo",
+   "ts": "0:22:41"
+  },
+  {
+   "tese": "Não cabe ao psicólogo pedir que o paciente mostre sua casa, embora isso seja rica fonte de dados quando espontâneo.",
+   "argumento": "A iniciativa em si é dado clínico; o pedido altera a natureza da informação e pode ser invasivo.",
+   "contraponto": "Sugestão de participante de que isso seria útil em geral.",
+   "implicacao": "Acolher, não solicitar.",
+   "quem": "Diogo",
+   "ts": "0:28:37"
+  },
+  {
+   "tese": "Entre investigar o concreto e nomear a discrepância, nenhuma intervenção é melhor em si.",
+   "argumento": "Partem de pressupostos diferentes sobre o paciente e exigem habilidades diferentes; cada uma tem ganhos e riscos.",
+   "contraponto": "Busca da intervenção certa.",
+   "implicacao": "Escolher pelo perfil, pela consciência e pelo estágio do paciente.",
+   "quem": "Diogo",
+   "ts": "0:47:34"
+  },
+  {
+   "tese": "A questão não é ser direto ou indireto, mas qual efeito a pergunta produz como estímulo.",
+   "argumento": "A pergunta é estímulo antecedente e comunica mais que o conteúdo; em resistência, perguntas diretas não adiantam.",
+   "contraponto": "Medo generalizado de perguntas diretas baseado em experiências pessoais.",
+   "implicacao": "Analisar a função da pergunta para aquele paciente.",
+   "quem": "Diogo",
+   "ts": "0:51:36"
+  },
+  {
+   "tese": "Os estágios de mudança são transteóricos.",
+   "argumento": "Vêm de pesquisa não vinculada a escolas e descrevem etapas gerais, embora o facilitador se declare contra absolutismos.",
+   "contraponto": "Leitura de que seria teoria de uma abordagem específica.",
+   "implicacao": "Usá-los como critério comum para dosar intervenções.",
+   "quem": "Diogo",
+   "ts": "0:54:29"
+  },
+  {
+   "tese": "Se o paciente entra e sai da terapia do mesmo jeito, a terapia não rendeu; mas o fim ético é a autonomia.",
+   "argumento": "A terapia visa mudança, mas não no sentido de agradar ou de criar dependência do terapeuta.",
+   "contraponto": "Terapia estática e terapeuta indispensável.",
+   "implicacao": "Avaliar o processo pela autonomia crescente do paciente.",
+   "quem": "Diogo",
+   "ts": "1:03:00"
+  },
+  {
+   "tese": "Comunicação não verbal é muito mais do que sobrancelha ou sorriso: aponta para um momento clínico e para demandas.",
+   "argumento": "A discrepância revela processos não manifestos em palavras e pode atravessar outros relatos.",
+   "contraponto": "Leitura pontual e decodificadora de gestos.",
+   "implicacao": "Integrar o não verbal à formulação e à priorização.",
+   "quem": "Diogo",
+   "ts": "1:07:53"
+  },
+  {
+   "tese": "Relato discrepante não é mentira; é verdadeiro para quem o faz.",
+   "argumento": "Quem vê o mundo como perigoso vive num mundo perigoso; o terapeuta não deve transformar o paciente ao seu bel-prazer.",
+   "contraponto": "Noção de relato 'não fidedigno' como falsidade a corrigir.",
+   "implicacao": "Buscar mais consciência e satisfação, não a correção da crença.",
+   "quem": "Diogo",
+   "ts": "1:11:26"
+  },
+  {
+   "tese": "É papel do terapeuta ajudar o paciente a amadurecer até poder ouvir intervenções diretas.",
+   "argumento": "Vínculo e confiança construídos ao longo dos anos permitem ir desafiando aos poucos.",
+   "contraponto": "Escuta que só acolhe e não direciona.",
+   "implicacao": "Graduar a diretividade ao longo do processo.",
+   "quem": "participante",
+   "ts": "0:59:27"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Sempre duvidem de algo que diz com certeza tal coisa.",
+   "tema": "mitos da linguagem corporal",
+   "ts": "0:10:12"
+  },
+  {
+   "texto": "Na clínica, os pacientes verbalizam coisas que podem não estar coerentes com as emoções, conflitos, pensamentos ou intenções que eles estão vivendo.",
+   "tema": "discrepância",
+   "ts": "0:11:24"
+  },
+  {
+   "texto": "O nosso olhar não se atém só ao que é falado, mas ao que é mostrado, e principalmente ao fato de haver uma discrepância e ao motivo dessa discrepância.",
+   "tema": "escuta clínica",
+   "ts": "0:12:45"
+  },
+  {
+   "texto": "O online, quando a gente pensa em comunicação não verbal, está limitado ao enquadramento da câmera.",
+   "tema": "atendimento online",
+   "ts": "0:17:34"
+  },
+  {
+   "texto": "Tem pessoas que no presencial se expressam de uma maneira menos verdadeira do que no online.",
+   "tema": "atendimento online",
+   "ts": "0:23:37"
+  },
+  {
+   "texto": "A depender de como a gente obtém uma informação, ela muda de qualidade e muda de peso na análise clínica.",
+   "tema": "dados clínicos",
+   "ts": "0:29:39"
+  },
+  {
+   "texto": "Não é uma intervenção melhor que a outra: são intervenções com habilidades diferentes e caminhos diferentes.",
+   "tema": "escolha da intervenção",
+   "ts": "0:47:34"
+  },
+  {
+   "texto": "Dizer 'percebi que mudou' é dizer 'estou prestando atenção'. Para pacientes carentes, isso é ótimo; para persecutórios, é péssimo.",
+   "tema": "formulação da intervenção",
+   "ts": "0:48:29"
+  },
+  {
+   "texto": "Minha pergunta não é só conteúdo, é um estímulo antecedente. Ela também diz: eu quero saber mais.",
+   "tema": "análise do comportamento",
+   "ts": "0:51:36"
+  },
+  {
+   "texto": "Se o nosso paciente entra na terapia de um jeito e sai do mesmo jeito, a terapia não rendeu.",
+   "tema": "objetivos da terapia",
+   "ts": "1:03:00"
+  },
+  {
+   "texto": "Um dos propósitos éticos da terapia é a manutenção da autonomia e da independência do paciente.",
+   "tema": "ética e autonomia",
+   "ts": "1:03:00"
+  },
+  {
+   "texto": "Se pelo seu corpo não rolou, vamos tentar pelo meu, e aí vemos se pelo seu dá para acessar.",
+   "tema": "técnica do espelho",
+   "ts": "1:06:49"
+  },
+  {
+   "texto": "Comunicação não verbal é muito mais do que uma sobrancelha, um sorriso ou um gesto de mão: ela implica um momento clínico.",
+   "tema": "síntese",
+   "ts": "1:07:53"
+  },
+  {
+   "texto": "Para essa pessoa, o mundo é de fato perigoso. Ela não está mentindo.",
+   "tema": "relato e verdade",
+   "ts": "1:11:26"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "reels",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Desviar o olhar significa mentir? Não é bem assim.",
+   "mensagem": "Nenhum gesto tem significado universal; leia no contexto e na linha de base da pessoa.",
+   "roteiro": [
+    "Mito na tela",
+    "Por que generalizações falham",
+    "O que observar de verdade: a discrepância e o motivo"
+   ],
+   "corte_inicio": "0:10:12",
+   "corte_fim": "0:11:24"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Seu paciente diz 'tá tudo bem' com cara de triste. E agora?",
+   "mensagem": "Três caminhos (investigar o concreto, nomear a discrepância, nomear a mudança ao longo das sessões) e o espelho, cada um com pressuposto e risco.",
+   "roteiro": [
+    "Capa com a cena",
+    "Caminho 1: investigar a rotina (quando ele não sabe nomear)",
+    "Caminho 2: nomear a discrepância (quando pode tomar consciência)",
+    "Caminho 3: 'semanas atrás você falava diferente' (atenção: persecutórios)",
+    "Bônus: técnica do espelho",
+    "Nenhuma é melhor em si: depende do paciente"
+   ],
+   "corte_inicio": "0:45:22",
+   "corte_fim": "0:47:34"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "O exercício de 3 minutos que treina o olhar clínico: pegue a câmera de selfie",
+   "mensagem": "Neutro, alegria, espanto, tristeza: o que muda em você? Conhecer a própria expressão ajuda a ler a do outro.",
+   "roteiro": [
+    "Convite a pegar o celular",
+    "Estado neutro",
+    "Três emoções",
+    "Pergunta final: o que mudou?"
+   ],
+   "corte_inicio": "0:30:45",
+   "corte_fim": "0:33:37"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Terapia online perde a linguagem corporal?",
+   "mensagem": "Perde enquadramento e luz, ganha alcance, e há quem se expresse melhor em casa; depende do momento clínico.",
+   "roteiro": [
+    "Pergunta",
+    "Perdas: enquadramento, luz, travamentos",
+    "Ganhos: alcance, conforto",
+    "Critério: momento clínico"
+   ],
+   "corte_inicio": "0:22:41",
+   "corte_fim": "0:24:46"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Estágios de mudança em 1 minuto: por que a mesma intervenção ajuda um e afasta outro",
+   "mensagem": "Exemplo dos dois fumantes, queixa e demanda, recaída ampliada; um modelo que não pertence a nenhuma abordagem.",
+   "roteiro": [
+    "Dois fumantes",
+    "Queixa x demanda",
+    "As etapas",
+    "Recaída não é só química",
+    "Como isso muda sua intervenção"
+   ],
+   "corte_inicio": "0:55:42",
+   "corte_fim": "0:57:39"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Se o paciente sai da terapia igual entrou, ela não rendeu.",
+   "mensagem": "Mas o objetivo é a autonomia do paciente, não a aprovação do terapeuta.",
+   "roteiro": [
+    "Frase em destaque",
+    "Legenda sobre autonomia como fim ético"
+   ],
+   "corte_inicio": "1:03:00",
+   "corte_fim": "1:04:07"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Seu paciente não está mentindo: o mundo dele é assim.",
+   "mensagem": "Mais importante que corrigir a crença é ampliar consciência e satisfação, respeitando a autonomia.",
+   "roteiro": [
+    "Exemplo de quem vê o mundo como perigoso",
+    "Discrepância não é mentira",
+    "O que fazer em vez de corrigir"
+   ],
+   "corte_inicio": "1:11:16",
+   "corte_fim": "1:12:31"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Jacob Levy Moreno",
+   "contexto": "Criador do psicodrama; citado pela técnica do espelho."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Menção de passagem ao chiste como forma de expressão ('como Freud diria')."
+  },
+  {
+   "nome": "James Prochaska",
+   "contexto": "Autor do modelo transteórico dos estágios de mudança; não é nomeado no vídeo (Diogo fala de 'um grupo de psicólogos não vinculado a nenhuma abordagem')."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Acervo) - versão dialógica sem roleplay (condução de Diogo)",
+  "objetivo": "Desenvolver uma habilidade clínica específica por encontro por meio de atividades práticas e teóricas; neste, a leitura da comunicação não verbal e o manejo da discrepância entre fala e corpo.",
+  "publico": "Estudantes de psicologia, psicólogos em início de carreira e algumas profissionais já formadas, de várias abordagens (análise do comportamento, Gestalt, humanista); alguns em primeira semana na Allos.",
+  "tamanho": "Cerca de 6 a 8 participantes, com entradas ao longo do encontro; maioria por microfone, câmera opcional.",
+  "duracao": "Anunciado como cerca de 1h30; gravação de 1h17.",
+  "estrutura_padrao": "Apresentação do formato e do facilitador -> combinados de canal (microfone, chat, câmera) e material (espelho ou selfie) -> levantamento do que o grupo já sabe -> introdução teórica construída a partir das respostas (corrige mitos, define termos operacionalmente, justifica relevância clínica) -> pergunta disparadora (online x presencial) -> exercício corporal de autopercepção -> rodada do que se percebeu -> exercício de imaginação com o facilitador encenando o paciente -> rodada de intervenções com análise comparativa -> mini-aula sob demanda (estágios de mudança) -> síntese com técnica adicional e pedido de concordância -> rodada final de aprendizados. Comparado ao Alan: mesmo esqueleto teoria -> exercício -> feedback, mas entrada indutiva a partir do grupo, sem roleplay nesse dia (o facilitador diz que geralmente há), feedback comparativo e não avaliativo e teoria just-in-time.",
+  "papel_facilitador": "Mediador socrático e expositor enxuto: parte do conhecimento prévio, corrige sem expor, define termos, usa o próprio corpo e a própria clínica como exemplos, encena o paciente, compara intervenções por pressupostos, ganhos e riscos sem ranquear, integra falas em sínteses e oferece teoria quando o grupo pede.",
+  "regras_combinados": "Preferência por microfone (resposta mais rápida), chat permitido; câmera opcional mas recomendada no exercício; ter espelho ou câmera de selfie; convenção do dia 'verbal = vocal'; sem roleplay neste encontro; encontro gravado."
+ },
+ "reflexoes_do_facilitador": [
+  "Diz que geralmente os exercícios envolvem roleplay, mas que naquele dia preferiu não fazer um (0:01:56).",
+  "Explica que quis usar a opinião dos participantes para deixar a introdução mais dinâmica (0:07:15).",
+  "Percebe que esqueceu de se apresentar e se apresenta no meio da exposição (0:13:52).",
+  "Prefere microfone ao chat porque a resposta e a comunicação são mais rápidas (0:15:03).",
+  "Admite que suas próprias expressões no exercício ficaram ruins por estar focado em passar as orientações (0:36:28).",
+  "Reconhece o exagero da encenação e que usou tom de voz apesar de ter combinado que a voz ficaria de fora (0:38:44).",
+  "Pede desculpas pelo longo parêntese sobre estágios de mudança (0:58:46).",
+  "Admite que 'fidedigno' não foi uma boa palavra e que seu exemplo 'não começou bem' (1:10:19; 1:11:26)."
+ ],
+ "referencias_a_outros_encontros": [
+  "Diogo coordena no mesmo dia, à noite, o grupo de prática clínica junto com Alice (?) (0:00:01; 1:16:40).",
+  "Encontro seguinte ao acervo-22, em que Rodolfo anunciou Diogo como co-facilitador do aprimoramento.",
+  "Participante menciona que os estágios de mudança são ensinados na própria Allos ('que vocês mesmos ensinam') (0:53:05).",
+  "Participante comenta estar na primeira semana acompanhando as práticas da Allos (1:15:26)."
+ ],
+ "observacoes": "Facilitador claramente identificado (Diogo, analista do comportamento). O nome da colega do grupo noturno aparece como 'Alice SEC' na legenda; registrado como Alice (?). Canal de microexpressões citado por participante aparece como 'metaforando' (provável canal Metaforando). O livro citado é 'O corpo fala'. Participantes compartilham experiências pessoais como pacientes e sobre familiares, mantidas genéricas; o exemplo clínico de Diogo foi anonimizado. O programa televisivo citado no exemplo final foi generalizado na nota como programa policial sensacionalista. Título original 'Encontro 45 e Encontro 46' não informa o tema."
+}

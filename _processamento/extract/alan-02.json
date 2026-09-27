@@ -1,0 +1,913 @@
+{
+ "id": "alan-02",
+ "nota": "Alan 02 - Construção frasal",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Construção frasal",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Alan troca a sequência de dinâmicas de interpretação por uma dinâmica de intervenção e improvisa um mapa dos cinco componentes da intervenção: leitura do caso, priorização, qualidade, operacionalização e consequências. O encontro trabalha só a operacionalização, isto é, como dizer uma intervenção já decidida, com o argumento de que a terapia transforma a realidade pela palavra (\"é mais mágica\") e ninguém treina isso. Num roleplay interrompido (Alan como terapeuta, uma participante como paciente, um participante como mediador), o grupo reconstrói a intenção de cada intervenção, propõe quatro variações e compara o que cada uma ganha e perde, sem poder discordar da hipótese nem trocar a intervenção. Surgem regras gerais: assumir a premissa em vez de problematizar o rótulo; ordem e pausa para grifar a palavra central; transparência ou ironia no lugar da condescendência; intervenção em um tempo só; preferir a formulação potente e depois clareá-la; o \"você acha\" desloca a pergunta do fato para a função da crença; concretude e humor contra a compensação teórica (chave adleriana). No fechamento, Alan diz que falhou na condução, porque os muitos parênteses impediram regras gerais coerentes, propõe três formas de treinar e anuncia a volta à interpretação. A partir do feedback de uma participante, sugere quebrar o exercício em subexercícios com vinheta fixa, como o dial up/dial down.",
+ "em_uma_frase": "Assumindo leitura, priorização e escolha corretas, o grupo treina só a execução: dizer a mesma intervenção de quatro jeitos e comparar o que cada formulação ganha e perde, para desenvolver criatividade clínica e extrair regras gerais de construção da frase.",
+ "competencias": [
+  "Construção frasal",
+  "Intervenção",
+  "Relação terapêutica",
+  "Priorização clínica",
+  "Interpretação",
+  "Acolhimento e validação",
+  "Abertura e encerramento de sessão",
+  "Primeira sessão e entrevistas iniciais",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicologia individual adleriana",
+  "Psicanálise freudiana",
+  "Psicanálise lacaniana",
+  "Terapias contextuais"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Abertura",
+   "descricao": "Anuncia a mudança de foco de interpretação para intervenção, porque a variedade mantém o grupo animado.",
+   "funcao": "Situar o encontro no ciclo e cuidar da motivação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:00:01",
+   "bloco": "Teoria",
+   "descricao": "Mapa improvisado dos cinco componentes e cinco erros da intervenção (leitura, priorização, qualidade, operacionalização, consequências); foco no 4º.",
+   "funcao": "Delimitar o que não será corrigido e isolar a habilidade treinada.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:04:13",
+   "bloco": "Teoria",
+   "descricao": "Construção da frase como parte da operacionalização (junto com estágios de mudança); a palavra potente como 'magia' que transforma a realidade.",
+   "funcao": "Justificar o treino de algo que ninguém treina.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:05:20",
+   "bloco": "Combinados",
+   "descricao": "Consigna do roleplay interrompido; quem discorda da hipótese fica quieto; objetivos (criatividade clínica, regras gerais); voluntário de baixa experiência de preferência.",
+   "funcao": "Contrato do exercício.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:08:47",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Sem voluntário para atender, Alan assume o papel de terapeuta, pede um mediador sem escolher ninguém e o orienta; uma participante faz a paciente.",
+   "funcao": "Separar quem atende de quem conduz.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:10:57",
+   "bloco": "Demonstração",
+   "descricao": "Alan pausa na própria pergunta de abertura da sessão e pede variações.",
+   "funcao": "Mostrar que toda fala é intervenção e modelar o papel do mediador.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:12:41",
+   "bloco": "Dinâmica",
+   "descricao": "Rodada 1: 'Qual o problema de ser histérica?' Reconstrução do raciocínio, quatro variações, ganhos e perdas.",
+   "funcao": "Primeiro ciclo completo do método.",
+   "duracao_min": 12
+  },
+  {
+   "ts": "0:25:14",
+   "bloco": "Discussão",
+   "descricao": "Salto para o 5º componente: o que fazer se a paciente responde com a teoria da aula; validar, tensionar ou repetir a pergunta; inverter a ordem da frase.",
+   "funcao": "Mostrar que a formulação pode prevenir problemas posteriores.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:32:54",
+   "bloco": "Combinados",
+   "descricao": "Recusa a ler o chat (a entonação é parte da frase); votação da variação para continuar o roleplay.",
+   "funcao": "Reforçar a regra da voz e dar ao grupo a escolha do rumo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:34:12",
+   "bloco": "Dinâmica",
+   "descricao": "O roleplay continua até a intervenção 'Você acha que parar de se interessar... não tem cura?'",
+   "funcao": "Gerar novo material.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:36:09",
+   "bloco": "Rodada de respostas",
+   "descricao": "Rodada 2: avaliar antes de variar; barrar a discordância sobre priorização; nomear o núcleo; variação sem 'você acha'.",
+   "funcao": "Separar discordar da intervenção de executá-la melhor.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:43:18",
+   "bloco": "Feedback",
+   "descricao": "Parêntese sobre condescendência; as tentativas de acolher trocam a intervenção; Alan dá duas saídas gerais: transparência e ironia.",
+   "funcao": "Converter o impasse em regra transferível.",
+   "duracao_min": 13
+  },
+  {
+   "ts": "0:55:54",
+   "bloco": "Teoria",
+   "descricao": "Volta ao 'você acha': as duas operações (abrir espaço e mudar o objeto da pergunta do fato para a crença).",
+   "funcao": "Ensinar a pensar a língua no contexto da hipótese.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:02:47",
+   "bloco": "Rodada de respostas",
+   "descricao": "Rodada 3: variação 'se você não tivesse só flertado, ainda seria histérica?'; regras de potência versus clareza e da intervenção em dois tempos.",
+   "funcao": "Salvar uma formulação potente e confusa.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:11:28",
+   "bloco": "Demonstração",
+   "descricao": "Alan volta ao roleplay com a variação simplificada e chega a 'o que você está me contando é que precisa de um namorado'.",
+   "funcao": "Modelar a variação e produzir uma intervenção de choque para análise.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:13:43",
+   "bloco": "Rodada de respostas",
+   "descricao": "Rodada 4: problemas e variações ('para sempre', 'amor permanente', 'a cura da sua histeria é...'); ganhos e perdas; por que humor e choque; teórico versus concreto; o 'sua'.",
+   "funcao": "Aprofundar a função clínica do choque e a compensação adleriana.",
+   "duracao_min": 15
+  },
+  {
+   "ts": "1:28:40",
+   "bloco": "Fechamento",
+   "descricao": "Adia um pedido urgente fora de pauta; autoavaliação ('falhei na condução'); comparação com os encontros anteriores.",
+   "funcao": "Metacomunicação sobre o processo do grupo.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:32:33",
+   "bloco": "Tarefa",
+   "descricao": "Três formas de treinar: com colegas, mentalmente no dia a dia, com vinhetas em supervisão ou intervisão.",
+   "funcao": "Levar o treino para fora do encontro.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "1:33:28",
+   "bloco": "Discussão",
+   "descricao": "Anuncia a volta à interpretação; feedback de uma participante sobre a estrutura; proposta de subexercícios com vinheta fixa (dial up/dial down); fim da gravação.",
+   "funcao": "Redesenhar o formato com o grupo.",
+   "duracao_min": 4
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Componentes da intervenção",
+   "definicao": "Divisão didática, improvisada por Alan e declarada não canônica, dos cinco componentes de uma intervenção: leitura correta do caso, priorização, qualidade da intervenção (o ferramental), operacionalização e manejo das consequências. Cada componente é um lugar diferente onde se pode errar, e o treino pode isolar um deles.",
+   "exemplo": "O erro mais grosseiro é o de leitura: intervir num relacionamento que nem existe.",
+   "abordagem": "",
+   "ts": "0:01:05"
+  },
+  {
+   "nome": "Hamartia",
+   "definicao": "Termo grego para 'pecar' no sentido original de 'errar o alvo'. Alan o usa para o erro de priorização: endereçar algo, mas errando a mira.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:02:06"
+  },
+  {
+   "nome": "Poder transformador da palavra",
+   "definicao": "A capacidade de transformar o mundo pelo discurso, que várias culturas chamam de magia. A psicoterapia faz isso ao transformar a realidade específica da vida de um sujeito pela palavra. Por isso a fala potente e persuasiva é 'mais mágica' e merece treino.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:04:13"
+  },
+  {
+   "nome": "Criatividade clínica",
+   "definicao": "Fluência e versatilidade para produzir várias formulações da mesma intervenção. Quem está ficando bom de clínica faz cinco ou seis variações com facilidade. O oposto é a monotonia, um tom só, que Alan chama de deselegante.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:06:25"
+  },
+  {
+   "nome": "Ganhos e perdas da formulação",
+   "definicao": "O método de análise da dinâmica: comparar formulações par a par, perguntando o que cada uma ganha e perde. Em geral, o que é positivo numa é negativo na outra ('dois lados da mesma moeda').",
+   "exemplo": "'A cura da sua histeria é se interessar pelas pessoas' ganha adesão e perde especificidade e choque.",
+   "abordagem": "",
+   "ts": "1:21:43"
+  },
+  {
+   "nome": "Significante",
+   "definicao": "Aparece em dois sentidos. O diagnóstico que a paciente se atribui é um significante para falar de 'algo', e é esse algo que se deve buscar. Expressões que se repetem na fala do paciente (como 'para sempre') são significantes que a intervenção deve preservar.",
+   "exemplo": "Trocar 'para sempre' por 'namorado' dilui o problema.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:18:30"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "A resistência de não querer responder é a mais tranquila. A mais difícil é aquela em que a pessoa responde, mas leva a conversa para um assunto irrelevante ou universal, por exemplo uma discussão teórico-moral sobre psicopatologia em vez de sobre ela.",
+   "exemplo": "'Ser histérica é um problema?' facilita a deflexão para uma discussão teórica.",
+   "abordagem": "",
+   "ts": "0:19:22"
+  },
+  {
+   "nome": "Racionalização",
+   "definicao": "O risco de perguntas do tipo 'Por que + rótulo?': o paciente recorre aos próprios esquemas e crenças para se defender e passa a discutir se o diagnóstico está correto, o que é desinteressante para o caso.",
+   "exemplo": "'Por que histérica?'",
+   "abordagem": "",
+   "ts": "0:23:40"
+  },
+  {
+   "nome": "Condescendência",
+   "definicao": "O tom que trata o paciente como quem não entende a própria realidade psíquica. É mais agressivo do que parece e pode fazer a pessoa se sentir 'completamente errada'. Transparência e ironia são as saídas.",
+   "exemplo": "'O que é ser histérica para você?' dito de modo seco.",
+   "abordagem": "",
+   "ts": "0:43:18"
+  },
+  {
+   "nome": "Transparência de hipóteses",
+   "definicao": "Apresentar a intervenção como hipótese, narrando o próprio raciocínio em vez de cutucar. Segundo Alan, é muito difícil uma intervenção soar agressiva assim, e por isso é a saída mais segura na primeira sessão.",
+   "exemplo": "'Dois elementos me chamaram atenção e eu não consigo deixar de conectar... Será que é tão impossível assim?'",
+   "abordagem": "",
+   "ts": "0:51:48"
+  },
+  {
+   "nome": "Ironia clínica",
+   "definicao": "Exagerar a posição do paciente até ficar claramente cômico, 'dando a volta' na condescendência. É menos agressiva que a condescendência, mas corre o risco de não ser entendida como ironia e exigir uma segunda intervenção.",
+   "exemplo": "'Nossa, do jeito que você conta, deve ser literalmente impossível mesmo se interessar por eles.'",
+   "abordagem": "",
+   "ts": "0:52:56"
+  },
+  {
+   "nome": "Função da crença",
+   "definicao": "O objeto de uma pergunta formulada com 'você acha'. A pergunta deixa de ser factual (sobre a natureza humana) e passa a ser sobre o papel que a crença cumpre na vida da pessoa, por exemplo justificar a própria conduta.",
+   "exemplo": "'Você acha que parar de se interessar pelas pessoas não tem cura?' versus a mesma frase sem 'você acha'.",
+   "abordagem": "",
+   "ts": "0:59:12"
+  },
+  {
+   "nome": "Compensação",
+   "definicao": "Em chave adleriana, a posição de quem usa o sintoma ou os recursos teóricos e reflexivos como forma de poder ou de desculpa, para se eximir do problema moral na vida. Alan chama a paciente simulada de 'paciente adleriana'.",
+   "exemplo": "Nomear um comportamento comum com 'um pomposo termo teórico em grego' cria uma mística que dispensa a mudança.",
+   "abordagem": "Psicologia individual adleriana",
+   "ts": "1:26:25"
+  },
+  {
+   "nome": "Intervenção em dois tempos",
+   "definicao": "Intervenção que primeiro retoma algo e depois conclui em cima disso ('levantar a bola para cortar'). Quase nunca funciona e fica confusa ou menos potente. O melhor é retomar, ver no que dá e só depois fazer a conclusão.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:07:34"
+  },
+  {
+   "nome": "Entonação e pausa",
+   "definicao": "A ordem da frase, a pausa e a ênfase logo depois da palavra central fazem parte da construção frasal. Grifam o que importa para a hipótese e podem dispensar uma segunda intervenção. É por isso que o exercício não funciona pelo chat.",
+   "exemplo": "'Mas me conta... para você... como é?' em vez de 'O que é ser histérica para você?'",
+   "abordagem": "",
+   "ts": "0:31:58"
+  },
+  {
+   "nome": "Concretude da intervenção",
+   "definicao": "Tirar a conversa do plano das ideias e da teoria e trazê-la para a vida concreta. Isso comunica que a sessão é sobre a pessoa e não sobre alta teoria psicológica, e responde à compensação teórica.",
+   "exemplo": "'O que você está me contando é que você precisa de um namorado.'",
+   "abordagem": "",
+   "ts": "1:26:25"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "Citados como um dos elementos da operacionalização da intervenção e como uma alavanca para deixar uma intervenção mais ou menos agressiva (dial up/dial down).",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:04:13"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Construção frasal",
+   "objetivo": "Treinar a operacionalização de uma intervenção já decidida: dizer a mesma coisa de vários jeitos e saber o que cada formulação ganha e perde. Desenvolver criatividade clínica e extrair regras gerais de construção da frase.",
+   "competencias": [
+    "Construção frasal",
+    "Intervenção",
+    "Relação terapêutica"
+   ],
+   "configuracao": "Grupo todo, online. Terapeuta (de preferência pouco experiente; neste encontro, o próprio Alan), paciente (participante que conta uma história), mediador que pausa o atendimento (um participante) e o restante do grupo, que propõe e analisa variações. Quem atende não propõe variações. Cerca de 6 a 8 participantes ativos.",
+   "tempo": "75 a 80 minutos; rodadas de 8 a 15 minutos por intervenção",
+   "materiais": "Nenhum; alguém anota literalmente cada frase original.",
+   "consigna": "Uma pessoa vai atender e o mediador vai interromper toda vez que houver, ou puder haver, uma intervenção. Partindo do pressuposto de que a leitura, a priorização e a escolha da intervenção estão corretas, vocês vão criar variações de como expressar a mesma ideia. Se discordam da hipótese, fiquem quietos: o problema agora é como comunicar isso de maneira mais potente e persuasiva.",
+   "passos": [
+    "Contextualizar: os cinco componentes da intervenção; hoje só o 4º (operacionalização).",
+    "Definir os papéis (terapeuta, paciente, mediador) e fazer a primeira pausa como demonstração, na frase de abertura da sessão.",
+    "Rodar o atendimento até uma intervenção e pausar.",
+    "Anotar literalmente a frase original.",
+    "Reconstruir o raciocínio: 'O que vocês acham que passou pela minha cabeça?'",
+    "(Opcional) avaliar os problemas de execução e nomear o núcleo da intervenção que não pode se perder.",
+    "Colher quatro variações, sempre em voz alta.",
+    "Comparar par a par com a original: o que se ganha e o que se perde com cada formulação.",
+    "O facilitador fecha a rodada com um comentário ou uma regra geral.",
+    "Votar qual variação o terapeuta usará, retomar o roleplay a partir dela e repetir o ciclo."
+   ],
+   "feedback": "A variação precisa preservar o núcleo da intervenção; trocar a intervenção (por exemplo, confronto por acolhimento) é apontado explicitamente. A resposta é cobrada na frase, não na explicação. Critérios de comparação: velocidade, espaço para resistência ou deflexão teórica, grau de confronto e condescendência, clareza, potência e memorabilidade, especificidade, adesão, preservação dos significantes do paciente, fidelidade aos fatos do relato, construção em um tempo só. Erros de escuta são nomeados e deixados de lado. Alan valida parcialmente (o que foi acertado e o que faltou) e devolve ao grupo.",
+   "exemplos_praticos": "Roleplay (tratado como simulado): uma estudante de psicologia ansiosa que se identifica com o rótulo de histeria e diz perder o interesse nos relacionamentos, algo que para ela não tem cura. Rodada 1: variações de 'Qual o problema de ser histérica?' ('Ser histérica é um problema?', 'Por que histérica?', 'Histérica como?', 'O que é ser histérica para você?'), com uma participante apontando o diagnóstico como significante. Rodada 2: a variação sem 'você acha' gera respostas repetidas até Alan explicar as duas operações da expressão; as tentativas de acolher trocam a intervenção e levam às saídas de transparência e ironia. Rodada 3: a variação potente e confusa 'se você não tivesse só flertado, ainda seria histérica?' passa por tentativas longas ou em dois tempos até Alan simplificar. Rodada 4: 'você precisa de um namorado' gera as variações 'namorado para sempre' e 'a cura da sua histeria é se interessar pelas pessoas', e a discussão sobre choque versus teoria.",
+   "variacoes": "Versão individual (cada pessoa produz sozinha de 4 a 6 variações); versão com vinheta fixa quebrada em cerca de cinco subexercícios (inverter a ordem, entonação e pausa, central versus periférico, dial up/dial down, transparência versus ironia), adequada também para treino com IA; usar vinhetas de supervisão ou intervisão.",
+   "armadilhas": "O grupo escorregar para discutir o caso ou a priorização; trocar a intervenção achando que é variação; parênteses dentro de parênteses que impedem regras gerais; participação pelo chat (sem entonação); terapeuta experiente demais deixa pouco para variar; o exercício coletivo mascara a habilidade individual; participantes vivem o exercício como estressante.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:05:20"
+  },
+  {
+   "nome": "Dinâmica - Dial up e dial down",
+   "objetivo": "Graduar a intensidade e a agressividade de uma mesma intervenção.",
+   "competencias": [
+    "Construção frasal",
+    "Intervenção",
+    "Relação terapêutica"
+   ],
+   "configuracao": "Individual ou em grupo, com vinheta fixa entregue pelo facilitador; serve também para treino com IA.",
+   "tempo": "Não especificado (pensado como um de cerca de cinco subexercícios curtos)",
+   "materiais": "Vinheta de sessão com uma intervenção pronta.",
+   "consigna": "Aqui está uma vinheta com uma intervenção. Deixe-a mais agressiva. Agora, deixe-a menos agressiva.",
+   "passos": [
+    "Entregar a vinheta com a intervenção.",
+    "Pedir a versão mais agressiva (dial up).",
+    "Pedir a versão menos agressiva (dial down).",
+    "Explorar as alavancas: estágio de mudança pressuposto, jeito de comentar, entonação, ordem das coisas na frase."
+   ],
+   "feedback": "Não demonstrado; subentendidos os mesmos critérios da construção frasal (preservar o núcleo, clareza, grau de confronto).",
+   "exemplos_praticos": "Proposta no fechamento, não executada neste encontro.",
+   "variacoes": "Combinar com outros subexercícios de uma alavanca só (ordem, entonação, central versus periférico, transparência versus ironia).",
+   "armadilhas": "Mudar a intervenção em vez de só a intensidade.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "1:36:18"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Abrir pelo estado do grupo e com teoria improvisada",
+   "descricao": "Escolhe o tema pensando na motivação do grupo (variedade depois de muita interpretação) e monta o mapa teórico na hora, avisando que não é canônico: modela o pensamento em voz alta sem dogmatizar.",
+   "exemplo": "'Variedade ajuda as pessoas a se manterem animadas'; 'isso não é cânone, eu acabei de inventar'.",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Delimitar o foco e cobrar a regra",
+   "descricao": "Congela os níveis que não estão em treino e barra quem tenta discutir a hipótese ou a priorização.",
+   "exemplo": "'Se você discorda da hipótese, fica quieto'; 'aqui a gente corrige só a execução'.",
+   "ts": "0:37:19"
+  },
+  {
+   "movimento": "Critério de voluntário, plano B e separação de papéis",
+   "descricao": "Prefere um terapeuta de baixa experiência (para sobrar espaço às variações); sem voluntário, atende ele mesmo e delega a mediação; não escolhe ninguém e checa a disponibilidade de tempo.",
+   "exemplo": "'Atender e conduzir é muito para a minha cabeça, ainda não sou tão dissociado assim.'",
+   "ts": "0:08:18"
+  },
+  {
+   "movimento": "Modelar o papel do mediador",
+   "descricao": "Faz a primeira pausa numa fala banal para mostrar que toda fala é intervenção.",
+   "exemplo": "Pausa na própria abertura da sessão e pede variações.",
+   "ts": "0:10:57"
+  },
+  {
+   "movimento": "Intenção antes da variação e número fixo",
+   "descricao": "Pede primeiro o raciocínio por trás da frase e fixa quatro variações para dar ritmo e profundidade.",
+   "exemplo": "'O que vocês acham que passou pela minha cabeça?'; 'vamos colocar sempre quatro variações'.",
+   "ts": "0:14:49"
+  },
+  {
+   "movimento": "Voz, não chat",
+   "descricao": "Exige microfone porque a construção frasal depende de entonação; pede que alguém repita a fala de quem está sem microfone; usa o chat só para votar.",
+   "exemplo": "'Sem a entonação, sem a cadência vocal, não dá para fazer o exercício.'",
+   "ts": "0:32:54"
+  },
+  {
+   "movimento": "Comparação de ganhos e perdas",
+   "descricao": "Estrutura toda análise como comparação par a par do que cada formulação ganha e perde.",
+   "exemplo": "'O que a gente ganha e o que a gente perde com a minha formulação e vice-versa?'",
+   "ts": "0:16:33"
+  },
+  {
+   "movimento": "Feedback preciso: validar parcialmente e amplificar",
+   "descricao": "Reconhece o que foi acertado, diz o que faltou e devolve ao grupo; quando uma contribuição é boa, destaca-a para todos e a expande teoricamente.",
+   "exemplo": "'Você identificou bem o que a formulação dele ganha, mas não o que a minha ganha. Alguém tem outra hipótese?'; 'isso que ela fala é muito importante'.",
+   "ts": "0:17:26"
+  },
+  {
+   "movimento": "Cobrar a frase, não o comentário",
+   "descricao": "Impede que o participante fique no comentário abstrato e deduz o raciocínio a partir da variação.",
+   "exemplo": "'Faz na frase. Eu preciso que você faça na frase.'",
+   "ts": "0:45:24"
+  },
+  {
+   "movimento": "Nomear a perda de aderência e organizar os parênteses",
+   "descricao": "Aponta que o grupo saiu do exercício, transforma o desvio em segunda variante e combina a ordem de retorno.",
+   "exemplo": "'A gente está tendo um problema na aderência do exercício'; 'vou aprofundar no dela e depois voltamos no dele'.",
+   "ts": "0:44:21"
+  },
+  {
+   "movimento": "Normalizar a frustração",
+   "descricao": "Acolhe quem acha o exercício estressante e reenquadra a dificuldade como parte do aprendizado.",
+   "exemplo": "'É importante a gente ter dificuldade na hora que está fazendo as coisas.'",
+   "ts": "0:46:29"
+  },
+  {
+   "movimento": "Entregar regra geral e demonstrar quando o grupo trava",
+   "descricao": "Diante do impasse, dá princípios transferíveis e os demonstra ao vivo.",
+   "exemplo": "As duas saídas para a condescendência: transparência e ironia.",
+   "ts": "0:50:41"
+  },
+  {
+   "movimento": "Provocar e insistir quando o grupo não avança",
+   "descricao": "Aponta quando as respostas são 'a mesma coisa com variações', usa humor provocativo contra o silêncio e só então entrega a distinção, conferindo a compreensão.",
+   "exemplo": "'Nunca antes foi feita uma intervenção tão precisa na história da psicologia'; 'tem algo muito mais gritante acontecendo'.",
+   "ts": "0:57:45"
+  },
+  {
+   "movimento": "Voltar ao roleplay com a variação escolhida",
+   "descricao": "Mantém o caso vivo aplicando a variação votada ou simplificada e gera material novo.",
+   "exemplo": "Retoma com 'você ainda seria histérica mesmo se os relacionamentos fossem para frente?'",
+   "ts": "1:11:28"
+  },
+  {
+   "movimento": "Humildade epistêmica, autoavaliação e co-design do formato",
+   "descricao": "Admite que pode ter lido errado, reconhece insights que não viu, avalia publicamente a própria condução, dá tarefa e redesenha o exercício a partir do feedback do grupo.",
+   "exemplo": "'Talvez eu tenha lido errado'; 'esse é um ponto muito bom que eu não estava observando'; 'eu falhei na condução'.",
+   "ts": "1:29:35"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Trate a primeira frase da sessão como intervenção e escolha-a deliberadamente.",
+   "justificativa": "O jeito de abrir já direciona o que vem (com ou sem marcador temporal, 'o que te traz', 'como está se sentindo').",
+   "contexto": "Aberturas de sessão, sobretudo a primeira.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:10:57"
+  },
+  {
+   "dica": "Diante de um rótulo que o paciente se atribui, pergunte pelo problema concreto assumindo a premissa ('Qual o problema de ser X?').",
+   "justificativa": "É mais rápido, vai ao 'algo' de que o rótulo fala e deixa menos espaço para a deflexão teórico-moral.",
+   "contexto": "Autodiagnósticos vindos de leitura ou aula.",
+   "competencia": "Construção frasal",
+   "ts": "0:19:22"
+  },
+  {
+   "dica": "Evite 'Por que + rótulo?'.",
+   "justificativa": "Convida à racionalização e a um debate sobre se o diagnóstico está certo, irrelevante para o caso.",
+   "contexto": "Quando o foco é a vivência e não a teoria.",
+   "competencia": "Construção frasal",
+   "ts": "0:23:40"
+  },
+  {
+   "dica": "Peça literalmente o que quer ouvir: 'Me conta a última vez em que...'.",
+   "justificativa": "Direciona para a narrativa concreta; 'X como?' é tão aberto quanto o 'por quê'.",
+   "contexto": "Quando precisa de um exemplo vivido.",
+   "competencia": "Construção frasal",
+   "ts": "0:22:34"
+  },
+  {
+   "dica": "Não valide um autodiagnóstico para reparar um tom que soou duro.",
+   "justificativa": "Sem informação sobre o caso, validar é mais grave do que o leve incômodo com o tom: o remédio é pior que o problema.",
+   "contexto": "Início do tratamento.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:26:16"
+  },
+  {
+   "dica": "Ponha a palavra central no início da frase ou faça uma pausa logo depois dela.",
+   "justificativa": "Ordem e pausa grifam o que importa para a hipótese e podem dispensar uma segunda intervenção.",
+   "contexto": "Quando uma palavra carrega a intervenção ('para você', 'acha').",
+   "competencia": "Construção frasal",
+   "ts": "0:31:58"
+  },
+  {
+   "dica": "Acerte na primeira formulação em vez de corrigir na segunda.",
+   "justificativa": "Repetir a intervenção porque não ficou clara tende a soar confrontativo.",
+   "contexto": "Perguntas cujo sentido depende de um detalhe.",
+   "competencia": "Construção frasal",
+   "ts": "0:30:59"
+  },
+  {
+   "dica": "Ao repetir uma pergunta que não foi respondida, reconheça primeiro o que a pessoa disse e mostre curiosidade.",
+   "justificativa": "Repetir é elegante, mas a ordem e o tom decidem se soa confronto.",
+   "contexto": "O paciente responde 'ao lado' da pergunta.",
+   "competencia": "Construção frasal",
+   "ts": "0:29:11"
+  },
+  {
+   "dica": "Para suavizar uma intervenção confrontativa sem perder o conteúdo, seja transparente com a hipótese e narre o seu raciocínio.",
+   "justificativa": "É muito difícil soar agressivo sendo transparente com o fato de ser uma hipótese.",
+   "contexto": "Confrontos, sobretudo no início do vínculo.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:51:48"
+  },
+  {
+   "dica": "Se usar ironia, exagere até ficar claramente cômico.",
+   "justificativa": "A ironia agride menos que a condescendência, e quanto mais clara, menos agressiva; mal entendida, exige outra intervenção.",
+   "contexto": "Com vínculo estabelecido; na primeira sessão, prefira a transparência.",
+   "competencia": "Intervenção",
+   "ts": "0:53:52"
+  },
+  {
+   "dica": "Assuma o detalhe provável (por exemplo, o gênero do parceiro) para não abrir uma tangente, e peça desculpa se errar.",
+   "justificativa": "Ressalvas complicam a frase e oferecem ganchos de fuga do tema; o erro vira 'novo tema da terapia'.",
+   "contexto": "Detalhes periféricos ao foco da intervenção.",
+   "competencia": "Construção frasal",
+   "ts": "0:54:48"
+  },
+  {
+   "dica": "Use 'você acha' quando a intervenção for sobre a função de uma crença; tire-o quando quiser discutir o fato ou o problema em si.",
+   "justificativa": "Sem 'você acha', a pergunta é factual (sobre a natureza humana); com ele, é sobre o papel da crença na vida da pessoa.",
+   "contexto": "Crenças usadas como justificativa ('isso não tem cura').",
+   "competencia": "Construção frasal",
+   "ts": "0:59:12"
+  },
+  {
+   "dica": "Se o paciente não captar o 'você acha', repita com ênfase: 'eu perguntei se você acha'.",
+   "justificativa": "A entonação recupera a mudança de objeto da pergunta.",
+   "contexto": "O paciente responde sobre o fato e não sobre a crença.",
+   "competencia": "Construção frasal",
+   "ts": "0:59:12"
+  },
+  {
+   "dica": "Faça intervenções de um tempo só.",
+   "justificativa": "Retomar e concluir na mesma fala ('levantar a bola para cortar') quase nunca funciona e fica confuso ou menos potente.",
+   "contexto": "Sempre; se precisar retomar, retome, espere a resposta e só depois conclua.",
+   "competencia": "Construção frasal",
+   "ts": "1:07:34"
+  },
+  {
+   "dica": "Entre uma formulação potente-confusa e uma clara-fraca, fique com a potente e simplifique.",
+   "justificativa": "É mais fácil clarear uma frase potente do que dar potência a uma frase clara.",
+   "contexto": "Na escolha entre variações.",
+   "competencia": "Construção frasal",
+   "ts": "1:04:28"
+  },
+  {
+   "dica": "Preserve os significantes que o paciente repete.",
+   "justificativa": "Trocá-los dilui justamente o problema (por exemplo, 'para sempre').",
+   "contexto": "Expressões recorrentes na fala do paciente.",
+   "competencia": "Escuta clínica",
+   "ts": "1:14:29"
+  },
+  {
+   "dica": "Confira os fatos do relato antes de formular.",
+   "justificativa": "Uma frase bonita que distorce o fato (transformar 'perco o interesse' em 'não sou amada') muda o problema.",
+   "contexto": "Ao reformular a fala do paciente.",
+   "competencia": "Escuta clínica",
+   "ts": "1:17:42"
+  },
+  {
+   "dica": "Quando o paciente usa teoria para se eximir, traga a conversa para o concreto, com humor se couber.",
+   "justificativa": "A formulação teórica o mantém no plano das ideias; a concretude desmonta a compensação.",
+   "contexto": "Pacientes que intelectualizam o próprio sintoma.",
+   "competencia": "Intervenção",
+   "ts": "1:26:25"
+  },
+  {
+   "dica": "Use o choque com função clínica e saiba sustentá-lo depois.",
+   "justificativa": "A reação do paciente (defesa agressiva ou passiva) entrega material, mas exige manejo nas intervenções seguintes.",
+   "contexto": "Quando a versão segura seria teórica e pouco mobilizadora.",
+   "competencia": "Intervenção",
+   "ts": "1:24:43"
+  },
+  {
+   "dica": "Use o possessivo ('a sua histeria') para separar o conceito da vivência.",
+   "justificativa": "Marca que a conversa é sobre a vida da pessoa e questiona a validade do rótulo.",
+   "contexto": "Autodiagnósticos vindos de estudo.",
+   "competencia": "Construção frasal",
+   "ts": "1:27:38"
+  },
+  {
+   "dica": "Antes de variar uma intervenção, nomeie o núcleo que não pode se perder.",
+   "justificativa": "Acolher no lugar de problematizar já é outra intervenção.",
+   "contexto": "Supervisão, intervisão, autocorreção.",
+   "competencia": "Intervenção",
+   "ts": "0:50:41"
+  },
+  {
+   "dica": "Treine variações com colegas, mentalmente no dia a dia e com vinhetas em supervisão ou intervisão.",
+   "justificativa": "Criatividade clínica é fluência; observar as próprias respostas e suas consequências no cotidiano dá consciência do processo.",
+   "contexto": "Formação contínua.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:32:33"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Uma intervenção pode falhar em cinco lugares distintos, e o treino deve isolá-los.",
+   "argumento": "Leitura, priorização, escolha da ferramenta, execução e manejo das consequências são habilidades diferentes; misturadas, a discussão escorrega para o nível mais fácil.",
+   "contraponto": "O próprio Alan diz que a divisão é improvisada e não canônica.",
+   "implicacao": "Fixar nos exercícios os níveis que não estão em treino.",
+   "quem": "Alan",
+   "ts": "0:03:09"
+  },
+  {
+   "tese": "A psicoterapia é, num sentido preciso, uma prática 'mágica', e por isso a construção da frase merece treino.",
+   "argumento": "Transformar o mundo pelo discurso é a propriedade básica da magia em várias culturas, e a terapia transforma a realidade do sujeito pela palavra.",
+   "contraponto": "Uma formação que não treina o uso potente da palavra.",
+   "implicacao": "Incluir exercícios de formulação na formação clínica.",
+   "quem": "Alan",
+   "ts": "0:04:13"
+  },
+  {
+   "tese": "A monotonia é deselegante; a fluência em variações é sinal de competência clínica.",
+   "argumento": "Quem está ficando bom de clínica faz cinco ou seis variações da mesma intervenção com facilidade.",
+   "contraponto": "",
+   "implicacao": "Medir o progresso pela capacidade de variar.",
+   "quem": "Alan",
+   "ts": "0:06:25"
+  },
+  {
+   "tese": "Validar cedo um autodiagnóstico é pior do que um leve incômodo com o tom.",
+   "argumento": "Sem informação, a validação é mais agressiva do que o problema que tenta corrigir, como a criança que derrama mais água tentando secar.",
+   "contraponto": "O reflexo de validar para reparar um tom confrontativo.",
+   "implicacao": "Consertar o tom pela forma da frase, não pelo conteúdo.",
+   "quem": "Alan",
+   "ts": "0:26:16"
+  },
+  {
+   "tese": "A transparência quase nunca é agressiva, e a ironia agride menos que a condescendência.",
+   "argumento": "Narrar o raciocínio descreve em vez de cutucar; a ironia explícita vira comicidade; a condescendência é o meio-termo que fere.",
+   "contraponto": "A ironia pode não ser entendida; na primeira sessão, a transparência é mais segura.",
+   "implicacao": "Nunca ficar na meia-condescendência: escolher entre transparência e exagero irônico.",
+   "quem": "Alan",
+   "ts": "0:51:48"
+  },
+  {
+   "tese": "Em psicoterapia não existem regras, e quem vende regrinha é picareta; ainda assim, há heurísticas úteis, como 'intervenção com duas partes nunca funciona'.",
+   "argumento": "A clínica é contextual, mas padrões de construção se repetem e viram macetes úteis, sobretudo para iniciantes.",
+   "contraponto": "Regras vendidas como receita.",
+   "implicacao": "Ensinar regras como heurísticas, com ressalva explícita.",
+   "quem": "Alan",
+   "ts": "1:07:34"
+  },
+  {
+   "tese": "É mais fácil clarear uma intervenção potente do que dar potência a uma intervenção clara.",
+   "argumento": "A potência vem do achado (a inflexão certa); a clareza é trabalho de lapidação.",
+   "contraponto": "",
+   "implicacao": "Ao escolher entre variações, preservar a mais potente e simplificá-la.",
+   "quem": "Alan",
+   "ts": "1:04:28"
+  },
+  {
+   "tese": "Palavras pequenas mudam a estrutura da pergunta, não só o grau de diretividade; é preciso pensar a língua no contexto.",
+   "argumento": "'Você acha' desloca o objeto da pergunta do fato para a função da crença, o que muda a direção da intervenção.",
+   "contraponto": "A leitura genérica do grupo de que a expressão só abre espaço ou deixa a frase menos diretiva.",
+   "implicacao": "Avaliar cada palavra à luz da hipótese que se quer testar.",
+   "quem": "Alan",
+   "ts": "0:58:22"
+  },
+  {
+   "tese": "Com pacientes que usam teoria para se eximir, a formulação concreta, até chocante, é clinicamente superior à teórica.",
+   "argumento": "A formulação teórica mantém a pessoa no plano das ideias, que é sua defesa (compensação adleriana); a concreta a traz de volta ao problema moral da vida.",
+   "contraponto": "A versão teórica tem mais adesão e é mais segura de conduzir; o choque depende de saber sustentá-lo.",
+   "implicacao": "Dosar o choque pela capacidade de manejar as consequências.",
+   "quem": "Alan",
+   "ts": "1:26:25"
+  },
+  {
+   "tese": "Exercícios de construção frasal não podem ser feitos por chat.",
+   "argumento": "A frase é inseparável da entonação e da cadência; o texto não mostra o problema.",
+   "contraponto": "",
+   "implicacao": "Exigir microfone nessas dinâmicas online.",
+   "quem": "Alan",
+   "ts": "0:32:54"
+  },
+  {
+   "tese": "Dinâmicas complexas geram riqueza, mas não regras gerais, e o exercício coletivo superestima a competência individual.",
+   "argumento": "Houve parênteses dentro de parênteses, cada solução usou um princípio diferente, e o grupo travou em momentos em que Alan teve de dar a resposta.",
+   "contraponto": "Uma participante atribui o problema à estrutura do exercício, não à condução.",
+   "implicacao": "Quebrar em subexercícios com vinheta fixa e treinar individualmente (4 a 6 variações por pessoa).",
+   "quem": "Alan",
+   "ts": "1:30:31"
+  },
+  {
+   "tese": "O grupo está melhor em intervenção do que em interpretação, onde 'o buraco é mais embaixo'.",
+   "argumento": "Os comentários nas dinâmicas de interpretação (poemas, escuta) foram rasos; aqui, as formulações foram surpreendentemente boas.",
+   "contraponto": "",
+   "implicacao": "Voltar à interpretação no ciclo.",
+   "quem": "Alan",
+   "ts": "1:29:35"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Terapia trabalha com a fala. Portanto, uma fala mais potente, mais persuasiva, bem falada, é mais interessante: ela é mais mágica.",
+   "tema": "poder da palavra",
+   "ts": "0:04:13"
+  },
+  {
+   "texto": "A capacidade de transformar o mundo a partir do seu discurso é uma das propriedades básicas do que várias culturas chamam de magia. É mais ou menos isso que acontece na psicoterapia.",
+   "tema": "poder da palavra",
+   "ts": "0:05:20"
+  },
+  {
+   "texto": "Se você estiver ficando bom de clínica, vai notar que é muito fácil fazer cinco, seis variações da mesma intervenção. Ter um tom só é deselegante enquanto clínico.",
+   "tema": "criatividade clínica",
+   "ts": "0:06:25"
+  },
+  {
+   "texto": "Errar a priorização é errar a mira, pecar na concepção original do termo: hamartia.",
+   "tema": "priorização",
+   "ts": "0:02:06"
+  },
+  {
+   "texto": "A resistência de não querer responder é a mais tranquila. O difícil é quando a pessoa está te respondendo e, no responder, a gente vai para um assunto completamente irrelevante.",
+   "tema": "resistência",
+   "ts": "0:19:22"
+  },
+  {
+   "texto": "Se você quer que a pessoa conte da vida dela, pode literalmente pedir aquilo que você quer que ela faça.",
+   "tema": "construção frasal",
+   "ts": "0:22:34"
+  },
+  {
+   "texto": "O remédio que você está usando é mais grave do que o problema em si.",
+   "tema": "validação precoce",
+   "ts": "0:26:16"
+  },
+  {
+   "texto": "É muito difícil uma intervenção soar agressiva se você é transparente com o fato de ela ser uma hipótese.",
+   "tema": "transparência",
+   "ts": "0:51:48"
+  },
+  {
+   "texto": "Quando eu pergunto 'você acha', não estou interessado se de verdade dá para mudar aquilo. Estou interessado na função dessa crença na sua vida.",
+   "tema": "função da crença",
+   "ts": "1:00:25"
+  },
+  {
+   "texto": "É mais fácil deixar uma intervenção potente menos confusa do que fazer uma intervenção menos confusa ser mais potente.",
+   "tema": "potência e clareza",
+   "ts": "1:04:28"
+  },
+  {
+   "texto": "Em psicoterapia não existem regras, e quem tenta entregar a regrinha é picareta. Dito isso, uma regra: intervenção com duas partes nunca funciona.",
+   "tema": "intervenção em dois tempos",
+   "ts": "1:07:34"
+  },
+  {
+   "texto": "Se eu assumir errado, peço desculpa, e esse é um novo tema da terapia.",
+   "tema": "manejo do erro",
+   "ts": "0:54:48"
+  },
+  {
+   "texto": "É importante a gente ter dificuldade na hora em que está fazendo as coisas.",
+   "tema": "aprendizagem",
+   "ts": "0:46:29"
+  },
+  {
+   "texto": "Quanto melhor é a qualidade da participação das pessoas, mais engajante é para mim o encontro, mas mais difícil é encontrar regras gerais.",
+   "tema": "condução de grupos",
+   "ts": "1:30:31"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "5 lugares onde uma intervenção dá errado (e só um deles é a frase)",
+   "mensagem": "Leitura do caso, priorização (hamartia: errar o alvo), escolha da ferramenta, execução e manejo das consequências são habilidades distintas.",
+   "roteiro": [
+    "Capa: sua intervenção deu errado. Mas onde?",
+    "1. Leitura do caso: você entendeu errado",
+    "2. Priorização: errou a mira (hamartia)",
+    "3. Qualidade: ferramenta errada",
+    "4. Execução: ferramenta certa, mal dita",
+    "5. Consequências: tudo certo e mesmo assim desandou",
+    "Fechamento: treine cada uma separadamente"
+   ],
+   "corte_inicio": "0:01:05",
+   "corte_fim": "0:04:13"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "A psicoterapia é uma forma de magia",
+   "mensagem": "Transformar a realidade de alguém pela palavra é o que as culturas chamam de magia; por isso a construção da frase merece treino.",
+   "roteiro": [
+    "Frase de Alan sobre fala potente e mágica",
+    "Legenda: por que quase ninguém treina a palavra"
+   ],
+   "corte_inicio": "0:04:13",
+   "corte_fim": "0:05:20"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Duas palavras que mudam o sentido da sua pergunta: 'você acha'",
+   "mensagem": "Sem 'você acha', a pergunta é sobre um fato; com ele, é sobre a função de uma crença na vida da pessoa.",
+   "roteiro": [
+    "Mesma frase com e sem 'você acha' (exemplo neutro, regravado)",
+    "Operação 1: abre espaço",
+    "Operação 2: muda o objeto da pergunta",
+    "Quando usar cada uma"
+   ],
+   "corte_inicio": "0:58:22",
+   "corte_fim": "1:01:46"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Sua intervenção soou dura? Transparência ou ironia, nunca condescendência",
+   "mensagem": "Narre sua hipótese ('dois pontos me chamaram atenção...') ou exagere até ficar cômico; na primeira sessão, prefira a transparência.",
+   "roteiro": [
+    "O problema: condescendência",
+    "Saída 1: transparência da hipótese",
+    "Saída 2: ironia explícita",
+    "Qual usar na primeira sessão"
+   ],
+   "corte_inicio": "0:50:41",
+   "corte_fim": "0:54:48"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pare de fazer intervenções em dois tempos",
+   "mensagem": "Retomar e concluir na mesma fala quase nunca funciona; retome, espere e depois conclua.",
+   "roteiro": [
+    "Exemplo de 'levantar a bola para cortar'",
+    "Por que fica confuso",
+    "Alternativa em um tempo só"
+   ],
+   "corte_inicio": "1:07:34",
+   "corte_fim": "1:09:04"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Você consegue dizer a mesma coisa de 5 jeitos?",
+   "mensagem": "Criatividade clínica é fluência para variar; a monotonia é deselegante. Três formas de treinar: com colegas, na própria cabeça, com vinhetas em supervisão.",
+   "roteiro": [
+    "O que é criatividade clínica",
+    "Sinal de progresso: 5 a 6 variações",
+    "Treino 1: colegas",
+    "Treino 2: no dia a dia",
+    "Treino 3: vinhetas em supervisão"
+   ],
+   "corte_inicio": "1:32:33",
+   "corte_fim": "1:33:28"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "A resistência mais difícil é a que responde",
+   "mensagem": "O paciente responde, mas leva a conversa para a teoria; perguntas que assumem a premissa deixam menos espaço para desviar.",
+   "roteiro": [
+    "Frase de Alan sobre resistência",
+    "Legenda com exemplo neutro"
+   ],
+   "corte_inicio": "0:19:22",
+   "corte_fim": "0:20:14"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como é um treino de construção frasal no Aprimoramento Clínico",
+   "mensagem": "Roleplay interrompido, quatro variações por intervenção e a pergunta 'o que a gente ganha e o que perde?'.",
+   "roteiro": [
+    "Consigna do exercício",
+    "Os objetivos: criatividade clínica e regras gerais",
+    "Convite para o grupo"
+   ],
+   "corte_inicio": "0:05:20",
+   "corte_fim": "0:07:25"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Alfred Adler",
+   "contexto": "Referência implícita no termo 'paciente adleriana': o sintoma usado como forma de poder ou desculpa e a compensação, isto é, usar teoria e reflexão para se eximir do problema moral na vida."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Alan)",
+  "objetivo": "Treinar competências clínicas específicas (aqui, construção frasal e operacionalização da intervenção) por meio de dinâmicas práticas conduzidas por Alan.",
+  "publico": "Estudantes de psicologia e psicólogos em formação, com experiência clínica variada.",
+  "tamanho": "Não informado; cerca de 6 a 8 participantes falaram, outros acompanharam pelo chat.",
+  "duracao": "Cerca de 1h30 gravada, com uma parte final fora da gravação.",
+  "estrutura_padrao": "Abertura com contextualização teórica espontânea, consigna e combinados, dinâmica (aqui, roleplay interrompido com rodadas de variações e comparação de ganhos e perdas), feedback e regras gerais do facilitador, fechamento com autoavaliação, formas de treinar e plano do próximo encontro.",
+  "papel_facilitador": "Define o foco e as regras, modela os papéis (inclusive atendendo no roleplay), organiza as rodadas, dá feedback preciso, entrega regras gerais quando o grupo trava e avalia publicamente a própria condução.",
+  "regras_combinados": "Falar por voz, não pelo chat; não discordar da hipótese, da leitura ou da priorização; não trocar a intervenção; quatro variações por intervenção; o voluntário que atende não propõe variações; parte da conversa fica fora da gravação."
+ },
+ "reflexoes_do_facilitador": [
+  "Diz que as introduções são espontâneas e que a divisão em cinco componentes foi inventada na hora, não é canônica.",
+  "Precisa de outra pessoa conduzindo quando ele atende: 'atender e conduzir é muito para a minha cabeça'.",
+  "Avalia que 'falhou na condução': o encontro foi mais rico que os anteriores, mas os parênteses dentro de parênteses impediram regras gerais coerentes, e cada solução usou um princípio diferente.",
+  "Comenta que nas dinâmicas anteriores de interpretação (poemas e escuta) os comentários foram rasos e ele ficou levemente desengajado; neste encontro se surpreendeu positivamente com a qualidade das formulações.",
+  "Observa o trade-off de que, quanto melhor a participação, mais engajante é para ele, mas mais difícil é extrair regras gerais.",
+  "Pede ao grupo um exame de consciência: o exercício foi coletivo, houve travas em que ele deu a resposta, e o ideal é que uma pessoa sozinha faça de 4 a 6 variações.",
+  "Admite que pode ter lido errado as respostas do grupo sobre o 'você acha'.",
+  "Reconhece que um participante viu algo que ele não tinha observado (o possessivo 'sua').",
+  "Decide voltar à interpretação, onde 'o buraco é mais embaixo', aproveitando que ele está conduzindo dinâmicas mais difíceis.",
+  "Acolhe o feedback de uma participante de que a estrutura abre complexidade demais e propõe quebrar o exercício em cerca de cinco subexercícios com vinheta fixa (inclusive para treino com IA), como o dial up/dial down.",
+  "Não conseguiu fazer o comentário prometido sobre magia por falta de tempo."
+ ],
+ "referencias_a_outros_encontros": [
+  "Encontros anteriores do mesmo grupo: a dinâmica dos poemas e a dinâmica de escuta em três partes, ambas de interpretação.",
+  "Anuncia a volta ao tema da interpretação nos próximos encontros.",
+  "Comentário sobre magia e palavra adiado para uma próxima vez.",
+  "Menciona já ter feito uma versão do exercício com IA e propõe uma versão com vinhetas (dial up/dial down).",
+  "Temas vizinhos no ciclo: Alan 03 - Distância, intensidade, forma e conteúdo; Alan 16 - Intervenção; Alan 17 - Qualidade da intervenção; Alan 14 - Priorização clínica 1."
+ ],
+ "observacoes": "Legenda automática com ruído: nomes de participantes variam na transcrição (por exemplo, a participante que diz se estressar com o exercício aparece como Idra, Hidra, Adrian, Aida). 'Desortodoxia psíquica' e 'o problema das 10.000 virgens' são termos ou referências incertos, marcados com (?). O roleplay usa uma participante como paciente contando uma história que pode ser pessoal; foi tratado como simulado e descrito de forma genérica. No fim, Alan menciona uma reunião sobre regulamentação da profissão e o CRP e interrompe a gravação para uma conversa fora do registro. Há uma pergunta urgente de uma participante sobre encaminhamento, adiada para depois da gravação."
+}

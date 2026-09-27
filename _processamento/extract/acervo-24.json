@@ -1,0 +1,734 @@
+{
+  "id": "acervo-24",
+  "nota": "Acervo 24 - Cuidados básicos de saúde na clínica",
+  "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+  "titulo": "Cuidados básicos de saúde na clínica",
+  "serie": "Aprimoramento Clínico (Acervo)",
+  "formato": "Aprimoramento clínico",
+  "facilitadores": [
+    "Diogo"
+  ],
+  "resumo": "Diogo conduz um encontro do Aprimoramento em formato de roda reflexiva: depois de uma contextualização mínima sobre mente e corpo em várias abordagens, lança uma única pergunta disparadora ('vocês costumam perguntar aos pacientes sobre sono, alimentação e remédios?') que ocupa quase todo o encontro. O grupo diverge: perguntar mostra cuidado e fortalece o vínculo, mas pode soar culpabilizante e parecer 'pergunta de médico'. Diogo usa a divergência como motor e sintetiza critérios (tipo de paciente, momento clínico, timing e forma, vínculo, abordagem e estilo do terapeuta). Ele acrescenta que entender não é sentir, por isso a psicoeducação óbvia falha, e que é preciso não psicologizar o orgânico (Alzheimer não é recalque; exames podem descartar causas). Fecha demonstrando a 'pergunta validante' e com uma pergunta de impacto sobre o que mudou para cada um.",
+  "em_uma_frase": "Perguntar ou não sobre sono, alimentação, medicação e exames não tem regra: depende do paciente, do momento, do vínculo e da forma de trabalho, e o terapeuta deve evitar tanto soar culpabilizante quanto psicologizar o que é orgânico.",
+  "competencias": [
+    "Relação terapêutica",
+    "Acolhimento e validação",
+    "Psicoeducação",
+    "Primeira sessão e entrevistas iniciais",
+    "Abertura e encerramento de sessão",
+    "Intervenção",
+    "Construção frasal",
+    "Priorização clínica",
+    "Articulação teoria-prática"
+  ],
+  "abordagens": [
+    "Análise do comportamento",
+    "Psicologia analítica junguiana",
+    "Psicanálise freudiana",
+    "Terapia cognitivo-comportamental",
+    "Gestalt-terapia",
+    "Fenomenologia e existencialismo"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:05",
+      "bloco": "Abertura",
+      "descricao": "Explica o que é o Aprimoramento: dinâmicas para habilidades clínicas globais (exemplos da empatia e do corte de fala); não trabalha conteúdos próprios de abordagem.",
+      "funcao": "Situar novatos e justificar o grupo pela lacuna do 'como fazer' na graduação.",
+      "duracao_min": 1.5
+    },
+    {
+      "ts": "0:01:28",
+      "bloco": "Combinados",
+      "descricao": "Duração de cerca de 1h30, câmera opcional, preferência por participação oral ou pelo chat, 'quem só ouve aproveita pouco', boas-vindas a novatas.",
+      "funcao": "Baixar a barreira de entrada mantendo a exigência de participação.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:02:27",
+      "bloco": "Abertura",
+      "descricao": "Checa dúvidas sobre o funcionamento, conversa com uma novata e anuncia o tema.",
+      "funcao": "Vínculo e transição para o tema.",
+      "duracao_min": 1.5
+    },
+    {
+      "ts": "0:03:50",
+      "bloco": "Teoria",
+      "descricao": "Contextualização mente-corpo: a analítica recusa a dualidade rígida, a análise do comportamento é monista, e uma participante fala do humanismo; objetivo do exercício (fatores de outras áreas que afetam o psiquismo).",
+      "funcao": "Teoria mínima que legitima o tema e mostra que ele atravessa as abordagens.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:09:52",
+      "bloco": "Combinados",
+      "descricao": "Explica que seus grupos são 'reflexivos'; levantamento de quem já atende; quem não atende responde imaginando.",
+      "funcao": "Calibrar o grupo e incluir estudantes sem prática clínica.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:11:45",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta disparadora: vocês costumam perguntar aos pacientes sobre sono, alimentação e remédios?",
+      "funcao": "Ativar a prática (real ou imaginada) de cada participante.",
+      "duracao_min": 1.5
+    },
+    {
+      "ts": "0:13:07",
+      "bloco": "Rodada de respostas",
+      "descricao": "Respostas pelo microfone e pelo chat: a pergunta surge na anamnese, é feita quando a doença é central, é forma de mostrar cuidado.",
+      "funcao": "Levantar a diversidade de práticas.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:17:07",
+      "bloco": "Discussão",
+      "descricao": "Diogo 'traz para o geral': distingue propósitos (validação e vínculo versus informação clínica) e fala dos próprios pacientes.",
+      "funcao": "Transformar relatos em princípios gerais.",
+      "duracao_min": 4.5
+    },
+    {
+      "ts": "0:21:33",
+      "bloco": "Discussão",
+      "descricao": "Contraponto de uma participante (perguntar pode minimizar ou culpar; seria papel do médico); Diogo pergunta 'vocês concordam?' e o grupo debate.",
+      "funcao": "Usar a divergência como motor do raciocínio clínico.",
+      "duracao_min": 12
+    },
+    {
+      "ts": "0:33:44",
+      "bloco": "Feedback",
+      "descricao": "Síntese do facilitador: approach, timing, tipo de paciente; check-up como gancho; preferência dele por abrir a sessão livremente; entender não é sentir.",
+      "funcao": "Explicitar critérios de decisão.",
+      "duracao_min": 8.5
+    },
+    {
+      "ts": "0:42:26",
+      "bloco": "Dúvidas",
+      "descricao": "Uma participante pergunta se foi adequado a terapeuta dela pedir check-up na 2ª sessão; Diogo devolve a pergunta a ela e ao grupo.",
+      "funcao": "Treinar o raciocínio antes da resposta do facilitador.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:48:31",
+      "bloco": "Feedback",
+      "descricao": "Diogo: pedir a todos indica um funcionamento regular; não se julga de fora; o limite é o código de ética. Uma participante liga o tema à psicoeducação.",
+      "funcao": "Desmontar o julgamento moral e manter o foco em análise.",
+      "duracao_min": 4.5
+    },
+    {
+      "ts": "0:53:07",
+      "bloco": "Teoria",
+      "descricao": "Exame de sangue para não psicologizar (Alzheimer não é recalque); princípios gerais; saber não é fazer; função do comportamento; psicoeducação sobre higiene do sono (participante).",
+      "funcao": "Consolidar os critérios do 'depende de quê'.",
+      "duracao_min": 7.5
+    },
+    {
+      "ts": "1:00:33",
+      "bloco": "Demonstração",
+      "descricao": "Exemplo de pergunta validante tirado da própria clínica e a versão aplicada ao sono.",
+      "funcao": "Dar um modelo concreto de formulação.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "1:03:48",
+      "bloco": "Fechamento",
+      "descricao": "Desiste da próxima pergunta por tempo, divulga o formulário de presença e faz a pergunta de impacto ('a discussão mudou algo?'); depoimentos.",
+      "funcao": "Consolidação pessoal do aprendizado.",
+      "duracao_min": 4.5
+    },
+    {
+      "ts": "1:08:31",
+      "bloco": "Feedback",
+      "descricao": "Pede sugestões sobre a condução; admite que o grupo poderia durar mais.",
+      "funcao": "Avaliação do formato pelos participantes.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "1:10:27",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Convites para o grupo de prática (simulação de atendimento) e para a monitoria com paciente de IA; conversa informal.",
+      "funcao": "Integrar o grupo às outras atividades da Allos.",
+      "duracao_min": 2
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Relação mente-corpo",
+      "definicao": "Discussão sobre se mente e corpo são instâncias separadas. Diogo mostra que várias abordagens recusam a dualidade rígida e conclui que o físico sempre afeta o psíquico e vice-versa, mas de forma singular em cada pessoa.",
+      "exemplo": "Duas pessoas com ansiedade parecida manifestam-na no corpo de formas diferentes.",
+      "abordagem": "",
+      "ts": "0:03:50"
+    },
+    {
+      "nome": "Monismo",
+      "definicao": "Visão da análise do comportamento de que existe uma só realidade, na qual há um sujeito que se comporta; o que se chama de mente e de corpo são comportamentos desse sujeito.",
+      "exemplo": "Prefixo 'mono-' (um): a concepção do um.",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:06:02"
+    },
+    {
+      "nome": "Anamnese",
+      "definicao": "Levantamento estruturado de dados no início do processo, onde perguntas sobre sono, alimentação e medicação costumam caber. É mais comum na TCC e em abordagens comportamentais.",
+      "exemplo": "Participantes dizem que o tema 'cabe na anamnese ou depende da demanda'.",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "0:15:07"
+    },
+    {
+      "nome": "Diagnóstico diferencial",
+      "definicao": "Distinguir causas orgânicas de causas psíquicas antes de interpretar um sintoma. Exames podem mostrar que um desânimo que parece depressão tem origem em anemia ou carência vitamínica.",
+      "exemplo": "Exame de sangue pedido para não tratar como psíquico algo somático; anemia, vitamina D e B12.",
+      "abordagem": "",
+      "ts": "0:30:37"
+    },
+    {
+      "nome": "Psicologização",
+      "definicao": "Atribuir sentido psicológico a algo de ordem orgânica ou casual. Diogo considera errado e invalidante.",
+      "exemplo": "Dizer que um paciente com Alzheimer 'recalca o esquecimento'.",
+      "abordagem": "",
+      "ts": "0:54:22"
+    },
+    {
+      "nome": "Recalque",
+      "definicao": "Mecanismo psicanalítico de resposta a um evento traumático. O corpo pode servir de via de escape, com manifestações simbólicas que variam conforme a organização neurótica.",
+      "exemplo": "Contraste com o esquecimento orgânico do Alzheimer, que não é recalque.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:20:25"
+    },
+    {
+      "nome": "Timing clínico",
+      "definicao": "O momento de uma intervenção decide se ela é cuidado ou invalidação: a mesma pergunta sobre hábitos pode acolher ou soar causal e culpabilizante.",
+      "exemplo": "'Tenho me sentido muito triste' / 'mas você tem feito exercício?'",
+      "abordagem": "",
+      "ts": "0:34:52"
+    },
+    {
+      "nome": "Associação livre",
+      "definicao": "Termo usado por Diogo, de forma ampla, para seu modo de abrir a sessão: deixar o paciente trazer o que quiser, pelo tempo dele, em vez de começar com um check-up estruturado.",
+      "exemplo": "'O que você traz para a sessão?'",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:37:04"
+    },
+    {
+      "nome": "Aliança terapêutica",
+      "definicao": "O vínculo terapêutico, que perguntas sobre saúde podem fortalecer (quando mostram cuidado e atenção) ou fragilizar (quando soam como controle ou culpa). Às vezes o foco deve ser construí-lo antes de perguntar.",
+      "exemplo": "Paciente com doença crônica que se mostra feliz por ser perguntada.",
+      "abordagem": "",
+      "ts": "0:16:01"
+    },
+    {
+      "nome": "Análise funcional",
+      "definicao": "Investigar a função do comportamento (o que o mantém), o que para Diogo vem antes de orientar ou psicoeducar.",
+      "exemplo": "Em vez de dizer que dormir mal faz mal, entender por que a pessoa não muda o hábito.",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:56:32"
+    },
+    {
+      "nome": "Discrepância entre saber e agir",
+      "definicao": "Os estímulos e contingências que controlam a compreensão de uma informação são diferentes dos que controlam a tomada de decisão; quando divergem, ensinar não muda o comportamento. Sentimentos costumam ser mais determinantes do que pensamentos.",
+      "exemplo": "Com dor de barriga forte, 'não há superego nem lógica' que o mantenha dando o grupo.",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:40:27"
+    },
+    {
+      "nome": "Pergunta validante",
+      "definicao": "Formulação que acolhe a dor do paciente e ao mesmo tempo obtém a informação clínica necessária, em geral uma afirmação empática que convida à correção ou à complementação.",
+      "exemplo": "'Aposto que não adianta nada você falar isso para ele, né?'; 'imagino o quanto você já tentou dormir'.",
+      "abordagem": "Análise do comportamento",
+      "ts": "1:01:55"
+    },
+    {
+      "nome": "Higiene do sono",
+      "definicao": "Conjunto de hábitos que favorecem o sono (luz mais quente à noite, rotina etc.). Citada por uma participante como exemplo de psicoeducação eficaz quando a informação é nova para o paciente.",
+      "exemplo": "Relato de alguém que mudou a rotina após a psicoeducação sobre sono.",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:58:29"
+    },
+    {
+      "nome": "Setting terapêutico",
+      "definicao": "O enquadre do atendimento, que também é construído pelo terapeuta segundo o modo como trabalha melhor. Se uma prática (como pedir exames) funciona e não quebra o vínculo, pode ser legítima.",
+      "exemplo": "Terapeuta que pede check-up a todos os pacientes como parte do seu funcionamento.",
+      "abordagem": "Gestalt-terapia",
+      "ts": "0:46:16"
+    },
+    {
+      "nome": "Encaminhamento médico",
+      "definicao": "Encaminhar para avaliação médica quando há sintoma físico relevante ou não postergável, antes de discutir o sentido psicológico.",
+      "exemplo": "Suspeita de problema cardíaco: 'vai ver agora; pode ser psicossomático, pode ser orgânico'.",
+      "abordagem": "",
+      "ts": "0:38:13"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Roda reflexiva sobre cuidados básicos de saúde",
+      "objetivo": "Refletir sobre se, quando e como investigar cuidados básicos de saúde (sono, alimentação, medicação, exames, atividade física) na clínica, construindo critérios de decisão em vez de regras.",
+      "competencias": [
+        "Relação terapêutica",
+        "Acolhimento e validação",
+        "Psicoeducação",
+        "Primeira sessão e entrevistas iniciais",
+        "Priorização clínica"
+      ],
+      "configuracao": "Grupo todo, online (Google Meet), cerca de 10 a 12 participantes ativos (estudantes de vários períodos, estagiários e terapeutas iniciantes); participação por microfone, chat e 'levantar a mão' do Meet.",
+      "tempo": "Cerca de 50 a 55 minutos para uma única pergunta disparadora, mais cerca de 8 minutos de contextualização.",
+      "materiais": "Lista de perguntas sobre cuidados básicos; formulário de presença.",
+      "consigna": "Se você já atende, pense no seu momento clínico atual; se não atende, imagine como faria. Vocês costumam perguntar aos pacientes sobre cuidados básicos de saúde, como hábitos de sono, alimentação e remédios, durante os atendimentos?",
+      "passos": [
+        "Contextualizar em poucos minutos o debate mente-corpo em diferentes abordagens e explicitar o objetivo (olhar para fatores de outras áreas).",
+        "Levantar quem já atende; quem não atende responde imaginando.",
+        "Lançar a pergunta disparadora e colher respostas pelo microfone e pelo chat, lendo o chat em voz alta.",
+        "Parafrasear cada resposta e pedir desenvolvimento ('como assim? desenvolve um pouquinho mais').",
+        "'Trazer para o geral': mostrar que as respostas revelam propósitos diferentes (validar ou fortalecer vínculo versus coletar informação clínica).",
+        "Quando surgir um contraponto, abri-lo ao grupo ('vocês concordam com essa visão?').",
+        "Sintetizar critérios: tipo de paciente, momento clínico, timing e forma, vínculo, abordagem e forma de trabalho.",
+        "Acolher perguntas dos participantes e devolvê-las primeiro a quem perguntou e ao grupo, e só então opinar.",
+        "Demonstrar uma formulação modelo (pergunta validante).",
+        "Fechar com a pergunta de impacto: 'A discussão de hoje mudou de alguma forma como vocês lidam com os cuidados básicos na clínica?'"
+      ],
+      "feedback": "Não há avaliação de desempenho individual; o feedback é sobre o raciocínio. Diogo valida contribuições, nomeia o que é generalizável, dá contraponto marcado como opinião pessoal e corrige conceitos (psicologização). Critério: a conduta tem análise por trás e produz boas consequências? Fora violações do código de ética, não há 'certo ou errado'.",
+      "exemplos_praticos": "Uma participante pergunta sempre a uma paciente com doença de pele crônica e sente que isso fortalece a relação; outra argumenta que a pergunta pode soar culpabilizante e ser papel do médico; várias contam, como pacientes, que se sentem cuidadas quando a terapeuta pergunta de sono ou exercício; uma defende equilíbrio de frequência; outra liga a pergunta à hipótese clínica (exames, vitaminas). No fechamento, as participantes destacam o vínculo e 'o timing e a forma de perguntar'.",
+      "variacoes": "Diogo tinha outras perguntas da série 'cuidados básicos' reservadas para outros encontros (não reveladas). O exercício já tinha sido aplicado antes com outra turma.",
+      "armadilhas": "O debate pode derrapar para o julgamento da conduta de terceiros (a terapeuta de alguém), que o facilitador deve conter; participantes expõem a própria terapia, o que pede cuidado; uma única pergunta pode consumir o encontro inteiro; risco de o grupo ficar no 'depende' sem critérios, que a síntese do facilitador corrige.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:11:45"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Abertura com a identidade do grupo",
+      "descricao": "Explica o que é o Aprimoramento com um exemplo recorrente, justificando o grupo pela lacuna do 'como fazer'.",
+      "exemplo": "Empatia e corte de fala: 'quem me conhece está careca de ouvir esse exemplo'.",
+      "ts": "0:00:05"
+    },
+    {
+      "movimento": "Combinados sem coerção",
+      "descricao": "Não cobra câmera (conta que estudou a distância), mas diz com clareza que prefere participação oral e que 'quem só ouve aproveita pouco'; aceita o chat.",
+      "exemplo": "'Não vou ser daquela galera chata que cobra câmera ligada.'",
+      "ts": "0:01:28"
+    },
+    {
+      "movimento": "Convocar a expertise do grupo e admitir limites",
+      "descricao": "Pede que participantes de outras abordagens expliquem o tema e assume abertamente o que não sabe.",
+      "exemplo": "'Sendo bem sincero, não sei se a humanista tem uma concepção de mente; você quer falar?'; pesquisa ao vivo uma doença que não conhecia.",
+      "ts": "0:06:46"
+    },
+    {
+      "movimento": "Calibrar o grupo antes da pergunta",
+      "descricao": "Levanta quem já atende, abaixa as mãos para organizar a fila de fala e orienta quem não atende a responder imaginando.",
+      "exemplo": "'Reflitam sobre as perguntas de maneira imaginativa: como eu faria nessa situação?'",
+      "ts": "0:11:45"
+    },
+    {
+      "movimento": "Ler o chat, parafrasear e pedir desenvolvimento",
+      "descricao": "Dá voz a quem escreve, confirma a compreensão e aprofunda as respostas curtas.",
+      "exemplo": "'Como assim, Mariana? Desenvolve um pouquinho mais.'",
+      "ts": "0:21:33"
+    },
+    {
+      "movimento": "Trazer para o geral",
+      "descricao": "Transforma um relato individual em princípio e anuncia explicitamente que esse é seu método.",
+      "exemplo": "'O que a gente pode pegar do que ela falou e trazer para o geral? Eu gosto muito de fazer esse movimento nos meus grupos.'",
+      "ts": "0:17:07"
+    },
+    {
+      "movimento": "Colocar-se como par e autorizar a discordância",
+      "descricao": "Reduz a assimetria e convida a retomar, complementar ou discordar dele.",
+      "exemplo": "'Sou estudante do 10º período, também estou aprendendo com vocês.'",
+      "ts": "0:17:07"
+    },
+    {
+      "movimento": "Usar a divergência como motor",
+      "descricao": "Diante de um contraponto, não responde: abre ao grupo e depois legitima publicamente quem discordou.",
+      "exemplo": "'Vocês concordam com essa visão ou não?'; depois: 'sua contribuição foi muito relevante; é isso que eu espero do grupo'.",
+      "ts": "0:23:29"
+    },
+    {
+      "movimento": "Meta-comentário sobre a condução",
+      "descricao": "Explica por que conduziu o debate daquele jeito, tornando visível o objetivo pedagógico.",
+      "exemplo": "'Por que eu fiz esse debate curto aqui, pessoal?'",
+      "ts": "0:33:44"
+    },
+    {
+      "movimento": "Marcar opinião como opinião",
+      "descricao": "Separa a própria preferência dos princípios gerais, evitando que o grupo tome o estilo dele como regra.",
+      "exemplo": "'Eu, Diogo, particularmente não acho essa forma tão interessante… não existe aqui uma regra.'",
+      "ts": "0:37:04"
+    },
+    {
+      "movimento": "Exemplos da própria terapia e da própria clínica",
+      "descricao": "Ilustra critérios com vivências pessoais e casos narrados de forma genérica.",
+      "exemplo": "Conta que o próprio terapeuta o encaminhou ao hospital por uma suspeita física; demonstra a pergunta validante com um paciente.",
+      "ts": "0:38:13"
+    },
+    {
+      "movimento": "Devolver a pergunta antes de responder",
+      "descricao": "Quando um participante pergunta, pede primeiro a opinião dele e do grupo.",
+      "exemplo": "'Primeiro eu vou perguntar para você, enquanto estudante, o que você acha dessa intervenção.'",
+      "ts": "0:43:03"
+    },
+    {
+      "movimento": "Desarmar o julgamento e proteger quem falou",
+      "descricao": "Contém o julgamento moral da conduta de terceiros e, ao contrapor um participante, esclarece que não o está chamando de errado.",
+      "exemplo": "'É muito complicado a gente de fora julgar como certa ou errada… não estou te colocando como errada.'",
+      "ts": "0:49:39"
+    },
+    {
+      "movimento": "Gestão explícita do tempo",
+      "descricao": "Troca a próxima pergunta por um fechamento de qualidade e guarda o resto para outro encontro.",
+      "exemplo": "'Tenho até dó de partir para a próxima pergunta com 10 minutos.'",
+      "ts": "1:03:48"
+    },
+    {
+      "movimento": "Fechamento com pergunta de impacto e pedido de feedback",
+      "descricao": "Pergunta o que mudou na prática de cada um e pede sugestões sobre a própria condução; usa humor para engajar no formulário.",
+      "exemplo": "'A discussão de hoje mudou alguma forma como vocês lidam com os cuidados básicos?'; 'alguma sugestão de como poderia ter sido melhor coordenado?'",
+      "ts": "1:04:42"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Pergunte sobre saúde física quando ela está no centro da demanda.",
+      "justificativa": "Demonstra atenção, fortalece o vínculo e informa o clínico: como o remédio é tomado e percebido diz muito do paciente.",
+      "contexto": "Doenças crônicas, uso de medicação, queixas com componente somático.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:19:18"
+    },
+    {
+      "dica": "Não faça a pergunta sobre hábitos no meio de um relato de sofrimento.",
+      "justificativa": "'Estou triste / mas tem feito exercício?' sugere causalidade e culpa; não é elegante nem validante.",
+      "contexto": "Quando o paciente elabora algo doloroso.",
+      "competencia": "Acolhimento e validação",
+      "ts": "0:34:52"
+    },
+    {
+      "dica": "Se o paciente está esgotado, acolha antes de orientar.",
+      "justificativa": "No auge do cansaço, 'você precisa dormir' não é recebido; ele precisa de colo.",
+      "contexto": "Momentos de crise, exaustão, frustração.",
+      "competencia": "Acolhimento e validação",
+      "ts": "0:39:26"
+    },
+    {
+      "dica": "Se abrir a sessão com check-up, use-o como gancho para aprofundar.",
+      "justificativa": "'Dormi mal' seguido de 'por quê?' leva aos movimentos da semana, e o check-up não substitui o aprofundamento.",
+      "contexto": "Terapeutas que preferem início estruturado.",
+      "competencia": "Abertura e encerramento de sessão",
+      "ts": "0:36:01"
+    },
+    {
+      "dica": "Descarte causas orgânicas antes de interpretar psicologicamente.",
+      "justificativa": "Anemia e carências vitamínicas podem parecer depressão; tratar o orgânico como psíquico é psicologizar e invalidar.",
+      "contexto": "Desânimo, cansaço ou alterações cognitivas persistentes; sugerir avaliação médica.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "0:54:22"
+    },
+    {
+      "dica": "Diante de sintoma físico potencialmente grave, encaminhe já e discuta o sentido depois.",
+      "justificativa": "Pode ser psicossomático ou orgânico, mas certos quadros (como um problema cardíaco) não são postergáveis.",
+      "contexto": "Sinais de risco físico.",
+      "competencia": "Priorização clínica",
+      "ts": "0:38:13"
+    },
+    {
+      "dica": "Evite a psicoeducação óbvia; investigue a função do comportamento.",
+      "justificativa": "O paciente geralmente já sabe que dormir mal faz mal; compreensão e decisão são controladas por contingências diferentes.",
+      "contexto": "Hábitos que o paciente 'sabe' que deveria mudar.",
+      "competencia": "Psicoeducação",
+      "ts": "0:56:32"
+    },
+    {
+      "dica": "Psicoeduque quando a informação é realmente nova para o paciente.",
+      "justificativa": "Informações simples, como higiene do sono, podem transformar a rotina de quem não as conhecia (relato de participante).",
+      "contexto": "Depois de checar o que o paciente já sabe.",
+      "competencia": "Psicoeducação",
+      "ts": "0:58:29"
+    },
+    {
+      "dica": "Pergunte validando: 'imagino o quanto você já tentou…'.",
+      "justificativa": "Evita a pergunta óbvia que ofende e ainda colhe a informação: o paciente lista o que tentou e o que não funcionou.",
+      "contexto": "Problemas antigos e dolorosos que o paciente certamente já tentou resolver.",
+      "competencia": "Construção frasal",
+      "ts": "1:01:55"
+    },
+    {
+      "dica": "Evite perguntar o óbvio sobre um problema crônico ('já tentou conversar com ele?').",
+      "justificativa": "Soa como se o paciente fosse ingênuo e pode levá-lo a desistir da terapia.",
+      "contexto": "Conflitos de longa data.",
+      "competencia": "Intervenção",
+      "ts": "1:00:47"
+    },
+    {
+      "dica": "Dose a frequência das perguntas de rotina sobre saúde.",
+      "justificativa": "Perguntar em toda sessão pode tirar do paciente a chance de trazer o tema quando for relevante, direcionar demais a sessão e inflar a importância do assunto (participante).",
+      "contexto": "Acompanhamentos longos.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:29:28"
+    },
+    {
+      "dica": "Quando o sono é queixa recorrente, acompanhe-o semanalmente.",
+      "justificativa": "Vira indicador de evolução; sem essa demanda, o tempo vai para outras questões (participante).",
+      "contexto": "Insônia ou redução de sono trazida pelo paciente.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:52:06"
+    },
+    {
+      "dica": "Na primeira sessão, verifique se o paciente sabe do que se queixa.",
+      "justificativa": "Se ele não souber, você já começa a ajudá-lo a ver o que você está vendo.",
+      "contexto": "Entrevistas iniciais.",
+      "competencia": "Primeira sessão e entrevistas iniciais",
+      "ts": "0:48:31"
+    },
+    {
+      "dica": "Priorize o vínculo quando ainda não há abertura.",
+      "justificativa": "Sem abertura, perguntas sobre a vida física podem soar como controle (participante; Diogo endossa).",
+      "contexto": "Início do processo.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:41:30"
+    },
+    {
+      "dica": "Não generalize manifestações corporais.",
+      "justificativa": "O físico e o mental sempre se afetam, mas o como é singular em cada pessoa.",
+      "contexto": "Ao formular hipóteses psicossomáticas.",
+      "competencia": "Formulação de caso",
+      "ts": "0:21:33"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Não existe regra sobre perguntar ou não sobre cuidados básicos de saúde.",
+      "argumento": "A pertinência depende do tipo de paciente, do momento clínico, do timing e da forma, do vínculo, da abordagem e do estilo do terapeuta; o que legitima a conduta é haver análise e boas consequências.",
+      "contraponto": "Respostas universais ('sempre perguntar' ou 'é papel do médico').",
+      "implicacao": "Formar critérios de decisão, não protocolos.",
+      "quem": "Diogo",
+      "ts": "0:37:04"
+    },
+    {
+      "tese": "Prefiro abrir a sessão pela fala livre do paciente, não por um check-up.",
+      "argumento": "Deixar o paciente trazer o que quer, pelo tempo dele, mesmo sendo analista do comportamento.",
+      "contraponto": "Uma terapeuta da Allos que abre toda sessão com sono e alimentação e usa isso como gancho; Diogo reconhece que funciona para ela.",
+      "implicacao": "A abertura da sessão é uma escolha técnica que precisa de justificativa.",
+      "quem": "Diogo",
+      "ts": "0:36:01"
+    },
+    {
+      "tese": "Psicologizar o orgânico é erro clínico e invalidação.",
+      "argumento": "Dizer que um paciente com Alzheimer 'recalca o esquecimento' confunde uma questão orgânica com um mecanismo psíquico.",
+      "contraponto": "Leituras psicológicas totalizantes de sintomas físicos.",
+      "implicacao": "Exames e avaliação médica como parte do raciocínio diferencial.",
+      "quem": "Diogo (citando uma professora de psicanálise)",
+      "ts": "0:54:22"
+    },
+    {
+      "tese": "Entender não é sentir, e informar não é mudar.",
+      "argumento": "Compreensão e tomada de decisão são controladas por contingências diferentes; os sentimentos costumam determinar mais o comportamento do que os pensamentos.",
+      "contraponto": "A psicoeducação como solução automática; uma participante lembra que informação realmente nova pode mudar a rotina.",
+      "implicacao": "Investigar a função do comportamento antes de orientar.",
+      "quem": "Diogo",
+      "ts": "0:40:27"
+    },
+    {
+      "tese": "A conduta de outro profissional não se julga de fora; o limite é o código de ética.",
+      "argumento": "Ninguém conhece a intenção nem o contexto do colega; pedir check-up a todos pode ser só o funcionamento regular dele.",
+      "contraponto": "Participantes que estranharam a conduta; Diogo concede que é prática incomum fora da área de neuro.",
+      "implicacao": "Discutir hipóteses e funções em vez de dar veredictos.",
+      "quem": "Diogo",
+      "ts": "0:49:39"
+    },
+    {
+      "tese": "A graduação ensina o quê, não o como, e é por isso que o Aprimoramento existe.",
+      "argumento": "Ouvimos que devemos ser empáticos e saber cortar, mas ninguém ensina como, e cada um faz de um jeito.",
+      "contraponto": "O pressuposto de que habilidades básicas são naturais.",
+      "implicacao": "Treinar habilidades globais, transteóricas.",
+      "quem": "Diogo",
+      "ts": "0:00:05"
+    },
+    {
+      "tese": "Perguntar sobre hábitos pode minimizar o sofrimento e soar culpabilizante; é pergunta de médico.",
+      "argumento": "Como paciente de longa data, nunca foi perguntada, e essas informações surgem espontaneamente.",
+      "contraponto": "O grupo responde que o paciente pode se sentir visto e que o problema é usar a pergunta como justificativa causal; Diogo legitima o ponto como decisivo para pensar forma e timing.",
+      "implicacao": "Formular perguntas sobre hábitos sem sugerir causalidade.",
+      "quem": "participante",
+      "ts": "0:21:33"
+    },
+    {
+      "tese": "O grupo só funciona com conversa.",
+      "argumento": "A formação no formato reflexivo depende das contribuições dos participantes.",
+      "contraponto": "O participante que só assiste.",
+      "implicacao": "Combinados que priorizam a participação ativa.",
+      "quem": "Diogo",
+      "ts": "0:09:52"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Na faculdade a gente ouve que é importante ser empático com o paciente, mas não se ouve como fazer isso.",
+      "tema": "formação",
+      "ts": "0:00:05"
+    },
+    {
+      "texto": "Sem conversa o grupo não funciona.",
+      "tema": "facilitação",
+      "ts": "0:09:52"
+    },
+    {
+      "texto": "A saúde física sempre afeta a mental, mas nunca afeta de maneiras semelhantes.",
+      "tema": "mente e corpo",
+      "ts": "0:19:18"
+    },
+    {
+      "texto": "Da mente para o corpo, do corpo para a mente, sempre costuma afetar. Mas o como é sempre singular.",
+      "tema": "mente e corpo",
+      "ts": "0:21:33"
+    },
+    {
+      "texto": "Não é elegante, e não é necessariamente validante, perguntar esse tipo de coisa no momento errado.",
+      "tema": "timing",
+      "ts": "0:34:52"
+    },
+    {
+      "texto": "Entender uma coisa racionalmente não quer dizer sentir essa coisa emocionalmente.",
+      "tema": "saber e agir",
+      "ts": "0:40:27"
+    },
+    {
+      "texto": "É muito complicado a gente, de fora, julgar como certa ou errada a atitude do profissional.",
+      "tema": "ética e julgamento",
+      "ts": "0:49:39"
+    },
+    {
+      "texto": "Dizer que o paciente com Alzheimer está recalcando o esquecimento é psicologizar de maneira grosseira. Isso é invalidante.",
+      "tema": "psicologização",
+      "ts": "0:54:22"
+    },
+    {
+      "texto": "Só ensinar para a pessoa não vai fazer com que ela se comporte.",
+      "tema": "psicoeducação",
+      "ts": "0:56:32"
+    },
+    {
+      "texto": "Em vez de falar 'você precisa dormir', fale: 'imagino o quanto você já tentou dormir'.",
+      "tema": "pergunta validante",
+      "ts": "1:01:55"
+    },
+    {
+      "texto": "Não é sobre ser certo ou errado; no fim das contas, é a serviço daquele cliente. (participante)",
+      "tema": "setting",
+      "ts": "0:48:10"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Você pergunta sobre sono e alimentação na terapia?",
+      "mensagem": "Não há regra: decida por demanda, momento, vínculo e forma de trabalho, e nunca pergunte sobre hábitos no meio de um relato de dor.",
+      "roteiro": [
+        "Capa: 'Perguntar sobre sono é cuidado ou invasão?'",
+        "Quando ajuda: a condição física está no centro da demanda",
+        "Quando atrapalha: no meio do sofrimento, soa como 'a culpa é sua'",
+        "Os 4 critérios: paciente, momento, vínculo, seu estilo",
+        "Check-up como gancho, não como protocolo",
+        "CTA: e você, pergunta?"
+      ],
+      "corte_inicio": "0:33:44",
+      "corte_fim": "0:36:01"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Troque 'você precisa dormir' por 'imagino o quanto você já tentou'.",
+      "mensagem": "A pergunta validante acolhe e ainda traz a informação de que você precisa.",
+      "roteiro": [
+        "Cena 1: terapeuta diz 'você precisa dormir mais' e o paciente revira os olhos",
+        "Cena 2: 'imagino o quanto você já tentou dormir'",
+        "Cena 3: o paciente lista tudo o que tentou, e agora há o que investigar",
+        "Texto final: validar também é colher dados"
+      ],
+      "corte_inicio": "1:03:01",
+      "corte_fim": "1:03:48"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Nem tudo é psicológico.",
+      "mensagem": "Alzheimer não é recalque; anemia e carências podem parecer depressão; exames e encaminhamento evitam psicologizar.",
+      "roteiro": [
+        "Capa: 'Psicologizar também é errar'",
+        "Exemplo: esquecimento orgânico não é recalque",
+        "Desânimo pode ter causa orgânica",
+        "Quando sugerir avaliação médica",
+        "Sintoma físico grave: encaminhe já, interprete depois"
+      ],
+      "corte_inicio": "0:53:07",
+      "corte_fim": "0:55:31"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Entender não é sentir.",
+      "mensagem": "Por que a psicoeducação óbvia não muda comportamento: o que controla a compreensão não é o que controla a decisão.",
+      "roteiro": [
+        "Frase de impacto",
+        "Legenda: exemplo do sono e investigação da função do comportamento"
+      ],
+      "corte_inicio": "0:40:27",
+      "corte_fim": "0:41:30"
+    },
+    {
+      "formato": "stories",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Você abre a sessão com check-up ou deixa o paciente trazer?",
+      "mensagem": "Os dois caminhos existem; o check-up funciona como gancho se levar ao aprofundamento.",
+      "roteiro": [
+        "Enquete: check-up ou fala livre?",
+        "Resultado + o argumento de cada lado",
+        "Dica: se fizer check-up, pergunte 'por quê?'"
+      ],
+      "corte_inicio": "0:36:01",
+      "corte_fim": "0:37:04"
+    },
+    {
+      "formato": "reels",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Como é um grupo reflexivo de aprimoramento clínico.",
+      "mensagem": "Uma pergunta, várias abordagens, divergência como método e ninguém julgado.",
+      "roteiro": [
+        "Trecho da abertura: 'sem conversa o grupo não funciona'",
+        "Pergunta disparadora na tela",
+        "Recortes de falas divergentes (sem casos)",
+        "Convite para participar"
+      ],
+      "corte_inicio": "0:09:52",
+      "corte_fim": "0:11:00"
+    }
+  ],
+  "autores": [],
+  "formato_grupo": {
+    "nome": "Roda reflexiva do Aprimoramento Clínico (formato do Diogo)",
+    "objetivo": "Treinar habilidades clínicas globais (transteóricas) por meio de discussão guiada: perguntas disparadoras sobre a prática, debate a partir da divergência e síntese de critérios de decisão pelo facilitador.",
+    "publico": "Estudantes de psicologia de vários períodos (muitos ainda sem atender), estagiários e terapeutas iniciantes de abordagens variadas; aberto a novatos.",
+    "tamanho": "Cerca de 10 a 12 participantes ativos neste encontro.",
+    "duracao": "Previsto cerca de 1h30; este durou cerca de 1h10 (encerrado antes por agenda do facilitador).",
+    "estrutura_padrao": "1) Abertura: o que é o Aprimoramento (habilidades globais, o 'como' que a faculdade não ensina), combinados, acolhimento de novatos; 2) Teoria mínima: contextualização do tema entre abordagens e objetivo do exercício; 3) Calibragem: quem já atende (quem não atende responde imaginando); 4) Pergunta disparadora e rodada de respostas (microfone e chat); 5) Facilitador 'traz para o geral', abre divergências ao grupo ('vocês concordam?') e marca a opinião própria como opinião; 6) Perguntas dos participantes devolvidas ao grupo antes da resposta do facilitador; 7) Síntese de critérios ('depende de quê'); 8) Demonstração curta de formulação; 9) Formulário de presença; 10) Pergunta de impacto ('o que mudou para vocês?') e pedido de feedback sobre a condução. Comparado ao Alan (teoria mínima, exercício de produção de respostas, feedback individual sobre a qualidade), aqui não há produção de intervenções: treina-se julgamento clínico e atitude, e o feedback é conceitual.",
+    "papel_facilitador": "Mediador e sintetizador: provoca com perguntas, lê e parafraseia o chat, pede desenvolvimento, transforma relatos em princípios, usa a divergência como motor, dá opinião explícita e marcada como pessoal, protege os participantes do julgamento, administra o tempo e pede feedback sobre a própria condução. Coloca-se como par (estudante) e admite limites de conhecimento.",
+    "regras_combinados": "Câmera opcional; participação ativa preferida (microfone, chat, levantar a mão no Meet); quem só ouve aproveita pouco; é permitido discordar do facilitador; não se julga como certa ou errada a conduta de colegas (limite: código de ética); formulário de presença enviado apenas a quem participou (conta horas complementares e avalia a condução)."
+  },
+  "reflexoes_do_facilitador": [
+    "Anuncia seu método: gosta de 'trazer para o geral' o que um participante diz e pede que o grupo retome, complemente ou discorde.",
+    "Explica por que fez o 'debate curto': o contraponto de uma participante mostrou que forma e timing são decisivos.",
+    "Diz que um grupo é bom quando todos participam; agradece publicamente a quem discordou: 'é isso que eu espero do grupo'.",
+    "Reconhece que o grupo 'poderia durar mais' e atribui isso à agenda de quinta-feira e ao TCC; promete estender depois de entregar o TCC.",
+    "Desiste da segunda pergunta por falta de tempo e guarda as outras perguntas de 'cuidados básicos' para outro encontro.",
+    "Pede feedback sobre a coordenação ('como poderia ter sido melhor coordenado?') e sobre o que os participantes gostariam de ver.",
+    "Admite não conhecer uma doença citada e pesquisa ao vivo; admite não saber a concepção de mente do humanismo."
+  ],
+  "referencias_a_outros_encontros": [
+    "Menciona um grupo de uma ou duas semanas antes sobre fracasso terapêutico e timing (provavelmente 'Acervo 17 - Fracasso clínico e seus fatores associados', também do Diogo; não verificado).",
+    "O mesmo exercício já tinha sido aplicado antes com outra turma (uma terapeuta da Allos relatou abrir toda sessão com check-up).",
+    "Outras perguntas da série 'cuidados básicos' ficam para um próximo encontro.",
+    "Uma novata cita a monitoria do João de dois dias antes.",
+    "Convites: grupo de prática às 19h (simulação de atendimento) e monitoria no dia seguinte às 14h com o Diogo, focada em um terapeuta que atende o paciente de inteligência artificial da Allos (por ora restrita aos estagiários; acesso liberado por Alan).",
+    "Menciona atividades de férias no cronograma da Allos.",
+    "Ver também 'Acervo 25 - Linguagem clínica e função da intervenção' (mesmo facilitador e mesmo formato) e 'Acervo 23 - Comunicação não verbal na clínica' (Diogo)."
+  ],
+  "observacoes": "Facilitador: Diogo (analista do comportamento; no 10º período da graduação na época, com TCC a entregar). O título original ('Encontro 47 e Encontro 48') não informa o tema. Formato: roda reflexiva (discussão guiada), sem roleplay nem produção de intervenções; uma única pergunta ocupou cerca de 50 minutos. Legenda automática com muito ruído: nomes de participantes trocados ('C', 'Cindy', 'Cíndia' parecem ser a mesma pessoa; 'Mariane/Mariana/Mari'), 'psoriz/pessoriase' = psoríase, 'ALS/Alos/aulas' = Allos, 'Mido/Meet'. A fala de uma participante sobre o humanismo (0:07:31) está quase inaudível. Casos clínicos citados (paciente com doença de pele crônica; paciente de Diogo em conflito com o pai) foram anonimizados e generalizados. Participantes relatam a própria terapia; esses detalhes foram omitidos. Nenhum autor é citado nominalmente."
+}

@@ -1,0 +1,974 @@
+{
+  "id": "alan-13",
+  "nota": "Alan 13 - Formulação de caso 2",
+  "pasta": "02 - Encontros do Alan",
+  "titulo": "Formulação de caso 2",
+  "serie": "Aprimoramento clínico - Alan",
+  "formato": "Aprimoramento clínico",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Continuação do exercício de Alan 12. O caso foi narrado por Alan no papel de um terapeuta em dúvida (caso real alterado, com um personagem ficcional), e os participantes deveriam formular por escrito o caso de um jovem intelectualizado, isolado, enlutado e provocador que procurou o terapeuta. Alan inverte a estrutura habitual (exercício antes da teoria). Uma participante de TCC monta o modelo cognitivo com níveis desconectados, e Alan corrige e ensina pré-figuração, círculo hermenêutico e a função hermenêutica do pensamento automático, com dois micro-exercícios (identificar pensamentos automáticos; gerar cinco ou mais leituras para uma fala, a 'criatividade clínica'). Uma segunda participante foge para a relação e a ética, e Alan pressiona com 'E daí?' até surgir a hipótese rivalidade → luto → culpa, que resolve a dúvida sobre a proximidade e dá uma direção clínica ('descer do pedestal'). Diogo (análise do comportamento) faz uma leitura estrutural (mesma forma em relações diferentes, compensação de impotência), que Alan enriquece com a dialética do senhor e do escravo e o contracontrole, admitindo que ela combina mais com Hegel que com a análise do comportamento. O fechamento traz três lições: hipóteses não são inócuas e o clínico deve deixar de ser unilateral; buscar o que se repete; interpretar é excluir.",
+  "em_uma_frase": "Formular um caso é produzir hipóteses coerentes, que vão além do texto e excluem os distratores. Como o objeto da psicologia se conforma às nossas hipóteses, o bom clínico precisa de criatividade clínica e não pode ser unilateral.",
+  "competencias": [
+    "Formulação de caso",
+    "Interpretação",
+    "Priorização clínica",
+    "Direção do tratamento",
+    "Articulação teoria-prática",
+    "Relação terapêutica",
+    "Psicoeducação",
+    "Escuta clínica"
+  ],
+  "abordagens": [
+    "Terapia cognitivo-comportamental",
+    "Análise do comportamento",
+    "Fenomenologia e existencialismo",
+    "Psicanálise freudiana",
+    "Psicanálise lacaniana",
+    "Psicologia analítica junguiana",
+    "Abordagem centrada na pessoa",
+    "Terapias contextuais",
+    "Gestalt-terapia"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:01",
+      "bloco": "Abertura",
+      "descricao": "Plano em dois tempos (ouvir as formulações, inclusive as enviadas por escrito, e depois demonstrar a formulação em diferentes abordagens). Alan anuncia a inversão da ordem habitual teoria → exercício e pede um voluntário.",
+      "funcao": "Dar previsibilidade e fazer o aluno se arriscar antes do modelo pronto, gerando erros vivos para trabalhar.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:01:40",
+      "bloco": "Rodada de respostas",
+      "descricao": "Participante de TCC lê sua formulação: pensamento automático, crença intermediária de rejeição, crença central de desamparo e hipóteses sobre a história de vida.",
+      "funcao": "Trazer material concreto para a crítica.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:05:32",
+      "bloco": "Feedback",
+      "descricao": "Alan reestrutura a formulação para o grupo e explica pré-figuração e círculo hermenêutico. Pergunta qual erro salta aos olhos e, diante do silêncio, aponta a desconexão entre os níveis do modelo e oferece crenças intermediárias coerentes.",
+      "funcao": "Separar imprecisão de erro e ensinar o critério de coerência do modelo cognitivo.",
+      "duracao_min": 9
+    },
+    {
+      "ts": "0:14:41",
+      "bloco": "Teoria",
+      "descricao": "Pergunta socrática: para que serve perguntar o pensamento automático? As respostas são classificadas como verdadeiras mas secundárias, e a função hermenêutica aparece com o exemplo de Beck da esposa que sai sem se despedir.",
+      "funcao": "Construir o conceito a partir das respostas do grupo.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:19:18",
+      "bloco": "Dinâmica",
+      "descricao": "Identificação de outros pensamentos automáticos no texto e distinção entre pensamento automático estrito e resposta automática.",
+      "funcao": "Aplicar imediatamente o conceito.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:22:16",
+      "bloco": "Dinâmica",
+      "descricao": "Criatividade clínica: cinco ou mais leituras diferentes para a fala em que o jovem acusa o terapeuta de 'se fazer de bobo' (manipulação, deflação, inflação por inversão, esquiva, desespero, culpa). Leituras repetidas são recusadas.",
+      "funcao": "Treinar a produção de hipóteses variadas e realmente distintas.",
+      "duracao_min": 10
+    },
+    {
+      "ts": "0:32:15",
+      "bloco": "Teoria",
+      "descricao": "O fazer terapêutico é dialético (dialética da pergunta e da resposta). Ter variações ajuda a afinar a leitura com o paciente. O modelo cognitivo é só parte da formulação.",
+      "funcao": "Justificar o micro-exercício e fazer a transição para a formulação ampla.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:36:51",
+      "bloco": "Rodada de respostas",
+      "descricao": "Segunda participante lê a formulação escrita (resumo do caso, esquemas do jovem, dúvidas do terapeuta, conclusão 'encaminhar ou elaborar em terapia'). Alan contextualiza a semana anterior, em que ficou defensivo no papel.",
+      "funcao": "Expor a armadilha típica do caso: fugir da interpretação.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:41:34",
+      "bloco": "Feedback",
+      "descricao": "Alan nomeia o distrator relacional e ético e proíbe respostas genéricas e delegadas. Metáfora do malabarista; pergunta 'E daí?'. A participante chega à hipótese rivalidade → luto → culpa, que Alan reconstrói, extraindo a direção clínica ('descer do pedestal') e o encaixe com a cosmovisão da TCC. Previsão pública de encaixe com outras abordagens.",
+      "funcao": "Demonstrar ao vivo a passagem de descrever fatos para formular hipótese.",
+      "duracao_min": 13
+    },
+    {
+      "ts": "0:54:18",
+      "bloco": "Rodada de respostas",
+      "descricao": "Uma participante resume sua imagem central (uma criança que não sabe cuidar dos brinquedos). Diogo (análise do comportamento) apresenta formulação estrutural: paralelo entre relações, paradoxo dono/brinquedo, compensação de impotência.",
+      "funcao": "Trazer uma segunda abordagem para comparação.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "1:00:20",
+      "bloco": "Comparação de abordagens",
+      "descricao": "Elogio ao raciocínio forma × conteúdo ('interpretar é encontrar o não óbvio'). Alan relata a própria contratransferência, introduz a dialética do senhor e do escravo (Nietzsche, Hegel) e o contracontrole (Skinner) e admite que a formulação não reflete a cosmovisão da análise do comportamento.",
+      "funcao": "Enriquecer a hipótese com teoria externa e testar publicamente a previsão.",
+      "duracao_min": 10
+    },
+    {
+      "ts": "1:09:58",
+      "bloco": "Discussão",
+      "descricao": "Perguntas encadeadas ao Diogo: como entram as moças, para que ele precisa de atenção (compensar a impotência), flerte ou ameaça. Abertura para discordâncias.",
+      "funcao": "Levar a formulação até a causa final ('para quê').",
+      "duracao_min": 6
+    },
+    {
+      "ts": "1:15:46",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Meta-comentário: exercícios hermenêuticos são lentos (lembrança de interpretar filmes na faculdade). O caso vai virar canônico e Alan quer criar agentes de IA para exercícios de interpretação.",
+      "funcao": "Justificar o ritmo e mostrar o projeto pedagógico.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "1:16:43",
+      "bloco": "Fechamento",
+      "descricao": "Três lições: (1) o objeto da psicologia se conforma às hipóteses (estudo do 11 de setembro; pacientes freudianos têm sonhos freudianos), com duas saídas, opacidade ou não unilateralidade (escala e jazz; Rogers); (2) buscar o que se repete e usar as máximas psicológicas; (3) interpretar é excluir e dar pesos (função sentimento).",
+      "funcao": "Consolidar aprendizagens sobre o processo, independentemente da 'solução' do caso.",
+      "duracao_min": 12
+    },
+    {
+      "ts": "1:28:17",
+      "bloco": "Tarefa",
+      "descricao": "Prévia dos esquemas de aprofundamento (concêntrico e linear/seguir deixas) e plano do próximo encontro: pouca teoria, exercício, talvez a sessão seguinte do caso ou um caso novo. Gravação encerrada e feedback informal.",
+      "funcao": "Fazer a ponte com o próximo tema e coletar feedback.",
+      "duracao_min": 3
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Círculo hermenêutico",
+      "definicao": "Paradigma interpretativo segundo o qual só se dá sentido às partes a partir de uma pré-concepção do todo, e o sentido das partes refina essa pré-concepção. Interpretar é circular da parte ao todo e do todo à parte.",
+      "exemplo": "Na sessão, ter noção de 'do que essa pessoa sofre' permite entender falas específicas, que por sua vez tornam o todo mais preciso.",
+      "abordagem": "Fenomenologia e existencialismo",
+      "ts": "0:06:41"
+    },
+    {
+      "nome": "Pré-figuração do caso",
+      "definicao": "Pré-formulação do caso feita durante o atendimento, e não depois em casa. Sem ela o terapeuta não interpreta a fala específica nem decide o próximo passo.",
+      "exemplo": "O exercício de formular com dados limitados treina justamente essa pré-figuração.",
+      "abordagem": "",
+      "ts": "0:06:41"
+    },
+    {
+      "nome": "Modelo cognitivo",
+      "definicao": "Esquema da TCC em três níveis (pensamento automático, crença intermediária, crença central). Os três estratos precisam tratar do mesmo fenômeno.",
+      "exemplo": "Erro corrigido: uma crença intermediária sobre isolamento acoplada a um pensamento automático sobre comparação com o terapeuta.",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "0:13:22"
+    },
+    {
+      "nome": "Pensamento automático",
+      "definicao": "Pensamento que 'assalta' a pessoa diante de um fato e dá a inflexão de significado desse fato. Sua função principal é hermenêutica; acessar crenças e planejar a intervenção são funções secundárias.",
+      "exemplo": "A esposa sai sem se despedir: 'estou culpado' (culpa), 'ela tinha reunião' (nada), 'meu casamento acabou' (ruptura).",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "0:16:21"
+    },
+    {
+      "nome": "Crença intermediária",
+      "definicao": "Regra ou pressuposto que conecta o pensamento automático à crença central e deve derivar do mesmo fenômeno.",
+      "exemplo": "Variações coerentes: 'se eu fosse bom de verdade, ela não teria morrido'; 'se eu fosse esperto o suficiente, teria dado um jeito'.",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "0:13:22"
+    },
+    {
+      "nome": "Crença central",
+      "definicao": "O erro epistêmico central, a distorção de base que explica as demais distorções, que são suas consequências.",
+      "exemplo": "Desamparo/impotência como hipótese nuclear na formulação da participante de TCC.",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "0:18:01"
+    },
+    {
+      "nome": "Comportamento de segurança",
+      "definicao": "Comportamento regido por uma regra de evitação que protege a pessoa de um desfecho temido.",
+      "exemplo": "Isolar-se e calar-se para não ser rejeitado.",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "0:08:44"
+    },
+    {
+      "nome": "Dialética da pergunta e da resposta",
+      "definicao": "O sentido de um texto ou caso não está pronto e depende da pergunta que se faz a ele. Não há realidade última do caso: suas 'cores' aparecem conforme a pergunta se aprimora.",
+      "exemplo": "Ter várias hipóteses permite 'jogar com o paciente' e afinar até o que faz sentido, já que ele pode não saber a resposta.",
+      "abordagem": "Fenomenologia e existencialismo",
+      "ts": "0:33:26"
+    },
+    {
+      "nome": "Criatividade clínica",
+      "definicao": "Capacidade de gerar leituras realmente diferentes para um mesmo material clínico e de não ficar unilateralmente preso a um referencial.",
+      "exemplo": "Cinco ou mais leituras para a fala 'você se faz de bobo'.",
+      "abordagem": "",
+      "ts": "0:23:51"
+    },
+    {
+      "nome": "Máximas clínicas",
+      "definicao": "Chamadas aqui de 'máximas psicológicas': regras intuitivas que permitem inverter hipóteses e criar possibilidades quando a teoria de base é unilateral.",
+      "exemplo": "Deflação (o terapeuta é um deus) ↔ inflação (eu sei tudo, logo ele também deve saber); comportamento de controle → impotência tamponada.",
+      "abordagem": "",
+      "ts": "0:28:37"
+    },
+    {
+      "nome": "Inflação e deflação psíquica",
+      "definicao": "Posições de sentir-se superior (inflação) ou apequenado (deflação) diante do outro. Uma pode ser lida como inversão da outra.",
+      "exemplo": "'Meu terapeuta não pode errar porque é bom demais' versus 'eu sou muito inteligente e sempre sei a resposta'.",
+      "abordagem": "",
+      "ts": "0:27:33"
+    },
+    {
+      "nome": "Esquiva experiencial",
+      "definicao": "Fuga do contato com experiências internas dolorosas, trazida por uma participante com referência à ACT.",
+      "exemplo": "Usar o intelectualismo para não se expor nem mostrar vulnerabilidade.",
+      "abordagem": "Terapias contextuais",
+      "ts": "0:29:09"
+    },
+    {
+      "nome": "Sujeito suposto saber",
+      "definicao": "Projeção no terapeuta de um saber total, que serve para tamponar a incerteza do próprio paciente.",
+      "exemplo": "Leitura de 'desespero': se nem o terapeuta sabe, estava tudo perdido mesmo.",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:32:15"
+    },
+    {
+      "nome": "Contratransferência",
+      "definicao": "O que o paciente desperta no terapeuta, tomado como dado clínico que o texto do caso não mostra.",
+      "exemplo": "Alan sentiu-se fisicamente ameaçado por um interlocutor que falava em tom de flerte.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "1:00:20"
+    },
+    {
+      "nome": "Padrão de repetição",
+      "definicao": "A forma que se repete por trás de conteúdos e relações diferentes. Cada linha a nomeia de um jeito (pulsão de morte, gozo etc.), e buscá-la é a leitura básica de qualquer exercício hermenêutico.",
+      "exemplo": "Impressionar as moças com a inteligência e o terapeuta com flerte e ameaça são a mesma forma: capturar a atenção do outro.",
+      "abordagem": "",
+      "ts": "1:25:12"
+    },
+    {
+      "nome": "Dialética do senhor e do escravo",
+      "definicao": "Em Nietzsche, o senhor age e o escravo domina pela inação (os valores cristãos seriam valores de escravos). Em Hegel, o senhor é aquele a quem falta e o escravo é quem sabe. Em ambos o controle é especular.",
+      "exemplo": "Pedir massagem nas costas ou a planilha financeira parece posição de senhor, mas admite a falta de saber.",
+      "abordagem": "Fenomenologia e existencialismo",
+      "ts": "1:03:58"
+    },
+    {
+      "nome": "Contracontrole",
+      "definicao": "Todo controle envolve um controle de volta: quem é controlado também controla quem controla.",
+      "exemplo": "O meme do rato que 'controla o Skinner': ao subir a escada, o rato provoca o sorriso do experimentador.",
+      "abordagem": "Análise do comportamento",
+      "ts": "1:08:57"
+    },
+    {
+      "nome": "Enantiodromia",
+      "definicao": "Conversão de um polo no seu oposto (o sol que vira lua). Alan sugere, além disso, enxergar o yang que já devém no yin.",
+      "exemplo": "Pensar a oscilação vitória/derrota do jovem.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:07:44"
+    },
+    {
+      "nome": "Cosmovisão",
+      "definicao": "Premissas de mundo de uma abordagem. Uma formulação pode encaixar perfeitamente na cosmovisão da abordagem que a produziu.",
+      "exemplo": "Na TCC, o problema do jovem vira epistêmico e pede a retificação da visão de mundo (ele não controla os outros).",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "0:52:40"
+    },
+    {
+      "nome": "Conformação do objeto às hipóteses",
+      "definicao": "Propriedade do objeto da psicologia de se ajustar ao vocabulário e à atenção do observador. As hipóteses do terapeuta não são inócuas.",
+      "exemplo": "Estudo sobre sobreviventes do 11 de setembro (a visão de mundo moldou a cena lembrada); 'pacientes freudianos têm sonhos freudianos'.",
+      "abordagem": "",
+      "ts": "1:17:48"
+    },
+    {
+      "nome": "Função sentimento",
+      "definicao": "Termo junguiano para a valoração: a capacidade de dar pesos às coisas e priorizar o que importa na construção clínica.",
+      "exemplo": "Descartar a relação terapêutica e a questão ética como distratores do caso.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:27:25"
+    },
+    {
+      "nome": "Esquemas de aprofundamento",
+      "definicao": "Nome dado por Alan à imagem intuitiva usada para interpretar e para fazer o paciente dizer mais sobre um assunto.",
+      "exemplo": "Esquema concêntrico (algo no centro e fenômenos que se adensam ao redor) versus esquema linear de seguir deixas.",
+      "abordagem": "",
+      "ts": "1:28:17"
+    },
+    {
+      "nome": "Hermenêutica",
+      "definicao": "Arte da interpretação. O exercício de formular com dados limitados é um exercício hermenêutico, e interpretar é encontrar o não óbvio no texto.",
+      "exemplo": "Interpretação de filmes na faculdade: meio semestre para chegar ao minuto 15.",
+      "abordagem": "Fenomenologia e existencialismo",
+      "ts": "1:00:20"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Formulação de caso",
+      "objetivo": "Construir uma hipótese clínica (formulação) a partir de informações limitadas, na própria abordagem, e comparar como abordagens diferentes leem o mesmo caso.",
+      "competencias": [
+        "Formulação de caso",
+        "Interpretação",
+        "Priorização clínica",
+        "Direção do tratamento"
+      ],
+      "configuracao": "Grupo pequeno online. Tarefa individual escrita em casa (alguns enviaram ao facilitador antes, inclusive quem faltou), lida e discutida em plenária. Três formulações discutidas a fundo e uma breve.",
+      "tempo": "Cerca de 75 min em aula, mais o tempo de casa",
+      "materiais": "Caso escrito (narrado e enviado no encontro anterior, com o facilitador no papel do terapeuta em dúvida)",
+      "consigna": "Formulem por escrito o caso do jovem. O exercício é sobre a construção do caso dele, não sobre a relação do terapeuta. Quero ver vocês se arriscando; depois eu dou as diretrizes e mostro como se faz em diferentes vertentes.",
+      "passos": [
+        "No encontro anterior, apresentar o caso como dúvida clínica, com o facilitador no papel do terapeuta, e deixá-lo por escrito",
+        "Pedir a formulação escrita, se possível na abordagem de cada um",
+        "Abrir anunciando a inversão: participantes primeiro, teoria depois",
+        "Voluntário lê; o facilitador reestrutura a formulação em voz alta para o grupo",
+        "Perguntar ao grupo qual é o erro principal antes de apontá-lo",
+        "Corrigir oferecendo alternativas adequadas e explicitando o critério teórico violado",
+        "Inserir micro-exercícios sobre trechos (identificação de pensamentos automáticos, criatividade clínica)",
+        "Segundo participante: pressionar respostas genéricas com 'E daí?' até surgir uma hipótese",
+        "Mostrar a direção clínica que sai da hipótese e o encaixe com a cosmovisão da abordagem; fazer uma previsão pública",
+        "Chamar alguém de outra abordagem para testar a previsão; elogiar a estrutura, acrescentar teoria e levar ao 'para quê'",
+        "Fechar com lições sobre o processo de interpretar, independentemente da solução do caso"
+      ],
+      "feedback": "Critérios: coerência entre os níveis do modelo (mesmo fenômeno); ligar fenômenos sem deixar 'bolas caírem'; ir além do texto (fatos descritos não são interpretação); poder explicativo sobre falas antes misteriosas; direção clínica concreta; nenhuma resposta genérica ou delegada. Imprecisão é tolerada, erro é corrigido.",
+      "exemplos_praticos": "A participante de TCC juntou dois fenômenos distintos no mesmo modelo cognitivo. A segunda começou pela relação e pela ética e concluiu 'encaminhar ou elaborar em terapia'; pressionada com 'E daí?', chegou a rivalidade com o terapeuta a serviço do luto e da culpa, o que tornou a proximidade não problemática e levou à direção 'descer do pedestal'. Outra condensou o caso numa imagem (uma criança que não sabe cuidar dos brinquedos). Diogo fez a leitura estrutural (mesma forma em relações diferentes, compensação de impotência). Poucos entregaram o texto escrito.",
+      "variacoes": "Contar a 'sessão seguinte' do caso como se uma hipótese do grupo tivesse sido aplicada, mostrando o efeito de boas e más interpretações; transformar o caso em canônico para vários encontros; usar agentes de IA para prolongar o treino.",
+      "armadilhas": "Casos com forte apelo relacional ou ético convidam a não fazer o exercício, por isso o foco deve estar explícito na consigna. Poucos fazem a tarefa de casa. Exercícios hermenêuticos são lentos e podem se arrastar por semanas.",
+      "nivel": "avançado",
+      "funciona_online": true,
+      "ts": "0:01:40"
+    },
+    {
+      "nome": "Dinâmica - Criatividade clínica",
+      "objetivo": "Gerar várias leituras realmente diferentes para uma mesma fala do paciente e treinar a inversão de hipóteses com máximas psicológicas.",
+      "competencias": [
+        "Interpretação",
+        "Escuta clínica",
+        "Formulação de caso"
+      ],
+      "configuracao": "Grupo todo, online, participação espontânea por microfone e chat",
+      "tempo": "Cerca de 10 min",
+      "materiais": "Uma fala curta e ambígua do caso (ou inventada)",
+      "consigna": "O que mais essa fala pode significar? Não precisa ser de TCC: é um exercício de criatividade clínica. Quero pelo menos cinco possibilidades, cada uma com um raciocínio diferente.",
+      "passos": [
+        "Escolher uma fala curta e ambígua",
+        "Pedir ao participante que reconstrua o contexto e o que provavelmente passava na cabeça do paciente",
+        "Pedir que converta isso numa máxima em primeira pessoa",
+        "Pedir uma segunda leitura que não tenha a ver com a primeira",
+        "Convocar alguém para inverter uma leitura usando máximas psicológicas (deflação → inflação)",
+        "Seguir até cinco, recusando paráfrases e exigindo conexão com a fala em questão",
+        "O facilitador completa com sua própria leitura, ligando a fala a outros momentos do caso",
+        "Fechar explicando por que o exercício importa (dialética da pergunta e da resposta)"
+      ],
+      "feedback": "'Perfeito' para leituras novas; 'está muito próximo, quero uma coisa diferente'; 'essa não valeu, é o mesmo raciocínio repaginado'; 'conecta com o tema: é verdadeiro sobre o paciente, mas é outro fenômeno'. Aceita inflexões como '5.1'.",
+      "exemplos_praticos": "Saíram: manipulação ('todos manipulam, inclusive meu terapeuta'), terapeuta idealizado ('é um deus, não pode errar'), inflação psíquica (inversão feita por Diogo), fuga da vulnerabilidade/esquiva experiencial, desespero (leitura de Alan) e culpa. Uma leitura foi recusada por repetir a anterior e outra por não se conectar à fala.",
+      "variacoes": "Pode ser feita com frases inventadas. Meta numérica explícita ('cinco é meu número favorito'). Em tese daria para chegar a 25 possibilidades.",
+      "armadilhas": "Aceitar paráfrases como leituras novas; aceitar leituras verdadeiras sobre o caso que não explicam aquela fala específica.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:22:16"
+    },
+    {
+      "nome": "Dinâmica - Identificação de pensamentos automáticos",
+      "objetivo": "Aplicar imediatamente o conceito de pensamento automático e diferenciá-lo de respostas automáticas dadas dentro do diálogo.",
+      "competencias": [
+        "Interpretação",
+        "Escuta clínica",
+        "Formulação de caso"
+      ],
+      "configuracao": "Grupo todo, com o texto do caso à mão",
+      "tempo": "3 a 5 min",
+      "materiais": "Texto do caso",
+      "consigna": "No relato, vocês conseguem identificar outros momentos em que ele expressou um pensamento automático, ou quase, algo que dê para tratar como tal? Apontem o trecho no texto para todo mundo achar.",
+      "passos": [
+        "Pedir trechos candidatos",
+        "Pedir que indiquem onde estão no texto",
+        "Classificar: pensamento automático estrito (associado a um fato, surge 'do nada') ou resposta automática (associada a uma pergunta, dentro da dialética do diálogo)",
+        "Perguntar se dá para 'dar um passo a mais' do trecho até uma crença ou regra",
+        "Emendar no exercício de criatividade clínica"
+      ],
+      "feedback": "As escolhas 'dariam pega' porque revelam crenças, mas estritamente não são pensamentos automáticos; o critério é a origem (fato × pergunta).",
+      "exemplos_praticos": "Participantes apontaram respostas do jovem a perguntas do terapeuta e uma generalização sobre as pessoas fingirem não entender; Alan classificou-as como respostas automáticas úteis para hipóteses.",
+      "variacoes": "Serve para qualquer conceito central de outra abordagem ('achem no texto outros exemplos de X').",
+      "armadilhas": "Confundir qualquer fala espontânea com pensamento automático.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:19:18"
+    },
+    {
+      "nome": "Dinâmica - Desenhe o esquema de aprofundamento",
+      "objetivo": "Testar com o grupo as imagens intuitivas que orientam a interpretação e o aprofundamento (concêntrica, linear/seguir deixas etc.). Proposta para o encontro seguinte.",
+      "competencias": [
+        "Aprofundamento",
+        "Interpretação"
+      ],
+      "configuracao": "Grupo todo; pequena parte teórica e depois exercício",
+      "tempo": "Encontro seguinte (não realizado aqui)",
+      "materiais": "Uma 'historinha': a sessão seguinte (a quinta) deste caso ou um caso novo",
+      "consigna": "Não formulada; Alan contaria um caso para testar os esquemas de aprofundamento com o grupo.",
+      "passos": [
+        "Breve parte teórica sobre esquemas de aprofundamento",
+        "Contar a próxima sessão do caso ou um caso novo",
+        "Testar com o grupo a maneira intuitiva de fazer o paciente dizer mais sobre o assunto"
+      ],
+      "feedback": "",
+      "exemplos_praticos": "Adiada porque as formulações do dia usaram um único esquema (concêntrico) e poucos fizeram a parte escrita. Ao que parece, foi realizada em Alan 06 - Esquemas de aprofundamento, em outro formato (roleplays curtos com o grupo desenhando a estrutura das perguntas).",
+      "variacoes": "",
+      "armadilhas": "",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "1:30:14"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Inverter a estrutura e anunciar o plano",
+      "descricao": "Anuncia que, ao contrário do habitual (teoria → exercício), os participantes vão se arriscar primeiro, e explica os dois tempos do encontro.",
+      "exemplo": "'Normalmente começo com teoria; hoje vamos inverter. Quero começar com vocês se arriscando e depois dou as diretrizes.'",
+      "ts": "0:00:56"
+    },
+    {
+      "movimento": "Reestruturar a fala do participante",
+      "descricao": "Antes de comentar, reorganiza em voz alta e 'de maneira mais direta' a formulação do aluno, o que mostra escuta e esclarece para o grupo.",
+      "exemplo": "'Para estruturar para as pessoas que ouviram: o pensamento automático que ela identificou foi…'",
+      "ts": "0:05:32"
+    },
+    {
+      "movimento": "Justificar o exercício",
+      "descricao": "Explica por que o exercício existe e como ele reproduz a clínica real.",
+      "exemplo": "'Por que eu quero que vocês aprendam a fazer isso? Porque é o que você faz o tempo todo na clínica.'",
+      "ts": "0:06:41"
+    },
+    {
+      "movimento": "Devolver o erro ao grupo e corrigir com alternativas",
+      "descricao": "Pergunta se alguém vê o erro principal, distinguindo imprecisão de erro. Diante do silêncio, aponta um único erro, pede que o corrijam se estiver errado e oferece várias versões corretas em vez de só negar.",
+      "exemplo": "'Tem alguma coisa aqui que não é da ordem da imprecisão, é da ordem do erro. Salta aos olhos?' → oferece crenças intermediárias coerentes ('se eu fosse bom de verdade, ela não teria morrido').",
+      "ts": "0:09:51"
+    },
+    {
+      "movimento": "Pergunta socrática + exemplo canônico",
+      "descricao": "Constrói o conceito com uma pergunta ao grupo, dando preferência a quem ainda não o ouviu falar do tema, hierarquiza as respostas sem invalidá-las ('verdadeiro, mas secundário') e fecha com um exemplo clássico desdobrado em variações.",
+      "exemplo": "'Para que você pergunta o pensamento automático?' → exemplo de Beck da esposa que sai sem se despedir, com três significados possíveis.",
+      "ts": "0:14:41"
+    },
+    {
+      "movimento": "Meta de quantidade e exigência de diferença",
+      "descricao": "Fixa uma meta numérica de hipóteses e recusa respostas que só repaginam um raciocínio já dito.",
+      "exemplo": "'Cinco a gente consegue.' / 'Essa não valeu, você usou o mesmo raciocínio.'",
+      "ts": "0:29:50"
+    },
+    {
+      "movimento": "Convocar pelo que a pessoa disse antes",
+      "descricao": "Chama um participante a demonstrar uma técnica sobre a qual ele tinha perguntado antes da gravação e depois traduz para todos o que ele fez.",
+      "exemplo": "Pede ao Diogo que inverta a hipótese com máximas psicológicas e explica ao grupo: 'não é deflação, é inflação'.",
+      "ts": "0:27:00"
+    },
+    {
+      "movimento": "Pressionar respostas genéricas",
+      "descricao": "Declara a regra de que respostas genéricas e delegadas (encaminhar, 'terapia do terapeuta') serão sempre pressionadas no grupo.",
+      "exemplo": "'Qualquer resposta genérica eu sempre vou pressionar… enquanto estivermos no grupo de aprimoramento, essa não é uma possibilidade.'",
+      "ts": "0:42:39"
+    },
+    {
+      "movimento": "Metáfora que normaliza o erro",
+      "descricao": "Explica a falha da hipótese com uma imagem que preserva o aluno (a hipótese seria boa com menos dados).",
+      "exemplo": "Malabarista: ao se concentrar numa bola, deixa outra cair.",
+      "ts": "0:44:40"
+    },
+    {
+      "movimento": "'E daí?' e perguntas encadeadas até o 'para quê'",
+      "descricao": "Tira o aluno da descrição de fatos com 'E daí?' e segue com perguntas encadeadas (avisando que está 'beirando' a pergunta de fato) até a gênese e a causa final.",
+      "exemplo": "'O que esses fatos dizem da psicologia dele? Qual é a gênese dessa rivalidade?'; com Diogo: como entram as moças? → para que ele precisa disso? → é flerte ou ameaça?",
+      "ts": "0:47:02"
+    },
+    {
+      "movimento": "Marcar o momento pedagógico e amplificar",
+      "descricao": "Aponta para o grupo o instante em que surge uma hipótese e a reconstrói de forma mais forte, checando com o autor.",
+      "exemplo": "'Isso é o início da formulação de uma hipótese clínica… vou colocar palavras na sua boca, me fala se eu estiver exagerando.'",
+      "ts": "0:48:29"
+    },
+    {
+      "movimento": "Previsão pública testável",
+      "descricao": "Faz uma previsão sobre o que vai acontecer no exercício e depois reconhece abertamente que errou.",
+      "exemplo": "'Se acontecer, tem um final para isso; se não, o comentário é outro' → 'não tem nada a ver com a análise do comportamento; combina mais com Hegel'.",
+      "ts": "0:53:37"
+    },
+    {
+      "movimento": "Elogio específico e acréscimo teórico",
+      "descricao": "Elogia exatamente o que é elegante no raciocínio e acrescenta um conceito que o aluno tangencia, com exemplos cotidianos e visuais.",
+      "exemplo": "Elogia a passagem do conteúdo para a forma e introduz senhor/escravo com exemplos de massagem e da planilha financeira.",
+      "ts": "1:00:20"
+    },
+    {
+      "movimento": "Fechamento com lições sobre o processo",
+      "descricao": "Encerra com lições numeradas sobre o processo de interpretar, e não sobre a solução do caso.",
+      "exemplo": "'A primeira coisa… um segundo… a principal coisa de todas: interpretar não é observar, é excluir.'",
+      "ts": "1:16:43"
+    },
+    {
+      "movimento": "Transparência sobre o planejamento e feedback fora da gravação",
+      "descricao": "Explica por que adiou um tema, admite que muda de ideia ao longo da semana e pede feedback informal depois de parar a gravação.",
+      "exemplo": "'Eu sempre mudo de ideia ao longo da semana… vou parar de gravar, mas se quiserem tirar dúvida ou dar feedback…'",
+      "ts": "1:30:14"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Faça pré-formulações do caso durante a sessão, não só depois em casa.",
+      "justificativa": "Sem uma noção do todo não se interpreta a fala específica nem se decide o próximo passo (círculo hermenêutico).",
+      "contexto": "Todo atendimento, desde as primeiras sessões.",
+      "competencia": "Formulação de caso",
+      "ts": "0:06:41"
+    },
+    {
+      "dica": "Monte os três níveis do modelo cognitivo sobre o mesmo fenômeno.",
+      "justificativa": "Crenças intermediárias que não derivam do pensamento automático escolhido juntam fenômenos distintos e quebram a lógica da formulação.",
+      "contexto": "Conceitualização cognitiva em TCC.",
+      "competencia": "Formulação de caso",
+      "ts": "0:13:22"
+    },
+    {
+      "dica": "Prefira hipóteses que façam ponte entre dois ou mais fenômenos do caso.",
+      "justificativa": "Explicam mais e não deixam cair as 'bolas' mais interessantes do malabarismo.",
+      "contexto": "Ao escolher entre formulações possíveis.",
+      "competencia": "Formulação de caso",
+      "ts": "0:44:40"
+    },
+    {
+      "dica": "Pergunte 'o que passou pela sua cabeça?' diante de fatos carregados de afeto.",
+      "justificativa": "O fato, por si só, não significa nada; a resposta dá a inflexão do significado.",
+      "contexto": "Relatos factuais ambíguos.",
+      "competencia": "Interpretação",
+      "ts": "0:16:21"
+    },
+    {
+      "dica": "Diferencie pensamento automático (ligado a um fato) de resposta automática (ligada a uma pergunta sua).",
+      "justificativa": "A resposta é produzida pela dialética da conversa e não 'assalta' a pessoa, embora também revele crenças.",
+      "contexto": "Ao selecionar material para a conceitualização.",
+      "competencia": "Interpretação",
+      "ts": "0:20:49"
+    },
+    {
+      "dica": "Antes de nomear crenças, reconstrua o contexto da fala e converta-o numa máxima em primeira pessoa.",
+      "justificativa": "Evita forçar o material dentro das categorias teóricas.",
+      "contexto": "Falas enigmáticas ou provocativas.",
+      "competencia": "Interpretação",
+      "ts": "0:23:39"
+    },
+    {
+      "dica": "Gere pelo menos cinco leituras realmente diferentes para uma fala importante.",
+      "justificativa": "O paciente pode não saber a resposta mais adequada; ter variações permite 'jogar com ele' e afinar.",
+      "contexto": "Falas ambíguas, provocações, frases 'misteriosas'.",
+      "competencia": "Interpretação",
+      "ts": "0:34:28"
+    },
+    {
+      "dica": "Inverta sua hipótese com máximas psicológicas (deflação ↔ inflação; controle ↔ impotência).",
+      "justificativa": "Compensa a unilateralidade da teoria de base e cria possibilidades que ela não mostraria.",
+      "contexto": "Quando só uma leitura vem à cabeça.",
+      "competencia": "Interpretação",
+      "ts": "0:28:37"
+    },
+    {
+      "dica": "Formule o caso antes de decidir sobre proximidade, distância ou encaminhamento.",
+      "justificativa": "Só a formulação diz se a proximidade ajuda ou atrapalha; há quadros em que ela é benéfica e outros em que não é.",
+      "contexto": "Contratransferência intensa, dúvida sobre continuar atendendo.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:42:39"
+    },
+    {
+      "dica": "Não use 'encaminhar' ou 'levar para a sua terapia' como solução clínica.",
+      "justificativa": "É pseudo-resposta: delega o problema e não produz direção. No mínimo, diga o que precisa ser observado.",
+      "contexto": "Supervisão e intervisão.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:42:39"
+    },
+    {
+      "dica": "Diante dos fatos que você descreveu, pergunte 'E daí?'.",
+      "justificativa": "Descrever comportamentos não é interpretar; a pergunta obriga a buscar gênese e sentido.",
+      "contexto": "Quando a formulação só reorganiza o relato.",
+      "competencia": "Formulação de caso",
+      "ts": "0:47:02"
+    },
+    {
+      "dica": "Valide a hipótese pela capacidade de esclarecer falas antes misteriosas e mantenha-a revisável.",
+      "justificativa": "Uma boa formulação destrava momentos obscuros, mas novos dados podem derrubá-la.",
+      "contexto": "Validação de hipóteses.",
+      "competencia": "Formulação de caso",
+      "ts": "0:49:29"
+    },
+    {
+      "dica": "Extraia da formulação uma direção clínica concreta.",
+      "justificativa": "Formular serve para agir. No caso, 'descer do pedestal' e recolocar as expectativas do paciente na realidade ('provavelmente teria acontecido do mesmo jeito').",
+      "contexto": "Fim de toda formulação.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:50:41"
+    },
+    {
+      "dica": "Procure a forma que se repete por trás de conteúdos aparentemente opostos.",
+      "justificativa": "Flerte, ameaça e erudição podem ser a mesma estratégia de capturar a atenção do outro.",
+      "contexto": "Paciente com comportamentos contraditórios em relações diferentes.",
+      "competencia": "Interpretação",
+      "ts": "1:01:29"
+    },
+    {
+      "dica": "Trate como dado clínico o que o paciente desperta em você, inclusive sensações corporais.",
+      "justificativa": "A sensação de ameaça física trouxe uma informação que o relato não continha.",
+      "contexto": "Relações terapêuticas tensionadas.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "1:00:20"
+    },
+    {
+      "dica": "Diante de comportamentos de controle, pergunte que impotência eles tamponam; lembre que quem parece submetido pode estar controlando.",
+      "justificativa": "Máxima de inversão, dialética do senhor e do escravo, contracontrole.",
+      "contexto": "Pacientes dominadores, sedutores, provocadores ou dependentes.",
+      "competencia": "Interpretação",
+      "ts": "1:25:24"
+    },
+    {
+      "dica": "Cuide do que você reforça com sua atenção e varie os referenciais.",
+      "justificativa": "Hipóteses não são inócuas; o paciente aprende a contar a vida nos termos do terapeuta em vez de mudá-la.",
+      "contexto": "Pacientes intelectualizados ou que 'jogam o jogo' da terapia.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:19:44"
+    },
+    {
+      "dica": "Assista a mestres atendendo, não só aos livros deles.",
+      "justificativa": "O livro-texto difere do que os autores fazem; Rogers interpreta e se põe no centro nos vídeos.",
+      "contexto": "Formação do psicólogo.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "1:24:29"
+    },
+    {
+      "dica": "Identifique os distratores do caso e decida conscientemente o que não vai olhar.",
+      "justificativa": "Interpretar é excluir; o que salta aos olhos (dilema ético, relação) pode desviar do centro.",
+      "contexto": "Casos complexos com muitos estímulos.",
+      "competencia": "Priorização clínica",
+      "ts": "1:27:25"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "A formulação de caso acontece durante a sessão, e não só depois, em casa.",
+      "argumento": "Círculo hermenêutico: é preciso uma pré-concepção do todo para interpretar cada fala e decidir o próximo passo.",
+      "contraponto": "A imagem de que se conversa na sessão e se formula depois.",
+      "implicacao": "Treinar pré-figurações rápidas com dados limitados.",
+      "quem": "Alan",
+      "ts": "0:06:41"
+    },
+    {
+      "tese": "A função principal do pensamento automático é hermenêutica; acessar crenças e planejar a intervenção são funções secundárias.",
+      "argumento": "O fato por si só não tem significado; o pensamento automático dá a inflexão (exemplo de Beck).",
+      "contraponto": "Respostas que viam o pensamento automático só como porta de entrada ou ferramenta de intervenção.",
+      "implicacao": "Montar o modelo cognitivo primeiro para interpretar.",
+      "quem": "Alan",
+      "ts": "0:15:31"
+    },
+    {
+      "tese": "O fazer terapêutico, inclusive na TCC, é dialético, e não existe uma realidade última do caso.",
+      "argumento": "Dialética da pergunta e da resposta: o sentido depende da pergunta, e as 'cores' do caso aparecem conforme ela se aprimora.",
+      "contraponto": "O uso 'jogado' da palavra dialética na TCC; a dialética dos Beck é mais próxima da clássica que da heideggeriana.",
+      "implicacao": "Ter várias hipóteses e afiná-las com o paciente.",
+      "quem": "Alan",
+      "ts": "0:33:26"
+    },
+    {
+      "tese": "Sem formulação não se decide se a proximidade é boa ou ruim, e delegar (encaminhar, terapia do terapeuta) é pseudo-resposta.",
+      "argumento": "Há quadros em que a proximidade é terapêutica e outros em que prejudica; delegar transfere o problema.",
+      "contraponto": "A leitura imediata do caso como problema ético ou relacional.",
+      "implicacao": "Formular antes de manejar a contratransferência; no grupo, respostas genéricas são sempre pressionadas.",
+      "quem": "Alan",
+      "ts": "0:42:39"
+    },
+    {
+      "tese": "Interpretar é a arte de encontrar o não óbvio no texto.",
+      "argumento": "Descrever o que está escrito qualquer leitor faz; interpretar é enriquecer o texto e mostrar que fenômenos distintos são o mesmo.",
+      "contraponto": "Formulações que apenas resumem o caso.",
+      "implicacao": "Avaliar formulações pelo que acrescentam ao texto.",
+      "quem": "Alan",
+      "ts": "1:00:20"
+    },
+    {
+      "tese": "O objeto da psicologia se conforma às hipóteses do observador; as hipóteses não são inócuas.",
+      "argumento": "Estudo com sobreviventes do 11 de setembro (visão de mundo determinou a cena lembrada); 'pacientes freudianos têm sonhos freudianos'; a atenção seletiva do terapeuta ensina o paciente o que dizer.",
+      "contraponto": "A crença de que o encaixe perfeito de uma formulação comprova a abordagem.",
+      "implicacao": "Desconfiar do encaixe perfeito e vigiar o que se sinaliza ao paciente.",
+      "quem": "Alan",
+      "ts": "1:16:43"
+    },
+    {
+      "tese": "Em regra, esconder as hipóteses do paciente é inviável; a saída mais sólida é não ser unilateral.",
+      "argumento": "Terapias psicoeducativas querem tornar o paciente terapeuta de si; mesmo sem explicação, o paciente 'saca' o sistema se o terapeuta faz sempre o mesmo.",
+      "contraponto": "Diogo: comportamentalmente, às vezes é melhor manter o obscuro. Alan concede e diz subscrever essa linha alternativa, mas afirma que não é o que diz o livro-texto (Judith Beck).",
+      "implicacao": "Cultivar criatividade clínica e múltiplos referenciais para o paciente não 'ganhar o sistema'.",
+      "quem": "Alan",
+      "ts": "1:21:31"
+    },
+    {
+      "tese": "Tornar-se um bom clínico é deixar de ser unilateral: aprender psicologia é aprender a escala; o fazer é jazz.",
+      "argumento": "Os mestres não seguem o próprio livro-texto (Rogers interpreta e se põe no centro nos vídeos).",
+      "contraponto": "Formação só pelo livro-texto, estruturada e 'certinha'.",
+      "implicacao": "Estudar a estrutura para improvisar; assistir a atendimentos reais.",
+      "quem": "Alan",
+      "ts": "1:23:31"
+    },
+    {
+      "tese": "Interpretar não é observar, é excluir.",
+      "argumento": "Enxergar é excluir o entorno; o processo principal da interpretação é excludente, não criativo, e casos reais vêm cheios de distratores.",
+      "contraponto": "A ideia de que interpretar bem é dar sentido a tudo.",
+      "implicacao": "Treinar a priorização (dar pesos, função sentimento) como competência central.",
+      "quem": "Alan",
+      "ts": "1:26:24"
+    },
+    {
+      "tese": "A formulação estrutural do Diogo não reflete a cosmovisão da análise do comportamento; combina mais com Hegel.",
+      "argumento": "O raciocínio gira em torno de senhor/escravo e dono/brinquedo; o contracontrole skinneriano aparece só em algum nível.",
+      "contraponto": "A previsão do próprio Alan de que toda abordagem encaixaria perfeitamente.",
+      "implicacao": "Ao comparar abordagens, verificar se a formulação usa de fato as premissas da abordagem declarada.",
+      "quem": "Alan",
+      "ts": "1:08:57"
+    },
+    {
+      "tese": "Exercícios hermenêuticos são lentos por natureza.",
+      "argumento": "Imagens e casos ricos convidam a muitos caminhos; na faculdade, interpretar um filme levava meio semestre para chegar ao minuto 15.",
+      "contraponto": "A expectativa de fechar um caso em um encontro.",
+      "implicacao": "Planejar casos para várias semanas, torná-los canônicos e apoiar o treino com ferramentas como agentes de IA.",
+      "quem": "Alan",
+      "ts": "1:15:46"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "A interpretação é rodar em círculos: da parte para o todo, do todo para a parte.",
+      "tema": "Círculo hermenêutico",
+      "ts": "0:06:41"
+    },
+    {
+      "texto": "Se você não tem uma noção de para onde a coisa está indo, não consegue nem interpretar a fala específica da pessoa, nem saber para onde vai no próximo passo.",
+      "tema": "Pré-figuração do caso",
+      "ts": "0:06:41"
+    },
+    {
+      "texto": "O fato, por si só, não tem significado algum.",
+      "tema": "Pensamento automático",
+      "ts": "0:16:21"
+    },
+    {
+      "texto": "Os três níveis do modelo cognitivo têm que ser sobre o mesmo fenômeno.",
+      "tema": "Modelo cognitivo",
+      "ts": "0:13:22"
+    },
+    {
+      "texto": "Não existe uma realidade última para o caso: as cores do caso vão se apresentar conforme você aprimora a sua pergunta.",
+      "tema": "Dialética da pergunta e da resposta",
+      "ts": "0:33:26"
+    },
+    {
+      "texto": "Qualquer resposta genérica, eu sempre vou pressionar.",
+      "tema": "Condução do grupo",
+      "ts": "0:42:39"
+    },
+    {
+      "texto": "Você precisa descer do pedestal, não porque ele te pôs no pedestal, mas porque ele quer subir junto com você.",
+      "tema": "Direção do tratamento",
+      "ts": "0:51:43"
+    },
+    {
+      "texto": "Interpretar é a arte de encontrar o não óbvio no texto.",
+      "tema": "Interpretação",
+      "ts": "1:00:20"
+    },
+    {
+      "texto": "A posição do senhor é uma posição vazia: é uma posição que não sabe.",
+      "tema": "Dialética do senhor e do escravo",
+      "ts": "1:06:39"
+    },
+    {
+      "texto": "Os pacientes freudianos têm sonhos freudianos.",
+      "tema": "Conformação do objeto às hipóteses",
+      "ts": "1:19:44"
+    },
+    {
+      "texto": "Muitas vezes a pessoa não aprende a viver a vida direito; aprende a contar nos termos que o terapeuta quer ouvir.",
+      "tema": "Hipóteses não inócuas",
+      "ts": "1:20:49"
+    },
+    {
+      "texto": "Parte do que é se tornar um bom clínico é deixar de ser tão unilateral.",
+      "tema": "Formação do psicólogo",
+      "ts": "1:23:31"
+    },
+    {
+      "texto": "Aprender psicologia é aprender a escala; o fazer é jazz: você está improvisando.",
+      "tema": "Formação do psicólogo",
+      "ts": "1:23:31"
+    },
+    {
+      "texto": "Interpretar não é observar, é excluir.",
+      "tema": "Priorização clínica",
+      "ts": "1:26:24"
+    },
+    {
+      "texto": "Interpretar não é dar sentido para tudo; é saber as coisas que você não vai enxergar, justamente para focar naquilo que realmente importa.",
+      "tema": "Priorização clínica",
+      "ts": "1:28:17"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Por que perguntar 'o que passou pela sua cabeça?'",
+      "mensagem": "O fato não tem significado sozinho; o pensamento automático dá a inflexão de sentido.",
+      "roteiro": [
+        "Slide 1: 'Minha esposa saiu sem se despedir.' O que isso significa?",
+        "Slide 2: Nada, ainda. É só um fato.",
+        "Slide 3: 'Estou culpado, saí ontem à noite' → culpa",
+        "Slide 4: 'Ela tinha uma reunião' → quase nada",
+        "Slide 5: 'Meu casamento acabou' → ruptura",
+        "Slide 6: A pergunta sobre o pensamento serve primeiro para interpretar, depois para intervir"
+      ],
+      "corte_inicio": "0:16:21",
+      "corte_fim": "0:18:01"
+    },
+    {
+      "formato": "reels",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Interpretar não é observar, é excluir.",
+      "mensagem": "O bom clínico sabe o que não vai olhar; os distratores de um caso roubam o raciocínio.",
+      "roteiro": [
+        "Cena 1: enxergar algo é excluir tudo ao redor",
+        "Cena 2: casos vêm cheios de distratores",
+        "Cena 3: dar pesos (priorizar) é a competência central"
+      ],
+      "corte_inicio": "1:26:24",
+      "corte_fim": "1:28:17"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Pacientes freudianos têm sonhos freudianos.",
+      "mensagem": "As hipóteses do terapeuta não são inócuas: a atenção seletiva ensina o paciente a falar a língua da abordagem.",
+      "roteiro": [
+        "Slide 1: a frase-gancho",
+        "Slide 2: o relato do estudo com sobreviventes do 11 de setembro (visão de mundo molda a lembrança)",
+        "Slide 3: o que o terapeuta presta atenção vira reforço",
+        "Slide 4: o risco é o paciente aprender a contar, não a viver",
+        "Slide 5: saídas: transparência possível e não unilateralidade"
+      ],
+      "corte_inicio": "1:17:48",
+      "corte_fim": "1:21:31"
+    },
+    {
+      "formato": "post",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Aprender é escala; atender é jazz.",
+      "mensagem": "O livro-texto ensina a estrutura, mas os mestres improvisam; assista a atendimentos reais (Rogers interpreta).",
+      "roteiro": [
+        "Imagem: partitura × improviso",
+        "Legenda: por que o que está no livro difere do que os autores fazem"
+      ],
+      "corte_inicio": "1:23:31",
+      "corte_fim": "1:25:12"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "abordagens-em-dialogo",
+      "gancho": "Quem controla quem? Hegel, Nietzsche e o rato de Skinner.",
+      "mensagem": "Nas relações de controle, quem parece mandar muitas vezes é quem depende; todo controle envolve contracontrole.",
+      "roteiro": [
+        "Slide 1: gancho",
+        "Slide 2: Nietzsche: o escravo domina pela inação",
+        "Slide 3: Hegel: o senhor é quem não sabe (exemplo da planilha financeira)",
+        "Slide 4: Skinner: o rato que controla o sorriso do experimentador",
+        "Slide 5: pergunta clínica: que impotência esse controle tampona?"
+      ],
+      "corte_inicio": "1:03:58",
+      "corte_fim": "1:09:52"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Cinco leituras para a mesma frase: um exercício de criatividade clínica.",
+      "mensagem": "No aprimoramento, treinamos gerar hipóteses realmente diferentes; leitura repetida não vale.",
+      "roteiro": [
+        "Slide 1: uma frase inventada ('você finge que não entende')",
+        "Slide 2: leitura 1: manipulação",
+        "Slide 3: leitura 2: idealização (deflação)",
+        "Slide 4: leitura 3: inversão (inflação)",
+        "Slide 5: leituras 4 e 5: fuga e desespero",
+        "Slide 6: convite para o grupo"
+      ],
+      "corte_inicio": "0:26:04",
+      "corte_fim": "0:28:37"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Aaron Beck",
+      "contexto": "Exemplo da esposa que sai sem se despedir, para mostrar a função do pensamento automático; possivelmente citado também na discussão sobre transparência (?)."
+    },
+    {
+      "nome": "Judith Beck",
+      "contexto": "Referência ao livro-texto da TCC: não endossaria esconder as hipóteses do paciente; dialética na TCC mais próxima da clássica (identificação provável)."
+    },
+    {
+      "nome": "Martin Heidegger",
+      "contexto": "Dialética da pergunta e da resposta como referência para quem estuda dialética a fundo."
+    },
+    {
+      "nome": "Hans-Georg Gadamer",
+      "contexto": "Idem, dialética hermenêutica da pergunta e da resposta."
+    },
+    {
+      "nome": "G. W. F. Hegel",
+      "contexto": "Dialética do senhor e do escravo: o senhor é aquele a quem falta."
+    },
+    {
+      "nome": "Friedrich Nietzsche",
+      "contexto": "Dialética do senhor e do escravo e crítica à moral cristã como moral de escravos."
+    },
+    {
+      "nome": "B. F. Skinner",
+      "contexto": "Meme do rato que controla o experimentador: todo controle envolve contracontrole."
+    },
+    {
+      "nome": "Sigmund Freud",
+      "contexto": "'Pacientes freudianos têm sonhos freudianos'; princípio freudiano citado por Diogo (trecho confuso)."
+    },
+    {
+      "nome": "Carl Rogers",
+      "contexto": "Nos vídeos de atendimento, interpreta e se põe no centro, ao contrário do que o livro-texto ensina."
+    },
+    {
+      "nome": "Carl Jung",
+      "contexto": "Função sentimento (dar pesos, priorizar) e enantiodromia, via 'junguianos'."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Aprimoramento Clínico (Alan)",
+    "objetivo": "Treinar competências clínicas por meio de teoria mais exercício; neste bloco, interpretação e formulação de caso com um caso trabalhado ao longo de vários encontros.",
+    "publico": "Psicólogos e estudantes de abordagens diferentes (TCC, análise do comportamento, psicanálise etc.).",
+    "tamanho": "Grupo pequeno online (em torno de 5 a 10 participantes ativos; estimativa pela transcrição).",
+    "duracao": "Cerca de 1h30 gravada, mais conversa informal depois da gravação.",
+    "estrutura_padrao": "Normalmente breve teoria → exercício → comentários finais. Neste encontro, invertido: formulações dos participantes → correção com teoria embutida → micro-exercícios → novas formulações → lições finais → prévia do próximo tema.",
+    "papel_facilitador": "Propõe o caso (às vezes em role-play como terapeuta), provoca, pressiona respostas genéricas, reestrutura as falas, corrige oferecendo alternativas, introduz teoria no momento em que o erro aparece, faz previsões e sintetiza as lições.",
+    "regras_combinados": "Tarefas escritas entre encontros (podem ser enviadas por quem vai faltar); respostas genéricas ou delegadas não valem no grupo; metas de quantidade em exercícios de hipótese; leituras repetidas não contam; microfone e chat para participar; feedback e dúvidas depois de parar a gravação; encontros semanais (menção a quinta-feira)."
+  },
+  "reflexoes_do_facilitador": [
+    "Inverteu conscientemente a estrutura habitual (teoria → exercício) para ver os participantes se arriscarem primeiro.",
+    "Reconhece que no encontro anterior foi 'particularmente defensivo' no papel do terapeuta e que o tom da intervisão virou uma problematização da relação.",
+    "Admite uma lacuna no seu repertório: só recentemente descobriu como funciona a interpretação na abordagem centrada na pessoa (transcrito 'CP' (?)), que não aparece no seu vídeo sobre hermenêutica.",
+    "Fez uma previsão pública (a formulação de outra abordagem também encaixaria perfeitamente) e reconheceu que ela não se confirmou: a leitura do Diogo combinava mais com Hegel.",
+    "Considera exercícios hermenêuticos lentos por natureza e admite que não gosta tanto de exercícios de interpretação porque são longos; ter de quebrar o caso semana a semana tem custo.",
+    "Pretende transformar o caso em 'caso canônico' e montar agentes de IA para exercícios de interpretação com mais tempo e estrutura.",
+    "Adiou a introdução dos esquemas de aprofundamento porque poucos fizeram a parte escrita e só um esquema apareceu.",
+    "Diz que sempre muda de ideia sobre o planejamento ao longo da semana."
+  ],
+  "referencias_a_outros_encontros": [
+    "Continuação direta de Alan 12 - Formulação de caso 1 (caso narrado em role-play e discutido como intervisão na semana anterior).",
+    "Anuncia para o encontro seguinte (possivelmente na quinta-feira) um exercício sobre esquemas de aprofundamento, com pouca teoria, talvez contando a próxima sessão do caso ou um caso novo (ver Alan 06 - Esquemas de aprofundamento).",
+    "A lição 'interpretar é excluir / dar pesos (função sentimento)' prepara Alan 14 - Priorização clínica 1.",
+    "Menção ao vídeo de Alan sobre hermenêutica no YouTube.",
+    "O caso será mantido como caso canônico para exercícios de interpretação."
+  ],
+  "observacoes": "Legenda automática com ruído; correções prováveis: 'Arombeck' = Aaron Beck; 'Gadner' = Gadamer; 'Regel' = Hegel; 'Niet' = Nietzsche; 'antiodromia' = enantiodromia; 'PCC/DCC' = TCC; 'metáfora do reis' interpretada como metáfora do jazz. Incertos: 'CP' (provavelmente ACP), 'a Beck'/'Anderian' (provavelmente Judith e Aaron Beck), o esquema 'ini' (provavelmente linear) e o 'princípio freudiano' citado por Diogo. O caso clínico (real alterado, com personagem ficcional, segundo Alan 12) foi anonimizado: sem nomes, cidades ou falas literais do personagem. Diogo aparece aqui como participante (análise do comportamento), mas é nomeado por ser figura recorrente da Allos. O estudo do 11 de setembro foi citado de memória, sem fonte."
+}

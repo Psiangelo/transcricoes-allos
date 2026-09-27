@@ -1,0 +1,149 @@
+---
+tipo: "moc"
+tags: ["moc"]
+---
+
+# MOC — Abordagens e Autores
+
+## Abordagens
+- [[Abordagem centrada na pessoa]] · 25 fontes
+- [[Análise do comportamento]] · 32 fontes
+- [[Fenomenologia e existencialismo]] · 15 fontes
+- [[Gestalt-terapia]] · 30 fontes
+- [[Psicanálise freudiana]] · 54 fontes
+- [[Psicanálise lacaniana]] · 40 fontes
+- [[Psicodrama]] · 8 fontes
+- [[Psicologia adleriana]] · 1 fontes
+- [[Psicologia analítica junguiana]] · 34 fontes
+- [[Psicologia arquetípica]] · 1 fontes
+- [[Psicologia individual adleriana]] · 2 fontes
+- [[Psicologia social]] · 1 fontes
+- [[Psicologia sócio-histórica]] · 2 fontes
+- [[Terapia cognitivo-comportamental]] · 39 fontes
+- [[Terapia do esquema]] · 0 fontes
+- [[Terapia racional-emotiva comportamental]] · 1 fontes
+- [[Terapia sistêmica]] · 9 fontes
+- [[Terapias contextuais]] · 30 fontes
+
+## Autores (por nº de fontes)
+- [[Sigmund Freud]] · 35
+- [[Carl Jung]] · 34
+- [[Jacques Lacan]] · 27
+- [[Carl Rogers]] · 15
+- [[Fritz Perls]] · 15
+- [[Scott D. Miller]] · 10
+- [[Jacob Levy Moreno]] · 9
+- [[Alfred Adler]] · 8
+- [[Friedrich Nietzsche]] · 8
+- [[Judith Beck]] · 7
+- [[Steven Hayes]] · 7
+- [[Aaron Beck]] · 6
+- [[Aristóteles]] · 6
+- [[B. F. Skinner]] · 6
+- [[G. W. F. Hegel]] · 6
+- [[Karl Marx]] · 6
+- [[Fiódor Dostoiévski]] · 5
+- [[Slavoj Žižek]] · 5
+- [[Edgar Allan Poe]] · 4
+- [[Immanuel Kant]] · 4
+- [[Jacques-Alain Miller]] · 4
+- [[Michel Foucault]] · 4
+- [[Bruce Wampold]] · 3
+- [[Gilles Deleuze]] · 3
+- [[Hans-Georg Gadamer]] · 3
+- [[Marco Aurélio]] · 3
+- [[Martin Heidegger]] · 3
+- [[Albert Camus]] · 2
+- [[Albert Ellis]] · 2
+- [[Anders Ericsson]] · 2
+- [[Antonio Quinet]] · 2
+- [[Arthur Schopenhauer]] · 2
+- [[Chris Voss]] · 2
+- [[Christian Dunker]] · 2
+- [[Daniel Kahneman]] · 2
+- [[Guilherme de Ockham]] · 2
+- [[Irvin Yalom]] · 2
+- [[James Prochaska]] · 2
+- [[Jean-Paul Sartre]] · 2
+- [[Marie-Louise von Franz]] · 2
+- [[Michael Lambert]] · 2
+- [[Nassim Nicholas Taleb]] · 2
+- [[Platão]] · 2
+- [[Wilhelm Dilthey]] · 2
+- [[William James]] · 2
+- [[Zac Imel]] · 2
+- [[Abdias Nascimento]] · 1
+- [[Achille Mbembe]] · 1
+- [[Agatha Christie]] · 1
+- [[Alexandre Kaitel ()]] · 1
+- [[Andreas Lehmann]] · 1
+- [[Angela Davis]] · 1
+- [[Antoine de Saint-Exupéry]] · 1
+- [[Barbara Hannah]] · 1
+- [[Benjamin Ogles]] · 1
+- [[Brooke Macnamara]] · 1
+- [[Caitel ()]] · 1
+- [[Carlos Drummond de Andrade]] · 1
+- [[Catherine Eubanks ()]] · 1
+- [[Charles Darwin]] · 1
+- [[Claude Lévi-Strauss]] · 1
+- [[Contardo Calligaris]] · 1
+- [[Dante Alighieri]] · 1
+- [[David Barlow]] · 1
+- [[David Hambrick]] · 1
+- [[David Saxon]] · 1
+- [[Donald Winnicott]] · 1
+- [[Edmund Husserl]] · 1
+- [[Edward Bordin]] · 1
+- [[Emiliano de Camargo David]] · 1
+- [[Epicteto]] · 1
+- [[Ernest Hemingway]] · 1
+- [[Esopo]] · 1
+- [[Frederick Oswald]] · 1
+- [[Gabriel Tupinambá]] · 1
+- [[Gustave Le Bon]] · 1
+- [[Hannah Fry]] · 1
+- [[Hans Eysenck]] · 1
+- [[Heráclito]] · 1
+- [[Irmãos Grimm]] · 1
+- [[Ivan Pavlov]] · 1
+- [[J. R. R. Tolkien]] · 1
+- [[James Clerk Maxwell]] · 1
+- [[James George Frazer]] · 1
+- [[James Hillman]] · 1
+- [[James Joyce]] · 1
+- [[Jean Piaget]] · 1
+- [[Johan Huizinga]] · 1
+- [[Jonathan Shedler]] · 1
+- [[Jordan Peterson]] · 1
+- [[Joseph Campbell]] · 1
+- [[João Guimarães Rosa]] · 1
+- [[Judith Butler]] · 1
+- [[Lev Vigotski]] · 1
+- [[Lev Vygotsky]] · 1
+- [[Liev Tolstói]] · 1
+- [[Manuel DeLanda]] · 1
+- [[Marcel Proust]] · 1
+- [[Marilena Chaui]] · 1
+- [[Marsha Linehan]] · 1
+- [[Michael Barkham]] · 1
+- [[Milton Friedman ()]] · 1
+- [[Neil Hilborn]] · 1
+- [[Oliver Sacks]] · 1
+- [[Paul Ricoeur]] · 1
+- [[Paulo Dalgalarrondo]] · 1
+- [[Paulo Freire]] · 1
+- [[Paulo de Tarso]] · 1
+- [[Pedro Abelardo]] · 1
+- [[Pim Cuijpers]] · 1
+- [[Richard Wagner]] · 1
+- [[Robert Pool]] · 1
+- [[Robson ()]] · 1
+- [[Steven Pinker]] · 1
+- [[Sueli Carneiro]] · 1
+- [[Sándor Ferenczi]] · 1
+- [[Søren Kierkegaard]] · 1
+- [[Tomás de Aquino]] · 1
+- [[Wilfred Bion]] · 1
+- [[Zygmunt Bauman]] · 1
+- [[Émile Durkheim]] · 1

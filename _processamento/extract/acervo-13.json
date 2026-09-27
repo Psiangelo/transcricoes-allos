@@ -1,0 +1,808 @@
+{
+  "id": "acervo-13",
+  "nota": "Acervo 13 - Gincana de esquemas de aprofundamento com paciente simulado",
+  "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+  "titulo": "Gincana de esquemas de aprofundamento com paciente simulado",
+  "serie": "Aprimoramento Clínico (Acervo)",
+  "formato": "Aprimoramento clínico",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Encontro sobre construção de casos em que o facilitador (identificado como Alan pelas falas dos participantes) interpreta um paciente simulado difícil de aprofundar: um homem que fala muito em abstrações para não dizer nada. Três duplas só podem intervir segundo um esquema de aprofundamento imposto: raio (gancho na última fala), X da questão (círculos concêntricos, em torno de um centro definido) ou pente (temas adjacentes, como numa anamnese). A cada pausa, as duplas propõem perguntas, o facilitador comenta aderência, raciocínio e fraseamento, e uma juíza escolhe qual intervenção conduz o caso. Ao longo das cinco rodadas aparecem teses sobre o deslocamento do centro do caso, a subida para a forma no pente, a suavização por explicitar o raciocínio e a intensificação por acusar a hipótese, e o paciente 'personagem' (caso Glória). O fechamento compara os esquemas, revela o problema oculto do caso (um relacionamento amoroso) e traz a autocrítica do facilitador: usaria um caso mais simples e próximo de uma dor real.",
+  "em_uma_frase": "Uma gincana em que cada dupla só pode perguntar segundo um esquema de aprofundamento (raio, X ou pente), diante do facilitador no papel de paciente simulado, mostra na prática como a estrutura das perguntas muda a informação obtida e a qualidade das intervenções.",
+  "competencias": [
+    "Aprofundamento",
+    "Escuta clínica",
+    "Intervenção",
+    "Construção frasal",
+    "Formulação de caso",
+    "Pessoa do terapeuta"
+  ],
+  "abordagens": [
+    "Gestalt-terapia",
+    "Terapia cognitivo-comportamental"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:10",
+      "bloco": "Abertura",
+      "descricao": "Apresenta duas propostas para trabalhar construção de casos. Deixa registrada a primeira (caso escrito com pausas para decisão clínica) para quem quiser reaproveitar e escolhe a segunda: esquemas de aprofundamento. Tese: o difícil é escutar; captado o essencial, o caso se constrói.",
+      "funcao": "Transparência sobre o desenho didático e formação de futuros facilitadores.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:02:09",
+      "bloco": "Combinados",
+      "descricao": "Pede microfones abertos (câmera opcional) e forma três duplas.",
+      "funcao": "Garantir participação ativa, pré-requisito da gincana.",
+      "duracao_min": 1.5
+    },
+    {
+      "ts": "0:03:31",
+      "bloco": "Retomada",
+      "descricao": "Atribui um esquema a cada dupla (raio, X da questão/circunscrição, pente) e relembra a regra operacional de cada um. Objetivo: observar como a regra muda a qualidade das intervenções.",
+      "funcao": "Ativar em poucos minutos a teoria já vista (Alan 06).",
+      "duracao_min": 4.5
+    },
+    {
+      "ts": "0:08:10",
+      "bloco": "Combinados",
+      "descricao": "Explica a mecânica: um participante chama as pausas, cada dupla propõe uma pergunta e uma juíza (pelo chat) escolhe a que conduz o caso. Diz que está adaptando ao online uma dinâmica presencial.",
+      "funcao": "Distribuir funções, inclusive a quem está sem microfone.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:10:19",
+      "bloco": "Demonstração",
+      "descricao": "Início do roleplay: o facilitador como paciente preocupado com o mundo e com medo de estar 'ficando maluco' de tanto pensar.",
+      "funcao": "Fornecer material vivo.",
+      "duracao_min": 1.5
+    },
+    {
+      "ts": "0:11:46",
+      "bloco": "Rodada de respostas",
+      "descricao": "Rodada 1. Raio devolve 'Maluco?'. X escolhe 'preocupação com o futuro'. Pente pergunta pelo efeito no dia a dia. O facilitador descarta uma proposta não aderente ao pente. A juíza escolhe uma proposta do raio.",
+      "funcao": "Exercitar e checar a aderência à regra.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:17:50",
+      "bloco": "Demonstração",
+      "descricao": "O paciente fala dos filósofos 'malucos' e do medo de ser tido como louco.",
+      "funcao": "Nova camada do caso.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:19:01",
+      "bloco": "Feedback",
+      "descricao": "Rodada 2 com feedback sobre o deslocamento do X (da preocupação para a imagem diante dos outros) e sobre o pente bem-feito (investigar se a mesma forma aparece em outro âmbito).",
+      "funcao": "Ensinar a ler a mudança de centro e a 'base do pente'.",
+      "duracao_min": 7.5
+    },
+    {
+      "ts": "0:26:44",
+      "bloco": "Demonstração",
+      "descricao": "Entra a intervenção do X ('o que te faz pensar que esses são os únicos exemplos?'); o paciente fala de dissidência, rock e ruptura.",
+      "funcao": "Continuidade do caso.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:28:31",
+      "bloco": "Feedback",
+      "descricao": "Rodada 3. Pede o raciocínio de cada dupla, distingue raio de pente e comenta a suavização por explicitar o raciocínio. Pergunta de segunda ordem: a cautela vem do caso ou do terapeuta?",
+      "funcao": "Ligar técnica e pessoa do terapeuta.",
+      "duracao_min": 9.5
+    },
+    {
+      "ts": "0:37:56",
+      "bloco": "Demonstração",
+      "descricao": "Entra a pergunta da dupla do raio; o paciente diz que sempre se sentiu na época errada.",
+      "funcao": "Continuidade do caso.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:39:07",
+      "bloco": "Feedback",
+      "descricao": "Rodada 4. A juíza reclama que ninguém retoma o que se repete, e o facilitador explica como cada esquema lida com a retomada. Pergunta 'qual é o centro do caso até aqui?' e orienta a escolher o âmbito de maior tensão (e não o conservador).",
+      "funcao": "Mostrar limites dos esquemas e critério de escolha do âmbito.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "0:47:05",
+      "bloco": "Demonstração",
+      "descricao": "Entra a pergunta do X ('o que pensariam de você se participasse da sociedade?'); o paciente se descreve como 'um monstro' num mundo louco.",
+      "funcao": "Ponto de maior tensão do caso.",
+      "duracao_min": 2.5
+    },
+    {
+      "ts": "0:49:37",
+      "bloco": "Feedback",
+      "descricao": "Rodada 5. O paciente 'personagem' e o caso Glória. Jogo rápido de formulações para uma participante travada. Transformar a hipótese em acusação, potência de intervenção e subir para a forma antes de ir ao próximo âmbito.",
+      "funcao": "Treinar a passagem da hipótese à frase e calibrar a intensidade.",
+      "duracao_min": 14
+    },
+    {
+      "ts": "1:03:53",
+      "bloco": "Discussão",
+      "descricao": "Encerra as rodadas e explica o desafio: pacientes que falam pouco e pacientes que falam muito para não dizer nada.",
+      "funcao": "Nomear o problema clínico simulado.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "1:05:45",
+      "bloco": "Feedback",
+      "descricao": "Comentários por dupla: o pente nunca foi escolhido pela juíza; revela o problema oculto do caso (um relacionamento amoroso); as duas conduções do X; o raio com conexão pela forma.",
+      "funcao": "Feedback individualizado com tarefa sob medida.",
+      "duracao_min": 10
+    },
+    {
+      "ts": "1:15:49",
+      "bloco": "Fechamento",
+      "descricao": "Autocrítica (usaria um caso mais simples e mais próximo de uma dor real) e valor do 'treino com uma mão amarrada nas costas'. Para a gravação para ouvir críticas.",
+      "funcao": "Modelar a revisão da própria condução.",
+      "duracao_min": 2
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Esquemas de aprofundamento",
+      "definicao": "Desenhos mentais que estruturam o encadeamento das perguntas do terapeuta. Aqui são treinados como regras rígidas de uma gincana, para evidenciar como a estrutura da pergunta muda a informação obtida.",
+      "exemplo": "Três duplas, cada uma presa a um esquema, intervindo no mesmo paciente simulado.",
+      "abordagem": "",
+      "ts": "0:04:33"
+    },
+    {
+      "nome": "Esquema do raio",
+      "definicao": "Perguntar sempre a partir de um gancho da fala imediatamente anterior do paciente, aprofundando sem voltar a conteúdos anteriores. É o mais próximo da conversa natural, mais fluido e em geral mais potente, mas é difícil conectá-lo ao caso inteiro.",
+      "exemplo": "Devolver 'Maluco?' quando o paciente diz que está ficando maluco.",
+      "abordagem": "",
+      "ts": "0:05:37"
+    },
+    {
+      "nome": "Esquema de círculos concêntricos",
+      "definicao": "Chamado aqui de 'X da questão' ou 'circunscrição': definir um ponto central (tema da sessão, objetivo do tratamento) e fazer todas as perguntas em torno dele, não importa para onde o caso vá. Dá segurança, mas tende a repetir a mesma pergunta com outra embalagem.",
+      "exemplo": "Centro 'preocupação com o futuro' que se desloca para 'a imagem diante dos outros'.",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "0:05:37"
+    },
+    {
+      "nome": "Esquema do pente",
+      "definicao": "Abrir sempre um tema adjacente ou paralelo e aprofundar um pouco nele, como numa anamnese. Bem-feito, sobe para a 'base do pente', a forma comum que atravessa vários âmbitos da vida. É o mais difícil e o que a conversa natural menos favorece.",
+      "exemplo": "Perguntar se é só a filosofia que afasta o paciente das pessoas ou se outras coisas na vida o fazem sentir-se sozinho.",
+      "abordagem": "",
+      "ts": "0:06:38"
+    },
+    {
+      "nome": "Centro gravitacional do caso",
+      "definicao": "O núcleo para o qual as falas do paciente convergem. Quando o terapeuta percebe que o centro se deslocou, é provável que ali esteja a intervenção mais interessante.",
+      "exemplo": "O medo de enlouquecer revela-se medo de ser visto como louco.",
+      "abordagem": "",
+      "ts": "1:09:30"
+    },
+    {
+      "nome": "Referente imediato",
+      "definicao": "A fala imediatamente anterior do paciente usada como gancho. É muito mais difícil de ligar ao caso inteiro do que qualquer conteúdo da sessão, mas costuma gerar intervenções mais potentes e fluidas.",
+      "exemplo": "A dupla do raio sente-se presa quando o paciente passa 30 segundos redundante.",
+      "abordagem": "",
+      "ts": "1:12:33"
+    },
+    {
+      "nome": "Forma e conteúdo",
+      "definicao": "Conectar-se ao conteúdo da fala atual por meio de uma forma (padrão) que acompanha o caso inteiro, em vez de voltar a conteúdos antigos. Permite manter o raio sem perder a coerência do caso.",
+      "exemplo": "Ligar a última fala ao padrão de afastamento que atravessa o atendimento.",
+      "abordagem": "",
+      "ts": "1:13:43"
+    },
+    {
+      "nome": "Explicitação do raciocínio",
+      "definicao": "Mostrar ao paciente como se chegou à intervenção. É a maneira mais fácil de suavizá-la, porque evita que ela seja um susto.",
+      "exemplo": "O 'prefácio' de um participante antes de apontar a contradição do paciente.",
+      "abordagem": "",
+      "ts": "0:33:10"
+    },
+    {
+      "nome": "Hipótese implícita",
+      "definicao": "A hipótese do terapeuta pode ser dita como pergunta ou transformada em acusação. A acusação é o outro lado da moeda da explicitação: torna a intervenção mais agressiva e potencialmente mais potente, com consequências a manejar.",
+      "exemplo": "'Você me parece um sujeito bastante pós-moderno.'",
+      "abordagem": "",
+      "ts": "0:57:39"
+    },
+    {
+      "nome": "Intensidade da intervenção",
+      "definicao": "Grau de agressividade percebida de uma intervenção. Pode ser atenuada ou intensificada mantendo o mesmo conteúdo, e cresce com o grau de surpresa do raciocínio.",
+      "exemplo": "Exercício de potência de intervenção: atenuar a mesma frase até ficar 'tranquilinha' e depois torná-la mais direta.",
+      "abordagem": "",
+      "ts": "0:58:51"
+    },
+    {
+      "nome": "Discurso pronto",
+      "definicao": "O paciente 'personagem' conta o que se acostumou a dizer sobre o que sente, e não o que sente, porque já repetiu e raciocinou demais sobre aquilo. Perguntas previsíveis só devolvem mais do mesmo.",
+      "exemplo": "Paciente simulado que fala de sociedade, modernidade e filosofia para não falar do problema concreto.",
+      "abordagem": "",
+      "ts": "0:50:31"
+    },
+    {
+      "nome": "Racionalização",
+      "definicao": "Excesso de elaboração intelectual que cria o personagem e dificulta o aprofundamento. É o problema típico de pacientes que racionalizam demais.",
+      "exemplo": "Referências filosóficas usadas como escudo.",
+      "abordagem": "",
+      "ts": "0:50:31"
+    },
+    {
+      "nome": "Caso Glória",
+      "definicao": "Gravação clássica em que Fritz Perls provoca a paciente até ela sair do personagem e ficar com raiva, momento em que diz que o atendimento de fato começou. Serve de modelo de lógica, não de estilo.",
+      "exemplo": "'Agora eu estou te vendo; antes era só um personagem.'",
+      "abordagem": "Gestalt-terapia",
+      "ts": "0:59:55"
+    },
+    {
+      "nome": "Anamnese",
+      "definicao": "Exemplo caricato do esquema do pente. Falha quando passa de assunto em assunto sem costura, sem o momento de reaproximar a ideia inicial.",
+      "exemplo": "Analogia com parágrafos que retomam a ideia inicial de um texto.",
+      "abordagem": "",
+      "ts": "1:03:53"
+    },
+    {
+      "nome": "Contradição performática",
+      "definicao": "Quando o paciente se põe sozinho em contradição, o confronto fica mais potente, porque não parece imposto. Mas esperar por esse momento pode encobrir insegurança do terapeuta para se posicionar.",
+      "exemplo": "Participante que prefere não confrontar para que o paciente 'se coloque na sinuca de bico' sozinho.",
+      "abordagem": "",
+      "ts": "0:35:25"
+    },
+    {
+      "nome": "Caso simulado em camadas",
+      "definicao": "Caso fictício montado com uma primeira isca que chama atenção e leva a uma segunda e a uma terceira possibilidade, com um problema de fundo oculto. Basear-se numa pessoa real permite improvisar coerentemente.",
+      "exemplo": "O discurso sobre sociedade escondia um problema com a ex-companheira.",
+      "abordagem": "",
+      "ts": "1:06:37"
+    },
+    {
+      "nome": "Treino com restrição",
+      "definicao": "Exercitar com repertório propositalmente limitado ('uma mão amarrada nas costas') para tornar visível uma habilidade e forçar o trabalho de linguagem, corpo e expressividade.",
+      "exemplo": "Cada dupla só pode usar um esquema de pergunta.",
+      "abordagem": "",
+      "ts": "1:16:54"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Gincana de esquemas de aprofundamento",
+      "objetivo": "Mostrar como a estrutura das perguntas (esquema de aprofundamento) muda a informação obtida e a qualidade das intervenções, e expor forças e fraquezas de cada esquema.",
+      "competencias": [
+        "Aprofundamento",
+        "Escuta clínica",
+        "Intervenção",
+        "Construção frasal"
+      ],
+      "configuracao": "Online; três duplas com microfone aberto (câmera opcional); o facilitador é o paciente simulado; um participante chama as pausas; uma participante sem microfone atua como juíza pelo chat; quem não tem microfone pode integrar uma dupla pelo chat.",
+      "tempo": "Cerca de 55 min de rodadas (5 rodadas) mais 12 min de síntese.",
+      "materiais": "Caso fictício preparado em camadas, com semirroteiro e problema de fundo oculto; desenhos dos esquemas de aprofundamento.",
+      "consigna": "Vocês vão ser divididos em duplas e cada dupla só pode fazer perguntas de um tipo. Raio: perguntem com base num gancho da minha fala imediatamente anterior. X: definam um ponto central; todas as perguntas têm de circundar esse X, não importa para onde o caso vá. Pente: peguem sempre um tema adjacente e aprofundem um pouquinho nele. Eu vou ser o paciente; quando alguém chamar a pausa, cada dupla manda a pergunta que acha mais interessante. Observem como a regra muda a qualidade das intervenções.",
+      "passos": [
+        "Atribuir um esquema a cada dupla, de forma intencional (quem tem dificuldade com o referente imediato fica no raio).",
+        "Relembrar em uma ou duas frases a regra de cada esquema e tirar dúvidas.",
+        "Definir quem chama as pausas e quem escolhe a intervenção (juíza).",
+        "Um participante abre o atendimento e o facilitador-paciente fala 1 a 2 minutos.",
+        "Pausa: cada dupla discute (chat ou voz) e propõe uma pergunta.",
+        "Após cada proposta, o facilitador comenta aderência, raciocínio e reformulação possível.",
+        "A juíza escolhe; a intervenção é dita na segunda pessoa com o fraseamento e o tom de quem a propôs; o paciente responde e o ciclo recomeça.",
+        "Após 4 a 5 rodadas, síntese por dupla e revelação do problema de fundo do caso."
+      ],
+      "feedback": "Critérios: aderência ao esquema ('você não foi aderente ao pente', 'voltou muito, tem que ser mais imediato'); raciocínio explícito ('me explica o seu raciocínio'); leitura do centro do caso; fraseamento ('gostei da ideia, não da execução'); potência e grau de tensão da escolha do âmbito; consciência da decisão.",
+      "exemplos_praticos": "Na rodada 1, o raio devolveu uma palavra, o X ficou em 'preocupação com o futuro' e uma proposta do pente foi descartada por não aderir. Na rodada 2, o X se deslocou para a imagem diante dos outros e o melhor pente perguntou se o afastamento aparecia fora da filosofia. Na rodada 4, a juíza reclamou que ninguém retomava repetições, e o facilitador mostrou que era efeito das regras. Na rodada 5, uma participante travada ganhou um jogo rápido de formulações. O pente nunca foi escolhido pela juíza.",
+      "variacoes": "Continuar o mesmo caso na semana seguinte para que ele avance. Presencialmente é mais fácil. Usar um caso mais simples e mais próximo de uma dor emocional, talvez de uma vivência de quem interpreta.",
+      "armadilhas": "O tempo de discussão entre as falas espaça o atendimento e prejudica a escuta. Com um paciente muito abstrato, o grupo se cansa e perde o centro. O facilitador subestimou a dificuldade.",
+      "nivel": "avançado",
+      "funciona_online": true,
+      "ts": "0:03:31"
+    },
+    {
+      "nome": "Dinâmica - Jogo rápido de formulações",
+      "objetivo": "Destravar quem tem uma hipótese mas não consegue transformá-la em intervenção, mostrando que a mesma hipótese admite formulações de intensidades muito diferentes.",
+      "competencias": [
+        "Construção frasal",
+        "Intervenção"
+      ],
+      "configuracao": "Facilitador e um participante, diante do grupo; online.",
+      "tempo": "3 a 5 min.",
+      "materiais": "Nenhum.",
+      "consigna": "Não precisa ser o que você acha; estou avaliando sua capacidade de transformar isso numa intervenção agora. Diga sua hipótese numa frase, simplificando. Vamos tentar formular umas dez.",
+      "passos": [
+        "O participante resume a hipótese em uma frase.",
+        "O facilitador dá um exemplo curto e direto.",
+        "Pergunta se o exemplo captura a hipótese.",
+        "Oferece variações (com referência cultural, confrontativa, acusatória).",
+        "Comenta como cada uma muda a intensidade."
+      ],
+      "feedback": "Separa a validade da hipótese da habilidade de formular; mostra a gradação de intensidade entre as formulações.",
+      "exemplos_praticos": "A hipótese 'ele se apegou a padrões antigos para não mudar' virou: 'Será que não é você que está mudando?'; uma versão com Heráclito ('para onde você acha que está mudando?'); e a acusação 'você me parece bastante pós-moderno'.",
+      "variacoes": "Combinar com o exercício de potência de intervenção (atenuar e intensificar a mesma frase).",
+      "armadilhas": "Confundir 'não tenho certeza da hipótese' com 'não posso formular'.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:54:58"
+    },
+    {
+      "nome": "Dinâmica - Caso escrito com pausas para decisão clínica",
+      "objetivo": "Tornar visível o processo de tomada de decisão clínica num caso concreto: que indícios (linguagem, gesto, expressão facial) levam a uma direção ou a outra.",
+      "competencias": [
+        "Formulação de caso",
+        "Escuta clínica"
+      ],
+      "configuracao": "Grupo todo; o facilitador tem o caso escrito só para si e o narra ou atua, pausando nos pontos de decisão.",
+      "tempo": "Não executada (proposta).",
+      "materiais": "Caso escrito com pontos de decisão marcados.",
+      "consigna": "À medida que o atendimento for ocorrendo, vou pausar e perguntar: quais direções clínicas são possíveis aqui? Que construção do paciente te levaria mais para um lado ou para o outro?",
+      "passos": [
+        "Preparar o caso por escrito com pontos de decisão.",
+        "Narrar ou atuar até cada ponto.",
+        "Pausar e colher direções possíveis.",
+        "Discutir quais indícios sustentam cada direção."
+      ],
+      "feedback": "Não descrito (proposta não realizada).",
+      "exemplos_praticos": "Proposta deixada registrada 'para quem quiser roubar e depois fazer um aprimoramento'.",
+      "variacoes": "",
+      "armadilhas": "O facilitador comenta que um caso entregue por escrito 'ninguém vai ler'; por isso ele fica só com o facilitador.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:00:10"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Transparência sobre o desenho e 'roubo' autorizado",
+      "descricao": "Abre expondo as duas dinâmicas possíveis, diz qual prefere e deixa a outra registrada para reaproveitamento. O encontro serve também para formar facilitadores.",
+      "exemplo": "'Estou deixando registrado porque, se alguém quiser roubar esse e depois fazer um aprimoramento, é interessante.'",
+      "ts": "0:01:15"
+    },
+    {
+      "movimento": "Exigir voz e acomodar limites",
+      "descricao": "Pede microfone aberto, dispensa câmera e dá funções a quem está só no chat (juíza, cronometrista, membro de dupla).",
+      "exemplo": "A participante sem microfone levanta a mão para pausar e escolhe a intervenção.",
+      "ts": "0:09:47"
+    },
+    {
+      "movimento": "Atribuição intencional de papéis",
+      "descricao": "Distribui os esquemas conforme a dificuldade de cada um, para que o exercício trabalhe o ponto fraco da pessoa.",
+      "exemplo": "'Coloquei você no time do raio não à toa.'",
+      "ts": "1:12:33"
+    },
+    {
+      "movimento": "Facilitador como paciente, grupo decide o rumo",
+      "descricao": "Interpreta o paciente e deixa a juíza escolher qual intervenção conduz o caso. Depois analisa as preferências do grupo.",
+      "exemplo": "O pente nunca escolhido vira dado sobre a conversa natural.",
+      "ts": "0:16:32"
+    },
+    {
+      "movimento": "Checar aderência sem humilhar",
+      "descricao": "Aponta objetivamente quando a proposta viola a regra e segue com a de outro membro da dupla.",
+      "exemplo": "'Você não foi aderente ao modelo de pente, esse é o problema; ficamos com a do outro.'",
+      "ts": "0:15:58"
+    },
+    {
+      "movimento": "Pedir o raciocínio antes de avaliar",
+      "descricao": "Pede que o participante explique como chegou à intervenção, e só então comenta.",
+      "exemplo": "'Me explica o seu raciocínio.' / 'Me conta por que você fez o prefácio.'",
+      "ts": "0:29:01"
+    },
+    {
+      "movimento": "Pergunta de segunda ordem sobre a pessoa do terapeuta",
+      "descricao": "Leva a discussão técnica para a pessoa do terapeuta com cuidado: pede desculpas pelo 'spotlight' e oferece a hipótese de que a cautela é pessoal como convite à reflexão.",
+      "exemplo": "'Senão eu vou te convidar à hipótese de que isso pode ter mais a ver com você do que com o caso.'",
+      "ts": "0:35:25"
+    },
+    {
+      "movimento": "Descrição formal do movimento do aluno",
+      "descricao": "Descreve em termos abstratos o que o participante fez, para gerar variações e torná-lo replicável.",
+      "exemplo": "'Você subiu no pente, descreveu o processo geral, encontrou outro âmbito e foi focar nele.'",
+      "ts": "0:44:38"
+    },
+    {
+      "movimento": "Deslocar o foco do conteúdo para a lógica",
+      "descricao": "Lembra que o importante não é o caso, e sim a lógica de construção da pergunta.",
+      "exemplo": "'A parte mais importante não é o caso em si, é a lógica para a construção da pergunta.'",
+      "ts": "0:24:14"
+    },
+    {
+      "movimento": "Resgate por modelagem rápida",
+      "descricao": "Quando alguém trava, separa ter a hipótese de formulá-la e modela várias formulações.",
+      "exemplo": "Jogo rápido: hipótese em uma frase e depois dez formulações.",
+      "ts": "0:54:58"
+    },
+    {
+      "movimento": "Transformar frustração em conteúdo",
+      "descricao": "Responde à reclamação de um participante explicando as limitações estruturais de cada esquema e devolve um desafio.",
+      "exemplo": "'Você está muitíssimo convidada a descer pro play e tentar fazer melhor.'",
+      "ts": "0:40:12"
+    },
+    {
+      "movimento": "Síntese individualizada com tarefa sob medida",
+      "descricao": "Encerra com feedback por dupla e sugere a um participante que aprenda com o estilo de outro.",
+      "exemplo": "'Tenta roubar uma paginazinha do playbook do outro participante.'",
+      "ts": "1:13:43"
+    },
+    {
+      "movimento": "Revelar o gabarito oculto",
+      "descricao": "Conta qual era o problema de fundo do caso e que pergunta teria levado até ele.",
+      "exemplo": "Perguntar sobre relacionamento amoroso teria sido um passo relevante.",
+      "ts": "1:07:29"
+    },
+    {
+      "movimento": "Autocrítica pública",
+      "descricao": "Avalia a própria dinâmica diante do grupo e diz o que mudaria.",
+      "exemplo": "'Subestimei o quão difícil era o exercício; da próxima vez pegaria um caso mais simples.'",
+      "ts": "1:15:56"
+    },
+    {
+      "movimento": "Fechar a gravação para críticas",
+      "descricao": "Interrompe a gravação para que os participantes fiquem à vontade para perguntar, criticar ou falar da experiência.",
+      "exemplo": "'Vou parar a gravação e, se quiserem, fazemos perguntas, comentários ou críticas.'",
+      "ts": "1:16:54"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Quando o centro do caso se deslocar, dirija a intervenção ao deslocamento.",
+      "justificativa": "A mudança do centro gravitacional costuma conter a intervenção mais interessante.",
+      "contexto": "Ao conduzir a sessão em torno de um tema central.",
+      "competencia": "Aprofundamento",
+      "ts": "0:21:21"
+    },
+    {
+      "dica": "No pente, suba para a forma geral antes de ir para outro âmbito.",
+      "justificativa": "A potência do pente está na base (a forma comum); ir de conteúdo em conteúdo vira checklist.",
+      "contexto": "Anamnese e exploração de padrões.",
+      "competencia": "Aprofundamento",
+      "ts": "0:24:14"
+    },
+    {
+      "dica": "Explore o padrão no âmbito em que você desconfia que o problema vai aparecer.",
+      "justificativa": "Aumenta a chance de tocar algo relevante; o âmbito conservador rende menos.",
+      "contexto": "Depois de identificar um padrão.",
+      "competencia": "Intervenção",
+      "ts": "0:45:25"
+    },
+    {
+      "dica": "Tenha consciência de por que tomou cada decisão clínica.",
+      "justificativa": "A escolha consciente é o que torna a técnica ajustável.",
+      "contexto": "Sempre.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:46:18"
+    },
+    {
+      "dica": "Para suavizar, mostre ao paciente como você chegou à intervenção.",
+      "justificativa": "Evita o susto e deixa o paciente acompanhar o raciocínio.",
+      "contexto": "Começo de atendimento e temas delicados.",
+      "competencia": "Construção frasal",
+      "ts": "0:33:10"
+    },
+    {
+      "dica": "Pergunte-se se a sua cautela vem do caso ou de você.",
+      "justificativa": "A prudência pode ser insegurança sobre o próprio posicionamento clínico.",
+      "contexto": "Ao adiar sistematicamente confrontos.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:35:25"
+    },
+    {
+      "dica": "Para aumentar a potência, transforme a hipótese em afirmação ou acusação e prepare-se para lidar com a reação.",
+      "justificativa": "A reação negativa não é necessariamente um problema e pode mobilizar o paciente.",
+      "contexto": "Paciente performático, com aliança suficiente.",
+      "competencia": "Intervenção",
+      "ts": "0:57:39"
+    },
+    {
+      "dica": "Calibre o grau de surpresa do seu raciocínio.",
+      "justificativa": "Quanto mais surpreendente o raciocínio, mais agressiva a intervenção é percebida.",
+      "contexto": "Ao escolher a intensidade.",
+      "competencia": "Intervenção",
+      "ts": "0:58:51"
+    },
+    {
+      "dica": "Com o paciente 'personagem', faça uma pergunta estranha, fora da caixa.",
+      "justificativa": "Perguntas previsíveis só devolvem o discurso ensaiado.",
+      "contexto": "Pacientes que racionalizam ou falam muito sem dizer nada.",
+      "competencia": "Intervenção",
+      "ts": "0:49:53"
+    },
+    {
+      "dica": "Não use o jargão do paciente abstrato para pedir concretude.",
+      "justificativa": "O fraseamento só reproduz as 'frases vazias' que ele já usa.",
+      "contexto": "Ao tentar concretizar a queixa.",
+      "competencia": "Construção frasal",
+      "ts": "0:49:53"
+    },
+    {
+      "dica": "No raio, ligue o conteúdo da última fala a uma forma que atravesse o caso inteiro.",
+      "justificativa": "Mantém a fluidez do referente imediato sem perder a coerência do caso.",
+      "contexto": "Quando se sentir preso à última fala.",
+      "competencia": "Aprofundamento",
+      "ts": "1:13:43"
+    },
+    {
+      "dica": "No esquema de centro, ou troque o X com alguma frequência, ou varie muito a forma da pergunta.",
+      "justificativa": "Manter o X com a mesma forma gera a mesma pergunta reembalada.",
+      "contexto": "Sessão que circunda sem avançar.",
+      "competencia": "Aprofundamento",
+      "ts": "1:09:30"
+    },
+    {
+      "dica": "Se você é iniciante ou tem estilo conservador, prefira o raio ao pente.",
+      "justificativa": "O pente é difícil e a conversa natural já aprofunda.",
+      "contexto": "Início da formação.",
+      "competencia": "Aprofundamento",
+      "ts": "1:11:37"
+    },
+    {
+      "dica": "Diferencie o paciente que fala pouco do que fala muito para não dizer nada.",
+      "justificativa": "O primeiro pede postura mais ativa; o segundo, mudança radical na estrutura da pergunta.",
+      "contexto": "Ao sentir dificuldade de aprofundar.",
+      "competencia": "Escuta clínica",
+      "ts": "1:04:45"
+    },
+    {
+      "dica": "Se travar, simplifique sua hipótese numa frase e gere várias formulações.",
+      "justificativa": "Separa o problema de ter a hipótese do problema de dizê-la.",
+      "contexto": "Quando a 'cabeça frita' durante a sessão ou o treino.",
+      "competencia": "Construção frasal",
+      "ts": "0:55:26"
+    },
+    {
+      "dica": "Na anamnese, costure os temas como os parágrafos de um texto.",
+      "justificativa": "Retomar a ideia inicial dá coerência e evidencia a conexão entre âmbitos.",
+      "contexto": "Entrevistas iniciais.",
+      "competencia": "Primeira sessão e entrevistas iniciais",
+      "ts": "1:03:53"
+    },
+    {
+      "dica": "Use o pente quando o paciente falar de um assunto querendo dizer outro.",
+      "justificativa": "Intuir o assunto verdadeiro e perguntar por ele leva direto ao problema concreto.",
+      "contexto": "Discurso genérico que encobre uma questão pessoal.",
+      "competencia": "Escuta clínica",
+      "ts": "1:08:31"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "O difícil na construção de caso é escutar; captado o essencial, o caso se constrói.",
+      "argumento": "A formulação é quase óbvia quando se tem as informações certas; o gargalo é perceber o que é relevante.",
+      "contraponto": "",
+      "implicacao": "Treinar a estrutura da escuta antes da redação do caso.",
+      "quem": "Alan",
+      "ts": "0:01:15"
+    },
+    {
+      "tese": "A estrutura das perguntas determina a facilidade de obter informação.",
+      "argumento": "A mesma sessão rende intervenções muito diferentes conforme a regra imposta a cada dupla.",
+      "contraponto": "",
+      "implicacao": "Treinar os esquemas deliberadamente, e não só confiar na intuição.",
+      "quem": "Alan",
+      "ts": "0:04:33"
+    },
+    {
+      "tese": "A conversa natural leva ao aprofundamento, e o pente vai contra ela.",
+      "argumento": "A juíza nunca escolheu o pente, embora ele tenha sido executado acima da média.",
+      "contraponto": "Bem-feito, o pente alcança o assunto oculto (no caso, o relacionamento amoroso).",
+      "implicacao": "Recomendar o raio a iniciantes; usar o pente com domínio.",
+      "quem": "Alan",
+      "ts": "1:05:45"
+    },
+    {
+      "tese": "A prudência do terapeuta pode ser insegurança disfarçada.",
+      "argumento": "Se nada no caso justifica a cautela, ela provavelmente fala do terapeuta.",
+      "contraponto": "É de fato potente quando o paciente cai sozinho na própria contradição.",
+      "implicacao": "Buscar no caso o indício que sustenta a prudência.",
+      "quem": "Alan",
+      "ts": "0:35:25"
+    },
+    {
+      "tese": "Uma reação negativa a uma intervenção forte não é necessariamente um problema.",
+      "argumento": "Com pacientes 'personagem', tirar da zona de conforto é o que permite que a pessoa apareça (Perls com Glória).",
+      "contraponto": "É preciso lidar com as consequências; o estilo de Perls é agressivo demais para ser copiado.",
+      "implicacao": "Aplicar a lógica sem o mesmo nível de agressividade.",
+      "quem": "Alan",
+      "ts": "0:57:39"
+    },
+    {
+      "tese": "Os melhores clínicos são um pouco conservadores, e o esquema deve combinar com o estilo.",
+      "argumento": "O esquema de centro sem intervenções 'perigosas' circunda de longe; ao conservador, o raio serve melhor.",
+      "contraponto": "",
+      "implicacao": "Escolher o esquema segundo o próprio estilo e o tipo de paciente.",
+      "quem": "Alan",
+      "ts": "1:11:37"
+    },
+    {
+      "tese": "Treinar 'com uma mão amarrada nas costas' é um bom exercício.",
+      "argumento": "Restringir o repertório obriga a trabalhar mais linguagem, corpo e expressividade.",
+      "contraponto": "O próprio facilitador reconhece que a restrição, somada às pausas, dificultou demais o exercício.",
+      "implicacao": "Criar exercícios com restrições artificiais, calibrando a dificuldade do caso.",
+      "quem": "Alan",
+      "ts": "1:16:54"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "O difícil é perceber quais são as informações fundamentais do caso. Depois que você percebeu, o caso meio que se constrói.",
+      "tema": "Escuta e construção de caso",
+      "ts": "0:01:15"
+    },
+    {
+      "texto": "Quero mostrar o quão mais fácil é adquirir informação dependendo da estrutura das perguntas que vocês fazem.",
+      "tema": "Esquemas de aprofundamento",
+      "ts": "0:04:33"
+    },
+    {
+      "texto": "A parte mais importante não é o caso em si, é a lógica para a construção da pergunta.",
+      "tema": "Foco do treino",
+      "ts": "0:24:14"
+    },
+    {
+      "texto": "Sempre que tem um deslocamento do X, eu quero olhar para como consigo endereçar esse deslocamento.",
+      "tema": "Centro do caso",
+      "ts": "0:21:21"
+    },
+    {
+      "texto": "Uma das maneiras mais fáceis de suavizar uma intervenção é explicitar para a pessoa como você chegou nela.",
+      "tema": "Intensidade da intervenção",
+      "ts": "0:33:10"
+    },
+    {
+      "texto": "Às vezes a prudência tem a ver com uma dificuldade nossa de nos posicionarmos clinicamente.",
+      "tema": "Pessoa do terapeuta",
+      "ts": "0:35:25"
+    },
+    {
+      "texto": "Sempre que puder, transforme sua hipótese numa acusação. O máximo que vai acontecer é uma reação negativa, e isso não necessariamente é um problema.",
+      "tema": "Intensidade da intervenção",
+      "ts": "0:57:39"
+    },
+    {
+      "texto": "Quanto mais surpreendente o seu raciocínio, mais agressiva a intervenção.",
+      "tema": "Intensidade da intervenção",
+      "ts": "0:58:51"
+    },
+    {
+      "texto": "Tem paciente que fala muito justamente para não dizer nada.",
+      "tema": "Paciente difícil de aprofundar",
+      "ts": "1:04:45"
+    },
+    {
+      "texto": "Provavelmente é na mudança do centro gravitacional do caso que vai estar a intervenção mais interessante.",
+      "tema": "Centro do caso",
+      "ts": "1:09:30"
+    },
+    {
+      "texto": "É fácil argumentar que os melhores clínicos são um pouco conservadores.",
+      "tema": "Estilo clínico",
+      "ts": "1:11:37"
+    },
+    {
+      "texto": "É muito mais difícil trabalhar o referente imediato, mas normalmente é muito mais potente e fluido achar um gancho na última fala.",
+      "tema": "Esquema do raio",
+      "ts": "1:13:43"
+    },
+    {
+      "texto": "Treinar com uma mão amarrada nas costas é um tipo de exercício muito bom de fazer.",
+      "tema": "Treino com restrição",
+      "ts": "1:16:54"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Três jeitos de aprofundar uma sessão: raio, X e pente.",
+      "mensagem": "Cada esquema de pergunta tem uma regra, uma força e uma armadilha; escolha o que combina com o seu estilo e com o paciente.",
+      "roteiro": [
+        "Capa: você pergunta no improviso ou com um desenho na cabeça?",
+        "Raio: gancho na última fala; fluido e potente, difícil de costurar.",
+        "X: um centro e perguntas em volta; dá segurança, mas repete a pergunta.",
+        "Pente: temas vizinhos; mágico quando encontra a forma comum.",
+        "Qual é o seu? E qual combina com o paciente de hoje?"
+      ],
+      "corte_inicio": "0:03:31",
+      "corte_fim": "0:06:52"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Quer suavizar uma intervenção sem perder o conteúdo? Mostre o caminho.",
+      "mensagem": "Explicitar o raciocínio suaviza; transformar a hipótese em acusação intensifica. É a mesma hipótese com potências diferentes.",
+      "roteiro": [
+        "A mesma hipótese dita de dois jeitos",
+        "Versão com o caminho explicado",
+        "Versão acusatória",
+        "Quando usar cada uma"
+      ],
+      "corte_inicio": "0:57:39",
+      "corte_fim": "0:59:55"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Sua cautela é leitura do caso ou insegurança sua?",
+      "mensagem": "Procure no caso o indício que justifica a prudência; se não encontrar, olhe para você.",
+      "roteiro": [
+        "Frase de impacto",
+        "Legenda com o critério: procure o indício no caso"
+      ],
+      "corte_inicio": "0:35:25",
+      "corte_fim": "0:36:15"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "O paciente que fala muito para não dizer nada.",
+      "mensagem": "Com um discurso pronto, perguntas previsíveis devolvem mais do mesmo; uma pergunta estranha tira a pessoa do personagem (a lógica de Perls, sem a agressividade).",
+      "roteiro": [
+        "Cena: paciente fluente e vazio",
+        "Por que 'me conta mais' não funciona",
+        "A pergunta esquisita",
+        "Cuidado com a agressividade"
+      ],
+      "corte_inicio": "0:49:53",
+      "corte_fim": "0:51:23"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Treinar com uma mão amarrada nas costas: a gincana dos esquemas.",
+      "mensagem": "No grupo, cada dupla só pode perguntar de um jeito; o resultado mostra como a conversa natural puxa para o aprofundamento.",
+      "roteiro": [
+        "Como é a gincana",
+        "As três regras",
+        "O que descobrimos (o pente nunca foi escolhido)",
+        "Venha treinar com a gente"
+      ],
+      "corte_inicio": "1:05:45",
+      "corte_fim": "1:06:37"
+    },
+    {
+      "formato": "post",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Por que a sua anamnese parece um questionário?",
+      "mensagem": "Falta costura: como nos parágrafos de um bom texto, retomar a ideia inicial conecta os temas e dá coerência.",
+      "roteiro": [
+        "Pergunta-gancho",
+        "Analogia com o texto",
+        "Dica prática: suba para a forma antes do próximo tema"
+      ],
+      "corte_inicio": "1:02:49",
+      "corte_fim": "1:04:45"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Fritz Perls",
+      "contexto": "Caso Glória: exemplo de intervenções provocativas para tirar a paciente do 'personagem'; lógica aproveitável sem a mesma agressividade."
+    },
+    {
+      "nome": "Heráclito",
+      "contexto": "Usado pelo facilitador numa formulação de intervenção ('um homem não entra duas vezes no mesmo rio') para o paciente leitor de clássicos."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Aprimoramento clínico — gincana de esquemas com paciente simulado pelo facilitador",
+    "objetivo": "Treinar a estrutura da escuta (esquemas de aprofundamento) na construção de caso, mostrando como regras de pergunta mudam a informação obtida e a qualidade das intervenções.",
+    "publico": "Estudantes de psicologia e psicólogos em formação que já conhecem os esquemas de aprofundamento, incluindo membros da equipe que facilitam outros grupos.",
+    "tamanho": "Cerca de 6 a 8 ativos: três duplas com microfone e uma ou duas pessoas pelo chat (juíza, cronometrista).",
+    "duracao": "1h17 gravada, mais conversa fora da gravação.",
+    "estrutura_padrao": "Abertura com a escolha da proposta; combinados e formação de duplas; retomada relâmpago dos três esquemas; roleplay com o facilitador como paciente, com pausas chamadas por um participante; em cada pausa, cada dupla propõe uma intervenção dentro do seu esquema, o facilitador comenta e a juíza escolhe qual segue (5 rodadas); síntese por dupla com revelação do problema oculto do caso; autocrítica do facilitador; gravação encerrada para críticas.",
+    "papel_facilitador": "Interpreta o paciente simulado (caso em camadas, improvisado a partir de uma pessoa real), administra as rodadas, checa a aderência à regra, pede o raciocínio, reformula, modela formulações quando alguém trava e faz a síntese comparativa.",
+    "regras_combinados": "Cada dupla só pode perguntar dentro do seu esquema; microfone aberto e câmera opcional; quem está sem microfone participa pelo chat ou como juíza/cronometrista; a intervenção escolhida é dita na segunda pessoa, com o fraseamento de quem a propôs; o foco é a lógica da pergunta, e não o caso."
+  },
+  "reflexoes_do_facilitador": [
+    "Subestimou a dificuldade do exercício: o tempo de discussão entre as falas espaça demais o atendimento e faz perder a escuta clínica.",
+    "Numa próxima vez escolheria um caso mais simples, que vá mais diretamente a uma dor, talvez próximo de uma vivência pessoal, para trazer mais experiência emocional.",
+    "A dinâmica é uma adaptação de algo mais fácil de fazer presencialmente.",
+    "Num grupo semanal, repetiria o exercício na semana seguinte com o mesmo caso para ver o caso avançar.",
+    "Admite que deu 'opinião sobre algo que não aconteceu' ao revelar o semirroteiro do caso.",
+    "Costuma desaconselhar o pente para quem está começando, porque é difícil de executar."
+  ],
+  "referencias_a_outros_encontros": [
+    "Retoma os esquemas de aprofundamento (raio, círculos concêntricos, pente) ensinados em encontro anterior: 'não sei se vocês lembram'; ver Alan 06 - Esquemas de aprofundamento.",
+    "Cita 'aquele exercício de potência de intervenção' (atenuar e intensificar a mesma intervenção), ligado a Alan 03 / Alan 17 e à Dinâmica - Variação de intervenção.",
+    "Menciona as avaliações de 15 a 20 minutos de atendimento feitas pela Allos.",
+    "Diz que já comentou o caso Glória em outro momento."
+  ],
+  "observacoes": "Identificação do facilitador: ele não se apresenta, mas os participantes chamam o paciente simulado que ele interpreta de 'Alan' (0:28:38, 0:43:34; provavelmente também 0:10:19, 'boa tarde, aluno' = 'Alan'). Os temas (esquemas de aprofundamento, caso Glória, avaliações) e o estilo coincidem com os encontros do Alan. Contrariando a expectativa de que o Acervo seja de outros facilitadores, este encontro parece conduzido pelo próprio Alan. Rodolfo, que conduz outros encontros do Acervo (ex.: acervo-14), participa como aluno. O 'X da questão'/'circunscrição' corresponde ao esquema de círculos concêntricos de Alan 06. O caso é fictício, construído a partir de 'um conhecido nosso' não identificado; o paciente simulado expressa opiniões conservadoras provocativas que não foram reproduzidas na nota. Legenda com muitos nomes trocados (Tainá/Painá/Ainai, Vitor/Víor/Vittor, 'Nit' = Nietzsche, 'CCC' = TCC)."
+}

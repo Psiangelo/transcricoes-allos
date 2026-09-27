@@ -1,0 +1,768 @@
+{
+  "id": "pd-05",
+  "nota": "PD 05 - Problemas da mensuração, aliança e auto-observação",
+  "pasta": "10 - Fichamentos/Prática Deliberada",
+  "titulo": "Problemas da mensuração, aliança e auto-observação",
+  "serie": "Introdução à Prática Deliberada",
+  "formato": "Curso de PD",
+  "facilitadores": [
+    "Bernardo"
+  ],
+  "resumo": "Quinto encontro, o primeiro no formato de cerca de 50 minutos. Depois de retomar a linha de base (ORS e SRS), o facilitador apresenta três problemas comuns na aplicação de escalas: tratá-las como burocracia, supor de antemão que serão aversivas (em geral projeção do terapeuta; segundo ele, 92% dos pacientes são favoráveis) e o efeito Hawthorne, que infla as respostas diante de quem observa. A solução é explicar o propósito, reforçar que os dados são amigáveis e pedir explicitamente a menor nota possível, como faz o formulário de presença da Allos. Em seguida justifica a medida da aliança: é um dos preditores mais robustos do resultado (fatores comuns × específicos, figura atribuída provavelmente a Wampold e Imel, 2015), alguns terapeutas são melhores que outros, ninguém se conecta com todos, e o feedback em tempo real reduz a deterioração e o abandono. Explica quando aplicar as escalas. Com os estudos de Michael Lambert mostra que o feedback de um caso não se generaliza para outros; seu valor está em desenvolver a auto-observação, antídoto contra o automatismo e garantia da primazia do fenômeno clínico sobre a bagagem teórica. Encerra anunciando as métricas (tamanho de efeito) e com uma foto do grupo para o Instagram do Núcleo.",
+  "em_uma_frase": "Medir exige cuidado com a burocracia, com a projeção do terapeuta e com o efeito Hawthorne; a aliança deve ser medida porque prediz o resultado e não é garantida; e o feedback não se generaliza, mas forma o hábito da auto-observação que combate o automatismo.",
+  "competencias": [
+    "Relação terapêutica",
+    "Feedback clínico",
+    "Desenvolvimento profissional",
+    "Pessoa do terapeuta",
+    "Articulação teoria-prática"
+  ],
+  "abordagens": [
+    "Análise do comportamento"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:00",
+      "bloco": "Abertura",
+      "descricao": "Participante pergunta a duração das aulas (de 50 min a 1h10); boas-vindas.",
+      "funcao": "Combinar o formato.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:00:00",
+      "bloco": "Retomada",
+      "descricao": "Linha de base, ORS e SRS; cultura avessa a medir; dados contra o viés e contra o relato indireto; checagem de dúvidas.",
+      "funcao": "Reancorar e situar os novatos.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:04:32",
+      "bloco": "Teoria",
+      "descricao": "Problema 1: a mensuração como burocracia gera dados de má qualidade.",
+      "funcao": "Mostrar que o propósito comunicado afeta o dado.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:06:41",
+      "bloco": "Teoria",
+      "descricao": "Problema 2: supor que será aversivo (projeção do terapeuta); dados amigáveis; 92% dos pacientes favoráveis.",
+      "funcao": "Desmontar a resistência do clínico.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:07:53",
+      "bloco": "Dinâmica",
+      "descricao": "Problema 3: vocês sabem o que é o efeito Hawthorne? Ninguém sabe; cenário da criança com o pote de doces.",
+      "funcao": "Construir o conceito pela imaginação.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:10:41",
+      "bloco": "Teoria",
+      "descricao": "Definição do efeito Hawthorne; participante traz analogia da análise do comportamento (estímulo aversivo).",
+      "funcao": "Formalizar e conectar com outra abordagem.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:12:47",
+      "bloco": "Teoria",
+      "descricao": "Como amenizar: explicar o propósito, reforçar a honestidade, pedir a menor nota possível; formulário de presença da Allos.",
+      "funcao": "Dar a técnica concreta.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:16:09",
+      "bloco": "Dúvidas",
+      "descricao": "Checagem com uma novata; vídeos do teste do doce (adiamento da recompensa × Hawthorne).",
+      "funcao": "Incluir quem chegou e refinar o conceito.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:17:28",
+      "bloco": "Teoria",
+      "descricao": "A imprecisão é constitutiva da medida; busca-se aproximação.",
+      "funcao": "Evitar perfeccionismo métrico.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:18:34",
+      "bloco": "Dinâmica",
+      "descricao": "Por que medir a aliança? Uma participante responde: é central, e o instrumento contorna a dificuldade de honestidade direta.",
+      "funcao": "Levantar hipóteses do grupo.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:20:00",
+      "bloco": "Teoria",
+      "descricao": "Razão 1: aliança como preditor robusto; figura de fatores comuns × específicos (estudo de 2015).",
+      "funcao": "Fundamentar com evidência.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:23:57",
+      "bloco": "Teoria",
+      "descricao": "Razão 2: alguns terapeutas são melhores; ninguém se conecta com todos; a relação não é dada.",
+      "funcao": "Justificar o treino da relação.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:26:01",
+      "bloco": "Teoria",
+      "descricao": "Feedback em tempo real reduz deterioração e abandono; importância das primeiras sessões para o retorno do paciente.",
+      "funcao": "Ligar medida e adesão.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:27:39",
+      "bloco": "Dúvidas",
+      "descricao": "Quando aplicar a ORS (desde a primeira sessão, no início) e a SRS (no fim); comparação pré e pós; toda sessão ou espaçado; clínica × ensaio clínico.",
+      "funcao": "Operacionalizar.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:32:14",
+      "bloco": "Dinâmica",
+      "descricao": "O feedback de um paciente se generaliza para outro? Uma participante sugere um meio-termo.",
+      "funcao": "Preparar o dado contraintuitivo.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:33:26",
+      "bloco": "Teoria",
+      "descricao": "Estudos de Michael Lambert: feedback em metade dos casos, sem generalização; o feedback é fotografia, não filme.",
+      "funcao": "Mostrar os limites do feedback.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:37:56",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta-enigma: que habilidade o feedback desenvolve? Uma participante acerta: auto-observação.",
+      "funcao": "Descoberta guiada da tese central.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:38:59",
+      "bloco": "Teoria",
+      "descricao": "Auto-observação × automatismo; primazia do fenômeno clínico; os melhores terapeutas reservam tempo de qualidade para refletir; preconceitos teóricos.",
+      "funcao": "Consolidar a tese.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:43:46",
+      "bloco": "Fechamento",
+      "descricao": "Encerra aos 50 minutos; próximo encontro: métricas (tamanho de efeito e tamanho de efeito relativo).",
+      "funcao": "Continuidade e economia de atenção.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:46:08",
+      "bloco": "Feedback",
+      "descricao": "Pede a opinião dos novatos sobre a aula; mantém 50 min a 1h10 (a atenção cai depois de cerca de 40 min).",
+      "funcao": "Ajustar o formato ao grupo.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:47:00",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Foto do grupo para o Instagram do Núcleo de Prática Deliberada.",
+      "funcao": "Divulgação e pertencimento.",
+      "duracao_min": 3
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Psicologia baseada em medidas",
+      "definicao": "Coleta sistemática de dados sobre a prática para ir além do julgamento enviesado do terapeuta e do julgamento informal do paciente. A mensuração é uma aliada para identificar o que melhorar.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:02:20"
+    },
+    {
+      "nome": "Efeito Hawthorne",
+      "definicao": "Fenômeno em que as pessoas mudam o comportamento quando sabem que estão sendo observadas ou monitoradas, pela atenção recebida e não pela manipulação de variáveis. Na clínica, o paciente tende a pontuar escalas mais positivamente na presença do terapeuta, de forma consciente ou não.",
+      "exemplo": "Criança sozinha com um pote de doces que ouve por um megafone que os pais a vigiam e evita pegar o doce.",
+      "abordagem": "",
+      "ts": "0:10:41"
+    },
+    {
+      "nome": "Dados amigáveis",
+      "definicao": "Princípio segundo o qual todo dado, mesmo negativo, é útil porque informa o que mudar. A mensuração não é um teste nem um vestibular do paciente.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:06:41"
+    },
+    {
+      "nome": "Outcome Rating Scale",
+      "definicao": "Escala de bem-estar geral aplicada antes de iniciar o tratamento (já na primeira sessão) e no início de cada sessão; permite comparar sessão a sessão e entre o início e a alta.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:27:39"
+    },
+    {
+      "nome": "Session Rating Scale",
+      "definicao": "Escala de aliança aplicada no fim de cada sessão; poucos itens, simples de responder.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:27:39"
+    },
+    {
+      "nome": "Aliança terapêutica",
+      "definicao": "Um dos preditores mais robustos do resultado segundo décadas de pesquisa. Não é dada nem garantida: depende de habilidade e de treino, e fortalecê-la nas primeiras sessões é o que faz o paciente voltar.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:20:00"
+    },
+    {
+      "nome": "Fatores comuns",
+      "definicao": "Elementos presentes em todas as abordagens (empatia, aliança, colaboração, consenso sobre objetivos, consideração positiva, congruência), com tamanho de efeito muito maior sobre o resultado do que os fatores específicos.",
+      "exemplo": "Figura do livro adaptada de um estudo de 2015 (provavelmente Wampold e Imel).",
+      "abordagem": "",
+      "ts": "0:21:11"
+    },
+    {
+      "nome": "Fatores específicos",
+      "definicao": "Diferenças entre abordagens, adesão a protocolos e ingredientes específicos das teorias; fazem diferença, mas com tamanho de efeito pequeno se comparados aos fatores comuns.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:21:11"
+    },
+    {
+      "nome": "Empatia",
+      "definicao": "Listada entre os fatores comuns constituintes de uma aliança bem estruturada.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:22:41"
+    },
+    {
+      "nome": "Congruência",
+      "definicao": "Listada entre os fatores comuns constituintes de uma aliança bem estruturada.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:22:41"
+    },
+    {
+      "nome": "Aceitação positiva incondicional",
+      "definicao": "Citada como consideração positiva entre os fatores comuns de maior tamanho de efeito.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:22:41"
+    },
+    {
+      "nome": "Abandono precoce do tratamento",
+      "definicao": "A interrupção prematura da terapia. O feedback em tempo real sobre o progresso e a força da aliança reduz a deterioração e o abandono.",
+      "exemplo": "O objetivo inicial é que o paciente retorne para a segunda, a terceira e a quarta sessão.",
+      "abordagem": "",
+      "ts": "0:26:01"
+    },
+    {
+      "nome": "Limites da generalização do feedback",
+      "definicao": "O feedback diz respeito a uma situação, uma relação e um paciente específicos, e não tem caráter de conhecimento transferível. Nos estudos de Lambert, os terapeutas não aplicaram aos casos sem feedback o que aprenderam nos casos com feedback.",
+      "exemplo": "O feedback é uma fotografia, não um filme inteiro; por isso precisa ser contínuo.",
+      "abordagem": "",
+      "ts": "0:35:46"
+    },
+    {
+      "nome": "Auto-observação",
+      "definicao": "O hábito deliberado de refletir sobre a própria atuação e condução do processo; é a habilidade transferível que o feedback desenvolve. Os terapeutas com melhores resultados reservam tempo de qualidade para isso.",
+      "exemplo": "Não basta dizer preciso melhorar como lido com a ruptura de aliança: é preciso identificar a fraqueza, fixar objetivos e montar um plano.",
+      "abordagem": "",
+      "ts": "0:38:50"
+    },
+    {
+      "nome": "Automatismo clínico",
+      "definicao": "Atender a partir da bagagem e da experiência, dispensando o fenômeno clínico.",
+      "exemplo": "Nem o paciente entrou na sala e já sei o que ele tem e o que tenho que fazer.",
+      "abordagem": "",
+      "ts": "0:38:59"
+    },
+    {
+      "nome": "Primazia do fenômeno clínico",
+      "definicao": "O fenômeno clínico sempre tem primazia e é carregado de idiossincrasias. Parte-se dele para buscar algo útil na bagagem, nunca da bagagem para entendê-lo; conceito e teoria são abstrações, não espelhos da realidade.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:40:02"
+    },
+    {
+      "nome": "Ensaio clínico randomizado",
+      "definicao": "Contexto de pesquisa em que a aplicação de medidas precisa ser padronizada, ao contrário da clínica particular, em que o profissional define a frequência.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:30:59"
+    },
+    {
+      "nome": "Tamanho de efeito",
+      "definicao": "Métrica anunciada para o encontro seguinte, junto com o tamanho de efeito relativo, necessária para traduzir os escores das escalas em informação.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:44:55"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Pergunta disparadora",
+      "objetivo": "Fazer o grupo formular hipóteses antes da evidência e chegar sozinho à tese central (descoberta guiada).",
+      "competencias": [
+        "Desenvolvimento profissional",
+        "Pessoa do terapeuta"
+      ],
+      "configuracao": "Grupo todo, online, respostas voluntárias por microfone ou chat; havia novatos.",
+      "tempo": "1 a 3 minutos por pergunta",
+      "materiais": "Slides.",
+      "consigna": "Vocês sabem o que é o efeito Hawthorne? Por que vocês acham que medimos a aliança? O feedback de um paciente X serve para o paciente Y? O feedback desenvolve uma habilidade fundamental: vocês conseguem chutar qual?",
+      "passos": [
+        "Fazer a pergunta.",
+        "Se ninguém souber, construir um cenário imaginativo (criança e pote de doces).",
+        "Acolher a resposta e anunciar que vai partir dela.",
+        "Apresentar a evidência.",
+        "Lançar a pergunta-enigma e celebrar o acerto."
+      ],
+      "feedback": "Confirma e nomeia (matou a charada); amplia a resposta (autopercepção vira auto-observação); refina analogias imprecisas sem invalidá-las (o teste do doce mede sobretudo o adiamento da recompensa).",
+      "exemplos_praticos": "Ninguém conhecia o efeito Hawthorne; um participante trouxe a analogia do estímulo aversivo da análise do comportamento; uma participante acertou a habilidade; outra propôs o meio-termo sobre a generalização.",
+      "variacoes": "Usar a pergunta-enigma no ponto culminante da aula, quando a resposta é alcançável com o que já foi discutido.",
+      "armadilhas": "Silêncio longo: seguir em frente sem constranger; perguntas cuja resposta o grupo não tem como deduzir viram adivinhação.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:09:00"
+    },
+    {
+      "nome": "Dinâmica - Formulário de feedback do encontro",
+      "objetivo": "Colher avaliações honestas dos participantes sobre cada encontro, contornando o efeito Hawthorne (prática da Allos descrita, não realizada no encontro).",
+      "competencias": [
+        "Feedback clínico"
+      ],
+      "configuracao": "Formulário de presença preenchido individualmente depois do encontro.",
+      "tempo": "Poucos minutos, depois do encontro.",
+      "materiais": "Formulário de presença com critérios de avaliação.",
+      "consigna": "Instrução pedindo que o participante dê a menor nota possível que julgar justa; não dar nota boa se não achou bom.",
+      "passos": [
+        "Definir critérios de avaliação explícitos.",
+        "Incluir a instrução de dar a menor nota possível.",
+        "Explicar que notas de cortesia atrapalham a melhora do grupo.",
+        "Ler os resultados como dados amigáveis."
+      ],
+      "feedback": "O facilitador de grupo usa as notas como feedback sobre a própria condução.",
+      "exemplos_praticos": "O facilitador cita o formulário de presença da Allos como exemplo do conceito; comentário no chat mostra adesão dos participantes.",
+      "variacoes": "Complementar com conversa cara a cara, porque formulários tendem a ser preenchidos mecanicamente (ver PD 03).",
+      "armadilhas": "O preenchimento mecânico; a instrução pode induzir um viés negativo se não for calibrada.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:15:07"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Responder logo à logística",
+      "descricao": "Informa a duração das aulas a uma participante que precisa se organizar.",
+      "exemplo": "Entre 50 minutos e 1h10.",
+      "ts": "0:00:00"
+    },
+    {
+      "movimento": "Retomada estruturada com checagem",
+      "descricao": "Resume o encontro anterior e pergunta se há dúvidas antes de começar.",
+      "exemplo": "Tentei fazer um resumo bem resumido; alguma dúvida antes de eu iniciar?",
+      "ts": "0:03:38"
+    },
+    {
+      "movimento": "Ensinar por cenário imaginativo",
+      "descricao": "Diante de um conceito desconhecido do grupo, constrói uma cena antes da definição.",
+      "exemplo": "A criança sozinha com o pote de doces que ouve os pais pelo megafone.",
+      "ts": "0:09:20"
+    },
+    {
+      "movimento": "Acolher e refinar analogias",
+      "descricao": "Aceita as analogias dos participantes e acrescenta nuances.",
+      "exemplo": "Às vezes é deliberado, às vezes não; o teste do doce avalia mais o adiamento da recompensa.",
+      "ts": "0:16:27"
+    },
+    {
+      "movimento": "Checar a novata pelo nome",
+      "descricao": "Verifica especificamente se a recém-chegada está acompanhando.",
+      "exemplo": "Principalmente perguntando pra ela, porque deve estar pegando o bonde andando.",
+      "ts": "0:16:16"
+    },
+    {
+      "movimento": "Exemplo institucional",
+      "descricao": "Usa o formulário de presença da Allos para mostrar o conceito em ação.",
+      "exemplo": "O formulário de presença tem uma instrução para dar a menor nota possível.",
+      "ts": "0:15:07"
+    },
+    {
+      "movimento": "Estruturar a exposição a partir da resposta",
+      "descricao": "Parte da resposta da participante para organizar o que vem.",
+      "exemplo": "Vou começar a partir dessa parte do não generalizável e depois me aproximar do generalizável.",
+      "ts": "0:33:26"
+    },
+    {
+      "movimento": "Pergunta-enigma e celebração",
+      "descricao": "Lança um desafio de adivinhar a habilidade e celebra o acerto.",
+      "exemplo": "Vocês conseguem chutar qual seria essa habilidade? … Matou a charada.",
+      "ts": "0:37:56"
+    },
+    {
+      "movimento": "Não transformar sugestão em regra",
+      "descricao": "Nas dúvidas práticas, distingue a clínica particular da pesquisa.",
+      "exemplo": "Você não tem que nada; se fosse um ensaio clínico, teria que padronizar.",
+      "ts": "0:30:59"
+    },
+    {
+      "movimento": "Cortar antes do conteúdo denso",
+      "descricao": "Adia as métricas para a semana seguinte para não sobrecarregar o fim da aula.",
+      "exemplo": "Trazer agora no final ia ser um erro.",
+      "ts": "0:44:55"
+    },
+    {
+      "movimento": "Pedir feedback aos novatos e confirmar o formato",
+      "descricao": "Pergunta o que os recém-chegados acharam e mantém os 50 minutos com justificativa.",
+      "exemplo": "Que que vocês acharam da aula? Conseguiram pegar?",
+      "ts": "0:46:08"
+    },
+    {
+      "movimento": "Ritual de encerramento com foto",
+      "descricao": "Tira uma foto do grupo para o Instagram do Núcleo, com humor sobre a própria dificuldade com tecnologia.",
+      "exemplo": "Eu tô fazendo isso aqui porque me mandaram. 3, 2, 1, todo mundo sorrisão.",
+      "ts": "0:47:00"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Nunca entregue uma escala com um responde aí; explique para que ela serve.",
+      "justificativa": "Se o paciente vê burocracia, responde de qualquer jeito e o dado não serve.",
+      "contexto": "Toda introdução de instrumento.",
+      "competencia": "Feedback clínico",
+      "ts": "0:05:37"
+    },
+    {
+      "dica": "Mostre ao paciente que a medida o beneficia também.",
+      "justificativa": "O que melhora o profissional melhora o serviço; os dois lados ganham.",
+      "contexto": "Apresentação da escala.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:05:37"
+    },
+    {
+      "dica": "Antes de desistir de medir porque o paciente vai odiar, verifique se não é projeção sua.",
+      "justificativa": "Segundo o facilitador, estudos mostram 92% dos pacientes favoráveis; a resistência costuma ser dos terapeutas.",
+      "contexto": "Decisão de adotar instrumentos.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:07:53"
+    },
+    {
+      "dica": "Diga que os dados são amigáveis, mesmo negativos, e que não se trata de um teste.",
+      "justificativa": "Desfaz a associação com vestibular e reduz respostas defensivas.",
+      "contexto": "Aplicação de ORS e SRS.",
+      "competencia": "Feedback clínico",
+      "ts": "0:13:49"
+    },
+    {
+      "dica": "Peça explicitamente que o paciente dê a menor nota possível que achar justa.",
+      "justificativa": "Contra-ataca o efeito Hawthorne, a tendência a responder positivamente diante de quem observa.",
+      "contexto": "Sobretudo na SRS, que avalia o próprio terapeuta.",
+      "competencia": "Feedback clínico",
+      "ts": "0:13:49"
+    },
+    {
+      "dica": "Aceite a imprecisão das medidas e busque aproximação, não exatidão.",
+      "justificativa": "O humor e o contexto variam; algum dado é melhor que nenhum.",
+      "contexto": "Interpretação dos escores.",
+      "competencia": "Feedback clínico",
+      "ts": "0:17:28"
+    },
+    {
+      "dica": "Aplique a ORS já na primeira sessão, antes de começar o tratamento.",
+      "justificativa": "Dá o panorama inicial e permite comparar sessão a sessão e entre o início e a alta.",
+      "contexto": "Início do tratamento e cada sessão.",
+      "competencia": "Feedback clínico",
+      "ts": "0:27:39"
+    },
+    {
+      "dica": "Aplique a SRS no fim de cada sessão, principalmente nas primeiras.",
+      "justificativa": "O feedback em tempo real sobre a aliança reduz o abandono; as primeiras sessões decidem se o paciente volta.",
+      "contexto": "Primeiras sessões e depois conforme o plano.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:26:01"
+    },
+    {
+      "dica": "Se não puder medir toda sessão, defina um intervalo fixo (a cada 3 a 5 sessões).",
+      "justificativa": "Na clínica o instrumento serve a você; a padronização é exigência de pesquisa.",
+      "contexto": "Rotina da clínica particular.",
+      "competencia": "Feedback clínico",
+      "ts": "0:30:59"
+    },
+    {
+      "dica": "Não trate a aliança como garantida; monitore-a.",
+      "justificativa": "Alguns terapeutas são melhores que outros e ninguém se conecta com todos.",
+      "contexto": "Todos os casos.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:23:57"
+    },
+    {
+      "dica": "Não suponha que o que aprendeu com o feedback de um paciente vale para outro.",
+      "justificativa": "Nos estudos de Lambert as lições não se generalizaram; o feedback é uma fotografia de uma relação específica.",
+      "contexto": "Cada novo paciente.",
+      "competencia": "Feedback clínico",
+      "ts": "0:34:31"
+    },
+    {
+      "dica": "Use o feedback para treinar a auto-observação.",
+      "justificativa": "Esse é o ganho transferível e combate o automatismo.",
+      "contexto": "Rotina semanal de reflexão sobre a prática.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:38:59"
+    },
+    {
+      "dica": "Parta do fenômeno clínico para a teoria, nunca da teoria para o fenômeno.",
+      "justificativa": "O fenômeno é idiossincrático, e a bagagem pode fazê-lo desaparecer.",
+      "contexto": "Sobretudo quando o caso parece familiar.",
+      "competencia": "Articulação teoria-prática",
+      "ts": "0:40:02"
+    },
+    {
+      "dica": "Reserve na agenda um tempo de qualidade para identificar onde seu padrão habitual falha e transforme isso em plano de melhoria.",
+      "justificativa": "Segundo os estudos citados, os terapeutas com melhores resultados fazem isso; nomear a fraqueza não basta.",
+      "contexto": "Semanalmente.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:41:18"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "A aversão à mensuração é mais do terapeuta do que do paciente.",
+      "argumento": "Segundo o facilitador, 92% dos pacientes são favoráveis e boa parte dos terapeutas não; há um viés cultural que associa medir a teste.",
+      "contraponto": "",
+      "implicacao": "Adotar escalas explicando o propósito.",
+      "quem": "Bernardo",
+      "ts": "0:07:53"
+    },
+    {
+      "tese": "A forma de aplicar a escala determina a qualidade do dado.",
+      "argumento": "A burocracia gera respostas descuidadas; o efeito Hawthorne infla as notas.",
+      "contraponto": "",
+      "implicacao": "Explicar, pedir honestidade e pedir a menor nota possível.",
+      "quem": "Bernardo",
+      "ts": "0:13:49"
+    },
+    {
+      "tese": "O modo de construir a relação pesa mais no resultado do que a abordagem teórica.",
+      "argumento": "A figura do livro (provavelmente Wampold e Imel, 2015) mostra tamanho de efeito maior para os fatores comuns do que para os específicos.",
+      "contraponto": "Os fatores específicos também fazem diferença, só que menor.",
+      "implicacao": "Priorizar o treino de habilidades relacionais.",
+      "quem": "Bernardo, a partir do Better Results",
+      "ts": "0:22:41"
+    },
+    {
+      "tese": "A relação terapêutica é uma habilidade treinável, não um dom ou um encaixe automático.",
+      "argumento": "Há diferenças consistentes entre terapeutas, e ninguém se conecta com todos.",
+      "contraponto": "",
+      "implicacao": "Medir a aliança e treiná-la deliberadamente.",
+      "quem": "Bernardo",
+      "ts": "0:23:57"
+    },
+    {
+      "tese": "O feedback não é conhecimento generalizável; a experiência não garante aprendizado transferível.",
+      "argumento": "Nos estudos de Lambert, só melhoraram os casos com feedback; o feedback é uma fotografia de uma relação.",
+      "contraponto": "A ideia de que o terapeuta experiente acumula saber aplicável a qualquer paciente; a participante que sugeriu um meio-termo.",
+      "implicacao": "Monitorar continuamente cada caso.",
+      "quem": "Bernardo",
+      "ts": "0:35:46"
+    },
+    {
+      "tese": "O maior valor do feedback é formar o hábito da auto-observação, antídoto contra o automatismo.",
+      "argumento": "Refletir deliberadamente sobre a própria prática impede que a bagagem substitua o fenômeno clínico.",
+      "contraponto": "",
+      "implicacao": "Criar rotinas de reflexão estruturada (fraquezas, objetivos, plano).",
+      "quem": "Bernardo",
+      "ts": "0:38:59"
+    },
+    {
+      "tese": "O fenômeno clínico tem primazia sobre a teoria e a experiência.",
+      "argumento": "O fenômeno é idiossincrático; conceitos e teorias são abstrações, e partir da bagagem gera preconceitos teóricos.",
+      "contraponto": "",
+      "implicacao": "Escutar primeiro e depois buscar na teoria o que for útil.",
+      "quem": "Bernardo",
+      "ts": "0:40:02"
+    },
+    {
+      "tese": "Aulas de formação devem ter cerca de 50 minutos.",
+      "argumento": "O cansaço do horário noturno; segundo o facilitador (se não se engana), a atenção sustentada cai depois de cerca de 40 minutos.",
+      "contraponto": "",
+      "implicacao": "Dividir conteúdo denso entre encontros.",
+      "quem": "Bernardo",
+      "ts": "0:47:00"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Tratar a mensuração como procedimento burocrático é ignorar toda a sua importância.",
+      "tema": "mensuração",
+      "ts": "0:05:37"
+    },
+    {
+      "texto": "Os dados são amigáveis, mesmo que sejam negativos, porque eles informam a gente.",
+      "tema": "dados amigáveis",
+      "ts": "0:06:41"
+    },
+    {
+      "texto": "Essa aversividade que se coloca em cima da mensuração muitas vezes é projeção nossa.",
+      "tema": "resistência a medir",
+      "ts": "0:07:53"
+    },
+    {
+      "texto": "Pedir que o paciente dê a menor nota possível ajuda muito na transparência, porque você já está contra-atacando a tendência natural do efeito Hawthorne.",
+      "tema": "efeito Hawthorne",
+      "ts": "0:13:49"
+    },
+    {
+      "texto": "Não importa tanto a sua abordagem teórica, mas a maneira como você constrói a relação com o seu paciente.",
+      "tema": "fatores comuns",
+      "ts": "0:22:41"
+    },
+    {
+      "texto": "Relação terapêutica não é algo dado, não é uma garantia: depende de habilidade e de treinamento.",
+      "tema": "aliança",
+      "ts": "0:23:57"
+    },
+    {
+      "texto": "O feedback é um retrato de uma situação: é uma fotografia, não o filme inteiro.",
+      "tema": "limites do feedback",
+      "ts": "0:36:54"
+    },
+    {
+      "texto": "O feedback não tem caráter de conhecimento, mas nos ajuda a desenvolver uma habilidade fundamental: a auto-observação.",
+      "tema": "auto-observação",
+      "ts": "0:37:56"
+    },
+    {
+      "texto": "O fenômeno clínico sempre tem primazia: a gente parte dele para buscar algo útil na nossa bagagem, e não da bagagem para entender o fenômeno.",
+      "tema": "fenômeno clínico",
+      "ts": "0:40:02"
+    },
+    {
+      "texto": "Não é a quantidade de tempo que importa, mas a qualidade do tempo que você separa para refletir sobre a própria prática.",
+      "tema": "reflexão",
+      "ts": "0:41:18"
+    },
+    {
+      "texto": "A gente esquece muitas vezes que conceito e teoria são abstração, e não espelho da realidade.",
+      "tema": "teoria",
+      "ts": "0:42:34"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "3 erros ao aplicar escalas na terapia.",
+      "mensagem": "Burocracia, supor aversão (projeção) e ignorar o efeito Hawthorne; para cada erro, a solução.",
+      "roteiro": [
+        "Você aplica escalas? Cuidado com estes 3 erros.",
+        "Erro 1: tratar como burocracia.",
+        "Erro 2: achar que o paciente vai odiar (92% aprovam).",
+        "Erro 3: esquecer o efeito Hawthorne.",
+        "Solução: explique, peça honestidade, peça a menor nota."
+      ],
+      "corte_inicio": "0:04:32",
+      "corte_fim": "0:15:07"
+    },
+    {
+      "formato": "reels",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Seu paciente te dá nota 10 por educação.",
+      "mensagem": "O efeito Hawthorne infla as avaliações; pedir a menor nota possível ajuda a obter dados honestos.",
+      "roteiro": [
+        "Cena da criança com o pote de doces.",
+        "Definição em uma frase.",
+        "O truque da menor nota."
+      ],
+      "corte_inicio": "0:12:47",
+      "corte_fim": "0:15:07"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Por que medir a aliança terapêutica?",
+      "mensagem": "É um dos maiores preditores de resultado, varia entre terapeutas, não é garantida, e o feedback em tempo real reduz o abandono.",
+      "roteiro": [
+        "Fatores comuns × específicos.",
+        "Alguns terapeutas são melhores nisso.",
+        "Ninguém se conecta com todos.",
+        "O feedback em tempo real reduz o abandono.",
+        "Como medir: SRS no fim da sessão."
+      ],
+      "corte_inicio": "0:20:00",
+      "corte_fim": "0:27:00"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Experiência não é aprendizado: o estudo de Lambert.",
+      "mensagem": "O feedback de um paciente não se transfere para outro; o que se leva é a capacidade de auto-observação.",
+      "roteiro": [
+        "O desenho do estudo.",
+        "O resultado.",
+        "Fotografia, não filme.",
+        "Então para que serve o feedback?"
+      ],
+      "corte_inicio": "0:33:26",
+      "corte_fim": "0:38:59"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Parta do fenômeno, não da bagagem.",
+      "mensagem": "Quando você já sabe o que o paciente tem antes de ele entrar na sala, a teoria engoliu o fenômeno.",
+      "roteiro": [
+        "Frase e legenda sobre auto-observação e automatismo."
+      ],
+      "corte_inicio": "0:38:59",
+      "corte_fim": "0:41:10"
+    },
+    {
+      "formato": "stories",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Por que nossos encontros têm 50 minutos.",
+      "mensagem": "O formato foi decidido com o grupo, considerando atenção e cansaço; o feedback do grupo muda o curso.",
+      "roteiro": [
+        "Enquete: aula ideal, 50 min ou 1h30?",
+        "Resposta do grupo.",
+        "Foto do encontro."
+      ],
+      "corte_inicio": "0:46:08",
+      "corte_fim": "0:48:11"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Michael Lambert",
+      "contexto": "Estudos em que os terapeutas recebiam feedback em metade dos casos: os resultados melhoraram só nesses casos e as lições não se generalizaram."
+    },
+    {
+      "nome": "Bruce Wampold",
+      "contexto": "Identificação provável do estudo de 2015 (transcrito e o email em 2015, provavelmente Wampold e Imel) que deu origem à figura de fatores comuns × específicos."
+    },
+    {
+      "nome": "Zac Imel",
+      "contexto": "Coautor provável do estudo de 2015 sobre fatores comuns × específicos (identificação incerta, a partir da transcrição e o email)."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Introdução à Prática Deliberada (Núcleo de Prática Deliberada da Allos)",
+    "objetivo": "Introduzir o método da prática deliberada a partir do livro Better Results.",
+    "publico": "Estudantes de psicologia e psicólogos, associados e potenciais associados; novatos entram ao longo do curso.",
+    "tamanho": "Cerca de 6 a 10 participantes ativos.",
+    "duracao": "Cerca de 50 minutos (faixa combinada: 50 min a 1h10).",
+    "estrutura_padrao": "Retomada; perguntas disparadoras; exposição de um capítulo; dúvidas práticas; pergunta-enigma; fechamento com anúncio do próximo tema; pedido de feedback; foto para divulgação.",
+    "papel_facilitador": "Bernardo: Expositor-mediador que constrói conceitos por perguntas e cenários, responde dúvidas operacionais distinguindo clínica e pesquisa, e ajusta o formato pelo feedback do grupo.",
+    "regras_combinados": "Encontros semanais à noite (início por volta das 18h, pelo relato de uma participante que chegou depois das 18h30), online; duração de 50 min a 1h10; fotos dos encontros postadas no Instagram do Núcleo; formulário de presença com instrução de dar a menor nota possível."
+  },
+  "reflexoes_do_facilitador": [
+    "Mantém a aula em cerca de 50 minutos a pedido do grupo e acha que assim os participantes absorvem mais.",
+    "Decide não entrar nas métricas no fim da aula por considerar o conteúdo maçante: trazer agora ia ser um erro.",
+    "Tira a foto do grupo porque foi cobrado a isso (me mandaram, me xingaram) e brinca que é uma negação com tecnologia.",
+    "Menciona ter feito um post sobre teoria como abstração e não espelho da realidade."
+  ],
+  "referencias_a_outros_encontros": [
+    "Retoma o PD 04: linha de base, ORS (bem-estar geral) e SRS (aliança), e a promessa de discutir os problemas da administração das escalas.",
+    "Retoma discussões anteriores sobre os prejuízos do automatismo e sobre a qualidade do tempo de prática, mais importante que a quantidade.",
+    "Anuncia para o próximo encontro as métricas: tamanho de efeito e tamanho de efeito relativo (PD 06)."
+  ],
+  "observacoes": "Facilitador identificado como Bernardo (Núcleo de Prática Deliberada da Allos): ele não diz o nome neste encontro, mas é o mesmo condutor da série, que se refere a si mesmo como Bernardo no PD 02 (0:30:13) e diz o nome no PD 07; há continuidade explícita entre os encontros (retomadas em primeira pessoa). Não é o Alan, citado em terceira pessoa na série. Transcrições a corrigir: Hthorn, Hotorn, HTorn = Hawthorne; e o email em 2015 = provavelmente Wampold e Imel (2015); ARS/RS = ORS. O dado de 92% e a afirmação sobre a atenção cair depois de 40 minutos são reproduzidos como ditos, sem fonte na aula. Participantes nomeados na gravação (inclusive novatas) foram anonimizados na nota."
+}

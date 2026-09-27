@@ -1,0 +1,777 @@
+{
+ "id": "mon-06",
+ "nota": "Monitoria 06 - João de Bragança - Critérios de uma terapia ruim",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Critérios de uma terapia ruim",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "João de Bragança"
+ ],
+ "resumo": "João retoma a discussão sobre red flags do psicólogo, mostra que parte dos critérios é gosto pessoal e propõe o seu: o psicólogo ruim não sabe receber feedback, nem crítico nem elogioso. Para tornar a discussão concreta, o grupo assiste à sessão de demonstração de Albert Ellis no 'caso Glória' e pausa a cada movimento problemático. Surgem critérios como a pré-concepção (o próprio livro como base), microfalas que invertem a relação, generalização da cliente, tradução para jargão ('ansiedade'), abuso do lugar de suposto saber, monólogo e interrupções, substituição de crença por crença, sugestão e garantias. João alterna entre acolher a indignação e relativizar ('jogar fora a água suja e manter o bebê'; trocar palavras pode ser bom se for intervenção planejada), e fecha voltando a crítica para a própria prática, porque na psicologia não vemos colegas atendendo.",
+ "em_uma_frase": "Assistindo e pausando a sessão de Albert Ellis no 'caso Glória', o grupo constrói critérios concretos de terapia ruim, e João devolve a pergunta: o que disso existe na minha prática?",
+ "competencias": [
+  "Relação terapêutica",
+  "Escuta clínica",
+  "Interpretação",
+  "Intervenção",
+  "Construção frasal",
+  "Psicoeducação",
+  "Feedback clínico",
+  "Pessoa do terapeuta",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Terapia racional-emotiva comportamental",
+  "Terapia cognitivo-comportamental",
+  "Abordagem centrada na pessoa",
+  "Gestalt-terapia",
+  "Psicanálise lacaniana",
+  "Psicanálise freudiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Retomada",
+   "descricao": "João recapitula a discussão anterior sobre red flags do psicólogo: os critérios variam entre pessoas (quem prefere o terapeuta silencioso, quem prefere o falante) e dentro de cada abordagem. Oferece o próprio critério: o psicólogo ruim não sabe receber feedback, nem crítico nem elogioso.",
+   "funcao": "Ligar ao encontro anterior e separar o gosto pessoal de critérios gerais.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:02:03",
+   "bloco": "Abertura",
+   "descricao": "Apresenta Albert Ellis (terapia racional-emotiva, início da TCC) e os filmes do 'caso Glória', em que Rogers, Perls e Ellis atendem a mesma cliente; provoca: quase ninguém viu o de Ellis, 'e tem um motivo'.",
+   "funcao": "Gerar curiosidade e montar o contraste com Rogers e Perls.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:03:14",
+   "bloco": "Combinados",
+   "descricao": "Regra da dinâmica: sempre que o terapeuta fizer algo que incomode ou pareça errado, levanta-se a mão, pausa-se e discute-se. Pula os 7 minutos iniciais de explicação teórica.",
+   "funcao": "Distribuir o controle das pausas e focar no atendimento.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:04:10",
+   "bloco": "Dinâmica",
+   "descricao": "Exibição do trecho 1 (início da sessão).",
+   "funcao": "Material bruto para observação.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:07:35",
+   "bloco": "Discussão",
+   "descricao": "João percebe a reação de uma participante e lhe dá a palavra; críticas à culpabilização da cliente; João pede uma intervenção alternativa ('pode ser uma que você fantasiou'); comenta que Ellis usa o próprio livro como base e que a cliente chega com uma pré-concepção do terapeuta; defende deixá-la falar tudo antes.",
+   "funcao": "Passar da reação emocional para a proposta clínica.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:15:07",
+   "bloco": "Dinâmica",
+   "descricao": "Trecho 2; um participante chega e João contextualiza a dinâmica.",
+   "funcao": "Continuar a observação e integrar quem chega.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:17:20",
+   "bloco": "Discussão",
+   "descricao": "João pausa na frase 'agora você está chegando mais perto do que eu estou dizendo' e mostra como pequenas falas invertem a direção da relação; o grupo fala em postura 'médico-centrada'.",
+   "funcao": "Ensinar a escutar microfalas do terapeuta.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:19:30",
+   "bloco": "Dinâmica",
+   "descricao": "Trecho 3.",
+   "funcao": "Observação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:20:59",
+   "bloco": "Discussão",
+   "descricao": "João mostra comentários do YouTube elogiando a sessão; leitura pejorativa de uma expressão de Ellis; dúvida sobre o exagero dos filmes de demonstração; por que ninguém cita Ellis; João se abstém de opinar sobre a abordagem.",
+   "funcao": "Confrontar a percepção leiga e contextualizar o material.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:25:48",
+   "bloco": "Dinâmica",
+   "descricao": "Trecho 4.",
+   "funcao": "Observação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:26:16",
+   "bloco": "Teoria",
+   "descricao": "'Jogar fora a água suja e manter o bebê': João aponta o que há de TCC ali (crenças absolutas, conclusões em salto, generalização); o grupo conclui que 'o problema não é o quê, é o como'.",
+   "funcao": "Separar a técnica do modo de aplicá-la.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:28:05",
+   "bloco": "Dinâmica",
+   "descricao": "Trecho 5.",
+   "funcao": "Observação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:28:55",
+   "bloco": "Discussão",
+   "descricao": "Ellis fala muito, mas sobre a cliente (diferente de falar de si); João lê o chat (psicoeducação com cheiro de terapia por sugestão; 'o que o cliente gosta é bom para ele?'); análise da contradição de generalizar a paciente enquanto critica a generalização; 'ela concordou, vocês viram?'.",
+   "funcao": "Refinar critérios e ensinar a notar a concordância do paciente.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:35:03",
+   "bloco": "Dinâmica",
+   "descricao": "Trecho 6.",
+   "funcao": "Observação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:36:17",
+   "bloco": "Discussão",
+   "descricao": "'Ela não falou de ansiedade': tradução para jargão, oposto do reflexo da ACP; imposição e lugar de suposto saber; abuso de poder; um participante relativiza a troca de linguagem (exemplo de Lacan) e João formula a ideia de estética da intervenção e dialética.",
+   "funcao": "Núcleo teórico: quem nomeia o quê, e de que forma.",
+   "duracao_min": 12
+  },
+  {
+   "ts": "0:48:12",
+   "bloco": "Dinâmica",
+   "descricao": "Trecho 7 (longo monólogo do terapeuta).",
+   "funcao": "Deixar o grupo sentir o excesso de fala.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:52:47",
+   "bloco": "Discussão",
+   "descricao": "Substituição de crença por crença; 'escrevendo um livro ao vivo'; outro homem dizendo o que um homem espera de uma mulher; falta de investigação; João volta o vídeo para mostrar as interrupções; ironias sobre 'ele é o saber'.",
+   "funcao": "Critérios de escuta, investigação e dinâmica de turnos.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:00:15",
+   "bloco": "Dinâmica",
+   "descricao": "Trecho 8 (tarefa de casa e garantia de resultado).",
+   "funcao": "Observação.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:02:10",
+   "bloco": "Discussão",
+   "descricao": "Sugestão e garantia; violência não física; João: na psicologia não vemos colegas atendendo, e o erro muitas vezes não é de má-fé; o paciente leigo não tem como avaliar.",
+   "funcao": "Justificar o valor do roleplay e da supervisão.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:08:21",
+   "bloco": "Fechamento",
+   "descricao": "'A proposta é tirar lições': voltar o olhar para a própria prática e ficar vigilante; o grupo brinca sobre assistir Rogers para se acalmar; o senso comum de que o psicólogo deve dar todas as respostas.",
+   "funcao": "Transformar a crítica em autoexame.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:10:59",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Agenda (troca de dia com Diogo; volta às terças), sugestões de tema (paciente que não fala; articular teoria e prática), exemplo de estágio de João com um adolescente que evitava o tema, problema de pouco uso e de acesso à ferramenta de pacientes simulados.",
+   "funcao": "Planejar os próximos encontros com o grupo.",
+   "duracao_min": 4
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Critérios de terapia ruim",
+   "definicao": "Conjunto de sinais de um atendimento prejudicial. João separa uma parte subjetiva (preferências por um terapeuta mais falante ou mais silencioso, que variam entre pacientes e dentro das abordagens) de critérios gerais, como não aceitar feedback, impor sentido e não escutar.",
+   "exemplo": "A lista construída ao assistir Ellis: pré-concepção, microfalas que põem o paciente a serviço do terapeuta, generalização, jargão imposto, monólogo, substituição de crença, sugestão, garantias.",
+   "abordagem": "",
+   "ts": "0:00:01"
+  },
+  {
+   "nome": "Sujeito suposto saber",
+   "definicao": "O lugar de quem supostamente sabe, que o paciente atribui ao profissional. O psicólogo sabe psicologia, mas 'não necessariamente sabe de mim ainda'. Quando ele nomeia algo com autoridade, o leigo tende a aceitar. No encontro a ideia é atribuída a Freud (a formulação é de Lacan).",
+   "exemplo": "Suponho que o engenheiro sabe de engenharia; se o psicólogo diz que é ansiedade, 'deve ser ansiedade'.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:39:27"
+  },
+  {
+   "nome": "Abuso de poder na psicoterapia",
+   "definicao": "Uso da posição de terapeuta para pôr os termos, rótulos e sentidos na vida do paciente, que os adota por estar na posição de leigo. Inclui respostas 'ontológicas' sobre o sentido da vida.",
+   "exemplo": "Ellis integra 'ansiedade' ao discurso da cliente como se fosse um fato e afirma qual é 'a função básica da vida'.",
+   "abordagem": "",
+   "ts": "0:39:27"
+  },
+  {
+   "nome": "Tratamento por sugestão",
+   "definicao": "Mudança buscada pela força da autoridade e da personalidade do terapeuta, que diz ao paciente o que pensar e o que vai acontecer se ele seguir as instruções, em vez de construir a compreensão com ele.",
+   "exemplo": "Comentário do chat: 'parece psicoeducação, mas com cheiro de terapia por sugestão calcada na personalidade dele'; Ellis prevê exatamente o resultado da tarefa de casa.",
+   "abordagem": "",
+   "ts": "0:30:25"
+  },
+  {
+   "nome": "Crença central",
+   "definicao": "As 'crenças absolutas' ou 'nucleares' da TCC, das quais se tiram conclusões igualmente absolutas por saltos. João as reconhece como a parte aproveitável da sessão ('manter o bebê').",
+   "exemplo": "A crença de que seria preciso ser um certo tipo de mulher para conquistar o tipo de homem desejado; se não conseguir este, não conseguirá nenhum.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:26:16"
+  },
+  {
+   "nome": "Singularização e generalização",
+   "definicao": "O erro de pegar a vivência singular do paciente e encaixá-la num funcionamento genérico da teoria, em vez de interpretar com os elementos que ele trouxe.",
+   "exemplo": "Ellis critica a generalização da cliente enquanto a generaliza: 'se você tem isso, então é isso, isso e isso'.",
+   "abordagem": "",
+   "ts": "0:31:17"
+  },
+  {
+   "nome": "Reflexo de sentimento",
+   "definicao": "Na ACP, devolver ao paciente o que ele disse, de preferência com as palavras dele, de forma aberta ('me parece que você está falando X, faz sentido?'), o que permite que ele renomeie.",
+   "exemplo": "'Não me sinto frustrada, sinto raiva': a abertura permite corrigir o nome dado pelo terapeuta.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:41:33"
+  },
+  {
+   "nome": "Estética da intervenção",
+   "definicao": "A estética 'enquanto produção da forma': como a intervenção é dita. Usar palavras que não foram as do paciente pode ser ótimo ou abusivo; o que decide é a forma e o fato de a intervenção ser pensada e planejada.",
+   "exemplo": "Pôr outra palavra para 'incomodar os ouvidos' do paciente e fazê-lo avançar, em contraste com amarrar a narrativa dele na do terapeuta.",
+   "abordagem": "",
+   "ts": "0:45:03"
+  },
+  {
+   "nome": "Dialética",
+   "definicao": "'Duas pessoas diferentes conversando uma com a outra'. O terapeuta pode introduzir sentidos novos, desde que haja espaço para o paciente responder e negar.",
+   "exemplo": "A provocação planejada por troca de palavra.",
+   "abordagem": "",
+   "ts": "0:46:08"
+  },
+  {
+   "nome": "Associação livre",
+   "definicao": "Citada por uma participante como contraste: em vez de favorecer a associação livre da paciente, o terapeuta faz a própria associação a partir do pouco que ela disse.",
+   "exemplo": "'Ela é que desencadeou uma associação livre nele.'",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:57:23"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "Citados por uma participante: com tão pouco material, nem daria para situar a paciente num estágio de mudança, porque ela não teve chance de falar.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:32:28"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Pausar a sessão gravada",
+   "objetivo": "Tornar concretos os critérios de uma terapia ruim observando um atendimento real e discutindo cada movimento problemático do terapeuta; treinar o olhar clínico sobre microfalas, turnos e forma de intervir.",
+   "competencias": [
+    "Escuta clínica",
+    "Relação terapêutica",
+    "Intervenção",
+    "Feedback clínico"
+   ],
+   "configuracao": "Grupo todo, online, facilitador compartilhando a tela com legenda; de 4 a 6 participantes; participação por voz e chat.",
+   "tempo": "Cerca de 65 minutos para cerca de 20 minutos de vídeo, em 8 trechos.",
+   "materiais": "Vídeo de sessão de demonstração pública (Albert Ellis no 'caso Glória'), com legenda; comentários públicos do vídeo como material de contraste.",
+   "consigna": "Toda vez que ele fizer alguma coisa que incomodar vocês, que vocês acharem estranho, a gente pausa e discute sobre o que ele fez de errado. Levantem a mão para pedir a pausa.",
+   "passos": [
+    "Retomar a pergunta 'o que é uma terapia ruim?' e dar um critério próprio como exemplo.",
+    "Contextualizar o material (autor, abordagem, por que é pouco assistido) e combinar a regra da pausa.",
+    "Exibir em trechos curtos, pulando a introdução teórica.",
+    "Em cada pausa, colher a reação e pedir uma alternativa clínica ('como você faria? pode ser uma intervenção fantasiada').",
+    "O facilitador também pausa e volta o vídeo para mostrar o que o grupo não percebeu (microfalas, concordância, interrupções).",
+    "Ler o chat em voz alta e contextualizar quem chega.",
+    "Fechar voltando a crítica para a própria prática."
+   ],
+   "feedback": "Valida a indignação, mas pede alternativa; relativiza consensos ('jogar fora a água suja e manter o bebê'; trocar a linguagem pode ser bom se for intervenção planejada); nomeia conceitos (estética, dialética, sugestão); aponta detalhes finos ('ela concordou, vocês viram?').",
+   "exemplos_praticos": "Uma participante reagiu com forte incômodo desde o primeiro trecho; o grupo propôs trabalhar autoestima e autenticidade em vez de 'ensinar a conquistar'; o chat trouxe a ideia de terapia por sugestão; um participante defendeu, com um exemplo de Lacan, que trocar palavras pode ser bom; o grupo notou a contradição de generalizar a cliente e a tradução para 'ansiedade'.",
+   "variacoes": "Comparar a mesma cliente atendida por Rogers e Perls; pausar também nos acertos; montar ao final uma lista de critérios com o grupo.",
+   "armadilhas": "Virar só catarse coletiva ('falar mal'); anacronismo, julgando sessão de outra época por critérios atuais; ignorar que filmes de demonstração podem exagerar a técnica. João contorna pedindo alternativas, relativizando e fechando com 'o que isso diz da minha prática?'.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:03:14"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Retomar e dar o próprio exemplo",
+   "descricao": "Abre recapitulando a discussão anterior e oferece seu critério pessoal antes de pedir o dos outros.",
+   "exemplo": "'Eu acho que um psicólogo ruim é aquele que não aceita feedback.'",
+   "ts": "0:01:01"
+  },
+  {
+   "movimento": "Material concreto e provocativo",
+   "descricao": "Tira a discussão do abstrato com uma sessão real e uma provocação que gera curiosidade.",
+   "exemplo": "'O do Ellis quase ninguém assistiu, e eu acho que tem um motivo.'",
+   "ts": "0:02:03"
+  },
+  {
+   "movimento": "Distribuir o controle do ritmo",
+   "descricao": "Dá ao grupo a regra de pausar quando algo incomodar, com a mão levantada.",
+   "exemplo": "'Toda vez que ele fizer alguma coisa que incomodar vocês, a gente pausa e discute.'",
+   "ts": "0:03:14"
+  },
+  {
+   "movimento": "Ler rostos no online",
+   "descricao": "Percebe a reação não verbal de uma participante e lhe dá a palavra.",
+   "exemplo": "'Eu vi sua cara... ela vai pausar agora. Pode falar.'",
+   "ts": "0:07:35"
+  },
+  {
+   "movimento": "Da reação à proposta",
+   "descricao": "Depois do desabafo, pede uma alternativa clínica e autoriza a imaginação.",
+   "exemplo": "'Pode ser desde o que você pensou até uma intervenção que você fantasiou, não precisa ficar fechada na minha caixinha.'",
+   "ts": "0:09:21"
+  },
+  {
+   "movimento": "Pausar para ensinar o invisível",
+   "descricao": "Ele mesmo interrompe o vídeo numa microfala, antecipa a objeção e checa a compreensão.",
+   "exemplo": "'Vocês vão dizer que é tempestade em copo d'água... pequenas coisas importam muito. Faz sentido?'",
+   "ts": "0:17:26"
+  },
+  {
+   "movimento": "Trazer o olhar leigo",
+   "descricao": "Mostra comentários do YouTube elogiando a sessão para contrastar percepção leiga e clínica.",
+   "exemplo": "'Meia hora de terapia com ele resolveria minha vida.'",
+   "ts": "0:21:18"
+  },
+  {
+   "movimento": "Integrar o chat e os atrasados",
+   "descricao": "Lê contribuições do chat em voz alta, valoriza-as e recontextualiza o caso para quem chega.",
+   "exemplo": "'Essa questão da terapia por sugestão é uma bolinha muito boa que você levantou.'",
+   "ts": "0:30:25"
+  },
+  {
+   "movimento": "Relativizar para não linchar",
+   "descricao": "Separa embalagem e conteúdo e transforma uma relativização de participante em conceito.",
+   "exemplo": "'Vou tentar jogar a água suja fora e manter o bebê.' / 'Você trouxe um ponto importante: a estética do que a gente faz.'",
+   "ts": "0:26:16"
+  },
+  {
+   "movimento": "Reservar a opinião",
+   "descricao": "Evita dar a própria avaliação da abordagem de Ellis para não fechar a discussão.",
+   "exemplo": "'Eu vou me abster das minhas opiniões.'",
+   "ts": "0:25:35"
+  },
+  {
+   "movimento": "Apontar detalhes de processo",
+   "descricao": "Chama atenção para a concordância da cliente e volta o vídeo para mostrar interrupções.",
+   "exemplo": "'Ela concordou, vocês viram? Acho que isso é importante notar.'",
+   "ts": "0:34:58"
+  },
+  {
+   "movimento": "Humor para sustentar o incômodo",
+   "descricao": "Usa brincadeiras para dosar a carga emocional do material.",
+   "exemplo": "'Vamos sofrer mais um pouco.' / 'Até onde a gente aguentar.'",
+   "ts": "0:34:52"
+  },
+  {
+   "movimento": "Fechar virando o espelho",
+   "descricao": "Transforma a crítica ao outro em pergunta sobre a própria prática.",
+   "exemplo": "'A proposta é tirar lições... pensar o que disso a gente pode tirar para melhorar a própria prática.'",
+   "ts": "1:08:21"
+  },
+  {
+   "movimento": "Planejar com o grupo",
+   "descricao": "Pede e anota sugestões de tema e assume resolver o acesso à ferramenta de casos simulados.",
+   "exemplo": "'Concatenar teoria e prática e paciente que não fala: é o que está anotado aqui.'",
+   "ts": "1:14:07"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Peça e acolha feedback do paciente, inclusive o elogio, sem se inflar.",
+   "justificativa": "Não saber receber crítica nem elogio é, para João, o traço do psicólogo ruim: impede a correção e gera a certeza de que está tudo perfeito.",
+   "contexto": "Sempre, especialmente quando o paciente diz que algo incomodou.",
+   "competencia": "Feedback clínico",
+   "ts": "0:01:01"
+  },
+  {
+   "dica": "Nas primeiras falas, deixe o paciente falar tudo antes de concluir.",
+   "justificativa": "Com 'dois minutos de conversa' não há material; a relação não deve nascer de uma pré-concepção.",
+   "contexto": "Início de tratamento, sobretudo quando o paciente chega com ideias prévias sobre o terapeuta.",
+   "competencia": "Escuta clínica",
+   "ts": "0:13:50"
+  },
+  {
+   "dica": "Diferencie a imagem que o paciente traz de você (autor, figura pública) de quem você é na sessão.",
+   "justificativa": "Senão o atendimento vira aplicação da obra do terapeuta.",
+   "contexto": "Pacientes que chegam por causa de um livro, vídeo ou post do terapeuta.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:12:28"
+  },
+  {
+   "dica": "Evite frases que põem o paciente para se aproximar de você ('agora você está entendendo o que eu digo').",
+   "justificativa": "Pequenas falas definem a direção da relação; quem deve se aproximar da compreensão é o terapeuta.",
+   "contexto": "Ao validar um insight do paciente.",
+   "competencia": "Construção frasal",
+   "ts": "0:17:26"
+  },
+  {
+   "dica": "Construa a interpretação com os elementos que o próprio paciente trouxe.",
+   "justificativa": "Senão você aplica teoria e generaliza a pessoa, justamente o que critica nela.",
+   "contexto": "Ao formular e devolver hipóteses.",
+   "competencia": "Interpretação",
+   "ts": "0:31:17"
+  },
+  {
+   "dica": "Não ponha no discurso do paciente um termo técnico que ele não usou como se fosse fato.",
+   "justificativa": "O lugar de suposto saber faz o leigo aceitar o rótulo; é uma forma de abuso de poder.",
+   "contexto": "Ao nomear emoções ('ansiedade', 'frustração').",
+   "competencia": "Intervenção",
+   "ts": "0:36:17"
+  },
+  {
+   "dica": "Se for nomear, faça de modo direto e com espaço para negação ('me parece X, faz sentido para você?').",
+   "justificativa": "Abre conversa e permite que o paciente renomeie; amarrar a narrativa dele na sua o sufoca.",
+   "contexto": "Reflexos e interpretações.",
+   "competencia": "Construção frasal",
+   "ts": "0:46:08"
+  },
+  {
+   "dica": "Troque as palavras do paciente só de forma intencional, como provocação planejada.",
+   "justificativa": "A troca de linguagem pode expandir sentidos (dialética), mas é a forma que decide se ajuda ou impõe.",
+   "contexto": "Quando o paciente está preso numa formulação.",
+   "competencia": "Intervenção",
+   "ts": "0:45:03"
+  },
+  {
+   "dica": "Desconfie do 'sim' fácil do paciente.",
+   "justificativa": "A concordância pode vir da autoridade do terapeuta e da falta de espaço, não de insight.",
+   "contexto": "Depois de intervenções longas ou diretivas.",
+   "competencia": "Escuta clínica",
+   "ts": "0:34:58"
+  },
+  {
+   "dica": "Ao fazer uma pergunta, pare e espere a resposta.",
+   "justificativa": "Pergunta seguida de monólogo não é pergunta ('escrevendo um livro ao vivo'); o paciente precisa interromper para falar.",
+   "contexto": "Sempre; vale conferir a proporção de fala em gravações ou transcrições próprias.",
+   "competencia": "Escuta clínica",
+   "ts": "0:54:28"
+  },
+  {
+   "dica": "Não troque a crença do paciente por uma crença sua.",
+   "justificativa": "Ideias como 'ser você mesma' ou 'aceitar as partes defeituosas' podem ser a priori do terapeuta, sem investigação; é outra crença.",
+   "contexto": "Reestruturação cognitiva, conselhos, tarefas de casa.",
+   "competencia": "Formulação de caso",
+   "ts": "0:53:17"
+  },
+  {
+   "dica": "Não dê garantias de resultado.",
+   "justificativa": "Questões relacionais dependem também do outro; garantia é sugestão, não terapia.",
+   "contexto": "Ao propor tarefas e prever efeitos.",
+   "competencia": "Intervenção",
+   "ts": "1:02:28"
+  },
+  {
+   "dica": "Fale bastante, se precisar, mas sobre o processo do paciente, nunca para disputar sofrimento ou se comparar.",
+   "justificativa": "A fala do terapeuta é legítima enquanto serve ao processo do paciente.",
+   "contexto": "Autorrevelação e exemplos pessoais.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:29:20"
+  },
+  {
+   "dica": "Diante de um paciente que evita o tema da terapia, negocie o enquadre com criatividade.",
+   "justificativa": "No estágio de João, um adolescente que fugia do assunto aceitou 'metade da sessão sobre o que você gosta, metade sobre o que precisamos falar'.",
+   "contexto": "Atendimentos diretivos com adolescentes pouco engajados.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:12:37"
+  },
+  {
+   "dica": "Estude sessões ruins separando embalagem e conteúdo.",
+   "justificativa": "Mesmo numa sessão mal conduzida há técnica aproveitável (crenças absolutas, conclusões em salto); 'o problema não é o quê, é o como'.",
+   "contexto": "Estudo de autores e demonstrações gravadas.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:26:16"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Um psicólogo ruim é, antes de tudo, o que não sabe receber feedback, crítico ou elogioso.",
+   "argumento": "A crítica recusada impede a correção; o elogio 'abraçado com tudo' gera a certeza de que não há nada errado.",
+   "contraponto": "Critérios baseados só em estilo (falar muito ou pouco) variam entre pacientes e dentro das abordagens.",
+   "implicacao": "Abrir espaço explícito para o feedback do paciente e desconfiar do próprio conforto.",
+   "quem": "João de Bragança",
+   "ts": "0:01:01"
+  },
+  {
+   "tese": "Em terapia, pequenas frases importam muito porque dirigem a relação.",
+   "argumento": "'Agora você está chegando perto do que eu digo' põe o paciente a serviço da compreensão do terapeuta e define 'onde é o chão'.",
+   "contraponto": "A objeção de que seria 'tempestade em copo d'água'.",
+   "implicacao": "A supervisão deve olhar microfalas, não só grandes intervenções.",
+   "quem": "João de Bragança",
+   "ts": "0:17:26"
+  },
+  {
+   "tese": "Aplicar teoria sobre o paciente não é interpretar.",
+   "argumento": "Interpretar é construir com o material do paciente; aplicar é generalizá-lo num funcionamento genérico, contradição que Ellis comete ao criticar a generalização da cliente.",
+   "contraponto": "Estilos muito diretivos e psicoeducativos que partem de um modelo pronto.",
+   "implicacao": "Investigar antes de formular; formular com as palavras e os elementos do paciente.",
+   "quem": "João de Bragança",
+   "ts": "0:31:17"
+  },
+  {
+   "tese": "Trocar a linguagem do paciente não é, em si, um erro; decidem a forma e a intenção.",
+   "argumento": "A troca pode expandir sentidos e provocar dialética (exemplo de Lacan trazido por um participante); o problema é amarrar a narrativa do paciente na do terapeuta sem espaço para negar.",
+   "contraponto": "Leitura rígida da ACP de que devolver as mesmas palavras seria sempre o certo.",
+   "implicacao": "Introduzir termos novos só de modo planejado e com abertura para recusa.",
+   "quem": "João de Bragança (a partir de um participante)",
+   "ts": "0:45:03"
+  },
+  {
+   "tese": "Há algo aproveitável até numa sessão ruim: é preciso separar embalagem e conteúdo.",
+   "argumento": "A noção de crenças absolutas e conclusões em salto permanece útil; o problema está no modo de aplicar.",
+   "contraponto": "A rejeição total da sessão pelo grupo.",
+   "implicacao": "Estudar autores e demonstrações criticamente, extraindo a técnica sem copiar a postura.",
+   "quem": "João de Bragança",
+   "ts": "0:26:16"
+  },
+  {
+   "tese": "O lugar de suposto saber pode virar abuso de poder.",
+   "argumento": "O paciente supõe que o psicólogo sabe; ele sabe psicologia, mas ainda não sabe do paciente; quando nomeia com autoridade, o paciente adota a nomeação.",
+   "contraponto": "A ideia leiga de que o psicólogo deve dar todas as respostas (comentários do vídeo).",
+   "implicacao": "Usar a autoridade para abrir perguntas, não para fechar sentidos.",
+   "quem": "Grupo (participante, com endosso de João)",
+   "ts": "0:39:27"
+  },
+  {
+   "tese": "Terapia por sugestão e garantias são sinais de terapia ruim.",
+   "argumento": "O terapeuta prevê o que vai acontecer se a paciente obedecer; num problema relacional nada pode ser garantido.",
+   "contraponto": "O público que acha que 'meia hora com ele resolveria minha vida'.",
+   "implicacao": "Formular tarefas como experimentos, sem prometer resultado.",
+   "quem": "João de Bragança e grupo",
+   "ts": "1:02:28"
+  },
+  {
+   "tese": "Psicólogos precisam ver e ser vistos atendendo, porque o erro costuma ser invisível para quem o comete.",
+   "argumento": "Não vemos colegas atendendo; muitas vezes não há má-fé, só falta alguém que aponte; o paciente leigo não tem como avaliar.",
+   "contraponto": "Uma formação que não expõe a prática real.",
+   "implicacao": "Monitorias, roleplays e análise de sessões como parte central da formação.",
+   "quem": "João de Bragança",
+   "ts": "1:04:52"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Um psicólogo ruim é aquele que não aceita feedback, que não sabe receber o feedback, seja um feedback ruim, seja um feedback bom.",
+   "tema": "critérios de terapia ruim",
+   "ts": "0:01:01"
+  },
+  {
+   "texto": "Terapia é desse jeito: pequenas coisas importam muito, porque é esse tipo de fala que direciona a dinâmica da relação.",
+   "tema": "microfalas e relação",
+   "ts": "0:17:26"
+  },
+  {
+   "texto": "Vou tentar jogar a água suja fora e manter o bebê: a roupagem é péssima, mas dá para ver questões da TCC que se mantiveram.",
+   "tema": "leitura crítica",
+   "ts": "0:26:16"
+  },
+  {
+   "texto": "O problema não é o quê, é o como.",
+   "tema": "técnica e forma",
+   "ts": "0:27:08"
+  },
+  {
+   "texto": "Ele está criticando a generalização dela, mas, contraditoriamente, está generalizando ela.",
+   "tema": "generalização",
+   "ts": "0:31:17"
+  },
+  {
+   "texto": "Interpretar é pegar elementos que a própria pessoa trouxe e, junto com ela, ir criando uma compreensão da situação.",
+   "tema": "interpretação",
+   "ts": "0:31:17"
+  },
+  {
+   "texto": "Ela não falou de ansiedade em momento nenhum. Para mim, essa é uma baita red flag.",
+   "tema": "jargão imposto",
+   "ts": "0:36:17"
+  },
+  {
+   "texto": "O psicólogo sabe de psicologia, mas não necessariamente sabe de mim ainda.",
+   "tema": "suposto saber",
+   "ts": "0:40:35"
+  },
+  {
+   "texto": "Você pode usar outras palavras que não foram as que o paciente trouxe, contanto que seja uma intervenção pensada e planejada.",
+   "tema": "estética da intervenção",
+   "ts": "0:45:03"
+  },
+  {
+   "texto": "Ele começa a pergunta e parece que está escrevendo um livro ao vivo.",
+   "tema": "monólogo do terapeuta",
+   "ts": "0:54:28"
+  },
+  {
+   "texto": "Ele não é dono do suposto saber. Ele é o saber.",
+   "tema": "abuso de poder (ironia de participante)",
+   "ts": "0:59:16"
+  },
+  {
+   "texto": "Na psicologia a gente não vê as pessoas atendendo; a gente nunca sabe como o nosso colega atende.",
+   "tema": "formação",
+   "ts": "1:04:52"
+  },
+  {
+   "texto": "Às vezes não é nem má-fé: você acha que está fazendo certo e só precisa de alguém para te falar que está errado.",
+   "tema": "supervisão",
+   "ts": "1:06:00"
+  },
+  {
+   "texto": "A proposta é tirar lições: pensar o que disso a gente pode tirar para melhorar a própria prática.",
+   "tema": "autoexame",
+   "ts": "1:08:21"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Seu psicólogo sabe receber feedback? Até elogio?",
+   "mensagem": "O primeiro critério de uma terapia ruim é o terapeuta que não suporta crítica, nem recebe elogio sem se inflar.",
+   "roteiro": [
+    "Gancho: o que torna uma terapia ruim?",
+    "Parte é gosto: há quem prefira o terapeuta falante e quem prefira o silencioso",
+    "Critério geral: saber receber feedback",
+    "Feedback negativo: 'não gostei do que você falou'",
+    "Feedback positivo: o elogio que infla",
+    "Convite: você já deu feedback ao seu terapeuta?"
+   ],
+   "corte_inicio": "0:01:01",
+   "corte_fim": "0:02:03"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "11 sinais de uma terapia ruim (segundo uma supervisão)",
+   "mensagem": "Sinais concretos que vão além do estilo: pré-concepção, microfalas, generalização, jargão imposto, monólogo, sugestão, garantia.",
+   "roteiro": [
+    "Gancho",
+    "Não é sobre falar muito ou pouco",
+    "Sinais 1-4: feedback, pré-concepção, microfalas, culpabilização",
+    "Sinais 5-8: falar de si, generalizar, jargão, suposto saber",
+    "Sinais 9-11: monólogo, trocar crença por crença, sugestão e garantias",
+    "Fechamento: qual deles você já viu (ou fez)?"
+   ],
+   "corte_inicio": "0:31:17",
+   "corte_fim": "0:32:28"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Você nunca disse 'ansiedade', mas saiu da sessão com esse rótulo.",
+   "mensagem": "Nomear por cima do paciente é diferente do reflexo aberto e da troca de palavra planejada.",
+   "roteiro": [
+    "Cena: paciente descreve algo; terapeuta traduz em jargão",
+    "Por que isso é problema (suposto saber)",
+    "Alternativa 1: 'me parece X, faz sentido?'",
+    "Alternativa 2: troca de palavra planejada como provocação",
+    "Frase final: o que decide é a forma"
+   ],
+   "corte_inicio": "0:36:17",
+   "corte_fim": "0:37:12"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "O psicólogo sabe psicologia, mas ainda não sabe de você.",
+   "mensagem": "A autoridade do terapeuta deve abrir perguntas, não fechar sentidos; senão vira abuso de poder.",
+   "roteiro": [
+    "Frase-gancho",
+    "O exemplo do engenheiro",
+    "Como o leigo adota o rótulo",
+    "O que fazer: perguntar, checar, deixar negar"
+   ],
+   "corte_inicio": "0:39:27",
+   "corte_fim": "0:41:33"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Na psicologia, ninguém vê o colega atendendo.",
+   "mensagem": "Muitos erros não são de má-fé; por isso roleplay, supervisão e análise de sessões são indispensáveis.",
+   "roteiro": [
+    "Gancho",
+    "Médicos veem colegas operando; psicólogos não",
+    "O erro invisível",
+    "O paciente não tem como avaliar",
+    "Convite: grupos de prática e supervisão"
+   ],
+   "corte_inicio": "1:04:52",
+   "corte_fim": "1:06:37"
+  },
+  {
+   "formato": "post",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Desconfie do terapeuta que te dá garantia.",
+   "mensagem": "Problemas relacionais dependem do outro; tarefa terapêutica é experimento, não promessa.",
+   "roteiro": [
+    "Gancho",
+    "Por que não há garantia em terapia",
+    "Sugestão x elaboração",
+    "Como formular tarefas como experimentos"
+   ],
+   "corte_inicio": "1:02:28",
+   "corte_fim": "1:04:52"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como a gente estuda terapia ruim: assistir e pausar.",
+   "mensagem": "Apresentar a dinâmica de análise de sessão gravada e convidar para as monitorias.",
+   "roteiro": [
+    "Foto/tela da dinâmica",
+    "Regra: incomodou, pausa",
+    "O que o grupo aprendeu",
+    "Convite"
+   ],
+   "corte_inicio": "0:03:14",
+   "corte_fim": "0:03:49"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Albert Ellis",
+   "contexto": "Criador da terapia racional-emotiva; sua sessão no 'caso Glória' é o material analisado como exemplo de terapia ruim."
+  },
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Atendeu a mesma cliente nos filmes; citado como o oposto de Ellis ('assiste o do Rogers para se acalmar')."
+  },
+  {
+   "nome": "Fritz Perls",
+   "contexto": "Também atendeu a cliente nos filmes; lembrado como demonstração confrontativa, possivelmente exagerada."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Citado no grupo a propósito do lugar de 'suposto saber' do profissional."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Exemplo, trazido por um participante, de troca de linguagem que muda a significação (gesto no rosto de uma paciente ao ouvir a palavra sobre a polícia nazista)."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria com João de Bragança (formato temático / análise de material)",
+  "objetivo": "Supervisão em grupo para aprimorar o olhar clínico; neste encontro, construir critérios de terapia ruim a partir de uma sessão gravada pública.",
+  "publico": "Participantes da formação clínica da Allos (estudantes, estagiários e psicólogos em início de carreira).",
+  "tamanho": "Cerca de 4 a 6 participantes, com entradas ao longo do encontro.",
+  "duracao": "Cerca de 1h15.",
+  "estrutura_padrao": "Retomada do tema anterior → material concreto (vídeo) → ciclos de assistir e pausar com discussão → virada reflexiva para a própria prática → agenda e sugestões de tema.",
+  "papel_facilitador": "Propõe o material e a regra, dá a palavra, pede alternativas, relativiza, nomeia conceitos e fecha com autoexame; estilo horizontal e bem-humorado.",
+  "regras_combinados": "Online, com vídeo compartilhado e legenda; pedir pausa levantando a mão; chat aberto para contribuições; monitoria normalmente às terças (neste dia, sexta, por troca com Diogo); a ideia original é discutir casos atendidos na ferramenta de pacientes simulados (ECO)."
+ },
+ "reflexoes_do_facilitador": [
+  "Reconhece que poderia ter pausado o vídeo antes ('eu podia ter parado nessa parte, mas consegui continuar um pouco').",
+  "Admite não lembrar os termos exatos da TCC ao falar de crenças absolutas ('vocês me perdoem que eu não lembro exatamente os termos').",
+  "Opta por se abster de opinar sobre a abordagem de Ellis.",
+  "Diz que o objetivo inicial do trabalho com roleplay era justamente permitir que alguém de dentro da área aponte erros que o próprio terapeuta não vê.",
+  "Constata que quase ninguém está usando a ferramenta de pacientes simulados, o que dificulta a proposta original da monitoria (discutir esses casos), e assume resolver o problema de acesso de uma participante."
+ ],
+ "referencias_a_outros_encontros": [
+  "Retoma a monitoria anterior, em que discutiu critérios de terapia ruim e red flags (provavelmente mon-09, primeira monitoria de João às terças); o vídeo de Ellis estava previsto para aquele encontro, mas não houve tempo.",
+  "Troca de dia com Diogo: Diogo fez a monitoria na terça, João na sexta; na semana seguinte João volta à terça.",
+  "Temas sugeridos para próximos encontros: paciente que não fala; articulação entre teoria e prática (monitoria teórica).",
+  "Menção a roleplays feitos anteriormente no grupo.",
+  "Menção à ferramenta de pacientes simulados (ECO), a um grupo 'categoria de base' e a conversas com Alan sobre a falta de casos.",
+  "Continuação do tema 'como saber se um psicólogo é bom' em mon-07."
+ ],
+ "observacoes": "Legenda automática com muito ruído; as falas de Ellis estão em inglês com transcrição imperfeita. A cliente do filme é uma pessoa real de material histórico público; o fichamento não reproduz suas falas. João situa o projeto dos filmes na 'década de 70'; a série Three Approaches to Psychotherapy costuma ser datada de 1965 (verificar). A abordagem é chamada no encontro de 'terapia racional emotiva comportamental'; na época do filme chamava-se terapia racional(-emotiva). Atribuições incertas: não é possível saber com segurança se as falas sobre abuso de poder/suposto saber e o exemplo de Lacan são de João ou de um participante; o texto atribui a relativização da troca de linguagem e o exemplo de Lacan a um participante, e a formulação sobre estética e dialética a João. O grupo atribui o 'suposto saber' a Freud; a formulação 'sujeito suposto saber' é de Lacan. Uma citação final ('a arte tem esse efeito de: é de mim que se trata') é atribuída a um nome ininteligível ('Locat' (?)). Nomes de participantes aparecem trocados na legenda (Carla/Carlos, Thiago/Thago, Gabriel/Ângelo). O vídeo foi exibido até o minuto 20 da sessão; os 5 minutos finais não foram vistos."
+}

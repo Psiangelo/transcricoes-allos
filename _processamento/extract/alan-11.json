@@ -1,0 +1,1106 @@
+{
+  "id": "alan-11",
+  "nota": "Alan 11 - Psicodiagnóstico",
+  "pasta": "02 - Encontros do Alan",
+  "titulo": "Psicodiagnóstico",
+  "serie": "Aprimoramento clínico - Alan",
+  "formato": "Aprimoramento clínico",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Alan começa diferenciando tipos de diagnóstico: nosológico-fenomenológico (DSM, ateórico, útil para pesquisa mas pouco útil na clínica), estrutural (psicanálise, define a estrutura da clínica), teórico (ex.: ciclo de contato da Gestalt) e o 'diagnóstico propriamente psicológico', que é o foco. Este serve para compreender e não para comunicar (o diagnóstico comunicado é intervenção), pode surgir no meio ou no fim do tratamento e se faz com imagens da língua comum, não com jargão (Jung: mais importa saber que é 'filhinho de papai' do que histérico). Na dinâmica dos poemas, o grupo diagnostica em uma palavra ou frase três poemas de slam em dificuldade crescente: culpa de assassino arrependido (poema 1), 'casa mal assombrada' (poema 2, alcançado depois de muitas leituras parciais corrigidas pelo critério hermenêutico da completude) e um caso aberto sobre pai, avô e masculinidade (poema 3), usado para ensinar leitura em camadas, geração × teste de hipóteses e retificação subjetiva. Fecha com três lições: formular ≠ testar hipóteses; fato sobre a pessoa ≠ diagnóstico; 'toda verdade é óbvia' e um caso bem entendido cabe numa frase.",
+  "em_uma_frase": "O diagnóstico que orienta a clínica é uma imagem curta em linguagem comum, específica e completa (nenhum fenômeno fica de fora), e não o rótulo do DSM ou o termo técnico da escola; treina-se isso diagnosticando poemas.",
+  "competencias": [
+    "Psicodiagnóstico",
+    "Interpretação",
+    "Formulação de caso",
+    "Escuta clínica",
+    "Direção do tratamento",
+    "Articulação teoria-prática",
+    "Pessoa do terapeuta"
+  ],
+  "abordagens": [
+    "Psicanálise freudiana",
+    "Psicanálise lacaniana",
+    "Gestalt-terapia",
+    "Psicologia analítica junguiana",
+    "Psicologia individual adleriana"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:00",
+      "bloco": "Teoria",
+      "descricao": "Gravação começa no meio da explicação. Alan pergunta ao grupo que tipos de diagnóstico existem; corrige 'diagnóstico diferencial' (todo diagnóstico é diferencial); apresenta o diagnóstico nosológico-fenomenológico do DSM com prós e contras.",
+      "funcao": "Ativar conhecimento prévio e montar o fundo contra o qual o conceito novo aparece.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:03:04",
+      "bloco": "Comparação de abordagens",
+      "descricao": "Diagnóstico estrutural da psicanálise (define a estrutura da clínica; entrevistas preliminares) e diagnóstico teórico (ciclo de contato na Gestalt).",
+      "funcao": "Mostrar que cada escola diagnostica com finalidade diferente.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:05:34",
+      "bloco": "Teoria",
+      "descricao": "Diagnóstico propriamente psicológico × diagnóstico comunicado (intervenção); exemplo das consequências do rótulo de autismo.",
+      "funcao": "Introduzir o conceito central.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:08:06",
+      "bloco": "Teoria",
+      "descricao": "Diferenças de tempo (não precisa preceder o tratamento) e de linguagem (imagens, não jargão). Jung: 'filhinho de papai' × histérico; quatro casos fictícios de 'depressão' com tratamentos diferentes.",
+      "funcao": "Tornar o conceito visual e mostrar que o rótulo não define o tratamento.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "0:16:04",
+      "bloco": "Dúvidas",
+      "descricao": "Um participante (Diogo) pergunta se o diagnóstico já aponta a intervenção; Alan responde que a direção fica evidente, embora não esteja escrita.",
+      "funcao": "Ligar diagnóstico e direção do tratamento.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:17:01",
+      "bloco": "Combinados",
+      "descricao": "Anuncia três poemas em dificuldade crescente (dois com gabarito, um aberto) e a playlist de mais de 30 poemas.",
+      "funcao": "Dar o mapa da atividade e segurança ('tem gabarito').",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:18:01",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Logística de compartilhamento de tela e áudio; envio da tradução própria no grupo da turma.",
+      "funcao": "Preparação técnica.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:19:20",
+      "bloco": "Dinâmica",
+      "descricao": "Exibição do poema 1 (carta de um homem trans à menina que foi).",
+      "funcao": "Material do primeiro caso.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:21:59",
+      "bloco": "Demonstração",
+      "descricao": "Enquanto o grupo pensa, Alan mostra 'o que não é': disforia de gênero (DSM), psicose (leitura psicanalítica clássica), luto/suicídio/depressão. Pede que não escrevam ainda no chat.",
+      "funcao": "Ensinar pelo contraexemplo aproveitando o tempo de reflexão.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:28:25",
+      "bloco": "Rodada de respostas",
+      "descricao": "Respostas no chat e no microfone; quem já conhece o poema não responde; uma participante aponta que a dúvida central é se a carta é um pedido de desculpas.",
+      "funcao": "Ver o raciocínio do grupo.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:30:28",
+      "bloco": "Feedback",
+      "descricao": "Gabarito: culpa de assassino arrependido; literatura relevante: Crime e castigo; a questão clínica não é o rótulo que a pessoa traz.",
+      "funcao": "Mostrar a 'isca' do caso e generalizar a lição.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:35:45",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Transição; Alan busca água e prepara o segundo vídeo.",
+      "funcao": "Pausa.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:37:09",
+      "bloco": "Dinâmica",
+      "descricao": "Exibição do poema 2 (mulher que se descreve como casa assombrada; título menciona ansiedade (?)).",
+      "funcao": "Caso que exige mais construção.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:40:35",
+      "bloco": "Rodada de respostas",
+      "descricao": "Pergunta 'o que realmente estamos tratando?'; comentários um a um (medo de abandono, rancor, enamoramento, solidão, amor próprio), cada um com feedback.",
+      "funcao": "Treinar a régua 'específico + completo'.",
+      "duracao_min": 12
+    },
+    {
+      "ts": "0:52:10",
+      "bloco": "Teoria",
+      "descricao": "Nomeia o critério hermenêutico da completude/perfeição.",
+      "funcao": "Dar nome ao critério já em uso.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:53:16",
+      "bloco": "Rodada de respostas",
+      "descricao": "Mais contribuições por microfone (vergonha de colecionar fantasmas, ilogicidade do amor, histriônica).",
+      "funcao": "Aprofundar hipóteses.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:58:03",
+      "bloco": "Feedback",
+      "descricao": "Meta-lição: 'histriônica' é fato sobre a pessoa; o raciocínio dela aponta para o diagnóstico 'sereia'. O que importa é o raciocínio, não o gabarito.",
+      "funcao": "Corrigir o modo de pensar do grupo.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "1:03:06",
+      "bloco": "Rodada de respostas",
+      "descricao": "Meta-dica (último verso e título) e rodada relâmpago 'Esta pessoa é ___'.",
+      "funcao": "Destravar quando ninguém chega à resposta.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "1:06:16",
+      "bloco": "Feedback",
+      "descricao": "Gabarito 'casa mal assombrada'; mostra que todas as respostas eram partes da imagem; parte 2 da dinâmica (filmes/obras sobre casa assombrada); duplo sentido de 'mal assombrada' como intervenção; exorcismo e Martelo das Feiticeiras.",
+      "funcao": "Integrar contribuições e separar diagnóstico de intervenção.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "1:14:18",
+      "bloco": "Combinados",
+      "descricao": "Apresenta o poema 3 como sem gabarito; tese de que a teoria não dá conta do caso e vem depois como ferramenta.",
+      "funcao": "Subir o nível de complexidade.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "1:16:38",
+      "bloco": "Dinâmica",
+      "descricao": "Exibição do poema 3 (filho, pai violento, masculinidade, avô).",
+      "funcao": "Caso aberto.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "1:19:19",
+      "bloco": "Rodada de respostas",
+      "descricao": "Hipóteses: ambivalência amor/ódio pelo pai, crítica à 'masculinidade frágil', 'educado para ser homem e não para ser ele'.",
+      "funcao": "Colher hipóteses.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "1:24:40",
+      "bloco": "Demonstração",
+      "descricao": "'Método Shrek' (camadas); pergunta provocativa 'ele bate na namorada?'; geração × teste de hipótese; retificação subjetiva (Dora); Édipo como spoiler da clínica.",
+      "funcao": "Demonstrar ao vivo como se aprofunda uma leitura.",
+      "duracao_min": 10
+    },
+    {
+      "ts": "1:34:40",
+      "bloco": "Discussão",
+      "descricao": "Pergunta dirigida: a ambivalência é entre o quê e o quê? Pistas progressivas até um participante dizer 'avô'; leitura hegeliana; potência da não ação.",
+      "funcao": "Ensinar a achar a oposição que organiza o discurso.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "1:42:12",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Compartilha a playlist; recomenda 'OCD' de Neil Hilborn e 'Skinny Girls Bleed Like Flowers'.",
+      "funcao": "Material para prática autônoma.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "1:44:11",
+      "bloco": "Feedback",
+      "descricao": "'Esse caso é sobre o quê?': identificação × ruptura com o pai; duas vias (retificação subjetiva; Rei Leão/pai do pai); outras construções ('brasa', Deus).",
+      "funcao": "Mostrar a pluralidade de construções num caso aberto.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "1:48:56",
+      "bloco": "Fechamento",
+      "descricao": "Três lições: formular ≠ testar hipóteses (exercício das 20 hipóteses); parar de diagnosticar sobre fatos; 'toda verdade é óbvia' e caso em uma frase; recomendação de dar título aos casos.",
+      "funcao": "Consolidar em regras gerais.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "1:52:45",
+      "bloco": "Tarefa",
+      "descricao": "Praticar com a playlist (em casa, com colegas, com o decano (?)); plano de conduzir os aprimoramentos por 1–2 meses com exercícios clássicos; política de gravação.",
+      "funcao": "Continuidade e explicitação do projeto formativo.",
+      "duracao_min": 1
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Diagnóstico nosológico",
+      "definicao": "Diagnóstico descritivo e ateórico (chamado por Alan de 'fenomenológico' no sentido de olhar só a superfície, a 'topologia'), como o do DSM. Suas vantagens: pode ser usado por várias teorias e culturas e facilita a pesquisa. Seu defeito: por não dizer nada do mecanismo nem da etiologia, 'não serve para nada' clinicamente, a princípio.",
+      "exemplo": "Quatro pessoas com 'depressão' pelo DSM que exigiriam tratamentos totalmente diferentes.",
+      "abordagem": "",
+      "ts": "0:01:35"
+    },
+    {
+      "nome": "Diagnóstico estrutural",
+      "definicao": "Diagnóstico da psicanálise que, na versão didática de Alan, determina a estrutura da própria clínica: com neuróticos, associação livre e interpretação; com psicóticos, o freudiano não atende e o lacaniano 'no máximo secretaria'. Precisa ser feito antes do tratamento, nas entrevistas preliminares.",
+      "exemplo": "Verificar se a pessoa 'histeriza' o discurso, demandando resposta do analista.",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:03:17"
+    },
+    {
+      "nome": "Diagnóstico teórico",
+      "definicao": "O tipo mais comum entre as abordagens: usa a teoria da escola para explicar a etiologia e o funcionamento do problema e, com isso, intuir a solução.",
+      "exemplo": "Ciclo de contato na Gestalt-terapia.",
+      "abordagem": "Gestalt-terapia",
+      "ts": "0:04:33"
+    },
+    {
+      "nome": "Diagnóstico propriamente psicológico",
+      "definicao": "O 'diagnóstico de verdade': leitura hermenêutica que serve para o clínico compreender o que está acontecendo, não para ser comunicada. Pode surgir no meio ou no fim do tratamento e raramente usa termo técnico; é uma imagem ou frase na língua comum, específica e completa.",
+      "exemplo": "'Filhinho de papai' (Jung); 'culpa de um assassino arrependido'; 'casa mal assombrada'.",
+      "abordagem": "",
+      "ts": "0:05:34"
+    },
+    {
+      "nome": "Diagnóstico como intervenção",
+      "definicao": "Todo diagnóstico comunicado ao paciente é uma intervenção. A pergunta relevante não é se ele é verdadeiro, mas quais consequências receber o rótulo terá na vida da pessoa.",
+      "exemplo": "Rótulo de autismo: pode trazer direitos, comunidade e sentido, ou virar profecia que calcifica a pessoa. Alan chama esse diagnóstico de 'fachada'.",
+      "abordagem": "",
+      "ts": "0:06:31"
+    },
+    {
+      "nome": "Diagnóstico diferencial",
+      "definicao": "Não é um tipo de diagnóstico à parte: todo diagnóstico é diferencial em algum nível, porque diferencia para tratar o grupo A de um jeito e o grupo B de outro.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:00:42"
+    },
+    {
+      "nome": "DSM",
+      "definicao": "Manual psiquiátrico de diagnóstico nosológico-fenomenológico, ateórico e descritivo. Serve como exemplo do diagnóstico que descreve a superfície.",
+      "exemplo": "Disforia de gênero no poema 1: diagnóstico impreciso, porque os critérios do manual não aparecem no caso.",
+      "abordagem": "",
+      "ts": "0:01:35"
+    },
+    {
+      "nome": "Critério hermenêutico da completude",
+      "definicao": "Também chamado de critério da perfeição: se você entendeu perfeitamente um texto ou caso, nada escapa. Nenhuma cena é à toa e nenhum verso precisa ser ignorado; a boa interpretação reúne todas as vivências sob um mesmo nome, com caráter totalizante.",
+      "exemplo": "'Casa mal assombrada' explica o desafio dos homens, a condescendência dela, ser visitada e ninguém ficar, e a estabilidade imponente; leituras como 'rancor' ou 'solidão' deixam elementos de fora.",
+      "abordagem": "",
+      "ts": "0:52:10"
+    },
+    {
+      "nome": "Fato sobre o caso",
+      "definicao": "Característica verdadeira da pessoa ('autista', 'histriônica', 'ambivalente com o pai') que não é diagnóstico: não diz o conteúdo específico, o modo de ser no mundo nem a forma de gozar e não entrega a direção. Opõe-se ao conspecto geral do caso.",
+      "exemplo": "'Histriônica' é fato; 'sereia' já é diagnóstico.",
+      "abordagem": "",
+      "ts": "0:59:38"
+    },
+    {
+      "nome": "Imagem diagnóstica",
+      "definicao": "Síntese do caso numa imagem ou expressão da língua comum que seja específica o bastante para tratar e completa o bastante para abarcar todos os fenômenos. Muitas vezes vem do próprio discurso da pessoa. (Nome dado nesta extração ao que Alan pede como resposta.)",
+      "exemplo": "'Casa mal assombrada', 'sereia', 'brasa', 'filhinho de papai'.",
+      "abordagem": "",
+      "ts": "1:06:16"
+    },
+    {
+      "nome": "Geração e teste de hipóteses",
+      "definicao": "Duas operações distintas da interpretação: gerar exige fluência verbal e ousadia ('maldade') para cogitar possibilidades, inclusive desagradáveis; testar exige mais dados e conversa com o paciente. São 'dois modos de pensar clínicos completamente diferentes'.",
+      "exemplo": "Cogitar se o eu lírico do poema 3 bate na namorada: é necessário gerar a hipótese, mas só dá para cravar conversando mais.",
+      "abordagem": "",
+      "ts": "1:31:35"
+    },
+    {
+      "nome": "Retificação subjetiva",
+      "definicao": "Procedimento básico da psicanálise: mostrar ao sujeito sua participação naquilo de que se queixa; 'aquilo que você reclama sobre o mundo é sempre responsabilidade sua'.",
+      "exemplo": "Caso Dora: ela se queixa de ser moeda de troca e Freud aponta que ela é a cavilha da situação.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "1:31:35"
+    },
+    {
+      "nome": "Mito de Édipo",
+      "definicao": "Tomado como paradigma ('metáfora edípica') da clínica: o rei que investiga a causa da desgraça da cidade descobre que foi ele. É o 'spoiler de toda experiência terapêutica': a culpa é sua, a vida é sua.",
+      "exemplo": "Édipo Rei.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "1:32:32"
+    },
+    {
+      "nome": "Neurose e psicose",
+      "definicao": "Na leitura psicanalítica apresentada, a neurose se caracteriza pela dúvida (não saber direito quem se é) e a psicose pela certeza. Autores clássicos liam a questão trans como psicose pela certeza sobre o gênero.",
+      "exemplo": "Poema 1: há dúvida, mas deslocada para 'pedir ou não desculpas', o que torna incorreta a leitura de psicose.",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:26:14"
+    },
+    {
+      "nome": "Entrevistas preliminares",
+      "definicao": "Fase inicial da psicanálise, antes do divã, dedicada ao diagnóstico estrutural: verificar se a pessoa histeriza o discurso (demanda resposta), isto é, se é neurótica.",
+      "exemplo": "",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:09:04"
+    },
+    {
+      "nome": "Etiologia",
+      "definicao": "A origem do problema. Junto com o mecanismo de funcionamento, é o que um diagnóstico clinicamente útil precisa alcançar, ao contrário do diagnóstico descritivo.",
+      "exemplo": "O primeiro caso de 'depressão' tem origem na superproteção (filhinho de papai).",
+      "abordagem": "",
+      "ts": "0:15:08"
+    },
+    {
+      "nome": "Profecia autorrealizável",
+      "definicao": "Risco do diagnóstico comunicado: o rótulo é usado como profecia que estrutura ainda mais a vivência, deixando a pessoa 'cada vez mais calcificada'.",
+      "exemplo": "Rótulo de autismo usado para se fixar.",
+      "abordagem": "",
+      "ts": "0:06:31"
+    },
+    {
+      "nome": "Desresponsabilização",
+      "definicao": "Movimento de falar do problema (ou de outra pessoa) justamente para não precisar agir ou se responsabilizar; o gesto alivia a angústia sem mudar nada.",
+      "exemplo": "Pagar a academia em vez de emagrecer; comprar o livro e deixar na estante para não ler; no poema 3, falar do pai como 'desculpinha' para não se responsabilizar por ser filho dele.",
+      "abordagem": "",
+      "ts": "1:27:32"
+    },
+    {
+      "nome": "Ambivalência",
+      "definicao": "Presença simultânea de valências opostas numa mesma figura. Alan insiste em identificar os termos reais da oposição, que podem não ser os óbvios.",
+      "exemplo": "No poema 3 o pai é ordem e ameaça; a oposição organizadora não é pai × mãe nem pai bom × pai mau, e sim pai × avô.",
+      "abordagem": "",
+      "ts": "1:22:19"
+    },
+    {
+      "nome": "Leitura paralela",
+      "definicao": "Usar obras (literatura, filmes, tratados) sobre o tema real ou a imagem do caso para compreendê-lo e inspirar a intervenção; é a 'parte 2' da dinâmica dos poemas.",
+      "exemplo": "Crime e castigo para o caso de culpa; filmes de casa assombrada e o Martelo das Feiticeiras para o poema 2.",
+      "abordagem": "",
+      "ts": "0:32:58"
+    },
+    {
+      "nome": "Cosmovisão",
+      "definicao": "Aqui, a visão de mundo do terapeuta sobre o que é viver bem (ex.: 'é preciso amor próprio'), aplicada ao paciente sem que o caso a peça. Para Alan, isso limita as ferramentas terapêuticas e é má psicologia.",
+      "exemplo": "Participante propõe 'construir amor próprio' como direção para o poema 2.",
+      "abordagem": "",
+      "ts": "0:48:15"
+    },
+    {
+      "nome": "Máximas clínicas",
+      "definicao": "Frases-síntese que orientam o raciocínio clínico: 'toda verdade é óbvia depois que você sabe'; 'você interpretou bem quando só precisa de uma frase para explicar o caso'.",
+      "exemplo": "Equação de segundo grau: difícil até entender, óbvia depois.",
+      "abordagem": "",
+      "ts": "1:50:54"
+    },
+    {
+      "nome": "Hermenêutica",
+      "definicao": "O diagnóstico propriamente psicológico é parte de um processo interpretativo, de compreensão de sentido, com critérios hermenêuticos como o da completude.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:07:26"
+    },
+    {
+      "nome": "Leitura adleriana",
+      "definicao": "Modo como Alan caracteriza as leituras do grupo centradas na relação com o outro e na finalidade do sintoma. Captam algo, mas deixam de fora a relação da pessoa consigo mesma.",
+      "exemplo": "'Ela assusta a pessoa para que ela não chegue e depois não abandone.'",
+      "abordagem": "Psicologia individual adleriana",
+      "ts": "1:03:06"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Poemas",
+      "objetivo": "Treinar o diagnóstico propriamente psicológico: formular, em uma palavra ou frase curta, uma imagem específica e completa do 'caso' (poema), distinguindo-a de rótulo nosológico, termo técnico, fato sobre a pessoa e intervenção.",
+      "competencias": [
+        "Psicodiagnóstico",
+        "Interpretação",
+        "Formulação de caso",
+        "Escuta clínica"
+      ],
+      "configuracao": "Grupo inteiro, online (Google Meet), cerca de 15 participantes; facilitador compartilha tela e áudio; respostas pelo chat, com incentivo ao microfone.",
+      "tempo": "Cerca de 95 minutos para três poemas (≈16, 37 e 35 min), depois de ~17 min de teoria; cada vídeo dura poucos minutos.",
+      "materiais": "Playlist de vídeos de slam poetry em inglês selecionada por Alan para a dinâmica (~30 poemas; ele usa sempre os 5 mais fáceis); traduções próprias enviadas por um canal sem limite de caracteres (o chat do Meet limita).",
+      "consigna": "Se vocês fossem dar um diagnóstico verdadeiramente psicológico, isto é, um diagnóstico que orienta a sua clínica, como diagnosticariam essa pessoa? Encontrem uma palavra, um conjunto curto de palavras ou uma frase curta; pode ser um trecho do próprio poema. Nas rodadas: 'O que a gente está realmente tratando? Este é um caso de quê?'. Na rodada relâmpago: 'Completem: Esta pessoa é ___'.",
+      "passos": [
+        "Selecionar três poemas em dificuldade crescente: (1) com gabarito, basta sentir a emoção central; (2) com gabarito, exige construção; (3) aberto, com várias boas respostas.",
+        "Dar teoria mínima (~15 min): tipos de diagnóstico e o diagnóstico propriamente psicológico em linguagem comum.",
+        "Exibir o vídeo do poema com tradução disponível.",
+        "Dar tempo para reler e pensar; enquanto isso, o facilitador comenta 'o que não é' (rótulo do DSM, leitura estrutural clássica, emoção óbvia) e pede que ninguém escreva no chat ainda.",
+        "Abrir as respostas no chat e no microfone; quem já conhece o poema não responde.",
+        "Dar feedback a cada resposta: validar o que é verdadeiro e mostrar o que fica de fora (parte pelo todo, fato no lugar de diagnóstico, termo genérico).",
+        "Se ninguém chegar: dar a meta-dica (último verso, título, autoimagem), fazer a rodada relâmpago 'Esta pessoa é ___' e depois perguntar 'qual imagem está presente em todos os versos?'.",
+        "Revelar o gabarito, mostrar como cada resposta era parte dele e derivar a literatura paralela.",
+        "No poema aberto: ler em camadas, fazer pergunta provocativa para gerar hipóteses, fazer pergunta dirigida sobre a oposição central com pistas progressivas e apresentar várias construções legítimas.",
+        "Fechar com as lições gerais e disponibilizar a playlist para praticar em casa ou com colegas."
+      ],
+      "feedback": "Critérios: especificidade suficiente (neurose, depressão, carente e narcisista são genéricos); completude (nenhum verso fica de fora); não tomar a parte pelo todo; não chamar fato de diagnóstico; não importar crenças próprias ('construir amor próprio'); não pular para a intervenção; a resposta está no caso, não fora; pistas: último verso, título, autoimagem. Fórmula recorrente: 'esse elemento existe, mas não dá conta do todo'. O que se avalia é o raciocínio, não o acerto do gabarito.",
+      "exemplos_praticos": "Poema 1: respostas de luto, suicídio, depressão, corpo, transição, culpa; uma participante apontou que a dúvida é 'pedir desculpas ou não'. Gabarito: culpa de assassino arrependido. Poema 2: medo de abandono, rancor, enamoramento pela própria assombração, solidão, aceitação, histriônica/sereia, 'secretamente estável'; na rodada relâmpago, egocêntrica, carente, narcisista, bipolar, incompreendida etc.; um participante escreveu 'casa mal assombrada' (gabarito). Poema 3: ambivalência amor/ódio pelo pai, crítica à masculinidade frágil, 'educado para ser homem e não para ser ele', romper a identificação; Alan conduziu com pistas até a oposição pai × avô e apresentou várias construções (retificação subjetiva, Rei Leão, 'brasa', Deus).",
+      "variacoes": "Parte 2 (feita raramente): entre encontros, os participantes consomem obras sobre a imagem diagnóstica (filmes de casa assombrada, Crime e castigo, Martelo das Feiticeiras) e trazem ideias de solução clínica por paralelismo. Com pouco tempo, fazer dois poemas e deixar o resto para casa. Continuações sugeridas: 'OCD' (Neil Hilborn) e 'Skinny Girls Bleed Like Flowers'. Pode ser feita em dupla, com colegas ou com o decano (?).",
+      "armadilhas": "Revelar o gabarito cedo demais; deixar o grupo comentar trechos soltos no chat sem a pergunta de síntese; poemas emocionalmente intensos (suicídio, transição, violência doméstica) pedem aviso; participantes pulam para a intervenção ou para rótulos técnicos; o facilitador precisa ter o próprio gabarito e as construções alternativas preparados.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:17:01"
+    },
+    {
+      "nome": "Dinâmica - Vinte hipóteses",
+      "objetivo": "Treinar a geração de hipóteses (inteligência e fluência verbal, 'produzir significado'), separada do teste.",
+      "competencias": [
+        "Interpretação",
+        "Formulação de caso"
+      ],
+      "configuracao": "Não especificada (anunciada para encontros futuros).",
+      "tempo": "Não especificado.",
+      "materiais": "Um caso clínico ou vinheta.",
+      "consigna": "Pegue um caso e formule 20 hipóteses sobre ele.",
+      "passos": [
+        "Apresentar um caso.",
+        "Cada participante formula 20 hipóteses diferentes sobre ele.",
+        "Só depois discutir quais merecem ser testadas e como."
+      ],
+      "feedback": "Não demonstrado neste encontro.",
+      "exemplos_praticos": "Apenas anunciada no fechamento.",
+      "variacoes": "",
+      "armadilhas": "Confundir gerar com testar, o que dá medo de formular.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "1:50:00"
+    },
+    {
+      "nome": "Dinâmica - Título do caso",
+      "objetivo": "Sintetizar cada caso atendido num título, trabalhando fantasia, síntese e jogos de palavras.",
+      "competencias": [
+        "Formulação de caso",
+        "Interpretação"
+      ],
+      "configuracao": "Prática individual recomendada ao clínico.",
+      "tempo": "Contínuo, ao longo dos atendimentos.",
+      "materiais": "Os próprios casos.",
+      "consigna": "Dê um título para cada caso que você atende.",
+      "passos": [
+        "Após as primeiras sessões, dar um título ao caso.",
+        "Revisar o título conforme o caso se esclarece.",
+        "Usar o título para orientar a direção e lembrar das sessões."
+      ],
+      "feedback": "Critério implícito: se o caso cabe numa frase ou título, foi bem entendido.",
+      "exemplos_praticos": "Apenas recomendada; Alan disse que não pretendia trazê-la neste encontro.",
+      "variacoes": "",
+      "armadilhas": "",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "1:51:51"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Abrir com pergunta e corrigir explicando",
+      "descricao": "Em vez de definir, pergunta ao grupo pelos tipos de diagnóstico e monta o mapa com as respostas. Respostas imprecisas viram explicação, e o silêncio é quebrado com provocação bem-humorada e elogio a quem acerta.",
+      "exemplo": "'Vocês certamente já viram isso na faculdade'; 'diagnóstico diferencial não é exatamente um tipo, porque todo diagnóstico é diferencial'; 'Ninguém? Não temos psicanalistas por aqui.' → 'Estrutural. Boa!'",
+      "ts": "0:00:00"
+    },
+    {
+      "movimento": "Teoria mínima declarada e checagem de compreensão",
+      "descricao": "Avisa que a teoria é só o básico e confere se o grupo acompanhou antes de passar à prática.",
+      "exemplo": "'Só o básico, a gente não vai aprofundar nisso'; 'Vocês estão acompanhando?'; 'Deu para pegar a imagem?'",
+      "ts": "0:05:34"
+    },
+    {
+      "movimento": "Exemplos visuais: casos inventados e referências pop",
+      "descricao": "Cria vinhetas curtas e contrastantes e usa filmes e situações cotidianas para tornar o raciocínio memorável.",
+      "exemplo": "Quatro 'depressões' fictícias; 'Método Shrek' (camadas); O Rei Leão (pai do pai); pagar a academia para não emagrecer; equação de segundo grau.",
+      "ts": "0:11:05"
+    },
+    {
+      "movimento": "Anunciar gradação e existência de gabarito",
+      "descricao": "Explica que os poemas vão do mais simples (com gabarito) ao aberto, o que dá segurança e estabelece que há certo e errado.",
+      "exemplo": "'O primeiro é muito simples e objetivo, o segundo começa a complicar e o terceiro genuinamente tem mais de uma resposta.'",
+      "ts": "0:17:01"
+    },
+    {
+      "movimento": "Ensinar pelo contraexemplo e proteger a rodada",
+      "descricao": "Enquanto o grupo relê, mostra o que não é o diagnóstico e segura o chat para não precipitar respostas; pede que quem já conhece o poema não responda.",
+      "exemplo": "Comenta disforia de gênero, psicose e luto; 'Segura aí a onda, galera, não joguem no chat'; 'Se você já sabe a resposta, evite colocar no chat.'",
+      "ts": "0:21:59"
+    },
+    {
+      "movimento": "Feedback 'valida + aponta o que falta'",
+      "descricao": "A cada resposta, reconhece o elemento verdadeiro e mostra o que fica de fora; a mesma régua repetida ensina o critério.",
+      "exemplo": "'O rancor está presente, mas é o mesmo problema: você está pegando a parte e tomando como todo.'",
+      "ts": "0:43:35"
+    },
+    {
+      "movimento": "Nomear o critério no momento do erro",
+      "descricao": "Depois de várias respostas parciais, dá nome ao critério teórico que vinha usando (completude).",
+      "exemplo": "'O que estou perguntando é o famoso critério hermenêutico da completude.'",
+      "ts": "0:52:10"
+    },
+    {
+      "movimento": "Criticar a ideia sem expor a pessoa",
+      "descricao": "Ao fazer uma crítica forte, ressalva que está generalizando a partir da resposta.",
+      "exemplo": "'Estou fantasiando em cima da sua resposta; se não valer para você, vai valer para outras pessoas.'",
+      "ts": "0:48:15"
+    },
+    {
+      "movimento": "Interromper para meta-lição",
+      "descricao": "Pede atenção total e usa a resposta de uma participante como exemplo do que não fazer (o rótulo), valorizando o raciocínio que veio junto.",
+      "exemplo": "'Parem de fazer o que vocês estão fazendo e concentrem aqui… o que importa é o raciocínio de vocês.'",
+      "ts": "0:58:03"
+    },
+    {
+      "movimento": "Transformar estratégia de participante em regra geral",
+      "descricao": "Destaca o que um participante fez bem e generaliza como dica de método.",
+      "exemplo": "'Ela foi esperta: pegou o último verso' → o último verso, o título e o fim da sessão dão as melhores pistas.",
+      "ts": "1:03:06"
+    },
+    {
+      "movimento": "Destravar o grupo empacado: rodada relâmpago e pistas progressivas",
+      "descricao": "Quando ninguém chega, pede respostas rápidas com frase a completar, estreita a pergunta e, no caso aberto, reformula e elimina alternativas até alguém chegar.",
+      "exemplo": "'Completem: Esta pessoa é ___' → 'Qual imagem está presente em todos os versos?'; no poema 3: 'não é entre o pai e a mãe', 'não é mulher', 'tem a ver com homens gays, mas não é homem gay' → 'avô'.",
+      "ts": "1:04:08"
+    },
+    {
+      "movimento": "Revelar integrando as contribuições",
+      "descricao": "Ao dar o gabarito, mostra que cada resposta era uma parte da imagem.",
+      "exemplo": "'Tudo o que vocês falaram é uma imagem parcial dessa imagem da casa mal assombrada.'",
+      "ts": "1:07:55"
+    },
+    {
+      "movimento": "Pergunta provocativa com explicação posterior",
+      "descricao": "Faz uma pergunta direta e desconfortável para forçar a geração de hipóteses e depois explica a intenção pedagógica.",
+      "exemplo": "'Esse eu lírico bate na namorada ou não bate?' → 'Fiz essa pergunta da maneira mais direta e estranha possível porque é fundamental considerar as duas hipóteses.'",
+      "ts": "1:25:39"
+    },
+    {
+      "movimento": "Gerir o canal e o tempo em voz alta",
+      "descricao": "Prefere a voz ao chat, lê os comentários do chat em voz alta para todos e anuncia cortes e limites de tempo.",
+      "exemplo": "'Se vocês pudessem falar é muito melhor para mim'; 'por causa do pouco tempo vou pedir outra rodada'; 'chegou o limite de tempo que eu me coloco, de 2 horas'.",
+      "ts": "1:20:49"
+    },
+    {
+      "movimento": "Fechar com lições numeradas e explicitar o projeto formativo",
+      "descricao": "Encerra com três pontos para levar para casa e uma prática (playlist), explica que está mostrando os exercícios clássicos para formar futuros condutores e diz quando grava.",
+      "exemplo": "Formular ≠ testar; fato ≠ diagnóstico; toda verdade é óbvia. Grava porque o aprimoramento não é sobre caso clínico e apaga se alguém fizer um 'striptease psicológico'.",
+      "ts": "1:48:56"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Separe o diagnóstico que orienta você do diagnóstico que você comunica ao paciente.",
+      "justificativa": "O diagnóstico comunicado é intervenção; seu critério é a consequência do rótulo na vida da pessoa (pertencimento, direitos ou calcificação), não a verdade.",
+      "contexto": "Sempre que pensar em nomear um diagnóstico para o paciente.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "0:06:31"
+    },
+    {
+      "dica": "Não se obrigue a fechar o diagnóstico psicológico no início do tratamento.",
+      "justificativa": "Diferente do médico e do diagnóstico estrutural, o diagnóstico psicológico costuma ficar claro só no meio ou no fim; às vezes se age antes de entender.",
+      "contexto": "Primeiras sessões.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "0:09:04"
+    },
+    {
+      "dica": "Formule o caso com imagens da língua comum, não com termos técnicos.",
+      "justificativa": "Termos como 'depressão' ou 'histeria' descrevem a superfície; imagens como 'filhinho de papai' dizem etiologia e mecanismo e são mais precisas.",
+      "contexto": "Na formulação do caso.",
+      "competencia": "Formulação de caso",
+      "ts": "0:15:08"
+    },
+    {
+      "dica": "Use as palavras do próprio paciente para nomear o problema.",
+      "justificativa": "É particularmente potente, sobretudo se o diagnóstico for comunicado, e permite jogos de sentido que viram intervenção.",
+      "contexto": "Ao sintetizar e devolver ao paciente.",
+      "competencia": "Construção frasal",
+      "ts": "0:23:05"
+    },
+    {
+      "dica": "Não confunda a questão clínica com o diagnóstico (laudo) que a pessoa traz.",
+      "justificativa": "Impressionar-se com o rótulo esconde problemas mais centrais: a criança com TOD pode sofrer por ter perdido a namoradinha, o autista por se achar feio.",
+      "contexto": "Pacientes que chegam com diagnóstico prévio.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "0:33:59"
+    },
+    {
+      "dica": "Lembre que a questão clínica atual pode não ser a de anos atrás.",
+      "justificativa": "O que foi central numa fase (o corpo, a transição) pode ter dado lugar a outra coisa (a culpa).",
+      "contexto": "Pacientes com longa história de sofrimento.",
+      "competencia": "Priorização clínica",
+      "ts": "0:30:28"
+    },
+    {
+      "dica": "Antes de aplicar a categoria estrutural, procure onde está a dúvida do sujeito.",
+      "justificativa": "A neurose se define pela dúvida, e ela pode estar em outro tema que não aquele em que a pessoa mostra certeza.",
+      "contexto": "Diagnóstico estrutural em psicanálise.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "0:29:30"
+    },
+    {
+      "dica": "Teste sua formulação pelo critério da completude: ela explica todos os fenômenos do caso?",
+      "justificativa": "Se entendeu bem, nada escapa; leituras parciais levam a direções parciais.",
+      "contexto": "Ao revisar a formulação.",
+      "competencia": "Interpretação",
+      "ts": "0:52:10"
+    },
+    {
+      "dica": "Busque um diagnóstico específico o bastante para tratar e amplo o bastante para não deixar nada de fora.",
+      "justificativa": "Termos genéricos (neurose) não dão direção; elementos parciais (rancor, solidão) tomam a parte pelo todo.",
+      "contexto": "Ao escolher o 'nome' do caso.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "0:42:40"
+    },
+    {
+      "dica": "Não chame de diagnóstico um fato sobre a pessoa.",
+      "justificativa": "'Autista' ou 'histriônica' não dizem o conteúdo específico, o modo de ser no mundo nem a forma de gozar.",
+      "contexto": "Prontuário, supervisão e discussão de caso.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "0:59:38"
+    },
+    {
+      "dica": "Preste atenção especial ao final e ao título: o último verso, o fim do atendimento e o nome que o paciente dá à sessão.",
+      "justificativa": "Esses pontos costumam dar pistas mais interessantes que um trecho aleatório.",
+      "contexto": "Ao reler ou relembrar sessões.",
+      "competencia": "Escuta clínica",
+      "ts": "1:03:06"
+    },
+    {
+      "dica": "Escute a autoimagem do paciente.",
+      "justificativa": "A resposta costuma estar no próprio discurso ('ela se vê como a casa'); é óbvia depois que se vê.",
+      "contexto": "Quando o paciente se descreve por metáforas.",
+      "competencia": "Escuta clínica",
+      "ts": "1:08:14"
+    },
+    {
+      "dica": "Procure a resposta no caso, não em conceitos de fora dele.",
+      "justificativa": "A resposta está 'na sua cara, só que invertida'; buscar imagens externas pode afastar do essencial.",
+      "contexto": "Ao interpretar.",
+      "competencia": "Interpretação",
+      "ts": "0:54:39"
+    },
+    {
+      "dica": "Não aplique ao caso suas próprias crenças sobre o que é viver bem (ex.: 'construir amor próprio').",
+      "justificativa": "Há pessoas profundamente felizes sem amor próprio, vivendo em função de outra ou em relações que parecem tóxicas de fora; a visão de mundo do terapeuta limita suas ferramentas.",
+      "contexto": "Ao definir objetivos e direção.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:48:15"
+    },
+    {
+      "dica": "Depois de encontrar a imagem do caso, estude a literatura sobre essa imagem, não sobre a categoria.",
+      "justificativa": "Para um caso de culpa, Crime e castigo ajuda mais que textos sobre gênero; obras sobre a imagem sugerem soluções por paralelismo.",
+      "contexto": "Estudo de caso entre sessões.",
+      "competencia": "Articulação teoria-prática",
+      "ts": "0:32:58"
+    },
+    {
+      "dica": "Mantenha separadas a interpretação/diagnóstico e a intervenção.",
+      "justificativa": "São etapas diferentes: primeiro entender de que se trata, depois como agir (para exorcizar é preciso saber o nome do demônio).",
+      "contexto": "Supervisão e planejamento.",
+      "competencia": "Direção do tratamento",
+      "ts": "1:11:05"
+    },
+    {
+      "dica": "Use a teoria depois, como ferramenta, e não para interpretar.",
+      "justificativa": "A interpretação verdadeira raramente encaixa nos 'nomezinhos teóricos'; a língua comum é mais rica.",
+      "contexto": "Formulação e estudo de caso.",
+      "competencia": "Articulação teoria-prática",
+      "ts": "1:15:19"
+    },
+    {
+      "dica": "Permita-se gerar hipóteses 'maldosas' antes de testá-las.",
+      "justificativa": "Sem cogitar que o paciente pode ser 'um babaca', a leitura fica ingênua; gerar não é afirmar, e testar exige mais conversa.",
+      "contexto": "Problemas morais, queixas sobre terceiros.",
+      "competencia": "Interpretação",
+      "ts": "1:31:35"
+    },
+    {
+      "dica": "Quando o paciente fala muito de outra pessoa, considere a hipótese de desresponsabilização.",
+      "justificativa": "Falar pode ser o jeito de não fazer, como pagar a academia para não emagrecer; é a lógica da retificação subjetiva.",
+      "contexto": "Queixas repetidas sobre pais, parceiros, chefes.",
+      "competencia": "Interpretação",
+      "ts": "1:27:32"
+    },
+    {
+      "dica": "Procure a oposição real que organiza o discurso, que pode não ser a óbvia.",
+      "justificativa": "No poema 3 a oposição não é pai × mãe nem homem × mulher, e sim pai × avô, o que muda toda a direção.",
+      "contexto": "Ambivalências.",
+      "competencia": "Interpretação",
+      "ts": "1:34:40"
+    },
+    {
+      "dica": "Leia o caso em camadas.",
+      "justificativa": "Da compreensão básica (o que o texto diz) à clínica (o que conecta tudo); fatos da camada de cima se aprofundam depois, na sessão.",
+      "contexto": "Casos densos.",
+      "competencia": "Escuta clínica",
+      "ts": "1:24:40"
+    },
+    {
+      "dica": "Considere que a direção pode ser mais identificação, e não ruptura.",
+      "justificativa": "Às vezes o que salva é reconhecer-se parecido com quem se critica ou encontrar 'o pai do pai'.",
+      "contexto": "Conflitos de identificação com figuras parentais.",
+      "competencia": "Direção do tratamento",
+      "ts": "1:45:38"
+    },
+    {
+      "dica": "Se sua formulação está complexa, continue trabalhando nela.",
+      "justificativa": "'Toda verdade é óbvia depois que você sabe'; a complexidade indica trabalho inacabado.",
+      "contexto": "Revisão de casos.",
+      "competencia": "Formulação de caso",
+      "ts": "1:50:54"
+    },
+    {
+      "dica": "Verifique se consegue explicar o caso em uma frase e dê um título a ele.",
+      "justificativa": "A síntese mostra se houve compreensão, orienta a direção e facilita lembrar das sessões.",
+      "contexto": "Depois das primeiras sessões e ao longo do processo.",
+      "competencia": "Formulação de caso",
+      "ts": "1:51:51"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "O diagnóstico nosológico-fenomenológico (DSM) tem pouca utilidade clínica, pelo menos a princípio.",
+      "argumento": "Por ser ateórico, descreve só a superfície; não diz mecanismo nem etiologia. Quatro casos de 'depressão' exigiriam tratamentos profundamente diferentes.",
+      "contraponto": "Alan reconhece as vantagens: serve a várias teorias e culturas e facilita a pesquisa, porque é mais fácil concordar sobre a superfície.",
+      "implicacao": "O rótulo é ponto de partida, não formulação clínica.",
+      "quem": "Alan",
+      "ts": "0:02:30"
+    },
+    {
+      "tese": "O diagnóstico comunicado não é diagnóstico, é intervenção.",
+      "argumento": "O que importa é a consequência de receber o rótulo (pertencimento e direitos, ou profecia que calcifica), não se ele é verdadeiro.",
+      "contraponto": "O modelo nosológico, em que há obrigação de entregar o diagnóstico.",
+      "implicacao": "Decidir se e como comunicar um diagnóstico pelas consequências esperadas.",
+      "quem": "Alan",
+      "ts": "0:06:31"
+    },
+    {
+      "tese": "O diagnóstico propriamente psicológico não precisa preceder o tratamento.",
+      "argumento": "É comum que seja uma das últimas coisas descobertas; às vezes se age antes de entender.",
+      "contraponto": "Diagnóstico médico e estrutural psicanalítico (entrevistas preliminares), que precisam vir antes.",
+      "implicacao": "Tolerar não saber no início e seguir refinando a leitura.",
+      "quem": "Alan",
+      "ts": "0:09:04"
+    },
+    {
+      "tese": "É mais importante saber que o paciente é 'filhinho de papai' do que saber que é histérico/depressivo.",
+      "argumento": "Paráfrase de Jung (OC 16): o rótulo técnico é restrito e superficial; a imagem em linguagem comum diz o que se vai tratar.",
+      "contraponto": "Diagnóstico por termos técnicos de origem latina.",
+      "implicacao": "Formular casos por imagens da língua comum.",
+      "quem": "Alan (citando Carl Jung)",
+      "ts": "0:10:00"
+    },
+    {
+      "tese": "A teoria não dá conta do caso; ela entra depois, como ferramenta.",
+      "argumento": "É muito raro que a interpretação verdadeira encaixe nos 'nomezinhos teóricos'; as imagens da língua portuguesa são mais ricas e precisas.",
+      "contraponto": "Participantes que diagnosticavam com termos como narcisista, bipolar, neurose.",
+      "implicacao": "Primeiro achar a imagem do caso, depois recorrer à teoria para intervir.",
+      "quem": "Alan",
+      "ts": "1:15:19"
+    },
+    {
+      "tese": "'Construir amor próprio' como objetivo universal é 'ideologia rasa', e aplicá-lo sem que o caso peça é má psicologia.",
+      "argumento": "Há pessoas profundamente felizes vivendo em função de outra, sem amor próprio ou em relações que parecem tóxicas de fora; fechar-se a isso por uma visão de mundo limita as ferramentas do terapeuta.",
+      "contraponto": "Uma resposta de participante; Alan ressalva que está 'fantasiando em cima da resposta'.",
+      "implicacao": "Perguntar o que o caso convida a construir, em vez de aplicar valores próprios.",
+      "quem": "Alan",
+      "ts": "0:48:15"
+    },
+    {
+      "tese": "No caso do poema 1, 'disforia de gênero' é um erro clínico, não político.",
+      "argumento": "Os critérios do manual (desconforto com o corpo, imagem corporal distorcida) não aparecem; o eu lírico está tranquilo com o corpo. É um diagnóstico impreciso e genérico.",
+      "contraponto": "A discussão que reduz o problema a ser 'politicamente incorreto'.",
+      "implicacao": "Avaliar rótulos pela precisão clínica.",
+      "quem": "Alan",
+      "ts": "0:24:00"
+    },
+    {
+      "tese": "A leitura psicanalítica clássica que toma a questão trans como psicose falha nesse caso, dentro da própria psicanálise.",
+      "argumento": "Neurose é dúvida; a dúvida está presente, deslocada para 'pedir ou não desculpas'. O ponto foi trazido por uma participante e acolhido por Alan.",
+      "contraponto": "Autores clássicos de psicanálise; Alan chama isso de 'tensão contemporânea'.",
+      "implicacao": "Procurar onde está a dúvida antes de concluir pela estrutura.",
+      "quem": "Alan e uma participante",
+      "ts": "0:29:30"
+    },
+    {
+      "tese": "A literatura relevante para um caso é a do seu tema real, não a da categoria a que parece pertencer.",
+      "argumento": "O poema 1 é sobre culpa; Crime e castigo ajuda mais que literatura sobre gênero ou psicologia trans.",
+      "contraponto": "Estudar o caso a partir do rótulo.",
+      "implicacao": "Depois de achar a imagem, buscar obras sobre ela.",
+      "quem": "Alan",
+      "ts": "0:32:58"
+    },
+    {
+      "tese": "Gerar hipóteses e testar hipóteses são duas técnicas e dois modos de pensar diferentes.",
+      "argumento": "Gerar exige fluência verbal e ousadia ('maldade'); testar exige mais dados e conversa. Misturar os dois leva ao medo de formular.",
+      "contraponto": "O clínico que só formula o que já pode provar, ou que crava hipóteses sem testar.",
+      "implicacao": "Praticar a geração (exercício das 20 hipóteses) e testar depois na sessão.",
+      "quem": "Alan",
+      "ts": "1:31:35"
+    },
+    {
+      "tese": "O 'spoiler' de toda experiência terapêutica é edípico: a culpa é sua, a vida é sua.",
+      "argumento": "Retificação subjetiva (Dora como cavilha); Édipo Rei investiga a causa da desgraça e descobre que é ele.",
+      "contraponto": "A busca do paciente pelos motivos de 'os deuses' agirem contra ele.",
+      "implicacao": "Nas queixas sobre o mundo, procurar a participação do sujeito.",
+      "quem": "Alan",
+      "ts": "1:32:32"
+    },
+    {
+      "tese": "Toda verdade é óbvia depois que se sabe; uma formulação complexa ainda não terminou.",
+      "argumento": "A equação de segundo grau parece complexa até ser entendida; 'casa mal assombrada' foi difícil de achar e ficou evidente depois. Um caso bem interpretado se explica em uma frase.",
+      "contraponto": "A formulação sofisticada e cheia de camadas teóricas.",
+      "implicacao": "Simplificar a formulação até caber numa frase ou título.",
+      "quem": "Alan",
+      "ts": "1:50:54"
+    },
+    {
+      "tese": "No treino, o que importa é o raciocínio, não o acerto do gabarito.",
+      "argumento": "Uma resposta 'errada' (histriônica) veio acompanhada de um raciocínio que se aproximava do diagnóstico.",
+      "contraponto": "",
+      "implicacao": "O feedback em grupos de formação deve avaliar o processo de pensamento.",
+      "quem": "Alan",
+      "ts": "0:58:03"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "O diagnóstico que é comunicado não é um diagnóstico, é uma intervenção.",
+      "tema": "diagnóstico e intervenção",
+      "ts": "0:06:31"
+    },
+    {
+      "texto": "É muito mais importante entender que o paciente é filhinho de papai do que entender que ele é depressivo.",
+      "tema": "linguagem do diagnóstico (paráfrase de Jung)",
+      "ts": "0:11:05"
+    },
+    {
+      "texto": "A palavra depressão importa muito pouco, porque o jeito de tratar esses quatro casos vai ser profundamente diferente.",
+      "tema": "limites do diagnóstico nosológico",
+      "ts": "0:14:12"
+    },
+    {
+      "texto": "As palavras teóricas são muito restritas. A língua portuguesa é muito mais rica do que isso.",
+      "tema": "linguagem comum na formulação",
+      "ts": "0:15:08"
+    },
+    {
+      "texto": "Se você quer entender bem esse caso, o que tem que ler? Crime e castigo.",
+      "tema": "leitura paralela",
+      "ts": "0:32:58"
+    },
+    {
+      "texto": "A noção de que é fundamental construir amor próprio é apenas ideologia rasa.",
+      "tema": "valores do terapeuta",
+      "ts": "0:48:15"
+    },
+    {
+      "texto": "Se você entendeu perfeitamente um texto ou um caso clínico, nada escapa.",
+      "tema": "critério da completude",
+      "ts": "0:52:10"
+    },
+    {
+      "texto": "A especificidade do gabarito importa pouco. O que importa é o raciocínio de vocês.",
+      "tema": "formação",
+      "ts": "0:58:03"
+    },
+    {
+      "texto": "Parem de chamar de diagnóstico fatos sobre a pessoa.",
+      "tema": "fato × diagnóstico",
+      "ts": "0:59:38"
+    },
+    {
+      "texto": "A graça da psicologia é que a resposta sempre está na sua cara, só que é difícil de enxergar.",
+      "tema": "interpretação",
+      "ts": "1:04:08"
+    },
+    {
+      "texto": "A nossa teoria não dá conta do caso. Você usa a teoria depois, como ferramenta.",
+      "tema": "teoria e prática",
+      "ts": "1:15:19"
+    },
+    {
+      "texto": "Você não vai interpretar bem o caso se em algum momento não cruzar a sua mente a hipótese de que esse cara é um babaca.",
+      "tema": "geração de hipóteses",
+      "ts": "1:31:35"
+    },
+    {
+      "texto": "O spoiler de toda experiência terapêutica é esse: a culpa é sua, a vida é sua.",
+      "tema": "retificação subjetiva",
+      "ts": "1:32:32"
+    },
+    {
+      "texto": "Toda verdade é óbvia. Se a sua construção para o caso é complexa, provavelmente ela não acabou.",
+      "tema": "máximas clínicas",
+      "ts": "1:50:54"
+    },
+    {
+      "texto": "Você sabe que interpretou bem um caso quando só precisa de uma frase para explicá-lo.",
+      "tema": "síntese do caso",
+      "ts": "1:51:51"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "4 tipos de diagnóstico em psicologia, e só um orienta a sua clínica",
+      "mensagem": "Nosológico (DSM), estrutural, teórico e propriamente psicológico têm finalidades diferentes; o que orienta o tratamento é uma leitura do caso em linguagem comum.",
+      "roteiro": [
+        "Você sabia que existem tipos de diagnóstico?",
+        "Nosológico (DSM): descreve a superfície; bom para pesquisa, pobre para tratar",
+        "Estrutural (psicanálise): define a estrutura da clínica",
+        "Teórico: explica origem e mecanismo pela teoria da escola",
+        "Propriamente psicológico: uma imagem do caso que orienta você",
+        "Qual deles você usa?"
+      ],
+      "corte_inicio": "0:00:42",
+      "corte_fim": "0:08:06"
+    },
+    {
+      "formato": "reels",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Dizer um diagnóstico ao paciente já é intervir",
+      "mensagem": "A pergunta não é se o rótulo é verdadeiro, mas o que ele vai fazer na vida da pessoa: pertencimento ou calcificação.",
+      "roteiro": [
+        "Gancho: 'Diagnóstico comunicado não é diagnóstico'",
+        "Exemplo do rótulo de autismo: dois destinos possíveis",
+        "Pergunta-chave: quais as consequências de receber esse nome?"
+      ],
+      "corte_inicio": "0:05:34",
+      "corte_fim": "0:07:26"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Quatro 'depressões', quatro tratamentos",
+      "mensagem": "O mesmo rótulo esconde histórias e mecanismos diferentes; como dizia Jung, importa mais saber que é 'filhinho de papai' do que 'histérico'.",
+      "roteiro": [
+        "Jung: 'filhinho de papai' > histérico",
+        "Caso fictício 1: superprotegido que desaba",
+        "Caso fictício 2: garoto que apanha no treino",
+        "Caso fictício 3: término",
+        "Caso fictício 4: tudo bem e sem sentido",
+        "Mesmo rótulo, tratamentos opostos"
+      ],
+      "corte_inicio": "0:10:00",
+      "corte_fim": "0:15:08"
+    },
+    {
+      "formato": "reels",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Como treinamos diagnóstico com poesia",
+      "mensagem": "Três poemas em dificuldade crescente; cada participante diagnostica em uma frase; o feedback é pela completude.",
+      "roteiro": [
+        "Cena: vídeo de slam poetry",
+        "Consigna: diagnostique em uma frase",
+        "Feedback: 'existe, mas não dá conta do todo'",
+        "Convite para o grupo"
+      ],
+      "corte_inicio": "0:17:01",
+      "corte_fim": "0:18:01"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "O teste da completude: sua formulação explica tudo?",
+      "mensagem": "Se você entendeu o caso, nada escapa; erros comuns são tomar a parte pelo todo, chamar fato de diagnóstico e usar termo genérico.",
+      "roteiro": [
+        "O critério hermenêutico da completude",
+        "Erro 1: a parte pelo todo",
+        "Erro 2: fato no lugar de diagnóstico",
+        "Erro 3: termo genérico",
+        "Teste: nenhum 'verso' fica de fora?"
+      ],
+      "corte_inicio": "0:52:10",
+      "corte_fim": "0:53:16"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Amor próprio não é receita universal",
+      "mensagem": "Aplicar ao paciente as nossas crenças sobre viver bem é má psicologia; pergunte o que o caso convida a construir.",
+      "roteiro": [
+        "Frase: 'construir amor próprio pode ser ideologia rasa'",
+        "Argumento: há muitas formas de ser feliz",
+        "Convite: o que o caso pede?"
+      ],
+      "corte_inicio": "0:48:15",
+      "corte_fim": "0:50:16"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Formular hipótese ≠ testar hipótese",
+      "mensagem": "Para interpretar bem é preciso ousar cogitar o pior e só depois verificar; treine gerando 20 hipóteses por caso.",
+      "roteiro": [
+        "Gancho provocativo",
+        "Gerar: fluência e ousadia",
+        "Testar: mais conversa",
+        "Exercício das 20 hipóteses"
+      ],
+      "corte_inicio": "1:31:35",
+      "corte_fim": "1:33:39"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Toda verdade é óbvia depois que você sabe",
+      "mensagem": "Se sua formulação está complexa, ela não acabou; um caso bem entendido cabe numa frase, então dê títulos aos seus casos.",
+      "roteiro": [
+        "Máxima",
+        "Exemplo da equação de segundo grau",
+        "Dica: título do caso"
+      ],
+      "corte_inicio": "1:50:54",
+      "corte_fim": "1:52:45"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Carl Jung",
+      "contexto": "Citado como autor favorito; passagem de A prática da psicoterapia (Obras Completas vol. 16): importa mais saber que o paciente é 'filhinho de papai' do que histérico."
+    },
+    {
+      "nome": "Sigmund Freud",
+      "contexto": "Caso Dora (retificação subjetiva, 'cavilha'); Édipo como paradigma da clínica; o freudiano não atende psicóticos."
+    },
+    {
+      "nome": "Jacques Lacan",
+      "contexto": "Referência implícita: o lacaniano, diante da psicose, 'no máximo secretaria'."
+    },
+    {
+      "nome": "Alfred Adler",
+      "contexto": "Alan caracteriza como 'adlerianas' as leituras do grupo centradas na relação com o outro e na finalidade do sintoma."
+    },
+    {
+      "nome": "G. W. F. Hegel",
+      "contexto": "Leitura 'quase hegeliana' do poema 3: superar o pai buscando algo mais no próprio masculino (o avô)."
+    },
+    {
+      "nome": "Aristóteles",
+      "contexto": "'Em termos aristotélicos': o que existe de ser-pai no pai, a essência que transcende o pai concreto."
+    },
+    {
+      "nome": "Fiódor Dostoiévski",
+      "contexto": "Crime e castigo como literatura relevante para o caso de culpa do poema 1 (o autor não é nomeado neste encontro)."
+    },
+    {
+      "nome": "Neil Hilborn",
+      "contexto": "Autor do poema de slam 'OCD', recomendado para continuar a dinâmica ('obviamente não é sobre TOC')."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Aprimoramento clínico (Allos), conduzido por Alan",
+    "objetivo": "Treinar competências clínicas (aqui: psicodiagnóstico e interpretação) por meio de 'exercícios clássicos' vivenciais, e formar pessoas que depois conduzirão os aprimoramentos.",
+    "publico": "Psicólogos e estudantes de psicologia ligados à Allos (há menções à faculdade e a um 'decano' (?)).",
+    "tamanho": "Cerca de 15 participantes (online).",
+    "duracao": "Cerca de 2 horas (limite que Alan se coloca), seguido de conversa informal após a gravação.",
+    "estrutura_padrao": "Teoria mínima dialogada (~15 min) → dinâmica em rodadas de dificuldade crescente com feedback individual → lições gerais → tarefa/prática para casa.",
+    "papel_facilitador": "Conduz a teoria por perguntas, seleciona e prepara o material, dá feedback a cada resposta com critérios explícitos, faz meta-comentários sobre o raciocínio do grupo, administra o tempo e fecha com lições numeradas.",
+    "regras_combinados": "Respostas no chat e no microfone (voz preferida); quem já conhece o material não responde; esperar o sinal para responder; gravação quando não há caso clínico, com a gravação apagada se alguém se expuser demais."
+  },
+  "reflexoes_do_facilitador": [
+    "Diz que, em todas as vezes que fez essa dinâmica com grupos, nunca ficou sem alguém acertar o gabarito do poema 2.",
+    "A parte 2 da dinâmica (obras sobre a imagem diagnóstica) foi feita 'pouquíssimas vezes', mas é 'divertidíssima'.",
+    "Para o poema 3, conhece 'umas quatro ou cinco boas respostas' e comenta que 'devia anotar isso'.",
+    "Queria usar seu poema favorito ('Mas' (?)), mas desistiu porque ele não tem tradução.",
+    "Escolheu o poema 3 por ser um dos 'top três mais fáceis' da playlist, embora mais complicado que os anteriores.",
+    "As traduções são dele, com 'certa liberdade poética'.",
+    "Corrige o próprio comentário anterior: acolhe que a leitura estrutural de psicose seria incorreta no poema 1.",
+    "Conduz com a voz e a garganta ruins e com dor de cabeça, e se perde em alguns momentos.",
+    "Prevê que não vai dar tempo de fazer tudo e chega ao limite de 2 horas que se coloca.",
+    "Diz que esse é um dos 'exercícios clássicos' da 'velha guarda' (quem é antigo o fez umas cinco vezes) e que quer que os futuros condutores dos aprimoramentos passem por eles para conseguir fazer variações.",
+    "Decide gravar os próximos encontros porque o aprimoramento 'não é muito sobre caso clínico'; se algo ficar pessoal demais, não grava ou apaga."
+  ],
+  "referencias_a_outros_encontros": [
+    "Menciona de passagem uma discussão anterior sobre priorização (possível relação com Alan 14/15 - Priorização clínica).",
+    "Anuncia que vai conduzir os aprimoramentos por mais um ou dois meses mostrando os exercícios clássicos.",
+    "Anuncia o exercício futuro de formular 20 hipóteses sobre um caso.",
+    "A transcrição de Alan 02 - Construção frasal cita 'a dinâmica dos poemas' como já feita, e Alan 08 - Escuta em fenomenologia retoma Crime e castigo e o caso do poema 1 ('na outra semana'), o que sugere que este encontro ocorreu cronologicamente antes deles, apesar da numeração 11.",
+    "A gravação começa no meio da explicação e termina antes da conversa informal final; o fim sugere que este foi um dos primeiros encontros gravados."
+  ],
+  "observacoes": "Legenda automática com muito ruído; os trechos dos poemas em inglês estão muito truncados. Títulos dos poemas incertos: o 1º foi ouvido como 'A letter [to] girl…' (carta de Ethan, homem trans, à menina que foi); o 2º tem título que menciona ansiedade (?); o 3º Alan chama de 'Mas' (?), e a transcrição é ambígua sobre se esse é o poema exibido ou o favorito sem tradução. Os poemas são obras artísticas públicas lidas como 'casos' (não há material clínico real). 'Compensação' como consideração geral sobre o tratamento (0:16:04) é um trecho confuso. A participante que mais contribui aparece como Flávio/Flávia na legenda; há duas 'Alices'. Um colega citado como defensor da leitura 'brasa' aparece como 'Bernardo B da de Jact' (?). 'Decano' (?) parece ser um papel na Allos. A citação de Jung (OC 16) não pôde ser verificada. O alias da nota evita o nome exato 'Psicodiagnóstico' para não colidir com a nota-hub da competência. Participantes foram anonimizados, exceto Diogo (pergunta aos 0:16:04), que pode ser o facilitador da Allos."
+}

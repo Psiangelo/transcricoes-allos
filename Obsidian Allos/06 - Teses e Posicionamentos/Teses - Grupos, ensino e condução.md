@@ -1,0 +1,224 @@
+---
+tipo: "tese"
+tema: "Grupos, ensino e condução"
+n_teses: 41
+tags: ["tese"]
+---
+
+# Teses — Grupos, ensino e condução
+
+> [!abstract] 41 pontos de vista defendidos nos grupos e vídeos, cada um com o argumento, o contraponto e a implicação prática.
+> Ótimo ponto de partida para posts de opinião, debates em grupo e roteiros de vídeo.
+
+## Alan
+- **Dinâmicas complexas geram riqueza, mas não regras gerais, e o exercício coletivo superestima a competência individual.**
+  - *Argumento:* Houve parênteses dentro de parênteses, cada solução usou um princípio diferente, e o grupo travou em momentos em que Alan teve de dar a resposta.
+  - *Contra quem / contraponto:* Uma participante atribui o problema à estrutura do exercício, não à condução.
+  - *Implicação prática:* Quebrar em subexercícios com vinheta fixa e treinar individualmente (4 a 6 variações por pessoa).
+  - [[Alan 02 - Construção frasal]] [▶ 1:30:31](https://www.youtube.com/watch?v=npsx_ip98fw&t=5431s)
+- **O aprendizado acontece no incômodo; contestar o professor é desejável.**
+  - *Argumento:* O ensino 'serve para alguma coisa quando te incomoda'; por isso Alan provoca e usa exemplos absurdos de propósito.
+  - *Contra quem / contraponto:* A regra social de evitar conflito.
+  - *Implicação prática:* Criar grupos em que discordar é explicitamente pedido e valorizado.
+  - [[Alan 10 - Escuta em sistêmica]] [▶ 0:01:49](https://www.youtube.com/watch?v=DPPCBauRuAo&t=109s)
+- **Quem ensina deve explicitar seu grau de domínio de cada tema.**
+  - *Argumento:* Ensinando por antítese, ele confronta abordagens que domina em graus muito diferentes; sem disclaimer, o aluno não sabe o que ouvir com cautela.
+  - *Contra quem / contraponto:* A autoridade uniforme do professor; o próprio erro dele no encontro anterior.
+  - *Implicação prática:* Abrir cursos e grupos com um mapa honesto de especialidade.
+  - [[Alan 10 - Escuta em sistêmica]] [▶ 0:03:44](https://www.youtube.com/watch?v=DPPCBauRuAo&t=224s)
+- **O ensino depositário é ruim; o professor transmite o tesão pelo tema.**
+  - *Argumento:* Aulas expositivas não engajam; aprender exige sentar e pensar; a provocação serve para engajar e levar o tema para a vida.
+  - *Contra quem / contraponto:* O modelo em que a cabeça do aluno é um depósito de informações.
+  - *Implicação prática:* Grupos com vinhetas, roleplay, provocação e ligação com a vida concreta.
+  - [[Alan 14 - Priorização clínica 1]] [▶ 1:30:05](https://www.youtube.com/watch?v=bhMBmA7D57s&t=5405s)
+- **Pegar a última fala é vício de conversa, não escolha clínica.**
+  - *Argumento:* É o movimento mais natural entre duas pessoas conversando.
+  - *Contra quem / contraponto:* A coincidência de o último ser o mais importante é aceitável.
+  - *Implicação prática:* Monitorar esse padrão nos roleplays e quebrá-lo.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 0:47:26](https://www.youtube.com/watch?v=5S1N66EW-7w&t=2846s)
+- **Intuir o raciocínio clínico do colega ensina a intuir o próprio.**
+  - *Argumento:* A leitura entre pares torna visível o que normalmente é automático.
+  - *Contra quem / contraponto:* Exercícios em que só o facilitador interpreta.
+  - *Implicação prática:* Em grupos de formação, os pares adivinham o critério de quem interveio.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 0:59:10](https://www.youtube.com/watch?v=5S1N66EW-7w&t=3550s)
+- **A melhora vem da replicação fora do grupo; o aprimoramento dá diretriz e inspiração.**
+  - *Argumento:* Não há tempo para trabalhar o exercício a fundo com cada pessoa; isso exigiria atendimento um a um.
+  - *Contra quem / contraponto:* Contra a expectativa de que frequentar o grupo basta.
+  - *Implicação prática:* Exercícios simples e replicáveis; criação de monitorias individuais de prática deliberada.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 1:33:26](https://www.youtube.com/watch?v=5S1N66EW-7w&t=5606s)
+- **As dinâmicas canônicas do aprimoramento funcionam mal online; presencialmente 'o nível é outro'.**
+  - *Argumento:* O bate-volta de fala e sentar ao lado de alguém com os outros vendo são mais fáceis presencialmente.
+  - *Implicação prática:* Adaptar ou reduzir dinâmicas no online; valorizar encontros presenciais.
+  - [[Alan 16 - Intervenção]] [▶ 1:16:13](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=4573s)
+- **Na monitoria, a ferramenta deve ser escolhida pelo que o caso convida.**
+  - *Argumento:* Alan admite que escolheu a ferramenta antes de ver o caso apenas para demonstrá-la.
+  - *Contra quem / contraponto:* Aplicar sempre a mesma técnica de supervisão.
+  - *Implicação prática:* O monitor precisa dominar várias formas de trabalhar.
+  - [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] [▶ 0:01:15](https://www.youtube.com/watch?v=fRkymivFF9s&t=75s)
+- **Monitorias deveriam caber em uma hora.**
+  - *Argumento:* Alan quer testar atividades mais curtas; 'se eu conseguir, todo mundo consegue'.
+  - *Contra quem / contraponto:* A tendência dele próprio a se estender.
+  - *Implicação prática:* Planejar o fechamento e sacrificar partes (como a leitura do chat) para cumprir o tempo.
+  - [[Monitoria 03 - Alan - Análise da linguagem do paciente]] [▶ 0:39:21](https://www.youtube.com/watch?v=-e15B6p1EMo&t=2361s)
+- **O confronto é da natureza da monitoria.**
+  - *Argumento:* É um espaço individual em que se pode dar uma cutucada maior; qualquer participante estaria igualmente na parede.
+  - *Contra quem / contraponto:* Quem se assusta com um modelo mais confrontativo.
+  - *Implicação prática:* Avisar o grupo e dar sentido ao desconforto no fechamento.
+  - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] [▶ 1:22:25](https://www.youtube.com/watch?v=r4Q-Xi6Gntk&t=4945s)
+- **Talvez seja melhor acompanhar uma pessoa do início ao fim na monitoria.**
+  - *Argumento:* Entre etapas de pessoas diferentes passam semanas e fica difícil lembrar dos casos.
+  - *Contra quem / contraponto:* O formato de rodízio por etapas usado até então.
+  - *Implicação prática:* Organizar 'o mês de cada aluno'.
+  - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] [▶ 0:00:13](https://www.youtube.com/watch?v=r4Q-Xi6Gntk&t=13s)
+- **O ensino de psicologia é invertido: a prática deveria começar na primeira aula.**
+  - *Argumento:* Ninguém aceitaria três anos de história da natação antes de entrar na piscina. No tênis e no esporte, pratica-se primeiro e a teoria vem depois ou junto.
+  - *Contra quem / contraponto:* O consenso academicista de que prática vem depois de teoria (não é culpa do MEC).
+  - *Implicação prática:* Grupos de formação devem pôr as pessoas 'na água, com boia' desde o início.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 0:38:35](https://www.youtube.com/watch?v=nf32eXLKUrs&t=2315s)
+- **A prática deliberada precisa ser divertida, em grupo e variada, e não técnica, individual e repetitiva.**
+  - *Argumento:* A perda de quase 20% dos participantes torna as pesquisas de Miller ininterpretáveis. As pessoas não engajam em fundamentos repetidos, até times de elite têm 'a hora da pelada', e o modelo do atleta de elite não serve ao ensino de base.
+  - *Contra quem / contraponto:* Scott Miller, para quem os fundamentos se treinam para sempre; ele respondeu que pensava a PD para o clínico obcecado por excelência, não para a graduação.
+  - *Implicação prática:* Grupos com dinâmicas engraçadas e exercícios simples e complexos, individuais e coletivos.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 1:09:59](https://www.youtube.com/watch?v=nf32eXLKUrs&t=4199s)
+- **Ensino sem crítica individual não existe.**
+  - *Argumento:* Sem alguém de fora que observe e corrija, não há como saber se você está chegando lá.
+  - *Contra quem / contraponto:* O desconforto natural com críticas, que Alan reconhece.
+  - *Implicação prática:* Grupos com exposição individual e feedback franco, com combinado prévio.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 0:02:30](https://www.youtube.com/watch?v=oeCymlAmai4&t=150s)
+- **Num grupo de prática, quem mais deve ser pressionado é quem observa, não quem atende.**
+  - *Argumento:* Quem atende apenas fornece o material; o aprendizado do grupo vem da capacidade de todos articularem crítica e alternativas.
+  - *Contra quem / contraponto:* Formatos em que só o voluntário é avaliado e os demais assistem passivamente.
+  - *Implicação prática:* Convocar diretamente os observadores e exigir anotação ativa.
+  - [[Prática Clínica 02 - Atendimento ao vivo e ecos da palavra]] [▶ 0:00:53](https://www.youtube.com/watch?v=1vq-Uefyf1w&t=53s)
+- **Ensino clínico em grupo é majoritariamente crítico: a graça é ver defeito.**
+  - *Argumento:* O objetivo é levar o bom ao excelente; elogio não indica o que melhorar.
+  - *Contra quem / contraponto:* A gentileza de elogiar o colega antes de criticar.
+  - *Implicação prática:* Um único disclaimer positivo do facilitador e foco no que precisa melhorar.
+  - [[Prática Clínica 02 - Atendimento ao vivo e ecos da palavra]] [▶ 0:37:25](https://www.youtube.com/watch?v=1vq-Uefyf1w&t=2245s)
+- **Num grupo prático, pontualidade é inegociável: sair mais cedo é mais aceitável do que chegar atrasado.**
+  - *Argumento:* (Implícito) o trabalho se faz sobre o material produzido ao vivo, que quem chega atrasado perde.
+  - *Contra quem / contraponto:* A flexibilidade habitual de grupos online.
+  - *Implicação prática:* Combinar e cobrar pontualidade.
+  - [[Prática Clínica 03 - Atenção flutuante, construção frasal e entonação]] [▶ 0:26:33](https://www.youtube.com/watch?v=m4vr6-_WOus&t=1593s)
+- **Aluno é bom quando erra; aluno que acerta de primeira atrapalha a construção.**
+  - *Argumento:* O gabarito entregue cedo quebra a construção coletiva, e o que se recebe pronto se esquece.
+  - *Contra quem / contraponto:* Formatos expositivos que entregam a taxonomia pronta.
+  - *Implicação prática:* O facilitador pede chutes imprecisos e segura o gabarito.
+  - [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]] [▶ 0:04:30](https://www.youtube.com/watch?v=d8jUUFt9yT0&t=270s)
+- **O erro clínico mais comum é o conservador, não o agressivo.**
+  - *Argumento:* Nos roleplays, é muito mais comum o terapeuta estar um estágio atrás do que um à frente; os erros agressivos são mais visíveis, mas menos frequentes.
+  - *Contra quem / contraponto:* A crença de que o maior risco é ir rápido demais.
+  - *Implicação prática:* Na dúvida, subir um degrau de intensidade.
+  - [[YT Avaliação Clínica 01 - Meu paciente está pronto - Estágios de mudança]] [▶ 0:09:48](https://www.youtube.com/watch?v=NJBRCNbPc3Q&t=588s)
+- **O critério de entrada numa clínica não deve ser rebaixado; a solução é ensinar.**
+  - *Argumento:* Premissa ética de Alan diante de uma fila de cem pessoas e baixa aprovação.
+  - *Contra quem / contraponto:* Reduzir o padrão para absorver a demanda.
+  - *Implicação prática:* Publicar os critérios e oferecer grupos de prática gratuitos.
+  - [[YT Avaliação Clínica 03 - Comecei na clínica, e agora]] [▶ 0:00:55](https://www.youtube.com/watch?v=JTso5qJYMNU&t=55s)
+- **Quem tem problema com o método é o colega ou o professor, não o paciente.**
+  - *Argumento:* Apresentado de modo plausível, o paciente raramente questiona exercícios, dinâmicas ou escalas.
+  - *Contra quem / contraponto:* Os consensos profissionais conservadores.
+  - *Implicação prática:* Ousar mais, explicando a proposta.
+  - [[YT Avaliação Clínica 07 - Abertura e encerramento de sessão clínica]] [▶ 0:10:46](https://www.youtube.com/watch?v=t1vRYiBKZFY&t=646s)
+- **Construção frasal se treina com exercícios, e o formato síncrono é melhor.**
+  - *Argumento:* É a prática que torna natural; ao vivo o facilitador vê e corrige.
+  - *Contra quem / contraponto:* Aprender só assistindo.
+  - *Implicação prática:* Praticar variações em casa e participar dos grupos.
+  - [[YT Avaliação Clínica 08 - Construção frasal na psicanálise]] [▶ 0:15:36](https://www.youtube.com/watch?v=EQ15ZGuigog&t=936s)
+- **Quando o aluno é cliente, a instituição não consegue dizer não e diploma quem não deveria.**
+  - *Argumento:* Se entrar é pagar e se formar é concluir aulas, o critério é censitário e 'o cliente tem sempre razão'.
+  - *Contra quem / contraponto:* Pós-graduações e cursos livres pagos; universidades que não reprovam em disciplinas práticas.
+  - *Implicação prática:* Oferecer uma proposta atraente e gratuita para selecionar com rigor e poder cobrar mais.
+  - [[YT Avaliação Clínica 11 - Como entrar na Allos]] [▶ 0:07:08](https://www.youtube.com/watch?v=HlYGLPwRMFc&t=428s)
+
+## Diogo
+- **A graduação ensina o quê, não o como, e é por isso que o Aprimoramento existe.**
+  - *Argumento:* Ouvimos que devemos ser empáticos e saber cortar, mas ninguém ensina como, e cada um faz de um jeito.
+  - *Contra quem / contraponto:* O pressuposto de que habilidades básicas são naturais.
+  - *Implicação prática:* Treinar habilidades globais, transteóricas.
+  - [[Acervo 24 - Cuidados básicos de saúde na clínica]] [▶ 0:00:05](https://www.youtube.com/watch?v=QKoZq_lBSaw&t=5s)
+- **O grupo só funciona com conversa.**
+  - *Argumento:* A formação no formato reflexivo depende das contribuições dos participantes.
+  - *Contra quem / contraponto:* O participante que só assiste.
+  - *Implicação prática:* Combinados que priorizam a participação ativa.
+  - [[Acervo 24 - Cuidados básicos de saúde na clínica]] [▶ 0:09:52](https://www.youtube.com/watch?v=QKoZq_lBSaw&t=592s)
+- **A monitoria depende de um terapeuta falando; pelo chat não funciona.**
+  - *Argumento:* O formato exige muitas perguntas sucessivas, e por escrito o grupo fica arrastado.
+  - *Implicação prática:* Garantir antes um monitorado com voz, ou ter um plano B.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 0:06:52](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=412s)
+
+## João de Bragança
+- **Psicólogos precisam ver e ser vistos atendendo, porque o erro costuma ser invisível para quem o comete.**
+  - *Argumento:* Não vemos colegas atendendo; muitas vezes não há má-fé, só falta alguém que aponte; o paciente leigo não tem como avaliar.
+  - *Contra quem / contraponto:* Uma formação que não expõe a prática real.
+  - *Implicação prática:* Monitorias, roleplays e análise de sessões como parte central da formação.
+  - [[Monitoria 06 - João de Bragança - Critérios de uma terapia ruim]] [▶ 1:04:52](https://www.youtube.com/watch?v=9QbVz3nle0E&t=3892s)
+- **O atendimento de Albert Ellis a Gloria é péssimo.**
+  - *Argumento:* Não desenvolvido nesta sessão (fica para a seguinte); uma participante acrescenta que a sessão deve ser julgada como um todo.
+  - *Contra quem / contraponto:* Quem veja algo de bom nele, desafiado por João a sustentar a posição.
+  - *Implicação prática:* Julgar atendimentos inteiros, não trechos.
+  - [[Monitoria 09 - João de Bragança - Critérios do bom psicólogo e acolhimento]] [▶ 1:20:35](https://www.youtube.com/watch?v=5F6Lw10ZfPk&t=4835s)
+
+## Rodolfo
+- **Não existe uma forma correta de encerrar uma sessão.**
+  - *Argumento:* Cada forma produz efeitos distintos e a escolha depende do fenômeno em questão; o roleplay mostrou que o bom encerramento depende do caso.
+  - *Contra quem / contraponto:* Manuais e scripts de fecho padrão.
+  - *Implicação prática:* Formar repertório e sensibilidade situacional, não um script.
+  - [[Acervo 22 - Formas de encerrar a sessão]] [▶ 1:04:10](https://www.youtube.com/watch?v=7zGA_xgbZg8&t=3850s)
+- **O grupo de aprimoramento é espaço de experimentação, não de avaliação.**
+  - *Argumento:* Testar formas novas com pacientes reais tem riscos; no grupo ninguém é julgado.
+  - *Contra quem / contraponto:* Formação centrada em avaliação.
+  - *Implicação prática:* Estimular escolhas ousadas no roleplay.
+  - [[Acervo 22 - Formas de encerrar a sessão]] [▶ 0:24:04](https://www.youtube.com/watch?v=7zGA_xgbZg8&t=1444s)
+
+## Outros facilitadores e participantes
+- **Intervir no sintoma quando a origem é estrutural é revitimizar.**
+  - *Argumento:* A própria clínica ensina que o sintoma pode estruturar o sujeito; devolver a pessoa à solidão ou à humilhação individualiza uma questão coletiva.
+  - *Contra quem / contraponto:* Clínica individualizante centrada no sintoma.
+  - *Implicação prática:* Sustentar a reflexão sobre racismo e machismo na sessão.
+  - Malu · [[Acervo 07 - Violência estrutural e plantão psicológico]] [▶ 0:13:30](https://www.youtube.com/watch?v=sbQJy1e4wwY&t=810s)
+- **O grupo é talvez o dispositivo clínico mais potente de enfrentamento à violência.**
+  - *Argumento:* Medeia individual e social e cria reconhecimento entre iguais sem revitimizar.
+  - *Contra quem / contraponto:* Primazia da clínica individual.
+  - *Implicação prática:* Priorizar rodas e grupos em plantões e projetos.
+  - Malu · [[Acervo 07 - Violência estrutural e plantão psicológico]] [▶ 0:37:27](https://www.youtube.com/watch?v=sbQJy1e4wwY&t=2247s)
+- **Sem mudar a fronteira epistêmica, novos dispositivos mantêm a mesmice.**
+  - *Argumento:* Fazer grupo sem inverter a lógica não muda nada; um grupo contracolonial difere de um grupo operativo pela premissa e pela forma de ler, priorizar e interpretar.
+  - *Contra quem / contraponto:* Mudanças apenas técnicas.
+  - *Implicação prática:* Rever critérios de leitura e condução dos grupos.
+  - Malu · [[Acervo 07 - Violência estrutural e plantão psicológico]] [▶ 1:18:04](https://www.youtube.com/watch?v=sbQJy1e4wwY&t=4684s)
+- **No setting, o foco é o paciente, mas isso não significa abrir mão de si.**
+  - *Argumento:* Um participante autista conta que abandonou o mascaramento na vida pessoal, mas cuida de expressões e gestos no atendimento; outra participante contrapõe que se vigiar o tempo todo tira atenção do paciente.
+  - *Contra quem / contraponto:* Explicitar os traços no contrato em vez de mascarar.
+  - *Implicação prática:* Buscar equilíbrio entre autenticidade e cuidado com a leitura do paciente.
+  - Participantes · [[Acervo 08 - Como a clínica atravessa o terapeuta]] [▶ 1:05:06](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3906s)
+- **A graduação em psicologia forma mal por falta de roleplay e de feedback sobre a performance real.**
+  - *Argumento:* Experiência do facilitador (roleplay só duas vezes na graduação); o estudante atende a partir do 7º período sem feedback direto.
+  - *Implicação prática:* Grupos de pares e núcleos de prática suprem uma lacuna estrutural; o roleplay deveria ser o básico.
+  - Bernardo · [[PD 03 - Os quatro pilares da prática deliberada]] [▶ 0:41:55](https://www.youtube.com/watch?v=demM9dPaAdg&t=2515s)
+- **A aversão à mensuração é mais do terapeuta do que do paciente.**
+  - *Argumento:* Segundo o facilitador, 92% dos pacientes são favoráveis e boa parte dos terapeutas não; há um viés cultural que associa medir a teste.
+  - *Implicação prática:* Adotar escalas explicando o propósito.
+  - Bernardo · [[PD 05 - Problemas da mensuração, aliança e auto-observação]] [▶ 0:07:53](https://www.youtube.com/watch?v=7aHutJ-HDWk&t=473s)
+- **Aulas de formação devem ter cerca de 50 minutos.**
+  - *Argumento:* O cansaço do horário noturno; segundo o facilitador (se não se engana), a atenção sustentada cai depois de cerca de 40 minutos.
+  - *Implicação prática:* Dividir conteúdo denso entre encontros.
+  - Bernardo · [[PD 05 - Problemas da mensuração, aliança e auto-observação]] [▶ 0:47:00](https://www.youtube.com/watch?v=7aHutJ-HDWk&t=2820s)
+- **Treinar em grupo engaja mais que treinar sozinho.**
+  - *Argumento:* Observação do facilitador: em grupo as pessoas se engajam muito mais e é mais divertido.
+  - *Contra quem / contraponto:* A PD original, com muitos exercícios individuais e trabalho reflexivo 'maçante'; os individuais continuam importantes.
+  - *Implicação prática:* Estruturar o treino de habilidades em grupos.
+  - Bernardo (posição da Allos) · [[PD 06 - Métricas de resultado e a tocha na caverna]] [▶ 0:18:08](https://www.youtube.com/watch?v=MHDlojceuEk&t=1088s)
+- **A maior parte do desfecho é influenciada por fatores fora da terapia.**
+  - *Argumento:* Slide do livro: 93% (tradução que o facilitador acha confusa).
+  - *Contra quem / contraponto:* A onipotência do terapeuta; risco inverso de desânimo.
+  - *Implicação prática:* Monitorar para reagir ao imprevisível.
+  - Bernardo (a partir do livro) · [[PD 08 - Monitoramento rotineiro e como pedir feedback]] [▶ 0:16:08](https://www.youtube.com/watch?v=14Zp9T2ptSA&t=968s)
+- **Sem gravação, a auto-observação é quase impossível.**
+  - *Argumento:* Ver-se atendendo exigiria um deslocamento metacognitivo quase totalmente abstrato; a gravação nos torna ouvintes.
+  - *Contra quem / contraponto:* Confiar na memória e no relato.
+  - *Implicação prática:* Gravar com consentimento ou, em grupo, usar observadores e roleplay.
+  - Bernardo · [[PD 08 - Monitoramento rotineiro e como pedir feedback]] [▶ 0:41:03](https://www.youtube.com/watch?v=14Zp9T2ptSA&t=2463s)
+
+## Relacionados
+- [[MOC - Teses e posicionamentos]]

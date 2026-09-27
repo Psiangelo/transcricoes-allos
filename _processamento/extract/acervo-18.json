@@ -1,0 +1,840 @@
+{
+ "id": "acervo-18",
+ "nota": "Acervo 18 - Hipótese clínica e intervenção",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "Hipótese clínica e intervenção",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Gabriel"
+ ],
+ "resumo": "Gabriel explica o grupo de aprimoramento a novatos: treinar, em pedaços, habilidades comuns a todas as abordagens, para aprender e tornar-se consciencioso do próprio processo clínico. Em seguida constrói com o grupo, por perguntas, o conceito de hipótese clínica: explicação provisória do porquê ou do para quê, base da investigação, fio de ligação entre experiências, meta-hipótese. Mostra também que hipótese e intervenção são coisas diferentes. Na dinâmica, uma participante conta uma vinheta encenada de três minutos e outra faz uma intervenção; o grupo explicita a hipótese por trás dela, levanta oito hipóteses e constrói uma intervenção para cada uma. A avaliação coletiva gira em torno da fidelidade: se a intervenção testa exatamente a hipótese, se é aberta demais, se acrescenta elementos, e se a hipótese explica ou só descreve (pseudo-hipótese). Segue uma rodada relâmpago com outra vinheta e uma rodada final de aprendizados: descritividade, medo de inferir, vícios de intervenção, uma palavra que muda a hipótese, e treino pela prática, não pela leitura.",
+ "em_uma_frase": "Gabriel constrói com o grupo o conceito de hipótese clínica, separa-o do de intervenção e treina, com vinhetas encenadas, a construção de uma intervenção fiel para cada hipótese, mostrando que uma hipótese que só descreve não é hipótese.",
+ "competencias": [
+  "Intervenção",
+  "Interpretação",
+  "Formulação de caso",
+  "Construção frasal",
+  "Escuta clínica"
+ ],
+ "abordagens": [
+  "Abordagem centrada na pessoa",
+  "Fenomenologia e existencialismo",
+  "Psicanálise lacaniana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Abertura",
+   "descricao": "Saudação; pergunta se há novatos; explicação do grupo de aprimoramento (habilidades comuns, psicoterapia 'em pedacinhos', tornar-se consciencioso, mais prática que reflexão).",
+   "funcao": "Enquadrar o propósito do grupo para novatos.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:02:28",
+   "bloco": "Combinados",
+   "descricao": "Plano do dia (discutir hipótese e intervenção e depois dinâmica); 'aqui não tem resposta certa ou errada, a gente está construindo'.",
+   "funcao": "Contrato de participação sem medo de errar.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:28",
+   "bloco": "Teoria",
+   "descricao": "Construção coletiva do conceito de hipótese por perguntas: explicação (por quê/para quê), provisoriedade, base da investigação, correlação, função preditiva, meta-hipótese; síntese em categorias às 0:08:47.",
+   "funcao": "Fazer o grupo produzir o conceito que vai usar.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:10:25",
+   "bloco": "Teoria",
+   "descricao": "Como a hipótese vira intervenção: inferência direta, investigação que encurrala, apresentação quase psicoeducativa; hipótese pré-sessão vs. em sessão; parte, todo, partes; hipótese diferente de intervenção; leitura do chat.",
+   "funcao": "Preparar a distinção que a dinâmica treina.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:15:44",
+   "bloco": "Dinâmica",
+   "descricao": "Explicação da dinâmica (vinheta, uma intervenção, hipótese por trás, novas hipóteses, uma intervenção por hipótese) e recrutamento de duas voluntárias.",
+   "funcao": "Instrução e segurança.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:18:48",
+   "bloco": "Dinâmica",
+   "descricao": "Vinheta 1 encenada (insegurança para falar em grupos, sensação de ser interrompida) e primeira intervenção.",
+   "funcao": "Gerar material comum.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:20:02",
+   "bloco": "Feedback",
+   "descricao": "'Qual foi o propósito? O que você estava pensando?'; explicitação de duas hipóteses; comparação entre 'decisão de falar' e 'decisão de terminar de falar'; recontextualização para participante atrasado.",
+   "funcao": "Extrair a hipótese por trás da fala.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:27:09",
+   "bloco": "Rodada de respostas",
+   "descricao": "Outras hipóteses do grupo (controle, postura séria indiscriminada), até oito hipóteses listadas no chat.",
+   "funcao": "Ampliar o leque de leituras.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:32:47",
+   "bloco": "Dinâmica",
+   "descricao": "Uma intervenção por hipótese, com avaliação coletiva: inferioridade/profecia autorrealizável, limites, 'deixar cortar', postura séria (pseudo-hipótese), necessidade de aprovação; comando 'faz uma mais agressiva'.",
+   "funcao": "Núcleo do treino: fidelidade entre hipótese e fala.",
+   "duracao_min": 43
+  },
+  {
+   "ts": "0:55:49",
+   "bloco": "Teoria",
+   "descricao": "Formalização no meio da prática: uma 'hipótese' que só descreve não é hipótese; qualidade de uma hipótese é explicar o porquê ou o para quê.",
+   "funcao": "Nomear o erro recorrente.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:16:12",
+   "bloco": "Dinâmica",
+   "descricao": "Rodada relâmpago: vinheta 2 (1–2 min, relacionamento inicial), uma intervenção, hipóteses no chat, intervenções designadas por nome.",
+   "funcao": "Repetir o ciclo mais rápido, com todos produzindo.",
+   "duracao_min": 24
+  },
+  {
+   "ts": "1:40:16",
+   "bloco": "Fechamento",
+   "descricao": "Síntese do propósito: diferenciar intervenção de hipótese e fazer intervenções diferentes para a mesma hipótese ou para hipóteses diferentes.",
+   "funcao": "Consolidar a lição.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:43:01",
+   "bloco": "Feedback",
+   "descricao": "'O que vocês acharam?': aprendizados (descritividade, medo de inferir, palavra que muda a hipótese, vícios de linguagem, intervenções mornas); pedido de material; 'vem da prática, não da leitura'.",
+   "funcao": "Metacognição e transferência para a clínica.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:49:28",
+   "bloco": "Fechamento",
+   "descricao": "Encerra a gravação; bate-papo segue fora do vídeo.",
+   "funcao": "Encerrar.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Hipótese clínica",
+   "definicao": "Explicação possível e provisória de um fenômeno clínico: o porquê (o que sustenta um comportamento, pensamento ou ação do inconsciente) ou o para quê (sua função). Não está certa nem errada, precisa ser testada e atestada, orienta a investigação e é modulada ao longo do caso. Também funciona como fio de ligação entre experiências.",
+   "exemplo": "Da observação de que o paciente desvia de uma pergunta, inferir que ele tem uma atitude de fuga diante da vida e testar isso nas partes.",
+   "abordagem": "",
+   "ts": "0:05:10"
+  },
+  {
+   "nome": "Meta-hipótese",
+   "definicao": "Hipótese sobre a própria hipótese, ou 'interpretação em cima da interpretação'. Inclui hipóteses sobre o próprio agir do terapeuta ('se eu fizer isso, vai funcionar por causa de X').",
+   "exemplo": "O terapeuta que vê mentira em todos os pacientes pode levantar a hipótese de que está projetando.",
+   "abordagem": "",
+   "ts": "0:10:25"
+  },
+  {
+   "nome": "Hipótese pré-sessão",
+   "definicao": "Hipótese trazida de fora da sessão (supervisão, estudo), com a qual o terapeuta começa a investigar ou intervir. Distingue-se da hipótese construída durante a sessão a partir de uma fala do paciente.",
+   "exemplo": "Ir para a sessão com o que o supervisor apontou.",
+   "abordagem": "",
+   "ts": "0:13:00"
+  },
+  {
+   "nome": "Círculo hermenêutico",
+   "definicao": "Gabriel descreve, sem usar o termo, o movimento de inferir o todo a partir de uma parte e testar as partes a partir desse todo, 'e fica nesse círculo'. É o processo intuitivo de interpretar a realidade.",
+   "exemplo": "Um pequeno desvio do paciente leva à hipótese de uma atitude geral de fuga, testada depois em outros comportamentos.",
+   "abordagem": "",
+   "ts": "0:14:01"
+  },
+  {
+   "nome": "Intervenção como teste de hipótese",
+   "definicao": "A intervenção é o meio de acessar o paciente e de expor, testar, mudar ou confrontar hipóteses. Hipótese e intervenção são distintas: 'a gente pode pensar uma coisa e intervir outra'. Há três modos de levar a hipótese à fala: inferência direta, investigação que encurrala e apresentação quase psicoeducativa.",
+   "exemplo": "Diante da hipótese de fuga: dizer 'você está fazendo isso aqui', perguntar em sequência até que não haja saída, ou mostrar 'estou enxergando isso, isso e isso'.",
+   "abordagem": "",
+   "ts": "0:14:35"
+  },
+  {
+   "nome": "Vinheta clínica",
+   "definicao": "História curta (1 a 3 minutos), real ou inventada, contada por um participante no papel de paciente para servir de material ao exercício.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:15:44"
+  },
+  {
+   "nome": "Criatividade clínica",
+   "definicao": "Capacidade de produzir intervenções variadas (palavras, entonação, formulação, potência). Gabriel diz que a dinâmica 'é basicamente criatividade clínica'; uma participante percebe ter pouca.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:17:52"
+  },
+  {
+   "nome": "Pseudo-hipótese",
+   "definicao": "Formulação que descreve o que acontece sem explicar o porquê ou o para quê. Não é fraca, mas não liga os elementos. Por isso as intervenções feitas sobre ela tendem a acrescentar uma hipótese implícita.",
+   "exemplo": "'Ela tenta manter uma postura séria mesmo em contextos descontraídos' é descrição; 'o apego do outro soa estranho para o desapego dela' também.",
+   "abordagem": "",
+   "ts": "0:55:49"
+  },
+  {
+   "nome": "Fidelidade à hipótese",
+   "definicao": "Alinhamento entre a intervenção e a hipótese específica que ela deveria testar, sem trocar de hipótese, abrir demais ou acrescentar elementos. É o que a dinâmica treina.",
+   "exemplo": "Uma intervenção boa, mas baseada em 'ser ouvida' quando a hipótese da rodada era 'ser aceita'.",
+   "abordagem": "",
+   "ts": "1:12:56"
+  },
+  {
+   "nome": "Intervenção cirúrgica",
+   "definicao": "Intervenção precisa, que investiga exatamente o aspecto visado. Uma hipótese muito geral impede a intervenção cirúrgica, e uma pergunta muito aberta deixa o paciente 'fugir para qualquer lugar'.",
+   "exemplo": "'Num grupo em que todos estão rindo, o que te faz pensar que só você precisa se manter séria?', que usa as palavras da paciente e não acrescenta nada.",
+   "abordagem": "",
+   "ts": "0:59:59"
+  },
+  {
+   "nome": "Intervenção acusatória",
+   "definicao": "Intervenção em forma de afirmação ou pressuposto, que devolve ao paciente o padrão percebido. Tem potência, mas afirma algo que o terapeuta não sabe. Como pergunta, pode tornar o paciente consciente e deixá-lo aceitar ou recusar.",
+   "exemplo": "'Conseguiria aprovação só através da seriedade?'",
+   "abordagem": "",
+   "ts": "0:48:23"
+  },
+  {
+   "nome": "Modularidade da intervenção",
+   "definicao": "Trocar uma única palavra da intervenção troca a hipótese de base. Pequenas diferenças levam a caminhos completamente distintos.",
+   "exemplo": "'Como é se podar toda para ser ouvida / ser aceita / pertencer?'; 'essa desconexão te assusta?' vs. a hipótese de que a conexão assusta.",
+   "abordagem": "",
+   "ts": "1:11:29"
+  },
+  {
+   "nome": "Profecia autorrealizável",
+   "definicao": "Hipótese levantada na vinheta: por se considerar inferior, a pessoa age de modo inferior (postura, voz) e produz a reação que teme (ser interrompida).",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:36:07"
+  },
+  {
+   "nome": "Aqui e agora",
+   "definicao": "Levar a hipótese para a relação terapêutica no momento presente, perguntando se o padrão está acontecendo com o terapeuta.",
+   "exemplo": "'Você está usando a máscara de seriedade agora para buscar a minha aprovação?' ('bem agressivo, mas é bom').",
+   "abordagem": "",
+   "ts": "1:09:26"
+  },
+  {
+   "nome": "Adequação da linguagem ao paciente",
+   "definicao": "Trocar formulações acadêmicas por linguagem simples, pensando em pacientes sem vocabulário técnico (por exemplo, em serviços públicos).",
+   "exemplo": "De 'você acredita ser visível para os outros...?' para 'esse modo que você se enxerga é o mesmo que os outros te enxergam?'.",
+   "abordagem": "",
+   "ts": "0:46:30"
+  },
+  {
+   "nome": "Intensidade da intervenção",
+   "definicao": "Potência da intervenção, de morna a agressiva. É treinada pelo comando 'faz uma mais agressiva'; participantes percebem que ficam sempre no 'morno'.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:05:27"
+  },
+  {
+   "nome": "Vícios de intervenção",
+   "definicao": "Fórmulas repetidas que limitam o repertório ('vício de porquê, para quê') e só aparecem quando se é obrigado a produzir várias intervenções. Devem ser anotadas e treinadas.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:46:19"
+  },
+  {
+   "nome": "Tomada de consciência",
+   "definicao": "Propósito do grupo de aprimoramento: tornar-se 'consciencioso' do processo pelo qual se age na clínica, que normalmente é intuitivo (construção frasal, entonação, hipótese de base).",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:01:08"
+  },
+  {
+   "nome": "Comportamento clinicamente relevante",
+   "definicao": "Expressão usada por uma participante: a hipótese é a lente do terapeuta sobre um comportamento clinicamente relevante que se manifesta na sessão.",
+   "exemplo": "",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:03:58"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Uma intervenção para cada hipótese",
+   "objetivo": "Tornar consciente o processo de criar hipóteses, separar hipótese de intervenção e treinar a construção de intervenções fiéis a uma hipótese específica, mostrando que hipóteses diferentes pedem intervenções diferentes.",
+   "competencias": [
+    "Intervenção",
+    "Interpretação",
+    "Formulação de caso",
+    "Construção frasal"
+   ],
+   "configuracao": "Grupo todo, online, cerca de 7 participantes ativos; duas voluntárias (paciente e terapeuta) fixadas na tela, câmera opcional; os demais participam por voz ou chat.",
+   "tempo": "Cerca de 60 minutos para uma vinheta (sem contar os 25 minutos de discussão conceitual prévia).",
+   "materiais": "Chat da videochamada como quadro para registrar intervenções e hipóteses.",
+   "consigna": "'Alguém conta uma historinha de dois ou três minutos, um problema, como se fosse paciente (pode ser real ou inventada). Outra pessoa só faz uma intervenção. Não importa se a intervenção foi boa ou ruim: a gente vai discutir a hipótese por trás dela, fazer hipóteses diferentes para o caso e, para cada hipótese, uma intervenção diferente.'",
+   "passos": [
+    "Discussão conceitual curta: o que é hipótese, o que é intervenção, e que são coisas diferentes.",
+    "Escolher duas voluntárias e combinar os papéis (câmera opcional).",
+    "A 'paciente' conta a vinheta (cerca de 3 min); a 'terapeuta' faz uma única intervenção.",
+    "Perguntar à terapeuta o propósito e o que pensava; pedir uma ou duas hipóteses explícitas.",
+    "Perguntar ao grupo se a intervenção serve ao propósito e que hipótese testa; comparar variações de frase.",
+    "Abrir para outras hipóteses e listá-las no chat (5 a 8).",
+    "Hipótese por hipótese, pedir intervenções faladas ou digitadas, exigindo a frase exata.",
+    "Avaliar coletivamente se cada intervenção investiga exatamente aquela hipótese; o facilitador opina marcando que é opinião.",
+    "Dar comandos de variação quando alguém repete a fórmula ('tenta diferente', 'faz uma mais agressiva').",
+    "Fechar com a síntese do propósito."
+   ],
+   "feedback": "Critérios: (a) a intervenção testa essa hipótese (por exemplo, a relação crença → comportamento) ou só o tema? (b) está aberta demais ('pode fugir para qualquer lugar') ou é cirúrgica? (c) acrescenta elementos que a hipótese não tem ('para ser aceita')? (d) a hipótese explica o porquê/para quê ou só descreve (pseudo-hipótese)? (e) qual palavra-chave carrega qual hipótese? (f) afirmar é possível, mas afirma o que não se sabe; (g) a linguagem é acessível? O facilitador devolve ao grupo antes de opinar e admite quando está em dúvida.",
+   "exemplos_praticos": "Vinheta encenada (tratada como fictícia): insegurança para falar em grupos, sobretudo masculinos, e sensação de ser interrompida. 'Por que você está se sentindo tão insegura?' foi julgada aberta demais para a hipótese de profecia autorrealizável; 'Você acredita ser visível para os outros a forma como você mesma se vê?' testou a ponte entre autoimagem e comportamento (com sugestão de linguagem mais simples). 'O que me chama atenção não é te cortarem, mas você permitir isso' funcionou para a hipótese de limites. Para a pseudo-hipótese da postura séria, intervenções acrescentaram 'para ser aceita/ouvida'; 'Me diga o que aconteceria se você não agisse assim' e 'Num grupo em que todos estão rindo, o que te faz pensar que só você precisa se manter séria?' foram consideradas boas. Para a necessidade de aprovação, 'Você está usando a máscara de seriedade agora para buscar a minha aprovação?' foi elogiada como agressiva e boa.",
+   "variacoes": "Rodada relâmpago com vinheta de 1–2 min e hipóteses designadas por nome; pedir a mesma hipótese em intensidades diferentes; fazer a hipótese circular entre pessoas (batata quente de hipóteses do Alan); limitar a 4–5 hipóteses por vinheta para ganhar tempo.",
+   "armadilhas": "Participantes que descrevem em vez de explicar; trocam de hipótese sem perceber; costuram várias hipóteses numa só; repetem a mesma fórmula; tentam 'acertar' o caso em vez de alinhar intervenção e hipótese. A regra de fidelidade precisa ser explicitada no início (aqui, uma participante teve de lembrá-la). Exercício longo e cansativo para o facilitador.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:15:44"
+  },
+  {
+   "nome": "Dinâmica - Rodada relâmpago",
+   "objetivo": "Repetir o ciclo vinheta → hipóteses → intervenção por hipótese em ritmo mais rápido, com todos convocados a produzir.",
+   "competencias": [
+    "Intervenção",
+    "Interpretação"
+   ],
+   "configuracao": "Grupo todo online; duas voluntárias com papéis invertidos em relação à rodada anterior; o facilitador designa hipóteses a participantes pelo nome.",
+   "tempo": "Cerca de 25 minutos.",
+   "materiais": "Chat para listar hipóteses.",
+   "consigna": "'Vocês querem fazer mais uma vinheta, papo de rodada relâmpago? Alguém consegue contar uma historinha de um minutinho? [...] Joguem hipóteses no chat ou falem sobre o caso. [...] Vou intimar vocês a responderem uma intervenção para cada hipótese.'",
+   "passos": [
+    "Vinheta de 1 a 2 minutos.",
+    "Uma intervenção (mantida para inferir a hipótese de quem interveio).",
+    "Perguntar a hipótese da terapeuta.",
+    "Listar hipóteses do grupo no chat, separando hipóteses parecidas e descrições disfarçadas de hipótese.",
+    "Designar cada hipótese a um participante pelo nome e pedir a intervenção.",
+    "Discutir a aderência: ruído entre a ideia e a execução, troca de hipótese, hipótese de base oposta escondida numa palavra."
+   ],
+   "feedback": "Os mesmos critérios da dinâmica principal; destaque para o ruído entre ideia e execução (autossuficiência como 'estar bem sozinha' vs. pergunta que soa como indiferença) e para a hipótese de base oposta (desconexão vs. conexão).",
+   "exemplos_praticos": "Vinheta encenada: dúvida num relacionamento inicial em que ela é mais desapegada à distância e o parceiro mais apegado. Hipóteses: não sente o mesmo; formas diferentes de demonstrar afeto; considera-se mais autossuficiente do que é; não quer relação dependente; medo de sofrer. Bem avaliadas: 'Você está me dizendo que só consegue demonstrar afeto de uma forma?' e 'Será que você fica tão bem sozinha quanto pensa?'. 'O que mora nesse apego dele que te amedronta?' foi lida como baseada em outra hipótese ('o amor dele assusta').",
+   "variacoes": "Dispensar a intervenção inicial e pedir só hipóteses; limitar o tempo de resposta.",
+   "armadilhas": "Pressa gera confusão entre hipóteses; fadiga do facilitador no fim de um encontro longo.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:16:12"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Acolher novatos explicando o grupo",
+   "descricao": "Pergunta quem é novo e dá uma definição curta do aprimoramento antes de começar.",
+   "exemplo": "'Alguém aqui é novo? Se alguém for novo, levante a mão que eu explico do que se trata o grupo de aprimoramento.'",
+   "ts": "0:00:09"
+  },
+  {
+   "movimento": "Contrato sem resposta certa",
+   "descricao": "Reduz o medo de errar antes da discussão conceitual.",
+   "exemplo": "'Aqui não tem resposta certa ou errada, a gente está construindo.'",
+   "ts": "0:02:28"
+  },
+  {
+   "movimento": "Teoria construída por perguntas",
+   "descricao": "Em vez de expor, pergunta ao grupo e pede que os termos sejam definidos.",
+   "exemplo": "'O que vocês chamam de hipótese?'; 'O que você chama de teoria?'",
+   "ts": "0:02:28"
+  },
+  {
+   "movimento": "Reformular, abstrair e checar",
+   "descricao": "Devolve a fala do participante num nível mais abstrato e confirma se entendeu.",
+   "exemplo": "'Me corrija se eu estiver errado... abstraindo ainda mais, seria uma possível explicação?'",
+   "ts": "0:03:58"
+  },
+  {
+   "movimento": "Sintetizar em categorias",
+   "descricao": "Organiza as contribuições numa lista de funções antes de avançar.",
+   "exemplo": "'Pegando algumas categorias do que foi falado: explicação, provisória, correlação, hipótese sobre a hipótese.'",
+   "ts": "0:08:47"
+  },
+  {
+   "movimento": "Explicar o propósito e tirar o peso do desempenho",
+   "descricao": "Diz para que serve a dinâmica e que a qualidade da primeira intervenção não importa.",
+   "exemplo": "'Não importa a intervenção, se foi boa ou ruim; depois a gente discute a hipótese por trás.'",
+   "ts": "0:16:52"
+  },
+  {
+   "movimento": "Reduzir a exposição",
+   "descricao": "Voluntárias sem câmera; história pode ser real ou inventada.",
+   "exemplo": "'Não precisa abrir a câmera, só voz já basta.'",
+   "ts": "0:17:44"
+  },
+  {
+   "movimento": "Perguntar a intenção antes de avaliar",
+   "descricao": "Pede à terapeuta o propósito e as hipóteses antes de qualquer julgamento.",
+   "exemplo": "'Qual foi o propósito dessa sua intervenção? O que você estava pensando? Consegue me produzir uma hipótese, ou pelo menos duas?'",
+   "ts": "0:20:02"
+  },
+  {
+   "movimento": "Recontextualizar para quem chega",
+   "descricao": "Resume rapidamente o exercício para um participante atrasado sem parar o fluxo.",
+   "exemplo": "'A gente fez uma vinheta clínica... e está pensando em hipóteses e intervenções em cima dessas hipóteses.'",
+   "ts": "0:22:42"
+  },
+  {
+   "movimento": "Chat como quadro",
+   "descricao": "Registra intervenções e hipóteses no chat para o grupo trabalhar sobre um material comum.",
+   "exemplo": "'Vou colocar suas intervenções aqui no chat e jogo para o pessoal.'",
+   "ts": "0:23:50"
+  },
+  {
+   "movimento": "Exigir a frase exata",
+   "descricao": "Não aceita a descrição da intenção; pede a formulação literal.",
+   "exemplo": "'Mas qual a intervenção que você faria exatamente? Me dá a frase da intervenção.'",
+   "ts": "0:35:27"
+  },
+  {
+   "movimento": "Devolver ao grupo e marcar opinião como opinião",
+   "descricao": "Pergunta ao grupo antes de opinar e apresenta a própria leitura como discutível.",
+   "exemplo": "'Eu acho uma boa. Por quê? Minha opinião, né? Aí vocês podem concordar ou discordar.'",
+   "ts": "0:55:13"
+  },
+  {
+   "movimento": "Comando de variação",
+   "descricao": "Quando alguém repete a mesma fórmula, pede outra forma ou outra intensidade.",
+   "exemplo": "'Tenta de uma forma diferente... Faz uma mais agressiva. Você consegue?'",
+   "ts": "1:05:27"
+  },
+  {
+   "movimento": "Convocar pelo nome",
+   "descricao": "Na rodada relâmpago, designa hipóteses a participantes específicos.",
+   "exemplo": "'Vou começar a intimar vocês.'",
+   "ts": "1:22:06"
+  },
+  {
+   "movimento": "Admitir dúvida e limites",
+   "descricao": "Declara quando não entendeu ou não sabe; modela humildade, mas às vezes deixa o feedback menos conclusivo.",
+   "exemplo": "'Esse aqui genuinamente me deixou em dúvida. O que vocês acham?'",
+   "ts": "1:10:37"
+  },
+  {
+   "movimento": "Rodada de aprendizados e resposta pela prática",
+   "descricao": "Fecha perguntando o que o grupo achou e responde ao pedido de material com recomendação de treino.",
+   "exemplo": "'Eu particularmente acho que isso não vem por meio da leitura, vem por meio da prática.'",
+   "ts": "1:47:34"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Antes de falar, saiba qual hipótese a sua fala está testando.",
+   "justificativa": "Hipótese e intervenção são coisas diferentes; pode-se pensar uma coisa e intervir outra.",
+   "contexto": "Sempre que a intervenção vai além do acolhimento.",
+   "competencia": "Intervenção",
+   "ts": "0:14:35"
+  },
+  {
+   "dica": "Formule hipóteses que expliquem o porquê ou o para quê, não só descrevam o que acontece.",
+   "justificativa": "Uma descrição não liga os elementos, e a lacuna é preenchida sem perceber dentro da intervenção.",
+   "contexto": "Formulação de caso e supervisão.",
+   "competencia": "Formulação de caso",
+   "ts": "0:59:28"
+  },
+  {
+   "dica": "Trate toda hipótese como provisória: teste, confirme ou descarte.",
+   "justificativa": "Ela não está certa nem errada; cristalizá-la fecha a escuta.",
+   "contexto": "Ao longo do tratamento.",
+   "competencia": "Interpretação",
+   "ts": "0:05:10"
+  },
+  {
+   "dica": "Gere várias hipóteses para a mesma fala antes de escolher uma.",
+   "justificativa": "A primeira leitura tende a ser a mais óbvia, e cada hipótese abre uma intervenção diferente.",
+   "contexto": "Preparo de sessões e supervisão.",
+   "competencia": "Interpretação",
+   "ts": "0:21:14"
+  },
+  {
+   "dica": "Verifique se a intervenção investiga a ligação que a hipótese propõe (crença e comportamento, por exemplo), e não apenas o tema.",
+   "justificativa": "Perguntar 'por que você se sente insegura?' investiga crenças, não se elas agem no mundo.",
+   "contexto": "Teste de hipóteses de profecia autorrealizável e de padrões relacionais.",
+   "competencia": "Intervenção",
+   "ts": "0:39:53"
+  },
+  {
+   "dica": "Se quer testar algo específico, não faça uma pergunta tão aberta que o paciente possa fugir para qualquer lugar.",
+   "justificativa": "Numa hipótese muito geral, a intervenção não consegue ser cirúrgica.",
+   "contexto": "Quando já há uma hipótese clara.",
+   "competencia": "Intervenção",
+   "ts": "1:00:54"
+  },
+  {
+   "dica": "Use perguntas abertas de propósito quando quiser que o paciente traga o que tem de consciente.",
+   "justificativa": "Investigam indiretamente e dão material para ir recortando.",
+   "contexto": "Quando o paciente pode não ter consciência da função do comportamento.",
+   "competencia": "Escuta clínica",
+   "ts": "1:15:14"
+  },
+  {
+   "dica": "Releia a sua intervenção procurando o que você acrescentou à hipótese.",
+   "justificativa": "Palavras como 'para ser aceita' inserem outra hipótese e conduzem a resposta.",
+   "contexto": "Treino e revisão de sessões.",
+   "competencia": "Construção frasal",
+   "ts": "0:58:11"
+  },
+  {
+   "dica": "Prefira as palavras do próprio paciente para ficar fiel à hipótese.",
+   "justificativa": "Reduz inferências indevidas; a intervenção que usou os termos da paciente foi a mais cirúrgica.",
+   "contexto": "Ao investigar uma descrição ainda sem explicação.",
+   "competencia": "Construção frasal",
+   "ts": "1:04:09"
+  },
+  {
+   "dica": "Escolha a palavra-chave com cuidado: 'ser ouvida', 'ser aceita' e 'pertencer' são hipóteses diferentes.",
+   "justificativa": "A intervenção é modular; uma palavra muda a hipótese de base.",
+   "contexto": "Ao construir a frase.",
+   "competencia": "Construção frasal",
+   "ts": "1:11:29"
+  },
+  {
+   "dica": "Pergunte 'o que aconteceria se você não agisse assim?' para investigar a função de um padrão sem negá-lo.",
+   "justificativa": "Não exclui o fenômeno e pergunta por que ele acontece.",
+   "contexto": "Padrões descritos, mas ainda não explicados.",
+   "competencia": "Intervenção",
+   "ts": "0:55:13"
+  },
+  {
+   "dica": "Afirme só sabendo que está afirmando algo que você não sabe.",
+   "justificativa": "A forma acusatória dá potência, mas impõe uma leitura; perguntas que pressupõem o padrão deixam o paciente aceitar ou recusar.",
+   "contexto": "Ao subir a intensidade.",
+   "competencia": "Intervenção",
+   "ts": "0:48:23"
+  },
+  {
+   "dica": "Quando o padrão pode estar acontecendo com você, traga para o aqui e agora.",
+   "justificativa": "Testa a hipótese na relação e tem alta potência.",
+   "contexto": "Com vínculo suficiente e hipótese relacional.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:09:26"
+  },
+  {
+   "dica": "Adapte o vocabulário ao paciente.",
+   "justificativa": "Formulações acadêmicas podem não ser entendidas, por exemplo em serviços públicos.",
+   "contexto": "Sempre.",
+   "competencia": "Construção frasal",
+   "ts": "0:46:30"
+  },
+  {
+   "dica": "Se você já tem a resposta, perceba que sua pergunta a contém.",
+   "justificativa": "A intervenção deixa de investigar e passa a confirmar.",
+   "contexto": "Perguntas do tipo 'ou isto ou aquilo'.",
+   "competencia": "Intervenção",
+   "ts": "1:19:33"
+  },
+  {
+   "dica": "Faça hipóteses sobre as suas hipóteses.",
+   "justificativa": "Ver o mesmo traço em todos os pacientes pode ser projeção do terapeuta.",
+   "contexto": "Ao notar leituras repetitivas.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:10:25"
+  },
+  {
+   "dica": "Use a supervisão e o estudo para chegar com hipóteses, mas siga construindo durante a sessão.",
+   "justificativa": "Há hipóteses pré-sessão e hipóteses que surgem da fala do momento; ambas precisam ser testadas.",
+   "contexto": "Preparo e condução da sessão.",
+   "competencia": "Formulação de caso",
+   "ts": "0:13:00"
+  },
+  {
+   "dica": "Anote os seus vícios de intervenção e treine alternativas em conversas do dia a dia.",
+   "justificativa": "Variação de formulação e incisividade vêm da prática, não da leitura.",
+   "contexto": "Treino pessoal.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:47:34"
+  },
+  {
+   "dica": "Reflita sobre a hipótese antes e depois da sessão, sem se perder nela durante.",
+   "justificativa": "Pensar demais no momento desconecta do paciente; não pensar nada gera intervenções desalinhadas.",
+   "contexto": "Equilíbrio entre intuição e método.",
+   "competencia": "Intervenção",
+   "ts": "1:49:28"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Hipótese e intervenção são distintas; pode-se pensar uma coisa e intervir outra.",
+   "argumento": "A hipótese é a interpretação; a intervenção é o meio de expô-la ou testá-la, e várias intervenções servem a uma mesma hipótese.",
+   "contraponto": "Um participante pergunta se não seriam indissociáveis.",
+   "implicacao": "Treinar a passagem hipótese → fala como habilidade própria.",
+   "quem": "Gabriel",
+   "ts": "0:14:35"
+  },
+  {
+   "tese": "Uma 'hipótese' que só descreve não é hipótese.",
+   "argumento": "Sem o porquê ou o para quê não há explicação nem ligação entre elementos; a lacuna é preenchida na intervenção.",
+   "contraponto": "Uma participante acha interessante uma 'hipótese descritiva'; Gabriel responde que não é fraca, apenas não explica.",
+   "implicacao": "Checar se a formulação do caso explica ou só narra.",
+   "quem": "Gabriel",
+   "ts": "0:55:49"
+  },
+  {
+   "tese": "As habilidades clínicas básicas são comuns a todas as abordagens e podem ser decompostas e treinadas.",
+   "argumento": "Toda abordagem constrói caso e hipótese; separar os pedaços torna consciente o que é intuitivo.",
+   "contraponto": "Implícito: a ideia de que a técnica depende só da escola teórica.",
+   "implicacao": "Grupos de treino transversais, com dinâmicas por habilidade.",
+   "quem": "Gabriel",
+   "ts": "0:01:08"
+  },
+  {
+   "tese": "Intervenção muito aberta não testa nada.",
+   "argumento": "Deixa o paciente ir para qualquer lugar e não confirma nem refuta a hipótese.",
+   "contraponto": "O próprio Gabriel valoriza aberturas que investigam indiretamente quando se quer ouvir o que o paciente tem de consciente.",
+   "implicacao": "Decidir antes de falar se o objetivo é testar ou explorar.",
+   "quem": "Gabriel",
+   "ts": "1:00:54"
+  },
+  {
+   "tese": "Coisas pequenas (uma palavra) mudam completamente a hipótese de base.",
+   "argumento": "Conexão/desconexão e aceita/ouvida levam a caminhos opostos; na clínica isso é intuitivo e o paciente pode entender outra coisa.",
+   "contraponto": "A confiança de que a intenção basta.",
+   "implicacao": "Cuidar da construção frasal como parte do raciocínio clínico.",
+   "quem": "Gabriel",
+   "ts": "1:44:51"
+  },
+  {
+   "tese": "Incisividade e criatividade clínica vêm da prática, não da leitura.",
+   "argumento": "O que falta é repertório exercitado; a consciência dos vícios só vira mudança com treino.",
+   "contraponto": "O pedido de 'material para afiar as intervenções'.",
+   "implicacao": "Treinar variações no cotidiano e em grupos de prática.",
+   "quem": "Gabriel",
+   "ts": "1:47:34"
+  },
+  {
+   "tese": "No exercício, não importa se a hipótese está certa; importa a coerência entre intervenção e hipótese.",
+   "argumento": "Sem o caso completo não há como saber se a hipótese é verdadeira; o que se treina é a construção.",
+   "contraponto": "Participantes que tentam 'acertar' o caso.",
+   "implicacao": "Avaliar intervenções pelo alinhamento, não pela verdade da leitura.",
+   "quem": "Gabriel",
+   "ts": "1:37:54"
+  },
+  {
+   "tese": "A dinâmica serve para treinar a fidelidade às próprias hipóteses clínicas.",
+   "argumento": "Ao trocar de hipótese a cada rodada, fica visível quando a intervenção escorrega para outra leitura.",
+   "contraponto": "Intervenções boas, mas baseadas em outra hipótese.",
+   "implicacao": "Explicitar a regra da dinâmica antes de avaliar.",
+   "quem": "Participante",
+   "ts": "1:12:56"
+  },
+  {
+   "tese": "Pensar demais na hipótese durante a sessão pode desconectar do paciente.",
+   "argumento": "A intervenção sai intuitiva; o excesso de monitoramento rompe a presença.",
+   "contraponto": "A própria participante reconhece que pensar evita intervenções desalinhadas.",
+   "implicacao": "Treinar fora da sessão para que a fidelidade vire automática.",
+   "quem": "Participante",
+   "ts": "1:49:28"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "A gente quebra a psicoterapia em vários pedacinhos e vai estudando esses pedacinhos.",
+   "tema": "Formato do aprimoramento",
+   "ts": "0:01:08"
+  },
+  {
+   "texto": "O caráter de hipótese é que ela não está certa ainda, nem está errada.",
+   "tema": "Hipótese clínica",
+   "ts": "0:05:10"
+  },
+  {
+   "texto": "A gente pega uma parte do que está acontecendo, infere um todo e, desse todo, testa as partes.",
+   "tema": "Interpretação",
+   "ts": "0:14:01"
+  },
+  {
+   "texto": "A gente pode pensar uma coisa e intervir outra.",
+   "tema": "Hipótese e intervenção",
+   "ts": "0:14:35"
+  },
+  {
+   "texto": "Não importa se a intervenção foi boa ou ruim; a gente discute a hipótese por trás dela.",
+   "tema": "Dinâmica",
+   "ts": "0:16:52"
+  },
+  {
+   "texto": "Essa hipótese não explica por que ela faz isso. Não é uma hipótese: é um fato que está sendo descrito.",
+   "tema": "Pseudo-hipótese",
+   "ts": "0:55:49"
+  },
+  {
+   "texto": "Uma qualidade de uma hipótese é que ela explique o porquê ou o para quê do que está acontecendo; senão, a gente acaba adicionando isso na intervenção.",
+   "tema": "Qualidade da hipótese",
+   "ts": "0:59:28"
+  },
+  {
+   "texto": "Deixa tão aberto que ela pode fugir para qualquer lugar.",
+   "tema": "Intervenção aberta",
+   "ts": "1:00:54"
+  },
+  {
+   "texto": "A dinâmica é para a gente treinar o quanto consegue ser fiel às nossas hipóteses clínicas. (participante)",
+   "tema": "Fidelidade à hipótese",
+   "ts": "1:12:56"
+  },
+  {
+   "texto": "Sempre tem alguma coisa que escapa à fala da pessoa.",
+   "tema": "Limites da investigação",
+   "ts": "1:15:57"
+  },
+  {
+   "texto": "Então você já tem a resposta da pergunta que está fazendo.",
+   "tema": "Pergunta que contém a resposta",
+   "ts": "1:19:33"
+  },
+  {
+   "texto": "Uma coisa pequenininha muda completamente a hipótese que você tem de base.",
+   "tema": "Modularidade da intervenção",
+   "ts": "1:45:15"
+  },
+  {
+   "texto": "Isso não vem por meio da leitura; vem por meio da prática.",
+   "tema": "Treino de habilidades",
+   "ts": "1:47:34"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Hipótese não é intervenção",
+   "mensagem": "Você pode pensar uma coisa e dizer outra; há pelo menos três jeitos de levar uma hipótese à fala.",
+   "roteiro": [
+    "Capa: sua hipótese e sua fala são a mesma coisa?",
+    "Hipótese = explicação provisória (por quê / para quê)",
+    "Intervenção = meio de testar a hipótese",
+    "Jeito 1: inferência direta",
+    "Jeito 2: perguntas que encurralam",
+    "Jeito 3: apresentar o que você está vendo",
+    "Fecho: antes de falar, saiba o que está testando"
+   ],
+   "corte_inicio": "0:13:00",
+   "corte_fim": "0:15:33"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Sua hipótese explica ou só descreve?",
+   "mensagem": "Descrever o comportamento não é hipótese; hipótese diz o porquê ou o para quê. Senão, você completa a lacuna sem perceber na hora de intervir.",
+   "roteiro": [
+    "Cena 1: 'ele faz X em todo lugar' é hipótese?",
+    "Cena 2: não, é descrição",
+    "Cena 3: hipótese liga elementos (por quê / para quê)",
+    "Cena 4: teste da sua formulação"
+   ],
+   "corte_inicio": "0:55:49",
+   "corte_fim": "0:56:56"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "O que é uma hipótese clínica: 5 funções",
+   "mensagem": "Explicar, ser provisória, orientar a investigação, ligar experiências e olhar para o próprio terapeuta (meta-hipótese).",
+   "roteiro": [
+    "Capa",
+    "1. Explica (por quê / para quê)",
+    "2. É provisória: nem certa nem errada",
+    "3. Orienta a investigação",
+    "4. Liga experiências (fio de ligação)",
+    "5. Meta-hipótese: e se o padrão for seu?",
+    "Fecho"
+   ],
+   "corte_inicio": "0:08:47",
+   "corte_fim": "0:10:25"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Uma palavra muda a hipótese",
+   "mensagem": "'Ser ouvido', 'ser aceito' e 'pertencer' são três leituras diferentes; cuidar da frase é cuidar do raciocínio clínico.",
+   "roteiro": [
+    "Três versões da mesma pergunta",
+    "Legenda: que hipótese cada palavra carrega?"
+   ],
+   "corte_inicio": "1:44:51",
+   "corte_fim": "1:46:19"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Suas intervenções são sempre mornas?",
+   "mensagem": "Vícios de intervenção só aparecem quando você é obrigado a variar; a incisividade vem da prática, não da leitura.",
+   "roteiro": [
+    "Cena 1: 'eu sempre pergunto por quê'",
+    "Cena 2: o morno como zona de conforto",
+    "Cena 3: anote seus vícios",
+    "Cena 4: treine variações no dia a dia"
+   ],
+   "corte_inicio": "1:46:19",
+   "corte_fim": "1:48:47"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como treinamos hipótese e intervenção em grupo",
+   "mensagem": "Vinheta de 3 minutos, uma intervenção, oito hipóteses, uma intervenção para cada: é assim que se treina fidelidade clínica.",
+   "roteiro": [
+    "Cena 1: alguém conta uma história",
+    "Cena 2: uma intervenção",
+    "Cena 3: qual era a hipótese?",
+    "Cena 4: uma intervenção para cada hipótese",
+    "Cena 5: convite"
+   ],
+   "corte_inicio": "0:15:44",
+   "corte_fim": "0:17:44"
+  },
+  {
+   "formato": "stories",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Enquete: você faz perguntas que já contêm a resposta?",
+   "mensagem": "Quando a hipótese já está pronta, a pergunta confirma em vez de investigar.",
+   "roteiro": [
+    "Story 1: enquete",
+    "Story 2: exemplo de pergunta 'ou isto ou aquilo'",
+    "Story 3: como abrir de verdade"
+   ],
+   "corte_inicio": "1:19:33",
+   "corte_fim": "1:20:33"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Citado por uma participante: devolver as mesmas palavras do paciente, associado a uma participante 'descritiva' (que se diz existencialista, não humanista)."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Frase atribuída em tom de brincadeira ('entre o que a gente fala e o que o outro entende existe um abismo'), o próprio Gabriel admite que talvez não seja de Lacan; uma participante tem 'saudade de ser lacaniana' pelas intervenções incisivas."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Gabriel): discussão conceitual + dinâmica de vinhetas",
+  "objetivo": "Treinar habilidades básicas comuns a todas as abordagens, quebrando a psicoterapia em pedaços (hipótese, construção de caso, empatia, construção frasal, entonação), para aprender e tornar-se consciencioso do próprio processo clínico. Neste encontro: diferenciar hipótese de intervenção e treinar intervenções fiéis a cada hipótese.",
+  "publico": "Alunos e terapeutas da Allos de abordagens variadas, incluindo novatos.",
+  "tamanho": "Cerca de 7 participantes ativos online.",
+  "duracao": "Cerca de 1h50 (o facilitador diz que fez mais longo do que o habitual por estar de férias).",
+  "estrutura_padrao": "(1) Acolhida e explicação do grupo para novatos; (2) anúncio do tema e do plano; (3) discussão conceitual socrática (perguntas, reformulação, síntese em categorias); (4) dinâmica com vinheta encenada por duas voluntárias, explicitação da hipótese por trás da intervenção, lista de hipóteses do grupo e uma intervenção por hipótese, com avaliação coletiva; (5) rodada relâmpago com segunda vinheta; (6) rodada de aprendizados e fim da gravação, seguido de bate-papo não gravado. Na fala do facilitador, o grupo alterna dinâmicas e momentos reflexivos, com predomínio da prática.",
+  "papel_facilitador": "Constrói o conceito com perguntas e sínteses, explica o propósito da dinâmica, pede a intenção e a frase exata, registra hipóteses e intervenções no chat, devolve a avaliação ao grupo e opina marcando que é opinião, dá comandos de variação, convoca pelo nome e admite dúvidas.",
+  "regras_combinados": "Sem resposta certa ou errada na discussão; na dinâmica não importa se a intervenção é boa ou ruim; câmera opcional ('só voz basta'); vinheta de 2–3 min (ou 1–2 na rodada relâmpago), real ou inventada; contribuições faladas ou por chat; o facilitador pode 'intimar' pelo nome; gravação encerrada antes do bate-papo."
+ },
+ "reflexoes_do_facilitador": [
+  "'Eu sou péssimo para dar exemplo concreto' (0:13:00).",
+  "Diz ter esquecido outras funções da dinâmica ao explicá-la (0:16:52).",
+  "'Contextualizando rápido, porque eu não sei contextualizar muito bem' (0:22:42).",
+  "'Eu acho que entendi mais ou menos, para ser sincero' (0:31:59).",
+  "Repete a hipótese porque tem 'memória fraca' e parte do pressuposto de que os outros também têm (1:02:32).",
+  "'Esse aqui genuinamente me deixou em dúvida' (1:10:37); 'provavelmente tem como, eu não consigo pensar como agora' (1:13:45).",
+  "'Meu cérebro já está entrando em parafuso. Foram 2 horas de grupo' (1:38:55).",
+  "A dinâmica foi longa de propósito: 'estou de férias, então quis fazer longa' (1:43:01).",
+  "Se declara introvertido e cansado de socializar por tanto tempo (1:43:01).",
+  "Admite que a frase atribuída a Lacan talvez não seja dele (1:45:15)."
+ ],
+ "referencias_a_outros_encontros": [
+  "Explicação do grupo de aprimoramento para novatos, indicando continuidade com encontros anteriores (0:00:26).",
+  "Uma participante menciona 'os grupos de potência de intervenção' como aqueles em que tem mais dificuldade (provável referência a encontros sobre intensidade/potência, como os do Alan) (1:46:19).",
+  "Menção a ir 'para a Allos' (evento presencial?) (1:43:01).",
+  "O título original ('Encontro 35 e Encontro 36') sugere numeração da série do Acervo, mas o vídeo mostra um único encontro.",
+  "Relacionados no vault: Acervo 10 (mesmo facilitador, Gabriel); Acervo 02 (Rodolfo, intensidade e agressividade da intervenção); Alan 16 - Intervenção (mesmo núcleo: da hipótese à intervenção)."
+ ],
+ "observacoes": "Facilitador identificado como Gabriel pelas falas dos participantes (0:39:12 e 1:13:45); ele não se apresenta na gravação. Legenda automática com nomes trocados ('Tainá'/'Tainó'/'Taina', 'Vitor'/'Vittor'/'Víor', 'Lili' que parece ser Letícia, 'Ezequiel' que parece ser João). As duas vinhetas são encenadas por participantes (histórias que podem ser reais ou inventadas) e foram tratadas como simuladas e descritas de forma genérica. Não há caso clínico real. Parte do áudio de uma participante falha (1:12:33). O encontro é muito próximo, em conteúdo e dinâmica, de Alan 16 - Intervenção."
+}

@@ -1,0 +1,836 @@
+{
+ "id": "pd-01",
+ "nota": "PD 01 - Estagnação da psicoterapia e limites da experiência",
+ "pasta": "10 - Fichamentos/Prática Deliberada",
+ "titulo": "Estagnação da psicoterapia e limites da experiência",
+ "serie": "Introdução à Prática Deliberada",
+ "formato": "Curso de PD",
+ "facilitadores": [
+  "Bernardo"
+ ],
+ "resumo": "Primeira aula aberta do curso introdutório do Núcleo de Prática Deliberada da Allos. Bernardo adia de propósito a definição de prática deliberada (dá só a ideia mínima de 'prática pensada, não mera repetição') e usa a aula para mostrar por que ela é necessária. Com perguntas ao grupo antes de cada dado, mostra que a psicoterapia funciona (efeito comparável ao da revascularização do miocárdio), mas não melhora há 40 anos, apesar de mais de 800 mil publicações. Mostra também que os terapeutas usam a queda da insegurança como critério de melhora, escondem a própria incerteza e não têm evidência verificável de eficácia. Apresenta a psicoterapia como ciência da exceção, a insegurança como 'salvação' e a tese central de que confiança não é sinônimo de competência, com dois estudos longitudinais: 18 anos sem melhora (leve queda) e 7 anos de melhora contínua com prática deliberada. Fecha com a crítica à formação (natação sem água), a rodada de feedback e o esclarecimento de que a PD não é uma abordagem.",
+ "em_uma_frase": "A psicoterapia funciona, mas estagnou há 40 anos, e os terapeutas não têm como saber se estão melhorando (em média pioram com a experiência, porque confiança não é competência). A prática deliberada é a promessa mais confiável de melhora contínua.",
+ "competencias": [
+  "Desenvolvimento profissional",
+  "Pessoa do terapeuta",
+  "Feedback clínico",
+  "Articulação teoria-prática",
+  "Relação terapêutica"
+ ],
+ "abordagens": [],
+ "estrutura": [
+  {
+   "ts": "0:00:05",
+   "bloco": "Abertura",
+   "descricao": "Pergunta se já ouviram falar de prática deliberada; quase todos respondem que não; um participante lembra a explicação do Alan nos grupos ('vem do esporte, dividir em partes pequenas').",
+   "funcao": "Sondar o conhecimento prévio e ativar as associações do grupo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:34",
+   "bloco": "Teoria",
+   "descricao": "Definição mínima (prática pensada e refletida, não mera repetição) e anúncio de que a aula não vai definir PD, só mostrar sua relevância.",
+   "funcao": "Criar suspense e motivação antes do conceito.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:03:52",
+   "bloco": "Teoria",
+   "descricao": "Slides do Núcleo de PD da Allos; referências (PDF traduzido e original); 'o estado da nossa arte': dos xamãs a Freud, centenas de abordagens, a psique como objeto complexo.",
+   "funcao": "Contextualização histórica.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:07:34",
+   "bloco": "Rodada de respostas",
+   "descricao": "'A psicoterapia funciona?' Respostas: funciona; funciona sem sabermos por quê; 'metade diz que sim, metade diz que não'.",
+   "funcao": "Ativar intuições antes do dado.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:08:41",
+   "bloco": "Teoria",
+   "descricao": "Metanálises desde os anos 1970; efeito equivalente ao da revascularização do miocárdio e quatro vezes maior que o do flúor contra a cárie.",
+   "funcao": "Apresentar a evidência de eficácia.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:10:32",
+   "bloco": "Discussão",
+   "descricao": "'O que vem para vocês?' Perguntas: como se mede esse 'funciona'? O que é uma metanálise?",
+   "funcao": "Colher reações e dúvidas.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:11:27",
+   "bloco": "Dúvidas",
+   "descricao": "Explica revisão sistemática, metanálise e tamanho do efeito (não é comparar a eficácia de tratamentos para coisas diferentes).",
+   "funcao": "Letramento em pesquisa.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:15:23",
+   "bloco": "Teoria",
+   "descricao": "Mais de 800 mil citações no PubMed; seria esperado um ganho de eficácia, mas os resultados não melhoram há mais de 40 anos.",
+   "funcao": "Revelar o paradoxo que motiva o curso.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:16:54",
+   "bloco": "Discussão",
+   "descricao": "Hipóteses do grupo: chegou-se a um limite; não se buscou o erro; os profissionais talvez não repliquem a teoria (aderência).",
+   "funcao": "Gerar hipóteses a serem retomadas.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:19:30",
+   "bloco": "Rodada de respostas",
+   "descricao": "'Você é melhor do que era no começo?' Quem atende diz que sim; o slide mostra que os terapeutas usam a queda da insegurança como critério; analogia de aprender a dirigir.",
+   "funcao": "Confrontar a autoavaliação.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:22:10",
+   "bloco": "Rodada de respostas",
+   "descricao": "'O que te fez melhorar?' Estudo, prática, feedback dos pacientes. O slide acrescenta supervisão, conhecimento, experiência e 'os clientes são os melhores professores'. Uma participante diz que a supervisão ajuda a pensar o caso, mas não o como fazer.",
+   "funcao": "Levantar as crenças sobre o desenvolvimento profissional.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:25:46",
+   "bloco": "Rodada de respostas",
+   "descricao": "'Qual a porcentagem de pacientes que melhora com você?' Dificuldade de responder: como medir? E quem abandonou? Menção a planilhas de monitoramento; os terapeutas superestimam a melhora.",
+   "funcao": "Mostrar a ausência de dados sobre o próprio desempenho.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:30:26",
+   "bloco": "Teoria",
+   "descricao": "O que os terapeutas não dizem: a incerteza, numa lista de perguntas íntimas; a profissão é imprevisível.",
+   "funcao": "Normalizar a insegurança.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:33:41",
+   "bloco": "Teoria",
+   "descricao": "O que os terapeutas não podem dizer: não há evidência verificável de eficácia nem de melhora, e sem isso não se sabe que instrução ajudaria.",
+   "funcao": "Tese central da aula.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:34:38",
+   "bloco": "Discussão",
+   "descricao": "Um participante fala da formação teórica, da técnica que funciona com um paciente e não com outro e do risco de acomodação; o facilitador diz que ele 'pegou o espírito da PD'.",
+   "funcao": "Transformar a fala do grupo em síntese do curso.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:39:12",
+   "bloco": "Teoria",
+   "descricao": "Ciência da exceção; os resultados moram nos detalhes; a orientação teórica pesa menos que a relação; o fenômeno vem antes da teoria; efeito Hawthorne; paciente que diz estar bem por vergonha.",
+   "funcao": "Fundamentar epistemologicamente a tese.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:43:32",
+   "bloco": "Teoria",
+   "descricao": "Duas saídas diante da incerteza: terceirizar a responsabilidade para o paciente ou buscar melhorar; a insegurança como salvação; o risco das regras arbitrárias.",
+   "funcao": "Posição ética e epistemológica.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:47:06",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Erro na ordem dos slides, compartilhamento de tela reiniciado.",
+   "funcao": "Técnico.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:48:11",
+   "bloco": "Teoria",
+   "descricao": "'Confiança não é sinônimo de competência': o motorista confiante que raspa o carro; a PD combate o excesso de confiança, não a experiência.",
+   "funcao": "Tese-chave do curso.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:50:26",
+   "bloco": "Teoria",
+   "descricao": "Gráfico de estudo longitudinal com cerca de 150 terapeutas por 18 anos: a média fica estável, com leve queda.",
+   "funcao": "Evidência contraintuitiva.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:53:36",
+   "bloco": "Teoria",
+   "descricao": "Gráfico de estudo longitudinal numa instituição comunitária com 153 terapeutas treinados em PD: 7 anos de melhora leve e contínua, individual e coletiva.",
+   "funcao": "Oferecer esperança realista.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:56:46",
+   "bloco": "Teoria",
+   "descricao": "Crítica à graduação (atender só a partir do 5º período; natação sem água); prática estruturada por objetivos; a teoria como escudo.",
+   "funcao": "Implicação para a formação.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:58:47",
+   "bloco": "Feedback",
+   "descricao": "Pede avaliação da aula; os participantes elogiam serem inseridos na exposição e a clareza sobre a origem do termo.",
+   "funcao": "Avaliar a condução.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:59:29",
+   "bloco": "Teoria",
+   "descricao": "PD não é abordagem: é ateórica, serve a qualquer orientação, é 'um jeito de fazer'.",
+   "funcao": "Desfazer um mal-entendido comum.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:01:34",
+   "bloco": "Fechamento",
+   "descricao": "Dúvidas; a gravação fica no drive da Allos; o formato será mantido; lista de presença no grupo de potenciais associados; próxima aula na quinta-feira.",
+   "funcao": "Logística e combinados.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:04:29",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Depois do encerramento: como medir melhora se a vida muda o objetivo da terapia? Promessa de apresentar os métodos de mensuração que a Allos propõe.",
+   "funcao": "Gancho para aulas futuras.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Prática deliberada",
+   "definicao": "Definição provisória dada na primeira aula: uma prática pensada, refletida, que não é mera repetição do que se faz para treinar algo. Aparece como resposta à estagnação dos resultados da psicoterapia e como antídoto ao excesso de confiança. É ateórica, serve a qualquer abordagem e área, e é 'um jeito de fazer', não um sistema teórico.",
+   "exemplo": "No estudo longitudinal apresentado, 153 terapeutas treinados em PD numa instituição comunitária melhoraram de forma leve e contínua ao longo de 7 anos.",
+   "abordagem": "Transteórico",
+   "ts": "0:01:34"
+  },
+  {
+   "nome": "Revisão sistemática",
+   "definicao": "Delineamento de pesquisa que reúne vários estudos sobre a mesma questão (por exemplo, a eficácia de uma intervenção para depressão) para chegar a uma conclusão geral.",
+   "exemplo": "Várias revisões sistemáticas sobre intervenções psicológicas desde os anos 1970.",
+   "abordagem": "Transteórico",
+   "ts": "0:11:27"
+  },
+  {
+   "nome": "Metanálise",
+   "definicao": "Procedimento estatístico, que pode ou não estar dentro de uma revisão sistemática, que compara e combina os resultados dos estudos reunidos para estimar um efeito geral. É o que 'promove o resultado estatístico' a partir da reunião dos estudos.",
+   "exemplo": "As metanálises desde os anos 1970 mostraram a eficácia geral das intervenções psicológicas.",
+   "abordagem": "Transteórico",
+   "ts": "0:12:36"
+  },
+  {
+   "nome": "Tamanho do efeito",
+   "definicao": "Magnitude do efeito de uma intervenção. Permite comparar a proporção do efeito de tratamentos diferentes sem afirmar que um é mais eficaz que o outro para a mesma condição.",
+   "exemplo": "O efeito da psicoterapia 'equivale' ao da cirurgia de revascularização do miocárdio e é quatro vezes maior que o do flúor contra a cárie, cada um no seu alvo.",
+   "abordagem": "Transteórico",
+   "ts": "0:14:08"
+  },
+  {
+   "nome": "Ensaio clínico randomizado",
+   "definicao": "Tipo de estudo que, junto com as metanálises, 'explodiu' a partir dos anos 1970 para testar a eficácia da psicoterapia.",
+   "exemplo": "Mais de 800 mil citações no PubMed ao buscar psicoterapia, ensaio clínico e metanálise.",
+   "abordagem": "Transteórico",
+   "ts": "0:10:00"
+  },
+  {
+   "nome": "Estagnação dos resultados da psicoterapia",
+   "definicao": "Apesar do enorme crescimento da produção científica, a eficácia geral da psicoterapia não aumentou em mais de 40 anos: 'funciona, mas não funciona mais do que já funcionava'.",
+   "exemplo": "Seria de esperar que saber o que é mais eficaz levasse a melhores resultados, mas isso não aconteceu na área como um todo.",
+   "abordagem": "Transteórico",
+   "ts": "0:16:43"
+  },
+  {
+   "nome": "Excesso de confiança",
+   "definicao": "Confiança adquirida com a experiência e a automatização dos processos que não corresponde a competência. Reduz a vigilância e o questionamento das próprias intervenções e do 'para quê' delas.",
+   "exemplo": "O motorista que, confiante, passa a raspar o carro com mais frequência.",
+   "abordagem": "Transteórico",
+   "ts": "0:48:11"
+  },
+  {
+   "nome": "Automaticidade",
+   "definicao": "Com a experiência, os processos clínicos se automatizam e passam a exigir menos atenção consciente. Isso alivia a insegurança inicial, mas afasta o terapeuta da deliberação e do fenômeno presente.",
+   "exemplo": "Aprender a dirigir: no início pensa-se em retrovisor, marcha e embreagem; depois tudo fica automático.",
+   "abordagem": "Transteórico",
+   "ts": "0:21:19"
+  },
+  {
+   "nome": "Feedback informal",
+   "definicao": "As impressões pessoais do terapeuta e o que o paciente diz sobre a própria melhora. É a única base de autoavaliação que a maioria tem, e é enviesada: o paciente pode dizer que melhorou para agradar, e a melhora pode ter outras causas.",
+   "exemplo": "Paciente que diz à terapeuta que está bem por vergonha de não estar melhorando.",
+   "abordagem": "Transteórico",
+   "ts": "0:27:21"
+  },
+  {
+   "nome": "Efeito Hawthorne",
+   "definicao": "Na definição do facilitador, o comportamento de alguém moldado pela presença de uma figura de autoridade de quem se presume que espera certo resultado. Contamina o relato de melhora do paciente.",
+   "exemplo": "O paciente que relata melhora ao terapeuta porque supõe que ele espera isso.",
+   "abordagem": "Transteórico",
+   "ts": "0:41:31"
+  },
+  {
+   "nome": "Ciência da exceção",
+   "definicao": "A psicoterapia lida com o singular, que é em certa medida impossível de generalizar. Os resultados 'moram nos detalhes', e parte da função das teorias é proteger o terapeuta dos próprios fatos psicológicos.",
+   "exemplo": "Cada paciente novo traz algo que 'não está nos livros', e até terapeutas com 30 ou 40 anos de carreira se surpreendem.",
+   "abordagem": "Transteórico",
+   "ts": "0:39:12"
+  },
+  {
+   "nome": "Primado do fenômeno sobre a teoria",
+   "definicao": "A teoria serve para formular casos e organizar informações, mas o que vem antes é sempre o fenômeno, que pode exigir algo que a teoria não oferece.",
+   "exemplo": "O terapeuta preocupado só com a aderência a uma teoria deixa de lado aspectos relevantes para os resultados.",
+   "abordagem": "Transteórico",
+   "ts": "0:40:54"
+  },
+  {
+   "nome": "Teoria como escudo",
+   "definicao": "Usar a teoria para tudo, agindo por regra (muitas vezes estabelecida por pesquisadores que nem atendem) em vez de repensar, caso a caso, o que se faz e para quê.",
+   "exemplo": "Crítica às graduações centradas na teoria e à atuação por regras pré-estabelecidas.",
+   "abordagem": "Transteórico",
+   "ts": "0:57:30"
+  },
+  {
+   "nome": "Generalização entre casos",
+   "definicao": "Transportar para outros pacientes o que funcionou com um, ficando 'mais sob controle da regra arbitrária que a gente criou do que das variáveis do contexto'. É um problema grave numa ciência da exceção.",
+   "exemplo": "A técnica que 'colou' com um paciente não funciona com o seguinte, e o terapeuta insiste sem ajustar.",
+   "abordagem": "Transteórico",
+   "ts": "0:46:10"
+  },
+  {
+   "nome": "Terceirização da responsabilidade",
+   "definicao": "Estratégia de lidar com a incerteza e a falta de resultados atribuindo o fracasso ao paciente ('se ele não fosse tão disfuncional, se ele se implicasse'). Às vezes é verdade, mas muitas vezes é uma desculpa para se eximir.",
+   "exemplo": "Diante de um caso estagnado, perguntar-se: estou dizendo isso para me eximir ou porque o paciente de fato não se implica?",
+   "abordagem": "Transteórico",
+   "ts": "0:44:49"
+  },
+  {
+   "nome": "Insegurança do terapeuta",
+   "definicao": "Sentimento inevitável, mesmo para os experientes, diante da imprevisibilidade dos casos. É desprazeroso, mas tem valor positivo: tira o terapeuta do automatismo e o leva à deliberação ('é o que nos salva').",
+   "exemplo": "Perguntas íntimas como 'Estou fazendo a coisa certa?', 'Por que meu cliente não voltou?', 'E se eu não tiver melhorado ao longo dos anos?'.",
+   "abordagem": "Transteórico",
+   "ts": "0:50:26"
+  },
+  {
+   "nome": "Estudo longitudinal",
+   "definicao": "Delineamento que acompanha um fenômeno por um período longo para observar efeitos e tendências.",
+   "exemplo": "Desempenho de cerca de 150 terapeutas acompanhados por 18 anos (leve queda) e de 153 terapeutas treinados em PD por 7 anos (melhora contínua).",
+   "abordagem": "Transteórico",
+   "ts": "0:50:26"
+  },
+  {
+   "nome": "Supervisão clínica",
+   "definicao": "Citada pelos terapeutas como uma das principais fontes da própria melhora. Na experiência de uma participante, validada pelo facilitador, ajuda a pensar o caso e seus direcionamentos, mas carece de orientação sobre o como fazer.",
+   "exemplo": "A participante diz ter repensado a própria prática mais nas aulas de aprimoramento do que nas supervisões.",
+   "abordagem": "Transteórico",
+   "ts": "0:24:35"
+  },
+  {
+   "nome": "Psicologia baseada em medidas",
+   "definicao": "Monitorar o progresso do paciente com instrumentos e planilhas ao longo das sessões. É mencionada como caminho para sair do feedback informal, com a ressalva de que o próprio instrumento deve ser questionado. A Allos estaria propondo métodos de mensuração, a apresentar mais adiante.",
+   "exemplo": "Uma participante cita terapeutas no exterior que acompanham o progresso com planilhas (a partir de uma live sobre terapia baseada em processos).",
+   "abordagem": "Transteórico",
+   "ts": "0:29:10"
+  },
+  {
+   "nome": "Fatores comuns",
+   "definicao": "O facilitador não usa o termo, mas alude à ideia: as especificidades da orientação teórica pesam muito pouco no tamanho do efeito quando comparadas a aspectos da relação terapêutica e ao estabelecimento de confiança.",
+   "exemplo": "",
+   "abordagem": "Transteórico",
+   "ts": "0:39:42"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Pergunta disparadora",
+   "objetivo": "Fazer o grupo explicitar suas crenças intuitivas sobre a eficácia da psicoterapia e sobre o próprio desenvolvimento antes de ver os dados de pesquisa. O choque entre intuição e evidência gera motivação para aprender prática deliberada.",
+   "competencias": [
+    "Desenvolvimento profissional",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Grupo todo, online, com slides compartilhados, microfone aberto e chat; cerca de 10 a 15 participantes, entre estudantes e psicólogos (alguns já atendem).",
+   "tempo": "Atravessa quase toda a aula (cerca de 50 min), em ciclos de 2 a 6 min por pergunta.",
+   "materiais": "Slides com uma pergunta e, no slide seguinte, o dado ou estudo correspondente.",
+   "consigna": "'A psicoterapia funciona, pessoal? Me respondam aí.' / 'O que vem para vocês quando escutam isso?' / 'Quem atende hoje? Vocês acham que são melhores do que eram no começo?' / 'O que fez vocês melhorarem?' / 'Se tivesse que dar uma porcentagem de pacientes que melhoram com você, qual seria?'",
+   "passos": [
+    "Lançar a pergunta antes de mostrar o slide com o dado.",
+    "Colher respostas pelo microfone e pelo chat sem corrigir, pedindo mais ('Que mais? Alguém se arrisca?').",
+    "Mostrar o dado ou 'o que os terapeutas dizem' e ligá-lo às respostas do grupo.",
+    "Perguntar pela reação ('vocês ficam espantados, surpresos?').",
+    "Responder às dúvidas técnicas (metanálise, tamanho do efeito) e checar a compreensão.",
+    "Marcar os pontos que serão retomados em aulas futuras."
+   ],
+   "feedback": "Não avalia as respostas como certas ou erradas: valida ('isso é um dado relevante'), reformula, soma as respostas às categorias do slide e às vezes aponta uma fala como síntese do curso ('você pegou o espírito da prática deliberada').",
+   "exemplos_praticos": "À pergunta sobre a eficácia, um participante brinca que 'metade diz que sim, metade diz que não'. Todos os que atendem dizem ser melhores do que no início. Ninguém consegue dizer que porcentagem de pacientes melhora, e surgem dúvidas sobre como medir e sobre quem abandonou. Uma participante diz que a supervisão ajuda a pensar o caso, mas não o como fazer.",
+   "variacoes": "Usada de novo no PD 02 com outras perguntas (fora da curva, talento × trabalho duro, 20 pacientes por dia, Neymar).",
+   "armadilhas": "Silêncio frequente depois das perguntas: insistir uma ou duas vezes e seguir. Perguntas pessoais servem só para quem já atende. Dados muito negativos podem desanimar, então é preciso reservar a 'luz no fim do túnel' para o fim.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:07:34"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Sondar antes de explicar",
+   "descricao": "Abre perguntando o que o termo evoca e se alguém já o conhece de outra área.",
+   "exemplo": "Surge a referência do grupo: o Alan explicando PD nos grupos.",
+   "ts": "0:00:05"
+  },
+  {
+   "movimento": "Adiar a definição de propósito",
+   "descricao": "Declara que a primeira aula não vai definir PD, só mostrar sua relevância, para criar suspense e motivação.",
+   "exemplo": "Os participantes elogiam no fim 'não dizer de cara o que é isso'.",
+   "ts": "0:02:31"
+  },
+  {
+   "movimento": "Perguntar antes de mostrar o dado",
+   "descricao": "Cada slide importante é precedido de uma pergunta ao grupo, e o dado é lido à luz das respostas.",
+   "exemplo": "'A psicoterapia funciona?' antes do slide das metanálises.",
+   "ts": "0:07:34"
+  },
+  {
+   "movimento": "Sustentar o silêncio e insistir com leveza",
+   "descricao": "Pede mais respostas duas ou três vezes e segue quando ninguém fala.",
+   "exemplo": "'Quem mais, pessoal?' / 'Alguém se arrisca?'",
+   "ts": "0:08:27"
+  },
+  {
+   "movimento": "Explicar o termo técnico no momento da dúvida",
+   "descricao": "Interrompe o roteiro para explicar metanálise e revisão sistemática e confere a compreensão.",
+   "exemplo": "'Tentei ser o mais didático possível... Dá para entender?'",
+   "ts": "0:12:36"
+  },
+  {
+   "movimento": "Personalizar com a prática dos participantes",
+   "descricao": "Pede que levante a mão quem atende e dirige a essas pessoas as perguntas sobre melhora e sucesso.",
+   "exemplo": "'Quem é que atende hoje em dia? Levanta a mão.'",
+   "ts": "0:19:56"
+  },
+  {
+   "movimento": "Validar e agendar",
+   "descricao": "Reconhece as contribuições e marca quando serão retomadas, sem se desviar do roteiro.",
+   "exemplo": "'Esse questionamento vai dar o que falar.' / 'A gente vai abordar isso futuramente.'",
+   "ts": "0:25:46"
+  },
+  {
+   "movimento": "Autorrevelação normalizadora",
+   "descricao": "Admite que também passou pela insegurança para normalizar a do grupo.",
+   "exemplo": "'Eu já passei por isso também. Todo mundo aqui já passou.'",
+   "ts": "0:30:26"
+  },
+  {
+   "movimento": "Transformar a fala do participante em síntese",
+   "descricao": "Toma a contribuição de um participante como resumo do curso, reforçando a participação.",
+   "exemplo": "'Você pegou o espírito da prática deliberada e já fez um resumo do curso inteiro.'",
+   "ts": "0:37:41"
+  },
+  {
+   "movimento": "Analogias cotidianas recorrentes",
+   "descricao": "Usa as mesmas imagens ao longo das aulas para fixar a tese.",
+   "exemplo": "Aprender a dirigir e raspar o carro; aula de natação sem água.",
+   "ts": "0:48:11"
+  },
+  {
+   "movimento": "Transparência diante do erro técnico",
+   "descricao": "Percebe a ordem errada dos slides, avisa, corrige e retoma sem drama.",
+   "exemplo": "'Eu esqueci de alternar a ordem dos slides... já arrumei.'",
+   "ts": "0:47:42"
+  },
+  {
+   "movimento": "Dosar a esperança",
+   "descricao": "Depois dos dados negativos, oferece uma saída sem exagerar.",
+   "exemplo": "'Há uma luz no fim do túnel... uma possível promessa'; 'a melhora foi leve, mas contínua'.",
+   "ts": "0:53:36"
+  },
+  {
+   "movimento": "Pedir feedback sobre a própria condução",
+   "descricao": "Pergunta o que acharam e se há críticas à forma de apresentar, e mantém o formato porque o grupo aprovou.",
+   "exemplo": "'Alguma crítica em relação à maneira como foi apresentado o conteúdo?'",
+   "ts": "0:58:47"
+  },
+  {
+   "movimento": "Fechar desfazendo um mal-entendido previsível",
+   "descricao": "Aproveita um feedback para frisar que PD não é abordagem.",
+   "exemplo": "'Prática deliberada é algo ateórico, um jeito de fazer.'",
+   "ts": "0:59:29"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Não use a sensação de segurança como prova de que você melhorou.",
+   "justificativa": "A queda da insegurança é o critério que a maioria usa, mas confiança não é competência, e o excesso dela reduz a vigilância.",
+   "contexto": "Ao avaliar a própria evolução profissional.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:21:19"
+  },
+  {
+   "dica": "Não tome o 'estou melhor' do paciente como prova de eficácia.",
+   "justificativa": "O paciente pode dizer isso para agradar, por vergonha de não melhorar ou por influência da figura de autoridade (efeito Hawthorne).",
+   "contexto": "Avaliação do progresso de um caso.",
+   "competencia": "Feedback clínico",
+   "ts": "0:43:32"
+  },
+  {
+   "dica": "Pergunte-se se a melhora do paciente veio da terapia ou de outra coisa.",
+   "justificativa": "Muitas coisas acontecem ao mesmo tempo na vida do paciente, e sem essa pergunta o terapeuta superestima o próprio efeito.",
+   "contexto": "Ao notar mudanças no paciente.",
+   "competencia": "Feedback clínico",
+   "ts": "0:28:30"
+  },
+  {
+   "dica": "Antes de dizer que 'o paciente não se implica', verifique se você não está terceirizando a responsabilidade.",
+   "justificativa": "Às vezes é verdade, mas muitas vezes é uma desculpa que protege o terapeuta e impede o ajuste.",
+   "contexto": "Casos estagnados ou abandonos.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:44:49"
+  },
+  {
+   "dica": "Trate a insegurança diante de um caso como sinal para deliberar.",
+   "justificativa": "Ela tira você do automatismo e leva às perguntas 'por que estou fazendo isso? Para quê?'.",
+   "contexto": "Casos que surpreendem ou fogem do repertório.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:50:26"
+  },
+  {
+   "dica": "Não generalize automaticamente o que funcionou com um paciente para os seguintes.",
+   "justificativa": "Você passa a responder a uma regra arbitrária sua e não às variáveis do caso presente, e a psicoterapia é uma ciência da exceção.",
+   "contexto": "Ao repetir técnicas que 'colaram'.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:46:10"
+  },
+  {
+   "dica": "Parta do fenômeno e use a teoria depois, para formular.",
+   "justificativa": "O fenômeno às vezes exige algo que a teoria não oferece, e a teoria usada como escudo cega para os detalhes.",
+   "contexto": "Formulação e escolha de intervenção.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:40:54"
+  },
+  {
+   "dica": "Não se contente com a aderência técnica e cuide da relação e da confiança.",
+   "justificativa": "Segundo o facilitador, especificidades da orientação teórica pesam menos no tamanho do efeito do que os aspectos da relação terapêutica.",
+   "contexto": "Sempre, sobretudo no início do vínculo.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:39:42"
+  },
+  {
+   "dica": "Considere o abandono um possível sinal de não melhora.",
+   "justificativa": "Pacientes que não melhoram podem mentir que estão bem ou simplesmente sair.",
+   "contexto": "Ao revisar desistências.",
+   "competencia": "Feedback clínico",
+   "ts": "0:43:32"
+  },
+  {
+   "dica": "Use instrumentos de monitoramento, mas questione o próprio instrumento.",
+   "justificativa": "Medir ajuda a sair das impressões, mas a medida também tem limites (por exemplo, o objetivo da terapia muda ao longo da vida do paciente).",
+   "contexto": "Ao adotar escalas ou planilhas de progresso.",
+   "competencia": "Feedback clínico",
+   "ts": "0:29:10"
+  },
+  {
+   "dica": "Continue desconfiando de si mesmo com muitos anos de carreira.",
+   "justificativa": "Até terapeutas com 30 ou 40 anos de prática encontram casos inéditos, e os dados mostram que o desempenho médio tende a cair com o tempo.",
+   "contexto": "Ao longo de toda a carreira.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:30:26"
+  },
+  {
+   "dica": "Busque espaços que treinem o como fazer, além da supervisão de caso.",
+   "justificativa": "Na experiência de uma participante, validada pelo facilitador, a supervisão ajuda a pensar o caso, mas não a executar as intervenções.",
+   "contexto": "Ao planejar a própria formação.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:24:35"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A psicoterapia funciona, mas não melhorou em 40 anos.",
+   "argumento": "As metanálises mostram um efeito comparável ao da revascularização do miocárdio, mas mais de 800 mil publicações não produziram ganho de eficácia na área.",
+   "contraponto": "A suposição de que o progresso científico se traduz automaticamente em melhores resultados clínicos.",
+   "implicacao": "O gargalo não é falta de conhecimento, é a forma como os terapeutas treinam.",
+   "quem": "Bernardo",
+   "ts": "0:15:23"
+  },
+  {
+   "tese": "Os terapeutas não podem saber se são eficazes nem se estão melhorando.",
+   "argumento": "Só dispõem de impressões pessoais e de feedback informal, ambos enviesados. Sem avaliação válida do desempenho, também não sabem que instrução os ajudaria.",
+   "contraponto": "A crença de que supervisão, cursos, leituras, experiência e 'os clientes como melhores professores' garantem a melhora.",
+   "implicacao": "O desenvolvimento profissional precisa de medida e de feedback sobre o desempenho real.",
+   "quem": "Bernardo",
+   "ts": "0:33:41"
+  },
+  {
+   "tese": "Confiança não é sinônimo de competência, e o excesso de confiança prejudica.",
+   "argumento": "A experiência automatiza os processos e reduz a vigilância (o motorista que raspa o carro). O estudo longitudinal de 18 anos mostra desempenho médio estável ou em leve queda.",
+   "contraponto": "O senso comum de que mais anos de clínica significam um terapeuta melhor, inclusive como critério de escolha do paciente.",
+   "implicacao": "Treinar é combater o automatismo, não acumular horas.",
+   "quem": "Bernardo",
+   "ts": "0:48:11"
+  },
+  {
+   "tese": "A insegurança é a salvação do terapeuta.",
+   "argumento": "É desprazerosa, mas é o que tira o profissional do automatismo e o coloca em deliberação.",
+   "contraponto": "A busca por eliminar a insegurança como meta da formação.",
+   "implicacao": "Grupos de formação devem cultivar a dúvida em vez de puni-la.",
+   "quem": "Bernardo",
+   "ts": "0:50:26"
+  },
+  {
+   "tese": "A psicoterapia é uma ciência da exceção: o fenômeno vem antes da teoria, e as teorias em parte nos protegem dos fatos.",
+   "argumento": "Cada paciente traz algo que não está nos livros, os resultados moram nos detalhes, e a orientação teórica pesa menos que a relação.",
+   "contraponto": "O terapeuta preocupado só com a aderência a uma teoria ou protocolo.",
+   "implicacao": "Formular com a teoria, mas deixar o caso corrigir a teoria.",
+   "quem": "Bernardo",
+   "ts": "0:39:12"
+  },
+  {
+   "tese": "Muitas vezes, atribuir o fracasso ao paciente é terceirizar a responsabilidade.",
+   "argumento": "Às vezes o paciente realmente não se implica, mas a explicação também protege o terapeuta da própria ineficácia.",
+   "contraponto": "A explicação automática pela disfuncionalidade ou resistência do paciente.",
+   "implicacao": "Diante de casos que não avançam, examinar primeiro a própria atuação.",
+   "quem": "Bernardo",
+   "ts": "0:44:49"
+  },
+  {
+   "tese": "A prática deliberada é a promessa mais confiável de melhora contínua, embora modesta.",
+   "argumento": "Num estudo com 153 terapeutas numa instituição comunitária, a melhora foi contínua durante 7 anos.",
+   "contraponto": "O próprio facilitador ressalva que é uma 'possível promessa', que não se sabe se ela se sustenta a longo prazo e que a melhora é leve.",
+   "implicacao": "Expectativas realistas: ganhos pequenos, graduais e cumulativos.",
+   "quem": "Bernardo",
+   "ts": "0:53:36"
+  },
+  {
+   "tese": "A formação brasileira em psicologia põe a prática tarde demais.",
+   "argumento": "Começar a atender no 5º período, ou no 8º, é como ter dois anos de teoria da natação antes de entrar na água.",
+   "contraponto": "As graduações estruturadas em torno da teoria.",
+   "implicacao": "Praticar cedo, mas de forma estruturada, com objetivos e deliberação.",
+   "quem": "Bernardo",
+   "ts": "0:56:46"
+  },
+  {
+   "tese": "A prática deliberada não é uma abordagem: é ateórica, um 'jeito de fazer'.",
+   "argumento": "Pode ser praticada em qualquer área e a partir de qualquer orientação, que é quem define o que é saudável, patológico e desejável.",
+   "contraponto": "Quem acha que vai precisar abandonar sua abordagem de escolha.",
+   "implicacao": "Grupos de treino podem reunir terapeutas de abordagens diferentes.",
+   "quem": "Bernardo",
+   "ts": "0:59:29"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Prática deliberada é uma prática pensada, refletida. Não é simplesmente a mera repetição daquilo que se faz para treinar alguma coisa.",
+   "tema": "Definição de prática deliberada",
+   "ts": "0:01:34"
+  },
+  {
+   "texto": "A psicoterapia funciona, mas há 40 anos não funciona mais do que já funcionava naquela época.",
+   "tema": "Estagnação da psicoterapia",
+   "ts": "0:18:32"
+  },
+  {
+   "texto": "A maioria dos terapeutas não possui evidências concretas e verificáveis de que algo que faz faz a diferença.",
+   "tema": "Limites da autoavaliação",
+   "ts": "0:33:41"
+  },
+  {
+   "texto": "Parte do motivo pelo qual a gente cria teorias psicológicas é para nos proteger dos próprios fatos psicológicos. A psicoterapia é uma ciência da exceção.",
+   "tema": "Ciência da exceção",
+   "ts": "0:39:12"
+  },
+  {
+   "texto": "Assim como o diabo mora nos detalhes, os resultados de uma psicoterapia também moram nos detalhes.",
+   "tema": "Ciência da exceção",
+   "ts": "0:39:42"
+  },
+  {
+   "texto": "O que vem antes é sempre o fenômeno, não a teoria.",
+   "tema": "Teoria e prática",
+   "ts": "0:40:54"
+  },
+  {
+   "texto": "Confiança não é sinônimo de competência. Guardem isso.",
+   "tema": "Confiança e competência",
+   "ts": "0:48:11"
+  },
+  {
+   "texto": "A gente não combate a experiência. A experiência só é relevante quando é acompanhada de dúvida, de insegurança.",
+   "tema": "Experiência e dúvida",
+   "ts": "0:49:18"
+  },
+  {
+   "texto": "Por mais que a insegurança seja desprazerosa, ela é o que nos salva: é ela que nos tira do automatismo e nos coloca num processo de deliberação.",
+   "tema": "Insegurança do terapeuta",
+   "ts": "0:50:26"
+  },
+  {
+   "texto": "Há uma luz no fim do túnel, e não é de um trem para nos atropelar.",
+   "tema": "Promessa da prática deliberada",
+   "ts": "0:53:36"
+  },
+  {
+   "texto": "Imagine colocar seu filho numa aula de natação em que ele só vai entrar na água depois de dois anos. Antes disso, teoria da natação.",
+   "tema": "Crítica à formação",
+   "ts": "0:56:46"
+  },
+  {
+   "texto": "Teoria como escudo é a gente agindo por regra, regra estabelecida por pesquisadores que muitas vezes nem atendem.",
+   "tema": "Teoria como escudo",
+   "ts": "0:57:30"
+  },
+  {
+   "texto": "Prática deliberada não é uma abordagem. É mais um jeito de fazer do que um sistema teórico para aplicar como intervenção.",
+   "tema": "Natureza da prática deliberada",
+   "ts": "1:01:19"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "A psicoterapia funciona, mas parou de melhorar há 40 anos",
+   "mensagem": "O efeito da psicoterapia é comparável ao de uma cirurgia cardíaca, mas 800 mil estudos depois os resultados não subiram. O gargalo é o treino, não o conhecimento.",
+   "roteiro": [
+    "Capa: a psicoterapia funciona? Sim. E melhorou? Não.",
+    "Desde os anos 1970, metanálises confirmam a eficácia",
+    "Efeito comparável à revascularização do miocárdio (tamanho do efeito, não 'mais eficaz')",
+    "Mais de 800 mil citações no PubMed",
+    "Mas os resultados não melhoraram em 40 anos",
+    "Se o problema não é conhecimento, é como treinamos",
+    "Fecho: prática deliberada"
+   ],
+   "corte_inicio": "0:08:41",
+   "corte_fim": "0:18:45"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Confiança não é competência",
+   "mensagem": "Com a experiência o terapeuta fica mais confiante, não necessariamente melhor, como o motorista confiante que passa a raspar o carro. A experiência só vale acompanhada de dúvida.",
+   "roteiro": [
+    "Cena 1: 'Você é melhor terapeuta do que no começo? Como sabe?'",
+    "Cena 2: a analogia do motorista",
+    "Cena 3: automatismo reduz vigilância",
+    "Cena 4: 'guardem isso: confiança não é competência'"
+   ],
+   "corte_inicio": "0:48:11",
+   "corte_fim": "0:50:26"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Terapeutas pioram com o tempo?",
+   "mensagem": "Num estudo de 18 anos, a média dos terapeutas não melhorou e caiu levemente. Num estudo de 7 anos com prática deliberada, melhorou de forma contínua.",
+   "roteiro": [
+    "Capa: mais anos de clínica = terapeuta melhor?",
+    "Estudo longitudinal: cerca de 150 terapeutas, 18 anos",
+    "Resultado: linha reta com leve queda",
+    "Por quê: confiança sobe, vigilância cai",
+    "Outro estudo: 153 terapeutas treinados em PD, 7 anos",
+    "Resultado: melhora leve e contínua",
+    "Fecho: não é o tempo, é como você pratica"
+   ],
+   "corte_inicio": "0:50:26",
+   "corte_fim": "0:56:46"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "A sua insegurança clínica te salva",
+   "mensagem": "A insegurança é desprazerosa, mas é ela que tira você do automatismo e te faz perguntar 'por que estou fazendo isso? Para quê?'.",
+   "roteiro": [
+    "Frase de impacto sobre a insegurança como salvação",
+    "Legenda: a experiência sem dúvida vira automatismo"
+   ],
+   "corte_inicio": "0:49:18",
+   "corte_fim": "0:50:26"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Aula de natação sem água",
+   "mensagem": "A graduação adia a prática clínica como se alguém aprendesse a nadar com dois anos de teoria. A prática precisa vir cedo, estruturada por objetivos.",
+   "roteiro": [
+    "Cena 1: a imagem da natação sem água",
+    "Cena 2: atender só no 5º (ou 8º) período",
+    "Cena 3: não é prática como repetição, é prática deliberada",
+    "Cena 4: a teoria como escudo"
+   ],
+   "corte_inicio": "0:56:46",
+   "corte_fim": "0:58:24"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Metanálise e tamanho do efeito em 5 slides",
+   "mensagem": "Revisão sistemática reúne estudos, metanálise combina resultados, e 'equivalente à revascularização' fala de tamanho do efeito, não de ser mais eficaz.",
+   "roteiro": [
+    "O que é revisão sistemática",
+    "O que é metanálise",
+    "O que é tamanho do efeito",
+    "O erro comum de leitura",
+    "Por que isso importa para o psicólogo"
+   ],
+   "corte_inicio": "0:11:27",
+   "corte_fim": "0:15:14"
+  },
+  {
+   "formato": "stories",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Enquete: você é melhor terapeuta do que era no começo? Como você sabe?",
+   "mensagem": "Os terapeutas dizem que melhoram, não dizem o quanto se sentem incertos e não podem dizer se são eficazes, porque falta medida.",
+   "roteiro": [
+    "Enquete sim/não",
+    "Caixa: o que te fez melhorar?",
+    "Revelação: as três camadas (dizem, não dizem, não podem dizer)"
+   ],
+   "corte_inicio": "0:19:30",
+   "corte_fim": "0:22:10"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Prática deliberada não é abordagem",
+   "mensagem": "A PD é ateórica: serve a qualquer orientação e a qualquer área. É um jeito de treinar, não um sistema teórico.",
+   "roteiro": [
+    "Mito: vou ter que abandonar minha abordagem",
+    "Verdade: a PD é ateórica, um 'jeito de fazer'"
+   ],
+   "corte_inicio": "0:59:29",
+   "corte_fim": "1:01:34"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Citado como marco da psicoterapia moderna enquanto método sistematizado de cura pela fala (fim do século XIX, início do XX) e pela popularização cultural do divã."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Introdução à Prática Deliberada (curso do Núcleo de Prática Deliberada da Allos)",
+  "objetivo": "Introduzir o conceito, as evidências e os princípios da prática deliberada aplicada à psicoterapia antes do treino prático, começando por mostrar sua relevância (a estagnação dos resultados e o limite da experiência).",
+  "publico": "Grupo aberto de 'potenciais associados' da Allos: estudantes de psicologia e psicólogos, alguns já atendendo e alguns que já frequentam os grupos de aprimoramento e ouviram o Alan falar de PD.",
+  "tamanho": "Cerca de 10 a 15 participantes ativos online.",
+  "duracao": "Cerca de 1 hora por encontro, semanal (quinta-feira), numa série de 8 encontros mais 1 extra.",
+  "estrutura_padrao": "Retomada ou abertura → slides em que cada dado é precedido de uma pergunta ao grupo → discussão das reações → síntese e implicação clínica pelo facilitador → rodada de feedback sobre a aula → anúncio da próxima aula e das leituras.",
+  "papel_facilitador": "Expositor-dialógico: apresenta pesquisa com slides, mas conduz por perguntas, valida e sintetiza as respostas, explica termos técnicos no momento da dúvida e pede feedback sobre a própria condução.",
+  "regras_combinados": "Assinar a lista ou formulário de presença no grupo de potenciais associados; gravação guardada no drive da Allos e disponibilizada ao grupo; bibliografia enviada em PDF (tradução e original) para leitura acompanhando o curso; formato de slides com interação mantido por aprovação do grupo."
+ },
+ "reflexoes_do_facilitador": [
+  "Anuncia que na primeira aula não vai definir prática deliberada, só mostrar sua relevância (escolha didática deliberada).",
+  "Depois de explicar metanálise: 'tentei ser o mais didático possível, porque isso é muito complicado de explicar'.",
+  "Reconhece o erro na ordem dos slides e corrige ao vivo.",
+  "Pede críticas à maneira como o conteúdo foi apresentado e decide manter o formato (slides com interação) porque o grupo gostou.",
+  "Não sabe se os potenciais associados têm acesso ao drive da Allos e vai consultar a TI para disponibilizar a gravação."
+ ],
+ "referencias_a_outros_encontros": [
+  "É 'o primeiro aberto ao público', não o primeiro encontro de todos.",
+  "Nos próximos encontros o conceito de prática deliberada será apresentado.",
+  "Temas prometidos para depois: aderência à técnica, o papel da supervisão, ressalvas aos instrumentos de medida e os métodos de mensuração que a Allos propõe aplicar.",
+  "Próxima aula na quinta-feira seguinte.",
+  "Participantes mencionam o Alan explicando PD nos grupos e as 'aulas de aprimoramento' da Allos como o lugar onde aprenderam o como fazer."
+ ],
+ "observacoes": "Facilitador identificado como Bernardo pelas falas dos participantes ('Sim, Bernardo' em 0:12:36; 'a pergunta que eu te fiz antes, Bernardo' em 0:27:21). O sobrenome não aparece. O livro-base não é nomeado; a estrutura dos slides ('o estado da nossa arte', 'o que os terapeutas dizem, não dizem e não podem dizer') sugere Better Results (Miller, Hubble e Chow), mas é hipótese do fichamento. Os dois estudos longitudinais dos gráficos não são nomeados; os números (cerca de 150 terapeutas em 18 anos; 153 terapeutas em 7 anos numa instituição comunitária) parecem corresponder aos estudos de Goldberg e colaboradores (2016), a conferir. A definição de efeito Hawthorne dada em aula é pouco usual. Legenda com ruído ('Alace/Wallace', 'Haltorn' = Hawthorne, 'prática liberada' = prática deliberada). Os nomes dos participantes foram omitidos."
+}

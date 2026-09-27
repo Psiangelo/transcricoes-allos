@@ -1,0 +1,1071 @@
+{
+ "id": "alan-08",
+ "nota": "Alan 08 - Escuta em fenomenologia",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Escuta em fenomenologia",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Primeiro encontro de uma série sobre escuta. Alan apresenta um mapa em três níveis (técnica, estilo, interpretação de verdade) e defende que a meta é abandonar técnicas e estilo para interpretar de fato, pois a psicologia é, no fundo, uma ciência hermenêutica. Na prática, conduz três exercícios. O primeiro é repetir literalmente o relato de um colega (escuta humanista e fenomenológica sem projetar), no qual o erro-chave é trocar a fala pela intenção. O segundo é interpretar uma frase de roleplay com hermenêutica da desconfiança e atenção uniformemente dividida (psicanálise freudiana). O terceiro é uma rodada relâmpago de hipóteses no chat. Como o grupo segue preso ao conteúdo, Alan faz longos parênteses teóricos: Hillman e Jung contra Freud, e de Kant a Hegel. A conclusão é que a psicanálise é uma antihermenêutica que analisa o véu (o inconsciente em Freud, a linguagem em Lacan), com o corte lacaniano como exemplo. O exercício lacaniano não acontece por falta de tempo, e Alan fecha consultando o grupo sobre o ritmo da série.",
+ "em_uma_frase": "As técnicas de escuta de cada abordagem (repetir sem projetar na fenomenologia, flutuar e desconfiar na psicanálise) são simples de explicar e difíceis de executar, e são só o primeiro degrau rumo à interpretação de verdade.",
+ "competencias": [
+  "Escuta clínica",
+  "Interpretação",
+  "Aprofundamento",
+  "Articulação teoria-prática",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Fenomenologia e existencialismo",
+  "Psicanálise freudiana",
+  "Psicanálise lacaniana",
+  "Psicologia analítica junguiana",
+  "Gestalt-terapia",
+  "Terapias contextuais",
+  "Psicologia arquetípica"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:02",
+   "bloco": "Abertura",
+   "descricao": "Pede pontualidade. Anuncia que o tema (escuta) vai ocupar vários encontros e que a divisão em partes (interpretação, intervenção, aprofundamento) é só didática.",
+   "funcao": "Enquadrar a série e baixar a expectativa de fechar o assunto.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:04",
+   "bloco": "Teoria",
+   "descricao": "Mapa do iceberg: técnica (treino de sombra), estilo (esquemas de aprofundamento), interpretação de verdade. Nenhuma ciência se sustenta sozinha. Ciências humanas como ciências hermenêuticas. Psicologia colonizada por medicina, linguística ou história.",
+   "funcao": "Organizador prévio: mostrar o destino da série para que a técnica não seja tomada como fim.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "0:11:47",
+   "bloco": "Combinados",
+   "descricao": "Pede câmeras ligadas. Estrutura: explicação rápida seguida de exercício. Não vai hierarquizar técnicas. Missão de praticar fora do grupo. Metáfora do carro e da marcha. Votação no chat entre humanismo, psicanálise e análise do comportamento.",
+   "funcao": "Contrato de trabalho, agência do grupo e legitimação da técnica.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:15:22",
+   "bloco": "Teoria",
+   "descricao": "Humanismo como guarda-chuva de abordagens e técnicas. Escolha da técnica genérica 'escutar sem projetar'. Descrição do formato presencial em trios e da adaptação para o online.",
+   "funcao": "Apresentar a primeira técnica e o desenho da dinâmica.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:17:12",
+   "bloco": "Dinâmica",
+   "descricao": "Consigna da repetição literal (exemplo tímida × calada). Dois voluntários. Relato de cerca de 3 minutos sobre a semana, com o grupo repetindo mentalmente.",
+   "funcao": "Criar consciência de quanto projetamos nosso vocabulário.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:22:08",
+   "bloco": "Feedback",
+   "descricao": "Alan pausa a repetição e aponta trocas (refletindo × percebendo comigo mesmo), um ato falho não percebido e a correção feita pela intenção do falante.",
+   "funcao": "Feedback ao vivo, com o erro como material central.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:27:07",
+   "bloco": "Rodada de respostas",
+   "descricao": "O repetidor termina sem interrupções. Comentário sobre a memória na clínica. Outra participante tenta usando anotações.",
+   "funcao": "Medir a distância entre o que se retém e a letra do que foi dito.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:31:20",
+   "bloco": "Tarefa",
+   "descricao": "Exame de consciência coletivo e pedido de treinar muito. Comentário de que é impossível fazer o exercício anotando.",
+   "funcao": "Generalizar a dificuldade sem expor ninguém e fazer a ponte para a psicanálise.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:33:13",
+   "bloco": "Teoria",
+   "descricao": "Associação livre e atenção flutuante. 'Psicanalista não anota'. Esquecimento como função hermenêutica. Flutuar × afundar. Atenção uniformemente dividida.",
+   "funcao": "Base teórica do segundo exercício e contraste com a escuta intuitiva.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:38:01",
+   "bloco": "Teoria",
+   "descricao": "Técnica freudiana, hermenêutica da desconfiança (Ricoeur) e chave hermenêutica externa ('tudo é sobre sexo, exceto sexo').",
+   "funcao": "Dar a regra que o exercício vai testar.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:42:11",
+   "bloco": "Dinâmica",
+   "descricao": "Frase de roleplay para interpretar ('na minha escola só ensinavam a usar drogas'). Respostas no chat e em voz, comentadas uma a uma, com os exemplos de Lacan (Gestapo), do abraço como intervenção e do 'é a mamãe' de Freud.",
+   "funcao": "Treinar a saída do conteúdo manifesto com correção em escada.",
+   "duracao_min": 13
+  },
+  {
+   "ts": "0:55:29",
+   "bloco": "Comparação de abordagens",
+   "descricao": "A dúvida de uma participante vira parêntese: Hillman × Freud sobre explorar a fantasia do terapeuta; Jung × Freud sobre associação livre não ser interpretação (lusus naturae, piada dos hieróglifos); necessidade de voltar ao material original.",
+   "funcao": "Mostrar que o erro de uma escola é o acerto de outra e situar a técnica no mapa das abordagens.",
+   "duracao_min": 13
+  },
+  {
+   "ts": "1:08:08",
+   "bloco": "Feedback",
+   "descricao": "Síntese das respostas em duas famílias (sou burro, preciso de um abraço) e gabaritos canônicos (a culpa não é minha, sou melhor do que vocês). Implicação clínica. Resistência como evidência de acerto. História da primeira dinâmica dos grupos (sonho interpretado pela resistência).",
+   "funcao": "Consolidar critérios de qualidade e contrastar com a fenomenologia.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:15:58",
+   "bloco": "Discussão",
+   "descricao": "Interpretação como tema mais difícil (notas baixas em avaliações). Teorias como aceleradores interpretativos. Hierarquia do ideal clínico. Fazer OK é fácil, muito bom é quase impossível.",
+   "funcao": "Metarreflexão sobre a formação e normalização do desconforto.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:20:55",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Logística sobre onde ficam as gravações e as notas automáticas.",
+   "funcao": "Operacional.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "1:21:49",
+   "bloco": "Dinâmica",
+   "descricao": "Pergunta de participante vira rodada relâmpago: pelo menos 8 interpretações no chat para 'sinto que meus pais só me escutam quando estou gritando'. Feedback: ninguém aplicou a desconfiança hermenêutica.",
+   "funcao": "Gerar hipóteses em volume e diagnosticar a lacuna do grupo.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:24:38",
+   "bloco": "Teoria",
+   "descricao": "Passo atrás filosófico: Kant (fenômeno, antinomia/véu, númeno), piada de Schopenhauer, Hegel (dialética especular, César e o Império, Zêuxis e Parrásio, o amor).",
+   "funcao": "Fundamentar por que a psicanálise é antihermenêutica.",
+   "duracao_min": 16
+  },
+  {
+   "ts": "1:40:22",
+   "bloco": "Teoria",
+   "descricao": "Aplicação: Freud interpreta o inconsciente, Lacan interpreta a linguagem, Marx analisa a estrutura do capital. Pergunta sobre o paciente que mente.",
+   "funcao": "Ligar a filosofia à escuta clínica.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:44:05",
+   "bloco": "Teoria",
+   "descricao": "Lacan: o recalcado é indiferente ao retorno do recalcado, só-depois (anedota pessoal de Alan), tentação hermenêutica (Žižek), inconsciente como espaço vazio entre dois significantes, corte da sessão (tímida × calada), níveis do razoável na escuta psicanalítica.",
+   "funcao": "Preparar o exercício lacaniano, que acabou não sendo realizado.",
+   "duracao_min": 12
+  },
+  {
+   "ts": "1:56:31",
+   "bloco": "Dúvidas",
+   "descricao": "Recalque como construção. Leitura forte de Freud por Lacan (posição de Alan). Ética da abstinência. Žižek lendo Lacan como hegeliano. Caverna de Platão em três grupos. Butler. O professor que acredita no átomo.",
+   "funcao": "Esclarecimento individual e aprofundamento para quem ficou.",
+   "duracao_min": 16
+  },
+  {
+   "ts": "2:12:18",
+   "bloco": "Fechamento",
+   "descricao": "Tempo estourado e poucos presentes. Exercício lacaniano adiado. Consulta sobre o ritmo (mais curto e rápido ou mais teórico). Lista das escolas pendentes: Lacan, análise do comportamento, TCC clássica, escuta provocativa, sistêmica, formas de aprofundar.",
+   "funcao": "Replanejar a série junto com o grupo.",
+   "duracao_min": 2
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Níveis da escuta",
+   "definicao": "Mapa didático em três níveis (metáfora do iceberg). Técnica: pré-pronta, como o treino de sombra. Estilo: inclinação intuitiva, muitas vezes inconsciente, que dá direção à escuta. Interpretação de verdade: hermenêutica, que sustenta a psicologia. A série quer levar da técnica à interpretação.",
+   "exemplo": "Piano: primeiro aprender onde estão as notas, depois desenvolver estilo, e só então fazer arte.",
+   "abordagem": "",
+   "ts": "0:01:04"
+  },
+  {
+   "nome": "Ciência hermenêutica",
+   "definicao": "Nome clássico das ciências humanas (ciências interpretativas ou do espírito). Direito, história e psicologia compartilham uma mesma base, a interpretação, assim como a física depende da matemática e a matemática da lógica.",
+   "exemplo": "O direito interpreta a justiça e a lei; a história interpreta o passado.",
+   "abordagem": "",
+   "ts": "0:06:37"
+  },
+  {
+   "nome": "Escuta sem projeção",
+   "definicao": "Técnica genérica do humanismo e da fenomenologia: devolver o que o outro disse sem substituir seu vocabulário pelo nosso, para observar o fenômeno tal qual ele é. O vocabulário e as hipóteses do terapeuta nunca são inócuos.",
+   "exemplo": "Tímida (qualidade do sujeito) × calada (algo no ambiente que cala); assustada × com medo.",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "0:17:37"
+  },
+  {
+   "nome": "Fala e intenção",
+   "definicao": "Distinção entre o que a pessoa efetivamente disse e o que quis dizer. Corrigir a fala pela intenção é o erro de escuta mais dócil e frequente, e apaga o que diferencia o caso.",
+   "exemplo": "'Se entender como um desafio' (o desafio é a pessoa) × 'se entender por meio de um desafio' (o desafio leva ao autoconhecimento).",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "0:25:02"
+  },
+  {
+   "nome": "Ato falho",
+   "definicao": "Troca de palavra em que a linguagem comunica algo diferente da intenção do falante. Na leitura lacaniana, é nesse ponto que o inconsciente aparece e o recalque é produzido por retroação.",
+   "exemplo": "A troca de 'tímida' por 'calada' numa primeira sessão; a troca de preposição no relato do exercício.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:23:36"
+  },
+  {
+   "nome": "Atenção flutuante",
+   "definicao": "Também chamada por Freud de atenção uniformemente dividida: nenhum elemento do discurso recebe peso prévio. Flutuar é o contrário de afundar, e por isso 'psicanálise não aprofunda'. É contraintuitiva, porque a escuta natural extrai o que é mais pesado.",
+   "exemplo": "Num relato de violência grave, a cor do sofá é tão relevante quanto o evento dramático.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:34:45"
+  },
+  {
+   "nome": "Associação livre",
+   "definicao": "O paciente fala qualquer coisa. É o par da atenção flutuante no método freudiano. Para Jung, partir do sonho por associação e nunca voltar a ele não é interpretar o sonho.",
+   "exemplo": "O namorado do sonho vira o pai, que vira Deus, que vira um gigante asteca, e nunca mais se volta ao sonho.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:33:30"
+  },
+  {
+   "nome": "Esquecimento como função interpretativa",
+   "definicao": "Para Freud, o psicanalista não anota, porque o que ele esquece conta o que considerou central e dá acesso às suas fantasias sobre o caso.",
+   "exemplo": "Perguntar-se: por que esqueci justo o nome do namorado dela?",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:33:30"
+  },
+  {
+   "nome": "Hermenêutica da desconfiança",
+   "definicao": "Termo de Paul Ricoeur (hermenêutica da suspeita) para a hipótese de que a verdade de um discurso é alheia a ele. O que importa está sempre por trás, em outro lugar. Exige certo cinismo em relação ao que o paciente diz.",
+   "exemplo": "O paciente jura que a mulher do sonho não é a mãe e Freud anota: 'é a mamãe'.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:38:57"
+  },
+  {
+   "nome": "Chave hermenêutica externa",
+   "definicao": "Elemento externo ao discurso que o analista usa para dar sentido a esse discurso. Na piada psicanalítica, 'tudo é sobre sexo, exceto sexo, que é sobre qualquer outra coisa'.",
+   "exemplo": "A frase sobre drogas na escola lida como 'eu sou burro', 'cuida de mim' ou 'sou melhor do que vocês'.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:41:10"
+  },
+  {
+   "nome": "Retificação subjetiva",
+   "definicao": "Movimento de trazer a interpretação para o sujeito, e não apenas para fora do discurso. Uma leitura que diz algo sobre a pessoa é mais potente.",
+   "exemplo": "'O ensino da escola era ruim' → 'por isso eu sou burro'.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:47:24"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Na psicanálise, a resistência e as reações emocionais (raiva, incômodo) são evidência de que a interpretação se aproxima de algo relevante, ao contrário da fenomenologia, que busca concordância. A própria resistência pode ser a chave hermenêutica.",
+   "exemplo": "Sonho interpretado coletivamente: todos os pontos em que a investigação travava eram o mesmo fenômeno.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:13:18"
+  },
+  {
+   "nome": "Lusus naturae",
+   "definicao": "'Brincadeira da natureza': expressão com que Jung critica a visão freudiana do sonho como algo que prega uma peça e esconde o sentido. Partir do pressuposto de que o texto não tem sentido não pode ser chamado de interpretação.",
+   "exemplo": "Piada dos hieróglifos: supor que os egípcios só trollaram os leitores do futuro.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:05:34"
+  },
+  {
+   "nome": "Antihermenêutica",
+   "definicao": "Caracterização do método psicanalítico (Ricoeur sobre Freud, segundo Alan; assumida por Lacan): não se busca o sentido do texto, analisa-se o próprio véu (o inconsciente em Freud, a linguagem em Lacan). 'A gente desproduz interpretação em psicanálise.'",
+   "exemplo": "Freud não interpreta o sonho, interpreta o inconsciente; Lacan não interpreta o conteúdo, interpreta a linguagem.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:02:55"
+  },
+  {
+   "nome": "Acelerador interpretativo",
+   "definicao": "Função da teoria clínica: permitir transitar pelos fenômenos mais rápido, sem inventar do zero uma teoria para cada caso.",
+   "exemplo": "Potência acelera a multiplicação, que acelera a adição; reconhecer 'uma fenomenologia de caso adleriano'.",
+   "abordagem": "",
+   "ts": "1:17:49"
+  },
+  {
+   "nome": "Númeno",
+   "definicao": "Em Kant, a realidade em si, inacessível à razão. Kant organiza o mundo em fenômeno (o que percebemos), antinomia (o véu) e númeno. Para Hegel, lido por Alan, o númeno é uma fantasia inserida por Kant.",
+   "exemplo": "A piada atribuída a Schopenhauer: Kant traía a esposa num baile de máscaras e a mascarada era ela.",
+   "abordagem": "",
+   "ts": "1:29:01"
+  },
+  {
+   "nome": "Antinomia",
+   "definicao": "Em Kant, argumentos logicamente perfeitos para teses opostas (Deus existe e não existe, o tempo tem e não tem início), que funcionam como véu impedindo a razão de fazer juízos transcendentais.",
+   "exemplo": "Quatro exemplos de antinomia na Crítica da Razão Pura.",
+   "abordagem": "",
+   "ts": "1:30:05"
+  },
+  {
+   "nome": "Dialética especular",
+   "definicao": "Leitura de Alan da dialética hegeliana como quiasmática (A-B-B-A), e não 'tese, antítese, síntese': a tentativa de negar a tese acaba afirmando-a. Ler um autor hegelianamente é levar suas premissas às últimas consequências até contradizê-lo.",
+   "exemplo": "O Senado mata César para conter o poder imperial e isso encerra a República e inaugura o Império.",
+   "abordagem": "",
+   "ts": "1:32:28"
+  },
+  {
+   "nome": "Retorno do recalcado",
+   "definicao": "Frase de Lacan: o recalcado é indiferente ao retorno do recalcado. Não há um recalque prévio com consequências posteriores; só existe o retorno, que produz por retroação a fantasia de um recalque primordial.",
+   "exemplo": "Uma lembrança de adolescência de Alan que só surgiu ao ler Lacan.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:45:56"
+  },
+  {
+   "nome": "Só-depois",
+   "definicao": "Nachträglichkeit (Freud) / après-coup (Lacan): o impacto atual constrói, por retroação, o trauma anterior.",
+   "exemplo": "O ato falho pontuado na sessão produz retroativamente o recalque.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:48:24"
+  },
+  {
+   "nome": "Tentação hermenêutica",
+   "definicao": "O impulso de dar sentido a tudo, de amarrar uma experiência do real aos nossos nexos de sentido e colonizá-la com linguagem (Žižek, Violência). O movimento psicanalítico é recusá-la e manter a atenção flutuando até aparecer uma falha na linguagem.",
+   "exemplo": "Após um tiroteio numa escola, especialistas vão à TV dar sentido ao fato; na frase dos pais, a tentação de falar dos pais ou do ouvido.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:49:32"
+  },
+  {
+   "nome": "Inconsciente",
+   "definicao": "Em Lacan, 'o espaço vazio entre dois significantes'. Para Jacques-Alain Miller, ele existe no ato analítico: é quando o analista aponta a falha no véu que o inconsciente é produzido.",
+   "exemplo": "",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:51:27"
+  },
+  {
+   "nome": "Corte da sessão",
+   "definicao": "Estrutura lacaniana de encerrar a sessão logo após pontuar o ato falho, para não dar espaço à racionalização e não 'fechar o basculante' do inconsciente. O analista aponta sem propor um sentido por trás.",
+   "exemplo": "Numa primeira sessão, o analista repete 'calada' depois da troca por 'tímida', encerra e cobra; Lacan e 'Gestapo' / 'geste à peau'.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:53:35"
+  },
+  {
+   "nome": "Esquemas de aprofundamento",
+   "definicao": "Situados no segundo nível do mapa (estilo): inclinações de direção da escuta, a serem trabalhadas em outro momento da série.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:03:12"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Escutar sem projetar",
+   "objetivo": "Criar consciência de quanto projetamos nosso vocabulário e nossas hipóteses no que o outro diz e treinar a observação do fenômeno tal qual ele é; também é base para a escuta psicanalítica.",
+   "competencias": [
+    "Escuta clínica",
+    "Interpretação"
+   ],
+   "configuracao": "Presencial: trios rotativos (quem fala, quem escuta e repete, quem observa e dá feedback). Online: demonstração com dois voluntários, enquanto os demais fazem o exercício mentalmente para conferir depois.",
+   "tempo": "Relato de 3 a 5 min, repetição de 3 a 5 min, feedback de 5 a 10 min (cerca de 16 min no vídeo).",
+   "materiais": "Nenhum. Não anotar.",
+   "consigna": "Uma pessoa vai contar alguma coisa da vida dela, como foi a semana, com foco grande no que sentiu e está sentindo; adjetive bastante. A outra vai repetir exatamente do mesmo jeito: se ela disse que ficou assustada, ela não ficou com medo; se disse que é tímida, ela não é calada. Quem está assistindo faz o exercício calado, porque a gente vai conferir.",
+   "passos": [
+    "Apresentar o objetivo e o contraste tímida × calada (qualidade do sujeito × algo no ambiente que cala).",
+    "Pedir voluntários garantindo baixa exposição, com tema leve (a semana).",
+    "O narrador fala de 3 a 5 min, com ênfase afetiva.",
+    "O repetidor reproduz o relato com as palavras exatas.",
+    "O facilitador ou observador confere palavra por palavra e pergunta ao grupo o que foi trocado ou omitido.",
+    "Abrir para outras tentativas do grupo.",
+    "Fechar com um exame de consciência coletivo e a tarefa de treinar de 5 a 10 vezes em casa, sem anotar."
+   ],
+   "feedback": "Critério central: fidelidade à letra. Verbos, reflexivos e preposições contam (percebendo comigo mesmo ≠ refletindo; como um desafio ≠ por meio de um desafio). Distinguir fala de intenção. Pescar atos falhos. Tratar o erro como material ('esse erro seu é fundamental'). Justificar clinicamente por que a palavra importa (pode fazer diferença sessões depois).",
+   "exemplos_praticos": "Um participante falou cerca de 2 min sobre inseguranças e a necessidade de conexão consigo, com os outros e com o mundo. O repetidor começou com 'você estava refletindo' e foi interrompido; o grupo sugeriu 'se desafiando' e 'pensando', e Alan corrigiu para 'percebendo comigo mesmo'. Alan apontou um ato falho ('se entender como um desafio') que ninguém percebeu. Uma participante corrigiu para 'por meio dos desafios', isto é, pela intenção, e esse foi considerado o erro mais rico. O repetidor disse que as interrupções apagavam sua memória. Outra participante tentou com anotações e reconheceu que já colocava muito da própria escuta. O grupo recuperou cerca de 5% da letra.",
+   "variacoes": "Fazer com amigos, parceiro, colegas ou adolescentes ('um jogo agradável'), sabendo ou não que é um exercício. Treinar de 5 a 10 vezes, algumas anotando e outras não, e comparar.",
+   "armadilhas": "Anotar (dá centralidade ao que parece essencial e perde a letra). Interromper demais o repetidor. Repetir a ideia e não a letra. No online, sem a pressão da roda, ninguém se voluntaria para repetir.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:17:12"
+  },
+  {
+   "nome": "Dinâmica - Hermenêutica da desconfiança",
+   "objetivo": "Pegar a 'vibe' da interpretação psicanalítica: sair do conteúdo manifesto e encontrar uma chave de sentido externa ao discurso, formulada de modo taxativo e referida ao sujeito.",
+   "competencias": [
+    "Interpretação",
+    "Escuta clínica"
+   ],
+   "configuracao": "Originalmente presencial em trios, com o facilitador circulando para coletar exemplos e apresentá-los na roda. Online: grupo todo, com respostas no chat ou em voz comentadas uma a uma.",
+   "tempo": "15 a 25 min (exercício e síntese).",
+   "materiais": "Frase-estímulo tirada de roleplay: 'Na minha escola, a única coisa que me ensinavam era a usar drogas.' Lista de gabaritos canônicos.",
+   "consigna": "Quando alguém te fala isso, o que essa pessoa está te comunicando? Eu não quero possibilidades, quero uma interpretação. Seja taxativo no que isso significa. (Quem já conhece o exemplo não dá a resposta.)",
+   "passos": [
+    "Expor as regras: atenção uniformemente dividida (não afundar em nenhum tema) e hermenêutica da desconfiança (a única certeza é que não é sobre o que a pessoa diz).",
+    "Apresentar a frase, deixando claro que foi dita ao terapeuta numa situação de atendimento (roleplay).",
+    "Coletar as respostas e comentar cada uma, reconhecendo a direção e apontando o passo a mais.",
+    "Agrupar as respostas em famílias e apresentar os gabaritos canônicos.",
+    "Mostrar a implicação clínica: que intervenção cada leitura produz e que reação ela pode provocar."
+   ],
+   "feedback": "Correção em escada. Literal ('aprendeu drogas na escola'): presa no discurso. 'Pode estar sendo irônica': possibilidade, não interpretação. Conteúdo para forma ('aprendeu o que não servia'): interessante, mas fenomenológico ou gestáltico, e seria feito como pergunta. 'O ensino era ruim' ou 'só aprendeu besteira': já fora do discurso, mas falta retificação subjetiva ('por isso sou burro'). 'Sentiu-se descuidado': direção sensacional; passo a mais: dito ao terapeuta, o recado é 'cuida de mim'. 'Prazer imediato × futuro': o assunto ainda é droga. Perguntar em cadeia 'o que ele quis dizer' é aprofundar, o contrário de flutuar.",
+   "exemplos_praticos": "O chat encheu de respostas, agrupadas em duas famílias: 'eu sou burro' e 'preciso de um abraço / cuida de mim' (nova, incorporada por Alan às respostas canônicas). Gabaritos adicionais de Alan: 'a culpa não é minha' e o favorito, 'eu sou melhor do que vocês'. No roleplay original, a pessoa não parecia alguém que usasse drogas, e a devolução ('você é o bichão, hein?') gerou incômodo, lido como sinal de acerto. Uma participante relatou ter 'bugado' ao tentar ligar uma imagem própria ('atenção') ao caso, o que gerou o parêntese Hillman/Jung. Alan ilustrou o 'abraço' com uma terapeuta da Allos que fazia intervenções não verbais desse tipo diante do grupo.",
+   "variacoes": "Rodar em trios presenciais, com o facilitador circulando; usar outras frases de roleplay; encadear com uma rodada relâmpago.",
+   "armadilhas": "Respostas 'possíveis' e não comprometidas; fantasiar a partir da própria imagem (lógica hillmaniana); aprofundar em cadeia em vez de flutuar; confundir exemplos didaticamente agressivos com a postura clínica recomendada ('psicanálise não precisa ser agressiva').",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:42:11"
+  },
+  {
+   "nome": "Dinâmica - Rodada relâmpago",
+   "objetivo": "Gerar muitas hipóteses interpretativas rapidamente, sem conhecer a pessoa, separando gerar hipótese de avaliar hipótese.",
+   "competencias": [
+    "Interpretação"
+   ],
+   "configuracao": "Grupo todo, respostas escritas no chat, com meta numérica.",
+   "tempo": "2 a 5 min de geração e 2 a 3 min de feedback.",
+   "materiais": "Uma frase curta (aqui, trazida por uma participante): 'Eu sinto que meus pais só me escutam quando eu estou gritando.'",
+   "consigna": "Rodada relâmpago: joga no chat. Quero pelo menos oito interpretações interessantes para essa frase. Usa a intuição e o que a gente viu. Como seria uma interpretação mais freudiana? Tenta se afastar do conteúdo da frase.",
+   "passos": [
+    "Apresentar uma frase curta, de preferência vinda de uma dúvida do grupo.",
+    "Dar meta de quantidade (pelo menos 8).",
+    "Relembrar a regra central (afastar-se do conteúdo).",
+    "Ler as respostas e fazer um diagnóstico coletivo de qual regra foi ou não aplicada."
+   ],
+   "feedback": "Alan julgou as respostas ('como o choro de um bebê que os pais precisam fazer parar', 'só existo quando causo caos') como ainda presas ao conteúdo: todos ignoraram a desconfiança hermenêutica, uma das 'três regras' ('não tem a ver com grito, não tem a ver com pais'). Não deu gabarito; voltou à fundamentação teórica e, mais tarde, disse que o movimento seria recusar a tentação de falar dos pais e esperar uma falha na linguagem.",
+   "exemplos_praticos": "Poucas respostas, todas centradas em grito e pais; Alan disse que estava 'mais triste ainda' que o primeiro exercício e decidiu dar um passo atrás teórico.",
+   "variacoes": "Usar como termômetro no fim de um bloco teórico; aumentar ou reduzir a meta numérica.",
+   "armadilhas": "Feedback em bloco pode desanimar; é preciso compensar com explicação ou reenquadre.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:22:17"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Mapa inicial com aviso de imprecisão",
+   "descricao": "Antes das técnicas, mostra aonde a série vai (técnica, estilo, interpretação) e avisa que o que diz agora é didático e impreciso, para o grupo não se prender ao nível atual.",
+   "exemplo": "'Tudo que eu estou falando nesse primeiro momento está errado, é impreciso, é puramente didático.'",
+   "ts": "0:01:04"
+  },
+  {
+   "movimento": "Pedir câmeras para ler o grupo",
+   "descricao": "Pede câmeras ligadas para perceber confusão pelo rosto das pessoas.",
+   "exemplo": "'Eu nunca sei se o que eu estou falando está confuso se eu não vejo a cara de vocês.'",
+   "ts": "0:11:47"
+  },
+  {
+   "movimento": "Contrato de formato e missão externa",
+   "descricao": "Explicita a estrutura (teoria rápida e exercício) e dá a missão de praticar com colegas, amigos e parceiros.",
+   "exemplo": "'Você pode sair do grupo e resolver escutar seu namorado direito. Essa é a sua missão.'",
+   "ts": "0:12:42"
+  },
+  {
+   "movimento": "Votação para escolher o caminho",
+   "descricao": "Deixa o grupo escolher pelo chat a abordagem de início.",
+   "exemplo": "Humanismo, psicanálise ou análise do comportamento.",
+   "ts": "0:14:36"
+  },
+  {
+   "movimento": "Adaptação presencial para online",
+   "descricao": "Descreve o formato em trios com observador e o substitui por uma demonstração coletiva, admitindo que ainda precisa aprender a dividir em grupos online.",
+   "exemplo": "'Depois eu aprendo como é que faço isso para as próximas.'",
+   "ts": "0:16:25"
+  },
+  {
+   "movimento": "Baixa exposição e plateia ativa",
+   "descricao": "Garante que o relato não expõe a vida do voluntário e pede que todos façam o exercício mentalmente, para conferir depois.",
+   "exemplo": "'Não tem exposição nenhuma de vida'; 'façam o exercício calados também, a gente vai conferir'.",
+   "ts": "0:19:07"
+  },
+  {
+   "movimento": "Coaching ao vivo com recuo",
+   "descricao": "Pausa a execução para corrigir em tempo real; quando o participante diz que as pausas atrapalham, passa a deixar terminar e comenta depois.",
+   "exemplo": "'Vou parar de te interromper e só faço os comentários depois.'",
+   "ts": "0:27:07"
+  },
+  {
+   "movimento": "Erro como material",
+   "descricao": "Reenquadra o erro de um participante como o evento pedagógico mais importante, sem constrangimento.",
+   "exemplo": "'Não está certo, mas esse erro seu é fundamental, era isso que precisava acontecer.'",
+   "ts": "0:25:02"
+  },
+  {
+   "movimento": "Exame de consciência coletivo",
+   "descricao": "Generaliza a dificuldade para todo o grupo, tirando o foco de quem se expôs.",
+   "exemplo": "'Muito provavelmente você não conseguiria nem chegar perto de replicar.'",
+   "ts": "0:31:20"
+  },
+  {
+   "movimento": "Exigir compromisso interpretativo",
+   "descricao": "Recusa respostas vagas ou em forma de possibilidade e pede uma interpretação taxativa.",
+   "exemplo": "'Eu não quero possibilidades, eu quero uma interpretação.'",
+   "ts": "0:43:30"
+  },
+  {
+   "movimento": "Correção em escada",
+   "descricao": "Reconhece o que está na direção certa e indica o próximo passo, construindo uma progressão coletiva de qualidade.",
+   "exemplo": "'Melhorou um tiquinho'; 'a direção está sensacional, dá para dar um passo a mais'.",
+   "ts": "0:48:41"
+  },
+  {
+   "movimento": "Exemplos caricatos com metacomentário",
+   "descricao": "Usa exemplos agressivos e engraçados para memorização e explicita que são recurso didático, não modelo clínico.",
+   "exemplo": "'Os exemplos que eu dou são agressivos para eles serem memoráveis.'",
+   "ts": "0:53:37"
+  },
+  {
+   "movimento": "Parêntese a partir do bug do aluno",
+   "descricao": "Transforma a dificuldade de uma participante numa comparação entre abordagens (Hillman, Jung, Freud) e depois admite o custo de tempo.",
+   "exemplo": "'Eu vou aproveitar o que você falou para fazer um baita de um parêntese teórico'; 'gastei muito mais tempo do que era razoável'.",
+   "ts": "0:56:38"
+  },
+  {
+   "movimento": "Síntese do chat em famílias e gabaritos",
+   "descricao": "Agrupa respostas dispersas em grandes famílias e incorpora contribuições novas ao próprio repertório.",
+   "exemplo": "'Vocês chegaram coletivamente em duas grandes respostas'; 'ela entrou para as minhas respostas canônicas'.",
+   "ts": "1:08:08"
+  },
+  {
+   "movimento": "Rodada relâmpago com meta numérica",
+   "descricao": "Pede volume de hipóteses num tempo curto, separando gerar de avaliar.",
+   "exemplo": "'Quero pelo menos oito interpretações interessantes.'",
+   "ts": "1:22:17"
+  },
+  {
+   "movimento": "Passo atrás teórico diante da falha",
+   "descricao": "Quando a prática mostra que um princípio não foi assimilado, volta à fundamentação em vez de insistir no exercício.",
+   "exemplo": "'Todas as pessoas... ignoraram a desconfiança hermenêutica'; 'deixa eu dar um passo para trás'.",
+   "ts": "1:24:38"
+  },
+  {
+   "movimento": "Checagem e acolhimento do desconforto",
+   "descricao": "Checa compreensão, tranquiliza e normaliza a sensação de não entender.",
+   "exemplo": "'Relaxa, respira, no final precisa fazer sentido'; 'esse grupo é um pouco provocativo mesmo'.",
+   "ts": "1:33:36"
+  },
+  {
+   "movimento": "Fechamento com co-planejamento",
+   "descricao": "Assume a responsabilidade pelo atraso e consulta o grupo sobre ritmo e profundidade dos próximos encontros.",
+   "exemplo": "'A culpa é minha'; mais curto e rápido ou mais teórico e com calma?",
+   "ts": "2:12:18"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Guarde e devolva as palavras exatas do paciente, não sinônimos.",
+   "justificativa": "O vocabulário e as hipóteses do terapeuta nunca são inócuos; tímida e calada implicam casos diferentes, e uma palavra pode ganhar importância sessões depois.",
+   "contexto": "Sempre, especialmente em escuta fenomenológica.",
+   "competencia": "Escuta clínica",
+   "ts": "0:17:37"
+  },
+  {
+   "dica": "Não corrija a fala do paciente pela intenção dele.",
+   "justificativa": "É o erro mais dócil e frequente e apaga justamente o que diferencia o caso.",
+   "contexto": "Ao resumir, devolver ou registrar o que foi dito.",
+   "competencia": "Escuta clínica",
+   "ts": "0:25:02"
+  },
+  {
+   "dica": "Não anote durante a escuta.",
+   "justificativa": "Anotar dá centralidade ao que parece essencial e destrói a atenção uniformemente dividida; Freud: 'psicanalista não anota'.",
+   "contexto": "Sessões e treinos de escuta.",
+   "competencia": "Escuta clínica",
+   "ts": "0:32:13"
+  },
+  {
+   "dica": "Use o próprio esquecimento como dado clínico.",
+   "justificativa": "O esquecimento mostra o que você considerou central e dá acesso às suas fantasias sobre o caso.",
+   "contexto": "Ao revisar mentalmente a sessão.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:33:30"
+  },
+  {
+   "dica": "Distribua a atenção igualmente entre o dramático e o banal.",
+   "justificativa": "Nada tem peso prévio; a falha de linguagem pode estar num detalhe irrelevante.",
+   "contexto": "Relatos que puxam para um tema central forte.",
+   "competencia": "Escuta clínica",
+   "ts": "0:36:05"
+  },
+  {
+   "dica": "Na fenomenologia ou Gestalt, faça a passagem do conteúdo para a forma como pergunta.",
+   "justificativa": "O critério é a concordância do paciente, que tem acesso privilegiado à própria experiência; a leitura deve ser conferida numa dialética de pergunta e resposta.",
+   "contexto": "Ao generalizar um conteúdo ('a escola te ensinou o que não servia?').",
+   "competencia": "Intervenção",
+   "ts": "0:45:29"
+  },
+  {
+   "dica": "Na interpretação psicanalítica, seja taxativo e leve a leitura ao sujeito.",
+   "justificativa": "'Pode ser' não é interpretação; 'o ensino era ruim' diz pouco sobre a pessoa, 'por isso sou burro' faz a retificação subjetiva.",
+   "contexto": "Formulação de hipóteses em escuta psicanalítica.",
+   "competencia": "Interpretação",
+   "ts": "0:47:24"
+  },
+  {
+   "dica": "Considere a quem a frase é dirigida.",
+   "justificativa": "Dita ao terapeuta, uma queixa de descuido vira o recado 'cuida de mim'.",
+   "contexto": "Interpretação de falas em sessão (dimensão transferencial).",
+   "competencia": "Interpretação",
+   "ts": "0:48:41"
+  },
+  {
+   "dica": "Evite perguntas hiperconcretas quando a fala abre uma leitura mais potente.",
+   "justificativa": "Perguntar 'como era a sua escola?' mantém o atendimento num nível muito básico.",
+   "contexto": "Quando o conteúdo parece óbvio.",
+   "competencia": "Intervenção",
+   "ts": "1:12:21"
+  },
+  {
+   "dica": "Na psicanálise, leia raiva e incômodo como possíveis sinais de acerto; na fenomenologia, busque concordância.",
+   "justificativa": "Os critérios de validação diferem entre as abordagens: resistência indica aproximação num caso, concordância valida no outro.",
+   "contexto": "Ao avaliar o efeito de uma intervenção.",
+   "competencia": "Interpretação",
+   "ts": "1:13:18"
+  },
+  {
+   "dica": "Quando todas as linhas de investigação travam, examine o próprio travamento.",
+   "justificativa": "A resistência pode ser a chave hermenêutica.",
+   "contexto": "Casos ou sonhos que 'não chegam a lugar nenhum'.",
+   "competencia": "Interpretação",
+   "ts": "1:14:59"
+  },
+  {
+   "dica": "Não se perca explorando as próprias fantasias quando estiver fazendo psicanálise.",
+   "justificativa": "Você deixa de esperar a quebra de linguagem e 'aprofunda nas suas próprias loucuras'; em lógicas hillmanianas ou de campo isso seria legítimo.",
+   "contexto": "Quando surge uma imagem pessoal forte durante a escuta.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:58:54"
+  },
+  {
+   "dica": "Ao ampliar o material com literatura ou casos parecidos, volte sempre ao material original.",
+   "justificativa": "Se abandona o texto do paciente, não há interpretação (crítica de Jung ao método freudiano).",
+   "contexto": "Uso de imagens, poemas e referências externas.",
+   "competencia": "Interpretação",
+   "ts": "1:06:55"
+  },
+  {
+   "dica": "Aponte o ato falho sem inventar um sentido por trás dele e corte a sessão.",
+   "justificativa": "Dar sentido ou deixar o paciente explicar convida a racionalização e 'fecha o basculante' do inconsciente.",
+   "contexto": "Referencial lacaniano.",
+   "competencia": "Intervenção",
+   "ts": "1:54:33"
+  },
+  {
+   "dica": "Resista à tentação hermenêutica: mantenha a atenção flutuando até aparecer uma falha na linguagem.",
+   "justificativa": "Dar sentido imediato coloniza a experiência com linguagem e impede o inconsciente de aparecer.",
+   "contexto": "Falas que convidam a um tema óbvio (pais, grito, drogas).",
+   "competencia": "Escuta clínica",
+   "ts": "1:50:32"
+  },
+  {
+   "dica": "Gere hipóteses primeiro e avalie depois.",
+   "justificativa": "Interpretar exige criatividade; dá para gerar hipóteses sem conhecer a pessoa, e qualificá-las é outra etapa.",
+   "contexto": "Estudo de caso, supervisão, treino.",
+   "competencia": "Formulação de caso",
+   "ts": "1:22:17"
+  },
+  {
+   "dica": "Use as teorias como aceleradores, reconhecendo padrões de casos.",
+   "justificativa": "Sem teoria seria preciso inventar uma do zero para cada caso; reconhecer 'uma fenomenologia adleriana' já direciona a clínica.",
+   "contexto": "Sempre, sabendo que o ideal é ir além delas.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:17:49"
+  },
+  {
+   "dica": "Treine escuta fora do consultório, com amigos, parceiro e colegas.",
+   "justificativa": "A técnica só se torna natural pela repetição (metáfora da marcha), e técnica de escuta não precisa ser anunciada.",
+   "contexto": "Formação contínua.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:13:40"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Ser menos robótico é excesso de técnica, não falta dela.",
+   "argumento": "Como a marcha do carro, a técnica repetida à exaustão deixa de ser uma questão; só quem a domina pode descartá-la e desenvolver um estilo.",
+   "contraponto": "A ideia de que técnica robotiza a clínica e de que humanização dispensa treino.",
+   "implicacao": "Treinar técnicas de forma deliberada e repetitiva, inclusive fora da clínica.",
+   "quem": "Alan",
+   "ts": "0:13:40"
+  },
+  {
+   "tese": "A psicologia é, no fundo, uma ciência interpretativa (hermenêutica).",
+   "argumento": "Nenhum sistema se sustenta sozinho; as ciências humanas eram chamadas ciências hermenêuticas porque direito, história e psicologia compartilham a interpretação como base.",
+   "contraponto": "Cursos que apresentam a psicologia colonizada pela medicina, pela linguística ou pela história.",
+   "implicacao": "Formar-se em interpretação inclui ler bons textos, história e direito.",
+   "quem": "Alan",
+   "ts": "0:07:42"
+  },
+  {
+   "tese": "O objetivo da formação é abandonar técnicas e estilo e fazer interpretação de verdade.",
+   "argumento": "A técnica é treino de sombra e o estilo é inclinação muitas vezes inconsciente; só a interpretação responde ao caso real.",
+   "contraponto": "Sem passar pelas técnicas não se chega lá ('se você não entendeu como faz um dó, não produz arte').",
+   "implicacao": "Estudar técnicas sem se apegar nem hierarquizá-las cedo demais.",
+   "quem": "Alan",
+   "ts": "0:10:19"
+  },
+  {
+   "tese": "Trocar a fala pela intenção é o erro de escuta mais frequente e o menos percebido.",
+   "argumento": "Parece escuta empática, mas apaga o fenômeno; na fenomenologia não têm primazia nem a fantasia do terapeuta nem a do paciente.",
+   "contraponto": "",
+   "implicacao": "Registrar e devolver a letra; perguntar em vez de traduzir.",
+   "quem": "Alan",
+   "ts": "0:26:09"
+  },
+  {
+   "tese": "A psicanálise não aprofunda: é uma escuta superficial e flutuante.",
+   "argumento": "O contrário de flutuar é afundar; aprofundar (anotar, dar peso, seguir ganchos em cadeia) impede de perceber atos falhos e distúrbios de linguagem.",
+   "contraponto": "A intuição comum de que a psicanálise é a escuta 'profunda'.",
+   "implicacao": "Praticar a atenção uniformemente dividida e não seguir o tema proposto pelo paciente.",
+   "quem": "Alan",
+   "ts": "0:34:45"
+  },
+  {
+   "tese": "O critério de acerto muda com a abordagem: concordância na fenomenologia, resistência na psicanálise.",
+   "argumento": "Na fenomenologia o paciente tem acesso privilegiado à própria mente; na psicanálise a verdade está interdita, e o incômodo sinaliza aproximação.",
+   "contraponto": "",
+   "implicacao": "Saber em que referencial se está antes de interpretar a reação do paciente.",
+   "quem": "Alan",
+   "ts": "1:13:18"
+  },
+  {
+   "tese": "O método freudiano de associação livre não é interpretação em sentido estrito; é uma antihermenêutica.",
+   "argumento": "Jung: partir do sonho e nunca voltar a ele é substituí-lo por outro fato psicológico, como tratar hieróglifos como piada (lusus naturae); Ricoeur e Lacan assumem o caráter antihermenêutico.",
+   "contraponto": "Para o próprio Freud, apesar da chave externa, ele estava interpretando o texto.",
+   "implicacao": "Quem interpreta (no sentido junguiano ou fenomenológico) volta ao material original; quem faz psicanálise assume que analisa o véu, não o conteúdo.",
+   "quem": "Alan (apresentando Jung, Ricoeur e Lacan)",
+   "ts": "1:02:55"
+  },
+  {
+   "tese": "O problema do Freud é que ele é kantiano quando a psicanálise é hegeliana.",
+   "argumento": "Ler o inconsciente como véu com uma realidade atrás (o trauma) é Kant; para Lacan, leitor hegeliano, só existe o retorno do recalcado, e o recalque é produzido no ato analítico, por retroação.",
+   "contraponto": "O 'Freud americanizado', do trauma com consequências secundárias.",
+   "implicacao": "Apontar a falha de linguagem sem atribuir-lhe um sentido escondido.",
+   "quem": "Alan",
+   "ts": "1:55:40"
+  },
+  {
+   "tese": "Lacan faz uma leitura forte, não literal, de Freud.",
+   "argumento": "Jung, que conviveu com o primeiro Freud, descreve um Freud diferente do de Lacan; em Freud a chave hermenêutica é externa, mas a recusa de interpretar só é clara em Lacan.",
+   "contraponto": "Leitores para quem a posição lacaniana já está em Freud.",
+   "implicacao": "Distinguir, ao estudar, o que é de Freud e o que é da leitura lacaniana.",
+   "quem": "Alan",
+   "ts": "1:59:58"
+  },
+  {
+   "tese": "Qualquer ideia terá algum referencial teórico que a sustente, mas isso não a valida.",
+   "argumento": "'Não tem nada tão estúpido que não tenha sido proposto por um psicólogo'; algumas possibilidades são mais ricas e potentes que outras.",
+   "contraponto": "",
+   "implicacao": "Ter um autor que endosse uma prática não basta como justificativa.",
+   "quem": "Alan",
+   "ts": "0:58:54"
+  },
+  {
+   "tese": "Fazer uma clínica OK é fácil; fazer uma clínica muito, muito boa é quase impossível.",
+   "argumento": "A maioria das pessoas se beneficia de um pouco de direção (qualquer filosofia de vida bem estruturada); a excelência exige interpretação de verdade.",
+   "contraponto": "",
+   "implicacao": "Dominar bem uma teoria já faz um bom clínico; o ideal (uma teoria por caso) é para quem busca mais.",
+   "quem": "Alan",
+   "ts": "1:20:01"
+  },
+  {
+   "tese": "Teorias são aceleradores interpretativos.",
+   "argumento": "Como potência → multiplicação → adição, a teoria poupa o trabalho de inventar do zero a compreensão de cada caso.",
+   "contraponto": "",
+   "implicacao": "Hierarquia: inventar teoria por caso > conhecer muitas e escolher > dominar uma bem.",
+   "quem": "Alan",
+   "ts": "1:17:49"
+  },
+  {
+   "tese": "Escuta e interpretação são o tema mais central e mais difícil da formação, e a maioria vai direto à teoria.",
+   "argumento": "Em avaliações de 20 minutos de roleplay, a nota de interpretação quase nunca sai alta.",
+   "contraponto": "",
+   "implicacao": "Humildade e treino exaustivo dos fundamentos.",
+   "quem": "Alan",
+   "ts": "1:15:58"
+  },
+  {
+   "tese": "A maioria das pessoas é kantiana, e por isso a filosofia contemporânea (hegeliana, antihermenêutica) parece incompreensível.",
+   "argumento": "Quem crê numa realidade atrás do véu não concebe teses como 'cultura antes da natureza' (Butler); as doutrinas contemporâneas não buscam mais sentido nas coisas.",
+   "contraponto": "",
+   "implicacao": "Estudar a passagem de Kant a Hegel como 'aula um' para ler Lacan, Marx, Butler e Žižek.",
+   "quem": "Alan",
+   "ts": "2:02:03"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Escuta, no fundo, é um fenômeno só.",
+   "tema": "Escuta",
+   "ts": "0:00:02"
+  },
+  {
+   "texto": "Ser mais humanizado, ser menos robótico, não é falta de técnica, é excesso de técnica.",
+   "tema": "Técnica e formação",
+   "ts": "0:13:40"
+  },
+  {
+   "texto": "O vocabulário que a gente usa, as hipóteses que a gente tem, nunca são inócuos.",
+   "tema": "Escuta sem projeção",
+   "ts": "0:18:43"
+  },
+  {
+   "texto": "Existe uma diferença entre aquilo que a gente realmente fala e a nossa intenção ao falar.",
+   "tema": "Fala e intenção",
+   "ts": "0:25:02"
+  },
+  {
+   "texto": "Esquecimento é uma função hermenêutica.",
+   "tema": "Atenção flutuante",
+   "ts": "0:33:30"
+  },
+  {
+   "texto": "Psicanálise não aprofunda. Psicanálise é uma escuta superficial, flutuante.",
+   "tema": "Escuta psicanalítica",
+   "ts": "0:34:45"
+  },
+  {
+   "texto": "Apesar de serem simples exercícios, eles não são fáceis de executar. Humildade é necessária.",
+   "tema": "Formação",
+   "ts": "0:37:05"
+  },
+  {
+   "texto": "Não tem nada tão estúpido que não tenha sido proposto por um psicólogo.",
+   "tema": "Crítica teórica",
+   "ts": "0:58:54"
+  },
+  {
+   "texto": "Essas técnicas são aceleradores interpretativos.",
+   "tema": "Teoria e interpretação",
+   "ts": "1:17:49"
+  },
+  {
+   "texto": "Ao mesmo tempo que a boa clínica é quase impossível de fazer, não dá muito trabalho ajudar sem muita elegância.",
+   "tema": "Clínica",
+   "ts": "1:19:53"
+  },
+  {
+   "texto": "A gente precisa ter criatividade para gerar hipótese. Só depois a gente se preocupa em qualificá-las.",
+   "tema": "Formulação de hipóteses",
+   "ts": "1:22:17"
+  },
+  {
+   "texto": "Em vez de olhar através do véu, você olha no véu.",
+   "tema": "Hegel e antihermenêutica",
+   "ts": "1:39:56"
+  },
+  {
+   "texto": "O convite é não cair na tentação hermenêutica.",
+   "tema": "Escuta lacaniana",
+   "ts": "1:50:32"
+  },
+  {
+   "texto": "O problema do Freud é que ele é kantiano quando a psicanálise é hegeliana.",
+   "tema": "Freud e Lacan",
+   "ts": "1:55:40"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Tímida ou calada? Uma palavra muda o caso inteiro.",
+   "mensagem": "O vocabulário do terapeuta nunca é inócuo: devolver as palavras exatas do paciente evita projetar nossas hipóteses.",
+   "roteiro": [
+    "Slide 1: 'Tímida' ou 'calada'?",
+    "Slide 2: tímida é qualidade do sujeito; calada supõe algo que cala",
+    "Slide 3: outros pares (assustada × com medo; refletindo × percebendo)",
+    "Slide 4: o exercício: repita exatamente o que o outro disse",
+    "Slide 5: fala × intenção: o erro mais comum",
+    "Slide 6: treine com amigos, sem anotar"
+   ],
+   "corte_inicio": "0:17:37",
+   "corte_fim": "0:18:43"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "O exercício de escuta que quase ninguém consegue fazer.",
+   "mensagem": "Repetir literalmente o que alguém disse é simples de entender e dificílimo de executar; é assim que treinamos escuta nos grupos.",
+   "roteiro": [
+    "Cena 1: consigna do exercício",
+    "Cena 2: por que é difícil (projetamos nosso vocabulário)",
+    "Cena 3: convite para os grupos"
+   ],
+   "corte_inicio": "0:17:12",
+   "corte_fim": "0:18:43"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Ser menos robótico é excesso de técnica.",
+   "mensagem": "Como a marcha do carro, a técnica repetida à exaustão deixa de ser uma questão e libera a espontaneidade.",
+   "roteiro": [
+    "Frase central",
+    "Legenda com a metáfora da marcha"
+   ],
+   "corte_inicio": "0:13:40",
+   "corte_fim": "0:14:36"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Por que a psicanálise NÃO aprofunda.",
+   "mensagem": "Atenção flutuante é o contrário de afundar; o psicanalista não anota, e na fenomenologia vale a concordância enquanto na psicanálise vale a resistência.",
+   "roteiro": [
+    "Slide 1: 'Psicanálise é uma escuta superficial'",
+    "Slide 2: flutuar × afundar",
+    "Slide 3: atenção uniformemente dividida",
+    "Slide 4: Freud: psicanalista não anota",
+    "Slide 5: fenomenologia (concordância) × psicanálise (resistência)"
+   ],
+   "corte_inicio": "0:33:13",
+   "corte_fim": "0:36:05"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Você deveria parar de anotar durante a sessão?",
+   "mensagem": "Para Freud, o esquecimento é uma função interpretativa: o que você esquece fala das suas fantasias sobre o caso.",
+   "roteiro": [
+    "Cena 1: pergunta provocativa",
+    "Cena 2: anotar dá peso ao que parece central",
+    "Cena 3: 'por que esqueci justo isso?'"
+   ],
+   "corte_inicio": "0:32:13",
+   "corte_fim": "0:34:32"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Jung x Freud: interpretar é voltar ao texto.",
+   "mensagem": "Para Jung, associar livremente a partir do sonho e nunca voltar a ele não é interpretação; é como supor que os hieróglifos são uma piada.",
+   "roteiro": [
+    "Slide 1: a briga",
+    "Slide 2: o sonho que vira pai, Deus, gigante asteca...",
+    "Slide 3: a piada dos hieróglifos",
+    "Slide 4: lusus naturae",
+    "Slide 5: lição: amplie, mas volte ao material original"
+   ],
+   "corte_inicio": "1:01:43",
+   "corte_fim": "1:06:55"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Teoria é acelerador, não fim.",
+   "mensagem": "Teorias aceleram a interpretação como a potência acelera a multiplicação; ideal: teoria nova por caso; mínimo: dominar uma bem.",
+   "roteiro": [
+    "Slide 1: potência → multiplicação → adição",
+    "Slide 2: teoria como acelerador",
+    "Slide 3: a hierarquia do ideal clínico",
+    "Slide 4: fazer OK é fácil, muito bom é quase impossível"
+   ],
+   "corte_inicio": "1:17:49",
+   "corte_fim": "1:20:55"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "A pintura do véu: a história grega que explica Lacan.",
+   "mensagem": "Zêuxis e Parrásio mostram a virada de Kant para Hegel: não há nada atrás do véu, e o psicanalista analisa o próprio véu.",
+   "roteiro": [
+    "Cena 1: a disputa dos pintores",
+    "Cena 2: as uvas e os pássaros",
+    "Cena 3: o véu pintado",
+    "Cena 4: olhar no véu, não através dele"
+   ],
+   "corte_inicio": "1:34:52",
+   "corte_fim": "1:38:05"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Associação livre, atenção flutuante/uniformemente dividida, 'psicanalista não anota', exemplo do 'é a mamãe'; criticado por Jung; 'kantiano quando a psicanálise é hegeliana'."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Psicanálise como antihermenêutica; o recalcado é indiferente ao retorno do recalcado; inconsciente como espaço entre dois significantes; corte da sessão; anedota da Gestapo."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Crítica ao método freudiano como não interpretativo (Obras Completas vol. 18/1), lusus naturae, piada dos hieróglifos; valor da concordância e do retorno ao material original."
+  },
+  {
+   "nome": "Paul Ricoeur",
+   "contexto": "Hermenêutica da desconfiança (suspeita); segundo Alan, caracteriza o método freudiano como antihermenêutica."
+  },
+  {
+   "nome": "James Hillman",
+   "contexto": "Contraponto a Freud: a fantasia do terapeuta é central; a cura como transformação do sintoma em poesia."
+  },
+  {
+   "nome": "Immanuel Kant",
+   "contexto": "Crítica da Razão Pura; mundo em fenômeno, antinomia (véu) e númeno; a maioria das pessoas modernas é kantiana."
+  },
+  {
+   "nome": "G. W. F. Hegel",
+   "contexto": "Dialética especular (A-B-B-A); não há nada atrás do véu; base para ler Lacan, Marx e a filosofia contemporânea."
+  },
+  {
+   "nome": "Arthur Schopenhauer",
+   "contexto": "Piada (atribuída por Alan) de que Kant, ao trair a esposa num baile de máscaras, estava com ela o tempo todo: Kant restitui a metafísica."
+  },
+  {
+   "nome": "Jacques-Alain Miller",
+   "contexto": "O inconsciente existe no ato analítico; não cortar é 'fechar o basculante'."
+  },
+  {
+   "nome": "Slavoj Žižek",
+   "contexto": "Violência: tentação hermenêutica; leitura de Lacan como hegeliano."
+  },
+  {
+   "nome": "Judith Butler",
+   "contexto": "Problemas de gênero: cultura antes da natureza, exemplo de pensamento hegeliano que parece absurdo a kantianos."
+  },
+  {
+   "nome": "Karl Marx",
+   "contexto": "Como Freud, mal lido quando se busca um segredo por trás; analisa-se a estrutura do capital."
+  },
+  {
+   "nome": "Alfred Adler",
+   "contexto": "Exemplo de teoria como acelerador ('esse caso tem uma fenomenologia adleriana')."
+  },
+  {
+   "nome": "Friedrich Nietzsche",
+   "contexto": "Anedota de Freud recusando ler Nietzsche para não deixar de ser original."
+  },
+  {
+   "nome": "Platão",
+   "contexto": "Alegoria da caverna, usada por uma participante; Platão no grupo dos que acham possível sair da caverna."
+  },
+  {
+   "nome": "Aristóteles",
+   "contexto": "Citado entre os pré-kantianos e como moral suficiente para a maioria das pessoas."
+  },
+  {
+   "nome": "Martin Heidegger",
+   "contexto": "Citado com a fenomenologia entre os que acham possível conhecer as coisas em si."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (grupo do Alan)",
+  "objetivo": "Desenvolver competências clínicas (aqui, escuta e interpretação) por meio de teoria curta, exercícios práticos e feedback do facilitador; esta série parte da técnica rumo à interpretação de verdade.",
+  "publico": "Psicólogos e estudantes de psicologia de abordagens variadas.",
+  "tamanho": "Grupo online com número indeterminado de participantes (vários no chat; ao final, 4 restantes).",
+  "duracao": "Grupos de 1h30 a 2h; este encontro durou 2h14 e passou mais de 20 min do horário estendido.",
+  "estrutura_padrao": "Abertura com mapa do tema; explicação teórica rápida de cada técnica; exercício prático (presencialmente em trios rotativos com observador; online, demonstração com voluntários e respostas no chat); feedback e síntese do facilitador; tarefa de praticar fora; fechamento com consulta ao grupo.",
+  "papel_facilitador": "Expõe a teoria, conduz as demonstrações, corrige em tempo real e em escada, transforma erros em material, faz parênteses comparativos entre abordagens, sintetiza o chat e replaneja a série com o grupo.",
+  "regras_combinados": "Pontualidade; câmeras ligadas; não anotar nos exercícios de escuta; quem conhece o exemplo não dá a resposta; praticar fora do grupo; encontros gravados e disponibilizados no drive."
+ },
+ "reflexoes_do_facilitador": [
+  "Reconhece que a adaptação dos trios presenciais para o online ainda não está resolvida ('depois eu aprendo como é que faço isso para as próximas') e que dividir em grupinhos gasta mais tempo.",
+  "No presencial não daria às pessoas a opção de escolher participar: olharia para alguém até a pessoa aceitar, pois na roda há mais pressão.",
+  "Percebe que interromper o repetidor atrapalha a memória dele e decide deixá-lo terminar antes de comentar.",
+  "Admite ter gastado muito mais tempo do que era razoável no parêntese sobre Hillman e Jung.",
+  "Admite não ter lido parte do chat ('eu sou preguiçoso').",
+  "Explica que usa exemplos agressivos para serem memoráveis e que é uma pessoa um pouco agressiva ao atender, mas que isso não é o que precisa ser feito.",
+  "Diz estar se segurando para não fazer juízo de valor entre abordagens nesse momento.",
+  "Comenta que as notas automáticas da gravação ficam um pouco ruins porque ele faz muitos parênteses.",
+  "Assume a culpa pelo atraso ('todo mundo já foi embora e a culpa é minha') e reconhece que não deu tempo de fazer o exercício lacaniano.",
+  "Fica em dúvida entre acelerar o ritmo ou aprofundar mais cada escola e consulta os participantes.",
+  "Observa que, ao avaliar pessoas, a nota de interpretação raramente sai alta, especialmente em roleplays de 20 minutos.",
+  "Considera o grupo 'um pouco provocativo' de propósito e normaliza a sensação de não entender."
+ ],
+ "referencias_a_outros_encontros": [
+  "Primeiro de uma série sobre escuta, interpretação e hermenêutica que vai da técnica ao estilo e à interpretação de verdade.",
+  "O nível do estilo inclui os esquemas de aprofundamento, a serem vistos em momento futuro (ver Alan 06 - Esquemas de aprofundamento).",
+  "Menciona a dinâmica dos poemas feita na semana anterior e o uso de literatura (Crime e Castigo) para um caso trabalhado nela.",
+  "Diz que a primeira dinâmica da história dos grupos, há 4 a 6 anos, foi a interpretação coletiva de um sonho num grupo ainda teórico.",
+  "Remete a aulas gravadas sobre Hegel e sobre interpretação (segunda parte das aulas de interpretação).",
+  "Exercício de escuta lacaniana adiado para o encontro seguinte; Alan 09 - Escuta em psicanálise começa retomando a discussão Kant/Hegel e a antihermenêutica.",
+  "Escolas pendentes anunciadas: Lacan, análise do comportamento, TCC clássica, escuta provocativa, sistêmica (ver Alan 10 - Escuta em sistêmica) e formas de aprofundar.",
+  "Alan também quer trabalhar depois a diferença entre gerar hipóteses e avaliar se são boas."
+ ],
+ "observacoes": "Apesar do título 'Escuta em fenomenologia', só cerca de 15 minutos tratam da escuta humanista e fenomenológica; a maior parte do encontro é sobre escuta psicanalítica (Freud e Lacan) e seus fundamentos filosóficos (Kant, Hegel). No relato do exercício 1, a legenda registra 'se entender por meio desses desafios', mas Alan aponta como ato falho a formulação 'se entender como um desafio'; não é possível verificar a palavra exata pela transcrição automática. Nomes incertos na legenda: 'Farázios/Zígos' = Parrásio e Zêuxis (na fala, os papéis aparecem invertidos em relação à versão clássica); 'riumaniana' = hillmaniana; 'lusus natury' = lusus naturae; 'natlichlish/Efredku' = Nachträglichkeit/après-coup; 'The Luz' possivelmente Deleuze (?); 'a gamba' possivelmente Agamben (?); Alan chama Jacques-Alain Miller de 'cunhado' de Lacan (é genro). Uma terapeuta da Allos citada como exemplo de intervenção com abraço aparece como 'Camila/Camilo' (?). A frase sobre drogas na escola vem de um roleplay antigo; a frase dos pais foi proposta por uma participante como hipótese; o exemplo tímida/calada é de uma primeira sessão contada por um ex-professor de Alan, descrita sem dados identificáveis. Houve um exemplo de relato de violência grave ('a cor do sofá') que foi mantido genérico. Participantes foram anonimizados."
+}

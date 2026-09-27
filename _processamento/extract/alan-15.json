@@ -1,0 +1,932 @@
+{
+ "id": "alan-15",
+ "nota": "Alan 15 - Priorização clínica 2",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Priorização clínica 2",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Alan retoma os aprimoramentos básicos para trabalhar interpretação, começando pela priorização na escuta: diante dos vários fenômenos de uma fala do paciente, qual escolher para perguntar, pontuar, interpretar ou intervir. Enquadra a atividade como exercício de prática deliberada de tomada de consciência (e não treino ou desafio), sem a pretensão de ensinar a forma correta de priorizar. Na primeira metade, o grupo constrói uma lista abstrata de critérios de priorização (gravidade, centralidade, mantenedores, encaixe e desencaixe com a teoria, não-dito, contexto, contradição, estranheza, opinião do paciente, máximas psicológicas, insuficiências/unilateralidade, questões do terapeuta, metáforas), que Alan agrupa em macrocategorias, criticando ou defendendo cada uma e acrescentando o vício da última fala, a hierarquia de Judith Beck, o critério do mais fácil e o de sentido e valores. Na segunda metade, Alan faz o papel de paciente em três vinhetas simuladas; um voluntário responde e o grupo tenta adivinhar qual critério o colega usou, propondo focos alternativos. No fechamento, afirma que a melhora vem da replicação do exercício na vida e propõe monitorias individuais de prática deliberada.",
+ "em_uma_frase": "Antes de decidir o que dizer, o terapeuta decide o que escutar como mais importante; o encontro torna consciente essa priorização, com um mapa coletivo de critérios e vinhetas em que o grupo adivinha o critério que cada colega usou.",
+ "competencias": [
+  "Priorização clínica",
+  "Escuta clínica",
+  "Interpretação",
+  "Intervenção",
+  "Construção frasal",
+  "Articulação teoria-prática",
+  "Relação terapêutica",
+  "Pessoa do terapeuta",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicanálise freudiana",
+  "Psicologia analítica junguiana",
+  "Terapia cognitivo-comportamental"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:06",
+   "bloco": "Abertura",
+   "descricao": "Tema do dia (priorização), motivação (falta de interpretação no ciclo anterior; ligação com o grupo de hermenêutica), distinção entre priorização do caso e priorização na escuta, anúncio do formato (breve parte teórica e depois exercício).",
+   "funcao": "Situar e recortar a habilidade.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:02:16",
+   "bloco": "Teoria",
+   "descricao": "Tipos de exercício de prática deliberada (tomada de consciência, treino, desafio), com exemplos corporais (atender sem palavras; máscara facial). Os dois resultados esperados do dia.",
+   "funcao": "Ajustar a expectativa: perceber, não corrigir.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:05:02",
+   "bloco": "Rodada de respostas",
+   "descricao": "Lista I: gravidade (critério empático), centralidade (repetição), mantenedores. Separação entre critério e mecanismo; crítica ou ode a cada posição.",
+   "funcao": "Mostrar que todo critério carrega uma teoria implícita.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:13:32",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Encaixe fenômeno–teoria (TCC: fobia específica antes do amor); psicanálise: não-dito, atenção flutuante, falha do discurso, ato falho, hermenêutica da desconfiança.",
+   "funcao": "Mostrar cada teoria como critério de priorização.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:18:34",
+   "bloco": "Rodada de respostas",
+   "descricao": "Lista II: corpo, entonação e intensidade agrupados em contexto (e proibidos daí em diante); contradição (criticada); estranheza; construção frasal agrupada em opinião do paciente.",
+   "funcao": "Ampliar o repertório e forçar diversidade.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:28:41",
+   "bloco": "Rodada de respostas",
+   "descricao": "Lista III: contrário da intenção, desencaixe da teoria, o que foge da hipótese anterior, paralelos e adaptação ao ambiente (reclassificados como teoria). Timebox de 8 minutos.",
+   "funcao": "Refinar categorias e fazer crítica entre pares.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:35:40",
+   "bloco": "Rodada de respostas",
+   "descricao": "Lista IV: questões do próprio terapeuta, o que o paciente diz do outro (máximas psicológicas), concreto/abstrato (insuficiências), lista de um participante junguiano (relação, símbolos, tempo de fala, autodefinição, rigidez/unilateralidade, passado/futuro).",
+   "funcao": "Fechar o mapa e distinguir o quê do como.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:45:36",
+   "bloco": "Feedback",
+   "descricao": "Elogio à criatividade clínica do grupo; diagnóstico: a intervenção vai bem, a interpretação e a relação terapêutica são pontos fracos.",
+   "funcao": "Reforço positivo antes do exercício.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:46:30",
+   "bloco": "Teoria",
+   "descricao": "Complementos do facilitador: vício da última fala, hierarquia de Judith Beck, o mais fácil ou o que sei resolver, sentido e valores.",
+   "funcao": "Completar o mapa e prevenir vícios esperados.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:52:10",
+   "bloco": "Combinados",
+   "descricao": "Regras das vinhetas: uma pessoa responde, as demais escrevem no chat ou abrem o microfone; não é a maneira correta de priorizar, é protointerpretação e tomada de consciência.",
+   "funcao": "Deixar claro o objetivo do exercício.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:53:44",
+   "bloco": "Dinâmica",
+   "descricao": "Vinheta 1 (arco e flecha agridoce): um novato responde; parêntese de construção frasal (autocorreção indica falta de silêncio); os pares adivinham o critério (estranheza × contexto emocional); foco alternativo; um participante trava e Alan simplifica a pergunta.",
+   "funcao": "Tornar visível a escolha intuitiva e lê-la entre pares.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "1:04:08",
+   "bloco": "Dinâmica",
+   "descricao": "Vinheta 2 (prova de direção e verdade), com o mesmo participante: foco na confusão/contradição; Alan mostra caminhos não vistos e três hipóteses de estratégia; outros propõem a metáfora do volante, a conexão entre o avô e as pessoas e 'levam a sério você ou a mentira?'.",
+   "funcao": "Repetir com a mesma pessoa para ver o padrão; contrastar estratégias.",
+   "duracao_min": 13
+  },
+  {
+   "ts": "1:17:12",
+   "bloco": "Dinâmica",
+   "descricao": "Retomada da vinheta 1: intervenção sobre 'o preço da felicidade'; crítica à dupla articulação; a estratégia é lida como máxima da troca equivalente; digressão sobre Frazer (sacrifício e tempo).",
+   "funcao": "Mostrar que estratégias fora da caixa ainda cabem nas categorias.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:24:19",
+   "bloco": "Dinâmica",
+   "descricao": "Vinheta 3 (dúvida sobre uma prática sexual e a opinião dos amigos): uma nova participante responde; os pares divergem entre centralidade e relação com o outro; Alan arbitra e a autora confirma.",
+   "funcao": "Distinguir critérios que coincidem por acaso.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:31:24",
+   "bloco": "Fechamento",
+   "descricao": "Cerca de 1h40 de grupo; três objetivos (priorização importa, consciência, replicação); ideia de monitoria individual de prática deliberada; tarefa de replicar o exercício na vida.",
+   "funcao": "Levar a prática para fora do grupo.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Critérios de priorização",
+   "definicao": "Formas pelas quais o terapeuta decide qual dos fenômenos de uma fala merece atenção (pergunta, pontuação, interpretação, intervenção). Cada critério tem um 'o quê' (o que é prioritário) e um 'como' (mecanismo de identificação). A lista pode chegar a 'cem itens'.",
+   "exemplo": "Gravidade, centralidade, mantenedores, encaixe na teoria, não-dito, contexto, contradição, estranheza, opinião do paciente, máximas, insuficiências, Judith Beck, o mais fácil, valores.",
+   "abordagem": "",
+   "ts": "0:27:47"
+  },
+  {
+   "nome": "Protointerpretação",
+   "definicao": "Nome que Alan dá à priorização: a escolha do foco antes da intervenção, que já traz uma intuição forte de qual é a intervenção razoável. Ainda não é interpretação 'de verdade'.",
+   "exemplo": "Priorizar um mantenedor ambiental deixa óbvio o que fazer: tirar aquilo do ambiente ou tirar a pessoa do ambiente.",
+   "abordagem": "",
+   "ts": "0:12:27"
+  },
+  {
+   "nome": "Exercício de tomada de consciência",
+   "definicao": "Tipo de exercício de prática deliberada, simples, que torna visível algo feito intuitivamente. Diferencia-se do treino (repetição dirigida de uma sub-habilidade) e do desafio (restrição que força a perceber algo).",
+   "exemplo": "Desafio: atender sem usar palavras. Treino: receber uma emoção e transmiti-la pela máscara facial, como no teatro.",
+   "abordagem": "",
+   "ts": "0:02:16"
+  },
+  {
+   "nome": "Critério e mecanismo de identificação",
+   "definicao": "Distinção que Alan usa para organizar as respostas: o critério diz o que é prioritário (o mais grave, o central); o mecanismo diz como reconhecê-lo (empatia, repetição, o que o paciente diz dos outros).",
+   "exemplo": "'O que se repete' é mecanismo; o critério por trás é a centralidade.",
+   "abordagem": "",
+   "ts": "0:07:27"
+  },
+  {
+   "nome": "Atenção flutuante",
+   "definicao": "No método freudiano, atenção uniformemente suspensa, para a qual tudo no discurso do paciente tem igual relevância; o analista não deve aprofundar tema nenhum a partir do próprio discurso. Base da priorização pelo não-dito.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:16:23"
+  },
+  {
+   "nome": "Hermenêutica da suspeita",
+   "definicao": "Alan diz 'hermenêutica da desconfiança' e a atribui a Žižek: a verdade do discurso aparece em sua falha, e a chave do tesouro sempre está onde você não está olhando.",
+   "exemplo": "Ato falho como critério para aprofundar um tema.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:17:33"
+  },
+  {
+   "nome": "Ato falho",
+   "definicao": "Momento em que a linguagem falha e o inconsciente aparece; na psicanálise, sinal de onde aprofundar.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:17:33"
+  },
+  {
+   "nome": "Apontamento de contradição",
+   "definicao": "Priorizar incoerências do discurso do paciente. Alan critica: é barato, surpreende o paciente, mas raramente dá intervenção ou direção de tratamento e vira muleta. Bem usado, pode ser potente.",
+   "exemplo": "Na vinheta 2, nomear a tensão entre não querer mentir e querer se proteger do julgamento.",
+   "abordagem": "",
+   "ts": "0:19:53"
+  },
+  {
+   "nome": "Estranhamento",
+   "definicao": "Priorizar o que soa estranho é o modo mais natural e 'pouco clínico' de escutar no cotidiano; a clínica pode ainda produzir estranheza de propósito, com perguntas inesperadas, para tirar a pessoa de um personagem.",
+   "exemplo": "Perguntar sobre a palavra 'agridoce' na vinheta 1.",
+   "abordagem": "",
+   "ts": "0:24:33"
+  },
+  {
+   "nome": "Opinião do paciente",
+   "definicao": "Critério de priorizar o que o próprio paciente considera importante, indicado pela construção frasal (o que vem no início da frase ou do parágrafo) ou pela resposta a 'por que você veio?'. Pode ser explícita ou precisar ser construída dialeticamente.",
+   "exemplo": "'Vim porque não suporto mais minha sobrinha'.",
+   "abordagem": "",
+   "ts": "0:26:44"
+  },
+  {
+   "nome": "Encaixe entre fenômeno e teoria",
+   "definicao": "O encaixe entre o fenômeno observado e a teoria do terapeuta funciona como critério de priorização: se encaixa, já sei como agir. O avesso é priorizar o desencaixe, que 'não é genericamente útil, mas quando é, é muito importante'.",
+   "exemplo": "Em TCC clássica, priorizar uma fobia específica antes da questão amorosa que ela atrapalha.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:15:21"
+  },
+  {
+   "nome": "Máximas clínicas",
+   "definicao": "Alan fala em 'máximas psicológicas': truísmos que orientam a escuta e servem de critério de priorização. Ele recomenda um vídeo seu sobre o tema.",
+   "exemplo": "'O que digo do outro, digo de mim'; 'tudo que sobe desce'; 'não existe perda de energia'; 'só há ganho com troca equivalente'.",
+   "abordagem": "",
+   "ts": "0:37:50"
+  },
+  {
+   "nome": "Insuficiências do paciente",
+   "definicao": "Macrocategoria para aquilo que o paciente não consegue fazer e a terapia pode ajudar a compensar, por confronto dialético, experimento etc.",
+   "exemplo": "Não conseguir passar do concreto ao abstrato; catastrofizar.",
+   "abordagem": "",
+   "ts": "0:40:55"
+  },
+  {
+   "nome": "Unilateralidade",
+   "definicao": "Termo junguiano: tendência a um só lado; priorizar e corrigir as unilateralidades do paciente, já que pessoas muito unilaterais tendem a ser pouco saudáveis (há raros casos de pessoas saudavelmente desadaptadas).",
+   "exemplo": "Rigidez; foco excessivo no passado ou no futuro.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:44:30"
+  },
+  {
+   "nome": "Metáfora do paciente",
+   "definicao": "Imagem espontânea trazida pelo paciente que condensa uma repetição do relato; priorizá-la é respeitar sua potência simbólica. Jung (símbolo conciliador) e a ACT dão centralidade à metáfora.",
+   "exemplo": "'Como é para você não tomar o volante da sua vida?' na vinheta da prova de direção.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:12:14"
+  },
+  {
+   "nome": "Vício da última fala",
+   "definicao": "Hábito de retomar sempre o último fenômeno de uma longa série, por reflexo de conversa comum e não por hipótese clínica. A coincidência é aceitável; o padrão cristalizado deve ser quebrado.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:46:30"
+  },
+  {
+   "nome": "Hierarquia de prioridades de Judith Beck",
+   "definicao": "Primeiro o risco de suicídio, depois problemas com o tratamento, depois o resto. Alan lê essa hierarquia como proteção do tratamento (sem paciente vivo e que volte não há terapia), não como escala de gravidade.",
+   "exemplo": "",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:48:27"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "O 'motor do tratamento'; possíveis rompimentos da relação têm prioridade máxima na leitura de Alan sobre Judith Beck.",
+   "exemplo": "",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:49:08"
+  },
+  {
+   "nome": "Dupla articulação",
+   "definicao": "Intervenção que junta duas ideias numa frase; sinal de má construção frasal. 'Se a sua intervenção não é óbvia para o paciente, provavelmente não está bem articulada.'",
+   "exemplo": "'Qual o preço da felicidade, ou de ficar bom a ponto de perder a graça?'",
+   "abordagem": "",
+   "ts": "1:18:16"
+  },
+  {
+   "nome": "Silêncio clínico",
+   "definicao": "Esperar alguns segundos antes de intervir; indicado quando o terapeuta se corrige com frequência no meio da intervenção, porque organiza a fala e reduz a ansiedade de responder.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:56:49"
+  },
+  {
+   "nome": "Pensamento mágico",
+   "definicao": "Raciocínio primitivo de troca ('só há ganho com sacrifício'). Pela tese de Frazer citada por Alan, a noção primitiva de sacrifício é o que o sujeito moderno chama de tempo (trocar o hoje pelo amanhã).",
+   "exemplo": "Ritual de sacrifício no primeiro acendimento da fornalha de fundição, relatado por Frazer.",
+   "abordagem": "",
+   "ts": "1:21:35"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Lista de critérios de priorização",
+   "objetivo": "Ampliar e tornar consciente o repertório de critérios de priorização na escuta antes da prática, combatendo a escuta unilateral e dando flexibilidade à imaginação clínica.",
+   "competencias": [
+    "Priorização clínica",
+    "Escuta clínica",
+    "Articulação teoria-prática"
+   ],
+   "configuracao": "Grupo inteiro, online (microfone e chat); o facilitador chama os participantes pelo nome; cerca de 10 participantes ativos.",
+   "tempo": "Cerca de 40 minutos no encontro (20 a 25 minutos bastam).",
+   "materiais": "Nenhum; opcionalmente, uma lista-mestra de critérios para completar no fim.",
+   "consigna": "Se você tivesse que responder abstratamente: o que você prioriza na hora em que está atendendo um caso? Nas rodadas seguintes: você consegue dar uma resposta diferente, ou pelo menos encontrar um problema na anterior?",
+   "passos": [
+    "Chamar alguém pelo nome e pedir um critério abstrato.",
+    "Pedir o porquê e o como; pedir sinônimo quando a palavra for vaga.",
+    "Separar o critério (o quê) do mecanismo de identificação (como).",
+    "Fazer uma crítica ou uma ode ao critério.",
+    "Pedir algo diferente; agrupar respostas afins numa macrocategoria e proibir novas respostas dessa família.",
+    "Chamar quem é de cada abordagem para dizer como a sua teoria prioriza.",
+    "Anunciar o timebox; no fim, acrescentar os critérios que faltaram e prevenir os vícios esperados (última fala, contradição)."
+   ],
+   "feedback": "Uma boa resposta tem critério, mecanismo e justificativa, é de outra família e vem com indicadores concretos. O facilitador reclassifica com humor ('não vou deixar você roubar') e faz crítica ou ode.",
+   "exemplos_praticos": "Saíram mais de 20 critérios. Um participante junguiano trouxe seis de uma vez; dois participantes discutiram 'o que foge da hipótese' até o consenso; Alan elogiou a criatividade do grupo.",
+   "variacoes": "Brincar de criar formulações e reformulações só da lista teórica; enviar depois uma lista longa (Alan menciona uma de 78 itens).",
+   "armadilhas": "Sinônimos inflando a lista (resolver agrupando e restringindo); participantes enviesados pelo nome dado à categoria; ficar só na abstração sem pedir indicadores.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:05:02"
+  },
+  {
+   "nome": "Dinâmica - Vinhetas de priorização",
+   "objetivo": "Tomada de consciência do critério que cada um usa intuitivamente ao escutar, e treino da capacidade de intuir o raciocínio clínico do colega (e, por consequência, o próprio).",
+   "competencias": [
+    "Priorização clínica",
+    "Escuta clínica",
+    "Interpretação",
+    "Construção frasal"
+   ],
+   "configuracao": "Grupo inteiro, online; o facilitador faz o papel de paciente; um voluntário por rodada em spotlight; os demais comentam pelo chat ou pelo microfone.",
+   "tempo": "7 a 13 minutos por vinheta; três vinhetas em cerca de 40 minutos.",
+   "materiais": "Nenhum; vinhetas simuladas de cerca de 2 minutos, improvisadas ou trazidas pelos participantes.",
+   "consigna": "Vou te dar uma vinheta sem muito contexto, uma historinha de uns 2 minutos. Você fala o que falaria se esse fosse o contexto clínico: pedir mais informação, intervir, dar uma cutucada, o que quiser. Depois a gente trabalha por que você fez o que fez. Não precisa raciocinar muito, faça. O trabalho de ler a sua mente é das outras pessoas.",
+   "passos": [
+    "Reforçar o enquadre: não é a maneira correta, é tomada de consciência.",
+    "Escolher um voluntário (de preferência alguém novo) e colocá-lo em destaque.",
+    "Contar a vinheta como paciente, com vários fenômenos concorrentes (centrais e de passagem).",
+    "O voluntário responde sem planejar.",
+    "Opcional: um parêntese anunciado sobre construção frasal.",
+    "Os pares adivinham o critério: 'o que brilhou nos olhos dele?'; recolher duas ou mais hipóteses e relacioná-las à lista.",
+    "Outro participante escolhe outro fenômeno para focar; se travar, pedir só o quê, não o como.",
+    "O facilitador mostra caminhos não vistos e oferece hipóteses de estratégia para o voluntário reconhecer a sua.",
+    "Se possível, repetir com a mesma pessoa; deixar os colegas tentarem antes de dar a própria hipótese."
+   ],
+   "feedback": "Não há avaliação de certo e errado; o que se avalia é o grau de consciência sobre o critério usado. Correções de forma entram como parênteses: autocorreção no meio da frase indica falta de silêncio; dupla articulação indica intervenção mal construída.",
+   "exemplos_praticos": "Vinheta 1 (arco e flecha agridoce, simulada): o novato pergunta por que o paciente ficou feliz; os pares dividem-se entre estranheza e contexto emocional; um veterano admite que faz tudo intuitivamente; depois surge 'o preço de ficar bom', lido como máxima da troca equivalente. Vinheta 2 (reprovação na prova de direção e dilema sobre mentir, simulada): o veterano foca na contradição; Alan mostra os focos avô/masculinidade e peso das expectativas e três hipóteses de estratégia (o veterano escolhe opinião do paciente); outros propõem a metáfora do volante, a conexão entre o avô e as pessoas e 'levam a sério você ou a mentira'. Vinheta 3 (dúvida sobre uma prática sexual e a opinião dos amigos, simulada): uma nova participante pergunta se o paciente se preocupa mais em ser gay ou em as pessoas acharem; os pares divergem entre centralidade e relação com o outro; Alan arbitra (a coincidência é contingente) e a autora confirma que prioriza o central para o paciente.",
+   "variacoes": "Versão intensiva em monitoria de prática deliberada: uma pessoa, 15 vinhetas seguidas, até achar o padrão (com colega ou familiar). Versão na vida: testar estratégias de priorização diferentes numa conversa comum e observar o engajamento do interlocutor.",
+   "armadilhas": "Pegar a última fala; caçar contradições; confundir priorização (o quê) com intervenção (como); o primeiro voluntário render menos pelo contexto do grupo; critérios que coincidem na vinheta não podem ser distinguidos sem perguntar ao autor.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:53:44"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Explicitar o tipo de exercício",
+   "descricao": "Diz que é de tomada de consciência, não treino nem correção, e repete isso no início, antes do exercício e no fechamento.",
+   "exemplo": "'O objetivo não é tanto corrigir ou apontar qual é a técnica ou a ética de priorização mais adequada.'",
+   "ts": "0:04:08"
+  },
+  {
+   "movimento": "Intuir em voz alta e pedir confirmação",
+   "descricao": "Formula o raciocínio implícito do participante e pergunta se está certo, mostrando como se lê o raciocínio alheio sem impor.",
+   "exemplo": "'Deixa eu tentar intuir aqui e você me fala se estou intuindo certo ou errado.'",
+   "ts": "0:06:31"
+  },
+  {
+   "movimento": "Separar critério e mecanismo",
+   "descricao": "Divide cada resposta em o quê e como, e completa a parte que faltou usando a palavra do próprio participante.",
+   "exemplo": "'Gira em torno' vira o critério centralidade.",
+   "ts": "0:09:31"
+  },
+  {
+   "movimento": "Crítica ou ode",
+   "descricao": "Alterna críticas e defesas de cada posição teórica, deixando claro que, enquanto se fala de teoria, dá para fazer as duas.",
+   "exemplo": "Critica a gravidade (enxugar gelo) e faz ode aos mantenedores (viram intervenção).",
+   "ts": "0:11:28"
+  },
+  {
+   "movimento": "Generalizar e restringir",
+   "descricao": "Agrupa respostas afins em macrocategorias e proíbe novas respostas daquela família, para forçar diversidade.",
+   "exemplo": "'A partir de agora não vale mais coisas que têm a ver com contexto.'",
+   "ts": "0:18:51"
+  },
+  {
+   "movimento": "Prevenir vícios antes do exercício",
+   "descricao": "Critica de antemão a caça a contradições e a última fala, com base na experiência de conduzir o exercício.",
+   "exemplo": "'Já fiz esse exercício vezes suficientes para saber que esse vira muleta.'",
+   "ts": "0:21:04"
+  },
+  {
+   "movimento": "Chamar por perfil e convidar sem pressionar",
+   "descricao": "Escolhe participantes pela característica (criatividade, abordagem, novidade) e deixa a participação opcional quando convém.",
+   "exemplo": "'Você é uma pessoa particularmente criativa'; 'não vou jogar a câmera, é só se você quiser pensar'.",
+   "ts": "0:29:03"
+  },
+  {
+   "movimento": "Rigor com humor",
+   "descricao": "Segura a classificação das categorias com brincadeiras e admite quando força a barra.",
+   "exemplo": "'Eu não vou deixar você roubar'; 'vou forçar um pouco a barra porque não quero transformar isso numa categoria'.",
+   "ts": "0:30:58"
+  },
+  {
+   "movimento": "Não deixar escapar",
+   "descricao": "Insiste até aparecerem indicadores concretos do raciocínio intuitivo.",
+   "exemplo": "'Tenta imaginar características, indicadores.'",
+   "ts": "0:40:49"
+  },
+  {
+   "movimento": "Feedback ao coletivo",
+   "descricao": "Elogia o grupo e aponta seu ponto fraco, preparando o exercício.",
+   "exemplo": "'Eu quase sempre xingo vocês, mas aqui achei bem legal'; 'a interpretação tende a ser um probleminha'.",
+   "ts": "0:45:36"
+  },
+  {
+   "movimento": "Improvisar como paciente",
+   "descricao": "Cria na hora vinhetas de cerca de 2 minutos com vários fenômenos concorrentes, às vezes inspiradas em quem está na sala.",
+   "exemplo": "Vinhetas do arco e flecha, da prova de direção e da dúvida sobre sexualidade.",
+   "ts": "0:54:40"
+  },
+  {
+   "movimento": "Parêntese anunciado",
+   "descricao": "Sai do foco para corrigir outra competência avisando que o exercício não é sobre aquilo.",
+   "exemplo": "Correção de construção frasal: autocorreção no meio da frase pede mais silêncio.",
+   "ts": "0:56:26"
+  },
+  {
+   "movimento": "Passar a leitura aos pares",
+   "descricao": "Pede que o grupo intua o critério do colega antes de dar a própria hipótese.",
+   "exemplo": "'O que brilhou nos olhos dele? O que ele tomou como prioridade?'",
+   "ts": "0:58:11"
+  },
+  {
+   "movimento": "Simplificar quando alguém trava",
+   "descricao": "Reduz a pergunta ao essencial e admite ter formulado mal.",
+   "exemplo": "'Esquece a intervenção, só a priorização'; 'eu formulei de maneira pobre'.",
+   "ts": "1:01:48"
+  },
+  {
+   "movimento": "Repetir com a mesma pessoa",
+   "descricao": "Faz uma segunda vinheta com o participante que travou, para o padrão ficar visível, e oferece hipóteses para ele escolher.",
+   "exemplo": "Três hipóteses sobre a estratégia do veterano; ele escolhe opinião do paciente.",
+   "ts": "1:08:21"
+  },
+  {
+   "movimento": "Arbitrar com humildade",
+   "descricao": "Opina sobre divergências entre pares relativizando a própria leitura e devolve a palavra ao autor da intervenção.",
+   "exemplo": "'Não sei se é algo das minhas impossibilidades que me permite ver do mesmo jeito.'",
+   "ts": "1:30:10"
+  },
+  {
+   "movimento": "Fechar com metaobjetivos e tarefa",
+   "descricao": "Retoma os três objetivos do aprimoramento e passa a replicação na vida como tarefa.",
+   "exemplo": "'A melhora vem dessa replicação.'",
+   "ts": "1:32:20"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Se você se corrige com frequência no meio da intervenção, trabalhe o silêncio.",
+   "justificativa": "Autocorreção indica que teria valido esperar; alguns segundos a mais organizam a fala e reduzem a ansiedade de responder.",
+   "contexto": "Autocorreções recorrentes; o contexto do grupo também pode explicar o deslize.",
+   "competencia": "Construção frasal",
+   "ts": "0:56:49"
+  },
+  {
+   "dica": "Não pegue por hábito a última coisa que o paciente falou.",
+   "justificativa": "É o reflexo natural da conversa comum, não uma escolha clínica; só se justifica com uma hipótese por trás.",
+   "contexto": "Quando o padrão aparece repetidamente em roleplays ou atendimentos.",
+   "competencia": "Priorização clínica",
+   "ts": "0:46:30"
+  },
+  {
+   "dica": "Use o apontamento de contradições com parcimônia.",
+   "justificativa": "É barato, surpreende o paciente, mas raramente gera intervenção ou direção de tratamento.",
+   "contexto": "Quando perceber que virou muleta.",
+   "competencia": "Priorização clínica",
+   "ts": "0:19:53"
+  },
+  {
+   "dica": "Se estiver perdido sobre como intervir, priorize critérios que já indiquem a intervenção, como os mantenedores.",
+   "justificativa": "Priorizar é protointerpretar; mantenedores apontam o que fazer (mudar o ambiente ou tirar a pessoa dele).",
+   "contexto": "Casos confusos; terapeutas iniciantes.",
+   "competencia": "Intervenção",
+   "ts": "0:12:27"
+  },
+  {
+   "dica": "Antes de atacar o mais grave, verifique se ele não é consequência de algo central.",
+   "justificativa": "Senão se enxuga gelo; a repetição e aquilo em torno do que tudo gira revelam o pivô.",
+   "contexto": "Quando vários problemas giram em torno de um núcleo, ressalvado o risco.",
+   "competencia": "Priorização clínica",
+   "ts": "0:09:31"
+  },
+  {
+   "dica": "Entre dois fenômenos, comece pelo que sua teoria explica bem.",
+   "justificativa": "O encaixe entre fenômeno e teoria já diz como agir.",
+   "contexto": "Exemplo da TCC: tratar a fobia específica antes da questão amorosa.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:16:23"
+  },
+  {
+   "dica": "Dê prioridade máxima ao que não se encaixa no desenho teórico esperado ou na hipótese anterior.",
+   "justificativa": "A surpresa é informativa; quando útil, esse critério é muito importante.",
+   "contexto": "Pontualmente, não em toda frase.",
+   "competencia": "Interpretação",
+   "ts": "0:30:02"
+  },
+  {
+   "dica": "Se você prioriza algo porque é um problema seu, preste atenção especial e leve isso à sua análise.",
+   "justificativa": "Um cego não guia outro; isso não quer dizer que o tema vire assunto da terapia do paciente.",
+   "contexto": "Temas pessoais recorrentes nos casos.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:35:40"
+  },
+  {
+   "dica": "Havendo risco, siga a hierarquia de Judith Beck: suicídio, depois problemas com o tratamento, depois o resto.",
+   "justificativa": "Sem paciente vivo e vinculado não há tratamento; a relação é o motor.",
+   "contexto": "Sinais de risco ou de insatisfação com a terapia.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:48:27"
+  },
+  {
+   "dica": "Às vezes comece pelo que é mais fácil e rápido de resolver.",
+   "justificativa": "Uma melhora concreta mantém o paciente animado e em tratamento.",
+   "contexto": "Quando há um recurso rápido à mão (por exemplo, recolocação profissional), avaliado o risco.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:51:14"
+  },
+  {
+   "dica": "Leia o início da frase como pista do que o paciente considera importante.",
+   "justificativa": "Pela estrutura do discurso, o que vem primeiro na frase ou no parágrafo tem mais relevância para quem fala.",
+   "contexto": "Ao reconstruir a opinião do paciente.",
+   "competencia": "Escuta clínica",
+   "ts": "0:25:25"
+  },
+  {
+   "dica": "Não tome a queixa explícita como a opinião final do paciente.",
+   "justificativa": "A opinião do paciente pode precisar ser construída dialeticamente.",
+   "contexto": "Quando a queixa declarada parece não esgotar a questão.",
+   "competencia": "Escuta clínica",
+   "ts": "0:27:47"
+  },
+  {
+   "dica": "Produza estranheza de propósito para tirar o paciente de um personagem.",
+   "justificativa": "Perguntas inesperadas deslocam a pessoa de posições cristalizadas.",
+   "contexto": "Discurso pronto e repetitivo.",
+   "competencia": "Intervenção",
+   "ts": "0:24:33"
+  },
+  {
+   "dica": "Na escuta psicanalítica, priorize o que falha: ato falho, não-dito, o que aparece de passagem.",
+   "justificativa": "Pela atenção flutuante, a verdade do discurso aparece em sua falha.",
+   "contexto": "Para quem trabalha com essa teoria; é um critério contraintuitivo.",
+   "competencia": "Escuta clínica",
+   "ts": "0:17:33"
+  },
+  {
+   "dica": "Respeite e explore as metáforas espontâneas do paciente.",
+   "justificativa": "Elas condensam repetições do relato; Jung e a ACT lhes dão centralidade.",
+   "contexto": "Quando uma imagem do paciente encaixa numa repetição do discurso dele.",
+   "competencia": "Interpretação",
+   "ts": "1:12:14"
+  },
+  {
+   "dica": "Evite a dupla articulação nas intervenções.",
+   "justificativa": "Se a intervenção não é óbvia para o paciente, provavelmente não está bem articulada.",
+   "contexto": "Perguntas que juntam duas ideias.",
+   "competencia": "Construção frasal",
+   "ts": "1:18:16"
+  },
+  {
+   "dica": "Para descobrir seu padrão de priorização, faça muitas vinhetas seguidas com um colega.",
+   "justificativa": "Em cerca de 15 repetições o padrão aparece; em uma ou duas só se chuta.",
+   "contexto": "Prática deliberada entre pares ou monitoria.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:08:21"
+  },
+  {
+   "dica": "Treine a priorização fora da clínica, testando estratégias de escuta em conversas comuns.",
+   "justificativa": "A melhora vem da replicação; dá para observar se o interlocutor se engaja mais.",
+   "contexto": "Dia a dia, com colegas ou familiares.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:33:26"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Priorizar é a decisão que vem antes de qualquer intervenção, e ela já é uma protointerpretação.",
+   "argumento": "Entre vários fenômenos, o terapeuta escolhe o foco antes de falar; cada critério já carrega uma intuição da intervenção razoável.",
+   "contraponto": "Contra a ideia de que a escuta é neutra e só a intervenção é técnica.",
+   "implicacao": "Treinar a priorização como competência própria, anterior à intervenção.",
+   "quem": "Alan",
+   "ts": "0:27:47"
+  },
+  {
+   "tese": "Apontar contradições é um critério barato e muitas vezes clinicamente estéril.",
+   "argumento": "É fácil de achar, surpreende o paciente, mas não dá intervenção nem direção de tratamento.",
+   "contraponto": "Bem usado, é uma forma potente; a crítica vale para o hábito da Allos de usá-lo sem utilidade clínica.",
+   "implicacao": "Usar com moderação e perguntar o que aquilo abre no tratamento.",
+   "quem": "Alan",
+   "ts": "0:19:53"
+  },
+  {
+   "tese": "Pegar a última fala é vício de conversa, não escolha clínica.",
+   "argumento": "É o movimento mais natural entre duas pessoas conversando.",
+   "contraponto": "A coincidência de o último ser o mais importante é aceitável.",
+   "implicacao": "Monitorar esse padrão nos roleplays e quebrá-lo.",
+   "quem": "Alan",
+   "ts": "0:47:26"
+  },
+  {
+   "tese": "A hierarquia de Judith Beck não é uma escala de gravidade, e sim uma proteção do tratamento.",
+   "argumento": "O suicídio vem primeiro porque sem paciente não há tratamento; problemas com a terapia vêm em segundo porque sem retorno não há melhora; a relação é o motor.",
+   "contraponto": "Contra a leitura comum de que o suicídio vem primeiro por ser o mais grave.",
+   "implicacao": "Tratar possíveis rupturas da relação como prioridade máxima, uma posição agressiva mas interessante.",
+   "quem": "Alan",
+   "ts": "0:49:08"
+  },
+  {
+   "tese": "Priorizar o mais grave pode ser enxugar gelo.",
+   "argumento": "O que mais causa dano pode ser consequência de um núcleo central.",
+   "contraponto": "Critério empático de gravidade (o que seria mais chocante para mim).",
+   "implicacao": "Buscar o central ou o mantenedor antes de agir sobre o grave, ressalvado o risco.",
+   "quem": "Alan",
+   "ts": "0:09:31"
+  },
+  {
+   "tese": "Às vezes é legítimo começar pelo mais fácil.",
+   "argumento": "Um ganho rápido e concreto mantém o paciente animado e em terapia.",
+   "contraponto": "Hierarquias rígidas por gravidade ou centralidade.",
+   "implicacao": "Considerar o que o paciente consegue resolver logo para fortalecer a adesão.",
+   "quem": "Alan",
+   "ts": "0:51:14"
+  },
+  {
+   "tese": "A priorização freudiana é contraintuitiva e exige implicação na teoria.",
+   "argumento": "A atenção flutuante iguala tudo e busca a verdade na falha do discurso, ao contrário da escuta cotidiana.",
+   "contraponto": "Critérios intuitivos como estranheza, gravidade e opinião do paciente.",
+   "implicacao": "Quem quer priorizar pelo não-dito precisa estudar e gostar da teoria.",
+   "quem": "Alan",
+   "ts": "0:17:33"
+  },
+  {
+   "tese": "Priorizar pelo estranho é o modo mais intuitivo e pouco clínico de escutar, mas a clínica pode usá-lo de forma deliberada.",
+   "argumento": "Qualquer pessoa pergunta sobre o que soou estranho; o psicólogo pode produzir estranheza para deslocar o paciente.",
+   "contraponto": "",
+   "implicacao": "Distinguir curiosidade comum de estranhamento clínico intencional.",
+   "quem": "Alan",
+   "ts": "0:24:33"
+  },
+  {
+   "tese": "A maioria dos terapeutas é unilateral na forma de ouvir.",
+   "argumento": "Ou sempre usam teoria ou sempre tentam cutucar o paciente achando uma contradição.",
+   "contraponto": "",
+   "implicacao": "Ampliar de propósito o repertório de critérios antes de praticar.",
+   "quem": "Alan",
+   "ts": "0:29:03"
+  },
+  {
+   "tese": "Intuir o raciocínio clínico do colega ensina a intuir o próprio.",
+   "argumento": "A leitura entre pares torna visível o que normalmente é automático.",
+   "contraponto": "Exercícios em que só o facilitador interpreta.",
+   "implicacao": "Em grupos de formação, os pares adivinham o critério de quem interveio.",
+   "quem": "Alan",
+   "ts": "0:59:10"
+  },
+  {
+   "tese": "A melhora vem da replicação fora do grupo; o aprimoramento dá diretriz e inspiração.",
+   "argumento": "Não há tempo para trabalhar o exercício a fundo com cada pessoa; isso exigiria atendimento um a um.",
+   "contraponto": "Contra a expectativa de que frequentar o grupo basta.",
+   "implicacao": "Exercícios simples e replicáveis; criação de monitorias individuais de prática deliberada.",
+   "quem": "Alan",
+   "ts": "1:33:26"
+  },
+  {
+   "tese": "Nunca acreditem em pessoas que dão dicas sobre clínica (tese irônica).",
+   "argumento": "Não existem regras gerais em psicologia; toda dica depende do contexto.",
+   "contraponto": "Alan dá a dica mesmo assim, avisando dos limites.",
+   "implicacao": "Tomar dicas como hipóteses a testar.",
+   "quem": "Alan",
+   "ts": "0:56:49"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Priorizar já é uma protointerpretação: carrega uma intuição forte de qual é a intervenção razoável.",
+   "tema": "priorização",
+   "ts": "0:12:27"
+  },
+  {
+   "texto": "É a decisão que você toma antes da decisão interventiva, antes do que você vai falar.",
+   "tema": "priorização",
+   "ts": "0:27:47"
+  },
+  {
+   "texto": "Pode ter algo que causa mais dano na vida da pessoa, mas, ao tentar enfrentá-lo, eu estaria enxugando gelo.",
+   "tema": "gravidade × centralidade",
+   "ts": "0:09:31"
+  },
+  {
+   "texto": "A chave do tesouro sempre está onde você não está olhando.",
+   "tema": "psicanálise",
+   "ts": "0:17:33"
+  },
+  {
+   "texto": "A pessoa se surpreende com a contradição, e nada de clinicamente relevante aconteceu.",
+   "tema": "contradição",
+   "ts": "0:21:04"
+  },
+  {
+   "texto": "O mais natural numa conversa é pegar a última coisa que o outro disse e continuar o assunto. Na clínica, isso vira vício.",
+   "tema": "última fala",
+   "ts": "0:47:26"
+  },
+  {
+   "texto": "Possíveis rompimentos da relação terapêutica têm prioridade máxima: uma posição bem agressiva, mas bem interessante.",
+   "tema": "Judith Beck",
+   "ts": "0:49:08"
+  },
+  {
+   "texto": "Se você corrigiu a intervenção que fez, é porque deveria ter ficado mais em silêncio.",
+   "tema": "silêncio",
+   "ts": "0:56:49"
+  },
+  {
+   "texto": "Se vocês intuem o raciocínio clínico do colega, é provável que estejam aprendendo a intuir o próprio.",
+   "tema": "formação",
+   "ts": "0:59:10"
+  },
+  {
+   "texto": "Carregar o mundo nas costas: de vez em quando deve dar torcicolo.",
+   "tema": "intervenção",
+   "ts": "1:07:00"
+  },
+  {
+   "texto": "Se a sua intervenção não é óbvia para o paciente, provavelmente não está bem articulada.",
+   "tema": "construção frasal",
+   "ts": "1:18:16"
+  },
+  {
+   "texto": "A gente sempre paga um preço pelas coisas. Ele pode não ser óbvio, mas sempre está ali.",
+   "tema": "máximas",
+   "ts": "1:23:47"
+  },
+  {
+   "texto": "A melhora vem dessa replicação. O grupo de aprimoramento serve para dar diretriz.",
+   "tema": "prática deliberada",
+   "ts": "1:33:26"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Antes de escolher o que dizer, você já escolheu o que escutar.",
+   "mensagem": "A priorização na escuta é uma protointerpretação; conheça 8 critérios e veja qual é o seu.",
+   "roteiro": [
+    "Capa: você escolhe o que escutar antes de escolher o que falar",
+    "O que é priorização na escuta",
+    "Gravidade × centralidade",
+    "Mantenedores: fechar a torneira",
+    "Encaixe na teoria × não-dito",
+    "Contexto, estranheza, opinião do paciente",
+    "Máximas psicológicas",
+    "Qual é o seu critério automático?"
+   ],
+   "corte_inicio": "0:27:47",
+   "corte_fim": "0:28:41"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pare de caçar contradições no discurso do paciente.",
+   "mensagem": "Apontar contradição é barato, surpreende e raramente leva a uma intervenção ou direção clínica.",
+   "roteiro": [
+    "Gancho",
+    "Por que é barato",
+    "Por que não dá direção",
+    "Quando pode ser potente"
+   ],
+   "corte_inicio": "0:19:53",
+   "corte_fim": "0:21:24"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "O vício da última frase.",
+   "mensagem": "Retomar sempre a última coisa dita é reflexo de conversa, não escolha clínica.",
+   "roteiro": [
+    "Gancho",
+    "Por que fazemos isso",
+    "Como perceber o padrão",
+    "O que fazer no lugar"
+   ],
+   "corte_inicio": "0:46:30",
+   "corte_fim": "0:47:26"
+  },
+  {
+   "formato": "post",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Por que Judith Beck põe o suicídio em primeiro lugar? Não é por gravidade.",
+   "mensagem": "A hierarquia protege o tratamento: sem paciente vivo e vinculado não há terapia; a relação é o motor.",
+   "roteiro": [
+    "Hierarquia: suicídio, tratamento, o resto",
+    "A leitura comum (gravidade)",
+    "A leitura de Alan (preservar o tratamento)"
+   ],
+   "corte_inicio": "0:48:27",
+   "corte_fim": "0:49:08"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Como cada teoria decide o que é importante numa fala.",
+   "mensagem": "Psicanálise pelo não-dito e pela falha do discurso; TCC pelo encaixe e pelos mantenedores; Jung pela unilateralidade e pelo símbolo.",
+   "roteiro": [
+    "Capa",
+    "Psicanálise: atenção flutuante e ato falho",
+    "TCC: encaixe teoria-fenômeno e mantenedores",
+    "Jung: unilateralidade e metáfora",
+    "Nenhum critério é neutro"
+   ],
+   "corte_inicio": "0:15:21",
+   "corte_fim": "0:17:33"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Se você se corrige no meio da frase, precisa de mais silêncio.",
+   "mensagem": "Oito segundos a mais de silêncio organizam a intervenção e baixam a ansiedade.",
+   "roteiro": [
+    "Gancho",
+    "O sinal (autocorreção)",
+    "A dica (silêncio)",
+    "A ressalva (não há regras gerais)"
+   ],
+   "corte_inicio": "0:56:49",
+   "corte_fim": "0:57:53"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Um exercício para descobrir como você escuta.",
+   "mensagem": "Vinheta de 2 minutos, alguém responde, o grupo adivinha o critério usado; ler a mente do colega ensina a ler a própria.",
+   "roteiro": [
+    "O exercício",
+    "Passo 1: vinheta",
+    "Passo 2: resposta sem planejar",
+    "Passo 3: o grupo adivinha o critério",
+    "Passo 4: foco alternativo",
+    "Faça com seus colegas"
+   ],
+   "corte_inicio": "0:58:11",
+   "corte_fim": "0:59:26"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Três tipos de exercício de prática deliberada.",
+   "mensagem": "Tomada de consciência, treino e desafio, com exemplos do corpo: atender sem palavras e máscara facial.",
+   "roteiro": [
+    "Tomada de consciência",
+    "Treino",
+    "Desafio"
+   ],
+   "corte_inicio": "0:02:16",
+   "corte_fim": "0:03:13"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Atenção flutuante e associação livre como base da priorização pelo não-dito; método contraintuitivo."
+  },
+  {
+   "nome": "Slavoj Žižek",
+   "contexto": "Citado para a 'hermenêutica da desconfiança' (a chave do tesouro está onde você não olha) e pelo livro Absolute Recoil, sobre conectar enunciados distantes ('braqueologia (?)')."
+  },
+  {
+   "nome": "Judith Beck",
+   "contexto": "Hierarquia de prioridades (suicídio, problemas com o tratamento, o resto), lida por Alan como proteção do tratamento."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Unilateralidade e símbolo conciliador como critérios de priorização."
+  },
+  {
+   "nome": "Barbara Hannah",
+   "contexto": "Citada por um participante junguiano como autora de um exemplo em que o bocejo da terapeuta teve efeito positivo sobre a paciente (identificação provável; a transcrição diz 'Bárbara Hana')."
+  },
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Citado inicialmente por um participante para o exemplo do bocejo, depois corrigido."
+  },
+  {
+   "nome": "Steven Hayes",
+   "contexto": "Identificação incerta ('Reis DCT' na transcrição, provavelmente Hayes, da ACT): autor que dá centralidade à metáfora."
+  },
+  {
+   "nome": "James George Frazer",
+   "contexto": "Pensamento mágico e sacrifício; tese de que a noção primitiva de sacrifício corresponde à noção moderna de tempo; Alan o apresenta como autor complicado e eurocêntrico."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Alan)",
+  "objetivo": "Aprimorar competências clínicas específicas por meio de exercícios simples de prática deliberada, que os participantes possam replicar na vida; o grupo dá diretriz e inspiração, e a melhora vem da replicação.",
+  "publico": "Psicólogos e estudantes da Allos, de várias abordagens (psicanálise, TCC, junguiana etc.), incluindo veteranos e novatos.",
+  "tamanho": "Cerca de 10 a 15 participantes ativos.",
+  "duracao": "Nominalmente 2 horas; este teve cerca de 1h40 (1:34:36 gravados).",
+  "estrutura_padrao": "Breve parte teórica ('igual sempre') e depois exercício. Aqui: abertura, construção coletiva de uma lista abstrata de critérios, complementos do facilitador, combinados, vinhetas improvisadas com leitura entre pares, fechamento com objetivos e tarefa de replicação. Normalmente a gravação é interrompida no fim para comentários livres.",
+  "papel_facilitador": "Conduz a teoria, chama participantes pelo nome, organiza as contribuições em categorias, critica ou defende cada uma, faz o papel de paciente nas vinhetas, abre parênteses de correção, arbitra divergências e fecha com metaobjetivos.",
+  "regras_combinados": "Exercício de tomada de consciência, sem busca da forma correta; um voluntário responde, os demais usam o chat ou o microfone; não se pensa muito antes de responder; o trabalho de ler a mente do colega é do grupo; os vícios previstos (última fala, contradição) devem ser evitados."
+ },
+ "reflexoes_do_facilitador": [
+  "Na última vez que conduziu os aprimoramentos, sentiu falta da parte de interpretação; por isso escolheu a priorização como preparação.",
+  "Diz já ter feito o exercício vezes suficientes para prever os vícios do grupo (contradição como muleta, repetir a última fala).",
+  "'Eu quase sempre xingo vocês', mas registra que achou o nível de criatividade clínica bacana e não esperava respostas tão variadas.",
+  "Diagnóstico do grupo: com a intervenção vão bem; interpretação e relação terapêutica são pontos fracos ('eu suo um pouquinho com vocês').",
+  "Reconhece que a intervenção fraca do primeiro voluntário pode ter mais a ver com o contexto (ser escolhido primeiro numa dinâmica que não conhecia) do que com a clínica dele.",
+  "Admite ter formulado mal uma pergunta ('formulei de maneira pobre, não perguntei o que eu queria perguntar').",
+  "Diz que numa monitoria de prática deliberada faria as vinhetas 15 vezes com a mesma pessoa até achar o padrão; no grupo, com pouco tempo, só dá para 'chutar'.",
+  "Relativiza a própria leitura numa divergência ('não sei se é algo das minhas impossibilidades').",
+  "Afirma que o objetivo dos aprimoramentos não é trabalhar o exercício a fundo, o que exigiria atendimento um a um; quer levar à reunião geral a proposta de uma monitoria individual de prática deliberada, 'na vibe de reforço escolar'.",
+  "Precisou encerrar antes das 2 horas habituais por um compromisso de supervisão.",
+  "Faz autoironia sobre dar dicas ('nunca acreditem em pessoas que dão dicas sobre clínica; não existem regras gerais em psicologia')."
+ ],
+ "referencias_a_outros_encontros": [
+  "O tema já tinha sido tratado antes: Alan pergunta a um participante se ele 'participou da última vez que falei disso' (cf. Alan 14 - Priorização clínica 1).",
+  "Alan diz estar revisitando os aprimoramentos mais básicos num novo ciclo e que, no cronograma atual, conduz um grupo de hermenêutica.",
+  "Menciona o exercício 'atender sem usar palavras', que não chegou a ser feito no cronograma anterior.",
+  "Sugere que na semana seguinte alguém (nome ininteligível) poderia conduzir o exercício da 'maneira correta de priorizar', entrando em interpretação propriamente dita.",
+  "Refere-se a um roleplay feito à tarde, no mesmo dia, por uma participante.",
+  "Recomenda seu vídeo sobre máximas psicológicas e menciona uma aula recente em que falou de Frazer e dos pais da antropologia.",
+  "Menciona a reunião geral, onde quer propor monitorias individuais de prática deliberada.",
+  "Liga-se a construção frasal (Alan 02) pelos parênteses sobre autocorreção e dupla articulação."
+ ],
+ "observacoes": "Legenda automática com muito ruído nos nomes: o mesmo participante aparece como 'Brian', 'BR' e 'Briane'; outro como 'Adidan', 'Aid', 'Adidrin', 'Elan' e 'Ira'; 'anjo' corresponde a Ângelo. A nota anonimiza os participantes. 'Hermenêutica da desconfiança' é atribuída por Alan a Žižek (a expressão clássica 'hermenêutica da suspeita' é de Ricoeur; vale verificar). 'Braqueologia' (Absolute Recoil) e 'Reis DCT' (provavelmente Hayes/ACT) estão marcados com (?). As três vinhetas são casos simulados, improvisados por Alan no papel de paciente; nenhum caso real foi discutido. Dois participantes estavam na mesma sala que Alan e às vezes ficam pouco audíveis. O encontro terminou antes das 2 horas habituais; a gravação acaba enquanto Alan pergunta quem a iniciou."
+}

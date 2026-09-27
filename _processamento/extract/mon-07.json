@@ -1,0 +1,778 @@
+{
+ "id": "mon-07",
+ "nota": "Monitoria 07 - João de Bragança - Limites do terapeuta e confronto",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Limites do terapeuta e confronto",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "João de Bragança"
+ ],
+ "resumo": "Partindo de uma participante que, na monitoria anterior, se disse pouco à vontade para atender certo perfil de paciente (num atendimento a paciente simulado por IA), João conduz uma conversa com perguntas preparadas sobre limites clínicos. Discute-se se é justo recusar um paciente, quando romper o vínculo prejudica (risco suicida) e o que fazer diante de um gesto invasivo, a partir de um episódio de clínica-escola que dividiu uma supervisão. Os participantes trazem a fronteira de contato gestáltica, a necessidade de uma resposta clara e a neutralidade como defesa; João acrescenta Jung (o xamã que cura as próprias feridas, o afeto como rebaixamento da consciência, o diagnóstico psicológico como preconceito a ser explicitado) e troca 'controle' por 'responsabilidade'. A segunda metade gira em torno do confronto como forma de acolhimento: apontar contradições, confrontar quem controla o enquadre, propor abertamente um exercício de confrontação e ser sincero. João fecha: para saber se seu psicólogo é bom, diga a ele que você não sabe e veja como reage.",
+ "em_uma_frase": "Os limites do terapeuta justificam encaminhar, mas também mostram onde ele precisa crescer; diante de invasões a resposta precisa existir e sair na forma certa, e confrontar, com clareza e sinceridade, é uma forma de acolher.",
+ "competencias": [
+  "Pessoa do terapeuta",
+  "Relação terapêutica",
+  "Intervenção",
+  "Acolhimento e validação",
+  "Direção do tratamento",
+  "Psicodiagnóstico",
+  "Abertura e encerramento de sessão",
+  "Feedback clínico",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicologia analítica junguiana",
+  "Gestalt-terapia",
+  "Abordagem centrada na pessoa"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Retomada",
+   "descricao": "João liga ao encontro anterior, em que se leu o atendimento de uma participante a um paciente simulado por IA; explica ao participante novo a ferramenta de pacientes simulados (ECO) e seus 'estereótipos' de comportamento constante.",
+   "funcao": "Dar contexto e integrar quem chega.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:17",
+   "bloco": "Teoria",
+   "descricao": "Abstrai do caso o tema das limitações clínicas: diferente da medicina, na leitura de João, o psicólogo pode recusar ou encaminhar, e às vezes isso é mais responsável; anuncia perguntas preparadas.",
+   "funcao": "Transformar um caso em pergunta geral.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:23",
+   "bloco": "Rodada de respostas",
+   "descricao": "Pergunta 1: é justo recusar um paciente? A participante responde que sim, pela necessidade de suspender julgamentos para compreender a pessoa.",
+   "funcao": "Explicitar posições.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:04:08",
+   "bloco": "Rodada de respostas",
+   "descricao": "Contra-pergunta: quando seria melhor continuar? Rejeição, risco de suicídio (o psicólogo como vínculo com a vida); o participante novo traz Jung ('sujar as mãos') e o limite como ponto de desenvolvimento.",
+   "funcao": "Complexificar a resposta fácil.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:08:23",
+   "bloco": "Discussão",
+   "descricao": "João fala da resignação e da fronteira de contato (Gestalt) e conta um episódio de clínica-escola (gesto invasivo de um paciente pré-adolescente) que dividiu a supervisão entre continuar e intervir ou interromper e denunciar.",
+   "funcao": "Introduzir um dilema real e polêmico.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:10:18",
+   "bloco": "Rodada de respostas",
+   "descricao": "Pergunta 2: o que fazer diante de um gesto invasivo? 'Depende'; usar a invasão como material sobre os limites do paciente; a resposta precisa existir, à altura do ato, sem ficar em cima do muro.",
+   "funcao": "Treinar tomada de posição ética e clínica.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:16:22",
+   "bloco": "Teoria",
+   "descricao": "João: supervisionanda com medo de intervir (sem dialética, sessão vira relatório); cuidar da forma de falar; a metáfora do xamã; trocar controle por responsabilidade; o próprio balanço visto na câmera diante de um paciente paranoide; o afeto em Jung.",
+   "funcao": "Deslocar o foco do paciente para o terapeuta.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:22:15",
+   "bloco": "Discussão",
+   "descricao": "A participante liga ao aprimoramento de Diogo sobre fantasia (trazer a fantasia como hipótese); fala da paciente que 'precisa ser confrontada'; João: a terapia é o lugar de trabalhar o pior do paciente, algo que nenhuma outra profissão da saúde alcança.",
+   "funcao": "Articular com outros espaços da formação.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:26:43",
+   "bloco": "Teoria",
+   "descricao": "Diagnóstico psicológico x nosográfico; o preconceito do terapeuta ('filhinho de papai') formulado e usado em supervisão ('qual o problema de ele ser isso para você?').",
+   "funcao": "Oferecer uma ferramenta de autoanálise do terapeuta.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:29:39",
+   "bloco": "Discussão",
+   "descricao": "O participante novo: a neutralidade como defesa e a personalidade como ferramenta; João: 'é o que permite dialética'.",
+   "funcao": "Consolidar a tese central do encontro.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:32:00",
+   "bloco": "Rodada de respostas",
+   "descricao": "Pergunta 3: vocês já se depararam com o limite do paciente? Perguntar no mesmo tom do paciente, acolher o 'não quero falar disso'; João: 'tudo que importa volta'.",
+   "funcao": "Mostrar a outra face: respeitar o limite do outro.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:36:50",
+   "bloco": "Teoria",
+   "descricao": "Acolhimento confrontativo: relato da dinâmica do elogio sem resposta; referência a Alan; apontar contradições como prova de escuta.",
+   "funcao": "Ampliar o conceito de acolhimento.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:39:17",
+   "bloco": "Discussão",
+   "descricao": "O participante novo: pacientes que controlam o enquadre (atrasos, telefone) e sua antiga reticência em confrontar; João: 'tem dois no processo', trazer a pauta; a participante: o paciente das folhinhas de 25 minutos, o excesso de zelo que a irrita.",
+   "funcao": "Ligar limites a enquadre e direção do tratamento.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:47:53",
+   "bloco": "Discussão",
+   "descricao": "João: criatividade clínica; propor abertamente um 'exercício de confrontação'; 'sou fã de sinceridade na clínica'. A participante relata como a franqueza da própria terapeuta lhe deu autonomia.",
+   "funcao": "Oferecer uma técnica concreta.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:53:58",
+   "bloco": "Fechamento",
+   "descricao": "'Diga ao seu psicólogo que você não sabe se ele é bom e veja como reage'; boas-vindas ao novato; calendário; vídeos do Alan sobre psicologia analítica; convite às práticas clínicas.",
+   "funcao": "Síntese informal e vínculo com o grupo.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Limites do terapeuta",
+   "definicao": "O que o terapeuta não consegue ou não deve sustentar. Pode justificar o encaminhamento, mas também marca o ponto em que ele precisa se desenvolver; ter clareza do próprio limite é condição para pôr limites na terapia.",
+   "exemplo": "Desconforto com certo perfil de paciente; susto diante de um paciente paranoide; dúvida sobre reagir a um gesto invasivo.",
+   "abordagem": "",
+   "ts": "0:07:45"
+  },
+  {
+   "nome": "Encaminhamento",
+   "definicao": "Repassar um caso que não se consegue atender. Legítimo na psicologia (diferente da medicina, na leitura de João) e às vezes mais responsável que insistir, desde que se pese o dano de romper o vínculo.",
+   "exemplo": "'Não dou conta de atender isso'; ponderação sobre pacientes com risco suicida.",
+   "abordagem": "",
+   "ts": "0:01:58"
+  },
+  {
+   "nome": "Fronteira de contato",
+   "definicao": "Conceito gestáltico, chamado no encontro de 'zona de contato': o limite entre eu e outro. Violento é atravessá-lo sem respeitar o limite do outro; o terapeuta deve ampliar sua capacidade de contato com temas sensíveis.",
+   "exemplo": "Usar a quebra de combinados pela paciente para mostrar como ela trata a fronteira do outro; o exercício de confrontação trabalha a fronteira dela com o mundo.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:10:41"
+  },
+  {
+   "nome": "Curador ferido",
+   "definicao": "Metáfora junguiana do analista como xamã: o curandeiro da tribo não tem outro xamã que o cure e precisa curar as próprias feridas. João a usa, sem o termo 'curador ferido', para dizer que o terapeuta é responsável pelos próprios complexos e afetos.",
+   "exemplo": "'Como um cachorro lambendo as próprias feridas.'",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:18:44"
+  },
+  {
+   "nome": "Afeto",
+   "definicao": "Em Jung, segundo João, a emoção ou afetação como 'incapacidade da consciência de lidar com a situação': a consciência é desviada e a pessoa reage de modo rudimentar, 'infantil'.",
+   "exemplo": "Encerrar uma sessão porque algo incomodou também é uma intervenção, e pode vir do afeto.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:21:20"
+  },
+  {
+   "nome": "Complexo",
+   "definicao": "Conteúdos carregados de afeto que o terapeuta precisa 'ver chegando' durante a sessão para lidar com eles sem ser tomado.",
+   "exemplo": "João percebe o próprio balanço na câmera diante de um paciente que o assustava.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:18:44"
+  },
+  {
+   "nome": "Diagnóstico psicológico",
+   "definicao": "Diferente do nosográfico (DSM): individual, muitas vezes não comunicado, uma palavra ou preconceito do terapeuta que circunscreve sua visão do caso. Formulado, revela a postura do terapeuta e pode ser trabalhado em supervisão.",
+   "exemplo": "Jung: 'filhinho de papai'; em supervisão, 'qual o problema de ela ser uma pirralha para você?'.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:26:43"
+  },
+  {
+   "nome": "Neutralidade do terapeuta",
+   "definicao": "Criticada no encontro como possível defesa: por medo de reagir de modo exagerado, o terapeuta abre mão da própria personalidade, a ferramenta mais importante do setting, e perde a dialética.",
+   "exemplo": "Fingir que um gesto invasivo 'não é nada' quando talvez fosse um teste para ver se alguém reage.",
+   "abordagem": "",
+   "ts": "0:29:39"
+  },
+  {
+   "nome": "Confronto terapêutico",
+   "definicao": "Apontar contradições, limites e tentativas de controle do paciente. Para João (evocando Alan), é uma forma de acolhimento e uma das melhores provas de escuta.",
+   "exemplo": "Mostrar ao paciente que reclama de controle que ele controla a sessão; propor abertamente um exercício de confrontação.",
+   "abordagem": "",
+   "ts": "0:36:50"
+  },
+  {
+   "nome": "Dialética",
+   "definicao": "A presença de duas pessoas na sessão; desaparece quando o terapeuta, por medo, deixa de se colocar.",
+   "exemplo": "Supervisionanda que 'não era ela enquanto terapeuta' e cuja sessão virou relatório.",
+   "abordagem": "",
+   "ts": "0:16:22"
+  },
+  {
+   "nome": "Criatividade clínica",
+   "definicao": "Capacidade de inventar formatos e intervenções sob medida; para João, uma das questões mais fundamentais da terapia.",
+   "exemplo": "O 'exercício de confrontação' combinado; a folha dividida entre tópicos do paciente e tempo aberto.",
+   "abordagem": "",
+   "ts": "0:47:53"
+  },
+  {
+   "nome": "Contrato terapêutico",
+   "definicao": "Regras de horário, remarcação e comportamento que estruturam o atendimento; sua manipulação pelo paciente é material clínico e deve ser confrontada.",
+   "exemplo": "Pacientes que decidem quanto atrasar, atendem o telefone na sessão e tratam o terapeuta como prestador de serviço.",
+   "abordagem": "",
+   "ts": "0:40:00"
+  },
+  {
+   "nome": "Máximas clínicas",
+   "definicao": "Regras práticas condensadas; aqui, 'tudo que importa volta', que autoriza respeitar o limite do paciente sem medo de perder o tema.",
+   "exemplo": "O tema recusado volta na mesma sessão, 'dois parágrafos abaixo' no prontuário.",
+   "abordagem": "",
+   "ts": "0:35:31"
+  },
+  {
+   "nome": "Paciente simulado",
+   "definicao": "Personagens de IA da ferramenta de treinamento clínico da Allos (provisoriamente 'ECO'), estereótipos de comportamento constante escolhidos pelos alunos para treinar atendimento.",
+   "exemplo": "Personagens como 'querida paciente', 'homem ridículo', 'cruela' e o caso 'rústico e casual'.",
+   "abordagem": "",
+   "ts": "0:00:01"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Perguntas disparadoras",
+   "objetivo": "Versão de João: abstrair de um caso um tema clínico-ético (limites clínicos) e explorá-lo por perguntas preparadas, do geral ao pessoal.",
+   "competencias": [
+    "Pessoa do terapeuta",
+    "Relação terapêutica",
+    "Desenvolvimento profissional"
+   ],
+   "configuracao": "Grupo pequeno online (neste dia, o facilitador e dois participantes), com todos respondendo por voz.",
+   "tempo": "Cerca de 50 minutos para três perguntas e uma contra-pergunta.",
+   "materiais": "Perguntas preparadas; um dilema real anonimizado; vinhetas do facilitador.",
+   "consigna": "Separei algumas perguntas pra gente conversar sobre limitações clínicas: (1) é justo um psicólogo recusar um paciente ou caso? (1b) consegue pensar numa situação em que, mesmo desconfortável, seria melhor continuar do que quebrar o vínculo? (2) se o paciente faz algo invasivo no meio da sessão, o que vocês fazem? (3) vocês já se depararam com limites do cliente em relação a vocês?",
+   "passos": [
+    "Retomar o caso anterior e extrair o tema.",
+    "Lançar a pergunta ética geral.",
+    "Contra-perguntar para complexificar a resposta consensual.",
+    "Trazer um dilema real e dividido e pedir posição antes de comentar.",
+    "Comentar com teoria (Jung, Gestalt) e exemplos pessoais.",
+    "Terminar com a pergunta reflexiva sobre a experiência de cada um."
+   ],
+   "feedback": "Não corrige respostas: tensiona com contra-perguntas, reformula termos ('eu trocaria controle por responsável'), acrescenta teoria e vinhetas e valida ('belo exemplo'). O critério implícito é sustentar posições nuançadas.",
+   "exemplos_praticos": "As respostas partiram do 'depende' e ganharam precisão: fronteira de contato, resposta à altura do ato, neutralidade como defesa, 'tudo que importa volta'.",
+   "variacoes": "Pode ser feita com qualquer tema tirado de um caso; comparar com a versão de Alan (perguntas semifilosóficas sobre cosmovisão).",
+   "armadilhas": "Com grupo muito pequeno vira conversa e o facilitador fala muito; participantes trazendo casos reais exigem cuidado com detalhes identificáveis.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:02:23"
+  },
+  {
+   "nome": "Dinâmica - Elogio sem resposta",
+   "objetivo": "Confrontar a dificuldade de receber consideração positiva e mostrar que acolher pode ser confrontativo (dinâmica relatada por João, não realizada nesta monitoria).",
+   "competencias": [
+    "Acolhimento e validação",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Grupo presencial de pessoas que já se conheciam (equipe de um órgão público), em roda com uma cadeira no centro.",
+   "tempo": "Não informado.",
+   "materiais": "Uma cadeira no centro da roda.",
+   "consigna": "Cada pessoa vai para o centro; cada integrante da roda lhe diz um elogio; quem está no centro não pode reagir de forma nenhuma: nem agradecer, nem rebater, nem esboçar reação.",
+   "passos": [
+    "Montar a roda com a cadeira central.",
+    "Revezar quem vai ao centro.",
+    "Cada membro diz um elogio.",
+    "A pessoa do centro apenas recebe, em silêncio."
+   ],
+   "feedback": "Não relatado.",
+   "exemplos_praticos": "Quase todos terminaram chorando; a maioria sentiu o impulso de rebater o elogio com uma negação; absorver o elogio foi 'profundamente angustiante'.",
+   "variacoes": "Usar como vivência para discutir acolhimento, autoestima e a relação entre acolher e confrontar.",
+   "armadilhas": "(Inferido) exige vínculo prévio entre os membros e capacidade de conter a emoção que surge.",
+   "nivel": "intermediário",
+   "funciona_online": false,
+   "ts": "0:37:16"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Retomar e integrar o novato",
+   "descricao": "Liga ao encontro anterior e explica a ferramenta de pacientes simulados a quem chega pela primeira vez.",
+   "exemplo": "'A gente tem uma ferramenta de treinamento clínico que funciona através de IA... pacientes simulados.'",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Abstrair um tema do caso",
+   "descricao": "Em vez de reanalisar o atendimento, extrai uma questão geral e a ancora num contraste com outra profissão.",
+   "exemplo": "'O código da medicina basicamente te proíbe de negar um atendimento; pro psicólogo é diferente.'",
+   "ts": "0:01:17"
+  },
+  {
+   "movimento": "Perguntas preparadas em escada",
+   "descricao": "Ordena as perguntas do ético-geral ao pessoal-reflexivo.",
+   "exemplo": "'Vocês acham que é justo um psicólogo recusar um paciente?' ... 'Indo para um campo mais reflexivo: vocês já se depararam com limites?'",
+   "ts": "0:02:23"
+  },
+  {
+   "movimento": "Contra-pergunta",
+   "descricao": "Quando a resposta vem fácil e consensual, pergunta pelo caso contrário.",
+   "exemplo": "'Você consegue pensar numa situação em que, mesmo não gostando do caso, seria melhor continuar atendendo?'",
+   "ts": "0:04:08"
+  },
+  {
+   "movimento": "Dilema real dividido",
+   "descricao": "Apresenta um episódio polêmico com os dois lados e pede opinião antes de comentar.",
+   "exemplo": "'Metade da turma e o professor defendiam que ela fez corretamente; a outra metade, que ela deveria ter parado e denunciado.'",
+   "ts": "0:09:34"
+  },
+  {
+   "movimento": "Distribuir a palavra",
+   "descricao": "Convida quem ainda não falou antes de dar a própria opinião.",
+   "exemplo": "'Antes de eu comentar, [o participante novo] quer comentar também?'",
+   "ts": "0:13:50"
+  },
+  {
+   "movimento": "Reformular termos",
+   "descricao": "Ajusta o vocabulário de um participante para precisar a ideia.",
+   "exemplo": "'Você falou em controle; eu trocaria a palavra por responsável.'",
+   "ts": "0:18:44"
+  },
+  {
+   "movimento": "Autorrevelação clínica",
+   "descricao": "Conta os próprios sustos e dificuldades para normalizar os limites do terapeuta.",
+   "exemplo": "Percebeu-se balançando na câmera diante de um paciente paranoide.",
+   "ts": "0:19:56"
+  },
+  {
+   "movimento": "Teoria com autoironia",
+   "descricao": "Cita Jung repetidamente, brinca com isso e pede correção quando entra em outra abordagem.",
+   "exemplo": "'[A participante] vai desistir de mim aqui, vou ficar citando só.' / 'Se você lembrar desse conceito, você me corrige.'",
+   "ts": "0:21:10"
+  },
+  {
+   "movimento": "Guardar o comentário",
+   "descricao": "Registra um ponto para não perdê-lo no fluxo da conversa.",
+   "exemplo": "'Só para não deixar fugir de novo...'",
+   "ts": "0:36:50"
+  },
+  {
+   "movimento": "Exemplos de outros contextos e referências comuns",
+   "descricao": "Traz uma dinâmica feita em outro grupo e evoca Alan como referência compartilhada.",
+   "exemplo": "'O Alan gosta muito de falar sobre essa questão do acolhimento.'",
+   "ts": "0:37:16"
+  },
+  {
+   "movimento": "Sugerir sem invadir a supervisão alheia",
+   "descricao": "Ressalva que não é o supervisor da participante antes de propor uma técnica.",
+   "exemplo": "'Mas não sou supervisor... vou aproveitar a liberdade para pensar em dinâmicas também.'",
+   "ts": "0:47:53"
+  },
+  {
+   "movimento": "Validar e fechar acolhendo",
+   "descricao": "Valida um relato, dá as boas-vindas ao novato, explica o calendário e divulga outros espaços.",
+   "exemplo": "'Belo exemplo.' / 'Muito bem-vindo.'",
+   "ts": "0:53:58"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Encaminhe quando o incômodo com o paciente impedir que você esteja presente.",
+   "justificativa": "'Às vezes é mais responsável repassar do que insistir'; sem suspender os próprios julgamentos, a relação não se forma.",
+   "contexto": "Perfis de paciente que atravessam intensamente o terapeuta.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:01:58"
+  },
+  {
+   "dica": "Antes de encaminhar, pese o dano de romper o vínculo.",
+   "justificativa": "Para quem sente que ninguém o suporta, ou tem risco de suicídio, o terapeuta pode ser um dos vínculos que o mantêm ligado à vida.",
+   "contexto": "Sempre que cogitar interromper um atendimento.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:06:00"
+  },
+  {
+   "dica": "Leve à própria terapia o incômodo com certo tipo de paciente.",
+   "justificativa": "Os limites são o ponto de desenvolvimento do terapeuta; só se descobre o que afeta entrando em contato e elaborando depois.",
+   "contexto": "Aversões a perfis ou 'picuinhas' recorrentes.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:07:24"
+  },
+  {
+   "dica": "Diante de um ato invasivo, dê uma resposta clara e à altura do ato.",
+   "justificativa": "Ficar 'em cima do muro' contamina as ações seguintes.",
+   "contexto": "Gestos físicos, ofensas, invasões: encerrar e remarcar, declarar que é inaceitável ou trabalhar na própria sessão se houver estrutura.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:15:03"
+  },
+  {
+   "dica": "Cuide do tom quando for pôr um limite.",
+   "justificativa": "Afetado, o terapeuta diz a coisa certa de forma agressiva ou com uma reprimenda estranha para um psicólogo.",
+   "contexto": "Ao encerrar uma sessão ou confrontar.",
+   "competencia": "Intervenção",
+   "ts": "0:17:35"
+  },
+  {
+   "dica": "Observe o próprio corpo durante a sessão.",
+   "justificativa": "Sinais corporais (balançar) revelam afetos que o terapeuta ainda não percebeu.",
+   "contexto": "Atendimentos online, em que a própria imagem ajuda, e casos que assustam.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:20:26"
+  },
+  {
+   "dica": "Use a quebra de combinados pelo paciente como material sobre os limites dele.",
+   "justificativa": "A clínica é um 'experimento', uma amostra de como a pessoa trata a fronteira do outro.",
+   "contexto": "O paciente se queixa de que não respeitam seus limites e desrespeita os do terapeuta.",
+   "competencia": "Intervenção",
+   "ts": "0:11:52"
+  },
+  {
+   "dica": "Transforme sua fantasia sobre o paciente em hipótese a checar, não em veredito.",
+   "justificativa": "Intuições são ferramentas se usadas com parcimônia; mostram que você está juntando as falas do paciente.",
+   "contexto": "'Quando eu junto todas as suas falas, me parece X; faz sentido para você?'",
+   "competencia": "Interpretação",
+   "ts": "0:23:26"
+  },
+  {
+   "dica": "Escreva o seu 'diagnóstico psicológico' do paciente e leve à supervisão.",
+   "justificativa": "O preconceito não formulado pega você 'pelas costas'; formulado, permite perguntar o que ele diz de você.",
+   "contexto": "Casos 'enjoados' ou difíceis sem motivo claro.",
+   "competencia": "Psicodiagnóstico",
+   "ts": "0:27:45"
+  },
+  {
+   "dica": "Pergunte no mesmo tom em que o paciente trouxe o tema.",
+   "justificativa": "Se ele solta o assunto de forma banal, uma pergunta igualmente leve abre a porta sem assustar.",
+   "contexto": "Temas evitados que aparecem de passagem (conduta combinada em supervisão por uma participante).",
+   "competencia": "Construção frasal",
+   "ts": "0:33:36"
+  },
+  {
+   "dica": "Acolha o 'não quero falar disso'.",
+   "justificativa": "Para quem tem dificuldade de pôr limites, ter o limite respeitado já é terapêutico; e 'tudo que importa volta'.",
+   "contexto": "Recusa explícita de um tema.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:34:39"
+  },
+  {
+   "dica": "Aponte contradições para mostrar que você escuta.",
+   "justificativa": "Poucas coisas demonstram escuta atenta tão bem quanto mostrar ao paciente que ele se contradisse.",
+   "contexto": "Discurso com oposições internas (reclamar de controle e controlar tudo).",
+   "competencia": "Escuta clínica",
+   "ts": "0:38:38"
+  },
+  {
+   "dica": "Confronte a manipulação do enquadre.",
+   "justificativa": "Atrasos, remarcações e telefone na sessão são tentativas de domínio sobre a estrutura; sem confronto, o terapeuta vira prestador de serviço.",
+   "contexto": "Padrões repetidos, sobretudo em pacientes muito controladores.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:40:00"
+  },
+  {
+   "dica": "Traga a pauta quando algo precisa ser trabalhado.",
+   "justificativa": "Direcionar não é roubar o discurso, é tratar elementos que surgiram e merecem intervenção.",
+   "contexto": "O paciente sempre desvia ou determina o assunto.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:42:39"
+  },
+  {
+   "dica": "Proponha abertamente um 'exercício de confrontação'.",
+   "justificativa": "Evita a espera pela 'oportunidade perfeita', dá segurança e deixa o paciente se preparar; trabalha a fronteira dele com o mundo.",
+   "contexto": "Pacientes que temem ser confrontados, mas precisam disso.",
+   "competencia": "Intervenção",
+   "ts": "0:47:53"
+  },
+  {
+   "dica": "Negocie o formato da sessão com pacientes muito sistemáticos.",
+   "justificativa": "O meio-termo (parte estruturada pelo paciente, parte aberta) preserva a necessidade dele e o trabalho do terapeuta.",
+   "contexto": "Pacientes que chegam com listas de tópicos.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:44:51"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O psicólogo pode recusar ou encaminhar um caso, e às vezes deve.",
+   "argumento": "A relação depende de o terapeuta conseguir estar presente e suspender julgamentos; insistir sem isso pode ser menos responsável.",
+   "contraponto": "Colegas da medicina que acham absurdo negar atendimento; o dano de romper vínculos (risco suicida).",
+   "implicacao": "Encaminhamento como decisão clínica pesada caso a caso.",
+   "quem": "João de Bragança",
+   "ts": "0:01:58"
+  },
+  {
+   "tese": "Os limites do terapeuta são o lugar onde ele precisa se desenvolver, não fronteiras fixas.",
+   "argumento": "Na psicoterapia, o que capacita para casos complexos é o desenvolvimento pessoal, não só o acúmulo técnico; o risco é a resignação.",
+   "contraponto": "A postura 'isso é moralmente inaceitável para mim e pronto'.",
+   "implicacao": "Terapia pessoal e supervisão como parte do trabalho clínico.",
+   "quem": "Participante novo, com endosso de João",
+   "ts": "0:07:45"
+  },
+  {
+   "tese": "O terapeuta não controla a sessão: é responsável pelos próprios afetos.",
+   "argumento": "Metáfora do xamã que cura a si mesmo; o afeto rebaixa a consciência e leva a reações primitivas.",
+   "contraponto": "A ideia de 'estar no controle da situação'.",
+   "implicacao": "Monitorar complexos e afetos em tempo real, inclusive pelo corpo.",
+   "quem": "João de Bragança",
+   "ts": "0:18:44"
+  },
+  {
+   "tese": "A neutralidade muitas vezes é uma defesa do terapeuta.",
+   "argumento": "Por medo de reagir de forma exagerada, o terapeuta abre mão da personalidade, sua principal ferramenta; sem ela não há dialética.",
+   "contraponto": "Uma formação 'quadradona', do 'não pode'.",
+   "implicacao": "Mostrar ao paciente como o ato afeta o terapeuta, cuidando da forma.",
+   "quem": "Participante novo e João de Bragança",
+   "ts": "0:29:39"
+  },
+  {
+   "tese": "Confrontar é uma forma de acolher.",
+   "argumento": "Apontar a contradição prova escuta atenta; há pacientes para quem ser só acolhido é o habitual, e o confronto é o novo.",
+   "contraponto": "Equiparar acolhimento a concordância ou a 'pisar em ovos'.",
+   "implicacao": "Planejar confrontos, inclusive combinados abertamente com o paciente.",
+   "quem": "João de Bragança (evocando Alan)",
+   "ts": "0:36:50"
+  },
+  {
+   "tese": "O diagnóstico psicológico, preconceito do terapeuta, é uma ferramenta a ser explicitada, não suprimida.",
+   "argumento": "Revela a postura do terapeuta frente ao caso; suprimido, age 'pelas costas'.",
+   "contraponto": "A ideia de que o terapeuta simplesmente não deve ter preconceitos; a confusão com o diagnóstico nosográfico.",
+   "implicacao": "Na supervisão, perguntar 'qual o problema de ele ser isso para você?'.",
+   "quem": "João de Bragança",
+   "ts": "0:26:43"
+  },
+  {
+   "tese": "A psicoterapia é o único espaço de saúde em que o pior do paciente vira material de trabalho.",
+   "argumento": "No dentista, no médico ou no nutricionista, um gesto invasivo dá 'denúncia na certa'; o psicólogo pode perguntar 'de onde veio isso?'.",
+   "contraponto": "A posição de que o único caminho seria interromper e denunciar.",
+   "implicacao": "Considerar transformar o ato em intervenção, sem abrir mão de pôr limite.",
+   "quem": "João de Bragança",
+   "ts": "0:25:29"
+  },
+  {
+   "tese": "O bom psicólogo se reconhece pela forma como reage a ser questionado.",
+   "argumento": "Quem gosta de confrontar mas não suporta ser confrontado se revela quando o paciente diz que não sabe se ele é bom.",
+   "contraponto": "Avaliar o terapeuta só pelo conforto que proporciona.",
+   "implicacao": "Acolher o questionamento como feedback clínico.",
+   "quem": "João de Bragança e participante",
+   "ts": "0:53:58"
+  },
+  {
+   "tese": "Sinceridade na clínica dá autonomia ao paciente.",
+   "argumento": "Dizer com franqueza o que incomodou mostra confiança na capacidade do paciente de ouvir e lidar com um limite.",
+   "contraponto": "O zelo excessivo, o 'pisar em ovos'.",
+   "implicacao": "Usar a franqueza como intervenção, com cuidado de forma e propósito.",
+   "quem": "João de Bragança e participante",
+   "ts": "0:49:08"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Às vezes é mais responsável repassar do que insistir.",
+   "tema": "encaminhamento",
+   "ts": "0:01:58"
+  },
+  {
+   "texto": "O psicólogo é, não raro, um dos vínculos mais fortes que a pessoa tem para se manter ligada à vida.",
+   "tema": "vínculo e risco",
+   "ts": "0:06:11"
+  },
+  {
+   "texto": "Esses limites são justamente o ponto onde você precisa se desenvolver.",
+   "tema": "limites do terapeuta (participante)",
+   "ts": "0:07:45"
+  },
+  {
+   "texto": "O xamã é o curandeiro da tribo. Mas quem cura ele? Ele é que tem que aprender a curar as próprias feridas.",
+   "tema": "curador ferido",
+   "ts": "0:18:44"
+  },
+  {
+   "texto": "Você falou em controle; eu trocaria pela palavra responsável.",
+   "tema": "responsabilidade do terapeuta",
+   "ts": "0:18:44"
+  },
+  {
+   "texto": "A emoção é uma incapacidade da consciência de lidar com a situação.",
+   "tema": "afeto (Jung)",
+   "ts": "0:21:20"
+  },
+  {
+   "texto": "Se você faz isso com o dentista, denúncia na certa. Se faz com o psicólogo, ele vai perguntar: de onde veio isso?",
+   "tema": "especificidade da psicoterapia",
+   "ts": "0:25:29"
+  },
+  {
+   "texto": "Esse preconceito diagnóstico evidencia a sua postura frente ao caso.",
+   "tema": "diagnóstico psicológico",
+   "ts": "0:27:45"
+  },
+  {
+   "texto": "A neutralidade muitas vezes faz você abrir mão da ferramenta mais importante do setting: a presença da sua personalidade.",
+   "tema": "neutralidade (participante)",
+   "ts": "0:30:58"
+  },
+  {
+   "texto": "Tudo que importa volta.",
+   "tema": "máxima clínica",
+   "ts": "0:35:31"
+  },
+  {
+   "texto": "Às vezes ser confrontativo também é uma forma de acolhimento.",
+   "tema": "confronto e acolhimento",
+   "ts": "0:37:16"
+  },
+  {
+   "texto": "Poucas vezes eu vi outra coisa que desse tanto certo para mostrar que você está escutando atentamente uma pessoa quanto apontar a contradição no discurso dela.",
+   "tema": "escuta",
+   "ts": "0:38:38"
+  },
+  {
+   "texto": "Às vezes o terapeuta direcionar é um exercício psíquico.",
+   "tema": "direção do tratamento",
+   "ts": "0:42:39"
+  },
+  {
+   "texto": "Fala com o seu psicólogo que você não sabe se ele é bom e vê como ele reage. É daí que você vai saber se ele é bom.",
+   "tema": "avaliar o terapeuta",
+   "ts": "0:53:58"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Psicólogo pode recusar paciente?",
+   "mensagem": "Sim, e às vezes deve; mas pese o vínculo (risco suicida) e leve o incômodo à sua própria terapia.",
+   "roteiro": [
+    "Gancho",
+    "Psicologia x medicina",
+    "Quando encaminhar é o mais responsável",
+    "Quando romper o vínculo prejudica",
+    "O limite como ponto de desenvolvimento"
+   ],
+   "corte_inicio": "0:01:17",
+   "corte_fim": "0:02:23"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Confrontar também é acolher.",
+   "mensagem": "Apontar a contradição do paciente é uma das maiores provas de escuta.",
+   "roteiro": [
+    "Gancho",
+    "Acolher não é concordar",
+    "Exemplo genérico de contradição",
+    "Como apontar sem atacar",
+    "Frase final"
+   ],
+   "corte_inicio": "0:37:16",
+   "corte_fim": "0:39:09"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Tudo que importa volta.",
+   "mensagem": "Por que respeitar o 'não quero falar disso' sem medo de perder o tema.",
+   "roteiro": [
+    "Frase",
+    "Explicação curta",
+    "Implicação para o terapeuta ansioso"
+   ],
+   "corte_inicio": "0:35:31",
+   "corte_fim": "0:36:40"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Quem cura o curador?",
+   "mensagem": "A metáfora junguiana do xamã: o terapeuta é responsável pelos próprios complexos e afetos, não 'no controle'.",
+   "roteiro": [
+    "Gancho",
+    "O xamã sem outro xamã",
+    "Controle x responsabilidade",
+    "O afeto rebaixa a consciência",
+    "Dica: observe seu corpo na sessão"
+   ],
+   "corte_inicio": "0:18:44",
+   "corte_fim": "0:19:56"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Quer saber se seu psicólogo é bom? Diga a ele que você não sabe.",
+   "mensagem": "A reação ao questionamento revela o profissional.",
+   "roteiro": [
+    "Gancho",
+    "A reação defensiva",
+    "A reação aberta",
+    "Por que isso importa"
+   ],
+   "corte_inicio": "0:53:58",
+   "corte_fim": "0:54:57"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Neutralidade pode ser defesa do terapeuta.",
+   "mensagem": "A personalidade do terapeuta é ferramenta; sem ela não há dialética.",
+   "roteiro": [
+    "Gancho",
+    "O medo de reagir exagerado",
+    "Neutralidade como defesa",
+    "Personalidade como ferramenta",
+    "Cuidar da forma"
+   ],
+   "corte_inicio": "0:29:39",
+   "corte_fim": "0:32:00"
+  },
+  {
+   "formato": "post",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Diagnóstico do DSM x diagnóstico psicológico.",
+   "mensagem": "O preconceito do terapeuta, formulado, vira ferramenta de supervisão.",
+   "roteiro": [
+    "Dois tipos de diagnóstico",
+    "O exemplo de Jung",
+    "Por que formular o preconceito",
+    "A pergunta de supervisão"
+   ],
+   "corte_inicio": "0:26:43",
+   "corte_fim": "0:29:04"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "A dinâmica que fez quase todo mundo chorar: receber elogio sem responder.",
+   "mensagem": "Vivência sobre acolhimento e autoestima; convite para os grupos.",
+   "roteiro": [
+    "Descrição da roda",
+    "A regra: não reagir",
+    "O que aconteceu",
+    "Convite"
+   ],
+   "corte_inicio": "0:36:50",
+   "corte_fim": "0:38:38"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Jung",
+   "contexto": "Fonte das metáforas e conceitos de João: 'sujar as mãos', o xamã que cura a si mesmo, o afeto como incapacidade da consciência, o diagnóstico psicológico ('filhinho de papai')."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria com João de Bragança (formato temático, perguntas disparadoras)",
+  "objetivo": "Supervisão em grupo; neste encontro, discutir limites clínicos a partir do caso da monitoria anterior (paciente simulado por IA).",
+  "publico": "Participantes da formação clínica da Allos (estagiários e psicólogos em início de carreira); um participante novo.",
+  "tamanho": "Muito pequeno neste dia: o facilitador e dois participantes (esvaziado por mudança de horário).",
+  "duracao": "Cerca de 57 minutos.",
+  "estrutura_padrao": "Retomada do caso anterior → tema abstraído → perguntas preparadas (geral → dilema → pessoal) com comentários teóricos e vinhetas → técnica concreta → fechamento com boas-vindas e agenda.",
+  "papel_facilitador": "Propõe perguntas, contra-pergunta, reformula, traz teoria junguiana e autorrevelação clínica, sugere técnicas; estilo horizontal e acolhedor.",
+  "regras_combinados": "Online, por voz; calendário divulgado no grupo de WhatsApp; ligado ao uso da ferramenta de pacientes simulados (ECO) e a outros espaços (aprimoramento com Diogo, práticas clínicas)."
+ },
+ "reflexoes_do_facilitador": [
+  "Lamenta que o encontro tenha ficado esvaziado por ter mudado o horário, justo na primeira vez do participante novo.",
+  "Reconhece que cita Jung demais ('a participante vai desistir de mim, vou ficar citando só') e pede correção sobre o conceito gestáltico.",
+  "Ressalva que não é o supervisor da participante antes de sugerir uma técnica.",
+  "Relata a própria dificuldade com um paciente paranoide e o trabalho, como supervisor, com uma supervisionanda com medo de intervir."
+ ],
+ "referencias_a_outros_encontros": [
+  "Continuidade da monitoria anterior sobre o atendimento de uma participante a um paciente simulado por IA (caso 'rústico e casual'), provavelmente mon-10.",
+  "A participante cita o aprimoramento clínico da véspera com Diogo, sobre fantasia do terapeuta.",
+  "Referência a Alan ('gosta muito de falar sobre o acolhimento... ou os limites disso') e aos vídeos dele no YouTube sobre psicologia analítica.",
+  "Convite ao novato para as práticas clínicas; calendário no WhatsApp.",
+  "Retoma o critério da mon-06 (saber receber feedback) ao falar de como saber se um psicólogo é bom."
+ ],
+ "observacoes": "Legenda automática com ruído (ex.: 'angoterapia' provavelmente 'boa terapia' (?); 'IAD ALOS' = IA da Allos; 'Carla/Carlos'). Título original 'Monitoria Karla' refere-se à participante que mais falou; o encontro não é a supervisão de um caso dela. Os casos citados (clínica-escola, pacientes de participantes e de João) são reais e foram mantidos genéricos; foi omitido um detalhe profissional identificável de uma paciente de participante e reduzido um relato da terapia pessoal de uma participante. A afirmação sobre o código de ética médico é opinião de João ('uma visão minha'), não verificada. A definição de afeto é atribuída por João aos 'fundamentos da psicologia analítica' de Jung, citada de memória. João diz 'zona de contato'; o fichamento usa o nome usual 'Fronteira de contato'."
+}

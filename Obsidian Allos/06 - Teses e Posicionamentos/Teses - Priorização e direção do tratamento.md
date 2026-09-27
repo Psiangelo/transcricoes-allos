@@ -1,0 +1,218 @@
+---
+tipo: "tese"
+tema: "Priorização e direção do tratamento"
+n_teses: 39
+tags: ["tese"]
+---
+
+# Teses — Priorização e direção do tratamento
+
+> [!abstract] 39 pontos de vista defendidos nos grupos e vídeos, cada um com o argumento, o contraponto e a implicação prática.
+> Ótimo ponto de partida para posts de opinião, debates em grupo e roteiros de vídeo.
+
+## Alan
+- **Terapia não é encontrar onde mais dói.**
+  - *Argumento:* Achar complexos ou o 'segredo obscuro' pode ajudar, mas não é o objetivo; o mais vivo não é o mais fundamental.
+  - *Contra quem / contraponto:* A fantasia de que aprofundar é sempre ir ao ponto mais dolorido.
+  - *Implicação prática:* Não confundir intensidade com prioridade clínica.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:36:55](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=5815s)
+- **A leitura psicanalítica clássica que toma a questão trans como psicose falha nesse caso, dentro da própria psicanálise.**
+  - *Argumento:* Neurose é dúvida; a dúvida está presente, deslocada para 'pedir ou não desculpas'. O ponto foi trazido por uma participante e acolhido por Alan.
+  - *Contra quem / contraponto:* Autores clássicos de psicanálise; Alan chama isso de 'tensão contemporânea'.
+  - *Implicação prática:* Procurar onde está a dúvida antes de concluir pela estrutura.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 0:29:30](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=1770s)
+- **O 'spoiler' de toda experiência terapêutica é edípico: a culpa é sua, a vida é sua.**
+  - *Argumento:* Retificação subjetiva (Dora como cavilha); Édipo Rei investiga a causa da desgraça e descobre que é ele.
+  - *Contra quem / contraponto:* A busca do paciente pelos motivos de 'os deuses' agirem contra ele.
+  - *Implicação prática:* Nas queixas sobre o mundo, procurar a participação do sujeito.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 1:32:32](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=5552s)
+- **Priorização clínica é a 'função sentimento': valoração, e não emoção.**
+  - *Argumento:* Em alemão, sentimento significa valoração, peso, prioridade; o mesmo problema de tradução aparece na economia.
+  - *Contra quem / contraponto:* O uso cotidiano que liga sentimento a emoção.
+  - *Implicação prática:* Treinar priorização é treinar julgamento de valor sobre o material clínico.
+  - [[Alan 14 - Priorização clínica 1]] [▶ 0:01:06](https://www.youtube.com/watch?v=bhMBmA7D57s&t=66s)
+- **Todo terapeuta tem um esquema de priorização, e o intuitivo não pode ser melhorado.**
+  - *Argumento:* Escolhemos o tempo todo, inclusive fora da clínica; só o que vem à consciência pode ser criticado.
+  - *Contra quem / contraponto:* A ideia de que o terapeuta 'não prioriza' porque não dirige o paciente.
+  - *Implicação prática:* O treino começa por nomear o que se faz.
+  - [[Alan 14 - Priorização clínica 1]] [▶ 0:45:59](https://www.youtube.com/watch?v=bhMBmA7D57s&t=2759s)
+- **Priorização não é das competências mais importantes; é um acelerador do processo.**
+  - *Argumento:* Se a coisa é importante, ela volta a aparecer; errar a priorização custa um paciente de vez em quando, 'um problema menor'.
+  - *Contra quem / contraponto:* Casos com pouca motivação, pouco tempo ou terapeuta impaciente.
+  - *Implicação prática:* Estudar antes interpretação e esquemas de aprofundamento.
+  - [[Alan 14 - Priorização clínica 1]] [▶ 1:33:51](https://www.youtube.com/watch?v=bhMBmA7D57s&t=5631s)
+- **Priorizar o mais grave pode ser enxugar gelo.**
+  - *Argumento:* O que mais causa dano pode ser consequência de um núcleo central.
+  - *Contra quem / contraponto:* Critério empático de gravidade (o que seria mais chocante para mim).
+  - *Implicação prática:* Buscar o central ou o mantenedor antes de agir sobre o grave, ressalvado o risco.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 0:09:31](https://www.youtube.com/watch?v=5S1N66EW-7w&t=571s)
+- **Ler fora da psicologia para ganhar vocabulário não funciona.**
+  - *Argumento:* É 'fala de pai para o filho ler Turma da Mônica'; o que muda a fala é aquilo com que se convive, e vocabulário distante não se transpõe para a clínica.
+  - *Contra quem / contraponto:* Se for ler, ler algo próximo da psicologia — ou Nietzsche, para treinar a concisão aforística.
+  - *Implicação prática:* Priorizar contato com material clínico e treino de síntese.
+  - [[Alan 16 - Intervenção]] [▶ 1:59:56](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=7196s)
+- **O vocabulário com que se nomeia um fenômeno muda a direção clínica.**
+  - *Argumento:* Chamar a repetição de leitmotiv leva a focar variações e progresso; chamá-la de pulsão de morte ou gozo leva a focar o núcleo que se repete. 'O ponto de vista do analista altera o objeto analisado.'
+  - *Contra quem / contraponto:* A ideia de que termos de abordagens vizinhas são intercambiáveis.
+  - *Implicação prática:* Escolher o foco (variação × núcleo) sabendo o efeito que terá.
+  - [[Alan 18 - Terapia de casal]] [▶ 0:29:37](https://www.youtube.com/watch?v=Yt4_GhU3pqg&t=1777s)
+- **Criar sobre a teoria é desnecessário para o clínico; saber pesar é indispensável.**
+  - *Argumento:* O que decide a clínica é avaliar, a priori, para que lado 'cortar' num dado contexto.
+  - *Contra quem / contraponto:* O ideal implícito de que o clínico precisa produzir teoria.
+  - *Implicação prática:* Priorizar exercícios de avaliação comparativa de hipóteses.
+  - [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] [▶ 1:13:02](https://www.youtube.com/watch?v=fRkymivFF9s&t=4382s)
+- **A preferência do paciente sobre a direção do tratamento é um dado, não uma ordem.**
+  - *Argumento:* O paciente indica querer um duelo intelectual, mas 'às vezes quem escolhe é a própria neurose'.
+  - *Contra quem / contraponto:* Seguir sem crítica o que o paciente pede, ou ignorá-lo.
+  - *Implicação prática:* Incorporar a preferência à formulação e decidir com justificativa.
+  - [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] [▶ 0:58:07](https://www.youtube.com/watch?v=fRkymivFF9s&t=3487s)
+- **Numa avaliação, vale sacrificar parte da fidelidade à realidade para ganhar concordância entre avaliadores.**
+  - *Argumento:* Há uma antinomia entre realismo e concordância. Com poucas notas possíveis (−9 a +9) e critérios bem discriminados, a diferença entre avaliadores cai para cerca de 5%, e é isso que a comunidade internacional lê.
+  - *Contra quem / contraponto:* Alan admite que 'dá para considerar isso sacanagem'.
+  - *Implicação prática:* Instrumentos de avaliação de roleplay com escala exponencial e critérios objetivos; a abordagem do avaliador deixa de importar.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 2:03:53](https://www.youtube.com/watch?v=nf32eXLKUrs&t=7433s)
+- **A velocidade (timing clínico) é talvez o critério clínico mais relevante para começar a estabelecer uma clínica.**
+  - *Argumento:* Evita a perda de pacientes nas primeiras sessões e gera indicação; é relevante clínica e comercialmente.
+  - *Contra quem / contraponto:* O ensino que só fala do que é certo, nunca do que dá dinheiro.
+  - *Implicação prática:* Fazer da velocidade o foco do treino.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:50:56](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=3056s)
+- **O objetivo da primeira sessão é garantir que a segunda aconteça.**
+  - *Argumento:* Nenhum tratamento acontece numa sessão; o que importa é montar a moldura que depois permite acelerar.
+  - *Contra quem / contraponto:* A expectativa de resolver algo no primeiro encontro.
+  - *Implicação prática:* Avaliar a primeira sessão pela adesão à proposta, não por resultados.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 1:25:20](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=5120s)
+- **A personalidade do terapeuta é uma das melhores ferramentas de cura, mas só quando ele sabe quem é e consegue bancar.**
+  - *Argumento:* Inovar sem bancar a inovação prejudica; a persona profissional é a linha de base segura.
+  - *Contra quem / contraponto:* A ideia de que autenticidade total desde o começo é sempre melhor.
+  - *Implicação prática:* Começar pela persona profissional e sair dela progressivamente.
+  - [[YT Avaliação Clínica 03 - Comecei na clínica, e agora]] [▶ 0:08:49](https://www.youtube.com/watch?v=JTso5qJYMNU&t=529s)
+- **O raio tende a aprofundar mais que os outros, mas depende da priorização.**
+  - *Argumento:* Cada pergunta nasce de um gancho da anterior, sem voltar nem pular.
+  - *Contra quem / contraponto:* Para quem prioriza mal, o raio perde o rumo.
+  - *Implicação prática:* Treinar priorização antes de adotar o raio.
+  - [[YT Avaliação Clínica 05 - Como treinar sua escuta clínica - Um guia aprofundado]] [▶ 0:07:13](https://www.youtube.com/watch?v=pbCStH1GWgY&t=433s)
+- **O objetivo da primeira sessão, em qualquer abordagem, é que a segunda aconteça.**
+  - *Argumento:* Praticamente nenhum tratamento ocorre numa sessão; compreensão de caso e anamnese são inúteis se a pessoa não volta.
+  - *Contra quem / contraponto:* A primeira sessão como coleta de dados.
+  - *Implicação prática:* Ser ativo e trabalhar expectativas.
+  - [[YT Avaliação Clínica 10 - Primeira sessão em TCC - o que evitar]] [▶ 0:01:38](https://www.youtube.com/watch?v=zG7e2OoxWXU&t=98s)
+- **Uma psicologia séria precisa de dados e mensuração; sem isso é um castelo de cartas.**
+  - *Argumento:* Não dá para melhorar sem enxergar; estudo sem priorização é ineficiente.
+  - *Contra quem / contraponto:* Alan se diz 'bizarramente crítico' à forma como a mensuração é feita.
+  - *Implicação prática:* Usar medidas com consciência de seus limites.
+  - [[YT Avaliação Clínica 12 - Como funciona o instrumento de avaliação]] [▶ 0:34:23](https://www.youtube.com/watch?v=jYbUiWwmF2I&t=2063s)
+
+## Diogo
+- **O objetivo da intervenção define sua forma; sem objetivo, a habilidade global fica vazia.**
+  - *Argumento:* 'Aham, entendi' não serve para afirmar compreensão, mas para sinalizar atenção; a mesma reformulação serve para aprofundar ou para checar, e isso muda o que vem depois.
+  - *Contra quem / contraponto:* Intervenções automáticas, feitas por hábito.
+  - *Implicação prática:* Antes de intervir, pergunte para que está dizendo aquilo.
+  - [[Acervo 15 - Habilidades terapêuticas e os usos da empatia]] [▶ 0:39:48](https://www.youtube.com/watch?v=eHYies2o_GA&t=2388s)
+- **Responsabilizar quem se vive como amaldiçoado pode torná-lo mais neurótico e mais isolado.**
+  - *Argumento:* Se o núcleo é 'sou o único azarado do mundo', a responsabilidade confirma a maldição; o que o ajudou foi a conexão com alguém.
+  - *Contra quem / contraponto:* A hipótese da monitorada, centrada na responsabilização; Diogo diz que isso pode ser invertido depois.
+  - *Implicação prática:* Priorizar a conexão com os outros e 'atacar no jogo' (fazer algo) em vez de só devolver a culpa.
+  - [[Monitoria 15 - Diogo - Responsabilização e vínculo na primeira sessão]] [▶ 0:54:33](https://www.youtube.com/watch?v=hoph0oBm7iU&t=3273s)
+- **Recursos de tom como humor e ironia não são proibidos, mas exigem pensar no objetivo e na recepção.**
+  - *Argumento:* A risada irônica pode ser lida como deboche, mas não é necessariamente um problema.
+  - *Contra quem / contraponto:* Um participante via risco na risada.
+  - *Implicação prática:* Usar a ironia com intenção clara e observar a reação.
+  - [[Monitoria 15 - Diogo - Responsabilização e vínculo na primeira sessão]] [▶ 0:09:40](https://www.youtube.com/watch?v=hoph0oBm7iU&t=580s)
+- **Não cabe ao terapeuta resolver o problema; cabe ao paciente.**
+  - *Argumento:* O objetivo da primeira sessão não era resolver, e sim abrir caminho e gerar uma 'mini motivação'.
+  - *Contra quem / contraponto:* A pressão de resolver tudo na primeira sessão.
+  - *Implicação prática:* Medir o sucesso inicial pela abertura e pela motivação, não pela resolução.
+  - [[Monitoria 16 - Diogo - Autenticidade e ser verdadeiro na clínica]] [▶ 0:50:58](https://www.youtube.com/watch?v=LSaS_1EaQzY&t=3058s)
+- **Propor uma demanda além da queixa pode invalidar o paciente, a não ser que ela seja amarrada à queixa.**
+  - *Argumento:* O paciente vem por A; ouvir que o problema é outro pode soar como desqualificação.
+  - *Contra quem / contraponto:* A prática de redefinir logo o motivo da terapia.
+  - *Implicação prática:* Construir a ponte explícita queixa → demanda.
+  - [[Monitoria 16 - Diogo - Autenticidade e ser verdadeiro na clínica]] [▶ 0:58:00](https://www.youtube.com/watch?v=LSaS_1EaQzY&t=3480s)
+- **A experiência emocional corretiva é ferramenta, não objetivo.**
+  - *Argumento:* O objetivo não é mudar o paciente, e sim abrir a possibilidade de ele ser outra coisa e refletir sobre isso.
+  - *Contra quem / contraponto:* A visão de que o terapeuta escolhe o caminho e o vai aplicando.
+  - *Implicação prática:* Criar a experiência e depois abri-la à reflexão.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 0:55:16](https://www.youtube.com/watch?v=ju1ShOijRrg&t=3316s)
+- **O processo clínico é um jardim, não uma estrada.**
+  - *Argumento:* Os objetivos se misturam; o inconsciente é atemporal e não segue a lógica cartesiana; volta-se aos mesmos pontos quando é preciso.
+  - *Contra quem / contraponto:* A leitura linear do próprio modelo de sete passos.
+  - *Implicação prática:* Revisitar prioridades e objetivos sem culpa de 'voltar atrás'.
+  - [[Monitoria 21 - Diogo - Sete passos da tomada de decisão clínica]] [▶ 0:52:36](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3156s)
+
+## João de Bragança
+- **Não existe um papel do paciente a priori válido para todos; há princípios abstratos cujo conteúdo muda com o caso.**
+  - *Argumento:* Foco em si, colaboração e congruência se invertem conforme o caso ou a fase; 'responsabilidade no processo' sobrevive por ser aberta.
+  - *Contra quem / contraponto:* As ideias a priori de cada participante e o relativismo puro.
+  - *Implicação prática:* Formular princípios gerais e reescrevê-los para cada paciente.
+  - [[Monitoria 08 - João de Bragança - MAPA e o papel do paciente]] [▶ 0:27:11](https://www.youtube.com/watch?v=WDkH3mWKmew&t=1631s)
+
+## Gabriel
+- **O terapeuta sempre prioriza; o que muda é se sabe como.**
+  - *Argumento:* Priorizar é o mesmo processo intuitivo de qualquer conversa e acontece com ou sem conhecimento dos pressupostos.
+  - *Contra quem / contraponto:* Objeção de participante: 'tudo é muito subjetivo, cada caso é um caso'.
+  - *Implicação prática:* Treinar a consciência do critério, não uma regra de priorização.
+  - [[Acervo 01 - Critérios de priorização na escuta]] [▶ 0:23:05](https://www.youtube.com/watch?v=68EvtsNg3HI&t=1385s)
+- **Não existe critério de priorização sem custo.**
+  - *Argumento:* Cada critério tem vantagens e problemas: o grave pode ser o grave para o terapeuta, a demanda pode ser sintoma, o central exige leitura correta, tratar o sintoma pode ser enxugar gelo.
+  - *Contra quem / contraponto:* A ideia de um critério universal (por exemplo, 'sempre o mais grave').
+  - *Implicação prática:* Escolher o critério conforme o momento e saber que risco se assume.
+  - [[Acervo 01 - Critérios de priorização na escuta]] [▶ 0:24:39](https://www.youtube.com/watch?v=68EvtsNg3HI&t=1479s)
+- **Seguir a demanda do paciente tem limites.**
+  - *Argumento:* Uma neurose entranhada pode fazer a pessoa priorizar o que a leva 'pro buraco'; ela pode ter uma visão turva da própria personalidade.
+  - *Contra quem / contraponto:* A ideia de que acolher a queixa é sempre o caminho mais respeitoso.
+  - *Implicação prática:* Acolher a demanda sem tomá-la como mapa definitivo.
+  - [[Acervo 01 - Critérios de priorização na escuta]] [▶ 0:26:56](https://www.youtube.com/watch?v=68EvtsNg3HI&t=1616s)
+- **A questão pessoal do terapeuta pode ser recurso ou cegueira.**
+  - *Argumento:* O que foi elaborado na própria terapia dá base; o que não foi produz 'dois cegos se guiando'.
+  - *Contra quem / contraponto:* A ideia de uma escuta neutra.
+  - *Implicação prática:* Terapia pessoal e supervisão como parte da priorização.
+  - [[Acervo 01 - Critérios de priorização na escuta]] [▶ 0:13:50](https://www.youtube.com/watch?v=68EvtsNg3HI&t=830s)
+- **O que o terapeuta diz que fez nem sempre é o que fez.**
+  - *Argumento:* A justificativa de um participante ('priorizei a demanda') não descrevia a intervenção real, que abstraiu uma forma comum aos fenômenos.
+  - *Contra quem / contraponto:* O próprio Gabriel relativiza a leitura ('é uma fantasia minha').
+  - *Implicação prática:* O olhar dos colegas e da supervisão revela critérios que o autor não percebe; por isso o grupo infere antes de o autor explicar.
+  - [[Acervo 01 - Critérios de priorização na escuta]] [▶ 1:06:52](https://www.youtube.com/watch?v=68EvtsNg3HI&t=4012s)
+
+## Outros facilitadores e participantes
+- **A cura é um acontecimento do caminho, não um objetivo, e transforma também o terapeuta.**
+  - *Argumento:* A transformação vem tanto do paciente quanto do terapeuta.
+  - *Contra quem / contraponto:* A terapia como produção direta de resultados.
+  - *Implicação prática:* Reduzir a pressão por resultado a cada sessão.
+  - Participante de orientação psicanalítica · [[Acervo 08 - Como a clínica atravessa o terapeuta]] [▶ 0:08:00](https://www.youtube.com/watch?v=S8TM08kgrCE&t=480s)
+- **A eficácia do plantão não está em resolver a queixa, mas em ajudar a pessoa a encontrar os próprios modos de lidar.**
+  - *Argumento:* A pessoa conhece a própria realidade muito melhor que o plantonista, cujo papel é reorganizar significados junto com ela.
+  - *Contra quem / contraponto:* A expectativa de consertar ou de dar respostas.
+  - *Implicação prática:* Reforçar a autonomia e construir junto em vez de prescrever.
+  - Cindy · [[Acervo 20 - Mesa de estudos sobre plantão psicológico]] [▶ 0:17:29](https://www.youtube.com/watch?v=PmJtmPKYBSY&t=1049s)
+- **Todo terapeuta prioriza; a questão é tornar consciente o critério.**
+  - *Argumento:* Intuitivamente já escolhemos por onde começar; sem consciência, o critério é vício ou crença.
+  - *Contra quem / contraponto:* A clínica intuitiva que não sabe justificar suas escolhas.
+  - *Implicação prática:* Treinar a explicitação de critérios (o que, por quê, com que risco).
+  - Facilitador · [[Acervo 21 - Critérios para priorizar o discurso do paciente]] [▶ 0:03:16](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=196s)
+- **Passar a sua priorização para a do paciente é terceirizar a responsabilidade clínica.**
+  - *Argumento:* Escolher o que trabalhar é parte do trabalho do terapeuta.
+  - *Contra quem / contraponto:* A postura de seguir sempre o tema que o paciente traz.
+  - *Implicação prática:* Tratar a prioridade do paciente como um critério entre vários.
+  - Facilitador · [[Acervo 21 - Critérios para priorizar o discurso do paciente]] [▶ 0:25:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1529s)
+- **Discutir priorização em abstrato leva ao 'depende'; é preciso vinheta clínica.**
+  - *Argumento:* Sem caso concreto, os critérios parecem todos válidos ou nenhum.
+  - *Contra quem / contraponto:* O próprio formato abstrato do exercício.
+  - *Implicação prática:* Ancorar o treino de priorização em vinhetas e roleplay.
+  - Participantes e facilitador · [[Acervo 21 - Critérios para priorizar o discurso do paciente]] [▶ 0:10:02](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=602s)
+- **A formação brasileira em psicologia põe a prática tarde demais.**
+  - *Argumento:* Começar a atender no 5º período, ou no 8º, é como ter dois anos de teoria da natação antes de entrar na água.
+  - *Contra quem / contraponto:* As graduações estruturadas em torno da teoria.
+  - *Implicação prática:* Praticar cedo, mas de forma estruturada, com objetivos e deliberação.
+  - Bernardo · [[PD 01 - Estagnação da psicoterapia e limites da experiência]] [▶ 0:56:46](https://www.youtube.com/watch?v=rPXu2D7MkAc&t=3406s)
+- **O bem-estar geral é melhor que o sintoma, mas insuficiente; é preciso medir a demanda singular.**
+  - *Argumento:* A melhora costuma ser idiossincrática; as medidas gerais não captam como a demanda mudou nem a percepção do paciente sobre sua resolução.
+  - *Contra quem / contraponto:* As medidas propostas pelo Better Results.
+  - *Implicação prática:* A Allos está desenvolvendo instrumentos próprios (fase inicial).
+  - Allos (relatado pelo facilitador) · [[PD 04 - Linha de base e medidas de resultado]] [▶ 0:30:45](https://www.youtube.com/watch?v=Bfbrb4bujbo&t=1845s)
+- **O maior valor do feedback é formar o hábito da auto-observação, antídoto contra o automatismo.**
+  - *Argumento:* Refletir deliberadamente sobre a própria prática impede que a bagagem substitua o fenômeno clínico.
+  - *Implicação prática:* Criar rotinas de reflexão estruturada (fraquezas, objetivos, plano).
+  - Bernardo · [[PD 05 - Problemas da mensuração, aliança e auto-observação]] [▶ 0:38:59](https://www.youtube.com/watch?v=7aHutJ-HDWk&t=2339s)
+
+## Relacionados
+- [[MOC - Teses e posicionamentos]]

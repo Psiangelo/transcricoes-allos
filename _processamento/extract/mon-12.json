@@ -1,0 +1,680 @@
+{
+ "id": "mon-12",
+ "nota": "Monitoria 12 - Diogo - Forma do discurso e intervenções longas",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Forma do discurso e intervenções longas",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Monitoria curta em que um terapeuta em formação lê uma sessão escrita feita com o paciente simulado por IA da Allos (o personagem “homem ridículo”) e Diogo interrompe a cada intervenção. Na primeira parte, Diogo separa impressão de hipótese, exige que a impressão seja ancorada em falas concretas, discute se o paciente argumenta logicamente ou apenas racionaliza e caracteriza, e transforma a fantasia genérica do monitorado em dado: o paciente ainda não disse qual é o problema, a forma vira conteúdo. Na segunda parte, discute uma intervenção longa que o monitorado chamou de psicoeducação: Diogo a reclassifica como espelho, decompõe em metáfora, compartilhamento de raciocínio e espelho, e defende que a metáfora vale por ampliar o repertório do paciente e que recursos de funções diferentes competem entre si, gerando imprecisão. O monitorado defende a intenção relacional (colocar-se no campo, como Rogers); Diogo mostra que o paciente pode entrar em “outro jogo”. Termina sem ler a resposta do paciente, com continuação combinada para a semana seguinte.",
+ "em_uma_frase": "Ao ler fala a fala uma sessão com paciente simulado, Diogo ensina a ancorar a impressão no discurso, a tratar a ausência de conteúdo como dado e a evitar intervenções longas que misturam metáfora, raciocínio e espelho.",
+ "competencias": [
+  "Escuta clínica",
+  "Interpretação",
+  "Intervenção",
+  "Construção frasal",
+  "Psicoeducação",
+  "Relação terapêutica",
+  "Feedback clínico",
+  "Pessoa do terapeuta"
+ ],
+ "abordagens": [
+  "Abordagem centrada na pessoa",
+  "Psicologia analítica junguiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Escolha de qual atendimento com o paciente simulado será lido; problemas de login.",
+   "funcao": "Selecionar um atendimento feito com seriedade.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:01:46",
+   "bloco": "Abertura",
+   "descricao": "Diogo explica a monitoria a uma recém-chegada: acompanhamento individual, proibição de casos reais em encontro aberto, paciente simulado por IA, análise no nível micro da sessão.",
+   "funcao": "Situar ouvintes novos e justificar o simulador.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:03:01",
+   "bloco": "Combinados",
+   "descricao": "Aviso de tempo limitado; o monitorado escolhe ler; contexto do caso (mesmo personagem da semana anterior, atendido por outra terapeuta).",
+   "funcao": "Dar controle ao monitorado e ligar ao encontro anterior.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:04:14",
+   "bloco": "Demonstração",
+   "descricao": "Abertura propositalmente aleatória da sessão e primeira fala do paciente simulado.",
+   "funcao": "Material bruto comum.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:06:45",
+   "bloco": "Feedback",
+   "descricao": "Intervenção “qual a condição da sua distância?”; impressão geral; impressão × hipótese; elementos do discurso que sustentam a impressão.",
+   "funcao": "Ancorar a leitura no texto.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:11:13",
+   "bloco": "Demonstração",
+   "descricao": "Resposta do paciente e intervenção com metáfora (latitude e longitude × soterramento amargurado).",
+   "funcao": "Avançar no material.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:13:41",
+   "bloco": "Discussão",
+   "descricao": "Construção lógica × racionalização e caracterização; “o que você chama de lógica?”.",
+   "funcao": "Precisão terminológica e evidência textual.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:20:27",
+   "bloco": "Discussão",
+   "descricao": "“Você consegue ver conteúdo?”; fantasia genérica e introversão do monitorado; a ausência de dados é um dado.",
+   "funcao": "Converter a dificuldade do terapeuta em dado clínico.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:25:08",
+   "bloco": "Feedback",
+   "descricao": "Resposta do paciente à metáfora; a intervenção explorou o soterramento? Fuga, devolução ao terapeuta, resistência; comentário do chat.",
+   "funcao": "Checar continuidade entre intervenções.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:27:56",
+   "bloco": "Demonstração",
+   "descricao": "Leitura da intervenção longa (xadrez, livro de regras, atitude quase infantil); envio do formulário de presença.",
+   "funcao": "Material para a discussão central.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:30:19",
+   "bloco": "Feedback",
+   "descricao": "Por que tão grande? Psicoeducação × espelho; três recursos na mesma fala; intenção de “trazer para jogar”; sugestão de versão curta.",
+   "funcao": "Classificar recursos e ligar forma e intenção.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:37:15",
+   "bloco": "Teoria",
+   "descricao": "Risco de imprecisão: metáfora expande, espelho foca, efeitos concorrentes.",
+   "funcao": "Princípio geral de construção da intervenção.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:40:27",
+   "bloco": "Discussão",
+   "descricao": "Hipótese de Diogo (harmonia com o discurso erudito do paciente) e defesa do monitorado (espelho que o coloca no campo, como Rogers).",
+   "funcao": "Explorar motivações do terapeuta.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:43:05",
+   "bloco": "Feedback",
+   "descricao": "Valor da intervenção para paciente omisso × risco de o paciente entrar em outro “jogo”; intervenção coringa.",
+   "funcao": "Avaliar pela intenção.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:45:18",
+   "bloco": "Fechamento",
+   "descricao": "Sem tempo para ler a resposta; continuação na semana seguinte; feedback fora da gravação.",
+   "funcao": "Encerrar sem forçar conclusão.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Impressão clínica",
+   "definicao": "Percepção geral que o discurso do paciente produz no terapeuta (aqui: ele não está no mesmo plano que os outros). Deve ser separada das hipóteses que a explicam e ancorada em elementos concretos do texto; costuma surgir cedo e se confirmar ao longo do discurso.",
+   "exemplo": "O monitorado percebe distância a partir do comentário sobre o “protocolo”, da posição de quem supõe que deve se explicar e da erudição.",
+   "abordagem": "",
+   "ts": "0:07:19"
+  },
+  {
+   "nome": "Forma e conteúdo",
+   "definicao": "O modo como o paciente fala (abstrato, erudito, sem nomear problemas concretos) pode ser tomado como conteúdo clínico. A ausência de especificação é, ela mesma, um dado que corrobora a leitura do que ele diz explicitamente.",
+   "exemplo": "O paciente fala de desapontamentos, mas não diz se o problema é o trabalho, o chefe ou uma relação.",
+   "abordagem": "",
+   "ts": "0:23:05"
+  },
+  {
+   "nome": "Racionalização",
+   "definicao": "Justificar e naturalizar um estado com linguagem lógica ou erudita, sem uma cadeia causal real. Diogo a distingue de construção lógica (se tais fatores, então tal coisa) e de simples caracterização.",
+   "exemplo": "Chamar a própria distância de “um dado do problema, uma variável constante na equação”.",
+   "abordagem": "",
+   "ts": "0:15:43"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Afastamento do paciente em relação a um tema que o implica, visível em desvios e em devolver a pergunta ao terapeuta. Para Diogo, é a primeira hipótese diante desses sinais, com fundamento, mas ainda hipótese.",
+   "exemplo": "Após a metáfora do soterramento, o paciente filosofa e provoca o terapeuta em vez de explorar a própria história.",
+   "abordagem": "",
+   "ts": "0:27:56"
+  },
+  {
+   "nome": "Antihermenêutica",
+   "definicao": "Evocada pelo monitorado para ler a fuga do paciente como sinal de um ponto que ele não quer tocar.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:27:56"
+  },
+  {
+   "nome": "Espelhamento",
+   "definicao": "Intervenção que devolve ao paciente o que o terapeuta está vendo nele, para que ele se olhe num foco. Diferente da psicoeducação, que explica um fenômeno. Diogo diz preferir, em geral, o espelho.",
+   "exemplo": "Dizer que a atitude de vida do paciente parece “quase infantil: não me convidaram para jogar, então nem era tão bom”.",
+   "abordagem": "",
+   "ts": "0:31:01"
+  },
+  {
+   "nome": "Metáfora terapêutica",
+   "definicao": "Imagem oferecida ao paciente. Sua principal riqueza não é transmitir a mensagem do terapeuta com outras palavras, mas permitir que o paciente amplie o próprio repertório a partir dela; explicada logo em seguida, perde essa função.",
+   "exemplo": "A imagem do jogo de xadrez e do livro de regras.",
+   "abordagem": "",
+   "ts": "0:34:21"
+  },
+  {
+   "nome": "Compartilhamento de impressões",
+   "definicao": "O terapeuta expõe ao paciente o próprio raciocínio ou percepção. Diogo diz gostar do recurso, mas ele aumenta o risco de imprecisão quando somado a metáfora e espelho na mesma fala.",
+   "exemplo": "Explicar ao paciente que o jogo só ganha vida quando se desce para o fazer.",
+   "abordagem": "",
+   "ts": "0:36:19"
+  },
+  {
+   "nome": "Congruência",
+   "definicao": "Lembrada pelo monitorado através de Rogers: o terapeuta se coloca no campo com a própria experiência, o que já seria trabalho de relação terapêutica.",
+   "exemplo": "Rogers bocejando diante de um cliente numa sessão filmada.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:42:07"
+  },
+  {
+   "nome": "Equação pessoal",
+   "definicao": "O estilo do terapeuta interfere no que ele consegue perceber: o monitorado, que tende a abstrair, tem dificuldade de ver as especificidades do paciente e diz ter “quase a mesma neurose” dele.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:21:48"
+  },
+  {
+   "nome": "Introversão",
+   "definicao": "Termo da psicologia analítica usado pelo monitorado: afastar-se dos objetos e abstrair um conteúdo essencial, o que explicaria sua facilidade para a impressão geral e dificuldade com dados específicos.",
+   "exemplo": "",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:21:48"
+  },
+  {
+   "nome": "Paciente simulado por inteligência artificial",
+   "definicao": "Chatbot de texto que simula um paciente, programado com história e jeito de se comunicar, usado pela Allos para treinar terapeutas e permitir supervisão aberta sem expor casos reais.",
+   "exemplo": "O personagem “homem ridículo”, atendido por vários monitorados.",
+   "abordagem": "",
+   "ts": "0:01:46"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Leitura comentada do atendimento simulado",
+   "objetivo": "Examinar fala a fala a escuta e as intervenções de um terapeuta em formação a partir de um atendimento escrito com paciente simulado.",
+   "competencias": [
+    "Escuta clínica",
+    "Interpretação",
+    "Intervenção",
+    "Construção frasal"
+   ],
+   "configuracao": "Um monitorado, o supervisor e poucos ouvintes (três ou quatro); online, com a sessão compartilhada na tela.",
+   "tempo": "40 a 45 minutos para cerca de quatro intervenções (material não concluído).",
+   "materiais": "Transcrição de uma sessão com o paciente simulado por IA; compartilhamento de tela; formulário de presença.",
+   "consigna": "Você prefere ler ou que eu leia? Contextualize como começou a sessão. A cada intervenção: o que você achou de como o paciente chegou? Que elemento do discurso foi determinante? Por que você fez uma fala tão grande?",
+   "passos": [
+    "Escolher com o monitorado um atendimento feito com seriedade.",
+    "O monitorado lê a fala do paciente e a própria intervenção.",
+    "O supervisor pede a impressão, depois as evidências no texto e só então as hipóteses.",
+    "Discutir a intervenção: recurso, intenção, tamanho, efeito provável.",
+    "Ler a resposta seguinte do paciente e verificar se a intervenção abriu o que pretendia.",
+    "Sem tempo, interromper e retomar no encontro seguinte."
+   ],
+   "feedback": "Critérios: impressão ancorada no texto; termos definidos; recurso nomeado corretamente (espelho × psicoeducação); coerência entre intenção e forma; concisão; efeito observado na resposta seguinte. Discorda abertamente, marcando quando é opinião pessoal.",
+   "exemplos_praticos": "O monitorado leu bem a distância do paciente, mas chamou de lógica o que Diogo via como racionalização; só conseguiu fantasias genéricas sobre a vida do paciente, convertidas em dado; chamou um espelho de psicoeducação; defendeu a intervenção longa pela intenção relacional. Às vezes não lembrava a própria intenção porque a sessão era antiga.",
+   "variacoes": "O supervisor lê e o monitorado só comenta; continuar o mesmo atendimento em encontros sucessivos; comparar atendimentos de terapeutas diferentes com o mesmo personagem.",
+   "armadilhas": "Ler em voz alta distancia o monitorado do conteúdo; sessões antigas dificultam reconstruir intenções; em 45 minutos cabem poucas intervenções.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:03:01"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Contextualizar o formato para quem chega",
+   "descricao": "Explica a monitoria, a regra de não trazer casos reais e o paciente simulado a uma ouvinte nova.",
+   "exemplo": "Como o encontro é aberto, a gente não pode falar de casos reais aqui dentro.",
+   "ts": "0:01:46"
+  },
+  {
+   "movimento": "Dar escolhas ao monitorado",
+   "descricao": "Pergunta se ele prefere ler ou que Diogo leia, e qual atendimento trazer.",
+   "exemplo": "Você prefere que eu leia? Você prefere ler?",
+   "ts": "0:03:01"
+  },
+  {
+   "movimento": "Perguntar antes de opinar",
+   "descricao": "Começa pela impressão do monitorado sobre a chegada do paciente.",
+   "exemplo": "O que você achou dessa forma como o paciente chegou para a terapia?",
+   "ts": "0:06:45"
+  },
+  {
+   "movimento": "Parafrasear e sintetizar",
+   "descricao": "Devolve o raciocínio do monitorado organizado em impressão e possibilidades.",
+   "exemplo": "Você já começou trazendo a percepção geral: ele não está no mesmo plano que todo mundo.",
+   "ts": "0:07:19"
+  },
+  {
+   "movimento": "Corrigir a pergunta, não a pessoa",
+   "descricao": "Esclarece o foco da própria pergunta quando o monitorado a entende de outro modo.",
+   "exemplo": "Isso, para a impressão, não para as hipóteses.",
+   "ts": "0:08:30"
+  },
+  {
+   "movimento": "Exigir evidência textual",
+   "descricao": "Pede as falas exatas que sustentam a leitura, com o texto grifado na tela.",
+   "exemplo": "Quais falas dessa resposta têm essa construção lógica?",
+   "ts": "0:13:41"
+  },
+  {
+   "movimento": "Discordar relativizando",
+   "descricao": "Expõe discordância com franqueza, marcando que é perspectiva pessoal.",
+   "exemplo": "Vou ser sincero, mas é mais a minha perspectiva: não vi construção lógica, vi muita racionalização.",
+   "ts": "0:15:43"
+  },
+  {
+   "movimento": "Pedir definição de termos",
+   "descricao": "Resolve discordâncias perguntando o que cada um chama de um termo; aceita a mesma pergunta de volta.",
+   "exemplo": "O que você está chamando de lógica?",
+   "ts": "0:18:00"
+  },
+  {
+   "movimento": "Converter dificuldade em dado",
+   "descricao": "Transforma a fantasia genérica do monitorado em informação sobre o paciente.",
+   "exemplo": "A ausência de dados, a ausência de especificações, já é um dado.",
+   "ts": "0:22:43"
+  },
+  {
+   "movimento": "Integrar o chat",
+   "descricao": "Lê e incorpora comentários de ouvintes durante a discussão.",
+   "exemplo": "Comentário de uma participante sobre o “estado natural” como incômodo de ser implicado.",
+   "ts": "0:27:56"
+  },
+  {
+   "movimento": "Perguntar o porquê da forma",
+   "descricao": "Questiona o tamanho e a composição da intervenção antes de avaliar.",
+   "exemplo": "Primeira coisa: por que você fez uma fala tão grande?",
+   "ts": "0:30:19"
+  },
+  {
+   "movimento": "Oferecer alternativa concreta",
+   "descricao": "Propõe a versão enxuta da intervenção.",
+   "exemplo": "Você poderia ter falado só: o jogo mais divertido é entediante se você só fica lendo o livro de regras.",
+   "ts": "0:36:47"
+  },
+  {
+   "movimento": "Hipotetizar a motivação do terapeuta",
+   "descricao": "Sugere, com cautela, que o monitorado imitou o registro erudito do paciente para não ser refutado.",
+   "exemplo": "Talvez eu esteja enviesado, mas parece que você aposta numa estrutura bem justificada para jogar na mesma língua que ele.",
+   "ts": "0:40:27"
+  },
+  {
+   "movimento": "Validar antes de apontar risco",
+   "descricao": "Reconhece a função da intervenção e depois pergunta pelo risco.",
+   "exemplo": "É uma função interessante para o paciente omisso. Porém, em meio a tantos conteúdos, você reconhece o risco de cair em outra coisa?",
+   "ts": "0:43:05"
+  },
+  {
+   "movimento": "Fechar sem forçar conclusão e pedir feedback",
+   "descricao": "Adia a leitura da resposta, envia formulário de presença e para a gravação para ouvir críticas.",
+   "exemplo": "Deixa eu parar a gravação, caso vocês queiram me dar um feedback no off.",
+   "ts": "0:45:18"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Formule a impressão geral antes das hipóteses e localize as falas que a produziram.",
+   "justificativa": "Sem lastro no texto a impressão vira projeção; com lastro, dá para ver se ela se confirma ao longo do discurso.",
+   "contexto": "Primeiras falas de um paciente.",
+   "competencia": "Escuta clínica",
+   "ts": "0:08:30"
+  },
+  {
+   "dica": "Aponte a fala exata quando afirmar algo sobre o discurso do paciente.",
+   "justificativa": "Distingue o que o paciente disse do que o terapeuta leu nele.",
+   "contexto": "Supervisão e registro de hipóteses.",
+   "competencia": "Interpretação",
+   "ts": "0:13:41"
+  },
+  {
+   "dica": "Diferencie o paciente que argumenta do que caracteriza e racionaliza.",
+   "justificativa": "Adjetivações eruditas naturalizam o sofrimento sem explicá-lo; confundi-las com lógica leva a debater em vez de escutar.",
+   "contexto": "Pacientes intelectualizados.",
+   "competencia": "Escuta clínica",
+   "ts": "0:16:45"
+  },
+  {
+   "dica": "Se você só consegue imaginar a vida do paciente de forma genérica, verifique se ele já disse qual é o problema.",
+   "justificativa": "A ausência de especificação é um dado e pode indicar distância, evitação ou abstração defensiva.",
+   "contexto": "Discursos abstratos, primeiras sessões.",
+   "competencia": "Interpretação",
+   "ts": "0:23:05"
+  },
+  {
+   "dica": "Registre a falta de conteúdo como hipótese e acompanhe se ela muda de figura.",
+   "justificativa": "Evita conclusões precoces e cria um critério de mudança.",
+   "contexto": "Ao longo do processo.",
+   "competencia": "Formulação de caso",
+   "ts": "0:24:11"
+  },
+  {
+   "dica": "Depois de propor uma imagem ou tema, verifique se a resposta do paciente permitiu explorá-lo.",
+   "justificativa": "Intervenções encadeadas precisam de continuidade; o desvio é informação.",
+   "contexto": "Na intervenção seguinte.",
+   "competencia": "Intervenção",
+   "ts": "0:27:02"
+  },
+  {
+   "dica": "Diante de desvio e devolução da pergunta ao terapeuta, considere primeiro a resistência, mas como hipótese.",
+   "justificativa": "É a leitura mais provável e tem fundamento, mas não é a única.",
+   "contexto": "Paciente filosofa ou muda de assunto quando é convidado a se implicar.",
+   "competencia": "Interpretação",
+   "ts": "0:27:56"
+  },
+  {
+   "dica": "Chame de psicoeducação só o que explica um fenômeno; devolver o que você vê é espelho.",
+   "justificativa": "Nomear o recurso deixa clara a intenção e o efeito esperado.",
+   "contexto": "Planejamento e revisão de intervenções.",
+   "competencia": "Psicoeducação",
+   "ts": "0:31:01"
+  },
+  {
+   "dica": "Não explique a metáfora que acabou de oferecer.",
+   "justificativa": "Ela vale por deixar o paciente ampliar o repertório a partir da imagem; explicada, vira só outra forma de dizer a mesma coisa.",
+   "contexto": "Uso de imagens e metáforas.",
+   "competencia": "Construção frasal",
+   "ts": "0:35:41"
+  },
+  {
+   "dica": "Uma intervenção, um propósito: prefira a versão curta.",
+   "justificativa": "Metáfora expande e espelho foca; somados, podem competir e gerar imprecisão.",
+   "contexto": "Intervenções com mais de uma frase.",
+   "competencia": "Construção frasal",
+   "ts": "0:37:15"
+  },
+  {
+   "dica": "Antes de intervir, saiba sua intenção e pergunte que “jogo” o paciente pode entender.",
+   "justificativa": "Uma intervenção pode ter efeito bom e ainda assim não atingir o objetivo.",
+   "contexto": "Intervenções relacionais e provocações.",
+   "competencia": "Intervenção",
+   "ts": "0:44:12"
+  },
+  {
+   "dica": "Cuidado para não imitar o registro erudito do paciente só para não ser refutado.",
+   "justificativa": "Igualar a erudição pode ser escolha inconsciente do terapeuta, que alonga e racionaliza a intervenção.",
+   "contexto": "Pacientes eruditos e desafiadores.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:40:27"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Espelho, em geral, é melhor do que psicoeducação.",
+   "argumento": "A psicoeducação explica um fenômeno de fora; o espelho devolve ao paciente o que o terapeuta vê e o convida a se olhar.",
+   "contraponto": "A justificativa do monitorado de que cabia psicoeducação sobre a atitude do paciente.",
+   "implicacao": "Preferir devolutivas sobre o modo de estar do paciente a explicações genéricas.",
+   "quem": "Diogo",
+   "ts": "0:31:01"
+  },
+  {
+   "tese": "A força da metáfora está em ampliar o repertório do paciente, não em transmitir a mensagem do terapeuta.",
+   "argumento": "A imagem abre associações do paciente; explicada logo em seguida, fecha-se.",
+   "contraponto": "A metáfora explicativa usada pelo monitorado.",
+   "implicacao": "Oferecer a metáfora e esperar o que o paciente faz com ela.",
+   "quem": "Diogo",
+   "ts": "0:34:21"
+  },
+  {
+   "tese": "Intervenções longas com recursos de funções diferentes correm o risco da imprecisão.",
+   "argumento": "Metáfora expande, espelho foca; os efeitos podem concorrer e o paciente não segue todos.",
+   "contraponto": "Diogo ressalva que não critica o tamanho genericamente e que na clínica as coisas são mistas.",
+   "implicacao": "Intervenções mais curtas para direcionar o foco.",
+   "quem": "Diogo",
+   "ts": "0:37:15"
+  },
+  {
+   "tese": "A forma do discurso pode virar conteúdo: a ausência de dados é um dado.",
+   "argumento": "Se o paciente não nomeia problema concreto, isso corrobora no nível subentendido o que ele diz explicitamente.",
+   "contraponto": "A leitura do monitorado de que a fantasia genérica era só limitação dele.",
+   "implicacao": "Observar o que o paciente não diz e como fala.",
+   "quem": "Diogo",
+   "ts": "0:23:05"
+  },
+  {
+   "tese": "Uma intervenção deve ser avaliada pela intenção, não só por produzir algum efeito aproveitável.",
+   "argumento": "O paciente pode entrar num jogo diferente do proposto; o resultado não é ruim, mas o objetivo se perde.",
+   "contraponto": "A intervenção coringa, que sempre acerta alguma coisa.",
+   "implicacao": "Formular a intenção antes e verificar na resposta seguinte.",
+   "quem": "Diogo",
+   "ts": "0:43:37"
+  },
+  {
+   "tese": "Quando o paciente demonstra resistência, essa é a primeira hipótese a considerar.",
+   "argumento": "Desviar e devolver a pergunta ao terapeuta tem fundamento como sinal de um ponto que ele não quer tocar.",
+   "contraponto": "Continua sendo hipótese, a ser verificada.",
+   "implicacao": "Registrar e testar, sem confrontar prematuramente.",
+   "quem": "Diogo",
+   "ts": "0:27:56"
+  },
+  {
+   "tese": "Um espelho em que o terapeuta se coloca no campo já é trabalho de relação terapêutica.",
+   "argumento": "Como Rogers ao bocejar numa sessão, o terapeuta mostra a própria experiência e convida o paciente a participar.",
+   "contraponto": "Diogo perguntou se o espelho seria só um meio do caminho para depois trabalhar a relação.",
+   "implicacao": "Intervenções congruentes podem ser a própria via relacional, desde que não se percam entre outros recursos.",
+   "quem": "Monitorado",
+   "ts": "0:41:25"
+  },
+  {
+   "tese": "Em encontros abertos não se discutem casos reais; o paciente simulado viabiliza a supervisão fina.",
+   "argumento": "Há pessoas de fora e quem ainda não é terapeuta; a IA com história própria permite discutir fala e escuta no detalhe.",
+   "contraponto": "",
+   "implicacao": "Usar simuladores para treino e supervisão aberta, preservando o sigilo.",
+   "quem": "Diogo",
+   "ts": "0:01:46"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Isso, para a impressão, não para as hipóteses.",
+   "tema": "Impressão × hipótese",
+   "ts": "0:08:30"
+  },
+  {
+   "texto": "O principal para a sua impressão não foi um elemento ou outro, mas o eixo central que une essas coisas em semelhança.",
+   "tema": "Leitura do discurso",
+   "ts": "0:10:06"
+  },
+  {
+   "texto": "Eu não consegui ver uma construção lógica, mas consegui ver muita racionalização.",
+   "tema": "Racionalização",
+   "ts": "0:15:43"
+  },
+  {
+   "texto": "A ausência de dados, a ausência de especificações, já é um dado.",
+   "tema": "Forma e conteúdo",
+   "ts": "0:22:43"
+  },
+  {
+   "texto": "Quando isso acontece, isso por si só vira o conteúdo. A forma vira o conteúdo, praticamente.",
+   "tema": "Forma e conteúdo",
+   "ts": "0:23:05"
+  },
+  {
+   "texto": "Quando o paciente demonstra uma certa resistência, essa é a primeira hipótese que a gente tem mesmo.",
+   "tema": "Resistência",
+   "ts": "0:27:56"
+  },
+  {
+   "texto": "Eu não diria que você fez uma psicoeducação; eu diria que você fez um espelho.",
+   "tema": "Espelho × psicoeducação",
+   "ts": "0:30:19"
+  },
+  {
+   "texto": "Em geral, eu acho espelho bem melhor do que psicoeducação.",
+   "tema": "Espelho × psicoeducação",
+   "ts": "0:31:01"
+  },
+  {
+   "texto": "Uma das riquezas da metáfora não é passar de primeira a mensagem que você quer com outras palavras, mas permitir que o paciente amplie o repertório dele a partir da imagem.",
+   "tema": "Metáfora",
+   "ts": "0:34:21"
+  },
+  {
+   "texto": "Quando a gente faz uma intervenção muito longa e com recursos muito diferentes, corre o risco da imprecisão.",
+   "tema": "Construção da intervenção",
+   "ts": "0:37:15"
+  },
+  {
+   "texto": "Quando você traz a metáfora, em geral é para expandir. Quando você traz o espelho, é para o paciente se olhar num foco.",
+   "tema": "Construção da intervenção",
+   "ts": "0:37:15"
+  },
+  {
+   "texto": "Você não chega num lugar ruim, mas não chega no que pretendia.",
+   "tema": "Intenção da intervenção",
+   "ts": "0:43:37"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Espelho não é psicoeducação",
+   "mensagem": "Psicoeducar é explicar um fenômeno; espelhar é devolver o que você vê na pessoa. Cada um tem uma função.",
+   "roteiro": [
+    "Você acha que está psicoeducando?",
+    "Psicoeducação: explicar como um fenômeno funciona",
+    "Espelho: devolver o que você está vendo na pessoa",
+    "Exemplo genérico de cada um",
+    "Por que muitos supervisores preferem o espelho",
+    "Pergunta: qual você mais usa?"
+   ],
+   "corte_inicio": "0:30:19",
+   "corte_fim": "0:32:12"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Por que sua intervenção longa não funciona",
+   "mensagem": "Metáfora expande, espelho foca; misturar os dois numa fala só gera imprecisão.",
+   "roteiro": [
+    "Cena: terapeuta fala um parágrafo inteiro",
+    "Metáfora abre, espelho fecha num foco",
+    "Os efeitos competem",
+    "Versão curta da mesma intervenção"
+   ],
+   "corte_inicio": "0:37:15",
+   "corte_fim": "0:39:51"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "A ausência de dados já é um dado",
+   "mensagem": "Quando alguém só fala em abstrações e não diz qual é o problema, a forma do discurso vira conteúdo.",
+   "roteiro": [
+    "Frase de impacto",
+    "Legenda: observe o que não é dito"
+   ],
+   "corte_inicio": "0:22:43",
+   "corte_fim": "0:24:11"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Não explique a sua metáfora",
+   "mensagem": "A imagem vale pelo que o paciente faz com ela; explicar tira essa possibilidade.",
+   "roteiro": [
+    "O erro comum: metáfora + explicação",
+    "Para que serve a metáfora",
+    "O que se perde quando você explica",
+    "Como oferecer e esperar"
+   ],
+   "corte_inicio": "0:34:21",
+   "corte_fim": "0:36:47"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Impressão ≠ hipótese ≠ evidência",
+   "mensagem": "Três camadas para ler um discurso sem projetar: o que sinto, o que explicaria, onde está no texto.",
+   "roteiro": [
+    "Impressão",
+    "Evidência",
+    "Hipóteses",
+    "Ordem certa",
+    "Exercício para supervisão"
+   ],
+   "corte_inicio": "0:07:19",
+   "corte_fim": "0:10:06"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como é treinar com um paciente simulado por IA",
+   "mensagem": "Nas monitorias abertas da Allos, a IA permite analisar fala a fala sem expor casos reais.",
+   "roteiro": [
+    "O que é a monitoria",
+    "Por que não casos reais",
+    "Como a IA é programada",
+    "O nível micro da análise"
+   ],
+   "corte_inicio": "0:01:46",
+   "corte_fim": "0:03:01"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Citado pelo monitorado: numa sessão filmada, Rogers boceja e se coloca no campo, exemplo de intervenção relacional congruente."
+  },
+  {
+   "nome": "Fiódor Dostoiévski",
+   "contexto": "O personagem simulado leva o título do conto do homem ridículo."
+  },
+  {
+   "nome": "Albert Camus",
+   "contexto": "Citado pelo paciente simulado ao falar de esperança e falta de sentido."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria com Diogo (acompanhamento de atendimento com paciente simulado)",
+  "objetivo": "Acompanhamento individualizado de atendimentos feitos com o paciente simulado por IA, discutindo escuta e intervenções no nível micro da sessão.",
+  "publico": "Terapeutas em formação da Allos e ouvintes (inclusive quem ainda não é terapeuta).",
+  "tamanho": "Um monitorado e poucos ouvintes (três ou quatro pessoas neste encontro).",
+  "duracao": "Cerca de 45 minutos neste encontro (limitado pela agenda do supervisor); outras monitorias chegam a 1h20.",
+  "estrutura_padrao": "Escolha do atendimento → contextualização do formato → leitura da sessão pelo monitorado com paradas a cada intervenção → discussão de impressão, evidência, recurso e intenção → continuação no encontro seguinte → feedback fora da gravação.",
+  "papel_facilitador": "Pergunta, pede evidência textual e definições, sintetiza, discorda com franqueza e propõe versões alternativas das intervenções.",
+  "regras_combinados": "Não discutir casos reais em encontro aberto; usar atendimentos com o paciente simulado; formulário de presença para avaliar o encontro; feedback do grupo com a gravação desligada."
+ },
+ "reflexoes_do_facilitador": [
+  "Diogo reconhece que sua leitura pode estar enviesada pelo atendimento do mesmo personagem feito por outra terapeuta na semana anterior.",
+  "Relativiza a própria discordância: “é mais a minha perspectiva do que qualquer coisa”.",
+  "Admite que está segurando o monitorado e que não haverá tempo para ler a resposta do paciente; propõe continuar na semana seguinte.",
+  "Pede feedback sobre o encontro por formulário e com a gravação desligada."
+ ],
+ "referencias_a_outros_encontros": [
+  "Mesmo personagem simulado (homem ridículo) atendido por outra terapeuta nas monitorias anteriores de Diogo; a descrição (ela lia e ele parava sem tema específico) coincide com Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias; ver também Monitoria 19 - Diogo - Empatia com paciente resistente.",
+  "O mesmo personagem aparece em Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica.",
+  "Continuação combinada para a semana seguinte, para ver como o paciente respondeu à intervenção longa."
+ ],
+ "observacoes": "Caso simulado (paciente de IA); não há dados de pacientes reais. Transcrição automática com ruído: o nome oficial da ferramenta de IA não é compreensível neste vídeo (em mon-13 aparece como Eco (?)); algumas falas do monitorado e de Diogo se misturam. Diogo se refere uma vez ao monitorado no feminino (sucinta), provavelmente erro de transcrição. Início com conversa logística (logins, escolha de atendimento). O encontro termina antes de ler a resposta do paciente à última intervenção."
+}

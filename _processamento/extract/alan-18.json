@@ -1,0 +1,948 @@
+{
+ "id": "alan-18",
+ "nota": "Alan 18 - Terapia de casal",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Terapia de casal",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Encontro improvisado no Dia dos Namorados: Alan troca o plano original por um tema sobre relacionamento e terapia de casal. Mantém o formato habitual (teoria antes da prática) e pede ao grupo que deduza, a partir das premissas de cada abordagem (análise do comportamento, Gestalt, psicanálise, psicologia analítica), como seria a clínica de casal. Onde ele mesmo não conhece essa clínica, fala do amor na teoria. Em cada rodada pergunta, colhe respostas, dá feedback sobre o raciocínio e sobre o conteúdo e aprofunda com teoria (calcificação, gestalt aberta, pulsão de morte × leitmotiv, amor como muro, objeto a, olhar do outro, participação mística, princípio da inversão, antinomias, Hegel). Conclusões clínicas principais: a pergunta 'qual é a verdade desse casal?', a escuta do interdito, a escolha consciente entre focar variações ou o núcleo das repetições e o risco da unilateralidade com um dos cônjuges. No fechamento, Alan admite que não houve exercício estruturado e revela que o panorama multiabordagem serve para garantir a adesão ao exercício. No encontro seguinte (Alan 12), relata que este encontro 'deu um tantinho errado' e foi criticado como excessivamente teórico.",
+ "em_uma_frase": "No 'especial de Dia dos Namorados', Alan usa o amor e a terapia de casal como pretexto para treinar a dedução de direções clínicas a partir das premissas de cada abordagem; o encontro fica quase todo teórico e sem exercício estruturado, como o próprio Alan reconhece.",
+ "competencias": [
+  "Articulação teoria-prática",
+  "Escuta clínica",
+  "Formulação de caso",
+  "Direção do tratamento",
+  "Relação terapêutica",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Análise do comportamento",
+  "Gestalt-terapia",
+  "Psicanálise freudiana",
+  "Psicanálise lacaniana",
+  "Psicologia analítica junguiana",
+  "Terapia cognitivo-comportamental",
+  "Fenomenologia e existencialismo",
+  "Abordagem centrada na pessoa"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Abertura",
+   "descricao": "Aviso: setup improvisado na biblioteca da PUC, esqueceu que era quinta-feira e Dia dos Namorados e troca o plano por um tema do dia. Agradece as sugestões dadas depois da gravação anterior (dinheiro e negociação) e promete ouvir mais o grupo.",
+   "funcao": "Transparência sobre o improviso, clima leve e temático, valorização das sugestões do grupo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:07",
+   "bloco": "Combinados",
+   "descricao": "Anuncia o formato (teoria, depois construção prática) e a regra do dia: onde não souber a clínica de casal da abordagem, falará do amor nela. Pede o 'salto de raciocínio' de deduzir a terapia de casal a partir da cosmovisão de cada abordagem.",
+   "funcao": "Define a tarefa cognitiva do encontro: deduzir a partir de premissas, não memorizar protocolos.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:03:04",
+   "bloco": "Rodada de respostas",
+   "descricao": "Análise do comportamento: 'alguém lembra?'. Participantes respondem (quebrar o amor em ações; retirar comportamentos). Alan sistematiza a soma de interações positivas e negativas.",
+   "funcao": "Retoma conteúdo do Alan 10 e mostra como uma premissa gera uma técnica.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:05:55",
+   "bloco": "Rodada de respostas",
+   "descricao": "Gestalt: 'consegue fantasiar?', 'o objetivo é que vocês errem'. Respostas: foco no presente; figura e fundo; retradução humanista. Feedback em dois níveis (raciocínio e conteúdo) e aprofundamento: calcificação, excesso de passado e de futuro, figura e fundo, gestalt aberta, ciclo de contato, desvio de objeto.",
+   "funcao": "Treinar a dedução 'de orelhada' e a tradução entre vocabulários de abordagens.",
+   "duracao_min": 14
+  },
+  {
+   "ts": "0:19:36",
+   "bloco": "Teoria",
+   "descricao": "Tese sobre a pergunta 'como se atende casal, autista, atleta?': a leitura por tema é teoria como escudo contra a angústia de não saber.",
+   "funcao": "Explicita o porquê do exercício de dedução.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:21:12",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Psicanálise como 'prova surpresa'. Participante traz a repetição (e a chama de leitmotiv). Alan apresenta pulsão de morte e gozo (Miller), distingue leitmotiv (espiral que progride) de pulsão de morte (repetição que só repete) e tira a consequência clínica: focar nas variações ou no núcleo.",
+   "funcao": "Mostrar que o vocabulário muda a inflexão clínica e que o olhar do terapeuta altera o fenômeno.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:31:36",
+   "bloco": "Teoria",
+   "descricao": "O amor em psicanálise: 'dar o que não se tem'; l'amour/le mur; Hegel (amor inexplicável); tábua da sexuação e sua crítica (Žižek); parêntese junguiano sobre centro e periferia; piada de Žižek sobre o 'mais'; olhar do outro e encaixe neurótico.",
+   "funcao": "Aprofundamento conceitual; é o trecho mais denso, em que parte do grupo se perde.",
+   "duracao_min": 19
+  },
+  {
+   "ts": "0:50:14",
+   "bloco": "Teoria",
+   "descricao": "Tradução para a clínica: cuidado com a linguagem, o interdito, 'qual é a verdade desse casal?', perguntas sobre fantasia e olhar do outro.",
+   "funcao": "Única ponte explícita da teoria psicanalítica para a sessão de casal.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:52:28",
+   "bloco": "Teoria",
+   "descricao": "Metacomentário ('gostei dessa parte teórica'). Pergunta sobre o amor em Jung fica sem resposta. Participação mística, rebaixamento do nível mental, teste de associação, psicologias parciais, Maxwell.",
+   "funcao": "Continuação do panorama; Alan modela a admissão do que não sabe.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:59:52",
+   "bloco": "Discussão",
+   "descricao": "Pedem a opinião pessoal de Alan, que adia. Discussão sobre apaixonar-se exigir 'ficar bobo'; Kahneman (sistemas 1 e 2); Hegel (amor contingente que se torna necessário, com o 'teste' das declarações); elemento perturbador (Žižek); brilho no nariz; rinoplastia.",
+   "funcao": "Discussão livre que aprofunda a leitura filosófica do amor.",
+   "duracao_min": 13
+  },
+  {
+   "ts": "1:13:11",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Princípio junguiano da inversão aplicado ao amor; unilateralidade como problema na terapia de casal; antinomia individual × genérico (avião × moto); debate com participante: antinomia não é viés; delírio coletivo × individual; Joyce, Schopenhauer, psicose como dificuldade de laço, Kant.",
+   "funcao": "Rigor conceitual e aplicação da inversão à formulação de caso.",
+   "duracao_min": 14
+  },
+  {
+   "ts": "1:27:33",
+   "bloco": "Discussão",
+   "descricao": "Pergunta de participante: como diferenciar gênio e louco? Lacan (laço social), Jung (cachoeira), TCC (realidade), chute sobre psicologia tomista, Sartre.",
+   "funcao": "Espaço aberto para dúvidas; Alan sinaliza quando está chutando.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:31:44",
+   "bloco": "Fechamento",
+   "descricao": "Autoavaliação: tudo improvisado, 'não foi um aprimoramento típico, não teve exercício, não teve treino'. Pergunta ao grupo se vale fazer isso de vez em quando. Revela que o panorama multiabordagem é uma 'máscara' para garantir adesão ao exercício. Encerra a gravação para uma conversa fora do registro.",
+   "funcao": "Metacomunicação sobre o método e coleta de feedback.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Cosmovisão",
+   "definicao": "Conjunto de premissas básicas de uma abordagem. Para Alan, é o que estrutura a terapia também quando há mais de uma pessoa sendo atendida, o que permite deduzir a clínica de casal de uma linha mesmo sem ter estudado o tema.",
+   "exemplo": "Pedir ao grupo que deduza a terapia de casal gestáltica a partir do aqui e agora.",
+   "abordagem": "",
+   "ts": "0:02:04"
+  },
+  {
+   "nome": "Psicologia comparada",
+   "definicao": "Ler o mesmo fenômeno (amor, repetição) por várias abordagens e traduzir entre vocabulários. Alan faz explicitamente 'psicologia comparada' ao aproximar Jung da crítica a Lacan.",
+   "exemplo": "Leitura junguiana de Cristo e do ladrão usada para explicar a crítica à tábua da sexuação.",
+   "abordagem": "",
+   "ts": "0:40:31"
+  },
+  {
+   "nome": "Terapia comportamental de casal",
+   "definicao": "Primeira proposta nomeada como terapia de casal. A funcionalidade da relação é a soma das interações positivas e negativas; o trabalho é reduzir as negativas e aumentar as positivas, com positivo e negativo definidos pelo próprio casal, em consenso.",
+   "exemplo": "Transformar 'fazer o marido me amar mais' em ações concretas como lavar a louça.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:04:46"
+  },
+  {
+   "nome": "Calcificação do relacionamento",
+   "definicao": "Patologia típica do amor monogâmico de longo prazo: a pessoa para de escutar a outra e a substitui por um modelo mental, e os comportamentos se cristalizam, mantidos por efeitos presentes nem sempre percebidos.",
+   "exemplo": "Na briga, ouvir o que a pessoa 'já falou mil outras vezes', e não o que ela diz agora.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:06:44"
+  },
+  {
+   "nome": "Excesso de passado e de futuro",
+   "definicao": "Formas de sofrimento que tiram o casal do aqui e agora: preso ao que já aconteceu, ou à antecipação ('será que vai continuar me amando?').",
+   "exemplo": "Angústia com uma viagem futura do parceiro.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:07:44"
+  },
+  {
+   "nome": "Figura e fundo",
+   "definicao": "O que aparece em primeiro plano num conflito é estruturado pelo fundo de vividos da pessoa; a figura não é dissociada do fundo.",
+   "exemplo": "A mãe briga pela meia hora de atraso da filha, que ganha peso sobre o fundo de uma adolescência com menos conversa e de uma mãe carente.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:14:27"
+  },
+  {
+   "nome": "Gestalt aberta",
+   "definicao": "Experiência de contato com o mundo que não fechou o ciclo, porque não começou ou não terminou. Enquanto aberta, continua figurando mesmo quando o saudável seria outra figura aparecer; o organismo tende à cura, mas processa lentamente.",
+   "exemplo": "A discussão com a namorada que continua rodando na cabeça porque algo não foi dito; o organismo recria um 'avatar' dela na mente.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:15:02"
+  },
+  {
+   "nome": "Ciclo de contato",
+   "definicao": "Sequência de entrada em contato, contato e satisfação; falhas no início (não saber por que se está bravo) ou no fim (não se satisfazer com o término) geram sintomas relacionais.",
+   "exemplo": "Indicação do vídeo sobre ciclo de contato no YouTube da Allos.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:16:20"
+  },
+  {
+   "nome": "Desvio de objeto",
+   "definicao": "Descarregar num objeto substituto aquilo que se refere a outro, quando não se entra em contato com a experiência de fato.",
+   "exemplo": "Estar bravo com a pessoa e ser frio com ela; estar estressado e descontar deixando a casa bagunçada.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:17:27"
+  },
+  {
+   "nome": "Pulsão de morte",
+   "definicao": "Em Freud, está ligada à compulsão à repetição: uma repetição que não leva ao novo, só a mais repetição, e tende ao esgotamento.",
+   "exemplo": "Brigas do casal que acontecem sempre no mesmo modelo.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:23:01"
+  },
+  {
+   "nome": "Gozo",
+   "definicao": "Termo lacaniano mais usado para o campo da repetição. Segundo Alan, o texto de Jacques-Alain Miller 'Os seis paradigmas do gozo' tem como terceiro paradigma o gozo como pulsão de morte e repetição; a recíproca não vale (gozo não é sempre repetição).",
+   "exemplo": "",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:24:03"
+  },
+  {
+   "nome": "Leitmotiv",
+   "definicao": "Repetição narrativa (ópera, musical, literatura) que retorna com novo significado e cria senso de progressão, numa estrutura espiralada. Alan o opõe à pulsão de morte e o associa ao vocabulário da psicologia analítica.",
+   "exemplo": "Focar nas diferenças entre o primeiro e o segundo namorado de quem tem 'dedo podre'.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:25:16"
+  },
+  {
+   "nome": "Objeto a",
+   "definicao": "Segundo Alan, o que Lacan acrescenta a Freud: o que faz alguém se apaixonar por um objeto não está no objeto, é um 'mais desejar' para além dele. Por isso o objeto nunca é tocado e a psicanálise é 'mais pessimista'.",
+   "exemplo": "'O que essa pessoa viu nesse cara?' como pergunta que centraliza o que se repete.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:27:36"
+  },
+  {
+   "nome": "Amor como impossibilidade",
+   "definicao": "L'amour/le mur: não se tem acesso ao que o outro deseja em nós nem se consegue expressar o próprio desejo, porque inconsciente e linguagem atravessam tudo. Em Hegel, na paráfrase de Alan, o amor só existe na impossibilidade de dizê-lo.",
+   "exemplo": "Fazer para a namorada uma lista de atributos não é romântico, é esquisito; o gesto romântico é não saber por que se ama.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:35:38"
+  },
+  {
+   "nome": "Tábua da sexuação",
+   "definicao": "Distinção lacaniana entre gozo masculino (fálico, circunscrito a uma lei: 'só tem um jeito de ser homem') e gozo feminino (Outro, indefinível). Psicanalistas contemporâneos, como Žižek, a criticam como produção de uma fantasia masculina.",
+   "exemplo": "Piada de Žižek: ela pede 'mais' (do mesmo), ele entende que deve variar.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:37:45"
+  },
+  {
+   "nome": "Olhar do outro",
+   "definicao": "O apaixonamento como processo narcísico: apaixonar-se pelo que o outro vê em mim. Há um encaixe neurótico entre a projeção de um e o desejo narcísico pelo olhar do outro.",
+   "exemplo": "'Do mesmo jeito que o obsessivo encaixa com a histérica.'",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:48:19"
+  },
+  {
+   "nome": "Interdito",
+   "definicao": "Aquilo que está inter-dito (dito nas entrelinhas) e, ao mesmo tempo, interditado no discurso das duas pessoas do casal: o que não pode ser comunicado entre elas.",
+   "exemplo": "'O que não pode ser comunicado nesse casal?'",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:50:14"
+  },
+  {
+   "nome": "Quatro discursos de Lacan",
+   "definicao": "Usado aqui pela posição da verdade: aquilo que nunca é dito, mas sustenta todo o discurso. Daí a pergunta clínica 'qual é a verdade desse casal?'.",
+   "exemplo": "",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:51:22"
+  },
+  {
+   "nome": "Participação mística",
+   "definicao": "Conceito vindo da antropologia e usado por Jung: em conjuntos, há uma redução do nível mental que faz as pessoas pensarem de maneira mais semelhante. Alan aplica ao casal apaixonado.",
+   "exemplo": "O torcedor 'razoável' que no estádio agride alguém; o jogral da torcida universitária; o dito popular de que, apaixonado, você 'troca o cérebro por um pedaço de batata'.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:54:48"
+  },
+  {
+   "nome": "Rebaixamento do nível mental",
+   "definicao": "Abaixamento da consciência crítica quando a libido ou a atenção está tomada (massa, complexo, paixão), o que deixa pouca energia para ver outras possibilidades. Alan diz que o conceito não é originalmente de Jung (autor citado com nome truncado, provavelmente Janet).",
+   "exemplo": "Teste de associação de palavras: o complexo captura a libido.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:55:58"
+  },
+  {
+   "nome": "Psicologias parciais",
+   "definicao": "Para Jung, as psicologias de seu tempo foram construídas a partir de recortes específicos da experiência humana (Adler com seus pacientes, Freud com suas premissas). Enquanto não houver síntese, cabe articular os diferentes referenciais com humildade epistêmica.",
+   "exemplo": "'Ao falar de derrotados, falar como Adler; ao falar de histéricos, como Freud'; a unificação da eletricidade e do magnetismo por Maxwell.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:57:54"
+  },
+  {
+   "nome": "Antinomia",
+   "definicao": "Tensão irreconciliável entre dois opostos, um paradoxo insolúvel pela razão (Kant). Distingue-se do viés cognitivo, em que há uma realidade objetiva e uma distorção dela.",
+   "exemplo": "O individual não importa perante o genérico, e o genérico não importa perante o individual: aviões são mais seguros que motos, mas esse fato não importa perante a mãe que perdeu o filho num acidente aéreo.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:21:01"
+  },
+  {
+   "nome": "Princípio da inversão",
+   "definicao": "Posição de Jung, segundo Alan: toda hipótese psicológica, para ser adequadamente formulada, precisa poder ser invertida, porque sabemos tão pouco que o oposto tende a ser verdade também.",
+   "exemplo": "O amor é a experiência de desconhecer o outro e, também, a de conhecê-lo como ninguém.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:13:11"
+  },
+  {
+   "nome": "Amor como contingência retroativamente necessária",
+   "definicao": "Leitura hegeliana: nem o amor como puro acaso nem o amor como puro destino soam como amor. O amor é um encontro profundamente contingente que, retroativamente, aparece como necessário e reorganiza a vida para trás.",
+   "exemplo": "O 'teste' das duas declarações ('podia ter sido sua irmã' × 'estava predestinado, independe da minha vontade'); o nariz que, depois da rinoplastia, se revela o que fazia o rosto bonito.",
+   "abordagem": "",
+   "ts": "1:07:14"
+  },
+  {
+   "nome": "Teoria como escudo",
+   "definicao": "Uso de conhecimento temático ou por população para se proteger da angústia de não saber diante do caso singular. A leitura 'topológica' dá uma falsa sensação de conhecimento.",
+   "exemplo": "'Dois casos de esportistas são muitas vezes mais diferentes entre si do que um de relacionamento e um de psicologia do esporte.'",
+   "abordagem": "",
+   "ts": "0:20:08"
+  },
+  {
+   "nome": "Sistemas 1 e 2",
+   "definicao": "Em Kahneman: o sistema 1 é rápido, automático e intuitivo; o sistema 2 é lento e racional. Quase sempre já se decidiu pelo sistema 1 e depois se cria uma história a posteriori.",
+   "exemplo": "Usado para pensar o apaixonamento e a justificativa retroativa.",
+   "abordagem": "",
+   "ts": "1:03:04"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Dedução clínica por abordagem",
+   "objetivo": "Treinar a capacidade de deduzir uma direção clínica razoável para um tema desconhecido (aqui, terapia de casal e amor) a partir das premissas e da cosmovisão de cada abordagem, e perceber como o vocabulário escolhido muda a inflexão clínica.",
+   "competencias": [
+    "Articulação teoria-prática",
+    "Formulação de caso",
+    "Direção do tratamento"
+   ],
+   "configuracao": "Grupo todo, online (fala aberta, mão levantada, chat); cerca de 4 a 6 participantes ativos na gravação.",
+   "tempo": "10 a 15 min por abordagem (no encontro, as rodadas foram desiguais: comportamental ~3 min, Gestalt ~14, psicanálise ~30, Jung ~7).",
+   "materiais": "Nenhum; opcionalmente, fichas do facilitador por abordagem (premissa, leitura do fenômeno, pergunta clínica, exemplo, referência).",
+   "consigna": "Mesmo que você não saiba como é a clínica de casal nessa abordagem, a partir do conhecimento geral que você tem dela, tenta visualizar como seria. As mesmas premissas, a mesma cosmovisão, estruturam a terapia quando tem mais de uma pessoa sendo atendida. Lembrando: o objetivo é que vocês errem.",
+   "passos": [
+    "Anunciar que o tema (Dia dos Namorados, casal) é pretexto e que o objetivo é o raciocínio.",
+    "Para cada abordagem, fazer uma pergunta aberta e curta ('alguém lembra?', 'como vocês construiriam?', 'prova surpresa') e esperar.",
+    "Colher de duas a três respostas e pedir complemento ('alguém consegue complementar?').",
+    "Dar feedback sobre o processo de raciocínio: de que vocabulário a pessoa partiu e se a tradução funcionou.",
+    "Dar feedback sobre o conteúdo: nomear o conceito técnico que a resposta intuiu e indicar leitura.",
+    "Aprofundar com um exemplo cotidiano (atraso da filha, briga que continua na cabeça, 'dedo podre').",
+    "Traduzir numa pergunta ou hipótese clínica concreta ('qual é a verdade desse casal?').",
+    "Fechar a rodada lembrando que não é a posição oficial da abordagem, mas insights a partir da teoria."
+   ],
+   "feedback": "Dois níveis, processo e conteúdo. Elogia quem traduz com sucesso o vocabulário que domina para a abordagem-alvo ('falou de Gestalt sem falar de Gestalt'); aponta quando o vocabulário vizinho distorce a inflexão (leitmotiv × pulsão de morte); corrige termos imprecisos ('reinterpretar', na Gestalt). Critério: a resposta boa parte de uma premissa central da abordagem e gera uma consequência clínica.",
+   "exemplos_praticos": "Análise do comportamento: participantes lembram 'quebrar o amor em ações' e 'retirar comportamentos', e Alan sistematiza a soma de interações. Gestalt: 'foco no presente' e 'figura e fundo com retradução humanista' viram portas de entrada. Psicanálise: um participante nomeia a repetição como 'leitmotiv', e o erro vira a distinção espiral × círculo. Jung: ninguém responde e Alan expõe sozinho. No fim, participantes dizem que sentiram que houve exercício; Alan diz que não foi estruturado.",
+   "variacoes": "Versão com exercício estruturado (sugestão da nota, não feita no encontro): vinheta fictícia de casal, trios com uma abordagem cada, produção de uma hipótese e uma pergunta ao casal, leitura em rodada e teste da inversão. Alan anuncia para o futuro uma dinâmica de 'criatividade clínica' (formular a clínica a partir de diretrizes diferentes).",
+   "armadilhas": "A exposição do facilitador cresce e engole o tempo de prática (psicanálise ~30 min; grupo se perde na tábua da sexuação). Abordagens sem repertório no grupo viram monólogo. Digressões filosóficas desviam da clínica. Sem teto de tempo por abordagem.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:02:04"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Aviso honesto de abertura",
+   "descricao": "Admite o improviso (lugar, data, plano trocado) e transforma a circunstância num tema; valoriza as sugestões do grupo.",
+   "exemplo": "'Não lembrava que hoje era Dia dos Namorados… resolvi mudar'; 'vou ouvir um pouquinho mais vocês'.",
+   "ts": "0:00:12"
+  },
+  {
+   "movimento": "Anunciar formato e tarefa cognitiva",
+   "descricao": "Explica a sequência habitual (teoria → prática) e exatamente que esforço espera do grupo antes de começar.",
+   "exemplo": "'Eu gostaria muito que vocês fizessem o esforço de, a partir do conhecimento geral dessa teoria, visualizar como seria essa estrutura.'",
+   "ts": "0:01:07"
+  },
+  {
+   "movimento": "Perguntar antes de expor",
+   "descricao": "Cada abordagem começa com uma pergunta aberta ao grupo, e só depois vem a exposição.",
+   "exemplo": "'Alguém lembra como é a estrutura básica do tratamento de casais na análise do comportamento?'; 'a prova surpresa'.",
+   "ts": "0:03:04"
+  },
+  {
+   "movimento": "Legitimar o erro",
+   "descricao": "Declara que errar é o objetivo, reduzindo o custo de arriscar numa abordagem desconhecida.",
+   "exemplo": "'Lembrando, gente, o objetivo é que vocês errem.'",
+   "ts": "0:06:44"
+  },
+  {
+   "movimento": "Feedback em dois níveis",
+   "descricao": "Separa o comentário sobre o processo de raciocínio (transferível) do comentário sobre o conteúdo (correção técnica).",
+   "exemplo": "'Vou comentar duas coisas: uma sobre o seu processo de raciocínio e outra sobre a resposta que você deu.'",
+   "ts": "0:10:13"
+  },
+  {
+   "movimento": "Usar a resposta errada como degrau",
+   "descricao": "Transforma o termo equivocado de um participante na distinção central da aula, sem expô-lo.",
+   "exemplo": "'Leitmotiv' vira a distinção espiral × pulsão de morte; 'tô aproveitando o que você falou'.",
+   "ts": "0:29:37"
+  },
+  {
+   "movimento": "Nomear a lente do participante",
+   "descricao": "Mostra de que abordagem vem o vocabulário usado na resposta, ensinando o grupo a enxergar as próprias lentes.",
+   "exemplo": "'Você foi pro vocabulário da psicologia analítica, que não foi muito distante do que o colega fez.'",
+   "ts": "0:26:26"
+  },
+  {
+   "movimento": "Checar compreensão e aceitar o 'não'",
+   "descricao": "Pergunta diretamente se fez sentido, aceita a negativa com humor e tenta reformular.",
+   "exemplo": "'Fez sentido ou não? Foi muito lacanês.' / 'Isso significa não fez sentido… ferrou.'",
+   "ts": "0:39:14"
+  },
+  {
+   "movimento": "Admitir mal-entendido",
+   "descricao": "Pede repetição quando não entende e, ao perceber que entendeu errado, transforma o engano em conteúdo.",
+   "exemplo": "'Eu tinha entendido errado… posso até comentar o que entendi errado, porque é interessante.'",
+   "ts": "0:48:19"
+  },
+  {
+   "movimento": "Organizar em gavetas",
+   "descricao": "Separa explicitamente linhas de raciocínio que o grupo está misturando.",
+   "exemplo": "'Repetição é outra gaveta. A gaveta aqui é: o amor é um muro.'",
+   "ts": "0:44:34"
+  },
+  {
+   "movimento": "Marcar a transição teoria → clínica",
+   "descricao": "Sinaliza verbalmente quando vai traduzir abstrações em perguntas clínicas.",
+   "exemplo": "'Vamos pegar abstrações teóricas, blá blá blá, e levar um pouquinho para a concretude.'",
+   "ts": "0:50:14"
+  },
+  {
+   "movimento": "Modelar honestidade epistêmica",
+   "descricao": "Diz quando não sabe, quando nunca leu e quando está chutando.",
+   "exemplo": "'Genuinamente desconheço'; 'tô chutando sem saber, de orelhada'.",
+   "ts": "0:56:55"
+  },
+  {
+   "movimento": "Gerir o tempo adiando digressões",
+   "descricao": "Recusa aprofundar a própria opinião por falta de tempo e oferece outro espaço.",
+   "exemplo": "'Não dá nem tempo, eu quero acabar isso daqui a meia hora… posso fazer um rolê só de falar o que eu acho.'",
+   "ts": "1:00:56"
+  },
+  {
+   "movimento": "Convocar quem está quieto",
+   "descricao": "Abre espaço para participantes calados ou que desistiram de falar.",
+   "exemplo": "Chama a participante que 'abaixou a mão tão envergonhada'; 'outras pessoas que estão caladas por algum motivo'.",
+   "ts": "1:00:56"
+  },
+  {
+   "movimento": "Humor e provocação",
+   "descricao": "Mantém a energia com piadas e provocações dirigidas.",
+   "exemplo": "'Cadê os junguianos de plantão? Foram embora'; o 'teste' de declarar a alguém que o amor é contingente.",
+   "ts": "0:53:40"
+  },
+  {
+   "movimento": "Fechar com metacomunicação e consulta",
+   "descricao": "Nomeia o que aconteceu, pergunta se o formato faz sentido, revela a lógica do método e para a gravação para acolher comentários fora do registro.",
+   "exemplo": "'Não foi um aprimoramento típico, não teve exercício… a pergunta que eu queria é ver se isso faz sentido.'",
+   "ts": "1:31:44"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Diante de uma demanda nova (casal, atleta, autismo), deduza a direção clínica a partir das premissas da sua abordagem antes de buscar um manual temático.",
+   "justificativa": "A mesma cosmovisão estrutura a terapia com uma ou mais pessoas, e os problemas reais têm inflexões únicas que nenhum manual cobre.",
+   "contexto": "Primeiros atendimentos de uma população ou modalidade nova.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:04:46"
+  },
+  {
+   "dica": "Desconfie da urgência de ler sobre o tema antes de atender.",
+   "justificativa": "Muitas vezes é teoria como escudo contra a angústia de não saber; casos do mesmo tema podem diferir mais entre si que casos de temas diferentes.",
+   "contexto": "Casos que assustam pelo rótulo.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:20:08"
+  },
+  {
+   "dica": "Em abordagem comportamental de casal, deixe o próprio casal definir em consenso o que conta como interação positiva e negativa.",
+   "justificativa": "A funcionalidade é a soma dessas interações, e o critério é sempre dos sujeitos.",
+   "contexto": "Montagem de registros de comportamento do casal.",
+   "competencia": "Intervenção",
+   "ts": "0:04:46"
+  },
+  {
+   "dica": "Escute a calcificação: repare quando um parceiro responde ao que o outro 'já disse mil vezes', e não ao que diz agora.",
+   "justificativa": "No amor de longo prazo, o outro tende a ser substituído por um modelo mental.",
+   "contexto": "Brigas repetitivas em sessão conjunta.",
+   "competencia": "Escuta clínica",
+   "ts": "0:07:44"
+  },
+  {
+   "dica": "Investigue se o casal sofre por excesso de passado ou por excesso de futuro.",
+   "justificativa": "Ambos tiram a relação do aqui e agora, com fenomenologias diferentes (mágoa acumulada × insegurança).",
+   "contexto": "Avaliação inicial de conflitos conjugais.",
+   "competencia": "Formulação de caso",
+   "ts": "0:07:44"
+  },
+  {
+   "dica": "Quando um conflito pequeno gera reação desproporcional, procure o fundo que dá significado à figura.",
+   "justificativa": "O que figura não é dissociado do fundo de vividos.",
+   "contexto": "Queixas de brigas 'por nada'.",
+   "competencia": "Escuta clínica",
+   "ts": "0:14:27"
+  },
+  {
+   "dica": "Trate a discussão que continua rodando na cabeça como gestalt aberta e explore o que não foi dito.",
+   "justificativa": "A ruminação indica um contato que não se completou; o organismo tenta processá-lo recriando o outro mentalmente.",
+   "contexto": "Paciente que relata remoer brigas.",
+   "competencia": "Aprofundamento",
+   "ts": "0:15:02"
+  },
+  {
+   "dica": "Procure desvios de objeto (frieza, bagunça, irritação com outra coisa) antes de tomar a queixa manifesta como o problema.",
+   "justificativa": "A raiva que não entra em contato com seu objeto se desloca.",
+   "contexto": "Casal que briga por temas periféricos.",
+   "competencia": "Escuta clínica",
+   "ts": "0:17:27"
+  },
+  {
+   "dica": "Diante de queixa sexual sem causa biológica clara, considere como uma das hipóteses o que está 'aberto' na relação e figurando na hora do sexo.",
+   "justificativa": "Pendências não fechadas ocupam a figura e impedem a presença; é uma entre muitas explicações possíveis.",
+   "contexto": "Dificuldades sexuais no casal.",
+   "competencia": "Formulação de caso",
+   "ts": "0:18:38"
+  },
+  {
+   "dica": "Com padrões repetidos ('dedo podre'), escolha conscientemente o foco: as variações entre as versões ou o núcleo que se repete.",
+   "justificativa": "O olhar do terapeuta altera o fenômeno: as variações revelam progressão ou regressão; o núcleo revela o ciclo e o que a pessoa busca no outro.",
+   "contexto": "Padrões repetidos de escolha amorosa.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:28:41"
+  },
+  {
+   "dica": "Numa leitura psicanalítica de casal, escute o interdito: o que não pode ser dito entre os dois.",
+   "justificativa": "A verdade que sustenta um discurso nunca é dita, mas aparece nos lapsos e nas entrelinhas.",
+   "contexto": "Sessões conjuntas com temas intocáveis.",
+   "competencia": "Escuta clínica",
+   "ts": "0:50:14"
+  },
+  {
+   "dica": "Use como pergunta-guia interna: 'qual é a verdade desse casal?'.",
+   "justificativa": "Buscar ativamente esse elemento é o que permite observá-lo.",
+   "contexto": "Formulação do caso de casal.",
+   "competencia": "Formulação de caso",
+   "ts": "0:51:22"
+  },
+  {
+   "dica": "Formule hipóteses de projeção: 'qual a fantasia da pessoa sobre por que o outro a ama?' e 'que desejo narcísico o olhar do outro reflete?'.",
+   "justificativa": "O apaixonamento é narcísico e se apoia em encaixes neuróticos entre projeção e desejo pelo olhar do outro.",
+   "contexto": "Ciúme, idealização, sensação de não ser visto.",
+   "competencia": "Formulação de caso",
+   "ts": "0:52:28"
+  },
+  {
+   "dica": "Monitore a própria unilateralidade com um dos cônjuges.",
+   "justificativa": "Manter a imparcialidade na terapia de casal é difícil, sobretudo em situações como abuso; Alan não julga se é sempre desejável, mas aponta o risco.",
+   "contexto": "Quando o terapeuta percebe ter um 'preferido' na sala.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:14:10"
+  },
+  {
+   "dica": "Teste cada formulação de caso pela inversão: veja se o oposto também é verdadeiro.",
+   "justificativa": "O psíquico é repleto de antinomias; uma hipótese bem formulada precisa poder ser invertida (Jung).",
+   "contexto": "Fechamento de uma formulação de caso.",
+   "competencia": "Formulação de caso",
+   "ts": "1:13:11"
+  },
+  {
+   "dica": "Ao formular o particular do paciente, mantenha a regra geral à vista, sem deixar uma anular a outra.",
+   "justificativa": "Não se pensa o desvio sem a norma, mas o sofrimento individual não se dissolve na estatística, nem vice-versa.",
+   "contexto": "Medos 'irracionais' e escolhas atípicas.",
+   "competencia": "Formulação de caso",
+   "ts": "1:17:11"
+  },
+  {
+   "dica": "Evite chamar de 'distorção' ou 'heurística' a vivência do paciente antes de examinar a própria premissa.",
+   "justificativa": "Essa linguagem já posiciona o paciente como errado e toma a realidade coletiva como realidade em si.",
+   "contexto": "Intervenções cognitivas sobre medos e crenças.",
+   "competencia": "Construção frasal",
+   "ts": "1:22:16"
+  },
+  {
+   "dica": "Estude teoria alta perguntando sempre que hipótese clínica ela produz.",
+   "justificativa": "Muitos saberes úteis para casal não foram escritos sobre casal; o valor está em traduzi-los em hipóteses concretas.",
+   "contexto": "Estudo pessoal e supervisão.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:52:28"
+  },
+  {
+   "dica": "Ao estudar, não fuja dos desvios.",
+   "justificativa": "'Todo desvio é um atalho, a gente só não sabe disso ainda.'",
+   "contexto": "Leituras que parecem fugir do tema.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:34:32"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A psicologia é fragmentada enquanto campo do conhecimento, mas a clínica não precisa ser.",
+   "argumento": "O domínio e a consciência dos pressupostos de várias abordagens dão variedade e abrem o leque de ferramentas; por isso todo aprimoramento começa com um panorama.",
+   "contraponto": "O clínico preso a um único vocabulário.",
+   "implicacao": "Treinar tradução entre vocabulários e dedução a partir de premissas.",
+   "quem": "Alan",
+   "ts": "0:11:15"
+  },
+  {
+   "tese": "A leitura por tema ou população ('como se atende casal, autista, atleta?') é em boa parte uma defesa.",
+   "argumento": "Casos do mesmo tema diferem mais entre si do que casos de temas distintos; a teoria temática serve de escudo contra a angústia de não saber.",
+   "contraponto": "A demanda comum de alunos por técnicas específicas por população.",
+   "implicacao": "Começar pela escuta e pelas premissas, suportando o não saber.",
+   "quem": "Alan",
+   "ts": "0:19:36"
+  },
+  {
+   "tese": "O vocabulário com que se nomeia um fenômeno muda a direção clínica.",
+   "argumento": "Chamar a repetição de leitmotiv leva a focar variações e progresso; chamá-la de pulsão de morte ou gozo leva a focar o núcleo que se repete. 'O ponto de vista do analista altera o objeto analisado.'",
+   "contraponto": "A ideia de que termos de abordagens vizinhas são intercambiáveis.",
+   "implicacao": "Escolher o foco (variação × núcleo) sabendo o efeito que terá.",
+   "quem": "Alan",
+   "ts": "0:29:37"
+  },
+  {
+   "tese": "Dá para raciocinar clinicamente 'de orelhada' numa abordagem que não se domina, mas é preciso saber quando isso funciona e quando não.",
+   "argumento": "Um participante acerta sobre Gestalt usando vocabulário humanista; outro erra a inflexão psicanalítica usando vocabulário junguiano.",
+   "contraponto": "Tanto o purismo quanto o ecletismo ingênuo.",
+   "implicacao": "Checar se a tradução preserva a premissa central da abordagem-alvo.",
+   "quem": "Alan",
+   "ts": "0:30:40"
+  },
+  {
+   "tese": "O amor é estruturalmente um muro: amamos o outro tal como a fantasia de que precisamos para nossa completude.",
+   "argumento": "L'amour/le mur; inconsciente e linguagem impedem o acesso ao desejo do outro; Hegel (o amor só existe na impossibilidade de dizê-lo); a piada de Žižek sobre o 'mais'.",
+   "contraponto": "O ideal romântico de comunicação transparente.",
+   "implicacao": "Trabalhar fantasias e projeções dos parceiros, não apenas 'melhorar a comunicação'.",
+   "quem": "Alan (a partir de Lacan, Hegel e Žižek)",
+   "ts": "0:46:26"
+  },
+  {
+   "tese": "Em psicanálise não há psicossíntese: a neurose é uma tentativa de cura falha e a tendência das coisas não é para a saúde.",
+   "argumento": "O desejo mira um 'mais desejar' (objeto a), e a repetição leva a mais repetição.",
+   "contraponto": "As leituras junguianas e humanistas do encontro amoroso como descoberta de si.",
+   "implicacao": "Na leitura psicanalítica de casal, buscar o que se repete e o impossível, e não o crescimento.",
+   "quem": "Alan",
+   "ts": "0:47:10"
+  },
+  {
+   "tese": "O 'gozo feminino Outro' de Lacan é uma produção da fantasia masculina (crítica reportada e apreciada por Alan).",
+   "argumento": "'Produzo a periferia para retroativamente criar o centro', como o 'homem de bem' que precisa do 'vagabundo' (leitura junguiana de Cristo e do ladrão).",
+   "contraponto": "A leitura canônica da tábua da sexuação.",
+   "implicacao": "Desconfiar de teorias que definem o outro só como negação de si.",
+   "quem": "Psicanalistas contemporâneos (Žižek), reportados por Alan",
+   "ts": "0:43:23"
+  },
+  {
+   "tese": "O amor é uma contingência que retroativamente aparece como necessária.",
+   "argumento": "Nem o acaso puro ('podia ter sido sua irmã') nem o destino puro ('estava predestinado') soam como amor; a suprassunção hegeliana é o encontro casual que reescreve a vida para trás. O 'defeito' se torna necessário (brilho no nariz, rinoplastia).",
+   "contraponto": "As duas narrativas típicas de comédia romântica.",
+   "implicacao": "O elemento perturbador do parceiro pode ser o que sustenta o vínculo.",
+   "quem": "Alan (a partir de Hegel e Žižek)",
+   "ts": "1:07:14"
+  },
+  {
+   "tese": "Enquanto as psicologias forem parciais, a atitude correta é humildade epistêmica e articulação entre referenciais.",
+   "argumento": "Jung: as psicologias são feitas de recortes (Adler, Freud); a síntese prematura faz ver na realidade uma teoria que não está lá. Alan: 'não deixou de ser verdade'.",
+   "contraponto": "Teorias totalizantes da psique.",
+   "implicacao": "'Antes do almoço adleriano, depois do almoço freudiano.'",
+   "quem": "Jung, endossado por Alan",
+   "ts": "1:18:24"
+  },
+  {
+   "tese": "Antinomia não é viés cognitivo.",
+   "argumento": "No viés há uma realidade objetiva e uma distorção; na antinomia, dois opostos irreconciliáveis. Chamar a vivência de heurística pressupõe que a realidade coletiva é a realidade em si. O delírio se define por adequação a uma ortodoxia, não por porcentagem.",
+   "contraponto": "Leitura cognitivista trazida por um participante.",
+   "implicacao": "Cuidado com intervenções que corrigem o paciente em nome do 'real'.",
+   "quem": "Alan",
+   "ts": "1:21:01"
+  },
+  {
+   "tese": "Nas abordagens conhecidas, a loucura só se define em relação à realidade ou ao laço social.",
+   "argumento": "Lacan (psicose como dificuldade de laço), Jung (Joyce e a filha; o filho do serralheiro e Schopenhauer), TCC (realidade), fenomenologia existencial (não há sujeito fora do mundo).",
+   "contraponto": "Critério puramente interno de loucura; Alan só imagina isso numa psicologia tomista, e diz que é chute.",
+   "implicacao": "O que separa sofrimento de criação é também a capacidade de fazer laço com o que se vive.",
+   "quem": "Alan",
+   "ts": "1:28:24"
+  },
+  {
+   "tese": "O panorama multiabordagem que abre os aprimoramentos existe para garantir a adesão ao exercício e implica uma 'máscara' de que toda a psicologia está certa.",
+   "argumento": "Sem ele, o participante chega ao exercício dizendo 'na psicanálise a gente não faz assim'. Encontros só de teoria obrigariam Alan a expor seus vieses.",
+   "contraponto": "Um participante observa que, se o campo se abrisse para discussão real, seria injusto esconder os vieses.",
+   "implicacao": "O bloco teórico deve ser curto e estar a serviço do exercício.",
+   "quem": "Alan",
+   "ts": "1:32:52"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "A psicologia é fragmentada enquanto campo do conhecimento, mas a sua clínica não precisa ser.",
+   "tema": "integração de abordagens",
+   "ts": "0:11:15"
+  },
+  {
+   "texto": "Lembrando, gente: o objetivo é que vocês errem.",
+   "tema": "facilitação",
+   "ts": "0:06:44"
+  },
+  {
+   "texto": "Dois casos de esportistas são muitas vezes mais diferentes entre si do que um caso de relacionamento e um de psicologia do esporte.",
+   "tema": "leitura por tema",
+   "ts": "0:19:36"
+  },
+  {
+   "texto": "A gente quer um pouquinho de teoria para não ter que lidar com o desconhecimento dos fatos: a teoria como escudo para a realidade.",
+   "tema": "teoria como escudo",
+   "ts": "0:20:08"
+  },
+  {
+   "texto": "A repetição não leva a uma coisa nova. A repetição leva a mais repetir.",
+   "tema": "pulsão de morte",
+   "ts": "0:25:16"
+  },
+  {
+   "texto": "O ponto de vista do analista altera o objeto analisado.",
+   "tema": "escuta",
+   "ts": "0:29:37"
+  },
+  {
+   "texto": "Todo desvio é um atalho — a gente só não sabe disso ainda.",
+   "tema": "estudo",
+   "ts": "0:34:32"
+  },
+  {
+   "texto": "O gesto romântico por excelência é não saber por que você ama outra pessoa.",
+   "tema": "amor",
+   "ts": "0:36:38"
+  },
+  {
+   "texto": "Eu não vejo o outro tal qual ele é; vejo o outro tal qual a fantasia de que eu preciso para a minha completude.",
+   "tema": "fantasia e amor",
+   "ts": "0:46:26"
+  },
+  {
+   "texto": "Qual é a verdade desse casal? Qual é a coisa que não pode ser nomeada, mas que dá enlace ao que está acontecendo?",
+   "tema": "clínica de casal",
+   "ts": "0:51:22"
+  },
+  {
+   "texto": "Eu tô tão imbuído da minha teoria que começo a encontrá-la na realidade quando ela nem está lá.",
+   "tema": "teoria e observação",
+   "ts": "0:58:57"
+  },
+  {
+   "texto": "O amor é algo profundamente contingente que, de maneira retroativa, aparece como necessário.",
+   "tema": "amor em Hegel",
+   "ts": "1:07:14"
+  },
+  {
+   "texto": "Toda hipótese psicológica, para ser formulada de maneira adequada, precisa poder ser invertida.",
+   "tema": "princípio da inversão",
+   "ts": "1:13:11"
+  },
+  {
+   "texto": "Antes do almoço, ser adleriano; depois do almoço, ser freudiano.",
+   "tema": "humildade epistêmica (Jung)",
+   "ts": "1:18:24"
+  },
+  {
+   "texto": "Pra pessoa comprar e fazer o exercício direito, eu preciso mostrar que consigo, na linguagem que ela preferir, explicar esse mesmo assunto.",
+   "tema": "método dos grupos",
+   "ts": "1:32:52"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Como 4 abordagens pensam o amor (e a terapia de casal)",
+   "mensagem": "A mesma cosmovisão que guia o atendimento individual guia o casal.",
+   "roteiro": [
+    "Slide 1: o mesmo casal, quatro lentes",
+    "Slide 2: comportamental — somar interações positivas e negativas",
+    "Slide 3: Gestalt — aqui e agora, gestalt aberta",
+    "Slide 4: psicanálise — o amor como muro, objeto a",
+    "Slide 5: Jung — participação mística",
+    "Slide 6: a clínica não precisa ser fragmentada"
+   ],
+   "corte_inicio": "0:03:04",
+   "corte_fim": "0:05:55"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Repetição: espiral ou círculo?",
+   "mensagem": "Focar nas variações ou no núcleo de um padrão muda o próprio fenômeno que o terapeuta observa.",
+   "roteiro": [
+    "Cena 1: o 'dedo podre' — o mesmo padrão com parceiros diferentes",
+    "Cena 2: lente espiral — o que mudou de uma versão para outra",
+    "Cena 3: lente do núcleo — o que se repete em todas",
+    "Cena 4: 'o ponto de vista do analista altera o objeto'"
+   ],
+   "corte_inicio": "0:28:41",
+   "corte_fim": "0:31:36"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "'Como se atende casal?' é a pergunta errada",
+   "mensagem": "A teoria temática muitas vezes é escudo contra a angústia de não saber; comece pelas premissas e pela escuta.",
+   "roteiro": [
+    "Cena 1: a pergunta frequente",
+    "Cena 2: dois atletas são mais diferentes entre si que um atleta e um casal",
+    "Cena 3: a teoria como escudo",
+    "Cena 4: o que fazer em vez disso"
+   ],
+   "corte_inicio": "0:19:36",
+   "corte_fim": "0:21:12"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Hegel explica as comédias românticas (Dia dos Namorados)",
+   "mensagem": "Nem o acaso puro nem o destino puro soam como amor; o amor é o acaso que retroativamente vira necessidade.",
+   "roteiro": [
+    "Slide 1: dois tipos de comédia romântica",
+    "Slide 2: 'podia ter sido sua irmã' não é declaração de amor",
+    "Slide 3: 'estava predestinado, independe de mim' também não",
+    "Slide 4: o encontro casual que reescreve a vida para trás",
+    "Slide 5: e o 'defeito' que você passa a amar"
+   ],
+   "corte_inicio": "1:04:08",
+   "corte_fim": "1:08:21"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "A briga que continua na sua cabeça",
+   "mensagem": "Gestalt aberta: o que não foi dito segue figurando; como explorar isso em sessão.",
+   "roteiro": [
+    "Cena 1: a briga acabou, mas não para de rodar",
+    "Cena 2: contato que não se completou",
+    "Cena 3: desvio de objeto (frieza, bagunça)",
+    "Cena 4: pergunta clínica: o que ficou por dizer?"
+   ],
+   "corte_inicio": "0:15:02",
+   "corte_fim": "0:17:27"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Antinomia não é viés cognitivo",
+   "mensagem": "O geral e o individual podem ser verdadeiros ao mesmo tempo sem se anularem.",
+   "roteiro": [
+    "Slide 1: aviões são mais seguros que motos",
+    "Slide 2: esse fato não importa perante a mãe que perdeu o filho num acidente aéreo",
+    "Slide 3: viés = realidade + distorção; antinomia = dois opostos verdadeiros",
+    "Slide 4: cuidado com a linguagem que já diz que o paciente está errado"
+   ],
+   "corte_inicio": "1:15:10",
+   "corte_fim": "1:23:03"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Por que começo todo grupo explicando várias abordagens",
+   "mensagem": "Para que ninguém chegue ao exercício dizendo 'na minha abordagem não se faz assim'.",
+   "roteiro": [
+    "Story 1: a pergunta",
+    "Story 2: a resposta do Alan",
+    "Story 3: convite para o grupo"
+   ],
+   "corte_inicio": "1:32:52",
+   "corte_fim": "1:33:55"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Amor como 'dar o que não se tem'; l'amour/le mur; objeto a; gozo; tábua da sexuação; quatro discursos; psicose como dificuldade de laço."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Compulsão à repetição e pulsão de morte; o 'brilho no nariz' (caso de fetichismo)."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Participação mística; psicologias parciais; princípio da inversão; antinomia individual × genérico (OC 17, §199–212); leitura de Cristo e do ladrão; Joyce; 'os frutos caem em solos diferentes'."
+  },
+  {
+   "nome": "G. W. F. Hegel",
+   "contexto": "Amor como impossibilidade e como contingência retroativamente necessária; suprassunção da antinomia medieval contingente × necessário."
+  },
+  {
+   "nome": "Jacques-Alain Miller",
+   "contexto": "'Os seis paradigmas do gozo'; genro de Lacan e responsável por sua difusão ('o Lacan da faculdade é milleriano')."
+  },
+  {
+   "nome": "Slavoj Žižek",
+   "contexto": "Crítica à tábua da sexuação; piada sobre o 'mais' no sexo; 'te amo apesar do elemento perturbador, talvez por causa dele'."
+  },
+  {
+   "nome": "Daniel Kahneman",
+   "contexto": "Rápido e devagar: sistemas 1 e 2 e a justificativa a posteriori."
+  },
+  {
+   "nome": "Immanuel Kant",
+   "contexto": "Crítica da razão pura: antinomia como paradoxo insolúvel pela razão (existência de Deus)."
+  },
+  {
+   "nome": "Alfred Adler",
+   "contexto": "Exemplo de psicologia parcial construída a partir de seus pacientes; 'antes do almoço adleriano'."
+  },
+  {
+   "nome": "Gustave Le Bon",
+   "contexto": "Psicologia das massas, referência de Jung para o rebaixamento do nível mental em grupos."
+  },
+  {
+   "nome": "Arthur Schopenhauer",
+   "contexto": "O mundo como vontade e representação, comparado ao delírio de um paciente de Jung."
+  },
+  {
+   "nome": "James Joyce",
+   "contexto": "Jung: Joyce transformou a loucura em literatura; a filha 'afunda nas águas em que ele nada'."
+  },
+  {
+   "nome": "Jean-Paul Sartre",
+   "contexto": "Lembrado por participante: não há sujeito fora do mundo (fenomenologia existencial)."
+  },
+  {
+   "nome": "James Clerk Maxwell",
+   "contexto": "Exemplo de unificação posterior de leis parciais (eletricidade e magnetismo)."
+  },
+  {
+   "nome": "Pedro Abelardo",
+   "contexto": "Filosofia medieval e a antinomia contingente × necessário, com a qual Hegel 'brinca'."
+  },
+  {
+   "nome": "Tomás de Aquino",
+   "contexto": "Chute de Alan: uma psicologia tomista poderia pensar a loucura fora do social ou da realidade."
+  },
+  {
+   "nome": "Alexandre Kaitel (?)",
+   "contexto": "Professor da Allos cujo vídeo sobre ciclo de contato Alan recomenda como 'talvez o melhor' do canal (grafia incerta)."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Alan)",
+  "objetivo": "Desenvolver competências clínicas por meio de um panorama teórico multiabordagem seguido de exercício prático; neste encontro, treinar a dedução de direções clínicas a partir das premissas de cada abordagem.",
+  "publico": "Estudantes de psicologia e clínicos iniciantes de diferentes abordagens.",
+  "tamanho": "Grupo pequeno; cerca de 4 a 6 participantes ativos na gravação, alguns saem no meio.",
+  "duracao": "Cerca de 1h30 (gravado); continua fora da gravação.",
+  "estrutura_padrao": "Abertura → panorama teórico em várias abordagens (com perguntas ao grupo) → exercício ou construção prática → feedback → fechamento. Neste encontro atípico, só o panorama e a discussão, sem exercício estruturado.",
+  "papel_facilitador": "Expositor e provocador: pergunta antes de expor, dá feedback sobre raciocínio e conteúdo, traduz teoria em hipóteses clínicas, modela honestidade epistêmica e metacomunica sobre o método.",
+  "regras_combinados": "Online, com fala aberta, mão levantada e chat; encontro gravado, com conversa posterior fora da gravação (sugestões e comentários off); errar é esperado e desejado."
+ },
+ "reflexoes_do_facilitador": [
+  "Abre admitindo que esqueceu a data, está num setup improvisado e trocou o plano original; diz que gostou das sugestões do grupo (dinheiro e negociação) e que vai 'ouvir um pouquinho mais vocês'.",
+  "No meio do encontro: 'não sei se vocês já notaram o tempo aqui, eu gostei dessa parte teórica. Vou ficar fazendo isso'. Percebe o estouro e segue.",
+  "Recusa dar opinião pessoal ('20 anos na cara… não sei se posso ter opiniões'; 'não penso nada de original') e diz ter duas ou três opiniões próprias, ligadas à hermenêutica, que ficam para outro momento por falta de tempo.",
+  "No fechamento: 'tudo improvisado… sem pensar a estrutura antes. Isso que é bom', mas 'não foi um aprimoramento típico, não teve exercício, não teve treino'; foi 'uma experiência', não um exercício estruturado.",
+  "Pergunta ao grupo se faz sentido fazer encontros assim de vez em quando e reconhece que isso o obrigaria a 'tirar a máscara de que toda a psicologia tá certa'.",
+  "Explicita a função do panorama multiabordagem: evitar que o participante diga 'na psicanálise a gente não faz assim' e garantir que ele 'compre' e faça o exercício direito.",
+  "No encontro seguinte (Alan 12 - Formulação de caso 1), relata que ficou 'triste no final', achou que 'deu um tantinho errado' e ouviu a crítica de que foi 'excessivamente teórico'; responde com uma 'leve enantiodromia': um exercício quase sem teoria."
+ ],
+ "referencias_a_outros_encontros": [
+  "Alan 12 - Formulação de caso 1: abre citando 'o último aprimoramento, o especial de Dia dos Namorados' (este encontro), a crítica de excesso de teoria e a mudança de formato. Na cronologia real, este encontro vem imediatamente antes do 12.",
+  "Alan 10 - Escuta em sistêmica: 'aprimoramento recente' em que Alan já tinha dado o exemplo da terapia comportamental de casal (registro de comportamentos bons e ruins, gráfico, metas).",
+  "Encontro anterior (não identificado): sugestões feitas pelo grupo depois da gravação, entre elas um tema sobre dinheiro e negociação.",
+  "Anúncio de uma futura dinâmica de 'criatividade clínica' ('não sei se vai ser semana que vem ou na outra').",
+  "Menção a exemplos de terapia de casal dados 'aqui ou em outros grupos de aprimoramento'.",
+  "Recomendação do vídeo sobre ciclo de contato do professor Alexandre Kaitel (?) no YouTube da Allos."
+ ],
+ "observacoes": "Legenda automática com bastante ruído, sobretudo nos trechos de Lacan e Hegel ('regueliano' = hegeliano; 'Lacão/Acan' = Lacan; 'Zek/Zizig' = Žižek; 'Yung/Yun' = Jung; 'Cant' = Kant). Nomes incertos: o professor do vídeo sobre ciclo de contato ('Caitel/Kaitel'); o autor do conceito de rebaixamento do nível mental ('formulá', provavelmente Pierre Janet); um autor brasileiro citado junto de Žižek ('Kiné'(?)). Alan diz que Cristo foi crucificado 'ao lado de Barrabás' (nos Evangelhos, Barrabás é libertado). O trecho sobre 'estar na posição de todo(?)' e o tarô (0:20:08) está confuso. Não há casos clínicos reais: os exemplos são cotidianos ou hipotéticos (dificuldade de ereção, rinoplastia); Alan evita um exemplo 'estranhamente pessoal'. Participantes foram anonimizados. O encontro é o 18 da playlist, mas a cronologia real o coloca antes do 12; a data provável é quinta-feira, 12/06 (Dia dos Namorados), com 2025 como hipótese de ano, pois a data caiu numa quinta. A gravação termina quando o grupo passa a conversar fora do registro."
+}

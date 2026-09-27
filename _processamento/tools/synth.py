@@ -23,7 +23,14 @@ def nkey(s):
     s = re.sub(r"^din[aâ]mica\s*[-–—:]\s*", "", s)
     s = re.sub(r"\([^)]*\)", " ", s)
     s = re.sub(r"[^a-z0-9 ]", " ", s)
-    return re.sub(r"\s+", " ", s).strip()
+    s = " ".join(w for w in s.split() if w not in STOP)
+    return MERGE.get(s, s)
+STOP = {"de", "do", "da", "dos", "das", "e", "o", "a", "os", "as", "com", "em", "no", "na", "para", "por", "um", "uma"}
+MERGE = {  # variantes conhecidas -> chave canônica
+    "monitoria atendimento paciente ia": "leitura comentada atendimento simulado",
+    "leitura comentada atendimento simulado ia": "leitura comentada atendimento simulado",
+    "escutas": "escuta sistemica",
+}
 BAD = r'[#^\[\]|\\/:*?"<>]'
 def fname(s):
     s = re.sub(r"\s*:\s*", " - ", s.strip()); s = re.sub(BAD, "", s)

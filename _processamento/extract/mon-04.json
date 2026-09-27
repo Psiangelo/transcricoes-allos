@@ -1,0 +1,1006 @@
+{
+ "id": "mon-04",
+ "nota": "Monitoria 04 - Alan - Relação terapêutica além do vínculo",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Relação terapêutica além do vínculo",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Quarta (ou quinta) monitoria da série em que Alan monta, diante do grupo, um modelo de supervisão e pede feedback sobre ele. O foco escolhido é a relação terapêutica, a partir do primeiro atendimento escrito de uma monitorada com uma paciente simulada por IA. Alan pede a lógica de cada intervenção, discute tensionamento ('não existe intervenção agressiva, existe contexto agressivo') e abre hipóteses rivais sobre a paciente. No bloco central apresenta seu guia tripartite da relação terapêutica (vínculo, confiança no profissional, confiança no método) e mostra, relendo o atendimento, que a vontade de criar vínculo levou a monitorada a apresentar sua técnica como etapa rápida e secundária, o que custou confiança e produziu adesão pro forma. Uma digressão sobre a matemática dos aplicativos de namoro (Hannah Fry) sustenta que apresentar abertamente o próprio jeito atrai mais que moldá-lo ao outro. No fim, um bate-volta de hipóteses sobre a autoapresentação da paciente (passado, luto, distinção, lugar de elite ou ralé) leva a duas lições: não sacrificar confiança e método pelo vínculo, e repetir a intervenção quando a resposta foge da pergunta.",
+ "em_uma_frase": "A relação terapêutica tem três partes (vínculo, confiança no profissional e confiança no método), e o terapeuta que, por querer vínculo, apresenta sua técnica como etapa rápida ou desiste dela diante da resistência ganha um terço da relação e perde dois; a saída é explicitar o método, com o como e o porquê.",
+ "competencias": [
+  "Relação terapêutica",
+  "Primeira sessão e entrevistas iniciais",
+  "Psicoeducação",
+  "Intervenção",
+  "Construção frasal",
+  "Interpretação",
+  "Formulação de caso",
+  "Feedback clínico",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicanálise lacaniana",
+  "Abordagem centrada na pessoa",
+  "Análise do comportamento"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:14",
+   "bloco": "Abertura",
+   "descricao": "Alan situa o encontro na série; ainda é um primeiro atendimento, com paciente simulada por IA (usada para discutir casos de forma ética); anuncia novos pacientes na ferramenta.",
+   "funcao": "Enquadrar o formato e a ética do material.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:05",
+   "bloco": "Retomada",
+   "descricao": "'Estamos construindo um dos modelinhos de supervisão'; objetivo de passar a estrutura e receber feedback; recapitula as monitorias anteriores (linguagem, raciocínio clínico, uso da teoria).",
+   "funcao": "Dar o fio da série e a meta de aprender a monitorar.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:02",
+   "bloco": "Combinados",
+   "descricao": "Negocia o foco com o grupo (relação terapêutica); lembra que a monitoria é individual e os demais são ouvintes que podem participar.",
+   "funcao": "Contrato de foco e de papéis.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:03:33",
+   "bloco": "Feedback",
+   "descricao": "A monitorada lê suas falas e Alan as da paciente; Alan pede a justificativa da frase de abertura e menciona um workshop sobre a frase inicial.",
+   "funcao": "Investigar o raciocínio antes de avaliar.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:05:31",
+   "bloco": "Feedback",
+   "descricao": "Primeira fala da paciente e o exercício corporal proposto pela monitorada; Alan discute tensionamento, 'contexto agressivo' e o bate-volta pelo vocabulário da paciente.",
+   "funcao": "Calibrar intensidade e construção frasal.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:12:52",
+   "bloco": "Dinâmica",
+   "descricao": "Segunda fala da paciente; a monitorada narra os highlights; Alan oferece hipóteses rivais (gosta de ser obrigada, confusa sobre a terapia, carta travestida).",
+   "funcao": "Treinar leitura de caso e visualizar caminhos não tomados.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:20:59",
+   "bloco": "Feedback",
+   "descricao": "Intervenção de relaxamento e respiração conjunta: é para a paciente ou para a terapeuta?",
+   "funcao": "Consciência da função da técnica.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:22:57",
+   "bloco": "Teoria",
+   "descricao": "Guia tripartite da relação terapêutica; o sabão molhado; viés dos professores por abordagem (comentário de Diogo); falta de orientação na escolha do referencial; metáfora do médico; peso do primeiro atendimento.",
+   "funcao": "Dar uma lente explícita e justificar por que ela é necessária.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:32:23",
+   "bloco": "Dinâmica",
+   "descricao": "Releitura do atendimento pelos três pilares: a frase inicial é boa; o exercício sem o como e o porquê; o 'somente' que troca método por vínculo; a resposta pro forma da paciente confirma a previsão.",
+   "funcao": "Aplicar a lente ao material.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:41:02",
+   "bloco": "Feedback",
+   "descricao": "Pequena falha da IA com o nome; Alan pergunta por que a monitorada pediu o nome da paciente e nomeia o padrão de trocar método por vínculo.",
+   "funcao": "Passar do erro pontual ao padrão.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:43:55",
+   "bloco": "Teoria",
+   "descricao": "Digressão deliberadamente 'aleatória': Hannah Fry, dados de aplicativo de namoro, o careca de boné e o careca assumido; nicho do contador e do psicólogo; implicação para apresentar a própria clínica.",
+   "funcao": "Fixar a tese com um exemplo marcante.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:51:39",
+   "bloco": "Discussão",
+   "descricao": "A monitorada relata que a paciente melhorou quando ela explicou os exercícios; resistência verbal do caso; 'na dúvida, explica explicitamente'; demonstrar é elegante só para o supervisor.",
+   "funcao": "Posicionamento sobre psicoeducação explícita.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:55:13",
+   "bloco": "Dinâmica",
+   "descricao": "Autoapresentação da paciente; bate-volta de hipóteses: 'administradora do patrimônio', passado e futuro, luto, falta, pro forma como motivo central.",
+   "funcao": "Exercitar a interpretação rapidamente sem perder o foco relacional.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:04:10",
+   "bloco": "Dinâmica",
+   "descricao": "Brincadeira aberta ao chat sobre as palavras de uma frase da paciente; descrição como mensagem; 'artigo de luxo' e distinção; rigidez é bem-vinda na relação; o 'pacote completo'.",
+   "funcao": "Incluir o grupo e treinar o olhar para palavras.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:07:56",
+   "bloco": "Discussão",
+   "descricao": "'Ela te coloca na ralé ou na elite?'; procurada e buscadora; indicação médica; a intervenção 'ousada' da monitorada; o razoável contra o bonito; regra e exceção.",
+   "funcao": "Ler o lugar oferecido ao terapeuta e priorizar regras práticas.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:14:54",
+   "bloco": "Feedback",
+   "descricao": "'Quem é trivial para você?'; a paciente responde com definições de dicionário; Alan propõe repetir a intervenção.",
+   "funcao": "Segunda lição: insistência como sinal de método.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:17:59",
+   "bloco": "Fechamento",
+   "descricao": "Síntese das duas lições; temas do caso a explorar; segundos atendimentos na semana seguinte; gravação parada para comentários.",
+   "funcao": "Consolidação e continuidade da série.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Tripartição da relação terapêutica",
+   "definicao": "Guia que Alan usa para dar feedback sobre relação terapêutica: (1) a relação em si, ou qualidade do vínculo; (2) a confiança que o terapeuta passa como profissional; (3) a confiança que passa no seu método. O vínculo é deliberadamente minimizado ('só um terço') para compensar uma formação que o toma como a totalidade da relação.",
+   "exemplo": "Metáfora do médico: queremos que seja humano, que passe segurança como clínico e que o tratamento faça sentido.",
+   "abordagem": "",
+   "ts": "0:27:26"
+  },
+  {
+   "nome": "Vínculo terapêutico",
+   "definicao": "A relação em si, a qualidade do contato humano entre terapeuta e paciente. Para Alan, importante, mas só um terço da relação terapêutica.",
+   "exemplo": "O médico que nos trata de maneira humana e agradável.",
+   "abordagem": "",
+   "ts": "0:27:26"
+  },
+  {
+   "nome": "Confiança no profissional",
+   "definicao": "Segurança que o terapeuta transmite enquanto clínico. Não vem de fazer o que o paciente quer, mas de ter um jeito próprio de fazer; delegar escolhas só funciona entre opções saudáveis e sem esquiva.",
+   "exemplo": "O cirurgião que pergunta ao paciente qual instrumento usar ou hesita sobre o procedimento.",
+   "abordagem": "",
+   "ts": "0:29:40"
+  },
+  {
+   "nome": "Confiança no método",
+   "definicao": "Percepção do paciente de que o método de trabalho do terapeuta faz sentido. Pode ser construída implícita ou explicitamente e depende de o paciente ter acesso ao como e ao porquê do que se faz.",
+   "exemplo": "O médico que explica um tratamento que não faz sentido (água diluída 'em partes milésimas') deixa de ser visto como bom médico.",
+   "abordagem": "",
+   "ts": "0:30:33"
+  },
+  {
+   "nome": "Intensidade da intervenção",
+   "definicao": "Grau de tensionamento que uma intervenção impõe à relação. Aqui, a tese é que ela depende do contexto: 'não existe intervenção agressiva ou suave, existe contexto agressivo ou suave'.",
+   "exemplo": "Pedir para respirar e notar o corpo é forte quando a paciente acabou de pedir objetividade e rapidez.",
+   "abordagem": "",
+   "ts": "0:10:08"
+  },
+  {
+   "nome": "Movimento de bate-volta",
+   "definicao": "Movimento duplo de entrar pela linguagem do paciente e conduzi-lo para a direção que o terapeuta pretende. Suaviza a frustração sem mudar a condução.",
+   "exemplo": "Diante de alguém preocupado com produtividade: 'para a gente não se distrair, é melhor estarmos presentes'.",
+   "abordagem": "",
+   "ts": "0:11:58"
+  },
+  {
+   "nome": "Sujeito suposto saber",
+   "definicao": "Lugar de saber que o paciente atribui ao terapeuta. A monitorada identifica que a paciente supõe na terapeuta um saber de tipo médico; Alan menciona criticamente a prescrição de 'sair da posição de suposto saber' como ideia bonita que nem sempre é razoável.",
+   "exemplo": "A paciente descreve o próprio corpo 'como se escrevesse para um médico'.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:13:44"
+  },
+  {
+   "nome": "Expectativas sobre a terapia",
+   "definicao": "Fantasias e concepções do paciente sobre o que é e para que serve a terapia. Podem vir de falta de repertório ou de experiências clínicas anteriores e são objeto de psicoeducação.",
+   "exemplo": "Perguntar 'o que você imagina que são os meus fins? Como acha que vou te ajudar?'.",
+   "abordagem": "",
+   "ts": "0:19:06"
+  },
+  {
+   "nome": "Demanda dirigida ao terapeuta",
+   "definicao": "O que o paciente comunica ao terapeuta nas entrelinhas. Aqui, a 'carta travestida' (querer falar de outra coisa sem abandonar a pose) e o 'te bastou?', que põe a terapeuta na posição de quem busca.",
+   "exemplo": "Respostas 'objetivas' com uma pergunta final sobre se aquilo basta.",
+   "abordagem": "",
+   "ts": "0:19:06"
+  },
+  {
+   "nome": "Capital cultural",
+   "definicao": "Repertório que permite a alguém visualizar o que é uma clínica psicológica. Pode faltar mesmo a pessoas muito instruídas.",
+   "exemplo": "Paciente instruída que trata a terapia como consulta médica.",
+   "abordagem": "",
+   "ts": "0:20:05"
+  },
+  {
+   "nome": "Níveis da instrução",
+   "definicao": "Uma boa instrução, quando o terapeuta propõe um exercício, tem três níveis: o quê, o como e, principalmente, o porquê. O porquê dá ao paciente acesso ao método, que ele pode comprar ou recusar.",
+   "exemplo": "'Concentre-se no corpo' (o quê) sem dizer o que observar (como) nem para quê (porquê).",
+   "abordagem": "",
+   "ts": "0:33:11"
+  },
+  {
+   "nome": "Explicitação do raciocínio",
+   "definicao": "Dizer ao paciente o que o terapeuta está fazendo e por quê. Regra de Alan: 'na dúvida, explica explicitamente'; o paciente que acompanha o raciocínio facilita a condução.",
+   "exemplo": "A paciente simulada muda de postura quando a monitorada finalmente explica os exercícios.",
+   "abordagem": "",
+   "ts": "0:52:33"
+  },
+  {
+   "nome": "Psicoeducação implícita e explícita",
+   "definicao": "Demonstrar o método (mais elegante, mais complexo) ou explicá-lo (em regra, mais útil). Demonstrar exige uma amarração posterior que consome a presença do terapeuta.",
+   "exemplo": "'É mais elegante demonstrar do que explicar, mas elegante é quando o seu supervisor está olhando.'",
+   "abordagem": "",
+   "ts": "0:53:27"
+  },
+  {
+   "nome": "Unilateralidade",
+   "definicao": "Tendência de tomar uma parte pelo todo, como o vínculo pela relação terapêutica ou a visão de uma abordagem pela psicologia. Alan a combate com estruturas multipartidas e supercompensação deliberada.",
+   "exemplo": "O objeto da psicologia é como um sabão molhado: pega-se de um lado e ele escapa do outro.",
+   "abordagem": "",
+   "ts": "0:23:53"
+  },
+  {
+   "nome": "Viés de confirmação",
+   "definicao": "Levar 'para perto do coração' as teorias que confirmam a própria visão de mundo. Na formação, faz o aluno aderir ao professor que confirma seus estereótipos.",
+   "exemplo": "Quem acha que o psicólogo 'tem que acolher' adere ao professor 'fofinho' e rejeita o psicanalista lacaniano (comentário de Diogo).",
+   "abordagem": "",
+   "ts": "0:26:06"
+  },
+  {
+   "nome": "Escolha de referencial teórico",
+   "definicao": "Processo que, na graduação brasileira, ocorre sem aula nem orientação: o aluno é exposto a muitas teorias e se vira para juntá-las, sujeito ao gosto dos professores e aos próprios vieses.",
+   "exemplo": "Aprender relação terapêutica só com o professor humanista porque ele gostava mais do tema.",
+   "abordagem": "",
+   "ts": "0:26:27"
+  },
+  {
+   "nome": "Nicho clínico",
+   "definicao": "Especializar-se e apresentar-se abertamente com as próprias unilateralidades. Atrai quem se identifica, ajuda o paciente a escolher e reduz a concorrência pelo mesmo preço.",
+   "exemplo": "O contador especializado em psicólogos; o careca que não esconde a calvície.",
+   "abordagem": "",
+   "ts": "0:49:27"
+  },
+  {
+   "nome": "Resistência verbal",
+   "definicao": "Forma de resistência em que o paciente fala como se desgostasse do processo, mas adere a todas as intervenções.",
+   "exemplo": "A paciente simulada deste caso, que 'sempre compra a intervenção' apesar do tom de desdém.",
+   "abordagem": "",
+   "ts": "0:51:39"
+  },
+  {
+   "nome": "Orientação temporal",
+   "definicao": "Generalização de Alan: há pessoas que vivem a vida para o futuro e pessoas que a vivem para o passado, e a construção clínica muda muito entre elas. O sujeito jovem se apresenta pelo que ainda vai fazer.",
+   "exemplo": "Apresentar-se como 'administradora do próprio patrimônio' indica uma vida que já aconteceu.",
+   "abordagem": "",
+   "ts": "0:59:28"
+  },
+  {
+   "nome": "Luto",
+   "definicao": "Leitura de uma identidade presa a uma imagem idealizada do passado, que pesa sobre um presente em que a pessoa já não dá conta: 'quem se apaixona pelo próprio passado está em luto'.",
+   "exemplo": "A queixa está no presente (insônia, falta de tempo), mas a autodescrição está no passado.",
+   "abordagem": "",
+   "ts": "1:01:30"
+  },
+  {
+   "nome": "Máximas clínicas",
+   "definicao": "Regras interpretativas de bolso. Aqui: quem precisa se mostrar tão preenchido esconde uma falta.",
+   "exemplo": "A falta como sensação de, na meia-idade, não dar mais conta de uma rotina pesada.",
+   "abordagem": "",
+   "ts": "1:02:28"
+  },
+  {
+   "nome": "Descrição como mensagem",
+   "definicao": "Formalmente, toda autodescrição pode ser lida como a imagem que a pessoa quer passar ao interlocutor ('isso é uma mensagem, não uma descrição'), mas a leitura deve ser pesada pelo conteúdo.",
+   "exemplo": "No encontro amoroso, quando pedem 'me conta sobre você'.",
+   "abordagem": "",
+   "ts": "1:04:49"
+  },
+  {
+   "nome": "Distinção social",
+   "definicao": "Divisão das pessoas entre as 'de luxo' e a 'ralé', que organiza a leitura que a paciente faz dos outros e o lugar que dá à terapeuta.",
+   "exemplo": "Descrever qualidades humanas como 'artigo de luxo'.",
+   "abordagem": "",
+   "ts": "1:06:49"
+  },
+  {
+   "nome": "Rigidez e fluidez",
+   "definicao": "Excesso de rigidez e excesso de fluidez são ambos problemas. Na relação terapêutica, a rigidez é mais bem-vinda, porque as pessoas preferem comprar um pacote completo e coerente a uma massa amorfa de ideias.",
+   "exemplo": "Os charlatães da moda europeia de artefatos egípcios, que vendiam exatamente a experiência buscada.",
+   "abordagem": "",
+   "ts": "1:06:49"
+  },
+  {
+   "nome": "Repetição da intervenção",
+   "definicao": "Repetir a pergunta quando a resposta do paciente foge dela. Marca que o terapeuta tem método e que a pergunta não era 'palavra jogada ao ar'.",
+   "exemplo": "'Não, mas quem é trivial para você?', depois de uma resposta de dicionário.",
+   "abordagem": "",
+   "ts": "1:16:50"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Três pilares da relação terapêutica",
+   "objetivo": "Avaliar a construção da relação terapêutica num atendimento indo além do vínculo e perceber quando ganhar vínculo custa confiança no profissional ou no método.",
+   "competencias": [
+    "Relação terapêutica",
+    "Psicoeducação",
+    "Construção frasal",
+    "Primeira sessão e entrevistas iniciais"
+   ],
+   "configuracao": "Supervisão individual diante do grupo (um monitorado; ouvintes presenciais e online); material escrito compartilhado na tela.",
+   "tempo": "Cerca de 10 min de teoria e 10 a 15 min de releitura; depois, o critério é usado até o fim do encontro.",
+   "materiais": "Transcrição escrita de um primeiro atendimento (paciente simulado por IA).",
+   "consigna": "Vamos olhar para o atendimento de novo a partir destes três critérios: a qualidade do vínculo, a confiança que você passa enquanto profissional e a confiança que você passa no seu método.",
+   "passos": [
+    "Ler o atendimento troca a troca, pedindo primeiro a lógica de cada intervenção.",
+    "Parar e expor o guia tripartite, explicando por que o vínculo é propositalmente minimizado.",
+    "Ilustrar com uma metáfora de outra área clínica (o médico).",
+    "Reler cada intervenção perguntando que pilar ela fortalece e qual sacrifica.",
+    "Localizar as palavras que entregam o sacrifício ('somente', 'rapidinho', 'a gente vai chegar lá').",
+    "Conferir na fala seguinte do paciente se a previsão se confirma.",
+    "Nomear o padrão do monitorado para acompanhá-lo no resto do atendimento."
+   ],
+   "feedback": "Elogia o que inspira confiança (a abertura que já sugere o método); aponta o que falta numa instrução (o como e o porquê); propõe cortes concretos; sempre reconhece a intenção relacional antes de mostrar o custo ('eu entendo por que você fez isso').",
+   "exemplos_praticos": "A monitorada apresentou um exercício corporal como algo 'somente' para a transição; a paciente simulada o fez pro forma e pediu para voltar ao que importa. A monitorada reconheceu que ficou 'solto' e contou que, quando explicou os exercícios, a paciente mudou de postura.",
+   "variacoes": "Fazer como exercício de reescrita: refazer a intervenção para que ganhe confiança sem perder vínculo; aplicar o critério ao fechamento da sessão.",
+   "armadilhas": "Transformar o feedback em 'seja menos acolhedor'; o objetivo é integrar os três pilares, e não trocar um pelo outro.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:32:23"
+  },
+  {
+   "nome": "Dinâmica - Bate-volta de hipóteses clínicas",
+   "objetivo": "Abrir caminhos interpretativos que o monitorado não considerou, sem impor uma leitura, e treinar a sustentação de hipóteses rivais.",
+   "competencias": [
+    "Interpretação",
+    "Formulação de caso",
+    "Escuta clínica"
+   ],
+   "configuracao": "Supervisor e monitorado diante do grupo; numa variação, aberta a todos pelo chat.",
+   "tempo": "5 a 10 min por fala do paciente.",
+   "materiais": "Falas do paciente na tela.",
+   "consigna": "Faz o que eu fiz: eu vou descendo e você me conta os highlights, os caminhos que talvez você não foi, mas poderia ir. Depois: deixa eu te fazer algumas perguntas de caminhos possíveis e você me diz se isso faz sentido para você ou não.",
+   "passos": [
+    "O monitorado narra o que chama a atenção na fala do paciente.",
+    "O supervisor pega um detalhe (estrutura de frase, palavra) e formula uma hipótese com a alternativa explícita ('é isso, ou há pessoas assim, mas não parece ser o caso dela?').",
+    "O monitorado concorda, discorda ou matiza.",
+    "O supervisor explica por que levantou a hipótese e o que ela mudaria na condução.",
+    "Oferece uma segunda hipótese, de preferência rival, e pergunta de novo.",
+    "Liga as hipóteses ao que o monitorado fez ('e você fez isso?')."
+   ],
+   "feedback": "Valoriza leituras apoiadas em marcadores textuais; pesa a hipótese pelo conteúdo ('formalmente dá, mas pelo conteúdo é menos provável'); reforça explicitamente quando o participante tem razão.",
+   "exemplos_praticos": "Hipóteses sobre a paciente simulada: pessoa que adora ser obrigada a sair da pose; pessoa confusa sobre a função do psicólogo; carta travestida; orientação para o passado e luto. A monitorada aceitou algumas com ressalvas e reviu outras ao juntar duas falas.",
+   "variacoes": "'Que palavra chama atenção?': o supervisor lê uma sequência de palavras da fala do paciente e todos, inclusive no chat, dizem qual chama atenção e por quê.",
+   "armadilhas": "Perder o foco do dia (Alan quer passar 'mais rápido' por essa parte); o grupo se dispersar em piadas ou tomar a pergunta para si ('é monitoria, é para ela').",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:13:44"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Abrir situando a série e a meta",
+   "descricao": "Explica que está construindo um modelo de supervisão, pede feedback sobre ele e recapitula o foco das monitorias anteriores.",
+   "exemplo": "'A gente tá meio que construindo um dos modelinhos de supervisão aqui dentro.'",
+   "ts": "0:01:05"
+  },
+  {
+   "movimento": "Negociar o foco",
+   "descricao": "Traz uma proposta de foco e pergunta a um participante se prefere outra; confirma o que já foi feito.",
+   "exemplo": "Propõe relação terapêutica porque linguagem já foi trabalhada com outra monitorada.",
+   "ts": "0:02:02"
+  },
+  {
+   "movimento": "Dividir papéis na leitura",
+   "descricao": "A monitorada lê as próprias falas e Alan lê as da paciente, o que dá voz à monitorada e distância ao supervisor.",
+   "exemplo": "'Você prefere que eu leia ou você quer ler?'",
+   "ts": "0:03:33"
+  },
+  {
+   "movimento": "Perguntar o porquê antes de avaliar",
+   "descricao": "Pede a lógica de cada intervenção antes de comentar.",
+   "exemplo": "'Você pode comentar por que escolheu começar assim?'; 'Agora me explica um pouquinho a lógica.'",
+   "ts": "0:08:08"
+  },
+  {
+   "movimento": "Pedir autoavaliação e reforçar a consciência",
+   "descricao": "Pergunta ao monitorado como ele mesmo classifica a intervenção e elogia a consciência, não o acerto.",
+   "exemplo": "'Você estava tentando tensionar ou ser mais suave?' Diante de 'tensionei bastante', responde 'Ótimo, bom que você tem consciência disso'.",
+   "ts": "0:10:08"
+  },
+  {
+   "movimento": "Relativizar o erro no início da sessão",
+   "descricao": "Evita rotular como erro o que é questão de refinamento.",
+   "exemplo": "'No inicinho de sessão é muito difícil falar que tem caminho mais interessante ou erro clínico, mas é um negócio que dá para pensar.'",
+   "ts": "0:11:58"
+  },
+  {
+   "movimento": "Transferir o método ao monitorado",
+   "descricao": "Depois de modelar como ler uma fala, pede que o monitorado faça o mesmo.",
+   "exemplo": "'Faz o que eu fiz na última intervenção: me conta os highlights.'",
+   "ts": "0:13:44"
+  },
+  {
+   "movimento": "Oferecer hipóteses como perguntas com alternativa",
+   "descricao": "Propõe leituras sem impô-las, pedindo concordância ou discordância, e depois explica por que as levantou.",
+   "exemplo": "'Você acha que essa é uma direção que caracteriza a fenomenologia dessa paciente, ou existem pessoas assim, mas não parece ser o caso dela?'",
+   "ts": "0:14:41"
+  },
+  {
+   "movimento": "Antecipar e confirmar a reação do paciente",
+   "descricao": "Prevê a resposta do paciente a partir da leitura e a verifica na fala seguinte; reconhece que poderia ter esperado para comentar.",
+   "exemplo": "Prevê a adesão pro forma ao exercício; 'eu podia ter esperado ela falar isso, ia ficar muito mais fácil de referenciar'.",
+   "ts": "0:39:21"
+  },
+  {
+   "movimento": "Mudar de registro para a teoria",
+   "descricao": "Para o compartilhamento de tela para aparecer e dar o bloco teórico, marcando a mudança de modo.",
+   "exemplo": "'Deixa eu interromper o compartilhamento aqui e aparecer.'",
+   "ts": "0:23:53"
+  },
+  {
+   "movimento": "Explicitar a própria estratégia didática",
+   "descricao": "Torna transparente a 'volta longa' e a supercompensação deliberada (marginalizar o vínculo).",
+   "exemplo": "'Onde que eu quero chegar com essa volta longa?'; 'é deliberada a escolha de dar um papel menor ao vínculo'.",
+   "ts": "0:28:25"
+  },
+  {
+   "movimento": "Usar metáforas e exemplos aleatórios para a memória",
+   "descricao": "Recorre a outras áreas clínicas e a exemplos inesperados por serem memoráveis.",
+   "exemplo": "O médico e a tesoura; o sabão molhado; 'eu adoro dar exemplos absolutamente aleatórios porque memória funciona assim'.",
+   "ts": "0:43:55"
+  },
+  {
+   "movimento": "Integrar co-facilitador e participantes",
+   "descricao": "Dá a palavra ao Diogo e incorpora acréscimos do grupo à teoria.",
+   "exemplo": "'Pode comentar, Diogo'; incorpora a primeira impressão e o 'delegar sem esquiva' trazidos por participantes.",
+   "ts": "0:25:02"
+  },
+  {
+   "movimento": "Reconhecer a intenção antes de mostrar o custo",
+   "descricao": "Valida o motivo relacional da intervenção antes de apontar o que ela sacrificou.",
+   "exemplo": "'Eu entendo por que você fez isso. No fundo, a sua vontade era criar mais vínculo… só que abriu mão da confiança e da metodologia.'",
+   "ts": "0:36:41"
+  },
+  {
+   "movimento": "Nomear padrões para acompanhar",
+   "descricao": "Transforma um erro pontual num padrão que será observado ao longo do atendimento.",
+   "exemplo": "'Eu acho que vai ser um layout que vai se repetir algumas vezes, vou chamar atenção para isso.'",
+   "ts": "0:43:00"
+  },
+  {
+   "movimento": "Usar humor para aliviar a crítica",
+   "descricao": "Brinca com o tempo que a monitorada gastou na sessão sem transformar isso em repreensão.",
+   "exemplo": "'Você ficou aproximadamente duas matérias de faculdade para fazer essa sessão'; 'só sacaneando'.",
+   "ts": "0:54:19"
+  },
+  {
+   "movimento": "Abrir ao grupo e devolver o foco",
+   "descricao": "Faz brincadeiras abertas ao chat, mas mantém as perguntas decisivas com a monitorada.",
+   "exemplo": "'Todo mundo pode brincar, brinca no chat aí'; depois: 'onde você acha que ela te coloca, na ralé ou na elite?'.",
+   "ts": "1:04:10"
+  },
+  {
+   "movimento": "Deixar claro quando concorda",
+   "descricao": "Evita que a monitorada leia um acréscimo como discordância.",
+   "exemplo": "'Eu não tô discordando de você não. Eu tô concordando.'",
+   "ts": "1:09:53"
+  },
+  {
+   "movimento": "Controlar o tempo pelo foco do dia",
+   "descricao": "Passa rápido pelo que não é foco e deixa temas anotados para depois.",
+   "exemplo": "'Vou fazer aquele bate-volta de hipóteses porque eu quero passar por isso mais rápido'; 'se a gente tivesse mais tempo ia ser legal explorar'.",
+   "ts": "0:58:27"
+  },
+  {
+   "movimento": "Recuperar referências do próprio monitorado",
+   "descricao": "Usa o que a monitorada traz (o congresso) para ancorar uma lição.",
+   "exemplo": "'Já que você lembrou do que a gente tava fazendo lá no evento presencial, deixa eu roubar outra página de lá.'",
+   "ts": "1:15:52"
+  },
+  {
+   "movimento": "Fechar com poucas lições e próximos passos",
+   "descricao": "Sintetiza duas lições, aponta temas abertos do caso, planeja a próxima etapa e para a gravação para ouvir críticas.",
+   "exemplo": "Anuncia os segundos atendimentos e pede para parar a gravação 'para fazer uns comentariozinhos'.",
+   "ts": "1:17:59"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Julgue a intensidade de uma intervenção pelo contexto, não pela intervenção isolada.",
+   "justificativa": "Um pedido 'bobo' (respirar, notar o corpo) fica agressivo quando vai no oposto do que o paciente pediu.",
+   "contexto": "Ao contrariar a direção do paciente, sobretudo no início da sessão.",
+   "competencia": "Intervenção",
+   "ts": "0:10:08"
+  },
+  {
+   "dica": "Prefacie a sua proposta com o vocabulário do paciente (bate-volta).",
+   "justificativa": "Suaviza a frustração sem mudar a direção da condução.",
+   "contexto": "Quando precisar frustrar um pedido explícito do paciente.",
+   "competencia": "Construção frasal",
+   "ts": "0:11:58"
+  },
+  {
+   "dica": "Teste hipóteses rivais sobre o paciente antes de decidir a condução.",
+   "justificativa": "Leituras diferentes (pose que pede para ser desfeita, confusão sobre a terapia, mensagem cifrada) levam a conduções muito diferentes.",
+   "contexto": "Diante de falas ambíguas nas primeiras sessões.",
+   "competencia": "Interpretação",
+   "ts": "0:14:41"
+  },
+  {
+   "dica": "Aproveite o 'há algo mais que precisa saber?' para psicoeducar sobre a terapia ou explorar as fantasias do paciente sobre ela.",
+   "justificativa": "É um convite do paciente para explicar os fins da terapia ou perguntar como ele imagina que você vai ajudá-lo.",
+   "contexto": "Pacientes que tratam a terapia como consulta médica.",
+   "competencia": "Psicoeducação",
+   "ts": "0:19:06"
+  },
+  {
+   "dica": "Considere que o paciente pode não saber o que é terapia, mesmo sendo instruído.",
+   "justificativa": "Pode faltar capital cultural ou ter havido más experiências clínicas anteriores.",
+   "contexto": "Respostas 'objetivas' e desencontradas do que se perguntou.",
+   "competencia": "Psicoeducação",
+   "ts": "0:20:05"
+  },
+  {
+   "dica": "Saiba se a técnica é para o paciente ou para você.",
+   "justificativa": "Respirar junto pode servir para o terapeuta se centrar; é legítimo, mas muda a construção.",
+   "contexto": "Relaxamentos e respirações conjuntas.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:21:58"
+  },
+  {
+   "dica": "Ao propor um exercício, diga o quê, o como e principalmente o porquê.",
+   "justificativa": "O porquê dá ao paciente acesso ao método, que ele pode comprar ou recusar; se recusar, você pode persuadir explicitamente.",
+   "contexto": "Qualquer tarefa ou experimento na sessão.",
+   "competencia": "Psicoeducação",
+   "ts": "0:33:11"
+  },
+  {
+   "dica": "Corte frases que tratam a sua técnica como etapa rápida ('somente', 'a gente já chega lá').",
+   "justificativa": "Elas posicionam o método como estorvo, sacrificam a confiança e convidam à adesão pro forma.",
+   "contexto": "Ao introduzir práticas que não são 'falar do problema'.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:35:40"
+  },
+  {
+   "dica": "Se algo é central no seu método, trate-o como central e explique por quê.",
+   "justificativa": "Passa confiança como profissional; segurança é ter um jeito próprio de fazer, não fazer o que o paciente quer.",
+   "contexto": "Diante de pressa ou desdém do paciente.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:38:29"
+  },
+  {
+   "dica": "Não projete no paciente a sua insegurança com o enquadre.",
+   "justificativa": "Quem costuma estranhar gravação, trabalho corporal ou observador é o terapeuta; o paciente, em geral, 'não está nem aí'.",
+   "contexto": "Ao hesitar em propor uma estrutura de trabalho.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:36:41"
+  },
+  {
+   "dica": "Delegue escolhas ao paciente só entre opções saudáveis.",
+   "justificativa": "Delegar serve para criar um ambiente dialético, não para se esquivar ou disfarçar que não sabe.",
+   "contexto": "Ao oferecer caminhos ao paciente.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:29:40"
+  },
+  {
+   "dica": "Invista na confiança já na abertura do primeiro atendimento.",
+   "justificativa": "O primeiro atendimento, e o começo dele, pesam desproporcionalmente na formação da relação.",
+   "contexto": "Primeiras falas da primeira sessão.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:31:27"
+  },
+  {
+   "dica": "Não compense uma recusa do paciente largando o método para 'recuperar vínculo'.",
+   "justificativa": "Você ganha um terço da relação e perde os outros dois.",
+   "contexto": "Depois que uma proposta sua foi desdenhada.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:43:00"
+  },
+  {
+   "dica": "Na dúvida, explique explicitamente o que está fazendo.",
+   "justificativa": "O paciente que acompanha o raciocínio facilita a condução; demonstrar exige uma amarração complexa que tira a presença do terapeuta.",
+   "contexto": "Sempre que não tiver certeza de que uma demonstração será entendida.",
+   "competencia": "Psicoeducação",
+   "ts": "0:52:33"
+  },
+  {
+   "dica": "Distinga a resistência verbal da comportamental.",
+   "justificativa": "Há pacientes que reclamam do processo, mas compram todas as intervenções.",
+   "contexto": "Pacientes formais e desdenhosos.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:51:39"
+  },
+  {
+   "dica": "Repare se a autodescrição do paciente é voltada para o passado ou para o futuro.",
+   "justificativa": "A construção clínica muda muito; quem se define pelo que já fez pode estar em luto por uma imagem idealizada de si.",
+   "contexto": "Primeira apresentação do paciente.",
+   "competencia": "Formulação de caso",
+   "ts": "0:59:28"
+  },
+  {
+   "dica": "Leia a autodescrição também como mensagem ao terapeuta, mas pese a leitura pelo conteúdo.",
+   "justificativa": "Quem se descreve dá a imagem que quer passar; nem sempre o conteúdo sustenta a leitura de recado.",
+   "contexto": "Quando o paciente lista o que valoriza.",
+   "competencia": "Interpretação",
+   "ts": "1:04:49"
+  },
+  {
+   "dica": "Pergunte-se que lugar o paciente lhe oferece (elite ou ralé) e, na dúvida, ocupe o de competência.",
+   "justificativa": "Em regra é melhor que o paciente ache você competente; o lugar 'baixo' é exceção.",
+   "contexto": "Pacientes que hierarquizam as pessoas.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:12:57"
+  },
+  {
+   "dica": "Se ocupar deliberadamente um lugar 'baixo', devolva isso à relação.",
+   "justificativa": "Transforma a encenação em material ('isso que eu fiz agora é o que costuma acontecer na sua vida?').",
+   "contexto": "Intervenções provocativas.",
+   "competencia": "Intervenção",
+   "ts": "1:13:50"
+  },
+  {
+   "dica": "Evite intervenções geniais e estranhas quando uma simples resolve.",
+   "justificativa": "'Dá para ser genial com coisas menos estranhas'; a intervenção que inverte a lógica da clínica muitas vezes não dá em nada.",
+   "contexto": "Ao planejar intervenções de efeito.",
+   "competencia": "Intervenção",
+   "ts": "1:13:50"
+  },
+  {
+   "dica": "Quando a resposta foge da pergunta, repita a pergunta.",
+   "justificativa": "A insistência mostra que você tem método e que a pergunta não era 'palavra jogada ao ar'; o paciente não pode responder pro forma.",
+   "contexto": "Respostas genéricas, conceituais ou de dicionário.",
+   "competencia": "Aprofundamento",
+   "ts": "1:16:50"
+  },
+  {
+   "dica": "Ao psicoeducar sobre a estrutura da terapia, ligue o seu método à demanda específica do paciente.",
+   "justificativa": "Exemplos genéricos já ajudam, mas a conexão com o problema da pessoa vincula muito mais.",
+   "contexto": "Início do tratamento.",
+   "competencia": "Psicoeducação",
+   "ts": "1:18:58"
+  },
+  {
+   "dica": "Apresente a sua clínica e o seu nicho sem esconder as unilateralidades.",
+   "justificativa": "Mostrar abertamente o seu jeito atrai quem se identifica com ele, como o 'careca assumido' nos dados de Hannah Fry.",
+   "contexto": "Divulgação e apresentação do trabalho.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:50:32"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A relação terapêutica tem três partes (vínculo, confiança no profissional e confiança no método), e o vínculo é só um terço dela.",
+   "argumento": "A psicologia tende à unilateralidade e toma o vínculo pelo todo; por isso Alan o marginaliza deliberadamente, para compensar.",
+   "contraponto": "Formações centradas na qualidade da relação, em geral transmitidas por professores humanistas.",
+   "implicacao": "Avaliar cada intervenção pelos três pilares, e não só pelo vínculo.",
+   "quem": "Alan",
+   "ts": "0:28:25"
+  },
+  {
+   "tese": "Não existe intervenção agressiva ou suave; existe contexto agressivo ou suave.",
+   "argumento": "A mesma intervenção banal torna-se forte quando contraria a direção que o paciente estava construindo.",
+   "contraponto": "A ideia de que técnicas 'leves' (respiração, atenção ao corpo) são sempre inofensivas.",
+   "implicacao": "Calibrar a intensidade pela direção do paciente e suavizar pelo vocabulário dele.",
+   "quem": "Alan",
+   "ts": "0:10:08"
+  },
+  {
+   "tese": "A formação brasileira ensina relação terapêutica de modo enviesado.",
+   "argumento": "Os temas seguem o gosto dos professores de cada abordagem (o humanista dá mais peso à relação); somam-se o viés de confirmação e a falta de orientação na escolha do referencial.",
+   "contraponto": "O estereótipo de que o psicólogo 'tem que acolher'.",
+   "implicacao": "Rever a própria concepção de relação e integrá-la ao resto da clínica.",
+   "quem": "Alan (com Diogo)",
+   "ts": "0:25:02"
+  },
+  {
+   "tese": "Quem reclama da estrutura da terapia é o terapeuta, não o paciente.",
+   "argumento": "Em geral o paciente aceita gravação, trabalho corporal ou observadores; a preocupação é incutida pelo terapeuta.",
+   "contraponto": "Terapeutas que deixam de propor enquadres por medo da reação do paciente.",
+   "implicacao": "Propor a estrutura com segurança e explicá-la.",
+   "quem": "Alan",
+   "ts": "0:36:41"
+  },
+  {
+   "tese": "Passa segurança o profissional que tem o seu jeito de fazer, não o que faz o que o paciente quer.",
+   "argumento": "Dobrar-se às vontades do paciente sacrifica a confiança no profissional e no método (o médico que pergunta qual instrumento usar).",
+   "contraponto": "A ideia de que ceder ao paciente fortalece a relação.",
+   "implicacao": "Explicar e sustentar o método, persuadindo abertamente quando necessário.",
+   "quem": "Alan",
+   "ts": "0:38:29"
+  },
+  {
+   "tese": "Em regra, explicar é melhor do que demonstrar.",
+   "argumento": "O 'passe de mágica' é elegante para o supervisor, mas é complexo de fazer e de entender e rouba a presença do terapeuta; nada indica que seja mais útil ao paciente.",
+   "contraponto": "Um participante diz que depende do paciente; Alan admite que 'no detalhe corta para todos os lados'.",
+   "implicacao": "Na dúvida, explicitar o raciocínio ao paciente.",
+   "quem": "Alan",
+   "ts": "0:53:27"
+  },
+  {
+   "tese": "Na relação terapêutica, a rigidez é mais bem-vinda; excesso de fluidez também é problema.",
+   "argumento": "As pessoas preferem comprar um pacote completo e coerente com suas pré-concepções a ficar sob o jugo de uma massa amorfa de ideias.",
+   "contraponto": "A própria crítica habitual de Alan ao excesso de rigidez ('o mundo é unilateralmente dogmático').",
+   "implicacao": "Ter um método claro e apresentá-lo inteiro.",
+   "quem": "Alan",
+   "ts": "1:06:49"
+  },
+  {
+   "tese": "Faça o razoável na prática, não o bonito na teoria; em regra, seja visto como competente.",
+   "argumento": "É possível construir boa relação a partir do lugar de 'nada', mas não há por que fazê-lo se há alternativa; antinomias costumam ser regra e exceção, e não uma escolha 50 a 50.",
+   "contraponto": "Supervisões especulativas que prescrevem sair sempre do lugar de suposto saber; a 'estética de atender de chinelo'.",
+   "implicacao": "Guardar intervenções estranhas para quando forem necessárias; 'dá para ser genial com coisas menos estranhas'.",
+   "quem": "Alan",
+   "ts": "1:12:03"
+  },
+  {
+   "tese": "Mostrar abertamente o próprio jeito, com as suas unilateralidades, atrai mais do que o modelo genérico; nichar é economicamente viável.",
+   "argumento": "Os dados comentados por Hannah Fry (quem assume uma característica filtra quem a deseja); o contador especializado em psicólogos.",
+   "contraponto": "Um participante discorda de que essa seja a razão principal do nicho; Alan fala em múltiplos vetores.",
+   "implicacao": "Expor método e nicho sem medo.",
+   "quem": "Alan",
+   "ts": "0:50:32"
+  },
+  {
+   "tese": "Insistir (repetir a intervenção) constrói confiança no terapeuta.",
+   "argumento": "Marca que o terapeuta tem método, sabe o que está fazendo e não aceita resposta pro forma.",
+   "contraponto": "Seguir o 'flow natural' da conversa quando ele afasta da hipótese clínica ou do método.",
+   "implicacao": "Repetir a pergunta quando a resposta foge dela.",
+   "quem": "Alan",
+   "ts": "1:16:50"
+  },
+  {
+   "tese": "O primeiro atendimento, e sobretudo o começo dele, pesa desproporcionalmente na formação da relação.",
+   "argumento": "Primeira impressão (acréscimo de um participante); Alan viu muitos atendimentos 'irem para o buraco já na primeira fala'.",
+   "contraponto": "",
+   "implicacao": "Cuidar da frase de abertura e da confiança desde o início.",
+   "quem": "Alan e um participante",
+   "ts": "0:31:27"
+  },
+  {
+   "tese": "É preciso desconfiar da qualidade dos colegas terapeutas.",
+   "argumento": "Experiências clínicas anteriores ruins podem ter ensinado ao paciente uma ideia distorcida do que é terapia.",
+   "contraponto": "",
+   "implicacao": "Investigar as experiências prévias do paciente com terapia antes de interpretar a resistência.",
+   "quem": "Alan",
+   "ts": "0:20:59"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Não existe intervenção agressiva ou intervenção suave. Existe contexto agressivo ou contexto mais suave para uma intervenção.",
+   "tema": "Intensidade da intervenção",
+   "ts": "0:10:08"
+  },
+  {
+   "texto": "O objeto da psicologia é como um sabão molhado: você pega de um lado, ele escapa do outro.",
+   "tema": "Unilateralidade",
+   "ts": "0:23:53"
+  },
+  {
+   "texto": "O vínculo é só um terço da relação terapêutica.",
+   "tema": "Relação terapêutica",
+   "ts": "0:28:25"
+  },
+  {
+   "texto": "De maneira geral, quem reclama da estrutura da terapia é o terapeuta.",
+   "tema": "Enquadre",
+   "ts": "0:36:41"
+  },
+  {
+   "texto": "O profissional que passa segurança não é o profissional que faz o que você quer; é o profissional que tem o jeito dele de fazer.",
+   "tema": "Confiança no profissional",
+   "ts": "0:38:29"
+  },
+  {
+   "texto": "Apresente a sua clínica sem medo dos defeitos e das unilateralidades dela.",
+   "tema": "Nicho e apresentação do trabalho",
+   "ts": "0:50:32"
+  },
+  {
+   "texto": "Na dúvida, explique explicitamente. Facilita muito a vida.",
+   "tema": "Explicitação do raciocínio",
+   "ts": "0:52:33"
+  },
+  {
+   "texto": "É mais elegante demonstrar do que explicar. Mas elegante é quando o seu supervisor está olhando.",
+   "tema": "Psicoeducação",
+   "ts": "0:53:27"
+  },
+  {
+   "texto": "Quem se apaixona pelo próprio passado está em luto.",
+   "tema": "Orientação temporal",
+   "ts": "1:01:30"
+  },
+  {
+   "texto": "Quando você se descreve para alguém, isso é uma mensagem, não uma descrição.",
+   "tema": "Interpretação",
+   "ts": "1:04:49"
+  },
+  {
+   "texto": "Excesso de fluidez também é um problema. Na relação terapêutica, a rigidez é mais bem-vinda.",
+   "tema": "Rigidez e fluidez",
+   "ts": "1:06:49"
+  },
+  {
+   "texto": "As pessoas preferem comprar um pacote completo a ficar sob o jugo de uma massa amorfa de ideias.",
+   "tema": "Confiança no método",
+   "ts": "1:06:49"
+  },
+  {
+   "texto": "Às vezes a gente se apaixona por ideias bonitas na psicologia, mas só precisa fazer o que parece mais razoável de ordem prática.",
+   "tema": "Pragmatismo clínico",
+   "ts": "1:12:03"
+  },
+  {
+   "texto": "Dá para ser genial com coisas menos estranhas.",
+   "tema": "Intervenção",
+   "ts": "1:13:50"
+  },
+  {
+   "texto": "Você fez uma pergunta, você quer uma resposta.",
+   "tema": "Repetição da intervenção",
+   "ts": "1:16:50"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Relação terapêutica não é só vínculo.",
+   "mensagem": "Os três pilares da relação (vínculo, confiança no profissional, confiança no método) explicados com a metáfora do médico.",
+   "roteiro": [
+    "Gancho: 'Você acha que relação terapêutica é vínculo? Isso é só um terço.'",
+    "Pilar 1: o vínculo (o médico humano e agradável)",
+    "Pilar 2: a confiança no profissional (o cirurgião que não hesita)",
+    "Pilar 3: a confiança no método (o tratamento que faz sentido)",
+    "Por que a formação exagera o vínculo",
+    "Pergunta final: qual pilar você mais negligencia?"
+   ],
+   "corte_inicio": "0:27:26",
+   "corte_fim": "0:31:27"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Não existe intervenção agressiva.",
+   "mensagem": "A intensidade de uma intervenção depende do contexto; até pedir para respirar pode ser forte se vai contra a direção do paciente.",
+   "roteiro": [
+    "Frase de impacto",
+    "Exemplo genérico: pedir para respirar a quem pediu objetividade",
+    "Como suavizar: usar as palavras do paciente (bate-volta)"
+   ],
+   "corte_inicio": "0:10:08",
+   "corte_fim": "0:11:58"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Por que você aprendeu relação terapêutica de um jeito enviesado.",
+   "mensagem": "Os temas seguem o gosto dos professores de cada abordagem, o viés de confirmação faz o resto e ninguém ensina a escolher referencial.",
+   "roteiro": [
+    "Gancho",
+    "O professor que gosta do tema define como você o aprende",
+    "Viés de confirmação: o professor 'fofinho' que confirma o 'tem que acolher'",
+    "Não há aula sobre como escolher referencial",
+    "O que fazer: integrar a relação ao resto da sua clínica"
+   ],
+   "corte_inicio": "0:25:02",
+   "corte_fim": "0:27:26"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "O careca de boné e o careca assumido.",
+   "mensagem": "Nos dados comentados por Hannah Fry, quem assume a característica recebe mais mensagens; na clínica, mostrar seu jeito e seu nicho atrai mais que o modelo genérico.",
+   "roteiro": [
+    "A história dos dados do aplicativo",
+    "A conclusão: preferimos quem os outros acham 'menos' disputado",
+    "Aplicação: nicho do psicólogo",
+    "Aplicação: apresentar o método sem medo das unilateralidades"
+   ],
+   "corte_inicio": "0:46:02",
+   "corte_fim": "0:50:32"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Na dúvida, explique.",
+   "mensagem": "Demonstrar é elegante para o supervisor; explicar é útil para o paciente e mantém o terapeuta presente.",
+   "roteiro": [
+    "Frase: 'Mais elegante é demonstrar, mas elegante é quando o supervisor está olhando'",
+    "O custo da amarração",
+    "A regra prática"
+   ],
+   "corte_inicio": "0:52:33",
+   "corte_fim": "0:54:19"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Quem reclama da estrutura da terapia é o terapeuta.",
+   "mensagem": "Gravar, usar o corpo, ter um observador: o medo costuma ser nosso; passa segurança quem tem um jeito próprio de fazer e o explica.",
+   "roteiro": [
+    "Gancho",
+    "Exemplos de enquadres que o terapeuta evita",
+    "O paciente em geral não se importa",
+    "Segurança é ter um jeito, não fazer o que o outro quer",
+    "Como apresentar: o quê, como e porquê"
+   ],
+   "corte_inicio": "0:36:41",
+   "corte_fim": "0:38:29"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Descrição é mensagem.",
+   "mensagem": "O que você diz de si num encontro é a imagem que quer passar; na clínica, a autodescrição pode ser lida assim, mas com cuidado.",
+   "roteiro": [
+    "Frase",
+    "Exemplo do encontro amoroso",
+    "Cautela: pesar pelo conteúdo"
+   ],
+   "corte_inicio": "1:04:49",
+   "corte_fim": "1:05:40"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como são as monitorias na Allos.",
+   "mensagem": "Atendimentos com pacientes simulados por IA, lidos e discutidos em grupo, permitem discutir casos de forma ética (sem material de caso).",
+   "roteiro": [
+    "O que é a monitoria",
+    "Por que pacientes simulados",
+    "Como funciona a leitura comentada"
+   ],
+   "corte_inicio": "0:00:14",
+   "corte_fim": "0:02:34"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Hannah Fry",
+   "contexto": "Matemática citada por Alan por um livro sobre dados de um aplicativo de namoro; base da digressão sobre assumir as próprias características e sobre nicho."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Referência implícita: a monitorada usa a noção de sujeito suposto saber; Alan cita o estereótipo do psicanalista de orientação lacaniana e critica a prescrição de sempre 'sair do lugar de suposto saber'."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria com Alan (supervisão individual em grupo)",
+  "objetivo": "Supervisionar o primeiro atendimento escrito de um aluno com paciente simulado e, ao mesmo tempo, construir e testar diante do grupo um modelo de supervisão, pedindo feedback sobre ele.",
+  "publico": "Alunos da formação clínica da Allos: um monitorado por encontro e ouvintes que também aprendem a monitorar.",
+  "tamanho": "Um monitorado; ouvintes presenciais e online (número não informado); Diogo presente.",
+  "duracao": "Cerca de 1h20 gravada, num horário de grupo que vai das 14h às 15h30 (?).",
+  "estrutura_padrao": "Retomada da série e escolha do foco → leitura do atendimento na tela (monitorado lê as próprias falas, supervisor lê as do paciente) → pedido de justificativa e comentário troca a troca → bloco teórico com a lente do dia → releitura do atendimento pela lente → bate-volta de hipóteses → síntese com poucas lições → gravação parada para comentários livres.",
+  "papel_facilitador": "Investigar o raciocínio antes de avaliar, oferecer hipóteses como perguntas, dar a lente teórica do dia, nomear padrões do monitorado, metacomunicar para quem aprende a monitorar e fechar com poucas lições.",
+  "regras_combinados": "A monitoria é individual e os demais são ouvintes, mas podem participar (inclusive pelo chat); casos com pacientes simulados por IA para permitir discussão ética; a gravação é interrompida para críticas ao formato."
+ },
+ "reflexoes_do_facilitador": [
+  "Diz que estão 'construindo um dos modelinhos de supervisão' e que o objetivo principal é passar a estrutura e receber feedback; talvez troque a estrutura já na semana seguinte.",
+  "Explica que marginaliza o vínculo de propósito, 'para forçar um pouquinho a barra', a fim de compensar uma formação centrada nele.",
+  "Diz que usa exemplos 'absolutamente aleatórios' deliberadamente, porque a memória funciona assim.",
+  "Reconhece que poderia ter esperado a fala seguinte da paciente para comentar, porque ficaria mais fácil de referenciar.",
+  "Admite que se perdeu ('tinha tanta coisa para comentar, me perdi aqui') e que quer passar rápido pelas hipóteses para voltar ao foco relacional.",
+  "Posiciona-se: 'em regra vocês me veem batendo em excesso de rigidez', mas excesso de fluidez também é problema.",
+  "Diz que o ideal seria fazer um recap do vídeo e que o caso vale a pena continuar; lamenta não conseguir ver os participantes enquanto compartilha a tela."
+ ],
+ "referencias_a_outros_encontros": [
+  "Recapitula a série: monitoria com a Alice focada em linguagem (mon-03), monitoria de raciocínio clínico com outro aluno (mon-02) e a última, sobre uso do referencial teórico, com o Ângelo (mon-01).",
+  "Plano: na semana seguinte começar os segundos atendimentos (candidatos: Alice, Malu, Eidrian e Ângelo); o atendimento da Tainá foi discutido com Artur e outra pessoa (ver monitorias do Diogo, possivelmente mon-15).",
+  "Promete mandar no 'cronograma A' (?) a estrutura de um aprimoramento/workshop focado na construção da frase inicial da sessão (relaciona-se a Alan 02 - Construção frasal).",
+  "Remete ao grupo de terça-feira em que falou sobre 'como dar aula' (o quê, como e porquê da instrução).",
+  "Remete a um congresso/evento presencial em que trabalhou a repetição da intervenção e a pergunta 'quem'.",
+  "Menciona que o guia tripartite é um 'papo de PD' (?), provavelmente do material de prática deliberada.",
+  "Anuncia novos pacientes simulados na ferramenta."
+ ],
+ "observacoes": "Legenda automática com bastante ruído, inclusive na atribuição de falas (as marcas '>>' são incompletas); várias falas de participantes (Diogo, a monitorada, um participante chamado Bernardo (?)) se misturam às de Alan. A frase 'quem se apaixona pelo próprio passado está em luto' pode ser de Alan ou de um participante. O caso é simulado (paciente de IA, apelidado 'Cruela' (?)); a IA confundiu o nome da paciente com o da terapeuta. A digressão sobre Hannah Fry cita 'Tinder' e 'vazamento de dados', o que convém verificar (o livro dela sobre matemática do amor comenta dados de aplicativos de namoro). O século da moda dos artefatos egípcios está ininteligível ('século X'). Encontro híbrido (parte presencial com Alan, parte online), com falhas de conexão por volta de 0:50. O final (após 1:20:49) é a tentativa de parar a gravação."
+}

@@ -1,0 +1,963 @@
+{
+ "id": "alan-06",
+ "nota": "Alan 06 - Esquemas de aprofundamento",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Esquemas de aprofundamento",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Alan apresenta os esquemas de aprofundamento (a dialética da pergunta e da resposta): o 'como' do perguntar, pouco teorizado pelos autores, que se ocupam do 'o quê'. Invertendo a ordem habitual, ele conduz quatro roleplays curtos, cada um seguindo sem aviso um esquema (círculos concêntricos, espelho, pente e raio), e os participantes tentam desenhar a estrutura das perguntas. Os desenhos tendem a descrever o que aconteceu, e Alan usa isso para distinguir a estrutura da escuta da estrutura do atendimento. Depois revela as quatro imagens, dá o gabarito admitindo as falhas da própria execução e compara forças, fraquezas e afinidades de cada esquema. Fecha defendendo que nenhum esquema é indicado ou contraindicado por teoria, que bons atendimentos encadeiam vários e que só se melhora treinando com consciência e de forma caricata.",
+ "em_uma_frase": "Existe um desenho por trás do modo como o terapeuta encadeia perguntas; conhecer e treinar deliberadamente quatro esquemas canônicos (concêntrico, espelho, pente e raio) é o que permite aprofundar de forma consciente e flexível.",
+ "competencias": [
+  "Aprofundamento",
+  "Escuta clínica",
+  "Interpretação",
+  "Relação terapêutica",
+  "Articulação teoria-prática",
+  "Desenvolvimento profissional",
+  "Pessoa do terapeuta"
+ ],
+ "abordagens": [
+  "Abordagem centrada na pessoa",
+  "Psicanálise freudiana",
+  "Terapia cognitivo-comportamental",
+  "Psicologia analítica junguiana",
+  "Gestalt-terapia"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:02",
+   "bloco": "Abertura",
+   "descricao": "Poucos presentes; Alan pede que compensem participando mais e explica por que o tema é importante e pouco teorizado.",
+   "funcao": "Criar relevância e engajamento num grupo pequeno.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:10",
+   "bloco": "Teoria",
+   "descricao": "Definição: esquema de aprofundamento = dialética da pergunta e da resposta; o 'como' versus o 'o quê'; critério: o caso parece ter muita informação.",
+   "funcao": "Dar nome e critério sem entregar as respostas.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:26",
+   "bloco": "Combinados",
+   "descricao": "Inverte a ordem (demonstração antes da teoria); quem já conhece o tema espera 2 min; consigna: observar e desenhar a estrutura das perguntas.",
+   "funcao": "Transformar a aula num problema de descoberta.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:05:36",
+   "bloco": "Demonstração",
+   "descricao": "Roleplay 1: queixa de incômodo com zumbido de insetos; esquema oculto de círculos concêntricos.",
+   "funcao": "Gerar material vivo para análise.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:09:23",
+   "bloco": "Rodada de respostas",
+   "descricao": "'Funcionou?' e depois 'o que eu fiz?'; leituras: expansão para outros campos da vida; eixo com círculos concêntricos.",
+   "funcao": "Separar resultado de processo; treinar a observação da forma.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:15:18",
+   "bloco": "Demonstração",
+   "descricao": "Roleplay 2: confusão sobre atração por alguém com 'red flags'; esquema oculto do espelho.",
+   "funcao": "Segundo contraste.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:20:50",
+   "bloco": "Rodada de respostas",
+   "descricao": "Leituras: análise e síntese; megafone de ondas crescentes; telefone sem fio que elucida. Alan pergunta se pareceu diferente do primeiro.",
+   "funcao": "Comparar esquemas.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:25:15",
+   "bloco": "Demonstração",
+   "descricao": "Roleplay 3: identificação com a filosofia de um personagem de anime ('paz pela dor'); esquema oculto do pente.",
+   "funcao": "Demonstrar o esquema mais difícil.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "0:36:20",
+   "bloco": "Rodada de respostas",
+   "descricao": "'Foi cinema'; leitura como costura; um fluxograma. Alan pede o ethos, a lógica por trás; desenho com vários pontos e um 'quadrado' final.",
+   "funcao": "Ensinar a abstrair do fluxo para a lógica.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:43:14",
+   "bloco": "Demonstração",
+   "descricao": "Anuncia o último exercício por causa do tempo. Roleplay 4: 'segredo sombrio'; esquema oculto do raio.",
+   "funcao": "Fechar a série de quatro.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:49:40",
+   "bloco": "Rodada de respostas",
+   "descricao": "Desenhos; Alan distingue estrutura da escuta e estrutura do atendimento; imagem de voltas que se afastam do ponto inicial.",
+   "funcao": "Ponto metodológico central do treino.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:54:27",
+   "bloco": "Feedback",
+   "descricao": "Comentários sobre a variação individual dos desenhos; recomenda rever a gravação 'com spoiler'; anuncia gabarito e prós e contras.",
+   "funcao": "Organizar a segunda metade.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:56:25",
+   "bloco": "Rodada de respostas",
+   "descricao": "Revela as quatro imagens (espelho, concêntricos, pente, raio) sem dizer qual é qual; abre segunda tentativa; conta que escolheu cada esquema antes de ouvir o paciente.",
+   "funcao": "Andaime de pergunta aberta para pergunta fechada.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:58:46",
+   "bloco": "Feedback",
+   "descricao": "Gabarito, roleplay a roleplay (concêntrico, espelho, pente), ligando aos desenhos que acertaram e às falhas de execução.",
+   "funcao": "Consolidar cada imagem com exemplo vivido.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:04:55",
+   "bloco": "Dúvidas",
+   "descricao": "Pergunta: a síntese final do pente não o transforma em concêntrico? Alan diferencia os processos e dá exemplos de centro pré-determinado.",
+   "funcao": "Afinar distinções.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:08:04",
+   "bloco": "Feedback",
+   "descricao": "Gabarito do raio: o mais fácil, sem síntese; por que é bom para iniciantes.",
+   "funcao": "Oferecer um ponto de partida acessível.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:11:27",
+   "bloco": "Discussão",
+   "descricao": "Checagem: o gabarito bate com a memória do grupo? Indica rever o 4º roleplay.",
+   "funcao": "Autoavaliação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "1:12:21",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Círculos concêntricos: prós, contras (centro errado, monotonia, cama de Procusto) e afinidades; contribuição de um participante; esquema como parte da hermenêutica.",
+   "funcao": "Critérios de escolha clínica.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:18:21",
+   "bloco": "Tarefa",
+   "descricao": "Treinar os esquemas na vida (pais, encontros), de forma caricata e robótica; fluidez vem de excesso de estrutura.",
+   "funcao": "Transferência para a prática.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:20:31",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Espelho: afinidade com a ACP; rapport, presença, tesão em atender; Rogers e Perls no caso Gloria; elucidar versus interpretar; Jung e a confissão.",
+   "funcao": "Critérios de escolha e digressões formativas.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "1:30:00",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Pente: o mais divertido e mágico; não confundir com associação livre; ruim para terapias psicoeducativas.",
+   "funcao": "Critérios de escolha.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:32:58",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Raio: o mais fácil; complexos e metáfora do para-raios; não produz síntese; terapia não é achar onde mais dói.",
+   "funcao": "Critérios de escolha.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:37:51",
+   "bloco": "Fechamento",
+   "descricao": "Bons atendimentos encadeiam esquemas; somos intuitivamente bons em interpretar e por isso precisamos treinar com consciência; convite a comentários; feedback fora da gravação.",
+   "funcao": "Tese que justifica o método do aprimoramento.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Esquemas de aprofundamento",
+   "definicao": "Esquemas imagéticos (desenhos mentais) que estruturam o raciocínio e o processo de perguntar do terapeuta, para que o paciente saia da demanda inicial e produza a partir da própria fala. É o 'como' do perguntar, distinto do 'o quê'. Quando bem feito, o caso parece ter muita informação.",
+   "exemplo": "Quatro imagens canônicas: círculos concêntricos, espelho, pente e raio.",
+   "abordagem": "Transteórico",
+   "ts": "0:01:10"
+  },
+  {
+   "nome": "Dialética da pergunta e da resposta",
+   "definicao": "Nome técnico, de origem filosófica (hermenêutica), para o processo que os esquemas de aprofundamento organizam. Segundo Alan, é pouco discutido pelos autores de psicologia.",
+   "exemplo": "",
+   "abordagem": "Hermenêutica filosófica",
+   "ts": "0:01:10"
+  },
+  {
+   "nome": "Esquema de círculos concêntricos",
+   "definicao": "Ler cada fenômeno novo em função de um centro escolhido a priori, que pode ser o nicho do clínico, a demanda do tratamento ou o primeiro tema da sessão. A escuta se expande, mas tudo é referido ao centro. É simples e previsível, mas depende de acertar o centro.",
+   "exemplo": "No roleplay, tudo foi lido em função do incômodo com o zumbido de insetos; na execução, o 'ponto central' virou um eixo.",
+   "abordagem": "Transteórico",
+   "ts": "0:58:46"
+  },
+  {
+   "nome": "Esquema do espelho",
+   "definicao": "Servir continuamente de espelho, devolvendo com outras palavras o que se ouviu, sentiu e pensou e conferindo com o paciente. No nível macro, gera reorganização e elucidação do que já estava no discurso. A síntese final é opcional.",
+   "exemplo": "'Telefone sem fio que vai elucidando a mensagem'; 'é como se houvesse duas vocês...'",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:00:57"
+  },
+  {
+   "nome": "Esquema do pente",
+   "definicao": "Um pente deitado: percorrer vários âmbitos da vida sem aprofundar nenhum e depois encontrar a forma comum que sustenta todos. Toda a 'magia' está na síntese final, que surpreende o paciente.",
+   "exemplo": "A anamnese é a versão caricata (casa, família, namoro, sono...).",
+   "abordagem": "Transteórico",
+   "ts": "1:02:46"
+  },
+  {
+   "nome": "Esquema do raio",
+   "definicao": "Um raio descendente: em cada fala, achar um gancho e construir sobre ele a próxima pergunta, cada vez mais fundo, sem voltar ao início e sem síntese. É o mais fácil e o mais indicado para iniciantes.",
+   "exemplo": "Roleplay 4: perguntas-gancho como 'de onde vem?', 'e hoje?', 'onde dói?'",
+   "abordagem": "Transteórico",
+   "ts": "1:08:04"
+  },
+  {
+   "nome": "Análise e síntese",
+   "definicao": "Diferenciar elementos do discurso (análise) e recombiná-los numa nova unidade (síntese). Está presente no concêntrico, no espelho e no pente, e ausente no raio, que só faz análise.",
+   "exemplo": "Leitura de um participante sobre o roleplay 2: recortar, dar forma e juntar em algo mais complexo.",
+   "abordagem": "Transteórico",
+   "ts": "0:21:06"
+  },
+  {
+   "nome": "Elucidação",
+   "definicao": "Conectar elementos que já estão no discurso do paciente de um modo que não era óbvio, sem trazer conceito ou pressuposto do terapeuta. Distingue-se da interpretação (trazer conceito de fora) e é permitida mesmo na ACP.",
+   "exemplo": "Oposto a: 'Freud falou que as pessoas têm problema com a mãe, logo você tem problema com a mãe'.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:28:30"
+  },
+  {
+   "nome": "Hermenêutica",
+   "definicao": "Campo do interpretar; os esquemas de aprofundamento são 'um pedaço da hermenêutica'. Saber interpretar o momento é o que permite trocar de esquema.",
+   "exemplo": "",
+   "abordagem": "Hermenêutica filosófica",
+   "ts": "1:17:18"
+  },
+  {
+   "nome": "Complexo",
+   "definicao": "Núcleo afetivamente ativado no psiquismo que captura a conversa quando não há direção. No esquema do raio, é o 'para-raios' do psiquismo: a conversa tende a cair ali.",
+   "exemplo": "O amigo que terminou o namoro ontem acaba falando do término; o raio cai onde há a maior diferença de potencial.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:33:44"
+  },
+  {
+   "nome": "Cama de Procusto",
+   "definicao": "Imagem para o risco do concêntrico: forçar os fenômenos a se alinharem ao centro escolhido, o que pode ser violento com conteúdos delicados.",
+   "exemplo": "Ler um trauma surgido no meio da sessão em função da queixa do barulho de insetos.",
+   "abordagem": "Transteórico",
+   "ts": "1:16:21"
+  },
+  {
+   "nome": "Estrutura da escuta",
+   "definicao": "O que o terapeuta está tentando fazer ao perguntar (o esquema), distinto da estrutura do atendimento (para onde o paciente levou a conversa). No treino, é a estrutura da escuta que deve ser observada, isolando variáveis.",
+   "exemplo": "Os participantes desenhavam fluxogramas do que aconteceu, e não a lógica das perguntas.",
+   "abordagem": "Transteórico",
+   "ts": "0:51:27"
+  },
+  {
+   "nome": "Associação livre",
+   "definicao": "Citada em contraste com o pente: ambos passam rapidamente de tema em tema sem aprofundar, mas no pente o terapeuta conduz e busca síntese, e em psicanálise 'não existe psicossíntese'.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:31:03"
+  },
+  {
+   "nome": "Atenção flutuante",
+   "definicao": "Exceção citada ao benefício de concentração do espelho: para o psicanalista, flutuar e não fixar a atenção é desejável.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:22:23"
+  },
+  {
+   "nome": "Pré-atendimento",
+   "definicao": "Leitura de Alan do vídeo de Fritz Perls com Gloria: a maior parte do vídeo não é aprofundamento, mas a criação da condição para o atendimento, recusando o personagem até a pessoa aparecer de verdade.",
+   "exemplo": "Perls não atende a 'menininha assustada' nem a 'Madonna posando'; só atende Gloria quando ela é Gloria.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "1:26:01"
+  },
+  {
+   "nome": "Estágios da psicoterapia de Jung",
+   "definicao": "Em 'A prática da psicoterapia', Jung descreve quatro estágios, níveis ou tipos de paciente; o primeiro é a confissão. Alan não nomeia os outros três.",
+   "exemplo": "Pacientes que despejam tudo, vão embora e nunca voltam porque só precisavam se confessar.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:29:23"
+  },
+  {
+   "nome": "Anamnese",
+   "definicao": "Exemplo caricato do esquema do pente: percorrer vários âmbitos da vida sem aprofundar nenhum.",
+   "exemplo": "'Como está em casa? E a família? E o namoro?'",
+   "abordagem": "Transteórico",
+   "ts": "1:02:46"
+  },
+  {
+   "nome": "Prática deliberada",
+   "definicao": "Implícita na defesa do treino caricato e unilateral, com isolamento de variáveis: treinar a técnica de forma robótica até dominá-la.",
+   "exemplo": "Escutar os pais uma semana só com círculos concêntricos.",
+   "abordagem": "Transteórico",
+   "ts": "1:19:25"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Desenhe o esquema de aprofundamento",
+   "objetivo": "Tornar visível a estrutura (forma) do perguntar, treinando a observação da lógica de condução e não do conteúdo, e apresentar quatro esquemas canônicos por descoberta.",
+   "competencias": [
+    "Aprofundamento",
+    "Escuta clínica",
+    "Interpretação"
+   ],
+   "configuracao": "Grupo todo, online. Facilitador como terapeuta; um voluntário diferente como paciente em cada rodada (só voz basta); demais como observadores; chat para quem não fala. Cerca de 5 a 6 participantes ativos.",
+   "tempo": "Cerca de 50 min para quatro ciclos (roleplay de 4 a 6 min + rodada de 4 a 8 min), mais 15 min de gabarito e 25 min de comparação.",
+   "materiais": "Papel e caneta para os observadores; os quatro desenhos para o gabarito.",
+   "consigna": "Vou fazer uns roleplays de 3 ou 4 minutos e chamar vocês para serem os pacientes; não precisa ser nada relevante. Quem observa vai tentar notar a estrutura segundo a qual eu faço as perguntas: se tivesse que desenhar isso num quadro, como desenharia? Arrisquem desenhar. Quem já conhece o tema, espere dois minutos para os outros tentarem.",
+   "passos": [
+    "Nomear o tema e dar uma definição mínima, sem revelar os esquemas.",
+    "Chamar um voluntário e abrir com uma pergunta simples ('o que você traz?', 'me conta sobre a semana', 'qual questão te aflige?', 'me conta seu segredo').",
+    "Conduzir um único esquema, de forma caricata, e encerrar quando já deu para mostrar.",
+    "Perguntar pelo resultado: funcionou? O paciente produziu conteúdo sobre a vida dele? (votos no chat)",
+    "Perguntar pelo processo: o que eu fiz? O que fez funcionar? Coletar desenhos e descrições sem corrigir, parafraseando cada leitura.",
+    "A partir do 2º roleplay: pareceu diferente do anterior?",
+    "Diante de um fluxograma, pedir a lógica por trás: transformar numa coisa só.",
+    "Depois dos quatro, revelar as imagens sem dizer qual é qual e abrir segunda tentativa.",
+    "Dar o gabarito, apontando os desenhos que acertaram e onde a execução se desviou.",
+    "Comparar prós, contras e afinidades de cada esquema."
+   ],
+   "feedback": "Valoriza desenhos que captam a lógica (eixo com círculos concêntricos; telefone sem fio que elucida) e reenquadra os que narram a sequência ('você montou um fluxograma do que aconteceu'). Critério central: separar o que o terapeuta tentava fazer do que o paciente fez com isso. Mostra que imagens diferentes podem dizer o mesmo e que um desenho 'errado' pode descrever melhor a execução real.",
+   "exemplos_praticos": "Roleplay 1 (concêntrico, queixa de zumbido de insetos): o paciente conectou sozinho o incômodo a uma raiva presente em outros contextos; o grupo desenhou um eixo com círculos. Roleplay 2 (espelho, confusão amorosa): leituras de análise e síntese, megafone, telefone sem fio; uma participante notou que Alan a espelhava ao comentar. Roleplay 3 (pente, personagem de anime e padrão de revidar): Alan arriscou uma imagem que o paciente rejeitou e usou a rejeição no aqui-e-agora ('você quebrou o ciclo comigo'); o grupo falou em 'cinema' e 'costura'. Roleplay 4 (raio, busca de atenção e medo da solidão, conteúdo real, tratado genericamente): perguntas-gancho sucessivas; leitura de 'marginalizar o principal em busca de outro ponto de destaque'.",
+   "variacoes": "Participantes conduzem roleplays após as demonstrações; versão para iniciantes em que cada um conduz um roleplay só com o raio; segunda tentativa com resposta fechada (quatro opções).",
+   "armadilhas": "Escolher o esquema antes de ouvir o paciente gera descompasso (Alan faria diferente); a personalidade do facilitador contamina todos os esquemas, então exagere as diferenças; os observadores esquecem detalhes, então peça o desenho na hora e recomende a gravação; roleplays podem tocar em material pessoal real, então mantenha leveza e encerre cedo.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:03:32"
+  },
+  {
+   "nome": "Dinâmica - Treino caricato de esquemas no cotidiano",
+   "objetivo": "Automatizar os esquemas de aprofundamento fora do setting clínico até que fiquem fluidos.",
+   "competencias": [
+    "Aprofundamento",
+    "Escuta clínica",
+    "Desenvolvimento profissional"
+   ],
+   "configuracao": "Individual, em conversas cotidianas (pais, amigos, encontros).",
+   "tempo": "Contínuo, ao longo da semana.",
+   "materiais": "Nenhum.",
+   "consigna": "Viu como faz? Pare, pense e tente reproduzir. 'Esta semana vou escutar meus pais com círculos concêntricos'; num encontro, 'hora perfeita para usar o raio: vamos ver o quão profundo consigo deixar o papo'. Na hora de reproduzir, seja caricato, insista na estrutura.",
+   "passos": [
+    "Escolher um esquema por situação ou por semana.",
+    "Aplicá-lo de forma unilateral, até robótica, forçando a barra.",
+    "Observar a estrutura usada, e não só onde a conversa foi parar.",
+    "Trocar de esquema e comparar."
+   ],
+   "feedback": "Autoavaliação: fidelidade à estrutura escolhida. A fluidez vem do domínio ('excesso de estrutura').",
+   "exemplos_praticos": "Proposta como tarefa; não foi executada no encontro.",
+   "variacoes": "Usar o raio em conversas sociais; o espelho para quem perdeu o tesão em atender.",
+   "armadilhas": "Achar que ouvir a aula basta; julgar pelo resultado da conversa e não pela estrutura.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "1:18:21"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Justificar o tema na abertura",
+   "descricao": "Antes de qualquer técnica, explica por que o assunto importa e é pouco teorizado, dando nome e critério de sucesso.",
+   "exemplo": "'É um dos assuntos mais importantes justamente porque é meio não dito.'",
+   "ts": "0:00:14"
+  },
+  {
+   "movimento": "Inverter demonstração e teoria",
+   "descricao": "Faz a demonstração antes da explicação para criar desafio e descoberta; protege quem não sabe pedindo que os veteranos esperem.",
+   "exemplo": "'Se eu explicasse primeiro, ia ser um pouco óbvio.'",
+   "ts": "0:02:26"
+  },
+  {
+   "movimento": "Baixar a barreira do roleplay",
+   "descricao": "Pede pouco para participar: só voz, conteúdo irrelevante, pode repetir voluntário.",
+   "exemplo": "'Aqui é bate-volta, pode repetir, só preciso de alguém para me ajudar.'",
+   "ts": "0:25:15"
+  },
+  {
+   "movimento": "Tarefa de observação com compromisso",
+   "descricao": "Pede que os observadores desenhem a estrutura, comprometendo-se com uma resposta.",
+   "exemplo": "'O legal dessa dinâmica é vocês se arriscarem a desenhar.'",
+   "ts": "0:13:26"
+  },
+  {
+   "movimento": "Separar resultado de processo",
+   "descricao": "Pergunta primeiro se funcionou (binário, via chat) e depois o que ele fez, apontando alternativas não tomadas.",
+   "exemplo": "'Daria para pensar um atendimento na direção do inseto; não foi essa a direção.'",
+   "ts": "0:10:13"
+  },
+  {
+   "movimento": "Coletar leituras antes do gabarito",
+   "descricao": "Recebe várias descrições com 'OK, OK', parafraseia e adia a correção para uma análise comparativa.",
+   "exemplo": "'Quero deixar para comentar depois que a gente fizer alguns.'",
+   "ts": "0:14:37"
+  },
+  {
+   "movimento": "Subir o nível de abstração",
+   "descricao": "Diante de um fluxograma do que aconteceu, pede a lógica única por trás.",
+   "exemplo": "'Qual é o ethos, a lógica por trás? Tenta transformar isso numa coisa só.'",
+   "ts": "0:41:13"
+  },
+  {
+   "movimento": "Andaime aberto para fechado",
+   "descricao": "Revela as quatro opções sem dizer qual é qual e abre segunda tentativa.",
+   "exemplo": "'Ao invés de uma resposta aberta, uma resposta fechada: estas são as quatro opções.'",
+   "ts": "0:56:25"
+  },
+  {
+   "movimento": "Validar acertos parciais com precisão",
+   "descricao": "Liga desenhos específicos ao gabarito, reconhecendo quando um desenho descreve melhor a execução real do que o ideal.",
+   "exemplo": "'O desenho dela descreveu melhor o que eu fiz efetivamente do que o que eu queria fazer.'",
+   "ts": "0:59:58"
+  },
+  {
+   "movimento": "Modelar o erro e a autocrítica",
+   "descricao": "Admite limitações técnicas e diz o que faria diferente.",
+   "exemplo": "'Não sou tão bom assim, dou uma misturada'; 'se fosse refazer, escolheria depois de a pessoa contar algumas coisas.'",
+   "ts": "0:57:48"
+  },
+  {
+   "movimento": "Usar o aqui-e-agora no roleplay e explicar fora do papel",
+   "descricao": "Transforma a rejeição de uma interpretação em material clínico e depois revela a intenção de uma escolha de palavra.",
+   "exemplo": "'Você resolveu quebrar o ciclo comigo'; 'usei a palavra errado para te conduzir ao âmbito social.'",
+   "ts": "0:32:32"
+  },
+  {
+   "movimento": "Aceitar correção de estrutura",
+   "descricao": "Acolhe a sugestão de um participante para organizar prós e contras por esquema.",
+   "exemplo": "'Obrigado por apontar, acho que é mais organizado assim.'",
+   "ts": "1:14:18"
+  },
+  {
+   "movimento": "Incorporar contribuições à teoria",
+   "descricao": "Usa os comentários e desenhos dos participantes como parte da exposição.",
+   "exemplo": "Os desenhos de uma participante viram a imagem do 'bom atendimento' que encadeia esquemas.",
+   "ts": "1:37:51"
+  },
+  {
+   "movimento": "Digressões marcadas",
+   "descricao": "Faz parênteses formativos (tesão em atender, Jung, Perls) e volta explicitamente ao eixo.",
+   "exemplo": "'Só um parêntese que estou fazendo...'",
+   "ts": "1:24:09"
+  },
+  {
+   "movimento": "Estender o encontro para a gravação",
+   "descricao": "Recomenda rever o vídeo sabendo o gabarito e indica qual roleplay rever.",
+   "exemplo": "'Sabendo o spoiler, voltar lá no início e tentar entrar um pouquinho na minha cabeça.'",
+   "ts": "0:55:28"
+  },
+  {
+   "movimento": "Gestão de tempo em voz alta",
+   "descricao": "Anuncia o último exercício, acelera no fim e admite o estouro.",
+   "exemplo": "'Falei que ia ser 1h20, 1h30; vai ser 2 horas, igual sempre é.'",
+   "ts": "1:30:00"
+  },
+  {
+   "movimento": "Fechar com tese e colher feedback",
+   "descricao": "Encerra com a tese sobre intuição e consciência, convida comentários para a gravação e faz feedback da dinâmica fora dela.",
+   "exemplo": "'Eu faço dois minutinhos de comentário com vocês para saber o que acharam da dinâmica.'",
+   "ts": "1:39:43"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Escolha o esquema de aprofundamento depois de ouvir as primeiras falas do paciente, não antes.",
+   "justificativa": "Escolher antes gera descompasso entre técnica e conteúdo.",
+   "contexto": "Treino e clínica.",
+   "competencia": "Aprofundamento",
+   "ts": "0:57:48"
+  },
+  {
+   "dica": "Sem estrutura de escuta, comece pelo raio: em cada fala, ache o próximo gancho e aprofunde.",
+   "justificativa": "Força o aprofundamento sem exigir síntese nem acertar um centro; no mínimo, descobre-se algo interessante.",
+   "contexto": "Iniciantes, sessões exploratórias.",
+   "competencia": "Aprofundamento",
+   "ts": "1:10:02"
+  },
+  {
+   "dica": "Depois de encontrar o tema pelo raio, passe ao concêntrico.",
+   "justificativa": "O raio encontra a demanda; o concêntrico trabalha uma demanda específica.",
+   "contexto": "Quando o tema central emerge.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:10:53"
+  },
+  {
+   "dica": "Use círculos concêntricos quando houver demanda específica e delimitada.",
+   "justificativa": "Dá estrutura e previsibilidade ao terapeuta e ao paciente.",
+   "contexto": "Queixas focais.",
+   "competencia": "Aprofundamento",
+   "ts": "1:12:21"
+  },
+  {
+   "dica": "Trate o centro do concêntrico como hipótese provisória.",
+   "justificativa": "Raramente se sabe o que se trata antes da metade do processo; centro errado leva a um caso mal interpretado.",
+   "contexto": "Clínicas de nicho, especialidades, uso do DSM.",
+   "competencia": "Formulação de caso",
+   "ts": "1:14:18"
+  },
+  {
+   "dica": "Não force conteúdo delicado a caber no centro da sessão.",
+   "justificativa": "Pode ser violento com o paciente (cama de Procusto).",
+   "contexto": "Quando surge algo que precisa ser visto em detalhe, como um trauma.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:16:21"
+  },
+  {
+   "dica": "Prefira o espelho para construir rapport e com pacientes pouco estáveis.",
+   "justificativa": "É o esquema menos agressivo, pois o terapeuta está conectado a ouvir.",
+   "contexto": "Início de vínculo; propostas pouco interpretativas.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:21:24"
+  },
+  {
+   "dica": "Pratique o espelhamento para aumentar presença e concentração.",
+   "justificativa": "Interpretar desloca o terapeuta do momento; espelhar o mantém junto do paciente.",
+   "contexto": "Dificuldade de atenção nas sessões (exceto na atenção flutuante psicanalítica).",
+   "competencia": "Escuta clínica",
+   "ts": "1:22:23"
+  },
+  {
+   "dica": "Se perdeu o tesão em atender, atenda espelhando e dê títulos criativos ao caso ou à sessão.",
+   "justificativa": "O espelho cria uma conexão prazerosa; o título monta a narrativa e reengaja no caso.",
+   "contexto": "Desmotivação, comum em quem gosta mais de teoria do que de clínica.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:23:19"
+  },
+  {
+   "dica": "No espelho, ouse elucidar: conecte elementos que já estão no discurso.",
+   "justificativa": "Isso não é interpretar (interpretar é trazer conceito de fora) e é a parte mais rica da técnica.",
+   "contexto": "Sobretudo para terapeutas da ACP com medo de interpretar.",
+   "competencia": "Interpretação",
+   "ts": "1:28:30"
+  },
+  {
+   "dica": "Evite o pente em terapias psicoeducativas ou por sugestão.",
+   "justificativa": "O raciocínio do terapeuta fica opaco; para o paciente parece mágica, e ele não aprende a ser o próprio terapeuta.",
+   "contexto": "TCC psicoeducativa e afins.",
+   "competencia": "Psicoeducação",
+   "ts": "1:32:01"
+  },
+  {
+   "dica": "Use o pente para colher pontos de vários âmbitos da vida para intervenções futuras.",
+   "justificativa": "A estrutura pouco aprofundada gera material diverso para retomar depois.",
+   "contexto": "Fases de levantamento e anamnese.",
+   "competencia": "Formulação de caso",
+   "ts": "1:31:03"
+  },
+  {
+   "dica": "Não confunda o pente com associação livre.",
+   "justificativa": "No pente você conduz e busca síntese; em psicanálise não se faz síntese.",
+   "contexto": "Ao justificar a própria técnica.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:31:03"
+  },
+  {
+   "dica": "Não confunda o que está mais vivo com o que é prioritário.",
+   "justificativa": "O raio captura o complexo ativado, não necessariamente o essencial do tratamento.",
+   "contexto": "Ao planejar depois de sessões exploratórias.",
+   "competencia": "Priorização clínica",
+   "ts": "1:36:55"
+  },
+  {
+   "dica": "Domine vários esquemas (seis a oito) e varie entre eles.",
+   "justificativa": "Qualquer esquema usado por muito tempo fica monotônico; bons atendimentos encadeiam vários.",
+   "contexto": "Ao longo do processo terapêutico.",
+   "competencia": "Aprofundamento",
+   "ts": "1:15:17"
+  },
+  {
+   "dica": "Quando o paciente rejeitar sua interpretação, explore a reação dele no aqui-e-agora.",
+   "justificativa": "A forma de reagir ao terapeuta pode repetir o tema em discussão (demonstrado no roleplay 3).",
+   "contexto": "Após um salto interpretativo mal recebido.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:32:32"
+  },
+  {
+   "dica": "Faça perguntas de diferenciação ('incomoda ou assusta?', 'o outro com quem você se relaciona ou um terceiro?').",
+   "justificativa": "Distinções finas fazem o paciente produzir material novo e conectar sozinho (implícito nos roleplays 1 e 2).",
+   "contexto": "Espelho e concêntrico.",
+   "competencia": "Construção frasal",
+   "ts": "0:09:23"
+  },
+  {
+   "dica": "Se o paciente não encontra um exemplo, peça um cenário hipotético.",
+   "justificativa": "Destrava a produção sem impor sentido (implícito no roleplay 3).",
+   "contexto": "Pacientes que respondem 'não sei'.",
+   "competencia": "Intervenção",
+   "ts": "0:29:56"
+  },
+  {
+   "dica": "Diante de afeto intenso, pergunte onde está no corpo e o que está crescendo.",
+   "justificativa": "Aprofunda verticalmente no esquema do raio (implícito no roleplay 4).",
+   "contexto": "Quando surge dor ou angústia.",
+   "competencia": "Aprofundamento",
+   "ts": "0:48:58"
+  },
+  {
+   "dica": "No treino, avalie a estrutura da escuta e não o resultado do atendimento.",
+   "justificativa": "O resultado depende da resposta do paciente; é preciso isolar variáveis para saber o que teve a ver com você.",
+   "contexto": "Prática deliberada, supervisão.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:51:27"
+  },
+  {
+   "dica": "Treine os esquemas de forma caricata e robótica, inclusive fora da clínica.",
+   "justificativa": "A fluidez vem de excesso de estrutura; o domínio é que torna a técnica natural.",
+   "contexto": "Estudo e treino.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:19:25"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O 'como perguntar' é central e quase não é teorizado.",
+   "argumento": "Autores e faculdade focam no 'o quê' (dado fundamental, raciocínio); a estrutura do processo dialético fica implícita e deriva da filosofia.",
+   "contraponto": "Manuais que só ensinam o conteúdo a buscar.",
+   "implicacao": "Treinar explicitamente os esquemas de aprofundamento.",
+   "quem": "Alan",
+   "ts": "0:01:10"
+  },
+  {
+   "tese": "Nenhum esquema de aprofundamento é indicado ou contraindicado por teoria alguma; a escolha depende mais de estilo e personalidade.",
+   "argumento": "Todos são compatíveis com todas as abordagens; há só graus de afinidade ('tudo se aplica à psicanálise').",
+   "contraponto": "A ideia de que a abordagem determina a escuta; Alan admite que organiza por abordagem só pela comunicação.",
+   "implicacao": "Aprender e variar vários esquemas, qualquer que seja a abordagem.",
+   "quem": "Alan",
+   "ts": "1:21:24"
+  },
+  {
+   "tese": "O que torna a técnica fluida é excesso de estrutura, não falta.",
+   "argumento": "Só quando se domina a técnica é que se deixa de ser robótico ao usá-la.",
+   "contraponto": "O receio de que estruturar deixe a clínica mecânica.",
+   "implicacao": "Treinar de forma caricata e unilateral, 'forçando a barra'.",
+   "quem": "Alan",
+   "ts": "1:19:25"
+  },
+  {
+   "tese": "Ouvir a aula não ensina; esquema de aprofundamento se aprende com treino.",
+   "argumento": "É uma habilidade, não uma informação.",
+   "contraponto": "",
+   "implicacao": "Treino deliberado, inclusive na vida pessoal.",
+   "quem": "Alan",
+   "ts": "1:18:21"
+  },
+  {
+   "tese": "No treino, isole variáveis; na clínica, busque resultado.",
+   "argumento": "O que acontece no atendimento depende da resposta do paciente; para aprender é preciso saber o que teve a ver com você.",
+   "contraponto": "Avaliar a própria técnica só pelo 'deu certo'.",
+   "implicacao": "Analisar a intenção e a forma das intervenções.",
+   "quem": "Alan",
+   "ts": "0:51:27"
+  },
+  {
+   "tese": "Em psicologia, raramente se sabe o que se trata antes da metade do processo.",
+   "argumento": "É comum perceber anos depois 'é sobre isso o tratamento'; decidir de antemão (DSM, nichos) é jogar com um braço a menos.",
+   "contraponto": "Modelos que fixam o foco desde o diagnóstico.",
+   "implicacao": "Manter o centro provisório e alternar esquemas.",
+   "quem": "Alan",
+   "ts": "1:14:18"
+  },
+  {
+   "tese": "O esquema concêntrico pode ser uma cama de Procusto.",
+   "argumento": "Força os fenômenos a se alinharem ao centro, podendo ser violento com conteúdos delicados.",
+   "contraponto": "Um participante acrescenta que o especialista pode errar o ponto do discurso quando a fala só parece ser sobre seu tema.",
+   "implicacao": "Suspender o centro quando algo pede para ser visto em si.",
+   "quem": "Alan",
+   "ts": "1:16:21"
+  },
+  {
+   "tese": "Terapia não é encontrar onde mais dói.",
+   "argumento": "Achar complexos ou o 'segredo obscuro' pode ajudar, mas não é o objetivo; o mais vivo não é o mais fundamental.",
+   "contraponto": "A fantasia de que aprofundar é sempre ir ao ponto mais dolorido.",
+   "implicacao": "Não confundir intensidade com prioridade clínica.",
+   "quem": "Alan",
+   "ts": "1:36:55"
+  },
+  {
+   "tese": "Elucidar não é interpretar.",
+   "argumento": "Interpretar é trazer um conceito de fora; elucidar é recombinar o que o próprio paciente disse, sem pressuposto do terapeuta.",
+   "contraponto": "O medo, comum na ACP, de qualquer conexão parecer interpretação.",
+   "implicacao": "Espelhar construindo, não só repetindo.",
+   "quem": "Alan",
+   "ts": "1:28:30"
+  },
+  {
+   "tese": "Em psicanálise não se faz síntese; por isso o pente não é associação livre.",
+   "argumento": "Ambos não aprofundam cada tema, mas no pente o terapeuta conduz e busca a forma comum.",
+   "contraponto": "",
+   "implicacao": "Não justificar um pente malfeito como associação livre.",
+   "quem": "Alan",
+   "ts": "1:31:03"
+  },
+  {
+   "tese": "A psicanálise popular (de filme, TV, YouTube) é concêntrica; a boa psicanálise vai em outra direção.",
+   "argumento": "A versão popular lê tudo em função de um centro pré-determinado.",
+   "contraponto": "A psicanálise 'americana' popularizada.",
+   "implicacao": "",
+   "quem": "Alan",
+   "ts": "1:12:21"
+  },
+  {
+   "tese": "Na maior parte do vídeo com Gloria, Perls faz um pré-atendimento, não um aprofundamento.",
+   "argumento": "Ele recusa o personagem e insiste para que a paciente apareça de verdade; qualquer afeto genuíno serviria.",
+   "contraponto": "",
+   "implicacao": "Às vezes a primeira tarefa é criar a condição para haver o que aprofundar.",
+   "quem": "Alan",
+   "ts": "1:26:01"
+  },
+  {
+   "tese": "Somos intuitivamente bons em interpretar e, por isso, precisamos treinar com consciência.",
+   "argumento": "Interpretamos o tempo todo (filmes, flerte, perigo na rua); ser bom apaga a consciência do processo, e sem consciência é muito difícil melhorar.",
+   "contraponto": "",
+   "implicacao": "Fundamenta o método do aprimoramento clínico.",
+   "quem": "Alan",
+   "ts": "1:38:46"
+  },
+  {
+   "tese": "Treinar escuta melhora a vida, não só a clínica.",
+   "argumento": "Aprofundar melhor torna a pessoa mais interessante, melhor professor, ouvinte e parceiro; o raio é o modelo de conversa que as pessoas mais acham agradável.",
+   "contraponto": "",
+   "implicacao": "Usar a vida cotidiana como campo de treino.",
+   "quem": "Alan",
+   "ts": "1:19:25"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Quando isso é bem feito, a gente tem a impressão de que o caso tem muita informação.",
+   "tema": "Esquemas de aprofundamento",
+   "ts": "0:01:10"
+  },
+  {
+   "texto": "O processo do aprimoramento clínico é pegar algo que é intuitivo e começar a refletir e teorizar em cima disso.",
+   "tema": "Método do aprimoramento",
+   "ts": "0:04:29"
+  },
+  {
+   "texto": "Quando você está treinando, você quer isolar o máximo possível as variáveis: entender o que daquilo teve a ver com você.",
+   "tema": "Treino",
+   "ts": "0:51:27"
+  },
+  {
+   "texto": "O modelo de pente é o mais mágico de todos: você fala de coisas aparentemente aleatórias e, num passe de mágica, tudo é sobre o mesmo assunto.",
+   "tema": "Esquema do pente",
+   "ts": "1:03:56"
+  },
+  {
+   "texto": "Esquece tese, esquece síntese. Na frase da pessoa, encontre o próximo gancho e só tente aprofundar.",
+   "tema": "Esquema do raio",
+   "ts": "1:10:02"
+  },
+  {
+   "texto": "A natureza do processo psicológico é tal que, dois anos depois, você fala: é sobre isso o tratamento.",
+   "tema": "Direção do tratamento",
+   "ts": "1:14:18"
+  },
+  {
+   "texto": "O círculo concêntrico é basicamente uma cama de Procusto: você está forçando as coisas a se alinharem.",
+   "tema": "Esquema concêntrico",
+   "ts": "1:16:21"
+  },
+  {
+   "texto": "Não adianta ouvir o que eu estou falando e achar que aprendeu. Isso daqui é treino, treino, treino.",
+   "tema": "Treino",
+   "ts": "1:18:21"
+  },
+  {
+   "texto": "O que torna as coisas fluidas e não robóticas não é falta de estrutura, é excesso de estrutura.",
+   "tema": "Treino",
+   "ts": "1:19:25"
+  },
+  {
+   "texto": "Interpretar é trazer um conceito de fora. Conectar coisas que já estão no discurso do paciente, sem trazer um pressuposto seu, pode.",
+   "tema": "Elucidação",
+   "ts": "1:28:30"
+  },
+  {
+   "texto": "Parece que o raio vai sem direção, mas isso é mentira: o para-raios do psiquismo são os complexos.",
+   "tema": "Esquema do raio",
+   "ts": "1:35:48"
+  },
+  {
+   "texto": "Terapia não é encontrar onde mais dói, o segredo obscuro da pessoa.",
+   "tema": "Objetivo da terapia",
+   "ts": "1:36:55"
+  },
+  {
+   "texto": "A gente é intuitivamente bom em interpretar e, por isso, perde a consciência do processo. Para melhorar, eu preciso começar a entender o que estou fazendo.",
+   "tema": "Interpretação",
+   "ts": "1:38:46"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "4 formas de aprofundar uma sessão (e quando usar cada uma)",
+   "mensagem": "Por trás das perguntas do terapeuta há um desenho: concêntrico, espelho, pente ou raio; cada um tem uso e risco.",
+   "roteiro": [
+    "Capa: você pergunta 'no feeling' ou tem um esquema?",
+    "Círculos concêntricos: tudo em função de um centro; risco: centro errado.",
+    "Espelho: devolver e conferir; ótimo para vínculo; risco: monotonia.",
+    "Pente: vários âmbitos, depois a forma comum; o mais mágico e o mais difícil.",
+    "Raio: de gancho em gancho; o mais fácil; risco: confundir o mais vivo com o prioritário.",
+    "Bons atendimentos encadeiam esquemas."
+   ],
+   "corte_inicio": "0:56:25",
+   "corte_fim": "0:57:48"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Quer soar natural na clínica? Treine como um robô.",
+   "mensagem": "A fluidez vem de excesso de estrutura: treine cada técnica de forma caricata, inclusive na vida pessoal.",
+   "roteiro": [
+    "Gancho",
+    "Trecho de Alan sobre treino caricato",
+    "Exemplo: escutar os pais com um esquema por semana"
+   ],
+   "corte_inicio": "1:18:21",
+   "corte_fim": "1:20:31"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Terapia não é achar onde mais dói.",
+   "mensagem": "Numa conversa sem direção, o assunto cai no que está mais vivo (o para-raios são os complexos), e isso não é necessariamente o essencial do tratamento.",
+   "roteiro": [
+    "Gancho",
+    "Metáfora do raio e do para-raios",
+    "Conclusão: intensidade não é prioridade"
+   ],
+   "corte_inicio": "1:34:44",
+   "corte_fim": "1:37:51"
+  },
+  {
+   "formato": "post",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Na ACP não se interpreta. Mas dá para conectar?",
+   "mensagem": "Interpretar é trazer um conceito de fora; elucidar é recombinar o que o paciente já disse, e isso é permitido.",
+   "roteiro": [
+    "Pergunta",
+    "Definição de interpretar",
+    "Definição de elucidar",
+    "Por que o medo trava a técnica"
+   ],
+   "corte_inicio": "1:27:21",
+   "corte_fim": "1:29:23"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Um exercício do nosso grupo: desenhe como o terapeuta pergunta.",
+   "mensagem": "No aprimoramento, a demonstração vem antes da teoria e o grupo tenta desenhar a lógica por trás das perguntas.",
+   "roteiro": [
+    "Consigna de Alan",
+    "Participantes mostrando desenhos (sem conteúdo dos roleplays)",
+    "Revelação das quatro imagens"
+   ],
+   "corte_inicio": "0:03:32",
+   "corte_fim": "0:04:29"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Perdeu o tesão em atender? Dois truques.",
+   "mensagem": "Atender espelhando cria outro tipo de atenção e conexão; dar títulos criativos a casos e sessões reengaja na narrativa.",
+   "roteiro": [
+    "Capa",
+    "Truque 1: escuta espelhada",
+    "Truque 2: título para o caso ou a sessão",
+    "Para quem isso costuma acontecer"
+   ],
+   "corte_inicio": "1:23:19",
+   "corte_fim": "1:24:09"
+  },
+  {
+   "formato": "reels",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "O que Perls estava fazendo com Gloria?",
+   "mensagem": "Um pré-atendimento: recusar o personagem até a pessoa aparecer de verdade.",
+   "roteiro": [
+    "Pergunta",
+    "Leitura de Alan",
+    "Implicação: às vezes é preciso criar a condição para aprofundar"
+   ],
+   "corte_inicio": "1:26:01",
+   "corte_fim": "1:27:21"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Vídeo com a paciente Gloria como exemplo da monotonia do espelhamento visto de fora; ACP associada ao esquema do espelho."
+  },
+  {
+   "nome": "Fritz Perls",
+   "contexto": "Vídeo com Gloria lido como pré-atendimento: recusar o personagem até a pessoa aparecer."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "'A prática da psicoterapia' e o primeiro estágio, a confissão; noção de complexo na metáfora do para-raios."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Exemplo caricato do que é interpretar trazendo um conceito de fora ('problema com a mãe')."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Alan)",
+  "objetivo": "Transformar habilidades clínicas intuitivas em técnica consciente, por meio de teoria, demonstração ao vivo e discussão.",
+  "publico": "Estudantes de psicologia e psicólogos em formação.",
+  "tamanho": "Nesse encontro, poucos presentes (cerca de 5 a 6 ativos, mais chat); gravado para quem assiste depois.",
+  "duracao": "Planejado para 1h20 a 1h30; gravação de 1h40 ('vai ser 2 horas, igual sempre').",
+  "estrutura_padrao": "Normalmente, explicação teórica seguida de pequena demonstração prática e discussão; neste encontro a ordem foi invertida (demonstração, adivinhação, gabarito, comparação, fechamento), com feedback fora da gravação ao final.",
+  "papel_facilitador": "Expõe e nomeia o tema, conduz roleplays como terapeuta, faz rodadas de leitura, revela o gabarito, compara abordagens e dá prescrições de treino.",
+  "regras_combinados": "Online; só voz basta para fazer roleplay; opinar no chat; arriscar desenhar; quem já conhece o tema espera antes de responder; conteúdo dos roleplays pode ser leve ou inventado; mensagem prévia avisando mudanças no formato."
+ },
+ "reflexoes_do_facilitador": [
+  "Inverteu a ordem habitual (teoria antes da demonstração) para tornar o exercício mais desafiador e avisou isso por mensagem antes do encontro.",
+  "Reconhece que algo da sua personalidade atravessa todos os exemplos e dificulta distinguir os esquemas.",
+  "Admite que, por causa do barulho no local, estava 'no automático' e com dificuldade de manter a linha.",
+  "Diz que deveria usar uma técnica só em cada roleplay, mas 'não é tão bom assim' e mistura; o roleplay do espelho foi o que mais saiu como queria.",
+  "Escolheu o esquema antes de ouvir cada história e às vezes abriu 'de sacanagem' com perguntas fora do tema; se refizesse, escolheria depois das primeiras falas.",
+  "No concêntrico, o ponto central virou um eixo porque lhe faltou capacidade técnica de sair e voltar ao mesmo ponto; o pente também não saiu 'tão perfeitinho'.",
+  "Comenta que costuma explicar o tema por imagens e que talvez isso seja um erro, dada a variação individual dos desenhos (trecho confuso).",
+  "Esperava que o exercício fosse difícil e por isso usou a estrutura de desafio; recomenda este encontro em particular para quem assiste depois.",
+  "Aceitou a sugestão de um participante de organizar prós e contras por esquema.",
+  "Diz ser 'a pessoa menos consistente do universo' ao responder se haverá parte dois.",
+  "Organiza os esquemas por abordagem só para facilitar a comunicação, embora dependam mais do estilo do terapeuta.",
+  "Reconhece que prometeu 1h20 a 1h30 e que o encontro, 'igual sempre', vai passar do tempo."
+ ],
+ "referencias_a_outros_encontros": [
+  "Alan diz que mandou uma mensagem no dia avisando que a ordem seria invertida.",
+  "Refere-se a uma gravação de cerca de um ano antes em que um participante (Diogo) conversou com ele explicando o pente como 'o modelo mais mágico'.",
+  "Menciona que quem já foi avaliador já se deparou com esses desenhos.",
+  "Um participante pergunta se haverá parte dois; Alan diz que talvez, com esquemas 'mais fora da caixa'.",
+  "Diz que costuma associar os esquemas a abordagens no aprimoramento (ver os encontros de escuta: Alan 08, 09 e 10).",
+  "O pente é desaconselhado para terapias psicoeducativas, tema do encontro seguinte (Alan 07 - Psicoeducação)."
+ ],
+ "observacoes": "Legenda automática com ruído: 'ACT'/'CT'/'CP' foi interpretado como ACP (contexto de Rogers e da proibição de interpretar); 'PS'/'Pear'/'PR'/'P' como Fritz Perls; 'Car Rogers' como Carl Rogers; 'Pen' como Pain (personagem de Naruto); 'TCC preta' mantido com '(?)'; 'pessoal da Gória' (1:32:01) não identificado. Os roleplays são simulados, mas o 4º tocou em material pessoal real do participante e foi descrito só genericamente; os nomes dos participantes-pacientes foram omitidos. A menção aos outros três estágios de Jung (elucidação, educação, transformação) aparece na nota apenas como nota externa em 'Perguntas para aprofundar'. O alias da nota coincide com o nome do conceito 'Esquemas de aprofundamento' (seguindo a regra alias = título original)."
+}

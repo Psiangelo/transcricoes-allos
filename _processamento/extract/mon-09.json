@@ -1,0 +1,938 @@
+{
+ "id": "mon-09",
+ "nota": "Monitoria 09 - João de Bragança - Critérios do bom psicólogo e acolhimento",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Critérios do bom psicólogo e acolhimento",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "João de Bragança"
+ ],
+ "resumo": "Primeira monitoria de terça conduzida por João de Bragança, que a assume de Alan. Depois de uma rodada diagnóstica e de explicar o que é a Allos (ONG nascida da insatisfação com a formação, baseada em prática deliberada), João volta aos 'primórdios' da monitoria, porque a maioria ainda não atende, e pergunta: quais são três critérios para saber se um psicólogo é bom? O critério mais citado, o acolhimento, vira objeto do 'compromisso epistêmico': definir, dar limites, examinar formas. O grupo chega a uma noção de acolhimento como recepção que permite a transformação: não é concordar, compreensão demais abraça o sintoma (Jung), e há formas diferentes de acolher, cada uma com seu limite. Na segunda metade discute-se falar e calar em várias abordagens (com Diogo), o critério de João (saber receber feedback), pedir feedback ao paciente e metacomunicar a relação, terceiro analítico e grande Outro, e a tese de que o terapeuta que cristaliza piora com o tempo. O vídeo de Albert Ellis com Gloria fica como tarefa.",
+ "em_uma_frase": "Partindo de 'quais são três critérios de um bom psicólogo?', João obriga o grupo a definir acolhimento: receber bem para permitir a transformação, com limites e formas diferentes. Defende como critério principal a capacidade de receber feedback, inclusive pedindo-o ao paciente.",
+ "competencias": [
+  "Acolhimento e validação",
+  "Feedback clínico",
+  "Relação terapêutica",
+  "Escuta clínica",
+  "Pessoa do terapeuta",
+  "Desenvolvimento profissional",
+  "Intervenção",
+  "Articulação teoria-prática"
+ ],
+ "abordagens": [
+  "Psicologia analítica junguiana",
+  "Gestalt-terapia",
+  "Abordagem centrada na pessoa",
+  "Análise do comportamento",
+  "Terapia cognitivo-comportamental",
+  "Psicanálise freudiana",
+  "Psicanálise lacaniana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Abertura",
+   "descricao": "Boas-vindas; João anuncia que é a primeira monitoria de terça dele (antes era de Alan; Diogo fica com a de sexta) e explica a expectativa do grupo.",
+   "funcao": "Enquadrar a mudança de condução e o propósito do grupo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:09",
+   "bloco": "Abertura",
+   "descricao": "Rodada de apresentação: etapa da graduação, pesquisa, quem atende e onde.",
+   "funcao": "Diagnosticar o grupo para calibrar a atividade do dia.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:05:35",
+   "bloco": "Retomada",
+   "descricao": "João pergunta se conhecem os atendimentos do caso Gloria.",
+   "funcao": "Checar o repertório comum para o material planejado.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:06:30",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Explicação institucional da Allos (ONG, prática deliberada, clínica, editora), com participação de Diogo.",
+   "funcao": "Contextualizar recém-chegados e o sentido da monitoria.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:12:07",
+   "bloco": "Dinâmica",
+   "descricao": "João volta aos 'primórdios' da monitoria (grupo de prática de aprimoramento) e faz a pergunta: três critérios para saber se um psicólogo é bom.",
+   "funcao": "Disparar a reflexão com uma pergunta acessível a quem ainda não atende.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:13:42",
+   "bloco": "Rodada de respostas",
+   "descricao": "Critérios: acolhimento, escuta qualificada, conhecimento teórico aberto à vivência, ética (não projetar, não impor religião); João anota e devolve.",
+   "funcao": "Levantar concepções prévias do grupo.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:19:15",
+   "bloco": "Teoria",
+   "descricao": "João introduz o compromisso epistêmico da prática deliberada: definir o que se chama de acolhimento.",
+   "funcao": "Passar do chavão ao conceito.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:20:43",
+   "bloco": "Discussão",
+   "descricao": "Definições de acolhimento; 'acolhimento tem limite?'; João traz Jung: compreensão demais tem limite (ausência de dialética).",
+   "funcao": "Dar limite ao conceito.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:25:07",
+   "bloco": "Discussão",
+   "descricao": "Acolhimento como construção; competição de sofrimento; compreender a pessoa como sistema próprio; leitura do chat (dependência, grilo falante, condescendência).",
+   "funcao": "Refinar a definição com as contribuições do grupo.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:33:11",
+   "bloco": "Discussão",
+   "descricao": "Acolher não é concordar (contraexemplo do chat de IA); acolhimento como recepção que permite transformação; exercício humanista de devolução literal.",
+   "funcao": "Chegar a uma definição operacional.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:39:58",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Formas de acolher: a 'rasteira', anedota de Jung, 'eu te vejo' da Gestalt, corte lacaniano, Dora de Freud, Perls × Rogers no caso Gloria.",
+   "funcao": "Mostrar a variedade de acolhimentos entre abordagens.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:44:27",
+   "bloco": "Discussão",
+   "descricao": "Diogo: validação tem ganho mas não produz mudança; debate forma × limite; João: cada forma tem seu limite e o bom psicólogo dinamiza entre elas.",
+   "funcao": "Consolidar a tese de que cada forma tem seu limite.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:46:56",
+   "bloco": "Discussão",
+   "descricao": "Uma participante de Gestalt critica o filme de Perls; João discorda em parte e declara seu critério principal: saber receber feedback.",
+   "funcao": "Posicionamento explícito do facilitador.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:52:10",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Falar ou calar: análise do comportamento (Diogo), TCC (uma participante), psicanálise (um participante) e psicanálise 'raiz'/Lacan (João).",
+   "funcao": "Relativizar o 'bom psicólogo fala pouco' e pôr técnicas em contexto.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "1:02:14",
+   "bloco": "Dúvidas",
+   "descricao": "Uma estagiária pergunta como calibrar a presença com paciente nova; João recomenda pedir feedback, metacomunicar a relação e testar a intervenção como medicação.",
+   "funcao": "Levar os conceitos para um caso real.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:07:25",
+   "bloco": "Discussão",
+   "descricao": "Diogo critica uma leitura do terceiro analítico; João traz o grande Outro de Lacan (exemplo de Žižek) como tabu da relação.",
+   "funcao": "Aprofundar a metacomunicação e o papel de quebrar tabus.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:12:24",
+   "bloco": "Discussão",
+   "descricao": "Relatos: acolhimento calibrado com uma paciente que continha o choro; o terapeuta que cristaliza piora com o tempo; explicar o próprio raciocínio a um paciente com ideação persecutória.",
+   "funcao": "Integrar os temas em casos concretos.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:19:41",
+   "bloco": "Fechamento",
+   "descricao": "O vídeo de Albert Ellis com Gloria fica como tarefa opcional; João dá sua opinião provocativa ('péssimo atendimento'); formulário de feedback; próxima terça.",
+   "funcao": "Preparar a próxima monitoria e coletar avaliação.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Prática deliberada",
+   "definicao": "Linha de pesquisa, associada por João a Scott D. Miller, segundo a qual o psicólogo melhora pela prática refletida e não estudando mais teoria. Na Allos, traduz-se em simulações de atendimento assistidas pelo grupo, que aponta pontos de melhora. João a resume como 'refletir sobre o que a gente faz na psicologia'.",
+   "exemplo": "A Allos surge como amparo para quem começa a atender tarde e desamparado na graduação.",
+   "abordagem": "",
+   "ts": "0:07:44"
+  },
+  {
+   "nome": "Compromisso epistêmico",
+   "definicao": "Termo de João para o dever de refletir sobre o conhecimento que se produz: quem afirma algo sobre a clínica precisa definir os conceitos que usa, em vez de ficar em palavras-chavão do senso comum.",
+   "exemplo": "Se o bom psicólogo é acolhedor, o que significa acolher?",
+   "abordagem": "",
+   "ts": "0:19:15"
+  },
+  {
+   "nome": "Conhecimento e compreensão",
+   "definicao": "Na psicologia analítica, compreender é apreender a pessoa como sistema próprio, sem compará-la a outros; o conhecimento comparativo (estatístico) tem outro lugar. A compreensão também tem limite: em excesso, o terapeuta abraça o sintoma do paciente.",
+   "exemplo": "'Eu te compreendo tanto que abraço o seu sintoma junto com você.'",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:23:55"
+  },
+  {
+   "nome": "Dialética na relação terapêutica",
+   "definicao": "A oposição saudável entre duas pessoas diferentes na terapia. Desaparece quando o terapeuta compreende tanto que passa a dar ao paciente as mesmas justificativas que ele dá às próprias neuroses.",
+   "exemplo": "Jung: compreensão demais tem limite, porque deixa de haver conversa entre duas pessoas.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:23:55"
+  },
+  {
+   "nome": "Competição de sofrimento",
+   "definicao": "Quando o terapeuta compara o sofrimento do paciente ao próprio ou ao de outros ('disputa de desgraça'). Tira a pessoa da compreensão de si como sistema próprio e a joga numa massa comparativa; é o oposto do acolhimento.",
+   "exemplo": "O terapeuta que responde a uma dor do paciente dizendo que já passou por coisa pior.",
+   "abordagem": "",
+   "ts": "0:29:13"
+  },
+  {
+   "nome": "Condescendência terapêutica",
+   "definicao": "Excesso de acolhimento que se torna condescendência, uma forma de violência que o paciente muitas vezes nem percebe.",
+   "exemplo": "Participante no chat: 'acolhimento demais pode ser violento'.",
+   "abordagem": "",
+   "ts": "0:32:42"
+  },
+  {
+   "nome": "Dependência do terapeuta",
+   "definicao": "O paciente passa a depender do terapeuta. Pode vir do acolhimento sem limite ou do terapeuta 'grilo falante', que sempre critica e contrapõe, levando o paciente a terceirizar o pensamento crítico sobre si.",
+   "exemplo": "O terapeuta como grilo falante do paciente.",
+   "abordagem": "",
+   "ts": "0:31:37"
+  },
+  {
+   "nome": "Autorrevelação do terapeuta",
+   "definicao": "Falar da própria experiência ao paciente. Na TCC clássica é uma forma de acolhimento, mas só depois de extensa avaliação do caso e em favor do paciente; feita sem pensar, pode ser violenta e é um erro ético.",
+   "exemplo": "Pode ajudar uma pessoa que sofreu violência a se sentir mais confortável para construir possibilidades; pode ferir outra.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:55:31"
+  },
+  {
+   "nome": "Metacomunicação da relação",
+   "definicao": "Conversar com o paciente sobre a própria relação terapêutica: se o terapeuta fala demais, se o paciente se sente sozinho, o que o incomoda. Inclui pedir feedback periodicamente e ensinar o paciente que ele pode dá-lo.",
+   "exemplo": "Pedir feedback depois da primeira sessão, da primeira semana e do primeiro mês.",
+   "abordagem": "",
+   "ts": "1:05:09"
+  },
+  {
+   "nome": "Transferência",
+   "definicao": "Na leitura de uma psicanálise mais clássica apresentada por João, o paciente dialoga com a projeção de si mesmo no analista; quanto mais o analista aparece como sujeito concreto, mais atrapalha a projeção. Por isso o silêncio é valorizado e a psicoeducação é um problema.",
+   "exemplo": "Analistas que atendem online com a câmera desligada para simular o divã.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:00:40"
+  },
+  {
+   "nome": "Associação livre",
+   "definicao": "Regra psicanalítica em que o paciente fala do que quiser, como quiser; o analista escuta e faz confrontações pontuais. Silêncio excessivo do analista pode virar uma 'pseudoviolência'.",
+   "exemplo": "Apresentada por um participante.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:58:28"
+  },
+  {
+   "nome": "Ato falho",
+   "definicao": "Expressão do inconsciente na fala. Segundo um participante, Freud recomenda que o analista intervenha, de forma leve ou incisiva, porque ao perceber o ato falho o paciente começa a se justificar.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:58:28"
+  },
+  {
+   "nome": "Corte da sessão",
+   "definicao": "Em Lacan, na versão bem-humorada de João: 'tocou no inconsciente, fora, tchau', para o paciente pensar sozinho sobre o que tocou. Pode ser acolhedor, como disse alguém no chat, e pode machucar profundamente.",
+   "exemplo": "Sessão de cinco minutos que termina quando se chega ao inconsciente.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:01:52"
+  },
+  {
+   "nome": "Questionamento socrático",
+   "definicao": "Técnica da TCC em que a fala do terapeuta é instrumento de reestruturação cognitiva, construída em colaboração com o paciente.",
+   "exemplo": "Citado por uma participante para explicar por que a TCC fala mais.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:55:31"
+  },
+  {
+   "nome": "Terceiro analítico",
+   "definicao": "Campo em que o conhecimento e o processo se desenvolvem na relação entre analista e paciente (Diogo o atribui, com dúvida, a Bion ou Ferenczi). Diogo critica a conclusão de uma professora de que, se o analista percebe algo, o paciente também percebe e não é preciso dizê-lo.",
+   "exemplo": "João aproxima o conceito de uma percepção compartilhada sobre a relação.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:07:25"
+  },
+  {
+   "nome": "Grande Outro",
+   "definicao": "Em Lacan, via Žižek, o saber que todos sabem mas ninguém pode dizer, porque dito ele fica palpável demais. Na terapia, o problema da relação que terapeuta e paciente percebem e não nomeiam; cabe ao psicólogo quebrar o tabu.",
+   "exemplo": "No Natal em família, todos sabem que o tio traiu a tia e ninguém fala (exemplo de Žižek em 'Como ler Lacan').",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:10:40"
+  },
+  {
+   "nome": "Expertise clínica",
+   "definicao": "João afirma que o terapeuta não melhora com o tempo, ele piora, se cristalizar uma forma de trabalhar (a mesma abertura para todas as sessões), porque todo caso vira o mesmo caso.",
+   "exemplo": "'Como foi sua semana?' pode matar a sessão de certos pacientes.",
+   "abordagem": "",
+   "ts": "1:15:58"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Três critérios do bom psicólogo",
+   "objetivo": "Levantar as concepções implícitas do grupo sobre qualidade clínica e usá-las como matéria-prima para a exigência de definição conceitual (compromisso epistêmico).",
+   "competencias": [
+    "Desenvolvimento profissional",
+    "Acolhimento e validação",
+    "Articulação teoria-prática"
+   ],
+   "configuracao": "Grupo todo, online, cerca de dez pessoas, incluindo quem ainda não atende; respostas por áudio ou chat.",
+   "tempo": "Cerca de 60 minutos (rodada de uns 6 minutos; o resto em aprofundamento).",
+   "materiais": "Chat da videochamada; anotações do facilitador.",
+   "consigna": "Quais são três critérios que vocês utilizam para saber se um psicólogo, um profissional de psicologia, é bom ou não? (Quem nunca atendeu pode responder como alguém que é atendido.)",
+   "passos": [
+    "Fazer a pergunta com número fechado e oferecer dois canais (voz e chat)",
+    "Ouvir, anotar e devolver a síntese de cada resposta",
+    "Ler o chat em voz alta periodicamente",
+    "Escolher o critério mais recorrente e perguntar o que ele significa",
+    "Perguntar pelo limite do conceito",
+    "Trazer teoria e exemplos extremos para testar as definições",
+    "Abrir para as formas diferentes do conceito nas várias abordagens, com convidados",
+    "Explicitar o critério do próprio facilitador"
+   ],
+   "feedback": "Valoriza definições operacionais ('recepção que permite transformação') e desconfia das definições 'almofadadas'; toda definição precisa sobreviver à pergunta do limite e a contraexemplos. Não corrige diretamente: acrescenta nuances ('não entendam errado, isso tem lugar às vezes').",
+   "exemplos_praticos": "Critérios iniciais: acolhimento, escuta qualificada, conhecimento aberto, ética, autocrítica, adaptação ao paciente. O grupo passou da definição de senso comum ('bem-vindo ao consultório') a uma definição com limites e formas, e dali a feedback, fala e silêncio e metacomunicação.",
+   "variacoes": "Perguntar pelos critérios de uma terapia ruim (feito na monitoria seguinte, mon-06); trocar o conceito-alvo (escuta, ética).",
+   "armadilhas": "A conversa pode ficar no senso comum se o facilitador não exigir definição e limite.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:13:13"
+  },
+  {
+   "nome": "Dinâmica - Devolução literal",
+   "objetivo": "Treinar a escuta e fazer o paciente se ouvir, o que já transforma.",
+   "competencias": [
+    "Escuta clínica",
+    "Acolhimento e validação"
+   ],
+   "configuracao": "Proposta, não realizada no encontro; duplas ou prática clínica.",
+   "tempo": "Não especificado.",
+   "materiais": "Nenhum.",
+   "consigna": "Escute o que a pessoa está falando e tente repetir para ela do mesmo jeito que ela te falou.",
+   "passos": [
+    "A pessoa fala sobre si",
+    "O ouvinte devolve o mais fielmente possível, na forma e no conteúdo",
+    "Observar a reação de quem se ouve ('eu falei isso?')"
+   ],
+   "feedback": "Fidelidade à forma e ao conteúdo, que é 'muito difícil' de conseguir.",
+   "exemplos_praticos": "Apenas descrita por João como exercício 'da humanista', com duas vantagens: treinar a escuta e permitir que a pessoa se escute.",
+   "variacoes": "Na sessão, como forma de acolhimento.",
+   "armadilhas": "Frente a frente é mais difícil guardar a literalidade.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:36:00"
+  },
+  {
+   "nome": "Dinâmica - Análise de atendimento clássico em vídeo",
+   "objetivo": "Discutir qualidade clínica e acolhimento a partir de atendimentos-modelo (caso Gloria: Rogers, Perls, Ellis).",
+   "competencias": [
+    "Acolhimento e validação",
+    "Intervenção",
+    "Feedback clínico"
+   ],
+   "configuracao": "Grupo todo assistindo junto com pausas, ou tarefa individual com comentários no grupo de mensagens.",
+   "tempo": "Não realizada neste encontro por falta de tempo.",
+   "materiais": "Vídeo do atendimento de Albert Ellis (o atendimento começa por volta dos 7 minutos).",
+   "consigna": "Assistam ao atendimento do Ellis e digam o que acharam do acolhimento dele. Quem gostar, sustente por que é bom.",
+   "passos": [
+    "Enviar o vídeo",
+    "Cada um assiste e comenta no grupo",
+    "Ou assistir junto, parando a cada 10 minutos para discutir, como nos primeiros aprimoramentos clínicos da Allos"
+   ],
+   "feedback": "João adianta a opinião ('péssimo atendimento') como provocação para quem quiser defender o contrário; uma participante lembra que a sessão deve ser julgada como um todo, não por intervenções isoladas.",
+   "exemplos_praticos": "Ficou para a monitoria seguinte (mon-06), em que o grupo assiste Ellis e aponta o que incomoda.",
+   "variacoes": "Comparar os três terapeutas do caso Gloria.",
+   "armadilhas": "Julgar a sessão por um trecho que deu certo.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "1:20:35"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Enquadrar a mudança de condução",
+   "descricao": "Explica que é sua primeira monitoria de terça (antes de Alan) e qual é a expectativa do grupo.",
+   "exemplo": "'A expectativa de um grupo de monitoria é a gente justamente monitorar e aprimorar as nossas capacidades clínicas.'",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Rodada diagnóstica e recalibragem",
+   "descricao": "Pergunta quem atende, onde e em que etapa da graduação está; ao ver que a maioria não atende, muda o plano e volta aos 'primórdios' da monitoria.",
+   "exemplo": "'Para eu ter um norte de como a gente organizar a nossa prática de hoje.'",
+   "ts": "0:01:09"
+  },
+  {
+   "movimento": "Checar repertório antes do material",
+   "descricao": "Pergunta se conhecem o caso Gloria antes de usá-lo.",
+   "exemplo": "'Vocês já viram os atendimentos do caso Glória por acaso?'",
+   "ts": "0:05:35"
+  },
+  {
+   "movimento": "Acolher o desvio sem perder o fio",
+   "descricao": "Responde à pergunta institucional, divide a resposta com Diogo e fecha o parêntese.",
+   "exemplo": "'Explicações muito superficiais por enquanto, mas também pra gente não perder o ponto da monitoria.'",
+   "ts": "0:10:59"
+  },
+  {
+   "movimento": "Pergunta fechada, canais múltiplos",
+   "descricao": "Pede um número definido de critérios e aceita respostas por áudio ou chat.",
+   "exemplo": "'Pode ser por áudio, pode ser por chat, fica a preferência de vocês.'",
+   "ts": "0:12:07"
+  },
+  {
+   "movimento": "Anotar e devolver",
+   "descricao": "Resume o que cada um disse, mostrando escuta e produzindo síntese para o grupo.",
+   "exemplo": "'O que eu anotei que você falou então foi capacidade de acolhimento, escuta qualificada...'",
+   "ts": "0:14:54"
+  },
+  {
+   "movimento": "Do chavão ao conceito",
+   "descricao": "Introduz o compromisso epistêmico e exige definição e limite do termo mais citado.",
+   "exemplo": "'O que que significa acolher? Como que vocês definem acolher?' e depois 'você acha que acolhimento tem limite?'",
+   "ts": "0:19:15"
+  },
+  {
+   "movimento": "Teoria no momento oportuno",
+   "descricao": "Só se apresenta como junguiano quando a teoria de Jung ilumina o ponto em discussão.",
+   "exemplo": "'Minha área de estudo é a psicologia analítica, e o Jung fala uma coisa muito interessante: compreensão demais tem limite.'",
+   "ts": "0:23:55"
+  },
+  {
+   "movimento": "Ler o chat em voz alta",
+   "descricao": "Integra periodicamente as contribuições escritas, dando lugar a quem não fala.",
+   "exemplo": "'Vou só ler o chat aqui para ninguém ficar com raiva de mim depois.'",
+   "ts": "0:30:15"
+  },
+  {
+   "movimento": "Ampliar sem desautorizar",
+   "descricao": "Relativiza uma tese do grupo mostrando quando o oposto tem lugar.",
+   "exemplo": "'Mas não entendam errado, isso tem lugar às vezes' (a comparação como intervenção planejada).",
+   "ts": "0:29:13"
+  },
+  {
+   "movimento": "Exemplo extremo com ressalva",
+   "descricao": "Usa uma anedota que leva o ponto ao absurdo, deixando clara a advertência ética.",
+   "exemplo": "'Pelo amor de Deus, não façam isso na clínica de vocês' (anedota de Jung).",
+   "ts": "0:39:58"
+  },
+  {
+   "movimento": "Convocar especialista de outra abordagem",
+   "descricao": "Pede a Diogo a perspectiva behaviorista e aceita a correção de que pensava na TCC.",
+   "exemplo": "'Como que é no behaviorismo, Diogão?'",
+   "ts": "0:52:33"
+  },
+  {
+   "movimento": "Recontextualizar críticas",
+   "descricao": "Evita caricaturas de abordagens, pondo cada técnica na proposta do modelo.",
+   "exemplo": "'Tem que ser colocado em contexto: a TCC é uma abordagem que se propõe muito a ser psicoeducativa.'",
+   "ts": "0:57:32"
+  },
+  {
+   "movimento": "Responder com a própria prática, sem prescrever",
+   "descricao": "Diante de uma dúvida prática, conta o que faz e convida ao teste.",
+   "exemplo": "'Se o que eu faço é a melhor forma, não sei. Mas se você quiser testar, testa e depois me conta.'",
+   "ts": "1:03:36"
+  },
+  {
+   "movimento": "Ler o não verbal",
+   "descricao": "Nota a expressão pensativa de uma participante e a convida a falar, o que traz o caso ilustrativo.",
+   "exemplo": "'Tô vendo você olhando para o teto, que que você tá pensando?'",
+   "ts": "1:05:09"
+  },
+  {
+   "movimento": "Fechar com provocação e tarefa",
+   "descricao": "Revela uma opinião forte para instigar defesa, envia material, sugere assistir junto, passa o formulário de feedback e reafirma a regularidade.",
+   "exemplo": "'Eu acho um péssimo atendimento, horrível, mas caso alguém goste, eu ia adorar ouvir como vocês sustentariam que aquilo é bom.'",
+   "ts": "1:20:35"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Defina 'acolhimento' antes de exigi-lo de si ou de um colega.",
+   "justificativa": "Palavras-chavão não orientam a prática nem permitem feedback preciso.",
+   "contexto": "Ao dar ou receber feedback clínico.",
+   "competencia": "Feedback clínico",
+   "ts": "0:20:18"
+  },
+  {
+   "dica": "Não se compare ao paciente nem o compare a outros sem propósito.",
+   "justificativa": "A competição de sofrimento tira a pessoa da compreensão de si como sistema próprio.",
+   "contexto": "Sempre, salvo como intervenção planejada (por exemplo, um diagnóstico estatístico).",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:29:13"
+  },
+  {
+   "dica": "Desconfie quando você concorda com tudo o que o paciente diz.",
+   "justificativa": "Compreensão sem oposição leva a abraçar o sintoma e pode ser condescendência violenta.",
+   "contexto": "Quando você se pega justificando as escolhas neuróticas do paciente.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:23:55"
+  },
+  {
+   "dica": "Evite virar o 'grilo falante' do paciente.",
+   "justificativa": "O terapeuta que só critica gera dependência do seu pensamento crítico.",
+   "contexto": "Terapias muito confrontativas.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:31:37"
+  },
+  {
+   "dica": "Acolha o sentimento, não necessariamente o conteúdo.",
+   "justificativa": "É possível acolher o que a pessoa sente mesmo que ela esteja errada e trabalhar pela mudança; acolher sem crítica sensível não é psicoterapia.",
+   "contexto": "Relatos em que o paciente agiu mal.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:34:16"
+  },
+  {
+   "dica": "Pratique a devolução literal do que o paciente disse.",
+   "justificativa": "Treina a escuta e faz o paciente se ouvir, o que já gera transformação.",
+   "contexto": "Treino de escuta e sessões.",
+   "competencia": "Escuta clínica",
+   "ts": "0:36:00"
+  },
+  {
+   "dica": "Ajuste a intensidade e a forma do acolhimento a cada paciente e a cada sessão.",
+   "justificativa": "Há quem se acolha no silêncio e quem se acue com calor excessivo; o que serviu numa sessão pode não servir na próxima.",
+   "contexto": "Sempre, sobretudo no início.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:45:25"
+  },
+  {
+   "dica": "Não pare na validação.",
+   "justificativa": "Ela ajuda quem não tem ambientes validantes, mas só escutar e acenar não promove mudança.",
+   "contexto": "Terapias 'boas' em que nada muda.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:44:27"
+  },
+  {
+   "dica": "Escolha falar ou calar a partir da formulação do caso e da proposta da abordagem.",
+   "justificativa": "Fala e silêncio são ferramentas; o que decide é a função que cada um terá naquele caso.",
+   "contexto": "Ao definir o estilo de intervenção.",
+   "competencia": "Intervenção",
+   "ts": "0:52:37"
+  },
+  {
+   "dica": "Só se autorrevele depois de avaliar o caso e em favor do paciente.",
+   "justificativa": "Autorrevelação impensada pode ser violenta e é um erro ético; bem indicada, é uma forma de acolhimento.",
+   "contexto": "Quando a experiência do terapeuta pode ajudar o paciente a construir possibilidades.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:55:31"
+  },
+  {
+   "dica": "Peça feedback ao paciente depois da primeira sessão, da primeira semana e do primeiro mês.",
+   "justificativa": "O paciente acha que não pode dar feedback ao terapeuta; é preciso 'ensiná-lo a ser paciente'.",
+   "contexto": "Início de todo processo e sempre que houver dúvida sobre o próprio estilo.",
+   "competencia": "Feedback clínico",
+   "ts": "1:03:36"
+  },
+  {
+   "dica": "Metacomunique a relação quando tiver uma dúvida sobre ela.",
+   "justificativa": "Perguntar 'estou falando demais?' é legítimo; o paciente não tem outro lugar para falar dos incômodos com o terapeuta.",
+   "contexto": "Dúvidas sobre presença, ritmo e incômodos.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:05:09"
+  },
+  {
+   "dica": "Avalie uma intervenção nova na sessão seguinte e peça feedback de novo.",
+   "justificativa": "Como uma medicação, só se sabe testando; não há regra que dispense o teste.",
+   "contexto": "Ao mudar de estratégia.",
+   "competencia": "Intervenção",
+   "ts": "1:06:35"
+  },
+  {
+   "dica": "Não presuma que o paciente já percebeu o que você percebeu.",
+   "justificativa": "Essa suposição leva a intervir de menos e a trabalhar com a própria fantasia sobre o caso.",
+   "contexto": "Ao decidir devolver ou não uma hipótese.",
+   "competencia": "Intervenção",
+   "ts": "1:08:34"
+  },
+  {
+   "dica": "Nomeie o problema da relação que os dois percebem e ninguém fala.",
+   "justificativa": "Como o grande Outro de Lacan, o não dito paralisa; o psicólogo precisa saber manejar essa comunicação.",
+   "contexto": "Tensões na relação terapêutica.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:10:59"
+  },
+  {
+   "dica": "Varie as entradas de sessão conforme o paciente.",
+   "justificativa": "'Como foi sua semana?' pode fechar certos pacientes; a mesma abertura para todos cristaliza o terapeuta.",
+   "contexto": "Início de cada sessão.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "1:14:56"
+  },
+  {
+   "dica": "Com pacientes que contêm a emoção, experimente focar nas sensações corporais.",
+   "justificativa": "No relato de uma estagiária, orientada pela supervisão, isso permitiu que o choro contido aparecesse.",
+   "contexto": "Emoção presente mas bloqueada; com hipótese clara.",
+   "competencia": "Aprofundamento",
+   "ts": "1:13:59"
+  },
+  {
+   "dica": "Quando o paciente pedir que você 'diga a verdade', considere explicar o seu raciocínio.",
+   "justificativa": "Perguntar 'se eu dissesse, você acreditaria?' mostra por que a confrontação direta não funcionaria e envolve o paciente no método.",
+   "contexto": "Convicções rígidas (no relato, ideação persecutória).",
+   "competencia": "Psicoeducação",
+   "ts": "1:18:34"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O critério mais importante para saber se um psicólogo é bom é a capacidade de receber feedback, bom e ruim.",
+   "argumento": "Na psicologia a relação é o que mais importa; quem não ouve 'isso me incomodou' não lida com afetos alheios; quem abraça elogios sem questioná-los também erra.",
+   "contraponto": "Critérios de estilo (falar pouco, ser calmo) e a crítica a Perls por ser agressivo.",
+   "implicacao": "Pedir e acolher feedback como parte do manejo clínico.",
+   "quem": "João de Bragança",
+   "ts": "0:49:45"
+  },
+  {
+   "tese": "Compreensão demais tem limite: sem oposição saudável não há dialética.",
+   "argumento": "O terapeuta que compreende tudo passa a justificar as neuroses junto com o paciente (Jung).",
+   "contraponto": "Acolhimento como compreensão ilimitada.",
+   "implicacao": "Preservar a diferença e a contraposição na relação.",
+   "quem": "João de Bragança",
+   "ts": "0:23:55"
+  },
+  {
+   "tese": "Acolhimento é uma recepção que permite a transformação, não concordância.",
+   "argumento": "Concordar com tudo, como um chat de IA, não acolhe; sem crítica sensível e empática não há psicoterapia.",
+   "contraponto": "O acolhimento 'almofadado' do senso comum.",
+   "implicacao": "Acolher o sentimento e devolver o conteúdo de modo que possa mudar.",
+   "quem": "João de Bragança e participantes",
+   "ts": "0:36:00"
+  },
+  {
+   "tese": "Acolhimento só como escuta é perigoso.",
+   "argumento": "A validação gera ganhos em quem não tem ambiente validante, mas não promove mudança.",
+   "contraponto": "O senso comum de que acolher é só escutar.",
+   "implicacao": "Combinar validação e intervenções de mudança.",
+   "quem": "Diogo",
+   "ts": "0:44:27"
+  },
+  {
+   "tese": "Cada forma de acolhimento tem seu próprio limite; o bom psicólogo dinamiza entre as formas.",
+   "argumento": "O acolhimento caloroso e o confrontativo têm cada um o seu excesso, e o paciente não é constante.",
+   "contraponto": "'Não há limite, há formas' (uma participante).",
+   "implicacao": "Variar a forma de acolher sessão a sessão.",
+   "quem": "João de Bragança",
+   "ts": "0:45:25"
+  },
+  {
+   "tese": "A técnica só pode ser julgada dentro da proposta da abordagem.",
+   "argumento": "A TCC fala mais porque é psicoeducativa; a psicanálise cala para não atrapalhar a transferência, e para ela a psicoeducação é um problema.",
+   "contraponto": "Críticas caricatas ('o psicólogo da TCC não cala a boca').",
+   "implicacao": "Avaliar fala e silêncio pelos objetivos de cada modelo.",
+   "quem": "João de Bragança",
+   "ts": "0:57:32"
+  },
+  {
+   "tese": "Tudo o que o terapeuta faz (fala, silêncio, autorrevelação) deve servir aos objetivos terapêuticos.",
+   "argumento": "Autorrevelações impensadas podem ser violentas e são erros éticos; qual o sentido de falar de si no setting senão pelo paciente?",
+   "contraponto": "Autorrevelação espontânea, 'sem pensar'.",
+   "implicacao": "Planejar a autorrevelação depois de avaliar o caso.",
+   "quem": "Uma participante (TCC)",
+   "ts": "0:56:28"
+  },
+  {
+   "tese": "A psicanálise que intervém de menos corre o risco de trabalhar com a fantasia do analista em vez do caso.",
+   "argumento": "Não se pode supor que o paciente deduz o que o analista deduz; a centralidade da fantasia na teoria reflete o seu método e também um dos seus riscos.",
+   "contraponto": "Uma leitura do terceiro analítico: 'se eu percebo, ele percebe; não preciso dizer'.",
+   "implicacao": "Devolver hipóteses em vez de presumir que o paciente as tem.",
+   "quem": "Diogo",
+   "ts": "1:08:34"
+  },
+  {
+   "tese": "O terapeuta não melhora com o tempo, ele piora, se cristalizar a sua forma de trabalhar.",
+   "argumento": "A mesma abertura para todos faz de todo caso o mesmo caso.",
+   "contraponto": "A crença de que experiência acumulada garante qualidade.",
+   "implicacao": "Manter a prática deliberada e variar as entradas.",
+   "quem": "João de Bragança",
+   "ts": "1:15:58"
+  },
+  {
+   "tese": "O atendimento de Albert Ellis a Gloria é péssimo.",
+   "argumento": "Não desenvolvido nesta sessão (fica para a seguinte); uma participante acrescenta que a sessão deve ser julgada como um todo.",
+   "contraponto": "Quem veja algo de bom nele, desafiado por João a sustentar a posição.",
+   "implicacao": "Julgar atendimentos inteiros, não trechos.",
+   "quem": "João de Bragança",
+   "ts": "1:20:35"
+  },
+  {
+   "tese": "O filme de Perls com Gloria é interessante e não um contraexemplo da Gestalt.",
+   "argumento": "A Gestalt não prescreve a personalidade do terapeuta; Perls desenvolveu uma prática intensamente interventiva.",
+   "contraponto": "Uma participante de Gestalt e seus professores, que o consideram encenado e fora do padrão.",
+   "implicacao": "Separar a abordagem do estilo pessoal do terapeuta.",
+   "quem": "João de Bragança",
+   "ts": "0:49:45"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Não adianta ficar nas palavras-chavão que o senso comum conhece: para uma prática séria, a gente precisa definir os conceitos.",
+   "tema": "Compromisso epistêmico",
+   "ts": "0:20:18"
+  },
+  {
+   "texto": "Compreensão demais tem limite, porque chega um ponto em que não há uma conversa entre duas pessoas.",
+   "tema": "Limite da compreensão",
+   "ts": "0:23:55"
+  },
+  {
+   "texto": "Eu te compreendo tanto que abraço o seu sintoma junto com você.",
+   "tema": "Limite da compreensão",
+   "ts": "0:25:07"
+  },
+  {
+   "texto": "Acolher é oferecer à pessoa uma compreensão dela enquanto sistema próprio, e não enquanto alguém sempre comparado a outros.",
+   "tema": "Acolhimento",
+   "ts": "0:29:13"
+  },
+  {
+   "texto": "O acolhimento demais pode quase gerar uma condescendência, e aí o paciente está sendo violentado e muitas vezes nem percebe.",
+   "tema": "Acolhimento",
+   "ts": "0:32:42"
+  },
+  {
+   "texto": "Acolhimento não é falar tudo o que a pessoa quer ouvir.",
+   "tema": "Acolhimento (participante)",
+   "ts": "0:33:11"
+  },
+  {
+   "texto": "O acolhimento é uma recepção do sujeito que permite a transformação depois.",
+   "tema": "Acolhimento",
+   "ts": "0:36:00"
+  },
+  {
+   "texto": "Só ficar ouvindo e acenando com a cabeça não promove mudança.",
+   "tema": "Validação (Diogo)",
+   "ts": "0:44:27"
+  },
+  {
+   "texto": "Como você vai lidar com os afetos das pessoas se não sabe lidar com o seu próprio afeto?",
+   "tema": "Feedback",
+   "ts": "0:51:34"
+  },
+  {
+   "texto": "Tudo o que você faz, tudo o que você fala, cada respiração, cada silêncio: está servindo a quê?",
+   "tema": "Intervenção (participante)",
+   "ts": "0:56:28"
+  },
+  {
+   "texto": "Em algum nível, você tem que ensinar o seu paciente a ser paciente.",
+   "tema": "Feedback do paciente",
+   "ts": "1:04:44"
+  },
+  {
+   "texto": "Você só sabe se a intervenção deu certo na próxima sessão.",
+   "tema": "Avaliação da intervenção",
+   "ts": "1:06:23"
+  },
+  {
+   "texto": "Onde mais o paciente vai falar sobre os incômodos dele com o psicólogo, se não com o próprio psicólogo?",
+   "tema": "Metacomunicação",
+   "ts": "1:11:51"
+  },
+  {
+   "texto": "O terapeuta não melhora com o tempo, ele piora: se você cristalizar uma forma de iniciar todas as sessões, todo caso vai ser sempre o mesmo caso.",
+   "tema": "Expertise",
+   "ts": "1:15:58"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Acolher não é concordar.",
+   "mensagem": "Acolhimento é receber bem para permitir transformação; acolhe-se o sentimento, não se endossa tudo; um chat que diz o que você quer ouvir não acolhe.",
+   "roteiro": [
+    "Gancho",
+    "O que acolhimento NÃO é",
+    "Receber bem: não ser um muro",
+    "Devolver de modo que possa mudar",
+    "Acolher o sentimento, trabalhar a mudança"
+   ],
+   "corte_inicio": "0:33:11",
+   "corte_fim": "0:37:12"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Compreender demais é abraçar o sintoma.",
+   "mensagem": "Sem oposição saudável não há dialética: o terapeuta passa a justificar as neuroses junto com o paciente (Jung).",
+   "roteiro": [
+    "Frase de abertura",
+    "Explicação da ideia de Jung",
+    "Pergunta ao público"
+   ],
+   "corte_inicio": "0:23:55",
+   "corte_fim": "0:25:07"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "O critério nº 1 de um bom psicólogo.",
+   "mensagem": "Saber receber feedback, inclusive o bom: quem não ouve 'isso me incomodou' não lida com afetos alheios.",
+   "roteiro": [
+    "Gancho",
+    "Feedback ruim como manejo clínico",
+    "Feedback bom também engana",
+    "A relação é o que mais importa"
+   ],
+   "corte_inicio": "0:49:45",
+   "corte_fim": "0:52:10"
+  },
+  {
+   "formato": "post",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Bom psicólogo fala pouco? Depende da abordagem.",
+   "mensagem": "Behaviorismo: fala e silêncio têm função; TCC: psicoeducação e questionamento socrático; psicanálise: silêncio protege a transferência; Lacan: o corte.",
+   "roteiro": [
+    "Pergunta",
+    "Análise do comportamento",
+    "TCC",
+    "Psicanálise",
+    "Lacan",
+    "Conclusão: tudo em contexto"
+   ],
+   "corte_inicio": "0:52:37",
+   "corte_fim": "1:01:52"
+  },
+  {
+   "formato": "reels",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Terapeuta experiente é terapeuta melhor? Nem sempre.",
+   "mensagem": "Quem cristaliza a forma de trabalhar piora com o tempo; a prática deliberada existe para evitar isso.",
+   "roteiro": [
+    "Mito",
+    "Contra-argumento: cristalização",
+    "Todo caso vira o mesmo caso",
+    "O que fazer: variar e refletir"
+   ],
+   "corte_inicio": "1:14:56",
+   "corte_fim": "1:16:58"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Peça feedback ao seu paciente: ele acha que não pode dar.",
+   "mensagem": "Pergunte depois da primeira sessão, da primeira semana e do primeiro mês; metacomunicar a relação faz parte da terapia.",
+   "roteiro": [
+    "Gancho",
+    "Quando pedir",
+    "Como perguntar",
+    "Por que o paciente não fala sozinho"
+   ],
+   "corte_inicio": "1:03:36",
+   "corte_fim": "1:05:09"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Três jeitos de acolher: Rogers, Perls, Ellis.",
+   "mensagem": "O mesmo conceito em estilos opostos; cada forma de acolher tem o seu limite, e o bom terapeuta transita entre elas.",
+   "roteiro": [
+    "Rogers: acolhimento tranquilo",
+    "Perls: confrontação intensa",
+    "Ellis: (a discutir)",
+    "Cada forma tem seu limite",
+    "Dinamizar entre formas"
+   ],
+   "corte_inicio": "0:43:50",
+   "corte_fim": "0:46:31"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Quais são os seus 3 critérios para um bom psicólogo?",
+   "mensagem": "Caixinha de perguntas; mostrar como a monitoria transforma as respostas em conceitos definidos.",
+   "roteiro": [
+    "Caixinha",
+    "Respostas mais comuns",
+    "Bastidor: 'o que significa acolher?'"
+   ],
+   "corte_inicio": "0:13:13",
+   "corte_fim": "0:13:42"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Jung",
+   "contexto": "Compreensão demais tem limite; compreensão como apreensão da pessoa como sistema próprio; anedota da paciente agressiva; frase sobre não haver regras em psicoterapia."
+  },
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Filme do caso Gloria como exemplo de acolhimento tranquilo."
+  },
+  {
+   "nome": "Fritz Perls",
+   "contexto": "Filme do caso Gloria como exemplo de atendimento intensamente confrontativo; debate sobre ser ou não representativo da Gestalt."
+  },
+  {
+   "nome": "Albert Ellis",
+   "contexto": "Atendimento a Gloria ('Albertes' na legenda), que João considera péssimo e deixa como tarefa."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Caso Dora (falta de acolhimento, segundo um participante); recomendação de intervir no ato falho."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Corte da sessão; grande Outro como tabu da relação terapêutica."
+  },
+  {
+   "nome": "Scott D. Miller",
+   "contexto": "Associado por João à linha de pesquisa em prática deliberada que inspirou a Allos."
+  },
+  {
+   "nome": "Judith Beck",
+   "contexto": "Citada por uma participante ('a própria Beck, primeira página do livro verde', identificação incerta) para dizer que na TCC o terapeuta não fica calado e a construção é colaborativa."
+  },
+  {
+   "nome": "Slavoj Žižek",
+   "contexto": "Exemplo do grande Outro em 'Como ler Lacan' (o segredo de família no Natal)."
+  },
+  {
+   "nome": "Wilfred Bion",
+   "contexto": "Citado por Diogo, com dúvida, como possível autor do conceito de terceiro analítico."
+  },
+  {
+   "nome": "Sándor Ferenczi",
+   "contexto": "Citado por Diogo, com dúvida, como possível autor do conceito de terceiro analítico."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria de terça de João de Bragança (grupo temático de aprimoramento)",
+  "objetivo": "Monitorar e aprimorar as capacidades clínicas dos participantes; neste encontro, refletir sobre critérios de qualidade clínica e definir conceitos (acolhimento) segundo o compromisso epistêmico da prática deliberada.",
+  "publico": "Estudantes de psicologia em vários momentos da graduação, candidatos ao processo seletivo da Allos, ouvintes e estagiários que já atendem; Diogo participa como colega de outra abordagem.",
+  "tamanho": "Cerca de dez pessoas, online, com câmera opcional e participação por voz ou chat.",
+  "duracao": "Cerca de 1h20.",
+  "estrutura_padrao": "Abertura e rodada diagnóstica → contexto (quando há recém-chegados) → pergunta disparadora com número fechado → rodada de respostas com síntese do facilitador → definição e limite do conceito mais citado → comparação de abordagens com convidados → dúvidas práticas → fechamento com tarefa opcional (vídeo) e formulário de feedback.",
+  "papel_facilitador": "Calibrar a atividade ao nível do grupo, perguntar, anotar e devolver, exigir definições, trazer teoria (psicologia analítica), ler o chat, convocar colegas de outras abordagens, responder dúvidas com a própria prática sem prescrever e provocar com opiniões fortes no fechamento.",
+  "regras_combinados": "Encontro semanal às terças; participação por áudio ou chat, câmera opcional; formulário de feedback ao fim; um tema não se repete no encontro seguinte."
+ },
+ "reflexoes_do_facilitador": [
+  "Reconhece que é sua primeira monitoria de terça e que não conhece parte do grupo, e por isso faz uma rodada diagnóstica.",
+  "Decide 'dar um passinho para trás' e voltar aos primórdios da monitoria porque muitos ainda não atendem.",
+  "Pede desculpas por ter 'roubado' a fala de uma participante sobre compreensão ('devia ter deixado você falar antes').",
+  "Aceita a correção de que, ao perguntar a Diogo, pensava na TCC e não no behaviorismo.",
+  "Admite que passou do tempo e não conseguiu mostrar o vídeo de Ellis; decide não repetir o tema no próximo encontro para não ficar repetitivo.",
+  "Sobre a própria recomendação de pedir feedback ao paciente: 'se o que eu faço é a melhor forma, não sei'."
+ ],
+ "referencias_a_outros_encontros": [
+  "Antes, a monitoria de terça era conduzida por Alan; João fazia a de sexta com Diogo, que agora fica com a sexta.",
+  "Primórdios da Allos: 'grupo de prática de aprimoramento' e os primeiros aprimoramentos clínicos, em que o grupo assistia aos casos Gloria discutindo de 10 em 10 minutos.",
+  "Uma participante menciona uma conversa da semana anterior com outro facilitador/participante sobre compreensão e entendimento.",
+  "Continuação: a monitoria seguinte (mon-06, 'Critérios de uma terapia ruim') retoma os critérios e assiste Albert Ellis com Gloria.",
+  "Referência à 'paciente intrigante' do simulador de IA da Allos, usada em monitorias anteriores."
+ ],
+ "observacoes": "Legenda automática com muito ruído: 'Albertes' = Albert Ellis; 'Yung/Yum/Yuma' = Jung; 'Pros/Pearls' = Perls; 'Rots' provavelmente 'raiz'; 'Dig' = Žižek; 'aos/aulas/AVES' = Allos. Os participantes, nomeados na fala, foram anonimizados na nota. A atribuição de algumas falas é incerta: o relato do paciente com ideação persecutória parece ser do próprio João, e as falas sobre o grande Outro/Žižek também parecem ser dele. Nota do fichamento: o conceito de 'terceiro analítico' costuma ser atribuído a Thomas Ogden, e não a Bion ou Ferenczi, como supôs Diogo; o caso Gloria é a série de filmes didáticos 'Three Approaches to Psychotherapy' (1965). Todos os casos clínicos mencionados são reais e foram generalizados; o único material simulado citado é a 'paciente intrigante' do simulador de IA, usada como comparação. O vídeo de Ellis não foi exibido."
+}

@@ -1,0 +1,774 @@
+---
+tipo: "tese"
+tema: "Abordagens, teoria e ciência"
+n_teses: 153
+tags: ["tese"]
+---
+
+# Teses — Abordagens, teoria e ciência
+
+> [!abstract] 153 pontos de vista defendidos nos grupos e vídeos, cada um com o argumento, o contraponto e a implicação prática.
+> Ótimo ponto de partida para posts de opinião, debates em grupo e roteiros de vídeo.
+
+## Alan
+- **Responsabilizar-se quase sempre é acerto numa discussão tensa.**
+  - *Argumento:* Lacan: a psicanálise responsabiliza mais do que qualquer sistema jurídico ou religioso, e o analista responde até pela fantasia do paciente sobre ele.
+  - *Contra quem / contraponto:* A crítica de que a psicanálise desresponsabiliza o sujeito.
+  - *Implicação prática:* Trazer o problema para si e resolvê-lo em sessão.
+  - [[Alan 01 - Relação terapêutica tensionada]] [▶ 0:39:06](https://www.youtube.com/watch?v=EesAwF0Ee9E&t=2346s)
+- **Com pacientes que usam teoria para se eximir, a formulação concreta, até chocante, é clinicamente superior à teórica.**
+  - *Argumento:* A formulação teórica mantém a pessoa no plano das ideias, que é sua defesa (compensação adleriana); a concreta a traz de volta ao problema moral da vida.
+  - *Contra quem / contraponto:* A versão teórica tem mais adesão e é mais segura de conduzir; o choque depende de saber sustentá-lo.
+  - *Implicação prática:* Dosar o choque pela capacidade de manejar as consequências.
+  - [[Alan 02 - Construção frasal]] [▶ 1:26:25](https://www.youtube.com/watch?v=npsx_ip98fw&t=5185s)
+- **Forma/conteúdo é transteórico: é o círculo hermenêutico, é interpretar.**
+  - *Argumento:* Aparece na ACT, na Gestalt, em Lacan e em Jung ('sístole e diástole' (?)), com nomenclaturas diferentes.
+  - *Contra quem / contraponto:* Uma participante associou o conceito só à ACT.
+  - *Implicação prática:* Vocabulário comum para comparar abordagens.
+  - [[Alan 03 - Distância, intensidade, forma e conteúdo]] [▶ 1:30:23](https://www.youtube.com/watch?v=IZspYGtcvaE&t=5423s)
+- **A suposta neutralidade é o lugar em que mais se manipula.**
+  - *Argumento:* Não temos consciência o tempo todo de onde partimos, e a ênfase ao elucidar consequências constrói uma história.
+  - *Contra quem / contraponto:* 'Só dou autonomia e mostro consequências'; uma participante acrescenta que é menos perigoso assumir as próprias posições.
+  - *Implicação prática:* Consciência da própria posição em vez de ocultação.
+  - [[Alan 05 - Cosmovisão e clínica 2]] [▶ 0:38:07](https://www.youtube.com/watch?v=7cGsqpFnYx0&t=2287s)
+- **Se o terapeuta pensasse exatamente como o paciente, seria um duplo dele e a terapia não funcionaria.**
+  - *Argumento:* É a distância e a posição diferente que permitem dizer algo útil.
+  - *Contra quem / contraponto:* A ideia de que o terapeuta deve se apagar.
+  - *Implicação prática:* Bancar a própria posição e vigiar seu excesso pela consciência.
+  - [[Alan 05 - Cosmovisão e clínica 2]] [▶ 0:43:46](https://www.youtube.com/watch?v=7cGsqpFnYx0&t=2626s)
+- **Não existe observação sem teoria: sem cosmovisão não se entendem os fatos.**
+  - *Argumento:* Círculo hermenêutico (o sorvete), a querela dos métodos (Dilthey contra a filologia) e o fato de que todo método traz hipóteses teóricas.
+  - *Contra quem / contraponto:* 'Primeiro os fatos, depois a teoria'; a filologia como coleção de fatos.
+  - *Implicação prática:* Examinar o regime de discurso antes de afirmar fatos clínicos.
+  - [[Alan 05 - Cosmovisão e clínica 2]] [▶ 1:02:24](https://www.youtube.com/watch?v=7cGsqpFnYx0&t=3744s)
+- **Teoria psicológica é recorrência estatística codificada em linguagem teórica; a fenomenologia é a aposta na individualização.**
+  - *Argumento:* O complexo de Édipo e a estrutura cognitiva generalizam padrões; aplicá-los ao indivíduo é dedução, não observação.
+  - *Contra quem / contraponto:* Quem se declara fenomenológico e aplica saberes de grupo ao paciente.
+  - *Implicação prática:* Perguntar o que aquela experiência é para aquele sujeito.
+  - [[Alan 05 - Cosmovisão e clínica 2]] [▶ 1:14:38](https://www.youtube.com/watch?v=7cGsqpFnYx0&t=4478s)
+- **Rogers faz em atendimento mais do que prescreve nos livros.**
+  - *Argumento:* Há vídeos em que usa autorrevelação ('eu autêntico'), ausente de sua lista de reflexo simples, reflexo de sentimento e elucidação.
+  - *Contra quem / contraponto:* A leitura literal dos livros como descrição da prática.
+  - *Implicação prática:* Estudar abordagens também por atendimentos gravados.
+  - [[Alan 05 - Cosmovisão e clínica 2]] [▶ 1:23:21](https://www.youtube.com/watch?v=7cGsqpFnYx0&t=5001s)
+- **Nenhum esquema de aprofundamento é indicado ou contraindicado por teoria alguma; a escolha depende mais de estilo e personalidade.**
+  - *Argumento:* Todos são compatíveis com todas as abordagens; há só graus de afinidade ('tudo se aplica à psicanálise').
+  - *Contra quem / contraponto:* A ideia de que a abordagem determina a escuta; Alan admite que organiza por abordagem só pela comunicação.
+  - *Implicação prática:* Aprender e variar vários esquemas, qualquer que seja a abordagem.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:21:24](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=4884s)
+- **Em psicanálise não se faz síntese; por isso o pente não é associação livre.**
+  - *Argumento:* Ambos não aprofundam cada tema, mas no pente o terapeuta conduz e busca a forma comum.
+  - *Implicação prática:* Não justificar um pente malfeito como associação livre.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:31:03](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=5463s)
+- **A psicanálise popular (de filme, TV, YouTube) é concêntrica; a boa psicanálise vai em outra direção.**
+  - *Argumento:* A versão popular lê tudo em função de um centro pré-determinado.
+  - *Contra quem / contraponto:* A psicanálise 'americana' popularizada.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:12:21](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=4341s)
+- **Somos intuitivamente bons em interpretar e, por isso, precisamos treinar com consciência.**
+  - *Argumento:* Interpretamos o tempo todo (filmes, flerte, perigo na rua); ser bom apaga a consciência do processo, e sem consciência é muito difícil melhorar.
+  - *Implicação prática:* Fundamenta o método do aprimoramento clínico.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:38:46](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=5926s)
+- **Toda abordagem faz psicoeducação; a diferença está entre explicar e demonstrar.**
+  - *Argumento:* Vídeos de terapeutas de referência (Perls com Gloria, o corte lacaniano) mostram o método sendo ensinado em ato.
+  - *Contra quem / contraponto:* Abordagens que dizem não psicoeducar; Freud, que falava contra por rivalidade com Adler.
+  - *Implicação prática:* Ninguém escapa de psicoeducar; é melhor fazê-lo com consciência.
+  - [[Alan 07 - Psicoeducação]] [▶ 0:07:02](https://www.youtube.com/watch?v=a7aECd72834&t=422s)
+- **A didática comparativa é ótima para formar psicólogos e péssima para pacientes.**
+  - *Argumento:* No grupo, Alan faz espantalhos das abordagens para tensioná-las; com o paciente, isso soa como defesa ou desculpa.
+  - *Contra quem / contraponto:* O próprio estilo de ensino de Alan, se transposto para a clínica.
+  - *Implicação prática:* Com o paciente, falar só do que você faz e do que funciona.
+  - [[Alan 07 - Psicoeducação]] [▶ 1:07:53](https://www.youtube.com/watch?v=a7aECd72834&t=4073s)
+- **A primeira geração de psicólogos de Viena era mais rica que a psicologia atual.**
+  - *Argumento:* Formulações elegantes, criativas e próximas da clínica, das quais quase nada sobreviveu além de Freud e Jung.
+  - *Contra quem / contraponto:* A ideia de progresso linear na psicologia.
+  - *Implicação prática:* Vale estudar a história e os autores esquecidos.
+  - [[Alan 07 - Psicoeducação]] [▶ 0:06:00](https://www.youtube.com/watch?v=a7aECd72834&t=360s)
+- **O critério de acerto muda com a abordagem: concordância na fenomenologia, resistência na psicanálise.**
+  - *Argumento:* Na fenomenologia o paciente tem acesso privilegiado à própria mente; na psicanálise a verdade está interdita, e o incômodo sinaliza aproximação.
+  - *Implicação prática:* Saber em que referencial se está antes de interpretar a reação do paciente.
+  - [[Alan 08 - Escuta em fenomenologia]] [▶ 1:13:18](https://www.youtube.com/watch?v=iYbN23HFjAo&t=4398s)
+- **O problema do Freud é que ele é kantiano quando a psicanálise é hegeliana.**
+  - *Argumento:* Ler o inconsciente como véu com uma realidade atrás (o trauma) é Kant; para Lacan, leitor hegeliano, só existe o retorno do recalcado, e o recalque é produzido no ato analítico, por retroação.
+  - *Contra quem / contraponto:* O 'Freud americanizado', do trauma com consequências secundárias.
+  - *Implicação prática:* Apontar a falha de linguagem sem atribuir-lhe um sentido escondido.
+  - [[Alan 08 - Escuta em fenomenologia]] [▶ 1:55:40](https://www.youtube.com/watch?v=iYbN23HFjAo&t=6940s)
+- **Lacan faz uma leitura forte, não literal, de Freud.**
+  - *Argumento:* Jung, que conviveu com o primeiro Freud, descreve um Freud diferente do de Lacan; em Freud a chave hermenêutica é externa, mas a recusa de interpretar só é clara em Lacan.
+  - *Contra quem / contraponto:* Leitores para quem a posição lacaniana já está em Freud.
+  - *Implicação prática:* Distinguir, ao estudar, o que é de Freud e o que é da leitura lacaniana.
+  - [[Alan 08 - Escuta em fenomenologia]] [▶ 1:59:58](https://www.youtube.com/watch?v=iYbN23HFjAo&t=7198s)
+- **Qualquer ideia terá algum referencial teórico que a sustente, mas isso não a valida.**
+  - *Argumento:* 'Não tem nada tão estúpido que não tenha sido proposto por um psicólogo'; algumas possibilidades são mais ricas e potentes que outras.
+  - *Implicação prática:* Ter um autor que endosse uma prática não basta como justificativa.
+  - [[Alan 08 - Escuta em fenomenologia]] [▶ 0:58:54](https://www.youtube.com/watch?v=iYbN23HFjAo&t=3534s)
+- **Fazer uma clínica OK é fácil; fazer uma clínica muito, muito boa é quase impossível.**
+  - *Argumento:* A maioria das pessoas se beneficia de um pouco de direção (qualquer filosofia de vida bem estruturada); a excelência exige interpretação de verdade.
+  - *Implicação prática:* Dominar bem uma teoria já faz um bom clínico; o ideal (uma teoria por caso) é para quem busca mais.
+  - [[Alan 08 - Escuta em fenomenologia]] [▶ 1:20:01](https://www.youtube.com/watch?v=iYbN23HFjAo&t=4801s)
+- **Teorias são aceleradores interpretativos.**
+  - *Argumento:* Como potência → multiplicação → adição, a teoria poupa o trabalho de inventar do zero a compreensão de cada caso.
+  - *Implicação prática:* Hierarquia: inventar teoria por caso > conhecer muitas e escolher > dominar uma bem.
+  - [[Alan 08 - Escuta em fenomenologia]] [▶ 1:17:49](https://www.youtube.com/watch?v=iYbN23HFjAo&t=4669s)
+- **Skinner não refutou o inconsciente; tornou-o dispensável pela navalha de Ockham.**
+  - *Argumento:* Se o mesmo comportamento se explica sem o inconsciente, a entidade metafísica é hipótese fraca.
+  - *Contra quem / contraponto:* O próprio Alan mostra o limite da navalha: menos entidades nem sempre é mais provável.
+  - *Implicação prática:* Preferir ambiente e explicações diretas na escuta analítico-comportamental.
+  - [[Alan 09 - Escuta em psicanálise]] [▶ 0:27:26](https://www.youtube.com/watch?v=TTy5CqIpRBE&t=1646s)
+- **A TCC clássica 'interpreta com muleta', mas bons clínicos de TCC, na prática, simplesmente interpretam.**
+  - *Argumento:* Comparação com escolas que são 'filosofias, lógicas'; observação de vídeos de atendimentos reais.
+  - *Contra quem / contraponto:* A estudante de TCC: a escuta envolve função da crença, déficits de repertório, filtros de atenção e conceitualização.
+  - *Implicação prática:* Estudar vídeos reais para ver o que clínicos fazem além do protocolo.
+  - [[Alan 09 - Escuta em psicanálise]] [▶ 1:05:19](https://www.youtube.com/watch?v=TTy5CqIpRBE&t=3919s)
+- **Cada escola de psicologia universaliza um pedaço da realidade.**
+  - *Argumento:* Adler (poder), Freud (sexualidade, passado), TCC (distorções cognitivas): partem de algo razoável e o tornam o todo.
+  - *Contra quem / contraponto:* A leitura de cada escola como explicação completa.
+  - *Implicação prática:* Ler as abordagens como recortes parciais e úteis.
+  - [[Alan 09 - Escuta em psicanálise]] [▶ 1:13:22](https://www.youtube.com/watch?v=TTy5CqIpRBE&t=4402s)
+- **Os pressupostos de uma abordagem aparecem no raciocínio de quem a defende; entre TCC e análise do comportamento, o que é meio e o que é fim se inverte.**
+  - *Argumento:* Ao complexificar a TCC, a participante voltou sempre às crenças ('a realidade é fundamental para estimular o paciente a pensar corretamente'); um behaviorista diria que o fim é mudar o ambiente e o pensamento é meio.
+  - *Contra quem / contraponto:* A tréplica da participante (a TCC usa evidências da realidade), que Alan lê como confirmação do ponto.
+  - *Implicação prática:* Dominar uma abordagem estrutura o pensamento: mostra que você a entende e dificulta ver além dela.
+  - [[Alan 09 - Escuta em psicanálise]] [▶ 1:47:39](https://www.youtube.com/watch?v=TTy5CqIpRBE&t=6459s)
+- **A sistêmica não é novidade; a novidade histórica foi o Iluminismo — e a psicologia não funciona só por esclarecimento.**
+  - *Argumento:* A alquimia já operava do obscuro ao mais obscuro; na terapia, o paciente pode sair mais confuso e ainda assim sentir que se conhece melhor.
+  - *Contra quem / contraponto:* Professores que apresentam a sistêmica como grande novidade; a 'ideologia iluminista' da escola, encarnada na análise do comportamento (elogiada, porém, pela simplicidade terminológica).
+  - *Implicação prática:* Tolerar a complexidade e a não resolução imediata na clínica.
+  - [[Alan 10 - Escuta em sistêmica]] [▶ 0:17:49](https://www.youtube.com/watch?v=DPPCBauRuAo&t=1069s)
+- **A sistêmica não é 'terapia de família' e a psicologia analítica não é 'terapia de sonhos e mitos': o método independe do tema.**
+  - *Argumento:* Sistêmica é aptidão para a complexidade e conexão de pontos (num atendimento sistêmico de Alan, ninguém reconheceu a abordagem); na analítica, qualquer coisa pode ser paralelo.
+  - *Contra quem / contraponto:* A associação automática entre a abordagem e seu vocabulário típico.
+  - *Implicação prática:* Identificar abordagens pelo modo de escuta, não pelo conteúdo.
+  - [[Alan 10 - Escuta em sistêmica]] [▶ 0:30:51](https://www.youtube.com/watch?v=DPPCBauRuAo&t=1851s)
+- **O método comparativo é o método científico para falar de estrutura — e é o método da psicologia analítica.**
+  - *Argumento:* Darwin, a anatomia comparada, a linguística, Lévi-Strauss, a genealogia de Nietzsche (filólogo) e de Foucault chegam à estrutura por comparação.
+  - *Contra quem / contraponto:* A noção sociológica de estrutura (ex.: racismo estrutural), de outra linha epistêmica.
+  - *Implicação prática:* Entender a amplificação junguiana como comparação rigorosa, não como associação poética.
+  - [[Alan 10 - Escuta em sistêmica]] [▶ 1:35:13](https://www.youtube.com/watch?v=DPPCBauRuAo&t=5713s)
+- **A filologia é uma idiossincrasia de Jung, não parte fundamental do método da psicologia analítica.**
+  - *Argumento:* No último texto de Jung (2ª parte do vol. 18/1), ele corrige o que escreveu antes e afirma que nem a hipótese da compensação é axioma básico; a versão em 'O homem e seus símbolos' teria sido alterada por Marie-Louise von Franz.
+  - *Contra quem / contraponto:* Um comentador transcrito como 'Heráclito' (?), que se apoia nos caps. 9 e 10 do vol. 8/2.
+  - *Implicação prática:* Não reduzir o trabalho junguiano à amplificação mitológica.
+  - [[Alan 10 - Escuta em sistêmica]] [▶ 1:55:46](https://www.youtube.com/watch?v=DPPCBauRuAo&t=6946s)
+- **A teoria não dá conta do caso; ela entra depois, como ferramenta.**
+  - *Argumento:* É muito raro que a interpretação verdadeira encaixe nos 'nomezinhos teóricos'; as imagens da língua portuguesa são mais ricas e precisas.
+  - *Contra quem / contraponto:* Participantes que diagnosticavam com termos como narcisista, bipolar, neurose.
+  - *Implicação prática:* Primeiro achar a imagem do caso, depois recorrer à teoria para intervir.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 1:15:19](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=4519s)
+- **O estudo de caso é ciência ruim, mas arte indispensável; a psicologia clínica é saber tácito, entre arte e ciência.**
+  - *Argumento:* Os relatos são enviesados e distorcidos (pacientes de Jung e Freud contam outra história); a clínica é um 'saber fazer' que não se aprende lendo.
+  - *Contra quem / contraponto:* Quem trata relato de caso como evidência ou acha que teoria basta para clinicar.
+  - *Implicação prática:* Formar clínicos com casos, exercícios e demonstração.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 0:00:52](https://www.youtube.com/watch?v=VRappbW9ZNU&t=52s)
+- **Psicólogos param de pensar diante de uma citação teórica ('quando citou o autor, ganhou').**
+  - *Argumento:* Toda vez que Alan deu uma justificativa teórica no papel, a conversa parou e ninguém questionou; falta hábito de questionar Freud, Jung etc.
+  - *Contra quem / contraponto:* O próprio Alan considera que pode ser efeito da posição de autoridade que ocupa no grupo.
+  - *Implicação prática:* A intervisão precisa treinar a crítica de justificativas teóricas à luz do caso.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 1:48:52](https://www.youtube.com/watch?v=VRappbW9ZNU&t=6532s)
+- **Justificar uma conduta com um autor não a torna boa para o caso.**
+  - *Argumento:* Fica 'a impressão de que é permitido ao psicólogo ter opinião' vestida de teoria ('está escrito no Lacan').
+  - *Contra quem / contraponto:* Participante acrescenta que muitas práticas históricas eram erradas e não podem ser tomadas ao pé da letra.
+  - *Implicação prática:* O argumento clínico tem que se ancorar no material do caso.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 1:53:24](https://www.youtube.com/watch?v=VRappbW9ZNU&t=6804s)
+- **Apresentação de caso não é sobre o caso; é sobre a articulação entre teoria e prática.**
+  - *Argumento:* Dicas para o caso são tarefa da intervisão; a apresentação treina transformar um caso aleatório em paradigmático e canônico, por isso quase todos os dados podem ser trocados.
+  - *Contra quem / contraponto:* O receio de que alterar dados para proteger o sigilo empobreça a apresentação.
+  - *Implicação prática:* Sigilo e qualidade não competem, desde que se preserve o central.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 2:00:54](https://www.youtube.com/watch?v=VRappbW9ZNU&t=7254s)
+- **(No papel) O estranhamento com a proximidade entre terapeuta e paciente é de quem nunca clinicou de verdade.**
+  - *Argumento:* A história da psicologia é feita de atravessamentos (Jung atendeu a prima; outro pioneiro, nome ininteligível, talvez Fritz Perls (?), teve relações com paciente); muitos clínicos atendem conhecidos.
+  - *Contra quem / contraponto:* Diogo e outros apontam que isso pode comprometer o caso; Alan depois reconhece que a posição do personagem era provocação ('isca').
+  - *Implicação prática:* Material de debate, não recomendação.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 0:54:18](https://www.youtube.com/watch?v=VRappbW9ZNU&t=3258s)
+- **(No papel) Pensamentos e fantasias involuntários não são necessariamente sintoma; a consciência é atravessada o tempo todo.**
+  - *Argumento:* Flashes aleatórios surgem ao cozinhar ou em qualquer atividade sem prejudicá-la; 'quem você deseja não é vontade sua'.
+  - *Contra quem / contraponto:* Participante com leitura junguiana: o que aparece de forma compulsória vem do inconsciente e aponta um problema da atitude consciente; outro: só é neurótico se paralisa.
+  - *Implicação prática:* Debate aberto sobre quando uma fantasia do terapeuta é clinicamente relevante.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 1:34:30](https://www.youtube.com/watch?v=VRappbW9ZNU&t=5670s)
+- **A formulação estrutural do Diogo não reflete a cosmovisão da análise do comportamento; combina mais com Hegel.**
+  - *Argumento:* O raciocínio gira em torno de senhor/escravo e dono/brinquedo; o contracontrole skinneriano aparece só em algum nível.
+  - *Contra quem / contraponto:* A previsão do próprio Alan de que toda abordagem encaixaria perfeitamente.
+  - *Implicação prática:* Ao comparar abordagens, verificar se a formulação usa de fato as premissas da abordagem declarada.
+  - [[Alan 13 - Formulação de caso 2]] [▶ 1:08:57](https://www.youtube.com/watch?v=jVNAVbIyPmA&t=4137s)
+- **O que mais nos interessa costuma ser a nossa função inferior.**
+  - *Argumento:* Marie-Louise von Franz sobre os tipos psicológicos: quem adora pensar pensa mal; junguianos que amam imaginação ativa costumam ser racionais.
+  - *Implicação prática:* Desconfiar de autoimagens e de estereótipos tipológicos sobre pacientes.
+  - [[Alan 14 - Priorização clínica 1]] [▶ 1:45:21](https://www.youtube.com/watch?v=bhMBmA7D57s&t=6321s)
+- **A priorização freudiana é contraintuitiva e exige implicação na teoria.**
+  - *Argumento:* A atenção flutuante iguala tudo e busca a verdade na falha do discurso, ao contrário da escuta cotidiana.
+  - *Contra quem / contraponto:* Critérios intuitivos como estranheza, gravidade e opinião do paciente.
+  - *Implicação prática:* Quem quer priorizar pelo não-dito precisa estudar e gostar da teoria.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 0:17:33](https://www.youtube.com/watch?v=5S1N66EW-7w&t=1053s)
+- **A maioria dos terapeutas é unilateral na forma de ouvir.**
+  - *Argumento:* Ou sempre usam teoria ou sempre tentam cutucar o paciente achando uma contradição.
+  - *Implicação prática:* Ampliar de propósito o repertório de critérios antes de praticar.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 0:29:03](https://www.youtube.com/watch?v=5S1N66EW-7w&t=1743s)
+- **Teoria é um acelerador de informação.**
+  - *Argumento:* Com pouco material, a teoria completa o que não se sabe e gera pré-concepções úteis.
+  - *Contra quem / contraponto:* Máximas psicológicas e experiência de vida são fontes alternativas.
+  - *Implicação prática:* Estudar teoria e máximas para aumentar a criatividade clínica.
+  - [[Alan 16 - Intervenção]] [▶ 1:25:43](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=5143s)
+- **Um cego não guia ninguém: os pontos cegos do terapeuta limitam o que ele consegue tratar.**
+  - *Argumento:* É pouco provável ajudar bem numa questão que é um 'calo' seu, mesmo com técnica; superar isso só pela teoria é exceção.
+  - *Contra quem / contraponto:* Às vezes se consegue pela teoria.
+  - *Implicação prática:* A clínica convida a viver uma vida mais completa.
+  - [[Alan 16 - Intervenção]] [▶ 1:26:39](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=5199s)
+- **A psicologia é fragmentada enquanto campo do conhecimento, mas a clínica não precisa ser.**
+  - *Argumento:* O domínio e a consciência dos pressupostos de várias abordagens dão variedade e abrem o leque de ferramentas; por isso todo aprimoramento começa com um panorama.
+  - *Contra quem / contraponto:* O clínico preso a um único vocabulário.
+  - *Implicação prática:* Treinar tradução entre vocabulários e dedução a partir de premissas.
+  - [[Alan 18 - Terapia de casal]] [▶ 0:11:15](https://www.youtube.com/watch?v=Yt4_GhU3pqg&t=675s)
+- **Dá para raciocinar clinicamente 'de orelhada' numa abordagem que não se domina, mas é preciso saber quando isso funciona e quando não.**
+  - *Argumento:* Um participante acerta sobre Gestalt usando vocabulário humanista; outro erra a inflexão psicanalítica usando vocabulário junguiano.
+  - *Contra quem / contraponto:* Tanto o purismo quanto o ecletismo ingênuo.
+  - *Implicação prática:* Checar se a tradução preserva a premissa central da abordagem-alvo.
+  - [[Alan 18 - Terapia de casal]] [▶ 0:30:40](https://www.youtube.com/watch?v=Yt4_GhU3pqg&t=1840s)
+- **O 'gozo feminino Outro' de Lacan é uma produção da fantasia masculina (crítica reportada e apreciada por Alan).**
+  - *Argumento:* 'Produzo a periferia para retroativamente criar o centro', como o 'homem de bem' que precisa do 'vagabundo' (leitura junguiana de Cristo e do ladrão).
+  - *Contra quem / contraponto:* A leitura canônica da tábua da sexuação.
+  - *Implicação prática:* Desconfiar de teorias que definem o outro só como negação de si.
+  - [[Alan 18 - Terapia de casal]] [▶ 0:43:23](https://www.youtube.com/watch?v=Yt4_GhU3pqg&t=2603s)
+- **Enquanto as psicologias forem parciais, a atitude correta é humildade epistêmica e articulação entre referenciais.**
+  - *Argumento:* Jung: as psicologias são feitas de recortes (Adler, Freud); a síntese prematura faz ver na realidade uma teoria que não está lá. Alan: 'não deixou de ser verdade'.
+  - *Contra quem / contraponto:* Teorias totalizantes da psique.
+  - *Implicação prática:* 'Antes do almoço adleriano, depois do almoço freudiano.'
+  - [[Alan 18 - Terapia de casal]] [▶ 1:18:24](https://www.youtube.com/watch?v=Yt4_GhU3pqg&t=4704s)
+- **Nas abordagens conhecidas, a loucura só se define em relação à realidade ou ao laço social.**
+  - *Argumento:* Lacan (psicose como dificuldade de laço), Jung (Joyce e a filha; o filho do serralheiro e Schopenhauer), TCC (realidade), fenomenologia existencial (não há sujeito fora do mundo).
+  - *Contra quem / contraponto:* Critério puramente interno de loucura; Alan só imagina isso numa psicologia tomista, e diz que é chute.
+  - *Implicação prática:* O que separa sofrimento de criação é também a capacidade de fazer laço com o que se vive.
+  - [[Alan 18 - Terapia de casal]] [▶ 1:28:24](https://www.youtube.com/watch?v=Yt4_GhU3pqg&t=5304s)
+- **O panorama multiabordagem que abre os aprimoramentos existe para garantir a adesão ao exercício e implica uma 'máscara' de que toda a psicologia está certa.**
+  - *Argumento:* Sem ele, o participante chega ao exercício dizendo 'na psicanálise a gente não faz assim'. Encontros só de teoria obrigariam Alan a expor seus vieses.
+  - *Contra quem / contraponto:* Um participante observa que, se o campo se abrisse para discussão real, seria injusto esconder os vieses.
+  - *Implicação prática:* O bloco teórico deve ser curto e estar a serviço do exercício.
+  - [[Alan 18 - Terapia de casal]] [▶ 1:32:52](https://www.youtube.com/watch?v=Yt4_GhU3pqg&t=5572s)
+- **Uma mesma teoria sempre oferece várias inflexões clínicas.**
+  - *Argumento:* No caso, duas direções × três tons = seis caminhos bem distintos; isso é ainda mais verdadeiro na psicologia analítica.
+  - *Contra quem / contraponto:* A ideia de que cada abordagem prescreve uma conduta única.
+  - *Implicação prática:* Treinar flexibilidade também dentro do próprio referencial.
+  - [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] [▶ 1:08:31](https://www.youtube.com/watch?v=fRkymivFF9s&t=4111s)
+- **Os psicólogos se desligam da teoria dos outros, e isso é um problema.**
+  - *Argumento:* O engajamento do grupo foi menor numa monitoria teórica junguiana do que na de linguagem, porque 'a teoria do outro é do outro e não da gente'.
+  - *Contra quem / contraponto:* O sectarismo de abordagem ('não sou junguiano, então é menos verdadeiro').
+  - *Implicação prática:* Tratar as teorias como recursos de uma psicologia só, o que Alan chama de 'visualizar o que é psicologia de verdade'.
+  - [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] [▶ 1:17:25](https://www.youtube.com/watch?v=fRkymivFF9s&t=4645s)
+- **É perigoso explicitar os valores do terapeuta.**
+  - *Argumento:* As abordagens dizem o que é saudável; o paciente que performa aprende o vocabulário sem mudar a vida (apoio em Jung).
+  - *Contra quem / contraponto:* Abordagens que definem o saudável com clareza (senso de si, empoderamento).
+  - *Implicação prática:* Vigiar a psicoeducação implícita.
+  - [[Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica]] [▶ 0:33:32](https://www.youtube.com/watch?v=VCS9TBtwiMY&t=2012s)
+- **Uma única fala basta para um atendimento inteiro.**
+  - *Argumento:* Assim como Jung escreveu um seminário a partir de um parágrafo, uma fala bem analisada rende muito.
+  - *Contra quem / contraponto:* Quem reclama de ter só 20 ou 30 minutos de roleplay.
+  - *Implicação prática:* Treinar profundidade em vez de quantidade.
+  - [[Monitoria 03 - Alan - Análise da linguagem do paciente]] [▶ 0:41:08](https://www.youtube.com/watch?v=-e15B6p1EMo&t=2468s)
+- **Sem consciência do processo de escolha, quem escolhe o referencial não é o terapeuta.**
+  - *Argumento:* Sem critério explícito, decidem a personalidade e as preferências; objetividade exige consciência do processo.
+  - *Contra quem / contraponto:* O 'depende do caso'; a aluna afirma que a clínica é difícil e que soma fatores.
+  - *Implicação prática:* Explicitar e testar o próprio algoritmo de escolha.
+  - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] [▶ 0:37:56](https://www.youtube.com/watch?v=r4Q-Xi6Gntk&t=2276s)
+- **Misturar abordagens sem critério é mistureba.**
+  - *Argumento:* Sem critério de escolha, o critério vira o que é mais fácil de aplicar.
+  - *Contra quem / contraponto:* Ecletismo intuitivo; Alan não é contra misturar, é contra misturar sem critério consciente.
+  - *Implicação prática:* Regra geral clara, exceções delimitadas, critérios funcionais.
+  - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] [▶ 0:54:05](https://www.youtube.com/watch?v=r4Q-Xi6Gntk&t=3245s)
+- **A anamnese não é teoricamente neutra quanto ao seu resultado.**
+  - *Argumento:* A anamnese resulta numa direção clínica; é preciso saber o que leva a essa direção.
+  - *Contra quem / contraponto:* A aluna: a primeira sessão não tem nem deve ter direcionamento teórico, para não impor uma armadura teórica.
+  - *Implicação prática:* Explicitar o que se observa na anamnese e por quê.
+  - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] [▶ 0:16:33](https://www.youtube.com/watch?v=r4Q-Xi6Gntk&t=993s)
+- **Expectativa não é fundamento: a literatura sobre ela mede placebo e constrangimento.**
+  - *Argumento:* Estudos como o da sessão de alta medem a melhora logo depois de o terapeuta reforçar o progresso, e o paciente tem vergonha de dizer que não melhorou. O certo seria medir anos depois.
+  - *Contra quem / contraponto:* Miller e o Field Guide.
+  - *Implicação prática:* Ler criticamente o desenho das pesquisas antes de adotar 'fundamentos'.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 1:31:01](https://www.youtube.com/watch?v=nf32eXLKUrs&t=5461s)
+- **Mensurar é o jogo mais justo, e por isso vale medir com o instrumento de todos, mesmo discordando dele.**
+  - *Argumento:* No jogo teórico você pode estar certo e nunca ser aceito; se todos medem igual, 'quem ganha, ganha'. Com um instrumento próprio, 'estou competindo comigo mesmo'.
+  - *Contra quem / contraponto:* A padronização às vezes vira problema epistêmico, e Alan acha o instrumento de Miller pouco rígido.
+  - *Implicação prática:* A Allos mede do jeito de Miller, para comparação internacional, e do jeito que Alan julga melhor.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 1:07:37](https://www.youtube.com/watch?v=nf32eXLKUrs&t=4057s)
+- **A 'psicanálise' das pesquisas de evidência é psicodinâmica americanizada, e a lacaniana nem entra no radar.**
+  - *Argumento:* Os dados vêm dos EUA e do norte da Europa, onde a psicanálise lacaniana não existe, e os instrumentos são genéricos.
+  - *Contra quem / contraponto:* Dunker consideraria a psicodinâmica psicanálise; Gabriel Tupinambá, provavelmente não.
+  - *Implicação prática:* Cautela ao usar a literatura para julgar a psicanálise lacaniana, e oportunidade para gerar dados no Brasil.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 1:39:41](https://www.youtube.com/watch?v=nf32eXLKUrs&t=5981s)
+- **O raciocínio teórico não prediz a qualidade do atendimento; é fácil ver quem atende mal e difícil ver quem atende bem.**
+  - *Argumento:* Alan errou ao usar a proficiência teórica como critério no início da Allos (os pacientes discordaram). Com o belo e o feio é igual: o feio é consenso.
+  - *Contra quem / contraponto:* A participante que julga os colegas pela profundidade das falas; Alan concorda só quanto a detectar o ruim.
+  - *Implicação prática:* Avaliar vendo a pessoa atender.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 0:22:44](https://www.youtube.com/watch?v=oeCymlAmai4&t=1364s)
+- **Clinicar mais ou menos é fácil; clinicar bem é dificílimo.**
+  - *Argumento:* Não atrapalhar já ajuda muitos pacientes; a teoria da psicoterapia é complicadíssima e executá-la bem é mais difícil ainda.
+  - *Implicação prática:* Aliviar a ansiedade de iniciantes sem baixar a exigência.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 0:25:05](https://www.youtube.com/watch?v=oeCymlAmai4&t=1505s)
+- **A IA é ruim para clinicar e boa para simular paciente.**
+  - *Argumento:* É uma máquina de macaquear comportamento humano e reproduz camadas e consistência factual.
+  - *Contra quem / contraponto:* O entusiasmo com IA terapeuta; o próprio Alan relativiza a IA como só mais um jeito de fazer o que já fazia pessoalmente.
+  - *Implicação prática:* Usar a IA como parceira de roleplay e treino.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 0:41:04](https://www.youtube.com/watch?v=oeCymlAmai4&t=2464s)
+- **Saber teoria comparada não substitui saber atender.**
+  - *Argumento:* Dá para entender quem dirige o tratamento em 300 abordagens e não conseguir atender o paciente simulado.
+  - *Implicação prática:* Os parênteses teóricos servem ao treino, que é o centro do grupo.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 1:35:19](https://www.youtube.com/watch?v=oeCymlAmai4&t=5719s)
+- **As teorias clássicas são boas o suficiente; o que torna o atendimento excelente é o vocabulário e as imagens singulares do paciente.**
+  - *Argumento:* Freud serve para praticamente qualquer caso, mas o paciente produz imagens mais ricas e específicas do que as do livro.
+  - *Contra quem / contraponto:* O hábito de traduzir a fala do paciente para conceitos de manual ('falta').
+  - *Implicação prática:* Ficar com a imagem do paciente e explorá-la antes de conceituar.
+  - [[Prática Clínica 02 - Atendimento ao vivo e ecos da palavra]] [▶ 1:06:39](https://www.youtube.com/watch?v=1vq-Uefyf1w&t=3999s)
+- **Há uma tensão entre o entusiasmo com a teoria sobre aprendizagem e o engajamento na prática concreta, e um grupo prático precisa resolvê-la.**
+  - *Argumento:* No 1º encontro, mais teórico, as pessoas ficaram 40 minutos além do horário; no 2º, prático, saíram antes.
+  - *Contra quem / contraponto:* A expectativa dos participantes de um grupo mais expositivo.
+  - *Implicação prática:* Explicitar o contrato e ajustar o desenho (entrar com visualização).
+  - [[Prática Clínica 03 - Atenção flutuante, construção frasal e entonação]] [▶ 0:27:24](https://www.youtube.com/watch?v=m4vr6-_WOus&t=1644s)
+- **Sessões de 50 minutos uma vez por semana são uma convenção econômico-financeira, não clínica.**
+  - *Argumento:* Quase ninguém sabe justificá-la; a primeira geração (Freud, Jung) atendia todo dia; é improvável que toda a multiplicidade humana se resolva nesse formato.
+  - *Contra quem / contraponto:* A regra passada sem justificativa aos iniciantes.
+  - *Implicação prática:* O tempo pode virar ferramenta, pontual ou como regra da clínica.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 0:36:46](https://www.youtube.com/watch?v=do6RPg_flrg&t=2206s)
+- **Todas as posições teóricas da psicologia são profundamente unilaterais.**
+  - *Argumento:* É difícil crer que todos os problemas humanos sejam edípicos ou que todos apenas pensem errado.
+  - *Contra quem / contraponto:* Psicanálise e TCC tomadas como explicação universal.
+  - *Implicação prática:* Buscar diferenciação e desconfiar de regras únicas.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 0:40:03](https://www.youtube.com/watch?v=do6RPg_flrg&t=2403s)
+- **Buscamos teoria para nos defender da realidade (e do inconsciente), não para compreender o caso.**
+  - *Argumento:* O iniciante diante de um caso difícil corre atrás de curso e rótulo que o apaziguam; tema 'clássico' da primeira geração de psicanalistas.
+  - *Contra quem / contraponto:* O estudo de teóricos como fim.
+  - *Implicação prática:* Aprender psicologia deveria ser aprender a formular teoria para cada caso.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 1:30:23](https://www.youtube.com/watch?v=do6RPg_flrg&t=5423s)
+- **Uma taxonomia da clínica deve ser multimodal; presença ou 'entrega' não é etapa universal.**
+  - *Argumento:* Há clínicas em que a entrega é indesejável (psicanálise clássica, TCC clássica).
+  - *Contra quem / contraponto:* A visão de que presença plena é sempre condição da boa escuta.
+  - *Implicação prática:* Descrever habilidades num vocabulário que sirva a várias abordagens.
+  - [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]] [▶ 0:05:36](https://www.youtube.com/watch?v=d8jUUFt9yT0&t=336s)
+- **A maior parte das decisões clínicas não é teórica.**
+  - *Argumento:* Há dezenas ou centenas de decisões por sessão; não dá tempo de fazer a conexão teórica, e a teoria não alcança a especificidade do caso. A teoria costuma justificar as decisões maiores ou mais arriscadas.
+  - *Contra quem / contraponto:* A imagem do clínico que deduz cada intervenção da teoria.
+  - *Implicação prática:* Conhecer a própria posição ética ou imagem fundamental é tão importante quanto conhecer teoria.
+  - [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]] [▶ 0:49:17](https://www.youtube.com/watch?v=d8jUUFt9yT0&t=2957s)
+- **A teoria funciona como uma lente, ou uma ideologia no sentido marxista: cega em parte e revela em parte.**
+  - *Argumento:* Exemplos da teoria musical na ópera e do desvio de linguagem, que só significa algo para quem conhece psicanálise.
+  - *Implicação prática:* Ter várias lentes e consciência de que 'a lente é o viés'.
+  - [[Prática Clínica 07 - Como treinar cada elemento da interpretação]] [▶ 0:09:47](https://www.youtube.com/watch?v=0cTyM1BH_Yc&t=587s)
+- **Repertório, consciência e track record são os três princípios gerais de qualquer treino de interpretação.**
+  - *Argumento:* O repertório amplia as reconstruções possíveis; a consciência permite ver erros sistemáticos; o registro corrige a fantasia sobre a própria competência.
+  - *Contra quem / contraponto:* Resistência de psicanalistas e humanistas a medir a clínica, contornada fazendo track record na arte.
+  - *Implicação prática:* Estudar amplamente, explicitar o raciocínio e anotar a própria clínica.
+  - [[Prática Clínica 07 - Como treinar cada elemento da interpretação]] [▶ 0:36:19](https://www.youtube.com/watch?v=0cTyM1BH_Yc&t=2179s)
+- **Ninguém é dono de técnica; a divisão das técnicas por abordagem é muito frouxa.**
+  - *Argumento:* A cadeira vazia é anterior a Beck e a Moreno; Jung teria feito dessensibilização nos anos 1910 ('até onde sei'); os clássicos (Freud, Adler, Ferenczi (?)) já faziam quase tudo o que hoje se atribui a TCC, ACT e FAP.
+  - *Contra quem / contraponto:* A 'colonização ideológica barata' de manuais e escolas que se apropriam das técnicas.
+  - *Implicação prática:* Não abandonar a própria abordagem por causa de uma técnica, e sim entender como ela cabe no próprio frame.
+  - [[Prática Clínica 07 - Como treinar cada elemento da interpretação]] [▶ 0:42:39](https://www.youtube.com/watch?v=0cTyM1BH_Yc&t=2559s)
+- **Quem troca de abordagem diante da demanda tem uma relação primária com a teoria.**
+  - *Argumento:* Não consegue articular o conhecimento teórico com a demanda específica.
+  - *Implicação prática:* Formar para articular teoria e demanda, e não para aplicar receitas.
+  - [[Prática Clínica 07 - Como treinar cada elemento da interpretação]] [▶ 0:54:59](https://www.youtube.com/watch?v=0cTyM1BH_Yc&t=3299s)
+- **Livros de prática clínica costumam ser intra-abordagem, e isso limita a transposição.**
+  - *Argumento:* Sem boa criatividade, é difícil transpor a prática de uma abordagem para outra; por isso ele prefere um livro que olha a literatura sem priorizar nenhuma abordagem.
+  - *Implicação prática:* Buscar literatura prática transteórica.
+  - [[Prática Clínica 07 - Como treinar cada elemento da interpretação]] [▶ 0:57:07](https://www.youtube.com/watch?v=0cTyM1BH_Yc&t=3427s)
+- **A evidência em psicologia costuma ser metodologicamente fraca, mas é o que há para trabalhar.**
+  - *Argumento:* A única revisão sobre banter é 'um péssimo estudo', mesmo assim indica que relações com provocação bem-humorada são mais sólidas.
+  - *Contra quem / contraponto:* Nem adesão acrítica à PBE nem descarte total da evidência.
+  - *Implicação prática:* Usar a evidência como indício, com senso crítico.
+  - [[YT Avaliação Clínica 01 - Meu paciente está pronto - Estágios de mudança]] [▶ 0:11:31](https://www.youtube.com/watch?v=NJBRCNbPc3Q&t=691s)
+- **Estrutura não torna a clínica robótica; a falta de estrutura, sim.**
+  - *Argumento:* A consciência do processo de decisão no início vira fluidez depois.
+  - *Contra quem / contraponto:* O medo de que a técnica mate a espontaneidade.
+  - *Implicação prática:* Começar muito estruturado.
+  - [[YT Avaliação Clínica 02 - Como fazer intervenções clínicas mais potentes]] [▶ 0:16:47](https://www.youtube.com/watch?v=u1uOyDlyjUU&t=1007s)
+- **A câmera ligada só vale se o terapeuta usa o corpo; caso contrário, melhor desligá-la.**
+  - *Argumento:* Muitos não reparam no corpo do paciente e não têm consciência do próprio; pesquisa citada indica preferência dos pacientes pelo áudio.
+  - *Contra quem / contraponto:* O preciosismo de quem diz que ver o corpo é fundamental, mas nunca o usa.
+  - *Implicação prática:* Decidir conscientemente sobre a câmera no atendimento online.
+  - [[YT Avaliação Clínica 04 - Máximas para a performance clínica]] [▶ 0:10:29](https://www.youtube.com/watch?v=TkaAFt7menY&t=629s)
+- **Nenhum esquema de aprofundamento pertence a uma abordagem.**
+  - *Argumento:* Qualquer modelo pode ser adaptado a qualquer escola, embora algumas se aproximem mais de certos modelos.
+  - *Contra quem / contraponto:* A associação automática entre técnica e escola.
+  - *Implicação prática:* Escolher o esquema pela capacidade do terapeuta e pela proposta clínica.
+  - [[YT Avaliação Clínica 05 - Como treinar sua escuta clínica - Um guia aprofundado]] [▶ 0:10:43](https://www.youtube.com/watch?v=pbCStH1GWgY&t=643s)
+- **Os professores são uma péssima representação da profissão da psicologia.**
+  - *Argumento:* São um grupo selecionado pela coordenação, com viés de abordagem, e muitos têm pouca experiência clínica; o aluno confunde a opinião deles com consenso da área.
+  - *Contra quem / contraponto:* A intuição, a vivência e o conhecimento teórico deles podem ser úteis; o problema é o pedestal sem critério.
+  - *Implicação prática:* Avaliar a fonte de cada dica antes de adotá-la.
+  - [[YT Avaliação Clínica 06 - Dicas para quem está inseguro em começar a atender]] [▶ 0:00:47](https://www.youtube.com/watch?v=RPVjdqdzcMY&t=47s)
+- **O paciente raramente vê problema na sua proposta clínica; quem vê são os colegas.**
+  - *Argumento:* A história da psicologia tem de tudo e os pacientes costumam gostar do que é fora da caixa; Yalom descobriu que as quebras de protocolo foram o que mais marcou seus pacientes.
+  - *Contra quem / contraponto:* Colegas e professores presos a consensos que veem como antiético ou maluco o que é diferente.
+  - *Implicação prática:* Ousar formatos, desde que a potência da proposta seja explicada.
+  - [[YT Avaliação Clínica 06 - Dicas para quem está inseguro em começar a atender]] [▶ 0:09:36](https://www.youtube.com/watch?v=RPVjdqdzcMY&t=576s)
+- **O corte lacaniano e o plano de ação da TCC têm a mesma função estrutural.**
+  - *Argumento:* Ambos mantêm o paciente engajado com a terapia entre sessões semanais, compensando a frequência menor que a da época de Freud.
+  - *Contra quem / contraponto:* A leitura que opõe as duas técnicas por afinidade teórica.
+  - *Implicação prática:* Avaliar ambos pelo critério do engajamento e evitá-los nas primeiras sessões.
+  - [[YT Avaliação Clínica 07 - Abertura e encerramento de sessão clínica]] [▶ 0:17:30](https://www.youtube.com/watch?v=t1vRYiBKZFY&t=1050s)
+- **O inaceitável é não refletir sobre a abertura e não ter um encerramento estruturado.**
+  - *Argumento:* Sem consciência o terapeuta provavelmente erra, e os clichês desconectam o paciente e não diferenciam o clínico.
+  - *Contra quem / contraponto:* O ideal seria um encerramento novo e próprio do caso, o que nem sempre é possível.
+  - *Implicação prática:* Montar e revisar um repertório de aberturas e encerramentos.
+  - [[YT Avaliação Clínica 07 - Abertura e encerramento de sessão clínica]] [▶ 0:25:17](https://www.youtube.com/watch?v=t1vRYiBKZFY&t=1517s)
+- **O mestre só fala uma vez: insistir numa interpretação é contraproducente.**
+  - *Argumento:* Se o ponto é importante, ele volta; insistir soa mal. Jung usava a frase contra Freud, a quem via preso às próprias hipóteses.
+  - *Contra quem / contraponto:* O terapeuta apaixonado pela própria intervenção.
+  - *Implicação prática:* Intervir uma vez e esperar o retorno do tema.
+  - [[YT Avaliação Clínica 09 - Entrevistas preliminares - como conduzir a primeira sessão em psicanálise]] [▶ 0:18:15](https://www.youtube.com/watch?v=UygS_g0ipl0&t=1095s)
+- **O vocabulário lacaniano é contingente; o que ele descreve vale para a psicanálise em geral.**
+  - *Argumento:* Alan usa o lacanês por domínio, 'por falta de opção', e diz que o tema das entrevistas pouco varia entre as psicanálises.
+  - *Contra quem / contraponto:* Quem rejeita o conteúdo por rejeitar Lacan.
+  - *Implicação prática:* Traduzir os conceitos para vocabulários mais gerais quando preciso.
+  - [[YT Avaliação Clínica 09 - Entrevistas preliminares - como conduzir a primeira sessão em psicanálise]] [▶ 0:08:17](https://www.youtube.com/watch?v=UygS_g0ipl0&t=497s)
+- **Os protocolos são apressados; o início deles é onde se pode 'brincar'.**
+  - *Argumento:* No Brasil os pacientes ficam mais tempo em terapia; os fundamentos do início fazem a pessoa comprar o tratamento até o fim.
+  - *Contra quem / contraponto:* A aplicação literal dos manuais.
+  - *Implicação prática:* Expandir e cuidar das primeiras sessões.
+  - [[YT Avaliação Clínica 10 - Primeira sessão em TCC - o que evitar]] [▶ 0:08:42](https://www.youtube.com/watch?v=zG7e2OoxWXU&t=522s)
+- **A nota independe do avaliador e da abordagem; só a qualidade do feedback varia.**
+  - *Argumento:* Diferença de cerca de 2,5% entre avaliadores em centenas de avaliações; novatos pontuam como veteranos.
+  - *Contra quem / contraponto:* A validade contra desfechos clínicos ainda não está demonstrada (dados incipientes).
+  - *Implicação prática:* Não escolher avaliador pela nota; monitorar a concordância entre avaliadores.
+  - [[YT Avaliação Clínica 11 - Como entrar na Allos]] [▶ 0:26:06](https://www.youtube.com/watch?v=HlYGLPwRMFc&t=1566s)
+- **A segurança e a empatia que importam são as percebidas pelo paciente, não as sentidas pelo terapeuta.**
+  - *Argumento:* Segurança interna tem correlação negativa com a satisfação do paciente; empatia sentida não prediz resultado; as percebidas, sim.
+  - *Contra quem / contraponto:* A associação intuitiva entre confiança do profissional e qualidade do serviço.
+  - *Implicação prática:* Treinar e avaliar comportamentos observáveis; desconfiar da própria sensação de acerto.
+  - [[YT Avaliação Clínica 12 - Como funciona o instrumento de avaliação]] [▶ 0:02:59](https://www.youtube.com/watch?v=jYbUiWwmF2I&t=179s)
+- **A abordagem pesa muito pouco na qualidade clínica medida.**
+  - *Argumento:* Os critérios são basilares; dá para fazer boa psicanálise e boa TCC.
+  - *Contra quem / contraponto:* Alan admite alguma correlação entre escola e nota; avaliador da mesma abordagem dá feedback melhor.
+  - *Implicação prática:* Avaliadores de qualquer abordagem podem pontuar; o comentário qualitativo pode pedir ajuda de colegas.
+  - [[YT Avaliação Clínica 12 - Como funciona o instrumento de avaliação]] [▶ 0:12:45](https://www.youtube.com/watch?v=jYbUiWwmF2I&t=765s)
+- **Construir relação é transteórico em todos os campos da saúde.**
+  - *Argumento:* Médico e psicanalista precisam do mesmo: atender bem, passar segurança e ter um método que faça sentido.
+  - *Implicação prática:* Critérios de relação aplicáveis a qualquer abordagem.
+  - [[YT Avaliação Clínica 12 - Como funciona o instrumento de avaliação]] [▶ 0:13:42](https://www.youtube.com/watch?v=jYbUiWwmF2I&t=822s)
+- **Evidências quase nunca são evidentes: os mesmos dados sustentam afirmações verdadeiras e contraditórias.**
+  - *Argumento:* Demonstração com bacon (relativo × absoluto) e com TCC (padrão-ouro × quase empate × placebo).
+  - *Contra quem / contraponto:* O discurso de que a PBE dispensa interpretação ('está na cara').
+  - *Implicação prática:* Ler pesquisas perguntando qual spin foi escolhido e o que foi omitido.
+  - [[YT Avaliação Clínica 14 - Bacon causa câncer - O padrão-ouro da psicologia]] [▶ 0:08:38](https://www.youtube.com/watch?v=3rJ2OGfqYkQ&t=518s)
+- **A superioridade da TCC sobre a psicanálise é pequena e medida sobre uma psicanálise desfigurada.**
+  - *Argumento:* Comparações usam psicodinâmica breve e estruturada; mesmo assim a diferença é de cerca de 10%, que não justificaria trocar de tratamento; quanto melhor a pesquisa, menor o ganho.
+  - *Contra quem / contraponto:* A leitura 'TCC é a melhor abordagem', que Alan reconhece não estar dissociada dos dados.
+  - *Implicação prática:* Relativizar hierarquias entre abordagens; valorizar vínculo e contexto.
+  - [[YT Avaliação Clínica 14 - Bacon causa câncer - O padrão-ouro da psicologia]] [▶ 0:12:50](https://www.youtube.com/watch?v=3rJ2OGfqYkQ&t=770s)
+- **Vender curso com base em 'a abordagem X é padrão-ouro' é um salto lógico.**
+  - *Argumento:* Seria preciso mostrar que estudar X melhora os resultados dos pacientes; essas pesquisas quase não existem e as que existem, segundo Alan, não mostram diferença.
+  - *Contra quem / contraponto:* Divulgadores de PBE e TCC que vendem cursos.
+  - *Implicação prática:* Exigir evidência de impacto da formação, não só da abordagem.
+  - [[YT Avaliação Clínica 14 - Bacon causa câncer - O padrão-ouro da psicologia]] [▶ 0:16:51](https://www.youtube.com/watch?v=3rJ2OGfqYkQ&t=1011s)
+- **Quem sabe muito de teoria (em especial de TCC) provavelmente atende pior porque a teoria está errada.**
+  - *Argumento:* Apresentada como a explicação mais simples para a correlação negativa entre conhecimento teórico e resultados.
+  - *Contra quem / contraponto:* Afirmação forte e sem fonte no vídeo.
+  - *Implicação prática:* Tratar teorias como hipóteses a testar contra resultados.
+  - [[YT Avaliação Clínica 14 - Bacon causa câncer - O padrão-ouro da psicologia]] [▶ 0:20:48](https://www.youtube.com/watch?v=3rJ2OGfqYkQ&t=1248s)
+- **A curva de melhora da TCC nos estudos é a de um placebo; o mais razoável é que os instrumentos só capturem a parte placebo do tratamento.**
+  - *Argumento:* Toda a melhora nas primeiras sessões; protocolos encurtando de 15 para 6 sessões sem perda de efeito.
+  - *Contra quem / contraponto:* O próprio Alan pondera que 'TCC é placebo' é difícil de sustentar fora da análise da curva (pelo NNT não daria).
+  - *Implicação prática:* Medir sessão a sessão; desconfiar de protocolos curtos baseados em pré-pós.
+  - [[YT Avaliação Clínica 14 - Bacon causa câncer - O padrão-ouro da psicologia]] [▶ 0:24:37](https://www.youtube.com/watch?v=3rJ2OGfqYkQ&t=1477s)
+- **Talvez a grande literatura saiba mais de psicologia humana do que parte da pesquisa atual.**
+  - *Argumento:* Se os instrumentos medem placebo, a pesquisa assim conduzida é 'basicamente inútil'.
+  - *Contra quem / contraponto:* Apresentada como uma das 'versões do que pode ser'.
+  - *Implicação prática:* Buscar compreensão clínica também fora da pesquisa empírica.
+  - [[YT Avaliação Clínica 14 - Bacon causa câncer - O padrão-ouro da psicologia]] [▶ 0:25:37](https://www.youtube.com/watch?v=3rJ2OGfqYkQ&t=1537s)
+
+## Diogo
+- **As referências teóricas não estão erradas, são limitadas.**
+  - *Argumento:* Skinner nunca atendeu; Freud e Jung não descreveram todas as formas possíveis de praticar suas abordagens; o tempo mudou.
+  - *Contra quem / contraponto:* Uso de autores clássicos como manual clínico.
+  - *Implicação prática:* Ampliar repertório, pesquisar, seguir discutindo.
+  - [[Alan 04 - Cosmovisão e clínica 1]] [▶ 1:27:45](https://www.youtube.com/watch?v=jCe-4OOwuxA&t=5265s)
+- **O aprimoramento deve treinar habilidades globais, não técnicas de escola.**
+  - *Argumento:* Empatia, interrupção e aprofundamento servem igualmente ao psicanalista e ao analista do comportamento. Associação livre e análise de contingência não.
+  - *Contra quem / contraponto:* Grupos organizados em torno de uma abordagem.
+  - *Implicação prática:* Escolher temas que qualquer participante possa aplicar.
+  - [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]] [▶ 0:02:24](https://www.youtube.com/watch?v=LnSuu9hHx0Q&t=144s)
+- **Características pessoais do terapeuta sempre constituem o setting.**
+  - *Argumento:* Fazem parte da figura do terapeuta, da fantasia do paciente e da escolha de terapeutas por abordagem, gênero, raça ou neurodivergência.
+  - *Contra quem / contraponto:* A ideia de um terapeuta neutro e intercambiável.
+  - *Implicação prática:* Trabalhar os próprios traços em vez de negá-los.
+  - [[Acervo 08 - Como a clínica atravessa o terapeuta]] [▶ 1:15:45](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4545s)
+- **Explicar sem carga afetiva é um erro comum, em que 'muitos da TCC acabam caindo'.**
+  - *Argumento:* O prazer do hambúrguer compete com a aversividade da regra; as embalagens de cigarro não fazem as pessoas pararem de fumar.
+  - *Contra quem / contraponto:* Psicoeducação puramente informativa. Diogo fala com cautela, dizendo que não é exatamente de TCC.
+  - *Implicação prática:* Preparar o terreno emocional antes de explicar (punch, morde e assopra, checagem aberta).
+  - [[Acervo 09 - Como receber feedback negativo do paciente]] [▶ 1:04:31](https://www.youtube.com/watch?v=21EgJMdAfLk&t=3871s)
+- **Toda boa abordagem exige as mesmas habilidades de base, e é isso que o aprimoramento treina.**
+  - *Argumento:* Cortar, escutar e modular a voz importam em qualquer 'fórmula' teórica.
+  - *Contra quem / contraponto:* A ideia de que cada abordagem precisa de um treino inteiramente próprio.
+  - *Implicação prática:* Grupos transteóricos, com participantes de abordagens diferentes.
+  - [[Acervo 09 - Como receber feedback negativo do paciente]] [▶ 0:00:09](https://www.youtube.com/watch?v=21EgJMdAfLk&t=9s)
+- **A metáfora é um recurso transteórico.**
+  - *Argumento:* Comportamentais, freudianos, junguianos e humanistas-existenciais usam metáforas; Steven Hayes discute muito o tema; a TCC pode usá-la tanto em psicoeducação quanto para aprofundar crenças nucleares e pensamentos automáticos.
+  - *Contra quem / contraponto:* A ideia de que metáfora 'é coisa' de uma abordagem, ou de que a TCC clássica prefere explicação acadêmica (algumas vertentes de fato preferem).
+  - *Implicação prática:* Qualquer clínico precisa treinar o uso de metáforas.
+  - [[Acervo 12 - Funções da metáfora na clínica]] [▶ 0:26:07](https://www.youtube.com/watch?v=fMgJtaQ_Rqk&t=1567s)
+- **As habilidades terapêuticas são transversais às abordagens.**
+  - *Argumento:* Todo psicólogo escuta, até fora da clínica; um analista do comportamento e um psicanalista escutam e são empáticos da mesma forma. As divergências, como anotar ou não na sessão, são pontuais.
+  - *Contra quem / contraponto:* A ideia de que cada abordagem tem competências exclusivas; a terminologia varia, mas o núcleo é o mesmo.
+  - *Implicação prática:* Dá para treinar essas habilidades num grupo com várias abordagens.
+  - [[Acervo 15 - Habilidades terapêuticas e os usos da empatia]] [▶ 0:03:46](https://www.youtube.com/watch?v=eHYies2o_GA&t=226s)
+- **Um livro sobre habilidades gerais escrito por autores de uma só abordagem deveria incluir autores de outras.**
+  - *Argumento:* O livro citado se propõe transversal, mas só analisa casos com as abordagens comportamentais; 'não custava nada convidar uma galera para escrever junto'.
+  - *Contra quem / contraponto:* Diogo reconhece que os autores fazem o que sabem fazer.
+  - *Implicação prática:* Ao estudar habilidades transversais, buscar exemplos de várias abordagens.
+  - [[Acervo 15 - Habilidades terapêuticas e os usos da empatia]] [▶ 0:09:18](https://www.youtube.com/watch?v=eHYies2o_GA&t=558s)
+- **Mesma abordagem não é mesma clínica.**
+  - *Argumento:* Não necessariamente a psicanálise de um é a mesma psicanálise do outro.
+  - *Contra quem / contraponto:* A ideia de que o duelo só faz sentido entre abordagens diferentes.
+  - *Implicação prática:* Dá para fazer duelos entre colegas da mesma escola.
+  - [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 0:05:07](https://www.youtube.com/watch?v=n1iu-W8ujac&t=307s)
+- **Fracasso clínico não se define pelo resultado.**
+  - *Argumento:* Dedicação e envolvimento não produzem resultado necessariamente; só a negligência liga o desfecho ao terapeuta.
+  - *Contra quem / contraponto:* A leitura de que abandono ou suicídio seriam, por si, fracasso do terapeuta.
+  - *Implicação prática:* Avaliar o processo (protocolo, cuidado, autoavaliação) e não só o desfecho.
+  - [[Acervo 17 - Fracasso clínico e seus fatores associados]] [▶ 0:07:01](https://www.youtube.com/watch?v=DYU5QdBDs1k&t=421s)
+- **O sentido de 'fracasso' depende da abordagem e da situação.**
+  - *Argumento:* Na psicanálise a regressão é mecanismo e pode ser parte do processo; o que é problema para uma abordagem é esperado em outra.
+  - *Contra quem / contraponto:* Uma definição única e neutra de piora.
+  - *Implicação prática:* Explicitar o referencial ao julgar a evolução do caso.
+  - [[Acervo 17 - Fracasso clínico e seus fatores associados]] [▶ 0:08:56](https://www.youtube.com/watch?v=DYU5QdBDs1k&t=536s)
+- **Para o encontro, verbal é o vocal; na análise do comportamento, o comportamento verbal inclui o não vocal.**
+  - *Argumento:* A análise do comportamento define o verbal pela função; para não travar a discussão, adota-se a noção comum.
+  - *Contra quem / contraponto:* Equação popular de verbal com falado.
+  - *Implicação prática:* Explicitar definições operacionais em grupos de várias abordagens.
+  - [[Acervo 23 - Comunicação não verbal na clínica]] [▶ 0:13:52](https://www.youtube.com/watch?v=MHBD5THDIXE&t=832s)
+- **Os estágios de mudança são transteóricos.**
+  - *Argumento:* Vêm de pesquisa não vinculada a escolas e descrevem etapas gerais, embora o facilitador se declare contra absolutismos.
+  - *Contra quem / contraponto:* Leitura de que seria teoria de uma abordagem específica.
+  - *Implicação prática:* Usá-los como critério comum para dosar intervenções.
+  - [[Acervo 23 - Comunicação não verbal na clínica]] [▶ 0:54:29](https://www.youtube.com/watch?v=MHBD5THDIXE&t=3269s)
+- **Relato discrepante não é mentira; é verdadeiro para quem o faz.**
+  - *Argumento:* Quem vê o mundo como perigoso vive num mundo perigoso; o terapeuta não deve transformar o paciente ao seu bel-prazer.
+  - *Contra quem / contraponto:* Noção de relato 'não fidedigno' como falsidade a corrigir.
+  - *Implicação prática:* Buscar mais consciência e satisfação, não a correção da crença.
+  - [[Acervo 23 - Comunicação não verbal na clínica]] [▶ 1:11:26](https://www.youtube.com/watch?v=MHBD5THDIXE&t=4286s)
+- **Não existe regra sobre perguntar ou não sobre cuidados básicos de saúde.**
+  - *Argumento:* A pertinência depende do tipo de paciente, do momento clínico, do timing e da forma, do vínculo, da abordagem e do estilo do terapeuta; o que legitima a conduta é haver análise e boas consequências.
+  - *Contra quem / contraponto:* Respostas universais ('sempre perguntar' ou 'é papel do médico').
+  - *Implicação prática:* Formar critérios de decisão, não protocolos.
+  - [[Acervo 24 - Cuidados básicos de saúde na clínica]] [▶ 0:37:04](https://www.youtube.com/watch?v=QKoZq_lBSaw&t=2224s)
+- **Prefiro abrir a sessão pela fala livre do paciente, não por um check-up.**
+  - *Argumento:* Deixar o paciente trazer o que quer, pelo tempo dele, mesmo sendo analista do comportamento.
+  - *Contra quem / contraponto:* Uma terapeuta da Allos que abre toda sessão com sono e alimentação e usa isso como gancho; Diogo reconhece que funciona para ela.
+  - *Implicação prática:* A abertura da sessão é uma escolha técnica que precisa de justificativa.
+  - [[Acervo 24 - Cuidados básicos de saúde na clínica]] [▶ 0:36:01](https://www.youtube.com/watch?v=QKoZq_lBSaw&t=2161s)
+- **Entender não é sentir, e informar não é mudar.**
+  - *Argumento:* Compreensão e tomada de decisão são controladas por contingências diferentes; os sentimentos costumam determinar mais o comportamento do que os pensamentos.
+  - *Contra quem / contraponto:* A psicoeducação como solução automática; uma participante lembra que informação realmente nova pode mudar a rotina.
+  - *Implicação prática:* Investigar a função do comportamento antes de orientar.
+  - [[Acervo 24 - Cuidados básicos de saúde na clínica]] [▶ 0:40:27](https://www.youtube.com/watch?v=QKoZq_lBSaw&t=2427s)
+- **A psicanálise que intervém de menos corre o risco de trabalhar com a fantasia do analista em vez do caso.**
+  - *Argumento:* Não se pode supor que o paciente deduz o que o analista deduz; a centralidade da fantasia na teoria reflete o seu método e também um dos seus riscos.
+  - *Contra quem / contraponto:* Uma leitura do terceiro analítico: 'se eu percebo, ele percebe; não preciso dizer'.
+  - *Implicação prática:* Devolver hipóteses em vez de presumir que o paciente as tem.
+  - [[Monitoria 09 - João de Bragança - Critérios do bom psicólogo e acolhimento]] [▶ 1:08:34](https://www.youtube.com/watch?v=5F6Lw10ZfPk&t=4114s)
+- **Os estereótipos das abordagens são parciais; nem toda TCC dispensa o passado.**
+  - *Argumento:* A boa TCC investiga o passado; a dispensa é uma visão dentro da TCC; clínicos de todas as abordagens podem preferir o presente primeiro.
+  - *Contra quem / contraponto:* Leituras caricatas das abordagens.
+  - *Implicação prática:* Comparar abordagens sem caricaturá-las.
+  - [[Monitoria 11 - Diogo - Tempo clínico, passado e presente]] [▶ 0:58:49](https://www.youtube.com/watch?v=Kh72CJPufBs&t=3529s)
+- **Abordagens não são iguais, mas um referencial externo é fonte legítima de hipóteses.**
+  - *Argumento:* Há conceitos com aproximações, mas não se aplica uma abordagem na outra; o terapeuta readapta para manter a integridade da análise.
+  - *Contra quem / contraponto:* O ecletismo que importa conceitos soltos e o isolamento entre abordagens.
+  - *Implicação prática:* Supervisão entre linhas como exercício de tradução.
+  - [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] [▶ 1:09:21](https://www.youtube.com/watch?v=rFd2HjdymmM&t=4161s)
+- **A relação terapêutica é o lugar para consolidar ganhos quando se tem acesso a uma hora da vida do paciente.**
+  - *Argumento:* Resposta da FAP à crítica feita à análise do comportamento; o terapeuta pode ser uma audiência nova e não punitiva.
+  - *Contra quem / contraponto:* A crítica de que a análise do comportamento teria pouca influência sobre o ambiente do paciente.
+  - *Implicação prática:* Trabalhar comportamentos que surgem na própria sessão.
+  - [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] [▶ 0:26:46](https://www.youtube.com/watch?v=rFd2HjdymmM&t=1606s)
+- **Todo comportamento tem função, inclusive o que não é feito.**
+  - *Argumento:* Se a pessoa não faz algo que não é obrigada a fazer, é porque isso a prejudica de algum modo.
+  - *Contra quem / contraponto:* Leituras que tomam a frieza como traço.
+  - *Implicação prática:* Ler traços como padrões funcionais mantidos por uma história.
+  - [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] [▶ 0:16:26](https://www.youtube.com/watch?v=rFd2HjdymmM&t=986s)
+- **O terapeuta sempre controla o comportamento do cliente, e isso não é manipulação.**
+  - *Argumento:* O comportamento do paciente sempre ocorre em função da posição do terapeuta; como isso sempre acontece, o melhor é usá-lo conscientemente.
+  - *Contra quem / contraponto:* O estereótipo de que a análise do comportamento é manipuladora.
+  - *Implicação prática:* Escolher quais comportamentos evocar e quando; ser verdadeiro é um desses instrumentos.
+  - [[Monitoria 16 - Diogo - Autenticidade e ser verdadeiro na clínica]] [▶ 0:02:22](https://www.youtube.com/watch?v=LSaS_1EaQzY&t=142s)
+- **O modo de existir de cada pessoa depende do contexto, e isso vale para todas as abordagens.**
+  - *Argumento:* Mesmo os mecanismos psíquicos da psicanálise (recalque, repressão, simbolização) dependem do ambiente.
+  - *Contra quem / contraponto:* Evita a discussão sobre a existência do inconsciente; admite a tendência ao vocabulário comportamental.
+  - *Implicação prática:* A sessão como contexto novo é instrumento de mudança em qualquer referencial.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 0:30:02](https://www.youtube.com/watch?v=spFIOJh7XzE&t=1802s)
+- **O silêncio diante do desvio não é simplesmente extinção ou punição.**
+  - *Argumento:* Ele não entrega o reforço esperado, mas sua função é promover consciência do próprio funcionamento.
+  - *Contra quem / contraponto:* Uma leitura comportamental reducionista do silêncio.
+  - *Implicação prática:* Usar o silêncio para que o paciente se perceba sozinho, sem dependência do terapeuta.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 0:35:02](https://www.youtube.com/watch?v=spFIOJh7XzE&t=2102s)
+- **A tomada de decisão clínica pode ser sistematizada em sete passos transversais às abordagens.**
+  - *Argumento:* A monitorada, psicanalista, percorreu todos eles sem perceber; decidir é necessário a toda abordagem.
+  - *Contra quem / contraponto:* Uma participante lembra que a clínica é caótica e só depois se entende; Diogo aceita que os passos são guias, não uma ordem fixa. O modelo não vem de artigo, e sim de sistematização própria das discussões da Allos.
+  - *Implicação prática:* Usar o roteiro como checklist reflexivo, não como receita.
+  - [[Monitoria 21 - Diogo - Sete passos da tomada de decisão clínica]] [▶ 1:17:45](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4665s)
+- **O risco de suicídio está acima de qualquer outra prioridade, inclusive do sigilo.**
+  - *Argumento:* Dever legal e profissional de preservar a vida (segundo Diogo, da Constituição às normas da profissão) e o argumento pragmático de que o paciente precisa estar vivo para ser atendido.
+  - *Contra quem / contraponto:* A omissão como negligência; o sigilo é rompido apenas no que diz respeito ao risco.
+  - *Implicação prática:* Conhecer e seguir o protocolo.
+  - [[Monitoria 21 - Diogo - Sete passos da tomada de decisão clínica]] [▶ 0:33:13](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1993s)
+- **Abordagens não são metodologias mega estruturadas e rígidas; têm confluências.**
+  - *Argumento:* Como as ciências humanas confluem para a filosofia, as abordagens clínicas compartilham pontos de concentração.
+  - *Contra quem / contraponto:* A visão da abordagem como sistema fechado.
+  - *Implicação prática:* Estudar abordagens de forma crítica e comparativa.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 0:09:14](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=554s)
+- **Nenhuma abordagem engloba todas as outras.**
+  - *Argumento:* Um círculo central que englobasse tudo daria a entender uma abordagem que agrega todas.
+  - *Contra quem / contraponto:* Sugestão de participante de desenhar um círculo grande unindo os demais.
+  - *Implicação prática:* Desconfiar de metateorias que prometem incluir todas as abordagens.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 0:17:51](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=1071s)
+- **Todas as abordagens, enquanto ciência, têm objeto de estudo, concepção de sujeito e concepção de desenvolvimento.**
+  - *Argumento:* Os fundamentos diferem, mas a forma científica é comum.
+  - *Implicação prática:* Comparar abordagens por esses eixos.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 0:31:23](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=1883s)
+- **Dizer que todas as abordagens olham para tudo, só mudando a ênfase, é equivocado.**
+  - *Argumento:* As abordagens não olham para as coisas da mesma forma; o mesmo termo pode designar um fenômeno concebido de maneira filosoficamente diferente.
+  - *Contra quem / contraponto:* Uma participante: todos veem a mesma imagem (6 ou 9), o mesmo sujeito, por lentes diferentes; Diogo reconhece que isso é verdadeiro em parte.
+  - *Implicação prática:* Não traduzir conceitos entre abordagens como sinônimos.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 0:45:02](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=2702s)
+- **Psicanálise e análise do comportamento têm muitos pontos em comum.**
+  - *Argumento:* Acesso clínico parecido; na compreensão de mundo, Freud e Skinner são parecidos, e Skinner cita Freud.
+  - *Contra quem / contraponto:* A oposição escolar entre as duas; Diogo não sabe se a semelhança é epistemológica.
+  - *Implicação prática:* Diálogo possível entre as duas tradições.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 0:36:49](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=2209s)
+- **O inconsciente, mesmo numa concepção mentalista, é permeado pelo contexto.**
+  - *Argumento:* O mal-estar na civilização, Winnicott, Lacan (inconsciente estruturado como linguagem, que é social).
+  - *Implicação prática:* Ponte entre psicanálise, análise do comportamento e sócio-histórica pela noção de contexto.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 0:42:33](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=2553s)
+- **Comparar a função dos conceitos entre abordagens amplia o repertório conceitual e de recursos.**
+  - *Argumento:* Mesmo um conceito irrelevante para a própria análise pode trazer ideias úteis; recursos como desenhos circulam entre abordagens.
+  - *Contra quem / contraponto:* O significado atribuído ao recurso muda de abordagem para abordagem.
+  - *Implicação prática:* Inspirar-se em outras abordagens para aumentar a efetividade.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 1:14:19](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=4459s)
+- **A insensibilidade de Freud no caso Dora extrapola Freud.**
+  - *Argumento:* Reflete o patriarcado da época, não só uma falha individual.
+  - *Contra quem / contraponto:* O participante diz que Freud poderia ter sido mais sensível; Diogo concorda e contextualiza.
+  - *Implicação prática:* Ler os casos clássicos com crítica histórica.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 1:03:59](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=3839s)
+- **Análise do comportamento não é TCC.**
+  - *Argumento:* Afirmação de identidade feita para quem não é da área; não desenvolvida no encontro.
+  - *Implicação prática:* Não confundir as tradições comportamentais.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 0:12:44](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=764s)
+
+## João de Bragança
+- **O terapeuta deve se adaptar ao caso sem se ajustar.**
+  - *Argumento:* A personalidade é o recurso mais útil e inalienável do terapeuta (Jung); quem vira outra pessoa a cada caso perde a identidade clínica.
+  - *Contra quem / contraponto:* A flexibilidade sem núcleo (terapeuta camaleão).
+  - *Implicação prática:* Variar estilo e técnica mantendo um núcleo reconhecível.
+  - [[Monitoria 08 - João de Bragança - MAPA e o papel do paciente]] [▶ 0:25:51](https://www.youtube.com/watch?v=WDkH3mWKmew&t=1551s)
+- **A técnica só pode ser julgada dentro da proposta da abordagem.**
+  - *Argumento:* A TCC fala mais porque é psicoeducativa; a psicanálise cala para não atrapalhar a transferência, e para ela a psicoeducação é um problema.
+  - *Contra quem / contraponto:* Críticas caricatas ('o psicólogo da TCC não cala a boca').
+  - *Implicação prática:* Avaliar fala e silêncio pelos objetivos de cada modelo.
+  - [[Monitoria 09 - João de Bragança - Critérios do bom psicólogo e acolhimento]] [▶ 0:57:32](https://www.youtube.com/watch?v=5F6Lw10ZfPk&t=3452s)
+
+## Rodolfo
+- **O aprimoramento clínico treina fatores comuns, habilidades transteóricas úteis a qualquer abordagem.**
+  - *Argumento:* No debate sobre o que faz a terapia funcionar, uma parte está nos fatores comuns (abertura, fechamento, construção de frase, empatia), que não pertencem a nenhuma escola.
+  - *Contra quem / contraponto:* A visão de que o que funciona são os fatores específicos de cada abordagem.
+  - *Implicação prática:* O grupo recebe participantes de TCC, psicanálise e humanista sem conflito de linguagem.
+  - [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] [▶ 0:00:00](https://www.youtube.com/watch?v=IpexSTnbrGo&t=0s)
+- **As formas de encerrar não pertencem às abordagens.**
+  - *Argumento:* Há inclinações naturais, mas nenhuma regra impede o uso; o critério é o estilo pessoal e a clínica de cada um.
+  - *Contra quem / contraponto:* Identidade de abordagem que restringe o repertório técnico.
+  - *Implicação prática:* Integrar técnicas conforme o caso e o estilo.
+  - [[Acervo 22 - Formas de encerrar a sessão]] [▶ 0:23:13](https://www.youtube.com/watch?v=7zGA_xgbZg8&t=1393s)
+- **Só diante de um caso específico dá para discutir o melhor caminho.**
+  - *Argumento:* As consequências mais ou menos agradáveis dependem daquele paciente; não se transforma o que um colega fez em protocolo.
+  - *Contra quem / contraponto:* Busca de protocolos universais.
+  - *Implicação prática:* Treinar com casos concretos e variados.
+  - [[Acervo 22 - Formas de encerrar a sessão]] [▶ 1:09:02](https://www.youtube.com/watch?v=7zGA_xgbZg8&t=4142s)
+
+## Gabriel
+- **As habilidades clínicas básicas são comuns a todas as abordagens e podem ser decompostas e treinadas.**
+  - *Argumento:* Toda abordagem constrói caso e hipótese; separar os pedaços torna consciente o que é intuitivo.
+  - *Contra quem / contraponto:* Implícito: a ideia de que a técnica depende só da escola teórica.
+  - *Implicação prática:* Grupos de treino transversais, com dinâmicas por habilidade.
+  - [[Acervo 18 - Hipótese clínica e intervenção]] [▶ 0:01:08](https://www.youtube.com/watch?v=9Wb-L6AAZYQ&t=68s)
+
+## Artur
+- **Na clínica atua a personalidade do terapeuta diante da do paciente; é preciso trabalhar a personalidade, não só o intelecto.**
+  - *Argumento:* A teoria não prevê tudo; intelectualidade extrema é, na leitura junguiana, marca de neurose; de nada adianta estudar Freud sem personalidade capaz de aplicar a psicanálise.
+  - *Contra quem / contraponto:* Formação que ensina 'modelos teóricos de autores que já morreram'.
+  - *Implicação prática:* Terapia pessoal e escolha de abordagem compatível com a própria personalidade.
+  - [[Alan 04 - Cosmovisão e clínica 1]] [▶ 1:24:32](https://www.youtube.com/watch?v=jCe-4OOwuxA&t=5072s)
+
+## Outros facilitadores e participantes
+- **A PBE é epistemologia de trabalho, não cosmovisão; ciência é a melhor resposta até agora, não verdade absoluta.**
+  - *Argumento:* Distinção entre crença pessoal e base de trabalho crítica e adaptável ao paciente.
+  - *Contra quem / contraponto:* Artur sugere que a crença na ciência também é uma cosmovisão.
+  - *Implicação prática:* Transparência epistemológica com o paciente e flexibilidade diante de quem não valoriza a ciência.
+  - Participante (TCC/PBE) · [[Alan 04 - Cosmovisão e clínica 1]] [▶ 0:46:36](https://www.youtube.com/watch?v=jCe-4OOwuxA&t=2796s)
+- **A abordagem não deve virar cosmovisão; manuais com script servem pouco na linha de frente.**
+  - *Argumento:* Todo paciente é uma surpresa; formação universitária é teórica demais.
+  - *Contra quem / contraponto:* Formação centrada em teoria; 'livro verde' de Judith Beck; 'picuinha' entre abordagens.
+  - *Implicação prática:* Flexibilidade, diálogo entre abordagens, crítica constante.
+  - Participante (análise do comportamento/ACT/FAP) · [[Alan 04 - Cosmovisão e clínica 1]] [▶ 1:21:03](https://www.youtube.com/watch?v=jCe-4OOwuxA&t=4863s)
+- **O terapeuta não pode se destituir da própria personalidade, então 'tudo é ferramenta'.**
+  - *Argumento:* Antes de profissionais, somos humanos. Até traços como ser didático entram na clínica.
+  - *Contra quem / contraponto:* A neutralidade 'quadradona' ensinada na faculdade.
+  - *Implicação prática:* Tomar consciência e usar com parcimônia, sabendo quando se abster.
+  - Participantes · [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]] [▶ 1:12:46](https://www.youtube.com/watch?v=LnSuu9hHx0Q&t=4366s)
+- **Qualquer psicólogo, de qualquer abordagem, precisa entender a violência como estruturante da subjetividade.**
+  - *Argumento:* Mesmo pacientes brancos de elite foram socializados em relações raciais; a psicanálise contemporânea já discute uma psicanálise contracolonial.
+  - *Contra quem / contraponto:* A ideia de que isso é assunto só da psicologia social.
+  - *Implicação prática:* Incluir relações raciais na escuta de todos os pacientes.
+  - Malu · [[Acervo 07 - Violência estrutural e plantão psicológico]] [▶ 1:24:29](https://www.youtube.com/watch?v=sbQJy1e4wwY&t=5069s)
+- **Rixa de abordagem não ajuda; importa uma psicologia comprometida com a transformação social.**
+  - *Argumento:* Qualquer psicologia social precisa desnaturalizar fenômenos, independentemente da escola.
+  - *Contra quem / contraponto:* Disputas entre abordagens.
+  - *Implicação prática:* Dialogar com a psicanálise e outras clínicas.
+  - Malu · [[Acervo 07 - Violência estrutural e plantão psicológico]] [▶ 0:45:47](https://www.youtube.com/watch?v=sbQJy1e4wwY&t=2747s)
+- **No Caso Dora, Freud quis estar certo mais do que cuidar da paciente.**
+  - *Argumento:* Pelo próprio relato de Freud, o entusiasmo da paciente dá lugar à discordância e ao abandono.
+  - *Contra quem / contraponto:* Diogo acrescenta que o ponto central foi o terapeuta não se avaliar.
+  - *Implicação prática:* Avaliar a prontidão do paciente e a forma de dizer.
+  - Participante · [[Acervo 17 - Fracasso clínico e seus fatores associados]] [▶ 0:09:57](https://www.youtube.com/watch?v=DYU5QdBDs1k&t=597s)
+- **O paciente nem sempre sabe mais de si do que o terapeuta.**
+  - *Argumento:* De fora, pode-se compreender o que o paciente não tem consciência de sentir (o menino que implica com a menina de quem gosta).
+  - *Contra quem / contraponto:* O princípio de que o paciente é sempre o maior especialista em si.
+  - *Implicação prática:* Não seguir cegamente a prioridade do paciente.
+  - Facilitador · [[Acervo 21 - Critérios para priorizar o discurso do paciente]] [▶ 0:19:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1169s)
+- **A fala não é a única forma de demonstrar afeto; o que importa é o que funciona, não o ideal.**
+  - *Argumento:* Prover pode ser forma simbólica plena de amor; tomar consciência disso pode ser mais útil do que prescrever 'falar com os filhos'.
+  - *Contra quem / contraponto:* A direção implícita do atendimento, que buscava a expressão verbal do afeto.
+  - *Implicação prática:* Investigar o nível de consciência e o sentido que o paciente dá a seus atos.
+  - Um participante · [[Monitoria 11 - Diogo - Tempo clínico, passado e presente]] [▶ 1:07:10](https://www.youtube.com/watch?v=Kh72CJPufBs&t=4030s)
+- **A psicoterapia é uma ciência da exceção: o fenômeno vem antes da teoria, e as teorias em parte nos protegem dos fatos.**
+  - *Argumento:* Cada paciente traz algo que não está nos livros, os resultados moram nos detalhes, e a orientação teórica pesa menos que a relação.
+  - *Contra quem / contraponto:* O terapeuta preocupado só com a aderência a uma teoria ou protocolo.
+  - *Implicação prática:* Formular com a teoria, mas deixar o caso corrigir a teoria.
+  - Bernardo · [[PD 01 - Estagnação da psicoterapia e limites da experiência]] [▶ 0:39:12](https://www.youtube.com/watch?v=rPXu2D7MkAc&t=2352s)
+- **A prática deliberada não é uma abordagem: é ateórica, um 'jeito de fazer'.**
+  - *Argumento:* Pode ser praticada em qualquer área e a partir de qualquer orientação, que é quem define o que é saudável, patológico e desejável.
+  - *Contra quem / contraponto:* Quem acha que vai precisar abandonar sua abordagem de escolha.
+  - *Implicação prática:* Grupos de treino podem reunir terapeutas de abordagens diferentes.
+  - Bernardo · [[PD 01 - Estagnação da psicoterapia e limites da experiência]] [▶ 0:59:29](https://www.youtube.com/watch?v=rPXu2D7MkAc&t=3569s)
+- **A automaticidade é boa e ruim ao mesmo tempo, e coincide com a estagnação.**
+  - *Argumento:* Dá controle com menos esforço, mas tira o controle consciente e a capacidade de ajuste intencional (Ericsson) e torna o experto previsível (o Neymar).
+  - *Contra quem / contraponto:* A ideia de que quanto mais fácil e automático, mais competente.
+  - *Implicação prática:* O treino deve devolver à consciência o que ficou automático para que possa ser ajustado.
+  - Bernardo · [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] [▶ 0:49:07](https://www.youtube.com/watch?v=CJcmtL3mNy4&t=2947s)
+- **A teoria tem valor instrumental e não é espelho da realidade; o fenômeno clínico vem primeiro.**
+  - *Argumento:* Teorias são abstrações que enquadram e perdem detalhes; a abordagem tem tamanho de efeito pequeno.
+  - *Contra quem / contraponto:* A tradição de avaliar o sucesso pela fidelidade ao método.
+  - *Implicação prática:* Não encaixar pacientes na teoria; avaliar resultado por critérios externos à teoria.
+  - Bernardo · [[PD 04 - Linha de base e medidas de resultado]] [▶ 0:18:55](https://www.youtube.com/watch?v=Bfbrb4bujbo&t=1135s)
+- **O modo de construir a relação pesa mais no resultado do que a abordagem teórica.**
+  - *Argumento:* A figura do livro (provavelmente Wampold e Imel, 2015) mostra tamanho de efeito maior para os fatores comuns do que para os específicos.
+  - *Contra quem / contraponto:* Os fatores específicos também fazem diferença, só que menor.
+  - *Implicação prática:* Priorizar o treino de habilidades relacionais.
+  - Bernardo, a partir do Better Results · [[PD 05 - Problemas da mensuração, aliança e auto-observação]] [▶ 0:22:41](https://www.youtube.com/watch?v=7aHutJ-HDWk&t=1361s)
+- **O fenômeno clínico tem primazia sobre a teoria e a experiência.**
+  - *Argumento:* O fenômeno é idiossincrático; conceitos e teorias são abstrações, e partir da bagagem gera preconceitos teóricos.
+  - *Implicação prática:* Escutar primeiro e depois buscar na teoria o que for útil.
+  - Bernardo · [[PD 05 - Problemas da mensuração, aliança e auto-observação]] [▶ 0:40:02](https://www.youtube.com/watch?v=7aHutJ-HDWk&t=2402s)
+- **Teorizar antes de ter dados distorce os fatos; a PD existe para combater isso.**
+  - *Argumento:* Sem dados, ajustamos os fatos às teorias; com dados, as teorias aos fatos.
+  - *Contra quem / contraponto:* Clínica guiada por convicções teóricas prévias.
+  - *Implicação prática:* Medir, gravar e olhar os fatos antes de interpretar.
+  - Bernardo · [[PD 07 - Caso Eta e o modo de aplicar escalas]] [▶ 0:03:26](https://www.youtube.com/watch?v=CgJ7V3S3CT0&t=206s)
+
+## Relacionados
+- [[MOC - Teses e posicionamentos]]

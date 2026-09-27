@@ -1,0 +1,849 @@
+{
+ "id": "mon-17",
+ "nota": "Monitoria 17 - Diogo - Perguntas abertas, hipótese e movimento clínico",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Perguntas abertas, hipótese e movimento clínico",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo conduz a monitoria do atendimento de uma participante com um paciente simulado por IA (homem de funcionamento 'rústico', dores de barriga psicossomáticas, vida 'no automático', distante dos filhos). Como o caso já tinha sido visto no Aprimoramento da véspera, ele parte de um ponto adiantado. A monitorada lê cada resposta do paciente, e Diogo pergunta em cadeia: o que é relevante, qual a função, aonde queria chegar, por que não perguntou direto, por que confrontar agora, qual movimento clínico. Das respostas saem blocos curtos de ensino: uso das repetições com propósito; investigação aberta × diretiva, com o protocolo de suicídio como exceção, crítica à TCC e defesa da pergunta direta quando a hipótese é forte ('tirar o elefante da sala'); a FAP e os comportamentos clinicamente relevantes; 'discurso também é postura'; o movimento clínico escolhido em função do serviço (plantão, psicodiagnóstico) e do vínculo. No fim, Diogo lê o 'é o meu jeito' do paciente como possível irresponsabilização e alerta para o viés de confirmação com um erro próprio: uma crise de ansiedade em sessão que leu apenas como evitação. Conclui que se deve estabilizar na crise aguda e intervir na repetição.",
+ "em_uma_frase": "Supervisão por perguntas socráticas que ensina a usar repetições com propósito, a perguntar diretamente quando a hipótese é forte, a escolher conscientemente o movimento clínico conforme o serviço e o vínculo e a desconfiar da confirmação das próprias hipóteses.",
+ "competencias": [
+  "Intervenção",
+  "Escuta clínica",
+  "Aprofundamento",
+  "Direção do tratamento",
+  "Formulação de caso",
+  "Priorização clínica",
+  "Relação terapêutica",
+  "Pessoa do terapeuta",
+  "Feedback clínico",
+  "Articulação teoria-prática"
+ ],
+ "abordagens": [
+  "Análise do comportamento",
+  "Terapias contextuais",
+  "Terapia cognitivo-comportamental"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Abertura",
+   "descricao": "Conversa informal; Diogo explica a monitoria com casos de IA e o caso do dia; propõe partir do ponto em que o Aprimoramento da véspera parou.",
+   "funcao": "Situar recém-chegados e adaptar o plano ao grupo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:01:54",
+   "bloco": "Retomada",
+   "descricao": "Localiza a última intervenção analisada ('qual o sentido da vida para você?').",
+   "funcao": "Continuidade.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:05",
+   "bloco": "Retomada",
+   "descricao": "A monitorada resume o que sentiu (frustração, paciente 'impermeável', ressonâncias pessoais) e o caso.",
+   "funcao": "Nivelar quem não estava e incluir a pessoa do terapeuta.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:03:57",
+   "bloco": "Combinados",
+   "descricao": "'Modelo da monitoria': a monitorada lê ou resume o que achar relevante das respostas do paciente.",
+   "funcao": "Dar protagonismo a quem apresenta.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:05:04",
+   "bloco": "Feedback",
+   "descricao": "A repetição de 'automático': o que trabalhar; por que não apontar diretamente; qual a função do apontar.",
+   "funcao": "Explicitar critérios.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:10:01",
+   "bloco": "Teoria",
+   "descricao": "Uso das repetições: potência clínica e necessidade de propósito.",
+   "funcao": "Regra geral a partir do caso.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:10:34",
+   "bloco": "Feedback",
+   "descricao": "'O que esse modo de viver te dá?': aprofundou? Aonde queria chegar? Por que não perguntou? A monitorada admite nervosismo.",
+   "funcao": "Avaliar a intervenção pelo objetivo.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:15:32",
+   "bloco": "Teoria",
+   "descricao": "Investigação aberta × diretiva; protocolo de suicídio; crítica à TCC; pergunta direta quando a hipótese é forte ('elefante na sala').",
+   "funcao": "Bloco teórico central.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:21:40",
+   "bloco": "Teoria",
+   "descricao": "FAP: relação terapêutica como principal instrumento; comportamentos clinicamente relevantes; racionalização como veículo.",
+   "funcao": "Articulação com a abordagem do supervisor.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:23:41",
+   "bloco": "Feedback",
+   "descricao": "'O que esse modo está te tirando?'; a monitorada tiraria a pergunta anterior.",
+   "funcao": "Autoavaliação guiada.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:25:40",
+   "bloco": "Discussão",
+   "descricao": "Um participante pergunta se a pergunta sobre o sentido da vida foi respondida.",
+   "funcao": "Abrir para o grupo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:28:06",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Link de presença e formulário de avaliação (define cronograma; repasse ao Alan).",
+   "funcao": "Administração e avaliação do formato.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:29:03",
+   "bloco": "Teoria",
+   "descricao": "O discurso também é postura: resposta evitativa como 'pseudossentido'.",
+   "funcao": "Ampliar a pergunta do participante.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:30:04",
+   "bloco": "Feedback",
+   "descricao": "Depois de confirmar a hipótese, a monitorada confronta o paciente sobre os filhos; Diogo separa as direções simultâneas e pergunta por quê, por que agora e qual movimento.",
+   "funcao": "Tomada de decisão clínica.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:36:14",
+   "bloco": "Feedback",
+   "descricao": "Leque de movimentos alternativos; a monitorada revela que achava que haveria uma só sessão ('plantão').",
+   "funcao": "Revelar o pressuposto por trás da escolha.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:39:48",
+   "bloco": "Teoria",
+   "descricao": "Movimento clínico conforme o serviço (plantão, psicodiagnóstico) e o vínculo; objetivo da sessão.",
+   "funcao": "Regra geral.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:41:48",
+   "bloco": "Feedback",
+   "descricao": "'Algo além do modo sobrevivência?'; 'pai quieto'; o que isso diz sobre o caso? Muda a hipótese?",
+   "funcao": "Testar a hipótese com nova evidência.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:45:49",
+   "bloco": "Feedback",
+   "descricao": "Leitura de 'é o meu jeito' como irresponsabilização.",
+   "funcao": "Oferecer leitura alternativa.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:47:16",
+   "bloco": "Demonstração",
+   "descricao": "Viés de confirmação; vinheta do supervisor sobre uma crise de ansiedade em sessão; estabilizar × intervir.",
+   "funcao": "Ensinar pelo próprio erro.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:51:42",
+   "bloco": "Fechamento",
+   "descricao": "Agradece e para a gravação antes das opiniões do grupo.",
+   "funcao": "Encerrar e liberar a conversa.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Repetição no discurso",
+   "definicao": "Palavra ou tema que volta no discurso do paciente e 'cutuca o ouvido' do terapeuta. É um caminho útil e fácil para a potência clínica, mas precisa de propósito: pode-se apontá-la diretamente ou buscar os espaços onde ela não ocorre.",
+   "exemplo": "O 'automático' que a própria monitorada introduziu como tradução e o paciente passou a repetir.",
+   "abordagem": "",
+   "ts": "0:10:01"
+  },
+  {
+   "nome": "Pergunta aberta e pergunta fechada",
+   "definicao": "A investigação aberta não delimita o escopo, não perde informações vitais e deixa o paciente trazer o que é relevante. A diretiva se justifica para prioridades (risco) e para testar hipóteses fortes.",
+   "exemplo": "'Você sente raiva da sua mãe, sim ou não?' × 'como é a sua relação com a sua família?'.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:16:45"
+  },
+  {
+   "nome": "Elefante na sala",
+   "definicao": "O que está evidente e não foi nomeado. Tirá-lo da sala é perguntar diretamente pela hipótese em vez de rodeá-la com perguntas indiretas que gastam a sessão.",
+   "exemplo": "'Percebo que você evita suas relações; o que você acha disso?'",
+   "abordagem": "",
+   "ts": "0:20:44"
+  },
+  {
+   "nome": "Hipótese clínica",
+   "definicao": "Deve ser testada, e não rodeada: se confirmada, aprofunda-se; se refutada, a resposta do paciente obriga a reconstruir a compreensão do caso.",
+   "exemplo": "'Não é que eu evito, eu me seguro' → 'como é esse segurar para você?'.",
+   "abordagem": "",
+   "ts": "0:21:40"
+  },
+  {
+   "nome": "Comportamento clinicamente relevante",
+   "definicao": "Na psicoterapia analítica funcional, comportamentos ligados à queixa que aparecem na relação terapêutica: o problema se manifestando, o progresso e a 'autoanálise'. Como o terapeuta só tem uma hora com o paciente, trabalhar esses comportamentos em sessão é o principal instrumento de mudança.",
+   "exemplo": "Se o problema é evitação, observar quando o paciente começa a evitar o terapeuta em sessão.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:22:45"
+  },
+  {
+   "nome": "Racionalização",
+   "definicao": "Para algumas abordagens, defesa que distancia; na FAP, pode ser um veículo para chegar às consequências e a uma compreensão maior do caso.",
+   "exemplo": "O paciente que tenta explicar e justificar o próprio afastamento.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:22:45"
+  },
+  {
+   "nome": "Evitação",
+   "definicao": "Padrão de afastar-se de relações, problemas e emoções, que pode aparecer tanto na postura quanto no discurso: 'discurso também é postura'.",
+   "exemplo": "À pergunta sobre o sentido da vida, uma resposta que evita a própria pergunta ('pseudossentido').",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:29:03"
+  },
+  {
+   "nome": "Elucidação",
+   "definicao": "Tornar visível ao paciente algo do próprio discurso ou comportamento, como etapa anterior à elaboração. É a função do 'apontar' segundo a monitorada.",
+   "exemplo": "'Você percebe que está rindo enquanto fala da morte?'",
+   "abordagem": "",
+   "ts": "0:08:56"
+  },
+  {
+   "nome": "Movimento clínico",
+   "definicao": "O efeito que a intervenção pretende produzir: esclarecer, entender a gênese, mapear ganhos e perdas, confrontar, mostrar nova visão, transformar. Deve ser escolhido conscientemente em função do serviço, do vínculo e do objetivo da sessão.",
+   "exemplo": "Depois de confirmar a hipótese, a monitorada escolheu mostrar uma nova visão; havia outras opções.",
+   "abordagem": "",
+   "ts": "0:34:55"
+  },
+  {
+   "nome": "Apontamento de contradição",
+   "definicao": "Mostrar ao paciente uma incoerência do próprio discurso. Aqui a pergunta de supervisão não é se ele é bom ou ruim, e sim por que e quando fazê-lo.",
+   "exemplo": "Esperar que os filhos saibam que ele os ama sem nunca dizer isso a eles.",
+   "abordagem": "",
+   "ts": "0:32:12"
+  },
+  {
+   "nome": "Confronto terapêutico",
+   "definicao": "Um dos movimentos possíveis depois de confirmar uma hipótese; exige justificativa e vínculo suficientemente estável para suportar algo mais aversivo.",
+   "exemplo": "'Você só vai ter o que quer se verbalizar.'",
+   "abordagem": "",
+   "ts": "0:34:36"
+  },
+  {
+   "nome": "Avaliação de risco de suicídio",
+   "definicao": "Exceção universal à investigação aberta: diante de tentativa de suicídio, há um protocolo diretivo para entender o ocorrido, contatar um responsável e saber quais meios a pessoa tem em casa, minimizando o risco.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:18:39"
+  },
+  {
+   "nome": "Plantão psicológico",
+   "definicao": "Serviço de atendimento pontual, cujo objetivo difere da psicoterapia. A suposição de que haveria só uma sessão levou a monitorada a querer 'resolver tudo' e a confrontar precocemente.",
+   "exemplo": "Estágio de psicodiagnóstico: 'o movimento não é para ser terapêutico, é para entender'.",
+   "abordagem": "",
+   "ts": "0:39:48"
+  },
+  {
+   "nome": "Queixa psicossomática",
+   "definicao": "Sofrimento expresso no corpo. Aqui, a dor de barriga ligada a acumular sentimentos serve de evidência de que o 'jeito' do paciente não está bem.",
+   "exemplo": "'Se fosse seu jeito, você estaria bem com isso.'",
+   "abordagem": "",
+   "ts": "0:44:43"
+  },
+  {
+   "nome": "Irresponsabilização",
+   "definicao": "Leitura possível do discurso 'é o meu jeito': justificar-se por uma identidade fixa, tirando de cena a escolha e a responsabilidade. Diogo a oferece com ressalva.",
+   "exemplo": "'Sou um pai quieto, mas sou pai.'",
+   "abordagem": "",
+   "ts": "0:45:49"
+  },
+  {
+   "nome": "Viés de confirmação",
+   "definicao": "Tendência a ler o discurso do paciente apenas pela hipótese já levantada ou confirmada, 'sem querer' confirmando-a e perdendo elementos fundamentais.",
+   "exemplo": "Diogo leu uma crise de ansiedade em sessão como 'mais evitação' e perdeu o fato de que o funcionamento gera crises.",
+   "abordagem": "",
+   "ts": "0:47:16"
+  },
+  {
+   "nome": "Estabilização emocional",
+   "definicao": "Acalmar o paciente num episódio emocional agudo (hiperventilação, falta de ar), quando não há capacidade de processar e refletir, para depois enfrentar junto o conteúdo doloroso.",
+   "exemplo": "'Calma, tá tudo bem, vamos enfrentar junto, eu tô aqui.'",
+   "abordagem": "",
+   "ts": "0:50:18"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "O estado do vínculo (ameaçado de romper ou estável) define se o movimento pode ser mais 'violento' ou aversivo ou se ainda é preciso construir.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:39:48"
+  },
+  {
+   "nome": "Contratransferência",
+   "definicao": "A monitorada relata que o paciente a 'atravessou' por lembrar pessoas próximas, o que tornou o atendimento mais difícil. Diogo não usa o termo; a ligação é do fichamento.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:02:43"
+  },
+  {
+   "nome": "Paciente simulado por inteligência artificial",
+   "definicao": "Ferramenta de treino usada na monitoria. O atendimento pode continuar em sessões seguintes, o que a monitorada não sabia.",
+   "exemplo": "Ela achou que só teria uma sessão e tentou 'resolver tudo'.",
+   "abordagem": "",
+   "ts": "0:38:34"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Monitoria de atendimento com paciente de IA",
+   "objetivo": "Tornar conscientes e justificáveis as decisões clínicas de cada intervenção (o que priorizar, por que, com que movimento) a partir de um atendimento escrito com paciente simulado.",
+   "competencias": [
+    "Intervenção",
+    "Direção do tratamento",
+    "Formulação de caso",
+    "Escuta clínica"
+   ],
+   "configuracao": "Online; uma monitorada em primeiro plano; o supervisor com o chat do atendimento na tela; pequeno grupo observando e perguntando por voz ou chat.",
+   "tempo": "Cerca de 50 min para umas cinco trocas do atendimento.",
+   "materiais": "Ferramenta de pacientes simulados por IA; registro escrito da sessão; compartilhamento de tela.",
+   "consigna": "Vá lendo o que achar relevante da resposta do paciente, inteira ou resumida, e vamos conversando sobre cada intervenção.",
+   "passos": [
+    "A monitorada resume o que sentiu e o caso até o ponto de partida.",
+    "Mostrar a intervenção e a resposta do paciente.",
+    "O supervisor pergunta o que ela percebeu e o que considerou relevante.",
+    "Perguntar a intenção e a função da intervenção.",
+    "Avaliar pelo objetivo: aprofundou? Aonde queria chegar? Por que não perguntou isso?",
+    "A partir da resposta, fazer um bloco curto de ensino.",
+    "Depois de cada resposta do paciente: o que isso diz sobre o caso? Muda a hipótese?",
+    "Fechar com uma lição transversal e liberar o grupo fora da gravação."
+   ],
+   "feedback": "Quase sempre por perguntas, raramente por afirmações. Critérios: intencionalidade (usar repetição com propósito), coerência entre intenção e pergunta (se há hipótese, testá-la), escolha justificada entre alternativas, adequação ao serviço e ao vínculo e abertura a hipóteses concorrentes.",
+   "exemplos_praticos": "A monitorada reconheceu sozinha várias melhorias: apontar o 'automático', tirar uma pergunta que só gerou síntese, perguntar antes de confrontar. Admitiu nervosismo e medo de 'bancar' uma intervenção e descobriu que a pressa vinha de supor uma só sessão. Um participante acrescentou a pergunta sobre se o 'sentido da vida' foi respondido.",
+   "variacoes": "Partir de um ponto adiantado quando o grupo já conhece o caso; o próprio supervisor pode apresentar o atendimento (mon-16); formato anterior de intervisão.",
+   "armadilhas": "A série de 'por quê?' pode inibir quem está nervoso (Diogo acolhe com 'tudo bem' e humor); ler o paciente pela história pessoal do terapeuta; supor que o atendimento com IA não tem continuidade.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:03:57"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Situa recém-chegados e adapta o plano",
+   "descricao": "Explica a monitoria a quem só conhecia o formato antigo e, como muitos viram o caso na véspera, adianta o material.",
+   "exemplo": "'Vou pegar o caso já um pouco mais maduro.'",
+   "ts": "0:01:28"
+  },
+  {
+   "movimento": "Começa pelo vivido do terapeuta",
+   "descricao": "Pede um resumo do que a monitorada sentiu e do que o caso lhe trouxe antes de analisar as intervenções.",
+   "exemplo": "'Dá um resumo do que você sentiu e do que o caso te trouxe.'",
+   "ts": "0:02:05"
+  },
+  {
+   "movimento": "Dá protagonismo a quem apresenta",
+   "descricao": "No modelo da monitoria, a monitorada lê e escolhe o que é relevante.",
+   "exemplo": "'Vou pedir para você ir lendo o que achar relevante.'",
+   "ts": "0:03:57"
+  },
+  {
+   "movimento": "Perguntas socráticas em cadeia",
+   "descricao": "Quase nunca afirma primeiro: encadeia perguntas sobre relevância, função, objetivo, alternativas, timing e movimento.",
+   "exemplo": "'Qual a função do apontar para você?'; 'que lugar era esse?'; 'por que nesse momento?'; 'por que essa dentre todas as outras?'.",
+   "ts": "0:08:47"
+  },
+  {
+   "movimento": "Parafraseia para checar a compreensão",
+   "descricao": "Devolve o raciocínio da monitorada em forma de regra para ela confirmar.",
+   "exemplo": "'Então você está me dizendo que, quando percebe uma repetição, procura os espaços em que ela não ocorre.'",
+   "ts": "0:07:23"
+  },
+  {
+   "movimento": "Transforma a fala da monitorada em aula",
+   "descricao": "Usa uma admissão ou dúvida da monitorada como gatilho para um bloco teórico.",
+   "exemplo": "'Vou usar isso que você trouxe como exemplo para abordar outra coisa.'",
+   "ts": "0:15:32"
+  },
+  {
+   "movimento": "Acolhe a vulnerabilidade com leveza",
+   "descricao": "Diante do nervosismo, responde sem julgamento e com humor.",
+   "exemplo": "'Tudo bem'; promete uma história engraçada sobre o ChatGPT no fim.",
+   "ts": "0:15:32"
+  },
+  {
+   "movimento": "Amplia as perguntas do grupo",
+   "descricao": "Transforma a pergunta de um participante numa tese geral.",
+   "exemplo": "Do 'sentido da vida foi respondido?' para 'discurso também é postura'.",
+   "ts": "0:29:03"
+  },
+  {
+   "movimento": "Separa intenções misturadas",
+   "descricao": "Identifica que uma intervenção tem várias direções e pergunta por cada uma.",
+   "exemplo": "'Você me trouxe direcionamentos simultâneos, certo?'",
+   "ts": "0:32:12"
+  },
+  {
+   "movimento": "Oferece alternativas depois do raciocínio da monitorada",
+   "descricao": "Monta o leque de movimentos possíveis como perguntas, e não como correção.",
+   "exemplo": "'Você poderia tentar entender melhor como isso foi acontecendo… o que ele perde, o que ganha…'",
+   "ts": "0:37:28"
+  },
+  {
+   "movimento": "Oferece leituras próprias com ressalva",
+   "descricao": "Propõe uma leitura nova marcando a incerteza.",
+   "exemplo": "'Nem sei se de fato falta de responsabilidade tem a ver com esse cara.'",
+   "ts": "0:46:15"
+  },
+  {
+   "movimento": "Ensina pelo próprio erro",
+   "descricao": "Conta de forma genérica um erro clínico seu, causado pelo viés de confirmação, e o que aprendeu.",
+   "exemplo": "A crise de ansiedade lida só como evitação.",
+   "ts": "0:47:16"
+  },
+  {
+   "movimento": "Cuida da avaliação do formato",
+   "descricao": "Pede que todos preencham o formulário de presença e avaliação, que orienta o cronograma e o repasse ao Alan.",
+   "exemplo": "'Avaliem, senão eu não tenho como passar isso pro Alan.'",
+   "ts": "0:28:06"
+  },
+  {
+   "movimento": "Fecha fora da gravação",
+   "descricao": "Para a gravação antes das opiniões do grupo para que fiquem mais à vontade.",
+   "exemplo": "'Deixa eu parar a gravação que a gente fica mais à vontade.'",
+   "ts": "0:51:42"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Use cada repetição do paciente com um propósito explícito.",
+   "justificativa": "É uma via fácil de potência clínica, mas usada 'à toa' não produz nada.",
+   "contexto": "Palavras ou temas recorrentes.",
+   "competencia": "Escuta clínica",
+   "ts": "0:10:34"
+  },
+  {
+   "dica": "Quando um termo que você introduziu passa a ser repetido pelo paciente, pergunte o que ele significa para ele.",
+   "justificativa": "O paciente pode estar adotando a sua tradução sem elaborá-la.",
+   "contexto": "Depois de espelhamentos e traduções.",
+   "competencia": "Aprofundamento",
+   "ts": "0:07:52"
+  },
+  {
+   "dica": "Aponte para elucidar e depois elaborar; se o paciente disser que 'não é nada', aceite.",
+   "justificativa": "Às vezes realmente não há o que elaborar, e muitas vezes há.",
+   "contexto": "Comportamentos ou incongruências notados em sessão.",
+   "competencia": "Intervenção",
+   "ts": "0:08:56"
+  },
+  {
+   "dica": "Julgue sua intervenção pelo lugar aonde queria chegar.",
+   "justificativa": "Se precisou de outra pergunta, a primeira não bastou.",
+   "contexto": "Revisão de sessões.",
+   "competencia": "Intervenção",
+   "ts": "0:14:00"
+  },
+  {
+   "dica": "Prefira perguntas abertas a perguntas de sim ou não.",
+   "justificativa": "Não delimitam o escopo e deixam vir o relevante (pai, irmãos, avó, quando se pergunta só da mãe).",
+   "contexto": "Investigação em geral.",
+   "competencia": "Escuta clínica",
+   "ts": "0:16:45"
+  },
+  {
+   "dica": "Diante de relato de tentativa de suicídio, seja diretivo e siga o protocolo.",
+   "justificativa": "A prioridade é minimizar o risco: entender o ocorrido, contatar um responsável, mapear os meios em casa.",
+   "contexto": "Sempre que houver risco.",
+   "competencia": "Priorização clínica",
+   "ts": "0:18:39"
+  },
+  {
+   "dica": "Quando a hipótese estiver forte, pergunte-a diretamente, sem jargão.",
+   "justificativa": "Rodeá-la gasta a sessão; a resposta confirma ou obriga a reconstruir.",
+   "contexto": "Quando você percebe que está montando perguntas indiretas para chegar a ela.",
+   "competencia": "Intervenção",
+   "ts": "0:20:44"
+  },
+  {
+   "dica": "Se o paciente corrigir sua hipótese, use as palavras dele para refazê-la.",
+   "justificativa": "'Não evito, me seguro' abre outro caminho ('como é esse segurar?').",
+   "contexto": "Hipótese refutada.",
+   "competencia": "Formulação de caso",
+   "ts": "0:21:40"
+  },
+  {
+   "dica": "Observe se o problema do paciente aparece com você e trabalhe-o ali.",
+   "justificativa": "É a única amostra do problema a que o terapeuta tem acesso direto.",
+   "contexto": "Evitação, racionalização e afastamento em sessão.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:22:45"
+  },
+  {
+   "dica": "Leia a forma da resposta, não só o conteúdo.",
+   "justificativa": "Discurso também é postura; uma resposta evasiva pode ser a própria evitação.",
+   "contexto": "Perguntas existenciais ou amplas.",
+   "competencia": "Escuta clínica",
+   "ts": "0:29:03"
+  },
+  {
+   "dica": "Não empilhe intenções numa mesma intervenção.",
+   "justificativa": "Fica difícil saber o que produziu o efeito, e o paciente pode responder só a uma.",
+   "contexto": "Confrontos que também carregam julgamento ('não é justo').",
+   "competencia": "Construção frasal",
+   "ts": "0:32:12"
+  },
+  {
+   "dica": "Antes de confrontar, saiba que movimento clínico quer produzir e por que agora.",
+   "justificativa": "Confrontar é só uma entre várias opções.",
+   "contexto": "Logo depois de confirmar uma hipótese.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:34:55"
+  },
+  {
+   "dica": "Depois de confirmar uma hipótese, considere o leque de movimentos: gênese, ganhos e perdas, conforto, desejo.",
+   "justificativa": "Ampliar a compreensão pode preparar melhor a mudança.",
+   "contexto": "Antes de 'mostrar uma nova visão'.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:37:28"
+  },
+  {
+   "dica": "Calibre o movimento pelo tipo de serviço e pelo estado do vínculo.",
+   "justificativa": "Plantão e psicodiagnóstico pedem outra coisa que psicoterapia, e um vínculo frágil não aguenta intervenções aversivas.",
+   "contexto": "Planejamento de cada sessão.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:39:48"
+  },
+  {
+   "dica": "Defina o objetivo da sessão: esclarecer a fundo ou entender o essencial e preparar a transformação.",
+   "justificativa": "Evita passar a sessão inteira 'tentando entender'.",
+   "contexto": "Início ou meio da sessão.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:40:57"
+  },
+  {
+   "dica": "Depois de cada resposta, pergunte-se o que ela diz sobre o caso e se muda sua hipótese.",
+   "justificativa": "Mantém a formulação viva.",
+   "contexto": "Ao longo de toda a sessão.",
+   "competencia": "Formulação de caso",
+   "ts": "0:42:50"
+  },
+  {
+   "dica": "Ao ouvir 'é o meu jeito', considere tanto a irresponsabilização quanto o sofrimento associado.",
+   "justificativa": "Um sintoma físico sugere que o 'jeito' não está bem; o discurso pode ser uma forma de não se responsabilizar.",
+   "contexto": "Justificativas identitárias.",
+   "competencia": "Escuta clínica",
+   "ts": "0:45:49"
+  },
+  {
+   "dica": "Procure ativamente o que sua hipótese confirmada deixa de fora.",
+   "justificativa": "Viés de confirmação.",
+   "contexto": "Sobretudo quando tudo parece confirmar a hipótese.",
+   "competencia": "Formulação de caso",
+   "ts": "0:47:16"
+  },
+  {
+   "dica": "Em crise aguda, estabilize antes de interpretar; na repetição de fuga sem crise, intervenha.",
+   "justificativa": "Sem capacidade de refletir não há elaboração, e o limite do funcionamento é informação clínica.",
+   "contexto": "Episódios de ansiedade em sessão (hiperventilação, falta de ar).",
+   "competencia": "Intervenção",
+   "ts": "0:50:18"
+  },
+  {
+   "dica": "No treino com paciente de IA, lembre que a sessão pode continuar.",
+   "justificativa": "Achar que só há uma sessão empurra para confrontos precipitados.",
+   "contexto": "Uso da ferramenta de simulação.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:38:34"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Repetições são um caminho fácil para a potência clínica, mas precisam de propósito.",
+   "argumento": "Chamam a atenção; sem motivo, viram técnica vazia.",
+   "contraponto": "O uso automático de devolver repetições.",
+   "implicacao": "Antes de apontar, saber para quê (elucidar, aprofundar).",
+   "quem": "Diogo",
+   "ts": "0:10:34"
+  },
+  {
+   "tese": "A investigação aberta é, em regra, melhor que a diretiva.",
+   "argumento": "Não delimita o escopo, não perde informação e deixa o paciente trazer o relevante do momento.",
+   "contraponto": "Visões diretivas, como o mapeamento da queixa na TCC.",
+   "implicacao": "Começar amplo.",
+   "quem": "Diogo",
+   "ts": "0:16:45"
+  },
+  {
+   "tese": "O argumento da TCC para perguntas diretivas (entender completamente o caso) é 'um pouco raso'.",
+   "argumento": "Dá para entender completamente o caso com perguntas abertas, e a construção do paciente é melhor que a direção pela hipótese do terapeuta.",
+   "contraponto": "A TCC; o próprio Diogo reconhece a exceção do risco de suicídio.",
+   "implicacao": "Reservar a diretividade para prioridades e hipóteses fortes.",
+   "quem": "Diogo",
+   "ts": "0:18:39"
+  },
+  {
+   "tese": "Quando a hipótese está forte, é melhor perguntá-la diretamente ('tirar o elefante da sala').",
+   "argumento": "Rodear a hipótese gasta sessão; confirmada, aprofunda; refutada, obriga a reconstruir.",
+   "contraponto": "A estratégia indireta de montar perguntas em função de uma hipótese não dita.",
+   "implicacao": "Nomear a hipótese na língua do paciente.",
+   "quem": "Diogo",
+   "ts": "0:20:44"
+  },
+  {
+   "tese": "A relação terapêutica é o principal instrumento de mudança.",
+   "argumento": "O terapeuta só tem acesso a uma hora da vida do paciente; o problema aparece ali e pode ser trabalhado ao vivo (FAP).",
+   "contraponto": "Ler a racionalização apenas como defesa que distancia.",
+   "implicacao": "Observar e explorar comportamentos clinicamente relevantes em sessão.",
+   "quem": "Diogo",
+   "ts": "0:21:40"
+  },
+  {
+   "tese": "Discurso também é postura.",
+   "argumento": "Quem evita na vida pode evitar também na resposta; o 'sentido da vida' do paciente pode ser um pseudossentido.",
+   "contraponto": "Ressalva do próprio Diogo: 'não querendo fazer um psicologismo'.",
+   "implicacao": "Ler a forma das respostas como amostra do padrão.",
+   "quem": "Diogo",
+   "ts": "0:29:03"
+  },
+  {
+   "tese": "O movimento clínico deve ser escolhido conscientemente em função do serviço e do vínculo.",
+   "argumento": "Plantão e psicodiagnóstico têm objetivos diferentes da psicoterapia; o vínculo determina quanto de aversividade é possível.",
+   "contraponto": "Passar a sessão 'tentando entender' sem direção, ou confrontar por pressa.",
+   "implicacao": "Definir o objetivo da sessão e o tipo de movimento antes de intervir.",
+   "quem": "Diogo",
+   "ts": "0:39:48"
+  },
+  {
+   "tese": "'É o meu jeito' pode ser um discurso de irresponsabilização.",
+   "argumento": "Justificar-se por uma identidade fixa tira de cena a escolha.",
+   "contraponto": "Ressalva do próprio Diogo: talvez não se aplique a este paciente.",
+   "implicacao": "Explorar a função do 'é o meu jeito' em vez de aceitá-lo ou combatê-lo.",
+   "quem": "Diogo",
+   "ts": "0:45:49"
+  },
+  {
+   "tese": "A hipótese confirmada tende a cegar o terapeuta.",
+   "argumento": "Pode-se, sem querer, confirmar o que já se pensava e perder o fundamental, como no erro do próprio Diogo diante de uma crise.",
+   "contraponto": "Confiança excessiva na formulação inicial.",
+   "implicacao": "Buscar ativamente o que a hipótese não explica.",
+   "quem": "Diogo",
+   "ts": "0:47:16"
+  },
+  {
+   "tese": "O momento de crise pode ser potencial de transformação, mas não é hora de interpretar.",
+   "argumento": "O limite do funcionamento evitativo aparece na crise, mas em episódio agudo não há capacidade de refletir.",
+   "contraponto": "Tanto 'acalmar para fugir' quanto 'não acalmar para não deixar fugir'.",
+   "implicacao": "Estabilizar e depois enfrentar junto.",
+   "quem": "Diogo",
+   "ts": "0:49:11"
+  },
+  {
+   "tese": "Se não houvesse o sintoma psicossomático, o jeito reservado do paciente poderia ser só um modo de amar; o sintoma mostra que não está saudável.",
+   "argumento": "Há quem demonstre amor de outras formas; mas a dor indica sofrimento ligado a não expressar o que sente.",
+   "contraponto": "O paciente: 'é o meu jeito'.",
+   "implicacao": "Usar o sintoma como critério para decidir se um traço é problema clínico.",
+   "quem": "Participante (monitorada)",
+   "ts": "0:44:43"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Repetições são elementos que cutucam os nossos ouvidos: um caminho bem útil, e até fácil, para alcançar potência clínica.",
+   "tema": "Repetição",
+   "ts": "0:10:01"
+  },
+  {
+   "texto": "A repetição não pode ser usada à toa.",
+   "tema": "Repetição",
+   "ts": "0:10:34"
+  },
+  {
+   "texto": "Quando a gente faz uma pergunta muito específica, delimita o escopo da resposta e perde acesso a informações vitais.",
+   "tema": "Perguntas abertas",
+   "ts": "0:16:45"
+  },
+  {
+   "texto": "Se você não chegou no lugar que queria, é porque você queria chegar a um lugar.",
+   "tema": "Hipótese",
+   "ts": "0:20:44"
+  },
+  {
+   "texto": "Às vezes é mais simples tirar o elefante da sala.",
+   "tema": "Pergunta direta",
+   "ts": "0:20:44"
+  },
+  {
+   "texto": "O discurso pode ser tão evitativo quanto a postura, porque discurso também é postura.",
+   "tema": "Escuta",
+   "ts": "0:29:03"
+  },
+  {
+   "texto": "Qual era o movimento clínico que você queria produzir quando decidiu confrontar?",
+   "tema": "Supervisão",
+   "ts": "0:34:55"
+  },
+  {
+   "texto": "Dá para fazer algo mais aversivo ou ainda tem que ser leve? Isso define a direção do atendimento.",
+   "tema": "Direção do tratamento",
+   "ts": "0:39:48"
+  },
+  {
+   "texto": "Quando alguém me diz 'é o meu jeito', eu leio nesse discurso uma certa irresponsabilização.",
+   "tema": "Escuta",
+   "ts": "0:45:49"
+  },
+  {
+   "texto": "A gente pode acabar, sem querer, confirmando as hipóteses que já estavam levantadas e perdendo coisas fundamentais.",
+   "tema": "Viés de confirmação",
+   "ts": "0:47:16"
+  },
+  {
+   "texto": "Quanto mais você foge, mais vai ficando encurralado; o momento da piração às vezes é um momento de potencial para transformar.",
+   "tema": "Crise",
+   "ts": "0:49:11"
+  },
+  {
+   "texto": "Quando a pessoa está hiperventilando, ela não tem nem capacidade de processar, de refletir: vale estabilizar primeiro.",
+   "tema": "Crise",
+   "ts": "0:50:18"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pergunta aberta ou pergunta direta?",
+   "mensagem": "A aberta amplia e deixa vir o relevante; a direta serve para o risco e para hipóteses fortes.",
+   "roteiro": [
+    "Fechada × aberta: exemplo da mãe/família",
+    "O que se perde ao delimitar",
+    "Exceção: risco de suicídio",
+    "Hipótese forte: pergunte direto",
+    "Se errar, a resposta reconstrói a hipótese"
+   ],
+   "corte_inicio": "0:15:32",
+   "corte_fim": "0:21:40"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Tire o elefante da sala",
+   "mensagem": "Rodear a hipótese gasta sessão; perguntar direto confirma ou obriga a reconstruir.",
+   "roteiro": [
+    "O terapeuta que rodeia",
+    "A pergunta direta",
+    "Os dois desfechos úteis"
+   ],
+   "corte_inicio": "0:20:44",
+   "corte_fim": "0:21:40"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "FAP em um minuto: a relação como instrumento de mudança",
+   "mensagem": "Comportamentos clinicamente relevantes aparecem em sessão e podem ser trabalhados ali; até a racionalização vira veículo.",
+   "roteiro": [
+    "Uma hora por semana",
+    "O problema aparece com o terapeuta",
+    "Três tipos de comportamento",
+    "Racionalização: defesa ou veículo?"
+   ],
+   "corte_inicio": "0:21:40",
+   "corte_fim": "0:23:41"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Discurso também é postura",
+   "mensagem": "A forma da resposta é amostra do padrão do paciente.",
+   "roteiro": [
+    "Frase",
+    "Explicação em duas linhas"
+   ],
+   "corte_inicio": "0:29:03",
+   "corte_fim": "0:30:04"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Crise não é hora de interpretar",
+   "mensagem": "Distinguir a repetição de uma fuga do esgotamento: na crise aguda, estabilizar primeiro (só o princípio, sem a vinheta).",
+   "roteiro": [
+    "Repetição × crise",
+    "Sem ar não há reflexão",
+    "Estabilizar e enfrentar junto"
+   ],
+   "corte_inicio": "0:50:18",
+   "corte_fim": "0:51:42"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "As perguntas que um bom supervisor faz",
+   "mensagem": "Qual a função? Aonde você queria chegar? Por que agora? Qual movimento? O que essa resposta te disse? Muda sua hipótese?",
+   "roteiro": [
+    "Função",
+    "Objetivo",
+    "Timing",
+    "Movimento",
+    "Leitura da resposta",
+    "Revisão da hipótese"
+   ],
+   "corte_inicio": "0:34:44",
+   "corte_fim": "0:38:26"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Cuidado com a hipótese confirmada",
+   "mensagem": "O viés de confirmação faz o terapeuta ler tudo pela hipótese e perder o fundamental.",
+   "roteiro": [
+    "O viés",
+    "Como ele aparece na clínica",
+    "Antídoto: procurar o que a hipótese não explica"
+   ],
+   "corte_inicio": "0:47:16",
+   "corte_fim": "0:48:15"
+  }
+ ],
+ "autores": [],
+ "formato_grupo": {
+  "nome": "Monitoria (Diogo) de atendimento com paciente de IA",
+  "objetivo": "Discutir atendimentos feitos com pacientes simulados por IA, as possibilidades de atendimento e o que surge no caso, tornando conscientes as decisões clínicas de quem atendeu.",
+  "publico": "Participantes da formação clínica da Allos (inclusive estudantes que usam o encontro como horas complementares).",
+  "tamanho": "Pequeno: uma monitorada e poucos participantes ativos.",
+  "duracao": "Cerca de 50 min gravados, mais conversa sem gravação.",
+  "estrutura_padrao": "Explicação do formato → resumo da monitorada (vivência e caso) → revisão das trocas do atendimento, com perguntas do supervisor e blocos curtos de ensino → contribuições do grupo → lição transversal com exemplo do supervisor → opiniões do grupo fora da gravação; link de presença e formulário de avaliação no meio.",
+  "papel_facilitador": "Supervisor socrático: pergunta mais do que afirma, extrai regras gerais das respostas, oferece alternativas e leituras próprias com ressalva, acolhe o nervosismo e ensina pelo próprio erro.",
+  "regras_combinados": "Seleção de um caso do dia; a monitorada lê ou resume o que achar relevante; participantes perguntam por voz; formulário de presença e avaliação (orienta o cronograma e o repasse ao Alan); parte final sem gravação."
+ },
+ "reflexoes_do_facilitador": [
+  "Relata um erro próprio: numa sessão real, preso à hipótese de evitação, leu uma crise de ansiedade apenas como fuga; só estudando depois percebeu que o funcionamento da paciente gerava crises e que ela não tinha condições de refletir naquele momento.",
+  "Marca a incerteza da própria leitura ('nem sei se falta de responsabilidade tem a ver com esse cara').",
+  "Reconhece que 'uso racional' não foi o melhor termo para falar do uso das repetições.",
+  "Pede avaliação do encontro e do próprio desempenho ('avaliem se o Diogo está chato') para decidir o cronograma com o Alan."
+ ],
+ "referencias_a_outros_encontros": [
+  "O mesmo caso simulado tinha sido analisado no Aprimoramento da véspera; a monitoria parte de onde pararam.",
+  "Um participante lembra que Diogo antes fazia a monitoria em formato de intervisão, ainda sem casos de IA.",
+  "O formulário de avaliação serve para decidir o cronograma (se o formato continua em dezembro) e é repassado ao Alan.",
+  "Diogo promete contar, depois do grupo, uma história sobre uma interação com o ChatGPT."
+ ],
+ "observacoes": "Transcrição automática com ruído. O paciente é simulado por IA (perfil 'rústico'), e os dados do caso são fictícios. A vinheta do supervisor é de caso real e foi registrada de forma genérica. As ressonâncias pessoais da monitorada foram descritas genericamente por privacidade. Há um trecho pouco claro em que a monitorada menciona ter aplicado 'cadeira vazia' (?) (0:30:31). O '111 minutos' mencionado por ela (0:03:57) é incerto. O nome da monitorada aparece no título original como 'Karla' e na fala como 'Carla'. A ligação com Contratransferência é do fichamento, não da fala."
+}

@@ -31,51 +31,51 @@ aliases: ["Encontro 37 e Encontro 38", "Acervo 19", "Dinâmica de troca"]
 
 Diferentemente dos encontros do Alan (teoria mínima → exercício → feedback), este Aprimoramento é **só prática**. A gravação começa com a combinação de que o psicólogo precisa estar de câmera ligada e com a pergunta "quem anima a dinâmica de troca?". Cinco pessoas se voluntariam. Gabriel, um dos dois membros do grupo que já conhecem a dinâmica, explica a regra: uma pessoa faz o paciente e todos os demais atendem em sequência. Cada terapeuta deve continuar a linha de raciocínio de quem veio antes. O organizador corta quando cada um atinge um critério que só é revelado no fim ("é spoiler"). Mateus, facilitador que supervisiona semanalmente pelo menos uma das participantes, faz o paciente. A ordem é postada no chat e muda a pedido de uma participante sem experiência clínica, que prefere não abrir o atendimento.
 
-A sessão simulada dura cerca de 33 minutos ({{ts:acervo-19@0:04:56}}–{{ts:acervo-19@0:37:36}}). O personagem é um psicólogo adulto exausto no fim do ano, que não consegue descansar e se cobra muito. Ao longo da sessão, os terapeutas vão abrindo camadas: satisfação no trabalho, excesso de responsabilidade pela vida dos pacientes, perfeccionismo, o desejo paradoxal de "sentir tudo", a dúvida sobre ser capaz, a dificuldade de estar só consigo mesmo (a "fuga de si" e o vazio), a vivência de julgamento na história de vida e, por fim, o autojulgamento como aquilo que mais pesa. O último terapeuta encerra com uma metáfora (a vida como um batimento cardíaco, com subidas e descidas), retoma o tema da perfeição trazido no início e deixa uma pergunta para a "próxima sessão".
+A sessão simulada dura cerca de 33 minutos ([▶ 0:04:56](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=296s)–[▶ 0:37:36](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2256s)). O personagem é um psicólogo adulto exausto no fim do ano, que não consegue descansar e se cobra muito. Ao longo da sessão, os terapeutas vão abrindo camadas: satisfação no trabalho, excesso de responsabilidade pela vida dos pacientes, perfeccionismo, o desejo paradoxal de "sentir tudo", a dúvida sobre ser capaz, a dificuldade de estar só consigo mesmo (a "fuga de si" e o vazio), a vivência de julgamento na história de vida e, por fim, o autojulgamento como aquilo que mais pesa. O último terapeuta encerra com uma metáfora (a vida como um batimento cardíaco, com subidas e descidas), retoma o tema da perfeição trazido no início e deixa uma pergunta para a "próxima sessão".
 
-No debriefing ({{ts:acervo-19@0:37:49}}), o grupo comenta que todos falaram "a mesma língua", de tom humanista, ainda que ninguém tenha declarado abordagem. Mateus dá feedback a partir da experiência de ter sido atendido: elogia os aprofundamentos e o engajamento em considerar a hipótese anterior, e faz um comentário curto sobre cada terapeuta. Gabriel revela a métrica do corte: **não produzir tanto, interpretar mais, precisar de pouca informação para intervir**. Por isso a terapeuta que abriu a sessão, a que "menos demorou para intervir", foi cortada mais cedo, e isso é lido como sinal de boa captação e interpretação. O encontro fecha com um feedback encorajador à participante iniciante: arriscar mais hipóteses e interpretar antes de aprofundar mais, "um passinho de cada vez".
+No debriefing ([▶ 0:37:49](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2269s)), o grupo comenta que todos falaram "a mesma língua", de tom humanista, ainda que ninguém tenha declarado abordagem. Mateus dá feedback a partir da experiência de ter sido atendido: elogia os aprofundamentos e o engajamento em considerar a hipótese anterior, e faz um comentário curto sobre cada terapeuta. Gabriel revela a métrica do corte: **não produzir tanto, interpretar mais, precisar de pouca informação para intervir**. Por isso a terapeuta que abriu a sessão, a que "menos demorou para intervir", foi cortada mais cedo, e isso é lido como sinal de boa captação e interpretação. O encontro fecha com um feedback encorajador à participante iniciante: arriscar mais hipóteses e interpretar antes de aprofundar mais, "um passinho de cada vez".
 
 ## Estrutura do encontro
 
 | Início | Bloco | O que acontece | Função pedagógica |
 |---|---|---|---|
-| {{ts:acervo-19@0:00:00}} | Abertura | Pedido de câmera ligada ("o psicólogo tem que ligar") e chamada de voluntários levantando a mão no Meet | Estabelece a norma de presença e o caráter voluntário da exposição |
-| {{ts:acervo-19@0:00:53}} | Combinados | Gabriel explica a dinâmica: um paciente, todos atendem em sequência; "surfar na hipótese do terapeuta anterior"; corte por critério secreto | Dá a consigna e o foco (continuidade de raciocínio e momento presente) sem entregar o critério |
-| {{ts:acervo-19@0:03:13}} | Combinados | Definição de papéis (Gabriel organiza e corta, Mateus é o paciente), ordem no chat, troca de ordem a pedido de uma iniciante, câmeras desligadas exceto a de quem atende | Organiza o revezamento e reduz a ansiedade de quem tem menos experiência |
-| {{ts:acervo-19@0:04:56}} | Dinâmica | 1ª terapeuta: abertura e primeiras perguntas (o que impede de descansar; o que é ter tempo para si) | Primeira hipótese: impossibilidade de descansar e culpa por parar |
-| {{ts:acervo-19@0:06:46}} | Dinâmica | Revezamento (troca provável): trabalho, responsabilidade pelos pacientes, autocobrança, como se sente ao falar disso, desejo de "sentir tudo" | Aprofundamento emocional seguindo a linha anterior |
-| {{ts:acervo-19@0:14:34}} | Dinâmica | Após falha de conexão, nova sequência sobre "ser capaz"; pergunta com duas alternativas, que o paciente questiona, e reparo | Mostra o risco de perguntas que fecham a resposta |
-| {{ts:acervo-19@0:17:57}} | Dinâmica | Expectativa de ser melhor, rotina, "fuga de si", vazio, terapia como cuidado de si, presença com outros, história de julgamentos, julgamento na clínica | Mudança de foco do cansaço para o autojulgamento |
-| {{ts:acervo-19@0:29:17}} | Dinâmica | Último terapeuta (após problema de áudio): conteúdo dos julgamentos, efeito da história, crença sobre si, a dicotomia "tudo ou vazio" | Aproxima a hipótese do núcleo: "nunca ser o suficiente" |
-| {{ts:acervo-19@0:35:43}} | Fechamento | Encerramento da sessão simulada: metáfora do batimento cardíaco, retomada da perfeição e dos limites, tema para a próxima sessão | Modelo de encerramento que sintetiza e deixa uma questão aberta |
-| {{ts:acervo-19@0:37:49}} | Discussão | "O que vocês acharam?"; pergunta sobre a abordagem usada; percepção de uma linguagem comum, humanista | Metarreflexão sobre a abordagem que emergiu sem ser combinada |
-| {{ts:acervo-19@0:38:56}} | Feedback | Mateus comenta a experiência de ser atendido e dá feedback geral e individual | Feedback a partir do lugar do paciente |
-| {{ts:acervo-19@0:41:13}} | Feedback | Revelação do critério de corte: interpretar mais, precisar de pouca informação para intervir | Explicita o critério de qualidade que regia o exercício |
-| {{ts:acervo-19@0:42:09}} | Bate-papo/Outro | Participantes associam o corte ao "corte lacaniano"; apelido de "terapia em grupo reversa"; conversa sobre a própria terapia | Descompressão e humor depois da exposição |
-| {{ts:acervo-19@0:44:30}} | Feedback | Devolutiva à participante iniciante: arriscar hipóteses, interpretar antes de aprofundar | Correção encorajadora para quem nunca atendeu |
-| {{ts:acervo-19@0:45:29}} | Fechamento | Encerramento informal ("passinho de cada vez") | Fecha com encorajamento |
+| [▶ 0:00:00](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=0s) | Abertura | Pedido de câmera ligada ("o psicólogo tem que ligar") e chamada de voluntários levantando a mão no Meet | Estabelece a norma de presença e o caráter voluntário da exposição |
+| [▶ 0:00:53](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=53s) | Combinados | Gabriel explica a dinâmica: um paciente, todos atendem em sequência; "surfar na hipótese do terapeuta anterior"; corte por critério secreto | Dá a consigna e o foco (continuidade de raciocínio e momento presente) sem entregar o critério |
+| [▶ 0:03:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=193s) | Combinados | Definição de papéis (Gabriel organiza e corta, Mateus é o paciente), ordem no chat, troca de ordem a pedido de uma iniciante, câmeras desligadas exceto a de quem atende | Organiza o revezamento e reduz a ansiedade de quem tem menos experiência |
+| [▶ 0:04:56](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=296s) | Dinâmica | 1ª terapeuta: abertura e primeiras perguntas (o que impede de descansar; o que é ter tempo para si) | Primeira hipótese: impossibilidade de descansar e culpa por parar |
+| [▶ 0:06:46](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=406s) | Dinâmica | Revezamento (troca provável): trabalho, responsabilidade pelos pacientes, autocobrança, como se sente ao falar disso, desejo de "sentir tudo" | Aprofundamento emocional seguindo a linha anterior |
+| [▶ 0:14:34](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=874s) | Dinâmica | Após falha de conexão, nova sequência sobre "ser capaz"; pergunta com duas alternativas, que o paciente questiona, e reparo | Mostra o risco de perguntas que fecham a resposta |
+| [▶ 0:17:57](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=1077s) | Dinâmica | Expectativa de ser melhor, rotina, "fuga de si", vazio, terapia como cuidado de si, presença com outros, história de julgamentos, julgamento na clínica | Mudança de foco do cansaço para o autojulgamento |
+| [▶ 0:29:17](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=1757s) | Dinâmica | Último terapeuta (após problema de áudio): conteúdo dos julgamentos, efeito da história, crença sobre si, a dicotomia "tudo ou vazio" | Aproxima a hipótese do núcleo: "nunca ser o suficiente" |
+| [▶ 0:35:43](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2143s) | Fechamento | Encerramento da sessão simulada: metáfora do batimento cardíaco, retomada da perfeição e dos limites, tema para a próxima sessão | Modelo de encerramento que sintetiza e deixa uma questão aberta |
+| [▶ 0:37:49](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2269s) | Discussão | "O que vocês acharam?"; pergunta sobre a abordagem usada; percepção de uma linguagem comum, humanista | Metarreflexão sobre a abordagem que emergiu sem ser combinada |
+| [▶ 0:38:56](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2336s) | Feedback | Mateus comenta a experiência de ser atendido e dá feedback geral e individual | Feedback a partir do lugar do paciente |
+| [▶ 0:41:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2473s) | Feedback | Revelação do critério de corte: interpretar mais, precisar de pouca informação para intervir | Explicita o critério de qualidade que regia o exercício |
+| [▶ 0:42:09](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2529s) | Bate-papo/Outro | Participantes associam o corte ao "corte lacaniano"; apelido de "terapia em grupo reversa"; conversa sobre a própria terapia | Descompressão e humor depois da exposição |
+| [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s) | Feedback | Devolutiva à participante iniciante: arriscar hipóteses, interpretar antes de aprofundar | Correção encorajadora para quem nunca atendeu |
+| [▶ 0:45:29](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2729s) | Fechamento | Encerramento informal ("passinho de cada vez") | Fecha com encorajamento |
 
 ## Conteúdo teórico
 
 Não há bloco teórico expositivo. O "conteúdo" está na lógica da dinâmica e no critério de qualidade que ela embute.
 
-### A lógica da troca: continuidade de hipótese e momento presente {{ts:acervo-19@0:00:53}}
+### A lógica da troca: continuidade de hipótese e momento presente [▶ 0:00:53](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=53s)
 
-Gabriel apresenta a intenção do exercício: "surfar na hipótese do terapeuta anterior". Se o colega vinha numa direção X, você segue em X. É permitido mudar de direção, mas a dinâmica **obriga a prestar atenção em duas coisas ao mesmo tempo**: nas hipóteses e na linha de raciocínio do terapeuta anterior (o que ele parecia estar pensando) e no que o paciente está dizendo. O efeito é puxar o terapeuta "muito para o momento presente" {{ts:acervo-19@0:02:07}}: quem resgata um tema antigo fora de hora quebra a continuidade. A regra do corte completa a lógica: cortado, o terapeuta não faz mais nenhuma intervenção, o paciente para de falar e o próximo assume, de preferência a partir da última fala.
+Gabriel apresenta a intenção do exercício: "surfar na hipótese do terapeuta anterior". Se o colega vinha numa direção X, você segue em X. É permitido mudar de direção, mas a dinâmica **obriga a prestar atenção em duas coisas ao mesmo tempo**: nas hipóteses e na linha de raciocínio do terapeuta anterior (o que ele parecia estar pensando) e no que o paciente está dizendo. O efeito é puxar o terapeuta "muito para o momento presente" [▶ 0:02:07](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=127s): quem resgata um tema antigo fora de hora quebra a continuidade. A regra do corte completa a lógica: cortado, o terapeuta não faz mais nenhuma intervenção, o paciente para de falar e o próximo assume, de preferência a partir da última fala.
 
-### O critério oculto: interpretar mais, perguntar menos {{ts:acervo-19@0:41:13}}
+### O critério oculto: interpretar mais, perguntar menos [▶ 0:41:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2473s)
 
-Só no fim o grupo descobre a métrica que decidia o corte: "não produzir tanto, interpretar mais, não precisar de tanta informação para intervir". Em outras palavras, o corte vinha quando o terapeuta chegava a uma intervenção com hipótese, e não enquanto apenas coletava dados. Mateus dá a leitura clínica: quem precisa de pouco para intervir está conseguindo "captar e interpretar muito bem os conteúdos do paciente". A lógica aproxima o exercício dos [[Esquemas de aprofundamento]], que são mencionados explicitamente ("o seu esquema de aprofundamento e as suas intervenções são relativamente cirúrgicas"). Aprofundar é bom, mas o "jogo" é **transformar o aprofundamento em hipótese** {{ts:acervo-19@0:44:30}}.
+Só no fim o grupo descobre a métrica que decidia o corte: "não produzir tanto, interpretar mais, não precisar de tanta informação para intervir". Em outras palavras, o corte vinha quando o terapeuta chegava a uma intervenção com hipótese, e não enquanto apenas coletava dados. Mateus dá a leitura clínica: quem precisa de pouco para intervir está conseguindo "captar e interpretar muito bem os conteúdos do paciente". A lógica aproxima o exercício dos [[Esquemas de aprofundamento]], que são mencionados explicitamente ("o seu esquema de aprofundamento e as suas intervenções são relativamente cirúrgicas"). Aprofundar é bom, mas o "jogo" é **transformar o aprofundamento em hipótese** [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s).
 
-### Perguntar para entender × levantar hipótese {{ts:acervo-19@0:44:30}}
+### Perguntar para entender × levantar hipótese [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s)
 
 No feedback à participante iniciante aparece a distinção central do encontro. Ela estava "querendo entender bastante, buscar, compreender através das perguntas". Mas "cabe levantar a hipótese": interpretar antes de fazer mais aprofundamentos e arriscar. A pergunta exploratória é necessária, mas não basta. O que o exercício treina é a coragem de propor uma leitura.
 
-### A pergunta de duas alternativas {{ts:acervo-19@0:14:57}}
+### A pergunta de duas alternativas [▶ 0:14:57](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=897s)
 
 Um terapeuta perguntou se o paciente tentava se convencer de que é capaz "porque acredita que é" ou "para camuflar que não se enxerga como capaz". O paciente devolveu: "por que só tem duas opções?". O terapeuta reparou na hora ("pode ser outra resposta, aqui é um espaço seu") e a resposta que veio foi uma terceira: "porque eu quero ser capaz". O episódio não foi comentado no feedback, mas mostra na prática que a [[Pergunta com alternativas fechadas]] estreita o campo e pode ser sentida como condução.
 
-### O encerramento como síntese {{ts:acervo-19@0:35:43}}
+### O encerramento como síntese [▶ 0:35:43](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2143s)
 
 O último terapeuta fecha a sessão com uma [[Metáfora terapêutica]]: a vida como um traçado de batimento cardíaco, que sobe e desce e nunca é perfeito. Depois amarra o que o próprio paciente trouxe no começo (perfeição e imperfeição, querer ultrapassar limites) e propõe uma questão para a próxima sessão: *como* ele quer ultrapassar esses limites e o que isso vai lhe trazer. Não houve feedback específico sobre esse fechamento, mas ele serve de modelo de [[Abertura e encerramento de sessão]].
 
@@ -97,21 +97,21 @@ O último terapeuta fecha a sessão com uma [[Metáfora terapêutica]]: a vida c
   7. O último terapeuta encerra a sessão como se fosse uma sessão real, com síntese e combinação da próxima.
   8. Debriefing: impressões do grupo, "qual abordagem vocês usaram?", feedback do paciente a cada terapeuta e, por fim, a revelação do critério de corte.
 - **Como o facilitador dá feedback / critérios de qualidade:** o feedback vem **de quem fez o paciente**, a partir da experiência de ser atendido ("me fizeram pensar bastante", "perspectiva mais resolutiva", "troca leve"). Os critérios explícitos são: aprofundar com liberdade, considerar a hipótese anterior (que é "a ideia do exercício"), interpretar mais e perguntar menos, e precisar de pouco para intervir. O feedback começa pelo positivo e, no caso da iniciante, traz um ponto de melhora bem delimitado ("sentir só um pouquinho de falta de arriscar").
-- **O que aconteceu na prática:** o grupo se engajou na continuidade das hipóteses {{ts:acervo-19@0:40:11}}. A terapeuta que abriu a sessão foi cortada muito cedo porque interveio rápido, e isso foi lido como virtude {{ts:acervo-19@0:41:13}}. Os participantes perceberam o corte como um "corte lacaniano" (o organizador levantava a mão logo depois de certas perguntas) {{ts:acervo-19@0:42:09}}. A participante sem experiência clínica ouviu que atendeu bem, mas que precisava arriscar hipóteses {{ts:acervo-19@0:44:30}}.
-- **Variações e armadilhas:** participantes batizaram o formato de "terapia em grupo reversa" (vários psicólogos, um paciente) {{ts:acervo-19@0:43:20}}. Falhas de conexão interrompem o fluxo, e o paciente precisa repetir a última resposta {{ts:acervo-19@0:14:34}}. Como o critério é secreto, parte do grupo fica em dúvida sobre se houve corte. Vale o organizador anunciar sempre o nome do próximo terapeuta. Um risco é o feedback ficar só impressionista, sem voltar a intervenções concretas. Uma variação possível é revelar o critério *antes* e pedir que cada um tente atingi-lo o mais rápido possível.
+- **O que aconteceu na prática:** o grupo se engajou na continuidade das hipóteses [▶ 0:40:11](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2411s). A terapeuta que abriu a sessão foi cortada muito cedo porque interveio rápido, e isso foi lido como virtude [▶ 0:41:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2473s). Os participantes perceberam o corte como um "corte lacaniano" (o organizador levantava a mão logo depois de certas perguntas) [▶ 0:42:09](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2529s). A participante sem experiência clínica ouviu que atendeu bem, mas que precisava arriscar hipóteses [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s).
+- **Variações e armadilhas:** participantes batizaram o formato de "terapia em grupo reversa" (vários psicólogos, um paciente) [▶ 0:43:20](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2600s). Falhas de conexão interrompem o fluxo, e o paciente precisa repetir a última resposta [▶ 0:14:34](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=874s). Como o critério é secreto, parte do grupo fica em dúvida sobre se houve corte. Vale o organizador anunciar sempre o nome do próximo terapeuta. Um risco é o feedback ficar só impressionista, sem voltar a intervenções concretas. Uma variação possível é revelar o critério *antes* e pedir que cada um tente atingi-lo o mais rápido possível.
 
 ## Dicas clínicas
 
-- **Continue a hipótese em curso antes de abrir um tema novo** — *Por quê:* a dinâmica treina justamente acompanhar a linha de raciocínio vigente e o que o paciente acabou de dizer, e resgatar temas antigos fora de hora tira a sessão do presente. *Quando:* em qualquer ponto do atendimento, e especialmente depois de uma fala carregada do paciente. {{ts:acervo-19@0:00:53}}
-- **Arrisque a hipótese em vez de só acumular perguntas** — *Por quê:* entender "através das perguntas" é necessário, mas o trabalho clínico avança quando o terapeuta interpreta e propõe uma leitura. *Quando:* quando já há material suficiente para uma primeira hipótese, mesmo parcial. {{ts:acervo-19@0:44:30}}
-- **Interprete antes de aprofundar mais** — *Por quê:* aprofundar sem interpretar produz muita informação e pouca direção. *Quando:* ao notar que você está fazendo a terceira ou quarta pergunta exploratória seguida. {{ts:acervo-19@0:44:30}}
-- **Tente precisar de pouca informação para intervir** — *Por quê:* é sinal de que você está captando e interpretando bem o conteúdo do paciente, e deixa a intervenção "cirúrgica". *Quando:* treino deliberado de interpretação; não vale como pressa em situações de risco. {{ts:acervo-19@0:41:13}}
-- **Evite perguntas com duas alternativas fechadas; se escapar uma, abra na hora** — *Por quê:* o paciente pode sentir a pergunta como condução ("por que só tem duas opções?"), e a resposta verdadeira pode ser uma terceira. *Quando:* ao testar hipóteses sobre motivação. Um reparo possível: "pode ser outra resposta, aqui é um espaço seu" (dica implícita na cena do roleplay). {{ts:acervo-19@0:14:57}}
-- **Nomeie a contradição que o próprio paciente trouxe** — *Por quê:* devolver a contradição ("você chegou dizendo que está exausto e ainda acha que precisa sentir mais; queria entender isso melhor") aprofunda sem impor uma interpretação. *Quando:* quando duas falas do paciente se chocam (dica implícita no roleplay). {{ts:acervo-19@0:12:11}}
-- **Traga a experiência da própria sessão para a conversa** — *Por quê:* perguntar "como essa interação chega para você?" liga o tema (medo de julgamento) ao que acontece na relação aqui e agora. *Quando:* quando o paciente comenta como está se sentindo na conversa (dica implícita no roleplay). {{ts:acervo-19@0:25:14}}
-- **No encerramento, amarre com o que o paciente disse no início e deixe uma pergunta para a próxima sessão** — *Por quê:* a síntese dá sentido ao percurso e cria continuidade entre as sessões. *Quando:* nos minutos finais (modelo observado no roleplay, sem avaliação explícita). {{ts:acervo-19@0:36:41}}
-- **No atendimento online, o psicólogo fica de câmera ligada** — *Por quê:* a presença do terapeuta faz parte do enquadre; o paciente pode escolher não ligar, mas "é forte" o psicólogo ficar de câmera desligada. *Quando:* sempre, no atendimento e no treino online. {{ts:acervo-19@0:00:00}}
-- **Na sua própria terapia, diga o que dá vontade de dizer ao terapeuta** — *Por quê:* "esse é o segredo da psicoterapia"; o que se cala por polidez deixa de ser trabalhado. *Quando:* na terapia pessoal do terapeuta em formação ([[Pessoa do terapeuta]]). {{ts:acervo-19@0:43:20}}
+- **Continue a hipótese em curso antes de abrir um tema novo** — *Por quê:* a dinâmica treina justamente acompanhar a linha de raciocínio vigente e o que o paciente acabou de dizer, e resgatar temas antigos fora de hora tira a sessão do presente. *Quando:* em qualquer ponto do atendimento, e especialmente depois de uma fala carregada do paciente. [▶ 0:00:53](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=53s)
+- **Arrisque a hipótese em vez de só acumular perguntas** — *Por quê:* entender "através das perguntas" é necessário, mas o trabalho clínico avança quando o terapeuta interpreta e propõe uma leitura. *Quando:* quando já há material suficiente para uma primeira hipótese, mesmo parcial. [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s)
+- **Interprete antes de aprofundar mais** — *Por quê:* aprofundar sem interpretar produz muita informação e pouca direção. *Quando:* ao notar que você está fazendo a terceira ou quarta pergunta exploratória seguida. [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s)
+- **Tente precisar de pouca informação para intervir** — *Por quê:* é sinal de que você está captando e interpretando bem o conteúdo do paciente, e deixa a intervenção "cirúrgica". *Quando:* treino deliberado de interpretação; não vale como pressa em situações de risco. [▶ 0:41:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2473s)
+- **Evite perguntas com duas alternativas fechadas; se escapar uma, abra na hora** — *Por quê:* o paciente pode sentir a pergunta como condução ("por que só tem duas opções?"), e a resposta verdadeira pode ser uma terceira. *Quando:* ao testar hipóteses sobre motivação. Um reparo possível: "pode ser outra resposta, aqui é um espaço seu" (dica implícita na cena do roleplay). [▶ 0:14:57](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=897s)
+- **Nomeie a contradição que o próprio paciente trouxe** — *Por quê:* devolver a contradição ("você chegou dizendo que está exausto e ainda acha que precisa sentir mais; queria entender isso melhor") aprofunda sem impor uma interpretação. *Quando:* quando duas falas do paciente se chocam (dica implícita no roleplay). [▶ 0:12:11](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=731s)
+- **Traga a experiência da própria sessão para a conversa** — *Por quê:* perguntar "como essa interação chega para você?" liga o tema (medo de julgamento) ao que acontece na relação aqui e agora. *Quando:* quando o paciente comenta como está se sentindo na conversa (dica implícita no roleplay). [▶ 0:25:14](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=1514s)
+- **No encerramento, amarre com o que o paciente disse no início e deixe uma pergunta para a próxima sessão** — *Por quê:* a síntese dá sentido ao percurso e cria continuidade entre as sessões. *Quando:* nos minutos finais (modelo observado no roleplay, sem avaliação explícita). [▶ 0:36:41](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2201s)
+- **No atendimento online, o psicólogo fica de câmera ligada** — *Por quê:* a presença do terapeuta faz parte do enquadre; o paciente pode escolher não ligar, mas "é forte" o psicólogo ficar de câmera desligada. *Quando:* sempre, no atendimento e no treino online. [▶ 0:00:00](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=0s)
+- **Na sua própria terapia, diga o que dá vontade de dizer ao terapeuta** — *Por quê:* "esse é o segredo da psicoterapia"; o que se cala por polidez deixa de ser trabalhado. *Quando:* na terapia pessoal do terapeuta em formação ([[Pessoa do terapeuta]]). [▶ 0:43:20](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2600s)
 
 ## Teses e posicionamentos
 
@@ -119,42 +119,42 @@ O último terapeuta fecha a sessão com uma [[Metáfora terapêutica]]: a vida c
   - *Argumento:* a dinâmica obriga a prestar atenção ao mesmo tempo na linha de raciocínio do outro terapeuta e na fala do paciente, e puxa para o momento presente.
   - *Contra quem / contraponto:* o terapeuta que ouve só o paciente e retoma temas antigos por conta própria.
   - *Implicação prática:* na clínica, acompanhar a hipótese em curso (a própria ou a da sessão anterior) antes de mudar de rumo.
-  - {{ts:acervo-19@0:00:53}} (Gabriel)
+  - [▶ 0:00:53](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=53s) (Gabriel)
 - **Tese:** Precisar de pouca informação para intervir indica boa capacidade interpretativa.
   - *Argumento:* quem intervém cedo e com precisão mostra que captou e interpretou o conteúdo; daí o critério de corte "interpretar mais, produzir menos".
   - *Contra quem / contraponto:* a postura de investigar exaustivamente antes de qualquer intervenção.
   - *Implicação prática:* treinar hipóteses rápidas e testáveis, e não uma coleta infinita de dados.
-  - {{ts:acervo-19@0:41:13}} (Mateus e Gabriel)
+  - [▶ 0:41:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2473s) (Mateus e Gabriel)
 - **Tese:** Perguntar para compreender não substitui arriscar uma hipótese.
   - *Argumento:* o "jogo" da clínica e do exercício é trazer hipóteses através da interpretação; a falta de arrisque é o principal ponto a melhorar em iniciantes.
   - *Contra quem / contraponto:* a timidez interpretativa de quem ainda não atendeu.
   - *Implicação prática:* no feedback a iniciantes, pedir uma hipótese explícita por turno.
-  - {{ts:acervo-19@0:44:30}} (Mateus)
+  - [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s) (Mateus)
 - **Tese:** O psicólogo deve manter a câmera ligada no atendimento online, mesmo que o paciente não ligue.
   - *Argumento:* a presença visível do terapeuta faz parte do enquadre; ficar de câmera desligada "é forte".
   - *Contra quem / contraponto:* a informalidade dos encontros online.
   - *Implicação prática:* regra de enquadre para atendimento e treino online.
-  - {{ts:acervo-19@0:00:00}}
+  - [▶ 0:00:00](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=0s)
 - **Tese:** Na terapia, o que dá vontade de dizer deve ser dito.
   - *Argumento:* "esse é o segredo da psicoterapia"; o impulso contido (inclusive a irritação com o terapeuta) é material de trabalho.
   - *Contra quem / contraponto:* a postura "polida" do paciente-psicólogo que se censura porque "o terapeuta tem razão".
   - *Implicação prática:* na terapia pessoal do terapeuta em formação, e como convite ao paciente.
-  - {{ts:acervo-19@0:43:20}} (Mateus)
+  - [▶ 0:43:20](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2600s) (Mateus)
 
 ## Como o facilitador conduz
 
-- **Norma de presença logo na abertura:** antes de qualquer coisa, o grupo insiste na câmera ligada, com humor, mas com firmeza ("é obrigatório"). {{ts:acervo-19@0:00:00}}
-- **Participação voluntária e visível:** "levanta a mãozinha aí no Meet" e cobrança bem-humorada de quem desligou a câmera. Quem não levanta a mão fica como ouvinte. {{ts:acervo-19@0:00:28}}
-- **Divisão de papéis entre facilitadores:** um facilitador faz o paciente (e depois dá o feedback a partir desse lugar) e o outro explica, ordena e corta. O paciente não precisa gerir o tempo e o cortador não precisa atuar. {{ts:acervo-19@0:03:13}}
-- **Delegar a explicação a quem conhece a dinâmica:** Mateus pergunta quem sabe a dinâmica e passa a palavra a Gabriel ("manda bala"). {{ts:acervo-19@0:00:53}}
-- **Critério secreto ("spoiler"):** o critério de corte só é revelado no fim, para que os participantes não "joguem para o critério" e para que a revelação vire aprendizagem no debriefing. {{ts:acervo-19@0:02:16}} {{ts:acervo-19@0:41:13}}
-- **Ajustar a ordem ao nível de experiência:** a participante que nunca atendeu pede para não abrir, e a ordem é refeita e postada no chat. {{ts:acervo-19@0:03:45}}
-- **Reduzir a exposição:** todos desligam a câmera e só o terapeuta da vez liga, o que diminui a sensação de plateia e ajuda o foco. {{ts:acervo-19@0:04:43}}
-- **Sustentar o personagem apesar das falhas técnicas:** quando a conexão cai, o paciente repete a última resposta sem sair do papel. {{ts:acervo-19@0:14:34}}
-- **Debriefing aberto antes do feedback:** "E aí, minha gente, o que vocês acharam?". O grupo fala primeiro, inclusive sobre a abordagem que emergiu. {{ts:acervo-19@0:37:49}}
-- **Feedback a partir do lugar do paciente:** Mateus diz como cada intervenção o afetou ("me fizeram pensar", "mais resolutiva", "leve"), um feedback vivencial e não técnico. {{ts:acervo-19@0:40:11}}
-- **Positivo primeiro, um ponto de melhora bem delimitado e encorajamento:** com a iniciante, elogia a disponibilidade para aprofundar, aponta só a "falta de arriscar" e fecha com "passinho de cada vez". {{ts:acervo-19@0:44:30}} {{ts:acervo-19@0:45:29}}
-- **Humor como regulador:** piadas sobre o "corte lacaniano", "terapia em grupo reversa" e "psicólogo é tudo raça ruim" descomprimem depois da exposição. O tom é bem mais informal que o dos encontros do Alan. {{ts:acervo-19@0:42:09}}
+- **Norma de presença logo na abertura:** antes de qualquer coisa, o grupo insiste na câmera ligada, com humor, mas com firmeza ("é obrigatório"). [▶ 0:00:00](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=0s)
+- **Participação voluntária e visível:** "levanta a mãozinha aí no Meet" e cobrança bem-humorada de quem desligou a câmera. Quem não levanta a mão fica como ouvinte. [▶ 0:00:28](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=28s)
+- **Divisão de papéis entre facilitadores:** um facilitador faz o paciente (e depois dá o feedback a partir desse lugar) e o outro explica, ordena e corta. O paciente não precisa gerir o tempo e o cortador não precisa atuar. [▶ 0:03:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=193s)
+- **Delegar a explicação a quem conhece a dinâmica:** Mateus pergunta quem sabe a dinâmica e passa a palavra a Gabriel ("manda bala"). [▶ 0:00:53](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=53s)
+- **Critério secreto ("spoiler"):** o critério de corte só é revelado no fim, para que os participantes não "joguem para o critério" e para que a revelação vire aprendizagem no debriefing. [▶ 0:02:16](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=136s) [▶ 0:41:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2473s)
+- **Ajustar a ordem ao nível de experiência:** a participante que nunca atendeu pede para não abrir, e a ordem é refeita e postada no chat. [▶ 0:03:45](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=225s)
+- **Reduzir a exposição:** todos desligam a câmera e só o terapeuta da vez liga, o que diminui a sensação de plateia e ajuda o foco. [▶ 0:04:43](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=283s)
+- **Sustentar o personagem apesar das falhas técnicas:** quando a conexão cai, o paciente repete a última resposta sem sair do papel. [▶ 0:14:34](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=874s)
+- **Debriefing aberto antes do feedback:** "E aí, minha gente, o que vocês acharam?". O grupo fala primeiro, inclusive sobre a abordagem que emergiu. [▶ 0:37:49](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2269s)
+- **Feedback a partir do lugar do paciente:** Mateus diz como cada intervenção o afetou ("me fizeram pensar", "mais resolutiva", "leve"), um feedback vivencial e não técnico. [▶ 0:40:11](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2411s)
+- **Positivo primeiro, um ponto de melhora bem delimitado e encorajamento:** com a iniciante, elogia a disponibilidade para aprofundar, aponta só a "falta de arriscar" e fecha com "passinho de cada vez". [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s) [▶ 0:45:29](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2729s)
+- **Humor como regulador:** piadas sobre o "corte lacaniano", "terapia em grupo reversa" e "psicólogo é tudo raça ruim" descomprimem depois da exposição. O tom é bem mais informal que o dos encontros do Alan. [▶ 0:42:09](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2529s)
 
 > [!note] Comparação com o formato do Alan
 > Nos encontros do Alan, o exercício vem depois de uma **teoria mínima** e o feedback é **técnico e imediato**, resposta a resposta, com critérios explicitados antes. Aqui não há teoria. O critério é **oculto** e só aparece no fim, e o feedback é **global e vivencial** (quem fez o paciente diz como se sentiu atendido). O ganho é o realismo (uma sessão contínua de 30 minutos, com início, meio e fim). A perda é a precisão: as intervenções quase não são retomadas uma a uma.
@@ -173,35 +173,35 @@ O último terapeuta fecha a sessão com uma [[Metáfora terapêutica]]: a vida c
 
 ## Frases para guardar
 
-> "A intenção é vocês conseguirem surfar na hipótese do terapeuta anterior." {{ts:acervo-19@0:00:53}}
+> "A intenção é vocês conseguirem surfar na hipótese do terapeuta anterior." [▶ 0:00:53](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=53s)
 
-> "Essa dinâmica força você a prestar atenção tanto nas hipóteses do terapeuta anterior, na linha de raciocínio dele, quanto no que o paciente está falando." {{ts:acervo-19@0:00:53}}
+> "Essa dinâmica força você a prestar atenção tanto nas hipóteses do terapeuta anterior, na linha de raciocínio dele, quanto no que o paciente está falando." [▶ 0:00:53](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=53s)
 
-> "Ela puxa você muito para o momento presente." {{ts:acervo-19@0:02:07}}
+> "Ela puxa você muito para o momento presente." [▶ 0:02:07](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=127s)
 
-> "O cliente não querer ligar a câmera, tudo bem. Mas o psicólogo tem que ligar." {{ts:acervo-19@0:00:00}}
+> "O cliente não querer ligar a câmera, tudo bem. Mas o psicólogo tem que ligar." [▶ 0:00:00](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=0s)
 
-> "A métrica era: não produzir tanto, interpretar mais, não precisar de tanta informação para intervir." {{ts:acervo-19@0:41:13}}
+> "A métrica era: não produzir tanto, interpretar mais, não precisar de tanta informação para intervir." [▶ 0:41:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2473s)
 
-> "Você precisou de pouco para intervir. Isso significa que você está conseguindo captar e interpretar muito bem os conteúdos do paciente." {{ts:acervo-19@0:41:13}}
+> "Você precisou de pouco para intervir. Isso significa que você está conseguindo captar e interpretar muito bem os conteúdos do paciente." [▶ 0:41:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2473s)
 
-> "O jogo dessa dinâmica é justamente trazer as hipóteses através da interpretação." {{ts:acervo-19@0:44:30}}
+> "O jogo dessa dinâmica é justamente trazer as hipóteses através da interpretação." [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s)
 
-> "Cabe tentar interpretar antes de realizar mais aprofundamentos." {{ts:acervo-19@0:44:30}}
+> "Cabe tentar interpretar antes de realizar mais aprofundamentos." [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s)
 
-> "Se dá vontade de falar, fala. Esse é o segredo da psicoterapia." {{ts:acervo-19@0:43:20}}
+> "Se dá vontade de falar, fala. Esse é o segredo da psicoterapia." [▶ 0:43:20](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2600s)
 
-> "Terapia em grupo reversa: normalmente são vários pacientes, e não vários psicólogos." (participante) {{ts:acervo-19@0:43:20}}
+> "Terapia em grupo reversa: normalmente são vários pacientes, e não vários psicólogos." (participante) [▶ 0:43:20](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2600s)
 
-> "Tá indo bem. Um passinho de cada vez." {{ts:acervo-19@0:45:29}}
+> "Tá indo bem. Um passinho de cada vez." [▶ 0:45:29](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2729s)
 
 ## Ideias de conteúdo
 
-- **Reels · bastidores-dos-grupos:** "Quatro terapeutas, um paciente, uma sessão" → como funciona a dinâmica de troca e por que ela treina escuta e continuidade de raciocínio. Corte sugerido: {{ts:acervo-19@0:00:53}}–{{ts:acervo-19@0:02:16}}
-- **Carrossel · clinica-na-pratica:** "Pergunte menos, interprete mais" → precisar de pouca informação para intervir é sinal de boa escuta; como transformar aprofundamento em hipótese. Corte sugerido: {{ts:acervo-19@0:41:13}}–{{ts:acervo-19@0:42:09}}
-- **Post · formacao-do-psicologo:** "O erro mais comum de quem está começando não é errar a hipótese: é não arriscar nenhuma" → o feedback a iniciantes e o "passinho de cada vez". Corte sugerido: {{ts:acervo-19@0:44:30}}–{{ts:acervo-19@0:45:29}}
-- **Carrossel · clinica-na-pratica:** "A pergunta de duas opções" → por que alternativas fechadas conduzem a resposta e como reabrir ("pode ser outra resposta") (técnica genérica, sem conteúdo do roleplay). Corte sugerido: {{ts:acervo-19@0:14:57}}–{{ts:acervo-19@0:15:39}}
-- **Stories · maximas-e-reflexoes:** "Psicólogo, liga a câmera" → enquadre no atendimento online. Corte sugerido: {{ts:acervo-19@0:00:00}}–{{ts:acervo-19@0:00:28}}
+- **Reels · bastidores-dos-grupos:** "Quatro terapeutas, um paciente, uma sessão" → como funciona a dinâmica de troca e por que ela treina escuta e continuidade de raciocínio. Corte sugerido: [▶ 0:00:53](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=53s)–[▶ 0:02:16](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=136s)
+- **Carrossel · clinica-na-pratica:** "Pergunte menos, interprete mais" → precisar de pouca informação para intervir é sinal de boa escuta; como transformar aprofundamento em hipótese. Corte sugerido: [▶ 0:41:13](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2473s)–[▶ 0:42:09](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2529s)
+- **Post · formacao-do-psicologo:** "O erro mais comum de quem está começando não é errar a hipótese: é não arriscar nenhuma" → o feedback a iniciantes e o "passinho de cada vez". Corte sugerido: [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s)–[▶ 0:45:29](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2729s)
+- **Carrossel · clinica-na-pratica:** "A pergunta de duas opções" → por que alternativas fechadas conduzem a resposta e como reabrir ("pode ser outra resposta") (técnica genérica, sem conteúdo do roleplay). Corte sugerido: [▶ 0:14:57](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=897s)–[▶ 0:15:39](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=939s)
+- **Stories · maximas-e-reflexoes:** "Psicólogo, liga a câmera" → enquadre no atendimento online. Corte sugerido: [▶ 0:00:00](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=0s)–[▶ 0:00:28](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=28s)
 
 ## Para replicar este encontro
 

@@ -1,0 +1,692 @@
+{
+ "id": "mon-08",
+ "nota": "Monitoria 08 - João de Bragança - MAPA e o papel do paciente",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "MAPA e o papel do paciente",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "João de Bragança"
+ ],
+ "resumo": "Monitoria temática, sem caso central. João de Bragança leva ao grupo uma pergunta do MAPA, o instrumento de competências clínicas da Allos, dentro do foco 'estrutura': como você comunica o papel do paciente no tratamento, e o seu, e com que recursos explícitos e implícitos? Os participantes, que já atendem, trazem repertórios implícitos (perguntar 'e a sua semana?', trazer para o aqui e agora) e explícitos (dizer que a terapia é um processo a dois, pedir que o paciente interprete junto). João insiste em extrair princípios dos casos e defende que a responsabilidade do paciente é diferente em cada caso, que o explícito é preferível ao implícito quando algo preocupa o terapeuta e que o terapeuta deve se adaptar sem se ajustar (Jung). O grupo debate se explicar uma intervenção implícita tira sua potência e onde está o limite da personalidade do terapeuta. João conclui que a teoria é uma forma justa de limitar o terapeuta.",
+ "em_uma_frase": "A partir de uma pergunta do MAPA sobre como comunicar o papel do paciente, o grupo conclui que não há um papel fixo a priori: há princípios abstratos (responsabilidade no processo) cujo conteúdo muda de caso para caso. João defende o explícito e a teoria como limite justo da personalidade do terapeuta.",
+ "competencias": [
+  "Relação terapêutica",
+  "Direção do tratamento",
+  "Pessoa do terapeuta",
+  "Intervenção",
+  "Psicoeducação",
+  "Primeira sessão e entrevistas iniciais",
+  "Articulação teoria-prática"
+ ],
+ "abordagens": [
+  "Psicologia analítica junguiana",
+  "Gestalt-terapia",
+  "Abordagem centrada na pessoa"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Retomada",
+   "descricao": "João lembra o tema da semana anterior (primeira sessão e início de sessões), cola no chat a pergunta do MAPA sobre o papel do paciente e lança uma pergunta prévia: o papel deve ser dito ou construído veladamente?",
+   "funcao": "Dar continuidade ao foco 'estrutura' do MAPA e polarizar antes das respostas.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:03",
+   "bloco": "Rodada de respostas",
+   "descricao": "Primeiras respostas: explicar numa situação específica versus o papel ao longo do processo; terapia como processo corresponsável, explicada a partir da terceira sessão, mais ou menos.",
+   "funcao": "Trazer à tona concepções implícitas; João distingue os níveis da resposta.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:06:23",
+   "bloco": "Rodada de respostas",
+   "descricao": "João chama quem estava calado e repete a pergunta. Uma participante gestáltica fala do paciente como protagonista no aqui e agora; outro participante fala do 'e a sua semana?' como forma implícita e admite não ter visão a priori.",
+   "funcao": "Garantir a participação de todos e levantar recursos implícitos concretos.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:14:09",
+   "bloco": "Rodada de respostas",
+   "descricao": "Um participante defende construir o papel ao longo do processo; João dá o enquadre ético para citar casos sem nomes; vinhetas de pacientes que fogem e de combinados explícitos com o paciente.",
+   "funcao": "Ancorar a discussão na prática real.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:18:25",
+   "bloco": "Discussão",
+   "descricao": "João pede a abstração dos casos e o que se espera a priori de todo paciente: genuinidade, congruência, colaboração, cada uma testada com contraexemplos.",
+   "funcao": "Treinar o salto do caso para o princípio geral.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:24:17",
+   "bloco": "Teoria",
+   "descricao": "A personalidade do terapeuta entra na relação; João explica adaptação versus ajustamento em Jung.",
+   "funcao": "Dar vocabulário teórico ao que surgiu na fala do participante.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:27:11",
+   "bloco": "Discussão",
+   "descricao": "João se posiciona: cobra responsabilidade no processo, mas ela muda de caso para caso; prefere o explícito ao implícito (exemplo de uma paciente hiper-responsável que começa a se atrasar).",
+   "funcao": "Modelar um posicionamento justificado com caso próprio.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:29:46",
+   "bloco": "Discussão",
+   "descricao": "Debate entre pares: intervir implicitamente e explicar depois? Explicar tira a potência? João traz um exemplo de ironia com um paciente pouco responsável; 'explicar a piada'.",
+   "funcao": "Examinar criticamente uma regra de supervisão.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:35:23",
+   "bloco": "Discussão",
+   "descricao": "Pergunta sobre os limites da abertura e da personalidade do terapeuta; relato de uma participante sobre autenticidade orientada pela supervisão.",
+   "funcao": "Levar a discussão para a pessoa do terapeuta.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:42:41",
+   "bloco": "Teoria",
+   "descricao": "Síntese de João: compreender demais versus ser compreendido demais; explicar o processo não é explicar a personalidade; a teoria como limite justo do terapeuta.",
+   "funcao": "Consolidar teses a partir das contribuições.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:46:18",
+   "bloco": "Discussão",
+   "descricao": "Explicar a própria personalidade tira o efeito (metáfora do pai 'nervoso'); a ironia é projetiva.",
+   "funcao": "Refinar a tese com o grupo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:48:20",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Conversa sobre a agenda de roleplays da semana.",
+   "funcao": "Logística do grupo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:49:23",
+   "bloco": "Discussão",
+   "descricao": "João sobe o nível: explicar o papel pode mecanizar a sessão? Discussão sobre relembrar o acordo inicial, o que é importante e a metáfora das zebras.",
+   "funcao": "Retomar a abstração e explorar efeitos colaterais da psicoeducação sobre o papel.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:58:01",
+   "bloco": "Discussão",
+   "descricao": "Um participante sintetiza: vale delimitar o papel do paciente, exceto em casos de acolhimento extremo; a meta é a autonomia.",
+   "funcao": "Fechamento de conteúdo feito pelo grupo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:59:47",
+   "bloco": "Fechamento",
+   "descricao": "Encerramento informal, com brincadeiras sobre terapeutas que se atrasam e a sinceridade do paciente.",
+   "funcao": "Despedida.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Mapa de competências",
+   "definicao": "O MAPA é um instrumento da Allos com mais de 120 perguntas disparadoras sobre elementos da estrutura da clínica (quem dá a direção, como decidir a alta, como comunicar o papel do paciente). Cada item tem espaço para a resposta do clínico, sua dificuldade, como acha que deveria fazer, comentários, nota do supervisor, leituras e exercícios recomendados. Serve para tornar consciente o que o clínico pensa e faz e, na prática deliberada, para definir objetivos de aprendizagem.",
+   "exemplo": "Na monitoria, João usa uma pergunta do 'foco estrutura' como disparador: 'Como você comunica o papel do paciente no tratamento e o seu?'. A explicação detalhada do instrumento está em pc-01 (1:42:01–1:46:52) e pd-06 (0:09:08).",
+   "abordagem": "",
+   "ts": "0:00:01"
+  },
+  {
+   "nome": "Papel do paciente no tratamento",
+   "definicao": "O que se espera que o paciente faça no processo terapêutico (colaborar, falar de si, trazer material, responsabilizar-se) e o modo como isso lhe é comunicado. O grupo conclui que não há papel fixo a priori válido para todos, só princípios abstratos que se especificam caso a caso.",
+   "exemplo": "'Foque em si' pode se inverter para um paciente autocentrado demais; 'colabore' pode se inverter no fim da terapia.",
+   "abordagem": "",
+   "ts": "0:22:22"
+  },
+  {
+   "nome": "Intervenção implícita e explícita",
+   "definicao": "Comunicar algo ao paciente dizendo-o deliberadamente (explícito) ou conduzindo e demonstrando sem dizer, 'na maciota' (implícito). As duas podem ser combinadas: intervir implicitamente, observar o efeito e explicar depois.",
+   "exemplo": "Implícito: perguntar 'e como foi a sua semana?' a quem só fala dos outros. Explícito: 'quero que você interprete isso comigo'.",
+   "abordagem": "",
+   "ts": "0:07:23"
+  },
+  {
+   "nome": "Responsabilização do paciente",
+   "definicao": "Princípio de João: cobrar do paciente responsabilidade no processo, mas com conteúdo diferente em cada caso. Para uns é trazer o material que evitam; para outros é justamente se desresponsabilizar um pouco.",
+   "exemplo": "Um paciente que nunca traz sonhos; uma paciente rigidamente pontual cujo progresso foi conseguir se atrasar.",
+   "abordagem": "",
+   "ts": "0:27:11"
+  },
+  {
+   "nome": "Adaptação e ajustamento",
+   "definicao": "Distinção junguiana apresentada por João: adaptar-se é mudar diante do outro mantendo fidelidade a si mesmo; ajustar-se é transformar-se em algo completamente diferente, infiel a si, a cada nova situação. O terapeuta deve se adaptar ao caso sem se ajustar.",
+   "exemplo": "'Se a cada novo caso você se torna uma pessoa diferente, que tipo de terapeuta é você?'",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:25:51"
+  },
+  {
+   "nome": "Personalidade do terapeuta como instrumento",
+   "definicao": "Para Jung, segundo João, o recurso mais útil e inalienável do terapeuta é a própria personalidade. Ela participa da relação de qualquer maneira, mas não deve ser imposta ao paciente nem 'explicada', o que tiraria seu efeito.",
+   "exemplo": "Explicar a própria personalidade é como o pai que avisa 'vou te bater, mas sou meio nervoso'.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:25:51"
+  },
+  {
+   "nome": "Congruência",
+   "definicao": "Termo de Carl Rogers usado por um participante como algo esperado do paciente. João observa que a incongruência é justamente o material da terapia; o participante reformula: espera que o paciente se torne mais congruente ao longo do processo (ponto de chegada, não de partida).",
+   "exemplo": "'Congruência é uma das coisas que eu menos vejo na terapia das pessoas: elas são incrivelmente contraditórias.'",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:24:17"
+  },
+  {
+   "nome": "Autorrevelação do terapeuta",
+   "definicao": "Expor ao paciente sentimentos, incômodos ou vulnerabilidades do terapeuta. Aparece como recurso de genuinidade e autenticidade, com risco de diretividade excessiva.",
+   "exemplo": "Uma participante, orientada pela supervisão, deixou de 'pisar em ovos' e disse à paciente como estava se sentindo na relação.",
+   "abordagem": "",
+   "ts": "0:39:35"
+  },
+  {
+   "nome": "Humor e ironia na clínica",
+   "definicao": "Uso deliberado de humor e ironia para mostrar ao paciente o absurdo de uma postura sem sermão. A ironia é projetiva, porque o paciente decide se foi ironia, e explicá-la costuma matar o efeito ('explicar a piada').",
+   "exemplo": "João oferece, ironicamente, mandar mensagens diárias para lembrar um paciente da medicação; o paciente ri e passa a se responsabilizar.",
+   "abordagem": "",
+   "ts": "0:32:15"
+  },
+  {
+   "nome": "Conhecimento e compreensão",
+   "definicao": "Antinomia junguiana invocada por um participante para pensar o excesso de afinidade: quando a compreensão mútua é total, desaparece a contraposição e a relação perde eficiência.",
+   "exemplo": "O paciente que acha que o terapeuta 'o entendeu como ninguém' e concorda com tudo.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:47:19"
+  },
+  {
+   "nome": "Teoria como limite do terapeuta",
+   "definicao": "Tese de João: a teoria tem 'um ponto justo de existir' porque limita a personalidade do terapeuta (sua moral, seus gostos, seu desejo de dizer o que achou bonito). Se a abordagem proíbe algo que a personalidade deseja, agir assim é usar a personalidade contra o próprio método.",
+   "exemplo": "Usar a própria moral para dialogar com o que o paciente traz é bom; impô-la é 'completamente problemático'.",
+   "abordagem": "",
+   "ts": "0:44:58"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "A terapia como processo a dois, de corresponsabilidade, com um acordo inicial que dá ao terapeuta um gancho para retomar a participação do paciente quando ela falta.",
+   "exemplo": "'A sessão é nós dois'; 'a gente já falou sobre isso'.",
+   "abordagem": "",
+   "ts": "0:03:44"
+  },
+  {
+   "nome": "Autonomia do paciente",
+   "definicao": "Horizonte do processo: no fim da terapia o paciente faz a própria análise. Orienta quando falar de responsabilidade, adiando a conversa em casos de fragilidade extrema.",
+   "exemplo": "Pacientes em sofrimento agudo que 'só querem que a dor pare' não ouvem um pedido de contribuição.",
+   "abordagem": "",
+   "ts": "0:58:01"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Pergunta disparadora do MAPA",
+   "objetivo": "Tornar consciente e explícito como cada participante lida com um elemento estrutural da clínica (aqui, comunicar o papel do paciente e o do terapeuta) e extrair princípios gerais da prática.",
+   "competencias": [
+    "Direção do tratamento",
+    "Relação terapêutica",
+    "Articulação teoria-prática"
+   ],
+   "configuracao": "Grupo todo, online, cerca de quatro a seis participantes que já atendem; respostas por voz e chat.",
+   "tempo": "O encontro inteiro (cerca de 1 hora) para uma única pergunta.",
+   "materiais": "Uma pergunta do MAPA (instrumento de competências da Allos) colada no chat.",
+   "consigna": "Como você comunica o papel do paciente no tratamento e o seu? Quais são os recursos explícitos e implícitos que você usa para isso? (Antes: você acha que o papel deve ser dito ao paciente ou construído veladamente?)",
+   "passos": [
+    "Retomar o foco do MAPA da semana anterior e colar a pergunta no chat",
+    "Lançar uma pergunta prévia que polarize (dizer × construir veladamente)",
+    "Rodada de respostas, chamando quem está calado",
+    "Parafrasear cada resposta em forma de princípio e checar",
+    "Pedir exemplos sem nomes e depois a lição geral de cada exemplo",
+    "Testar cada princípio com contraexemplos de outros participantes",
+    "O facilitador expõe a própria tese com um caso",
+    "Deixar o grupo debater e subir o nível de abstração quando a conversa se estreitar"
+   ],
+   "feedback": "A boa resposta é abstrata o bastante para valer para todos os casos e precisa (não 'depende' nem 'é relativo'). João aponta quando a resposta desliza para uma situação específica e quando um termo descreve o ideal e não o paciente (congruência).",
+   "exemplos_praticos": "O grupo se dividiu entre 'explico cedo e claramente que a terapia é a dois' e 'construo ao longo do processo'; surgiram recursos implícitos ('e a sua semana?') e explícitos ('interprete comigo', 'me mande parar quando eu viajar'), e três debates secundários: explicar intervenções implícitas, limites da personalidade do terapeuta e mecanização do papel.",
+   "variacoes": "Uma pergunta do MAPA por encontro, agrupadas por foco (alta, direção clínica, primeira sessão).",
+   "armadilhas": "O grupo tende a responder com casos e a relativizar; sem uma abordagem contrastante presente (aqui faltou psicanálise) a discussão perde dualidade e o facilitador precisa fazer o contraponto.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:00:01"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Pergunta do instrumento no chat",
+   "descricao": "Abre retomando o combinado e escrevendo a pergunta do MAPA no chat, para que ela fique visível e venha de um instrumento, não do gosto do dia.",
+   "exemplo": "'Essa pergunta que eu tô colocando aqui no chat: como você comunica o papel do paciente no tratamento e o seu?'",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Polarizar antes de perguntar",
+   "descricao": "Lança um dilema prévio e nota a ausência de uma abordagem contrastante, tratando a diversidade de abordagens como recurso.",
+   "exemplo": "'Não tem ninguém da psicanálise, então a gente fica com um pouco de falta de dualidade.'",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Corrigir o foco sem invalidar",
+   "descricao": "Mostra que a resposta foi para outro nível (situação específica) e reposiciona a pergunta (processo inteiro), atribuindo a diferença ao modo de pensar e não a um erro.",
+   "exemplo": "'Acho que a gente pensou um pouco diferente nesse ponto.'",
+   "ts": "0:02:36"
+  },
+  {
+   "movimento": "Distribuir a palavra",
+   "descricao": "Chama pelo nome quem está em áudio ou só no chat e repete a pergunta para quem chegou ou entendeu diferente.",
+   "exemplo": "'Talvez eu tenha mudado a pergunta, mas pode responder também.'",
+   "ts": "0:07:23"
+  },
+  {
+   "movimento": "Parafrasear como princípio e checar",
+   "descricao": "Transforma a fala do participante numa regra abstrata e pergunta se é isso; depois testa se a pessoa a comunica explicitamente.",
+   "exemplo": "'Tentando abstrair do que você falou: o papel do paciente seria focalizar cada vez mais a si mesmo? Mas você não fala isso com ele?'",
+   "ts": "0:09:50"
+  },
+  {
+   "movimento": "Pedir a lição depois do caso",
+   "descricao": "Não deixa o exemplo virar anedota: pede a abstração válida para o resto da clínica.",
+   "exemplo": "'Você tirou alguma lição dele, alguma abstração pro resto da clínica?'",
+   "ts": "0:18:25"
+  },
+  {
+   "movimento": "Enquadre ético para exemplos",
+   "descricao": "Diante do receio de citar casos numa gravação, lembra que o ambiente é acadêmico e que sem nomes não há problema.",
+   "exemplo": "'Não nomeando, não há muito problema se você quiser exemplificar.'",
+   "ts": "0:15:17"
+  },
+  {
+   "movimento": "Contraexemplo cruzado",
+   "descricao": "Usa a posição de um participante para testar a tese a priori de outro.",
+   "exemplo": "O foco no próprio paciente pode se inverter para quem é autocentrado demais, como sugeria outro participante.",
+   "ts": "0:22:22"
+  },
+  {
+   "movimento": "Nomear o conceito escondido",
+   "descricao": "Percebe que um participante usou um termo técnico (adaptação) e o explica para os demais.",
+   "exemplo": "'Foi consciente? Tá usando o conceito mesmo?' Em seguida, a explicação de adaptação e ajustamento em Jung.",
+   "ts": "0:25:51"
+  },
+  {
+   "movimento": "Posicionar-se e expor-se",
+   "descricao": "Assume uma tese em primeira pessoa, convida à crítica e usa casos próprios como ilustração.",
+   "exemplo": "'Eu, João, aí vocês podem me bater também...'",
+   "ts": "0:27:11"
+  },
+  {
+   "movimento": "Deixar o debate correr entre pares",
+   "descricao": "Permite minutos de discussão direta entre participantes e entra com um exemplo que dá razão parcial a ambos.",
+   "exemplo": "Debate sobre se explicar uma intervenção implícita tira sua potência, com o exemplo de João sobre ironia.",
+   "ts": "0:29:46"
+  },
+  {
+   "movimento": "Sintetizar cruzando contribuições",
+   "descricao": "Junta a pergunta de um participante e o relato de outra numa tese própria.",
+   "exemplo": "Compreender demais × ser compreendido demais; processo × personalidade; teoria como limite.",
+   "ts": "0:42:41"
+  },
+  {
+   "movimento": "Subir o nível de abstração",
+   "descricao": "Quando a conversa se prende a um ponto específico, reformula uma questão mais geral.",
+   "exemplo": "'Tô tentando abstrair um pouquinho mais: o quanto explicar o processo não deixa aquilo mecanizado?'",
+   "ts": "0:49:23"
+  },
+  {
+   "movimento": "Pergunta de precisão",
+   "descricao": "Pede que o participante especifique um critério que ficou implícito.",
+   "exemplo": "'Mas aí você delimita o que realmente importa?'",
+   "ts": "0:51:34"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Diga ao paciente, em algum momento, que a terapia é um processo a dois, de corresponsabilidade.",
+   "justificativa": "Tira o terapeuta do lugar de quem sabe tudo e vai curar, e cria um gancho para retomar a participação depois ('a gente já falou sobre isso').",
+   "contexto": "Não necessariamente na primeira sessão (desabafo e acolhimento); por volta da terceira, conforme o grau de consciência do paciente.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:03:44"
+  },
+  {
+   "dica": "Diante de quem só fala dos outros, pergunte 'e como foi a sua semana?'.",
+   "justificativa": "Comunica implicitamente que o espaço é sobre o paciente, sem precisar psicoeducar.",
+   "contexto": "Relatos centrados em terceiros.",
+   "competencia": "Intervenção",
+   "ts": "0:11:11"
+  },
+  {
+   "dica": "Peça explicitamente a colaboração do paciente quando precisar dela.",
+   "justificativa": "Frases como 'interprete isso comigo, sozinho eu não consigo' e 'você pode me fazer perguntas' ensinam o paciente a participar.",
+   "contexto": "Trabalho com sonhos, interpretações.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:16:30"
+  },
+  {
+   "dica": "Combine com o paciente como ele pode te corrigir.",
+   "justificativa": "Pedir 'quando eu viajar demais, me manda falar direito' ajusta a linguagem a um paciente mais concreto e fortalece a aliança com humor.",
+   "contexto": "Descompasso entre o estilo do terapeuta e o do paciente.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:17:45"
+  },
+  {
+   "dica": "Defina a responsabilidade do paciente caso a caso.",
+   "justificativa": "Para alguns é trazer o que evitam; para outros é afrouxar uma hiper-responsabilidade. Uma cobrança genérica pode reforçar o sintoma.",
+   "contexto": "Ao formular o que se espera do paciente.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:27:11"
+  },
+  {
+   "dica": "Quando um progresso traz um risco, nomeie os dois para o paciente.",
+   "justificativa": "Dizer o medo abertamente evita uma condução velada e preserva o ganho e o compromisso com a terapia.",
+   "contexto": "Mudanças desejadas que ameaçam o enquadre (atrasos, faltas).",
+   "competencia": "Relação terapêutica",
+   "ts": "0:28:17"
+  },
+  {
+   "dica": "Use humor e ironia com quem já conhece a sua personalidade, sem explicar a piada na hora.",
+   "justificativa": "A ironia mostra o absurdo de uma postura sem sermão; explicada, perde o efeito.",
+   "contexto": "Vínculo estabelecido; posturas de irresponsabilidade.",
+   "competencia": "Intervenção",
+   "ts": "0:32:15"
+  },
+  {
+   "dica": "Antes de explicar uma intervenção implícita, pergunte se a explicação a melhora.",
+   "justificativa": "Explicar pode matar o efeito (ironia) ou ensinar ao paciente o seu modo de funcionar e o método do terapeuta.",
+   "contexto": "Ao decidir retomar uma intervenção em sessões posteriores.",
+   "competencia": "Intervenção",
+   "ts": "0:34:21"
+  },
+  {
+   "dica": "Se você está pisando em ovos com um paciente, leve isso à supervisão e considere a autenticidade.",
+   "justificativa": "A máscara de cautela pode travar a relação; nomear o próprio incômodo abriu espaço no relato de uma participante.",
+   "contexto": "Irritação e evitação da sessão por parte do terapeuta, com o risco de ficar diretivo demais.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:39:35"
+  },
+  {
+   "dica": "Não imponha a sua moral ao paciente, mesmo quando ela ajuda a pensar o caso.",
+   "justificativa": "Usar valores para dialogar é legítimo; impô-los é usar a personalidade contra o próprio método.",
+   "contexto": "Quando surge a vontade de dizer algo só porque achou bonito ou certo.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:44:58"
+  },
+  {
+   "dica": "Não explique a sua personalidade ao paciente; deixe que ela apareça.",
+   "justificativa": "Anunciar 'sou irônico' tira o efeito e pode levar a uma concordância sem contraposição.",
+   "contexto": "Quando surge a vontade de se justificar.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:46:18"
+  },
+  {
+   "dica": "Mantenha o papel do paciente num nível abstrato; não o transforme em ritual.",
+   "justificativa": "Regras concretas ('conte sua semana') mecanizam as sessões.",
+   "contexto": "Ao psicoeducar sobre o funcionamento da terapia.",
+   "competencia": "Psicoeducação",
+   "ts": "0:50:37"
+  },
+  {
+   "dica": "Antes de chamar de volta 'ao que importa', desconfie do que parece irrelevante.",
+   "justificativa": "O importante pode estar escondido no que o paciente naturalizou (as zebras na manada); a intervenção explícita fica para o boicote evidente.",
+   "contexto": "Relatos aparentemente aleatórios.",
+   "competencia": "Escuta clínica",
+   "ts": "0:52:43"
+  },
+  {
+   "dica": "Adie a conversa sobre responsabilidade com pacientes muito fragilizados.",
+   "justificativa": "Quem só quer que a dor pare não consegue ouvir um pedido de contribuição; primeiro, acolher até haver segurança.",
+   "contexto": "Crises e acolhimento intenso.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:58:01"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O explícito é preferível ao implícito quando algo preocupa o terapeuta na relação.",
+   "argumento": "Guardar o medo 'na própria cabeça' gera condução velada; dizê-lo abre uma conversa que preserva ganhos e compromisso.",
+   "contraponto": "Construir tudo 'na maciota'; a máxima de supervisão de que explicar tira a potência.",
+   "implicacao": "Nomear riscos e expectativas em voz alta, sobretudo quando envolvem o enquadre.",
+   "quem": "João de Bragança",
+   "ts": "0:28:17"
+  },
+  {
+   "tese": "Não existe um papel do paciente a priori válido para todos; há princípios abstratos cujo conteúdo muda com o caso.",
+   "argumento": "Foco em si, colaboração e congruência se invertem conforme o caso ou a fase; 'responsabilidade no processo' sobrevive por ser aberta.",
+   "contraponto": "As ideias a priori de cada participante e o relativismo puro.",
+   "implicacao": "Formular princípios gerais e reescrevê-los para cada paciente.",
+   "quem": "João de Bragança",
+   "ts": "0:27:11"
+  },
+  {
+   "tese": "O terapeuta deve se adaptar ao caso sem se ajustar.",
+   "argumento": "A personalidade é o recurso mais útil e inalienável do terapeuta (Jung); quem vira outra pessoa a cada caso perde a identidade clínica.",
+   "contraponto": "A flexibilidade sem núcleo (terapeuta camaleão).",
+   "implicacao": "Variar estilo e técnica mantendo um núcleo reconhecível.",
+   "quem": "João de Bragança",
+   "ts": "0:25:51"
+  },
+  {
+   "tese": "A teoria é uma forma justa de limitar o próprio terapeuta.",
+   "argumento": "A personalidade inclui moral e gostos que podem ser danosos ou inúteis; o método protege o paciente dos desejos do terapeuta.",
+   "contraponto": "O terapeuta que 'tira coisas do próprio rabo'; a valorização de sentimentos e valores na clínica, que é legítima mas precisa de limite.",
+   "implicacao": "Diante de um impulso de intervir, perguntar se o próprio referencial o autoriza.",
+   "quem": "João de Bragança",
+   "ts": "0:44:58"
+  },
+  {
+   "tese": "A relação perde eficácia quando não há mais duas pessoas diferentes, seja porque o terapeuta compreende demais, seja porque o paciente concorda demais.",
+   "argumento": "Sem contraposição não há dialética; o paciente que acha que o terapeuta o entende como ninguém pode estar fora do trabalho.",
+   "contraponto": "A ideia de que afinidade máxima é o ideal da relação.",
+   "implicacao": "Desconfiar da concordância total e preservar a diferença.",
+   "quem": "João de Bragança (com um participante)",
+   "ts": "0:43:52"
+  },
+  {
+   "tese": "'Explicar uma intervenção implícita tira sua potência' é uma regra arbitrária.",
+   "argumento": "Uma intervenção pode agir no momento e ser retomada depois para ensinar o funcionamento do paciente; só algumas (a ironia) perdem força quando explicadas.",
+   "contraponto": "Uma máxima ouvida em supervisão por um participante.",
+   "implicacao": "Decidir caso a caso pelo critério 'explicar melhora ou não?'.",
+   "quem": "Participantes, com assentimento de João",
+   "ts": "0:31:11"
+  },
+  {
+   "tese": "Há limite para a sinceridade do terapeuta, mas não para a do paciente.",
+   "argumento": "Dita em tom de brincadeira, a propósito de um terapeuta que se atrasa: o paciente pode e deve dizer o que o incomoda.",
+   "contraponto": "",
+   "implicacao": "Autorizar explicitamente o paciente a reclamar e a dar feedback.",
+   "quem": "Provavelmente João de Bragança",
+   "ts": "0:59:51"
+  },
+  {
+   "tese": "Em geral vale a pena delimitar o papel do paciente, exceto em casos de acolhimento extremo.",
+   "argumento": "O fim da terapia é a autonomia; mas quem chega muito fragilizado não consegue ouvir um pedido de contribuição.",
+   "contraponto": "Deixar o papel sempre implícito.",
+   "implicacao": "Introduzir a responsabilidade conforme o ego se estrutura.",
+   "quem": "Um participante",
+   "ts": "0:58:01"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Existe uma responsabilidade diferente para cada caso.",
+   "tema": "Responsabilização do paciente",
+   "ts": "0:27:11"
+  },
+  {
+   "texto": "Eu prefiro coisas explícitas a coisas implícitas.",
+   "tema": "Explícito e implícito",
+   "ts": "0:28:17"
+  },
+  {
+   "texto": "Em vez de amarrar isso implicitamente na minha própria cabeça, eu prefiro só falar do medo que eu tenho.",
+   "tema": "Explícito e implícito",
+   "ts": "0:29:46"
+  },
+  {
+   "texto": "Se a cada novo caso você se torna uma pessoa diferente, que tipo de terapeuta é você?",
+   "tema": "Adaptação e ajustamento",
+   "ts": "0:25:51"
+  },
+  {
+   "texto": "Congruência é uma das coisas que eu menos vejo na terapia das pessoas: elas são incrivelmente contraditórias.",
+   "tema": "Congruência",
+   "ts": "0:24:17"
+  },
+  {
+   "texto": "Quando você compreende demais o paciente, começa a justificar a neurose dele junto com ele.",
+   "tema": "Limites da compreensão",
+   "ts": "0:42:41"
+  },
+  {
+   "texto": "A própria teoria é uma forma de limitar o terapeuta, de uma forma justa.",
+   "tema": "Teoria como limite",
+   "ts": "0:44:58"
+  },
+  {
+   "texto": "Explicar a ironia é explicar a piada: perde a graça.",
+   "tema": "Humor e ironia (participante)",
+   "ts": "0:33:16"
+  },
+  {
+   "texto": "A mágica da ironia é a pessoa não saber se você está sendo irônico: ela é que tem de decidir.",
+   "tema": "Humor e ironia (participante)",
+   "ts": "0:48:20"
+  },
+  {
+   "texto": "Se você fecha demais o papel do paciente, também cria um problema.",
+   "tema": "Mecanização",
+   "ts": "0:50:37"
+  },
+  {
+   "texto": "Às vezes o que é importante se esconde nas coisas que o paciente naturalizou: a gente vê a manada, não as zebras.",
+   "tema": "Escuta (participante)",
+   "ts": "0:52:43"
+  },
+  {
+   "texto": "Existe um limite para a sinceridade do terapeuta, mas não existe limite para a sinceridade do paciente.",
+   "tema": "Sinceridade e feedback",
+   "ts": "0:59:51"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Você diz ao paciente qual é o papel dele na terapia?",
+   "mensagem": "Há recursos explícitos e implícitos para comunicar o papel do paciente; os dois servem, e cabe decidir quando usar cada um.",
+   "roteiro": [
+    "Gancho: você explica o papel do paciente?",
+    "Explícito: 'a terapia é um processo a dois'",
+    "Explícito: 'interprete isso comigo'",
+    "Implícito: 'e como foi a SUA semana?'",
+    "Implícito: trazer para o aqui e agora",
+    "Regra: prefira o explícito quando algo te preocupa"
+   ],
+   "corte_inicio": "0:00:01",
+   "corte_fim": "0:03:02"
+  },
+  {
+   "formato": "post",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Adaptar-se não é ajustar-se (Jung).",
+   "mensagem": "A flexibilidade do terapeuta precisa de um núcleo fiel a si; quem vira outra pessoa a cada caso perde a identidade clínica.",
+   "roteiro": [
+    "Definição de adaptação",
+    "Definição de ajustamento",
+    "A personalidade como instrumento",
+    "Pergunta final: que tipo de terapeuta é você?"
+   ],
+   "corte_inicio": "0:25:51",
+   "corte_fim": "0:27:11"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Nunca anuncie que está sendo irônico.",
+   "mensagem": "A ironia é projetiva, e explicar a própria personalidade tira o efeito ('vou te bater, mas sou meio nervoso').",
+   "roteiro": [
+    "Cena: terapeuta avisando 'tô sendo irônico, tá?'",
+    "Corte: por que isso mata a intervenção",
+    "Fecho: deixe a personalidade aparecer, não a explique"
+   ],
+   "corte_inicio": "0:47:19",
+   "corte_fim": "0:49:23"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "A teoria também existe para te limitar.",
+   "mensagem": "Usar os próprios valores para pensar o caso é bom; impô-los é usar a personalidade contra o método. A teoria protege o paciente dos desejos do terapeuta.",
+   "roteiro": [
+    "Gancho",
+    "Personalidade = moral, gostos, jeito de viver",
+    "Pensar com valores × impor valores",
+    "Quando a personalidade vai contra o método",
+    "A teoria como limite justo"
+   ],
+   "corte_inicio": "0:43:52",
+   "corte_fim": "0:46:18"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Responsabilidade do paciente não é igual para todos.",
+   "mensagem": "Para uns é trazer o que evitam; para outros é afrouxar a hiper-responsabilidade. O princípio precisa ser abstrato e aberto.",
+   "roteiro": [
+    "Princípio: responsabilidade no processo",
+    "Exemplo genérico A: quem evita material",
+    "Exemplo genérico B: quem é responsável demais",
+    "Conclusão"
+   ],
+   "corte_inicio": "0:27:11",
+   "corte_fim": "0:28:17"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Enquete: você explica seu método ao paciente ou deixa implícito?",
+   "mensagem": "Mostrar como a monitoria usa perguntas do MAPA para tornar consciente a própria clínica.",
+   "roteiro": [
+    "Enquete",
+    "Caixinha: qual recurso você usa?",
+    "Bastidor: a pergunta do MAPA no chat"
+   ],
+   "corte_inicio": "0:07:23",
+   "corte_fim": "0:08:30"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Jung",
+   "contexto": "Distinção entre adaptação e ajustamento; a personalidade do terapeuta como recurso mais útil; antinomia entre conhecimento e compreensão."
+  },
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Congruência, tomada como expectativa sobre o paciente e problematizada por João ('coitado de Carl Rogers')."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria temática de João de Bragança (pergunta do MAPA)",
+  "objetivo": "Monitorar e aprimorar capacidades clínicas por meio de discussão em grupo de perguntas do MAPA (instrumento de competências da Allos), tornando conscientes os princípios que cada um usa na clínica.",
+  "publico": "Alunos da formação clínica da Allos, em geral estagiários que já atendem, de abordagens diversas (Gestalt, psicologia analítica, humanista).",
+  "tamanho": "Pequeno: cerca de quatro a seis participantes neste encontro; online.",
+  "duracao": "Cerca de 1 hora.",
+  "estrutura_padrao": "Retomada do foco do MAPA da semana anterior → pergunta disparadora no chat (com pergunta prévia polarizadora) → rodada de respostas → pedido de abstração a partir de exemplos → posicionamento do facilitador com caso próprio → debate entre pares → síntese. O grupo tem, em paralelo, horários semanais de prática com roleplay.",
+  "papel_facilitador": "Escolher a pergunta, distribuir a palavra, parafrasear respostas em forma de princípio, pedir abstração, testar teses com contraexemplos, trazer teoria (Jung) e se posicionar em primeira pessoa com os próprios casos.",
+  "regras_combinados": "Casos podem ser citados sem nomes, por se tratar de ambiente acadêmico e pacientes da clínica da Allos; um tema do MAPA por encontro, combinado na semana anterior."
+ },
+ "reflexoes_do_facilitador": [
+  "Reconhece que talvez tenha mudado a pergunta ao repeti-la ('talvez eu tenha mudado a pergunta, mas pode responder também').",
+  "Nota que a ausência de alguém da psicanálise tira dualidade da discussão.",
+  "Admite a própria tendência a 'apelar para aforismos extremamente abstratos' e convida à crítica ('vocês podem me bater também')."
+ ],
+ "referencias_a_outros_encontros": [
+  "Semana anterior: discussão sobre primeira sessão e início de sessões, no mesmo foco 'estrutura' do MAPA.",
+  "Menção a um caso discutido em monitoria anterior (de uma aluna, ao que tudo indica com paciente simulado por IA) em que a paciente 'vai se apaixonando' pela terapeuta.",
+  "Menção aos horários de prática com roleplay durante a semana (segunda e terça, em horários diferentes).",
+  "A explicação completa do MAPA aparece em pc-01 (Prática Clínica, 1º encontro, 1:42:01–1:46:52) e, como 'mapa de competências', em pd-06 e pd-08."
+ ],
+ "observacoes": "Legenda automática com bastante ruído (ex.: 'Yum/Ion' = Jung; 'Gestal' = Gestalt; 'genuade' = genuinidade). O título 'MAPA' não é explicado nesta gravação: a explicação do instrumento foi reconstruída a partir de pc-01 e pd-06/pd-08. Os quatro participantes, identificados pelo nome na fala, foram anonimizados na nota. Algumas atribuições de fala são incertas, como a frase final sobre a sinceridade do terapeuta, provavelmente de João. Os casos citados são reais, contados sem nomes, e foram generalizados; não há paciente simulado nesta sessão, apenas uma menção a um caso de IA discutido antes. O encontro termina sem síntese formal do facilitador."
+}

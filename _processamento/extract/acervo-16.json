@@ -1,0 +1,855 @@
+{
+ "id": "acervo-16",
+ "nota": "Acervo 16 - Duelo de abordagens e encerramento de sessão",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "Duelo de abordagens e encerramento de sessão",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Duelo de abordagens",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo media um Duelo de abordagens. Um participante simula um paciente, com um caso inventado na hora, e dois terapeutas (uma de psicanálise freudiana, outro sem abordagem definida, interessado em fenomenologia-existencialismo e terceira onda) fazem três intervenções cada, estritamente intercaladas, depois de uma breve entrevista de base do mediador. As intervenções começam distantes (projeção de futuro de um lado, a palavra escolhida pelo paciente do outro) e convergem no tema da escolha e da perda. A última pergunta revela que o paciente tem dificuldade de escolher em geral. Seguem-se comentários da plateia, autoavaliação e hipóteses dos terapeutas, feedback do paciente e uma longa análise de Diogo: três perguntas não obrigam a ser diretivo, informação qualitativa vale mais que quantitativa, um caminho descolado do discurso fere o vínculo, trabalhar expectativas é legítimo (Epicteto), frases devem ser curtas e perguntas estruturadas podem preceder as abertas. Diogo não dá veredito, mas avalia que se destacou quem formulou melhor. O encontro termina numa discussão coletiva sobre como encerrar a sessão: com o movimento que se quer provocar no paciente.",
+ "em_uma_frase": "No Duelo de abordagens, dois terapeutas alternam três intervenções cada num caso simulado, e o grupo aprende que o que decide a qualidade é a formulação (frase curta, um ponto por vez, estrutura quando o paciente está perdido) e que a sessão se encerra com o movimento que se quer provocar.",
+ "competencias": [
+  "Intervenção",
+  "Construção frasal",
+  "Aprofundamento",
+  "Abertura e encerramento de sessão",
+  "Formulação de caso",
+  "Relação terapêutica",
+  "Feedback clínico",
+  "Pessoa do terapeuta"
+ ],
+ "abordagens": [
+  "Psicanálise freudiana",
+  "Fenomenologia e existencialismo",
+  "Terapias contextuais",
+  "Terapia cognitivo-comportamental",
+  "Terapia sistêmica"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:04",
+   "bloco": "Combinados",
+   "descricao": "Explica o sentido de 'duelo' (violeiros, carimbó: duas partes compõem um movimento maior) e as regras: paciente simulado, dois terapeutas, três intervenções cada, articulação possível, debate final.",
+   "funcao": "Desarmar a leitura competitiva e mostrar a lógica de composição.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:02:35",
+   "bloco": "Dúvidas",
+   "descricao": "Checa o entendimento, reexplica com um caso hipotético e esclarece que os terapeutas não precisam ser de abordagens diferentes.",
+   "funcao": "Garantir que as regras foram compreendidas.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:05:46",
+   "bloco": "Combinados",
+   "descricao": "Recruta os terapeutas (voluntário e convite), diferencia o formato do grupo de prática, libera o chat, pede a abordagem de cada terapeuta e convida o paciente.",
+   "funcao": "Distribuir os papéis e dar ao grupo a lente de cada terapeuta.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:09:15",
+   "bloco": "Combinados",
+   "descricao": "Instruções ao paciente (caso pessoal se estiver confortável, caso didático ou personagem conhecido) e aos terapeutas (intervenções intercaladas); plateia com câmera e microfone fechados.",
+   "funcao": "Fixar as regras da cena.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:10:57",
+   "bloco": "Dinâmica",
+   "descricao": "O paciente simulado apresenta a queixa.",
+   "funcao": "Dar o material clínico inicial.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:12:43",
+   "bloco": "Dinâmica",
+   "descricao": "Entrevista de base do mediador sobre o contexto, a história e com quem o paciente já conversou.",
+   "funcao": "Dar aos terapeutas um mínimo de contexto.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:16:25",
+   "bloco": "Dinâmica",
+   "descricao": "Três rodadas de intervenções intercaladas (seis no total).",
+   "funcao": "Núcleo do exercício: escolher e formular uma intervenção por vez.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:25:08",
+   "bloco": "Discussão",
+   "descricao": "Pergunta se o caso é real (é fictício); a plateia comenta os caminhos diferentes e a pergunta sobre o funcionamento do paciente.",
+   "funcao": "Calibrar a sensibilidade e ouvir primeiro quem assistiu.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:30:25",
+   "bloco": "Feedback",
+   "descricao": "Autoavaliação dos terapeutas (dificuldade da regra de uma intervenção, distância certa), hipóteses clínicas de terapeutas e plateia, feedback do paciente.",
+   "funcao": "Metacognição e formulação de caso com pouco material.",
+   "duracao_min": 14
+  },
+  {
+   "ts": "0:44:37",
+   "bloco": "Feedback",
+   "descricao": "Análise da sincronia: as intervenções começaram distantes e convergiram; Diogo pergunta por que não se alinharam antes.",
+   "funcao": "Tornar visível a articulação entre os terapeutas.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:52:52",
+   "bloco": "Teoria",
+   "descricao": "Princípios emergentes: plantão psicológico e diretividade; caminho descolado do discurso; informação qualitativa versus quantitativa; expectativas e Epicteto.",
+   "funcao": "Extrair princípios gerais das escolhas feitas na cena.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "1:04:08",
+   "bloco": "Feedback",
+   "descricao": "Feedback individual: frases longas (terceira intervenção dissecada e reescrita); pergunta aberta demais (estruturar antes de abrir).",
+   "funcao": "Correção técnica fina com modelagem de alternativas.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:12:18",
+   "bloco": "Rodada de respostas",
+   "descricao": "Os terapeutas reagem ao feedback.",
+   "funcao": "Checar a compreensão do feedback.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:13:53",
+   "bloco": "Discussão",
+   "descricao": "'Algum terapeuta se destacou?': primeiro a plateia, depois a opinião de Diogo (formulação, não caminho clínico) e a crítica ao fechamento com mera checagem.",
+   "funcao": "Avaliar de forma comparativa sem julgar abordagens.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:22:46",
+   "bloco": "Dinâmica",
+   "descricao": "A pedido de um terapeuta, reformulação coletiva da última intervenção e discussão sobre encerramento: intenção, hipótese, o terapeuta que entra na neurose do paciente.",
+   "funcao": "Aprendizagem entre pares sobre o encerramento.",
+   "duracao_min": 16
+  },
+  {
+   "ts": "1:38:28",
+   "bloco": "Fechamento",
+   "descricao": "Síntese de Diogo: o encerramento reflete o funcionamento global da sessão e o movimento desejado (segurança, contato, reflexão).",
+   "funcao": "Consolidar um princípio operacional.",
+   "duracao_min": 2
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Funcionamento do discurso",
+   "definicao": "O modo como o paciente opera, em contraste com o conteúdo do que ele relata. Uma pergunta sobre o funcionamento pode fazer o padrão aparecer na própria relação terapêutica.",
+   "exemplo": "Perguntado se em outros momentos da vida foi difícil escolher, o paciente simulado volta sozinho ao ponto da angústia, mostrando o padrão diante do terapeuta.",
+   "abordagem": "Transversal",
+   "ts": "0:29:21"
+  },
+  {
+   "nome": "Informação qualitativa do caso",
+   "definicao": "Informação que revela o funcionamento do paciente e que vale mais que dados acumulados. Com menos informação em quantidade pode-se ter mais em qualidade.",
+   "exemplo": "Saber que o paciente tem dificuldade de fazer escolhas vale mais do que saber o semestre, o curso ou quantas pessoas moram na casa.",
+   "abordagem": "Transversal",
+   "ts": "0:58:05"
+  },
+  {
+   "nome": "Expectativas do paciente",
+   "definicao": "Ideias sobre o futuro, que são conceitualizações do paciente sobre si e trazem sua visão de mundo, de si e do contexto. Trabalhá-las é um caminho alternativo para reconhecer necessidades que não aparecem literalmente.",
+   "exemplo": "Uma expectativa de paternidade pode dizer menos sobre ser pai e mais sobre se livrar da posição de quem escolhe (Diogo avisa que é especulação).",
+   "abordagem": "Transversal",
+   "ts": "1:01:22"
+  },
+  {
+   "nome": "Pergunta estruturada",
+   "definicao": "Pergunta mais dirigida, às vezes fechada, usada quando o paciente está rígido ou perdido para dar a ele estrutura para responder, abrindo depois ('um passo para trás para dar dois para frente').",
+   "exemplo": "'Em outros momentos foi difícil fazer escolhas?' 'Sim.' 'Quando?'",
+   "abordagem": "Transversal",
+   "ts": "1:10:15"
+  },
+  {
+   "nome": "Parâmetros da intervenção (distância, intensidade, forma e conteúdo)",
+   "definicao": "Aqui, a distância da intervenção em relação ao discurso: se for longe demais, parece mudança de assunto; se for perto demais, só repete o paciente e não acrescenta perspectiva. É preciso medir a distância correta.",
+   "exemplo": "Reflexão de um terapeuta sobre a dificuldade de fazer uma única intervenção num caso de angústia intensa.",
+   "abordagem": "Transversal",
+   "ts": "0:32:24"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "Aparece como 'vínculo': um caminho clínico descolado do discurso do paciente pode ser bom para entender o caso e ruim para o vínculo e para manter o paciente em terapia.",
+   "exemplo": "Confrontar a responsabilidade do paciente sem ponte pode soar como 'você não está ouvindo o que eu falo?'.",
+   "abordagem": "Transversal",
+   "ts": "0:55:00"
+  },
+  {
+   "nome": "Hipótese clínica",
+   "definicao": "Leitura provisória do que o paciente demanda. Deve orientar a intervenção, que precisa estar ligada ao que o paciente expressa (o dito ou o que moveu o discurso).",
+   "exemplo": "Um terapeuta só soube 'para onde ir' depois de perguntar pelo futuro; um participante lembra a pergunta 'qual é a sua hipótese?', trabalhada noutro grupo.",
+   "abordagem": "Transversal",
+   "ts": "1:32:11"
+  },
+  {
+   "nome": "Responsabilização",
+   "definicao": "Intervenção que confronta o paciente com a própria participação nas escolhas. 'Não escolher também é escolher', e fugir da responsabilidade é a única opção que ele não tem.",
+   "exemplo": "Proposta de uma participante para o fechamento da sessão e hipótese de falta de responsabilização levantada pela plateia.",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "1:28:31"
+  },
+  {
+   "nome": "Angústia da escolha",
+   "definicao": "A ideia de que escolher é sempre deixar algo para trás, e de que não escolher também é uma opção. Diogo a chama de 'algo bem kierkegaardiano'.",
+   "exemplo": "Trecho da terceira intervenção de um terapeuta, que Diogo gostaria de ter visto explorado como pergunta.",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "1:06:16"
+  },
+  {
+   "nome": "Triangulação",
+   "definicao": "Hipótese de um terapeuta: o paciente se coloca entre duas pessoas, num padrão possivelmente repetido desde a relação com os pais ou em outras relações.",
+   "exemplo": "Primeiro palpite do terapeuta sobre a origem do padrão.",
+   "abordagem": "Terapia sistêmica",
+   "ts": "0:36:29"
+  },
+  {
+   "nome": "Plantão psicológico",
+   "definicao": "Atendimento pontual e não recorrente, em que se acolhe e em geral se termina encaminhando. Pede cautela para não abrir o que não se pode fechar e justifica intervenções mais diretivas.",
+   "exemplo": "Estágio de plantão da faculdade de Diogo.",
+   "abordagem": "Transversal",
+   "ts": "0:53:53"
+  },
+  {
+   "nome": "Contratransferência",
+   "definicao": "O termo não é usado, mas uma participante descreve o fenômeno de o terapeuta 'entrar na neurose do paciente' (ficar confuso ou triste como ele). É preciso percebê-lo e ele pode ser nomeado como potência no fechamento.",
+   "exemplo": "O terapeuta ficou tão confuso quanto o paciente diante de muitas opções; 'o psicólogo tem que ser o menos louco da sala'.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:35:14"
+  },
+  {
+   "nome": "Libido",
+   "definicao": "Usada por Diogo para ilustrar Epicteto: o que frustra ou anima é o investimento libidinal no objeto (o time, a seleção, o esporte), não o objeto concreto.",
+   "exemplo": "Para muita gente, com Copa ou sem Copa, a vida continua a mesma.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:00:19"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Duelo de abordagens",
+   "objetivo": "Treinar a escolha e a formulação de intervenções pontuais sob restrição, observar como dois estilos ou abordagens conduzem o mesmo caso e podem se articular, e gerar material para uma discussão coletiva sobre a qualidade das intervenções.",
+   "competencias": [
+    "Intervenção",
+    "Construção frasal",
+    "Aprofundamento",
+    "Formulação de caso",
+    "Feedback clínico"
+   ],
+   "configuracao": "Online; 1 mediador, 2 terapeutas voluntários, 1 paciente simulado e a plateia (6 a 8 pessoas, parte só pelo chat). Os três da cena ficam fixados na tela e a plateia fica com câmera e microfone fechados durante o atendimento.",
+   "tempo": "Cerca de 10 minutos de regras e papéis, 5 a 6 de relato e entrevista de base, cerca de 9 de intervenções e 60 ou mais de discussão e feedback (total de cerca de 100 minutos).",
+   "materiais": "Caso trazido pelo paciente simulado; anotações literais do mediador sobre cada intervenção.",
+   "consigna": "Ao paciente: traga um relato pessoal (se estiver à vontade), um caso de livro ou de aula, ou um personagem que você conheça o suficiente para se aprofundar. Aos terapeutas: cada um faz três intervenções (pergunta, afirmação, técnica, o que quiser), intercaladas; depois da primeira de um, a segunda é necessariamente do outro; vocês podem seguir a linha do colega ou partir para outro tema. À plateia: mantenham câmera e microfone fechados; depois discutimos quais intervenções foram mais ou menos interessantes.",
+   "passos": [
+    "Explicar a metáfora do duelo (composição, não rivalidade) e as regras; checar o entendimento e reexplicar com um exemplo hipotético.",
+    "Recrutar dois terapeutas (voluntários ou convidados pelo nome) e pedir que cada um declare sua abordagem ou afinidades.",
+    "Recrutar o paciente simulado e oferecer as opções de material.",
+    "O paciente apresenta a queixa; o mediador faz algumas perguntas de base e anuncia que encerra sua participação.",
+    "Os terapeutas alternam as intervenções até completar três rodadas (seis intervenções); a rigor, uma pergunta ou afirmação por vez.",
+    "Perguntar ao paciente se o caso é real, para calibrar o cuidado da discussão.",
+    "A plateia comenta primeiro; o mediador parafraseia e eleva o nível conceitual.",
+    "Os terapeutas fazem a autoavaliação e dizem suas hipóteses clínicas; a plateia acrescenta; o paciente conta como se sentiu.",
+    "O mediador analisa a sincronia (onde divergiram e onde convergiram) e pergunta por que não se alinharam antes.",
+    "Feedback individual com releitura literal das intervenções e reformulações propostas.",
+    "Perguntar se algum terapeuta se destacou; o mediador dá opinião com critério explícito, sem veredito.",
+    "Abrir para a questão que os participantes quiserem aprofundar."
+   ],
+   "feedback": "O mediador não julga o caminho clínico nem a abordagem ('os dois caminhos foram muito interessantes'), e sim a formulação: tamanho da frase, uma ideia por intervenção, adequação ao tempo clínico, capacidade de levar ao aprofundamento, qualidade do fechamento. Avalia também a articulação entre os terapeutas e o risco de se descolar do discurso. Relê literalmente cada intervenção e oferece uma versão alternativa.",
+   "exemplos_praticos": "Caso fictício de um jovem adulto dividido entre duas relações afetivas. O terapeuta sem abordagem definida perguntou pelo futuro, depois apontou uma contradição e por fim fez uma intervenção longa sobre opções e custo da escolha. A terapeuta de psicanálise perguntou pela escolha de uma palavra, depois 'o que falta?' e por fim ligou a angústia à escolha, perguntando se foi difícil escolher em outros momentos. O paciente reconheceu a dificuldade de se colocar. Os terapeutas relataram dificuldade de fazer uma única intervenção e de interromper o paciente. O nome 'duelo' levou um deles a não cooperar.",
+   "variacoes": "Terapeutas da mesma abordagem ('a psicanálise de um não é a do outro'). Participação da plateia pelo chat. Encadear com uma reformulação coletiva da última intervenção.",
+   "armadilhas": "O nome 'duelo' induz a não cooperar, então é bom dizer que articular é desejável. A regra de uma intervenção gera perguntas compostas, e convém definir a tolerância antes. Com um paciente lacônico, falta material, o que a entrevista de base atenua. Um caso real exige mais cuidado, então pergunte. A plateia tende a eleger o terapeuta da própria abordagem (separar afinidade de desempenho). Quem chega depois perde a base, então releia as intervenções.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:00:04"
+  },
+  {
+   "nome": "Dinâmica - Reformulação coletiva do encerramento",
+   "objetivo": "Aprender a encerrar uma sessão reformulando em grupo a última intervenção de um atendimento.",
+   "competencias": [
+    "Abertura e encerramento de sessão",
+    "Construção frasal"
+   ],
+   "configuracao": "Grupo todo, logo após o duelo, por voz e chat.",
+   "tempo": "Cerca de 15 minutos.",
+   "materiais": "Anotação literal da intervenção final.",
+   "consigna": "Como vocês reformulariam essa intervenção para finalizar a sessão?",
+   "passos": [
+    "O autor da intervenção pede ajuda e o mediador relê a fala.",
+    "Perguntar ao autor qual era a intenção; ele a explicita (responsabilizar-se pela escolha e assumir a perda).",
+    "Os participantes propõem caminhos: identificar a essência da sessão e a mensagem a devolver; manter a intenção trocando as palavras; afirmar a intenção e perguntar 'como isso chega para você?'.",
+    "Outro participante pergunta pela hipótese que embasou a intervenção; uma participante aponta a contaminação do terapeuta pela confusão do paciente e sugere nomeá-la no fechamento.",
+    "O mediador sintetiza os tipos de encerramento conforme o movimento desejado."
+   ],
+   "feedback": "O critério central é a clareza da intenção: sem saber o que quer transmitir, o terapeuta confunde a si mesmo e ao paciente. O fechamento deve refletir o funcionamento global da sessão.",
+   "exemplos_praticos": "Uma participante que não viu o atendimento reconstruiu a intenção ('não escolher também é escolha'). A terapeuta de psicanálise propôs uma versão afirmativa seguida de 'como isso chega para você?', com convite a levar o tema para a semana.",
+   "variacoes": "Fazer a reformulação por escrito no chat para comparar versões.",
+   "armadilhas": "Transformar o fechamento num sermão moralizante; confundir checagem com conclusão.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:22:46"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Explicar o formato por metáfora",
+   "descricao": "Usa o duelo de violeiros e o carimbó para desarmar a leitura competitiva e mostrar que se espera composição.",
+   "exemplo": "Duas partes que disputam constituem juntas um movimento maior e mais bonito para quem assiste.",
+   "ts": "0:00:04"
+  },
+  {
+   "movimento": "Checar o entendimento e reexplicar com exemplo concreto",
+   "descricao": "Pergunta que parte não ficou clara e simula o exercício com um caso hipotético.",
+   "exemplo": "Supondo que fosse eu o paciente, com ansiedade em provas...",
+   "ts": "0:02:56"
+  },
+  {
+   "movimento": "Recrutar por voluntariado e convite nominal",
+   "descricao": "Aceita um voluntário e, diante do silêncio, convida pelo nome, agradecendo.",
+   "exemplo": "[Nome], você poderia ser terapeuta hoje?",
+   "ts": "0:07:36"
+  },
+  {
+   "movimento": "Diferenciar o formato e flexibilizar o canal",
+   "descricao": "Explica que, ao contrário do grupo de prática (20 minutos, câmera ligada), aqui se pode participar pelo chat.",
+   "exemplo": "É super viável aqui a participação pelo chat.",
+   "ts": "0:06:34"
+  },
+  {
+   "movimento": "Pedir que os terapeutas declarem a abordagem",
+   "descricao": "Dá à plateia e ao feedback a lente de cada terapeuta; depois se pergunta se isso o enviesou.",
+   "exemplo": "Não sei se consegui perceber ou se já estava enviesado.",
+   "ts": "0:47:30"
+  },
+  {
+   "movimento": "Dar opções seguras ao paciente e checar se o caso é real",
+   "descricao": "Oferece caso pessoal só se houver conforto e, depois do atendimento, pergunta se o caso é real para calibrar a sensibilidade da discussão.",
+   "exemplo": "Sendo fictício, a gente consegue falar com um pouco menos de dedos.",
+   "ts": "0:25:08"
+  },
+  {
+   "movimento": "Fazer a entrevista de base como mediador",
+   "descricao": "Faz as primeiras perguntas para dar material aos terapeutas e anuncia explicitamente a saída de cena.",
+   "exemplo": "Vou encerrar minha participação como mediador; é a vez de vocês.",
+   "ts": "0:16:25"
+  },
+  {
+   "movimento": "Proteger a regra com flexibilidade",
+   "descricao": "Tolera uma pergunta dupla no mesmo eixo, explica que cortaria um abuso e reconhece que não tinha especificado a regra.",
+   "exemplo": "Não era algo que eu tinha especificado; tudo bem acrescentar um pouquinho.",
+   "ts": "0:34:34"
+  },
+  {
+   "movimento": "Dar a palavra primeiro à plateia e elevar o nível",
+   "descricao": "Parafraseia os comentários da plateia em termos conceituais.",
+   "exemplo": "A pergunta foi menos sobre o conteúdo do discurso e mais sobre o funcionamento do paciente.",
+   "ts": "0:29:21"
+  },
+  {
+   "movimento": "Perguntar o porquê das escolhas",
+   "descricao": "Leva os terapeutas a refletir sobre as próprias decisões.",
+   "exemplo": "Por que vocês optaram por não alinhar tão cedo as intervenções?",
+   "ts": "0:48:25"
+  },
+  {
+   "movimento": "Validar antes de relativizar",
+   "descricao": "Reconhece a lógica do participante e só depois apresenta o contraponto com argumento.",
+   "exemplo": "Faz muito sentido por certa ótica... sempre é assim? Eu diria que não (Epicteto).",
+   "ts": "0:59:13"
+  },
+  {
+   "movimento": "Reler literalmente e reescrever ao vivo",
+   "descricao": "Anota as intervenções, relê cada uma, disseca seus componentes e oferece uma versão alternativa.",
+   "exemplo": "Olha quanta informação veio aqui: duas ou três opções, a natureza da escolha e uma checagem.",
+   "ts": "1:07:13"
+  },
+  {
+   "movimento": "Recusar o papel de juiz com critério explícito",
+   "descricao": "Dá opinião sobre quem se destacou, deixando claro o critério (formulação, não caminho clínico).",
+   "exemplo": "Não vou dar um veredito, vou dar minha opinião, até porque não sou juiz aqui.",
+   "ts": "1:18:17"
+  },
+  {
+   "movimento": "Ceder a pauta à dúvida do participante",
+   "descricao": "Garante tempo para uma pergunta dos terapeutas, deixa os pares responderem e sintetiza por último.",
+   "exemplo": "Dá tempo sim da gente fazer isso. Como vocês reformulariam essa intervenção?",
+   "ts": "1:22:46"
+  },
+  {
+   "movimento": "Meta-comentário sobre a própria fala",
+   "descricao": "Convida à interrupção reconhecendo que fala muito.",
+   "exemplo": "Sempre que quiserem falar, liguem o microfone, levantem a mão, mandem no chat, porque senão eu vou seguindo; eu falo muito.",
+   "ts": "1:04:08"
+  },
+  {
+   "movimento": "Encerrar com um princípio operacional",
+   "descricao": "Transforma a discussão numa regra de bolso.",
+   "exemplo": "Como você encerra a sessão? Com o movimento que você quer fazer para o paciente.",
+   "ts": "1:39:32"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Faça uma intervenção de cada vez, curta, com um só ponto.",
+   "justificativa": "Frases longas fazem o paciente se perder e diluem a boa ideia entre outras.",
+   "contexto": "Sempre, especialmente quando você percebe vários pontos ao mesmo tempo.",
+   "competencia": "Construção frasal",
+   "ts": "1:06:16"
+  },
+  {
+   "dica": "Deixe claro de primeira em vez de precisar esclarecer depois.",
+   "justificativa": "Ter que corrigir a própria fala é sinal de formulação confusa.",
+   "contexto": "Na construção de qualquer intervenção.",
+   "competencia": "Construção frasal",
+   "ts": "1:06:16"
+  },
+  {
+   "dica": "Numa checagem ('deixa eu ver se entendi'), não embuta conceitos novos.",
+   "justificativa": "Ideias novas transformam a checagem em outra intervenção e confundem.",
+   "contexto": "Ao retomar o discurso do paciente.",
+   "competencia": "Construção frasal",
+   "ts": "1:07:13"
+  },
+  {
+   "dica": "Transforme sua melhor ideia numa pergunta dirigida ao paciente.",
+   "justificativa": "Uma tese do terapeuta vira aprofundamento quando o paciente é convidado a se situar nela ('você se sente nessa posição?').",
+   "contexto": "Quando você tem uma formulação forte e quer testá-la.",
+   "competencia": "Aprofundamento",
+   "ts": "1:09:14"
+  },
+  {
+   "dica": "Com um paciente rígido ou perdido, use uma pergunta estruturada, até fechada, e depois abra.",
+   "justificativa": "Às vezes o paciente precisa de estrutura para conseguir responder; com um 'sim', siga com 'quando?'.",
+   "contexto": "Diante de respostas monossilábicas ou de um discurso circular.",
+   "competencia": "Intervenção",
+   "ts": "1:11:02"
+  },
+  {
+   "dica": "Ao explorar a palavra que o paciente escolheu, formule de modo mais estruturado ('esse termo significa algo?').",
+   "justificativa": "Uma pergunta aberta demais pode não encontrar o paciente no seu tempo clínico.",
+   "contexto": "No início do atendimento.",
+   "competencia": "Construção frasal",
+   "ts": "1:10:15"
+  },
+  {
+   "dica": "Não abandone o que o paciente está dizendo para seguir a sua hipótese; construa a ponte.",
+   "justificativa": "Um caminho descolado do discurso pode ser bom para entender o caso e ruim para o vínculo.",
+   "contexto": "Ao mudar de tema ou confrontar.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:55:00"
+  },
+  {
+   "dica": "Considere o nível de angústia antes de confrontar a responsabilidade do paciente.",
+   "justificativa": "A mesma pergunta pode gerar insight ou ruptura, dependendo do momento clínico.",
+   "contexto": "Em intervenções de responsabilização.",
+   "competencia": "Intervenção",
+   "ts": "0:56:04"
+  },
+  {
+   "dica": "Procure informação qualitativa sobre o funcionamento do paciente em vez de acumular dados.",
+   "justificativa": "Saber como ele funciona vale mais para entender o caso do que dados sociodemográficos.",
+   "contexto": "Quando o tempo ou o número de intervenções é limitado.",
+   "competencia": "Formulação de caso",
+   "ts": "0:58:05"
+  },
+  {
+   "dica": "Mesmo assim, colha os dados básicos (ocupação, estudo, configuração familiar real).",
+   "justificativa": "Eles interferem na relação e ajudam a entender qualquer caso.",
+   "contexto": "Nas entrevistas iniciais.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:57:54"
+  },
+  {
+   "dica": "Use as expectativas de futuro como porta para a visão de mundo e de si do paciente.",
+   "justificativa": "Expectativas revelam a visão de si, do mundo e do contexto e podem mostrar necessidades que não são acessíveis literalmente.",
+   "contexto": "Inclusive no começo, sobretudo com pacientes presos no relato do sofrimento.",
+   "competencia": "Aprofundamento",
+   "ts": "1:01:22"
+  },
+  {
+   "dica": "Pergunte o que uma expectativa 'faz' pelo paciente.",
+   "justificativa": "Um projeto de vida pode ter outra função psíquica, como evitar a posição de quem escolhe.",
+   "contexto": "Ao explorar metas e projetos.",
+   "competencia": "Formulação de caso",
+   "ts": "1:02:46"
+  },
+  {
+   "dica": "Em plantão ou acolhimento pontual, não abra o que não consegue fechar; termine encaminhando.",
+   "justificativa": "O serviço não é recorrente, e o material não pode ficar solto.",
+   "contexto": "Em atendimentos únicos.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:53:53"
+  },
+  {
+   "dica": "Não encerre a sessão com uma simples checagem; se quer ênfase, conclua.",
+   "justificativa": "'É isso?' não dá peso; afirmar e deixar o paciente reformular a queixa cria movimento.",
+   "contexto": "Na última intervenção da sessão.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "1:19:18"
+  },
+  {
+   "dica": "Faça o fim da sessão encaminhar para a próxima.",
+   "justificativa": "O encerramento deve criar um movimento para o paciente se relacionar com o conteúdo fora da terapia.",
+   "contexto": "Em todo fechamento.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "1:20:23"
+  },
+  {
+   "dica": "Antes de encerrar, pergunte-se qual é a essência do atendimento e o que quer devolver.",
+   "justificativa": "Sem clareza da mensagem, o fechamento confunde terapeuta e paciente; é preciso decidir entre devolução reflexiva e descritiva.",
+   "contexto": "Nos minutos finais.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "1:26:03"
+  },
+  {
+   "dica": "Escolha o tipo de encerramento pelo movimento que quer provocar.",
+   "justificativa": "Falar muito dá segurança, falar pouco deixa o paciente em contato, uma pergunta o põe em contato com o que ele evita ao longo da semana.",
+   "contexto": "Em todo fechamento.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "1:38:35"
+  },
+  {
+   "dica": "Perceba quando você entrou na neurose do paciente e use isso.",
+   "justificativa": "A confusão ou a tristeza do terapeuta pode espelhar a do paciente; perceber já muda muito, e nomear pode virar intervenção.",
+   "contexto": "Quando você se sente travado ou tão confuso quanto o paciente.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:35:14"
+  },
+  {
+   "dica": "Tenha uma hipótese antes de intervir e ligue a intervenção ao que o paciente expressou.",
+   "justificativa": "A hipótese dá direção e evita intervenções soltas.",
+   "contexto": "Sempre, mesmo que a hipótese seja provisória.",
+   "competencia": "Formulação de caso",
+   "ts": "1:32:11"
+  },
+  {
+   "dica": "Separe seus valores pessoais da hipótese antes de defendê-la.",
+   "justificativa": "Hipóteses atravessadas por moral pessoal contaminam a avaliação.",
+   "contexto": "Em temas com carga moral.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:37:42"
+  },
+  {
+   "dica": "Quando o paciente volta sozinho ao ponto da angústia depois de uma pergunta sobre outro campo da vida, leia isso como funcionamento.",
+   "justificativa": "O padrão aparece na relação terapêutica, diante do terapeuta.",
+   "contexto": "Ao testar se um padrão é geral.",
+   "competencia": "Escuta clínica",
+   "ts": "0:29:21"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Um duelo de abordagens não é rivalidade, é composição.",
+   "argumento": "Como no duelo de violeiros e no carimbó, a disputa entre duas partes produz um movimento maior e mais bonito para quem assiste.",
+   "contraponto": "A leitura competitiva de 'duelo', que de fato levou um terapeuta a não cooperar.",
+   "implicacao": "Os terapeutas podem e devem articular as intervenções; o valor está no contraste e na convergência.",
+   "quem": "Diogo",
+   "ts": "0:00:04"
+  },
+  {
+   "tese": "Mesma abordagem não é mesma clínica.",
+   "argumento": "Não necessariamente a psicanálise de um é a mesma psicanálise do outro.",
+   "contraponto": "A ideia de que o duelo só faz sentido entre abordagens diferentes.",
+   "implicacao": "Dá para fazer duelos entre colegas da mesma escola.",
+   "quem": "Diogo",
+   "ts": "0:05:07"
+  },
+  {
+   "tese": "Poucas intervenções não obrigam a ser diretivo; dá para aprofundar muito com três perguntas.",
+   "argumento": "A qualidade da informação (o funcionamento do paciente) supera a quantidade de dados.",
+   "contraponto": "O terapeuta que, com três perguntas, preferiu ser pragmático; Diogo concede que em plantão não se deve abrir o que não se pode fechar.",
+   "implicacao": "Em contextos de pouco tempo, priorize perguntas sobre o funcionamento.",
+   "quem": "Diogo",
+   "ts": "0:56:55"
+  },
+  {
+   "tese": "Um caminho clínico descolado do discurso do paciente pode ser bom para a compreensão e ruim para o vínculo.",
+   "argumento": "O paciente pode sentir que não está sendo ouvido; a qualidade da ponte decide entre insight e ruptura.",
+   "contraponto": "Intervir pela hipótese ignorando o que o paciente traz.",
+   "implicacao": "Conecte a hipótese às palavras do paciente antes de mudar de tema.",
+   "quem": "Diogo",
+   "ts": "0:55:00"
+  },
+  {
+   "tese": "Trabalhar expectativas no começo é legítimo; 'presente antes do futuro' não é regra.",
+   "argumento": "Com Epicteto, o que nos perturba são as perspectivas sobre as coisas; expectativas revelam a visão de mundo, de si e do contexto.",
+   "contraponto": "A terapeuta de psicanálise, que só perguntaria pelo futuro depois de conhecer o presente; Diogo reconhece que a posição faz sentido por certa ótica.",
+   "implicacao": "Usar perguntas sobre o futuro como via de acesso, sobretudo com pacientes presos no sofrimento.",
+   "quem": "Diogo",
+   "ts": "1:01:22"
+  },
+  {
+   "tese": "Pergunta aberta nem sempre é melhor; às vezes é preciso estruturar antes de abrir.",
+   "argumento": "Um paciente rígido ou perdido precisa de estrutura para responder: um passo para trás para dar dois para frente.",
+   "contraponto": "A preferência usual pela pergunta aberta, para não enviesar o discurso, que Diogo reconhece como válida em geral.",
+   "implicacao": "Use uma pergunta fechada seguida de 'quando?' ou 'como?'.",
+   "quem": "Diogo",
+   "ts": "1:11:02"
+  },
+  {
+   "tese": "Numa comparação de terapeutas, o critério deve ser a formulação, não a abordagem nem o caminho clínico.",
+   "argumento": "Os dois caminhos eram interessantes; o que diferenciou os terapeutas foi a habilidade de formular e de levar ao aprofundamento.",
+   "contraponto": "A plateia tende a preferir o terapeuta da própria abordagem.",
+   "implicacao": "Dar feedback técnico sobre a fala, não sobre a escola.",
+   "quem": "Diogo",
+   "ts": "1:18:17"
+  },
+  {
+   "tese": "O fim da sessão deve encaminhar para a próxima, não apenas conferir o entendimento.",
+   "argumento": "Uma checagem final não dá ênfase; o fechamento deve criar um movimento que continue fora da sessão.",
+   "contraponto": "Encerrar com 'é isso?'.",
+   "implicacao": "Encerrar com uma conclusão, uma nomeação ou uma pergunta para levar para a semana.",
+   "quem": "Diogo",
+   "ts": "1:19:18"
+  },
+  {
+   "tese": "Encerra-se a sessão com o movimento que se quer provocar, e não há fórmula única.",
+   "argumento": "Cada sessão pede um fechamento; importam a proximidade com a essência do atendimento e a clareza da intenção.",
+   "contraponto": "Buscar uma técnica padrão de encerramento.",
+   "implicacao": "Antes do fim, decidir entre segurança, contato e reflexão.",
+   "quem": "Diogo e uma participante",
+   "ts": "1:39:32"
+  },
+  {
+   "tese": "O terapeuta pode entrar na neurose do paciente, e seu trabalho é ser o menos louco da sala.",
+   "argumento": "O paciente confuso deixa o terapeuta confuso; perceber isso já transforma a situação e permite nomeá-la.",
+   "contraponto": "A ideia de um terapeuta imune ao que o paciente mobiliza.",
+   "implicacao": "Monitorar o próprio estado na sessão e usá-lo como informação.",
+   "quem": "Participante",
+   "ts": "1:36:33"
+  },
+  {
+   "tese": "Hipóteses atravessadas por valores pessoais devem ser avaliadas com cautela antes de serem defendidas.",
+   "argumento": "Há um atravessamento enquanto pessoa na sessão que pode levar a uma leitura moral.",
+   "contraponto": "Hipóteses rápidas com viés moral.",
+   "implicacao": "Separar a reação pessoal da formulação clínica.",
+   "quem": "Participante",
+   "ts": "0:37:42"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Um duelo não é necessariamente a rivalidade entre duas partes, mas quando duas partes que disputam constituem juntas um movimento maior e mais bonito para quem está de fora assistindo.",
+   "tema": "duelo de abordagens",
+   "ts": "0:00:04"
+  },
+  {
+   "texto": "Não necessariamente a psicanálise de um é a mesma psicanálise do outro.",
+   "tema": "abordagens",
+   "ts": "0:05:07"
+  },
+  {
+   "texto": "Tendo um limite, você tem que sacrificar muito, tem que escolher muito bem.",
+   "tema": "construção frasal",
+   "ts": "0:32:24"
+  },
+  {
+   "texto": "É preciso se adequar àquilo que está emergindo, e não àquilo que você está teorizando.",
+   "tema": "escuta",
+   "ts": "0:33:36"
+  },
+  {
+   "texto": "É super possível fazer um mega aprofundamento com três perguntas.",
+   "tema": "aprofundamento",
+   "ts": "0:56:55"
+  },
+  {
+   "texto": "Quantitativamente vocês têm menos informações; qualitativamente, têm mais.",
+   "tema": "formulação de caso",
+   "ts": "0:58:05"
+  },
+  {
+   "texto": "Expectativas não são meramente um dado do discurso: trazem a visão de mundo, a visão de si e a visão do contexto do paciente.",
+   "tema": "expectativas",
+   "ts": "1:01:22"
+  },
+  {
+   "texto": "É bom esclarecer, mas não é bom você ter que esclarecer: é bom já deixar claro sem ter que corrigir depois.",
+   "tema": "construção frasal",
+   "ts": "1:06:16"
+  },
+  {
+   "texto": "Dá um passo para trás para dar dois para frente.",
+   "tema": "pergunta estruturada",
+   "ts": "1:10:15"
+  },
+  {
+   "texto": "Às vezes o paciente precisa de uma pergunta estruturada para literalmente ter estrutura para te responder.",
+   "tema": "pergunta estruturada",
+   "ts": "1:11:02"
+  },
+  {
+   "texto": "Eu não vou dar um veredito, vou dar minha opinião, até porque eu não sou juiz aqui.",
+   "tema": "facilitação",
+   "ts": "1:18:17"
+  },
+  {
+   "texto": "O movimento importante do final da sessão é encaminhar para a próxima.",
+   "tema": "encerramento",
+   "ts": "1:19:18"
+  },
+  {
+   "texto": "Quanto mais próximo da essência do atendimento você está, melhor é o seu encerramento. (participante)",
+   "tema": "encerramento",
+   "ts": "1:26:03"
+  },
+  {
+   "texto": "O psicólogo tem que ser o menos louco da sala, pelo menos aquele que percebe a loucura. (participante, em atribuição incerta a Jung)",
+   "tema": "pessoa do terapeuta",
+   "ts": "1:36:33"
+  },
+  {
+   "texto": "Como você encerra a sessão? Com o movimento que você quer fazer para o paciente.",
+   "tema": "encerramento",
+   "ts": "1:39:32"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Duelo de abordagens: não é briga, é viola em dupla.",
+   "mensagem": "A metáfora dos violeiros e do carimbó e as regras do formato: dois terapeutas, três intervenções cada, intercaladas, seguidas de debate.",
+   "roteiro": [
+    "Violeiros e carimbó",
+    "As regras em 20 segundos",
+    "O que se aprende com o contraste"
+   ],
+   "corte_inicio": "0:00:04",
+   "corte_fim": "0:02:12"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Três perguntas bastam para aprofundar.",
+   "mensagem": "Qualidade da informação acima de quantidade: pergunte pelo funcionamento, não pelos dados. Sem detalhes do caso simulado.",
+   "roteiro": [
+    "Mito: pouca intervenção obriga a ser diretivo",
+    "Informação quantitativa e qualitativa",
+    "Pergunte pelo funcionamento",
+    "Exceção: plantão psicológico"
+   ],
+   "corte_inicio": "0:56:55",
+   "corte_fim": "0:59:13"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pergunta aberta nem sempre é a melhor.",
+   "mensagem": "Com um paciente rígido ou perdido, estruture antes de abrir: um passo para trás, dois para frente.",
+   "roteiro": [
+    "Por que preferimos perguntas abertas",
+    "Quando elas falham",
+    "Fechada, depois 'quando?'",
+    "Exemplo genérico"
+   ],
+   "corte_inicio": "1:10:15",
+   "corte_fim": "1:12:15"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Três jeitos de encerrar uma sessão.",
+   "mensagem": "Falar muito (segurança), falar pouco (contato), perguntar (reflexão durante a semana); o fim encaminha para a próxima.",
+   "roteiro": [
+    "Encerrar é escolher um movimento",
+    "Os três movimentos",
+    "Evite terminar com 'é isso?'"
+   ],
+   "corte_inicio": "1:38:35",
+   "corte_fim": "1:39:44"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "O terapeuta precisa ser o menos louco da sala.",
+   "mensagem": "Perceber quando você entra na confusão do paciente e nomear isso na sessão.",
+   "roteiro": [
+    "Paciente confuso, terapeuta confuso",
+    "Perceber já muda tudo",
+    "Nomear como intervenção"
+   ],
+   "corte_inicio": "1:35:14",
+   "corte_fim": "1:37:45"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Futuro ou presente: por onde começar?",
+   "mensagem": "Presente primeiro (leitura mais psicodinâmica) ou expectativas como acesso à visão de mundo (Epicteto e a TCC).",
+   "roteiro": [
+    "Posição 1: presente antes do futuro",
+    "Posição 2: expectativas revelam a visão de mundo",
+    "Epicteto",
+    "Quando usar cada uma"
+   ],
+   "corte_inicio": "0:59:13",
+   "corte_fim": "1:02:46"
+  },
+  {
+   "formato": "stories",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Frase longa = paciente perdido.",
+   "mensagem": "Uma ideia por intervenção e nada de conceito novo dentro de uma checagem.",
+   "roteiro": [
+    "Enquete: suas intervenções são longas?",
+    "Regra: um ponto por vez",
+    "Checagem é só checagem"
+   ],
+   "corte_inicio": "1:06:16",
+   "corte_fim": "1:08:18"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Epicteto",
+   "contexto": "Frase 'não são as coisas que nos perturbam, mas nossas perspectivas sobre elas', citada como fundamento da TCC para defender o trabalho com expectativas."
+  },
+  {
+   "nome": "Søren Kierkegaard",
+   "contexto": "Diogo chama de 'bem kierkegaardiana' a ideia de que escolher é sempre deixar algo para trás."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Atribuição incerta, por uma participante, da ideia de que o terapeuta deve ser 'o menos louco da sala'."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Referência da terapeuta de psicanálise ('mais Freud do que os outros')."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Duelo de abordagens",
+  "objetivo": "Treinar a escolha e a formulação de intervenções pontuais sob restrição e comparar como dois terapeutas (em geral de abordagens diferentes) conduzem o mesmo caso, articulando-se ou divergindo, para depois discutir em grupo quais intervenções foram mais interessantes e por quê.",
+  "publico": "Estudantes e psicólogos em formação de abordagens variadas (psicanálise, fenomenologia-existencialismo, terceira onda, pessoas sem abordagem definida), incluindo quem só participa pelo chat.",
+  "tamanho": "Cerca de 10 a 12 pessoas: 1 mediador, 2 terapeutas, 1 paciente simulado e 6 a 8 na plateia.",
+  "duracao": "Cerca de 1h40 (encontro inteiro gravado): cerca de 10 minutos de regras, cerca de 15 de cena e mais de uma hora de discussão.",
+  "estrutura_padrao": "Explicação da metáfora (violeiros, carimbó) e das regras → checagem de entendimento → escolha dos papéis (terapeutas declaram a abordagem; paciente escolhe o tipo de caso) → relato do paciente simulado → entrevista de base do mediador → três rodadas de intervenções intercaladas (seis no total) → checar se o caso é real → comentários da plateia → autoavaliação dos terapeutas e hipóteses clínicas → feedback do paciente → feedback do mediador (primeiro a sincronia, depois cada um, com reescrita das intervenções) → 'quem se destacou?' (plateia e opinião do mediador, sem veredito) → tema aberto pedido pelo grupo (aqui, encerramento de sessão) → síntese.",
+  "papel_facilitador": "Mediador: explica o formato, recruta os papéis, faz a entrevista de base e sai de cena, cuida do cumprimento flexível das regras, anota literalmente as intervenções, dá a palavra primeiro à plateia, eleva o nível conceitual dos comentários, pergunta pelo porquê das escolhas, dá feedback técnico centrado na formulação (não na abordagem), reescreve intervenções ao vivo, recusa o papel de juiz e sintetiza princípios.",
+  "regras_combinados": "Três intervenções por terapeuta, estritamente intercaladas; cada intervenção é, a rigor, uma pergunta, afirmação ou técnica, com tolerância a pequenos acréscimos no mesmo eixo; os terapeutas podem cooperar ou divergir; não precisam ser de abordagens diferentes; o paciente pode trazer caso pessoal (se à vontade), caso didático ou personagem bem conhecido; a plateia fica com câmera e microfone fechados durante a cena; participação pelo chat permitida (diferente do grupo de prática, com simulação de 20 minutos e câmera ligada); o mediador pergunta se o caso é real antes da discussão; não há veredito, apenas opinião com critério."
+ },
+ "reflexoes_do_facilitador": [
+  "Reconhece que a regra de uma única pergunta por intervenção não tinha sido especificada e que por isso tolerou acréscimos.",
+  "Pergunta-se se percebeu o estilo do terapeuta ou se já estava enviesado por saber a abordagem dele.",
+  "Declara que fala muito e pede que os participantes o interrompam por microfone, mão levantada ou chat.",
+  "Diz que é muito difícil, até para ele, alinhar o tempo clínico do paciente com perguntas meio fechadas.",
+  "Recusa o papel de juiz: dá opinião, não veredito.",
+  "Diz que não cobra que dados básicos (curso, trabalho, família) tenham aparecido em seis intervenções.",
+  "Avisa que sua hipótese sobre a expectativa de paternidade é especulação ('fanfic' (?) do caso)."
+ ],
+ "referencias_a_outros_encontros": [
+  "Grupo de prática da Allos: simulação de atendimento de 20 minutos, com câmera ligada, que Diogo usa como contraponto ao duelo.",
+  "Um participante cita um encontro anterior mediado por Ângelo (?) em que se trabalhou a pergunta 'qual é a sua hipótese?' antes de intervir.",
+  "Uma participante menciona 'o que a gente vem estudando aqui nos grupos' sobre encerramento.",
+  "O título original 'Encontro 31 e Encontro 32' não corresponde ao conteúdo: o vídeo traz um único Duelo de abordagens."
+ ],
+ "observacoes": "Caso simulado: o participante que fez o paciente confirmou que inventou o caso na hora; mesmo assim a ficha o descreve de forma genérica. Os participantes são referidos por papel (terapeuta de psicanálise, terapeuta sem abordagem definida, paciente simulado, plateia). Legenda automática com ruído: 'C', 'F', 'Fed', 'G' e 'Geão' são apelidos e erros para os dois terapeutas; dois nomes transcritos de forma diferente parecem ser a mesma participante que chegou depois. Na síntese final, a legenda diz 'quando eu falo mais é para dar insegurança', provavelmente erro por 'segurança'. 'Funf do caso' deve ser 'fanfic'. A frase 'o menos louco da sala' é atribuída a Jung pela participante sem certeza. Parte da discussão de encerramento foi conduzida por participantes que não viram o atendimento."
+}

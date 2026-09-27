@@ -1,0 +1,708 @@
+{
+ "id": "acervo-06",
+ "nota": "Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "Estereótipos, preconceitos e fantasias sobre o paciente",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Aprimoramento clínico (dinâmica vivencial e discussão)",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo, analista do comportamento, recapitula que o aprimoramento treina habilidades globais (empatia, interromper o paciente, aprofundamento) e não técnicas de escola, e que seu grupo tem 'bastante discussão, pouquinho de prática'. O tema são preconceitos e estereótipos: descrever pacientes por queixa, transtorno ou variáveis demográficas facilita a comunicação, mas gera suposições estereotipadas, e a meta é tomar decisões individualizadas. Na dinâmica, cada participante descreve os colegas e a si mesmo em três camadas (observável, subjetivo, fantasioso), e em duas rodadas em cadeia os descritos confirmam ou corrigem. O grupo conclui que o fantasioso erra mais, e o facilitador mostra, a partir dos próprios erros, que os critérios escondidos aparecem nas justificativas. Com uma escada de três perguntas, o grupo transpõe a vivência para a clínica (imagens do paciente, supervisão, fantasia transformada em pergunta). Na síntese: fantasias sempre existirão, vale pelo modo como foram construídas (funcionamento do paciente x foto ou média estatística), e a questão é como e quando usá-las.",
+ "em_uma_frase": "Todo terapeuta fantasia sobre os pacientes. A questão é saber de onde vem cada fantasia e decidir como e quando usá-la, e o treino é descrever os próprios colegas em três camadas (observável, subjetivo, fantasioso), conferir acertos e erros e só então levar a experiência para a clínica.",
+ "competencias": [
+  "Pessoa do terapeuta",
+  "Escuta clínica",
+  "Formulação de caso",
+  "Intervenção",
+  "Relação terapêutica"
+ ],
+ "abordagens": [
+  "Análise do comportamento",
+  "Psicanálise freudiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Conversa informal de chegada (aniversário, solstício, festas juninas).",
+   "funcao": "Aquecer e criar clima de grupo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:01:35",
+   "bloco": "Abertura",
+   "descricao": "Acolhe um recém-chegado e recapitula o aprimoramento: habilidades globais x específicas (associação livre, análise de contingência), estilo 'bastante discussão, pouquinho de prática', horário, exercício pré-determinado, convite a câmera, microfone ou chat.",
+   "funcao": "Alinhar expectativas e o contrato de participação.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:04:03",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Recados internos (nova coordenadora de grupo, grupo de apresentação de caso extinto).",
+   "funcao": "Vida institucional.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:04:59",
+   "bloco": "Teoria",
+   "descricao": "Descrever casos por variáveis centrais gera suposições erradas, simplistas ou estereotipadas (exemplo racial). Objetivo: decisões individualizadas. Estatística e preconceito não se separam facilmente.",
+   "funcao": "Teoria mínima (~3 min) que dá o porquê do exercício.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:08:03",
+   "bloco": "Combinados",
+   "descricao": "Consigna das três palavras (observável, subjetivo, fantasioso) com modelagem sobre uma participante e sobre si. 1 minuto, sem postar no chat.",
+   "funcao": "Deixar claro o critério de cada camada.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:11:07",
+   "bloco": "Dinâmica",
+   "descricao": "Escrita individual e silenciosa (com entradas e saídas de participantes). Retomada da consigna para quem se perdeu.",
+   "funcao": "Produção independente, sem contaminação.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:16:37",
+   "bloco": "Rodada de respostas",
+   "descricao": "1ª rodada em cadeia, na ordem da tela: cada um descreve o próximo e o descrito confirma ou corrige. O facilitador participa como mais um.",
+   "funcao": "Pôr as inferências à prova da pessoa real.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:26:32",
+   "bloco": "Rodada de respostas",
+   "descricao": "2ª rodada: quem começou escolhe como seguir, ordem invertida 'para fins didáticos'.",
+   "funcao": "Ampliar a amostra de acertos e erros.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:36:10",
+   "bloco": "Discussão",
+   "descricao": "'Alguma fantasia foi mais precisa? Algum padrão de acerto ou erro?' Conclusão: a camada fantasiosa erra mais.",
+   "funcao": "Metacognição sobre o próprio raciocínio.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:45:40",
+   "bloco": "Discussão",
+   "descricao": "O facilitador analisa os próprios erros e explicita os critérios escondidos nas justificativas (cor da parede → gosta de azul; calma → natureza).",
+   "funcao": "Mostrar que a fantasia tem um caminho que pode ser recuperado.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:49:06",
+   "bloco": "Discussão",
+   "descricao": "Ponte para a clínica: fantasias fortes sobre pacientes (associação pessoal 'quem se contradiz mente', imagem do gato no treino com paciente de IA, etarismo, animal totêmico, sereia, fantasias concretas). Formulário de presença no meio.",
+   "funcao": "Transferir a vivência para o trabalho clínico.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "0:59:56",
+   "bloco": "Discussão",
+   "descricao": "'Vocês usam essas fantasias como recurso terapêutico?' Posições: intervenção direta quando encontra o momento clínico, hipótese e lente, supervisão. Exemplo da fantasia transformada em pergunta.",
+   "funcao": "Diferenciar usos e riscos.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:07:08",
+   "bloco": "Discussão",
+   "descricao": "'Que relação veem entre o exercício e os casos?' Mesmo princípio. O corpo do paciente alimenta a fantasia. 'Tudo é ferramenta.' Crítica à neutralidade. Registrar fantasias ao fim da sessão.",
+   "funcao": "Generalizar o princípio.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:14:42",
+   "bloco": "Fechamento",
+   "descricao": "Síntese: fantasias sempre existirão. Fantasia de funcionamento x de foto ou média. Uso imediato ou em supervisão. 'Como e quando.'",
+   "funcao": "Amarrar as falas dos participantes numa tese.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:17:15",
+   "bloco": "Fechamento",
+   "descricao": "Uma participante confirma uma fantasia sobre um objeto do cenário de outra. Exemplo final do facilitador (paulista → violão = média estatística). Fim da gravação.",
+   "funcao": "Reforçar a distinção com um exemplo do próprio exercício.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Estereótipo",
+   "definicao": "Suposição coletiva aplicada a um indivíduo a partir de uma característica visível ou categorial. Pode ter base estatística e ainda assim não dizer nada sobre aquele paciente.",
+   "exemplo": "'Homem paulista, logo toca violão.' 'Gosta de rock, logo gosta de filme de terror.'",
+   "abordagem": "",
+   "ts": "1:19:01"
+  },
+  {
+   "nome": "Preconceito",
+   "definicao": "Juízo prévio individual que contamina a leitura do caso. Aparece misturado a verdades estatísticas e a variáveis demográficas usadas para descrever pacientes.",
+   "exemplo": "A suposição automática de que o tema racial é a demanda de um paciente negro.",
+   "abordagem": "",
+   "ts": "0:06:30"
+  },
+  {
+   "nome": "Decisão clínica individualizada",
+   "definicao": "Objetivo do exercício: decidir sobre o paciente a partir dos dados dele, não de suposições sobre o grupo a que pertence, avaliando se as variáveis básicas são de fato pertinentes ao caso.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:06:30"
+  },
+  {
+   "nome": "Observação e inferência",
+   "definicao": "Distinção em três camadas usada na dinâmica. Observável: o aparente. Subjetivo: opinião com alguma base. Fantasioso: impressão sem base. O erro cresce à medida que se afasta do dado.",
+   "exemplo": "'Fala muito' é o fato. 'Simpático' ou 'se impõe' é a leitura. 'É tímido e compensa' é a fantasia.",
+   "abordagem": "",
+   "ts": "0:08:26"
+  },
+  {
+   "nome": "Fantasia do terapeuta",
+   "definicao": "Impressão sobre o paciente sem base explícita, que surge 'de bate-pronto' mas cujo caminho pode ser reconstruído. É inevitável e tem valor clínico quando nasce do funcionamento e do discurso do paciente, não da aparência ou da média.",
+   "exemplo": "Fantasiar que uma paciente que se queixa de desrespeito aos seus limites não respeita os limites alheios, e perguntar sobre isso.",
+   "abordagem": "",
+   "ts": "1:14:42"
+  },
+  {
+   "nome": "Imagem do paciente",
+   "definicao": "Figura, animal ou cena que o terapeuta associa ao paciente. Sintetiza a percepção, revela vieses próprios (etarismo, encantamento) e sugere direções clínicas.",
+   "exemplo": "'O que veio como imagem dessa paciente?' — 'um gato'. Paciente imaginada como sereia (alerta de encantamento).",
+   "abordagem": "",
+   "ts": "0:53:00"
+  },
+  {
+   "nome": "Hipótese clínica",
+   "definicao": "O destino 'ponderado' da fantasia: algo a testar com perguntas ou observação e a discutir em supervisão, não a afirmar ao paciente.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:01:13"
+  },
+  {
+   "nome": "Contratransferência",
+   "definicao": "Mencionada por uma participante: a fantasia como efeito do atendimento no terapeuta, útil para pensar o caso mais do que para intervir diretamente.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:02:21"
+  },
+  {
+   "nome": "Comportamento clinicamente relevante",
+   "definicao": "Comportamento do paciente que aparece na própria sessão e pode ser eliciado para testar hipóteses. Uma participante de orientação comportamental o prefere a pedir concordância do paciente.",
+   "exemplo": "Com pacientes que concordam para agradar, perguntar 'você concorda?' só reforçaria o padrão.",
+   "abordagem": "Análise do comportamento",
+   "ts": "1:02:21"
+  },
+  {
+   "nome": "Supervisão clínica",
+   "definicao": "Espaço para perguntar 'de onde isso me atravessa?' e trabalhar fantasias, inclusive por imagens em código compartilhadas com o supervisor.",
+   "exemplo": "'Isso é o vaso.' 'Isso é o caixão.'",
+   "abordagem": "",
+   "ts": "1:03:22"
+  },
+  {
+   "nome": "Neutralidade",
+   "definicao": "Ideal da formação acadêmica ('não pode sair um risquinho da rota') que o grupo questiona: o terapeuta não se destitui da própria personalidade e deve usá-la com consciência e parcimônia.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:09:55"
+  },
+  {
+   "nome": "Etarismo",
+   "definicao": "Preconceito etário que uma participante percebeu em si ao estranhar a 'sabedoria de pessoa mais velha' numa paciente adolescente.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:54:10"
+  },
+  {
+   "nome": "Associação livre",
+   "definicao": "Citada como exemplo de técnica específica da psicanálise, que o aprimoramento, por ser transteórico, não treina.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:02:24"
+  },
+  {
+   "nome": "Análise de contingência",
+   "definicao": "Citada como exemplo de técnica específica da análise do comportamento, que o aprimoramento não treina.",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:02:24"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Observável, subjetivo e fantasioso",
+   "objetivo": "Perceber na própria pele como se passa do dado à inferência e da inferência à fantasia (estereótipo). Treinar a reconstrução do critério por trás de cada impressão e levar essa vigilância para a clínica, onde a meta é tomar decisões individualizadas sobre o paciente.",
+   "competencias": [
+    "Pessoa do terapeuta",
+    "Escuta clínica",
+    "Formulação de caso"
+   ],
+   "configuracao": "Grupo online pequeno (5 a 7 pessoas). Todos descrevem todos, inclusive a si mesmos, e o facilitador participa. Os descritos estão presentes e podem confirmar ou corrigir. Em grupos maiores, pares ou trios, ou cada um descreve só uma pessoa.",
+   "tempo": "~3 min de consigna, 1-3 min de escrita, ~20 min de duas rodadas, ~13 min de reflexão, 25-30 min de transposição para a clínica e síntese",
+   "materiais": "Papel ou bloco de notas. Ordem de fala pela disposição da tela da videochamada.",
+   "consigna": "Descreva cada pessoa que está na chamada, inclusive você mesmo, com três palavras. A primeira é algo aparente, observável. A segunda é algo mais subjetivo, de opinião, com alguma base no seu contato com a pessoa. A terceira é uma fantasia, algo que você só acha, sem base em nada. Escrevam para vocês, não postem no chat, e depois a gente compartilha.",
+   "passos": [
+    "Apresentar o problema em ~3 min: descrições de caso por variáveis centrais geram suposições estereotipadas. Objetivo: individualizar.",
+    "Dar a consigna e modelar com exemplos sobre um participante próximo e sobre si mesmo, mostrando a diferença entre fato e leitura.",
+    "1-3 min de escrita individual e silenciosa, sem chat.",
+    "Rodada 1 em cadeia: cada um lê as três palavras sobre o próximo da lista, e o descrito confirma, corrige ou se cala.",
+    "Rodada 2: quem começou a primeira escolhe como começar. Inverter a ordem para variar os pares.",
+    "Reflexão: alguma fantasia foi mais precisa? Algum padrão? Em que camada se errou mais?",
+    "Explicitar critérios: a partir das justificativas, mostrar de onde veio cada fantasia, começando pelos erros do facilitador.",
+    "Ponte 1: situações clínicas em que uma fantasia forte sobre um paciente apareceu.",
+    "Ponte 2: vocês usam essas fantasias como recurso terapêutico? Como?",
+    "Ponte 3: que relação há entre o que fizemos entre nós e o que fazemos com os pacientes?",
+    "Síntese: fantasias sempre existirão. Avaliar como foram construídas (funcionamento x aparência ou média) e decidir como e quando usá-las (na sessão, como hipótese ou em supervisão)."
+   ],
+   "feedback": "Sem correção individual. O feedback vem da realidade (o descrito confirma ou nega) e de perguntas metacognitivas. O critério de qualidade não é acertar, mas reconstruir o caminho do palpite e distinguir fantasias ancoradas no funcionamento de fantasias ancoradas em média estatística, foto ou biografia do observador. O facilitador usa os próprios erros como material principal.",
+   "exemplos_praticos": "Observáveis quase sempre certos (cabelo, óculos, tatuagens). Subjetivos às vezes certos quando havia convivência. Fantasias frequentemente erradas e reveladoras: 'agitada' era calmíssima, 'ama azul' era a única tinta disponível, 'emo' não combinava com o cabelo loiro. Alguns acertos ('alta'; 'gosta de guardar memórias', confirmado por um objeto do cenário). As justificativas expuseram estereótipos pessoais (rock → terror), culturais (paulista → violão) e sensoriais (voz calma → natureza).",
+   "variacoes": "Aplicar o mesmo esquema à primeira fala de um paciente simulado antes de discutir hipóteses. Acrescentar uma quarta camada ('que imagem ou animal essa pessoa evoca?'). Em grupos grandes, trabalhar em trios ou com uma pessoa descrita por todos.",
+   "armadilhas": "Exposição da aparência de colegas (altura, calvície, cabelo) pode constranger: restringir o observável a itens neutros e garantir o direito de não confirmar. Participantes que já se conhecem reduzem o erro no subjetivo. As rodadas tendem a virar bate-papo sobre os cenários, e é preciso reconduzir com a pergunta metacognitiva. Quando a reflexão vai para o observável, lembrar que a pergunta é sobre o fantasioso.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:08:26"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Chegada informal antes do conteúdo",
+   "descricao": "Deixa a conversa sobre aniversários e festas correr um pouco antes de puxar o grupo para o tema.",
+   "exemplo": "'Bom, vamos lá então, rapaziada.'",
+   "ts": "0:01:35"
+  },
+  {
+   "movimento": "Checar o formato com recém-chegados e recontratar",
+   "descricao": "Pergunta se o novato sabe como funciona e explica o aprimoramento com exemplos dos presentes (a psicanalista, ele comportamental). Declara o estilo e o horário.",
+   "exemplo": "'Não vou trabalhar associação livre, e eu, que sou de comportamental, não vou trabalhar análise de contingência. Agora, para os dois é interessante saber demonstrar empatia.'",
+   "ts": "0:02:24"
+  },
+  {
+   "movimento": "Convite multicanal à participação",
+   "descricao": "Libera câmera, microfone ou chat e reforça que o grupo depende da participação.",
+   "exemplo": "'Participem pelo mic ou pelo chat, porque o grupo só funciona quando a gente participa.'",
+   "ts": "0:03:19"
+  },
+  {
+   "movimento": "Teoria curta com nuance e checagem",
+   "descricao": "Cerca de 3 minutos de fundamento (aparentemente lidos de um roteiro), com exemplo sensível e ressalva, terminando com checagem de compreensão.",
+   "exemplo": "'Deu para entender todo mundo? Ficou alguma dúvida?'",
+   "ts": "0:07:49"
+  },
+  {
+   "movimento": "Modelar a consigna expondo-se",
+   "descricao": "Dá exemplos das três camadas sobre uma participante próxima e sobre si mesmo, com humor.",
+   "exemplo": "'Eu falo muito; isso não quer dizer que eu sou simpático. O fato é que eu falo muito.'",
+   "ts": "0:15:01"
+  },
+  {
+   "movimento": "Proteger a produção individual",
+   "descricao": "Pede que não postem no chat, marca 1 minuto e estende quando necessário.",
+   "exemplo": "'Não postem no chat, tá? Nesse momento é para a gente fazer aqui pessoalmente.'",
+   "ts": "0:10:18"
+  },
+  {
+   "movimento": "Participar do exercício como igual",
+   "descricao": "Descreve e é descrito, e erra publicamente. Isso reduz a assimetria e legitima o erro.",
+   "exemplo": "'No caso dela, eu errei completamente.'",
+   "ts": "0:45:40"
+  },
+  {
+   "movimento": "Devolver controle a quem foi exposto primeiro",
+   "descricao": "Compensa quem começou sem escolha dando-lhe a decisão na rodada seguinte.",
+   "exemplo": "'Como eu te joguei para ser a primeira e nem sempre todo mundo acha isso confortável, vou te dar o privilégio agora.'",
+   "ts": "0:26:32"
+  },
+  {
+   "movimento": "Reintegrar atrasados com uma frase",
+   "descricao": "Resume a atividade sempre que alguém entra.",
+   "exemplo": "'A gente está fazendo um exercício sobre estereótipos e a instrução era se descrever com três características.'",
+   "ts": "0:24:05"
+  },
+  {
+   "movimento": "Humor para tornar seguro um exercício de exposição",
+   "descricao": "Brincadeiras com cenários e aparências e recado ao ausente para não levar para o pessoal.",
+   "exemplo": "'Se você vir a gravação, não leve isso como algo pessoal.'",
+   "ts": "0:28:24"
+  },
+  {
+   "movimento": "Pergunta metacognitiva em vez de correção",
+   "descricao": "Pede que o grupo identifique padrões de acerto e erro e reconduz quando a resposta foge da camada fantasiosa.",
+   "exemplo": "'Teve algum padrão que vocês percebem que foi mais acertado ou mais errôneo?'",
+   "ts": "0:36:10"
+  },
+  {
+   "movimento": "Explicitar o critério implícito a partir das falas",
+   "descricao": "Mostra que as justificativas dos participantes revelam os critérios do raciocínio fantasioso.",
+   "exemplo": "'Conforme vocês foram falando, alguns dos critérios do raciocínio fantasioso apareceram. Vocês repararam?'",
+   "ts": "0:45:40"
+  },
+  {
+   "movimento": "Escada de perguntas-ponte para a clínica",
+   "descricao": "Três perguntas sucessivas levam da vivência ao caso: situação clínica, uso terapêutico, relação entre exercício e clínica.",
+   "exemplo": "'Vocês conseguem ver alguma relação entre o exercício que a gente estava fazendo e os casos clínicos?'",
+   "ts": "1:07:08"
+  },
+  {
+   "movimento": "Parafrasear e pedir correção",
+   "descricao": "Resume a posição do participante e convida a correção.",
+   "exemplo": "'Se eu tiver entendido errado, você me corrige.'",
+   "ts": "0:59:56"
+  },
+  {
+   "movimento": "Síntese que costura as falas",
+   "descricao": "Nomeia quem disse o quê e transforma as contribuições numa tese.",
+   "exemplo": "'Uma semelhança importante foi o que ela falou... e a outra disse: tudo é uma ferramenta.'",
+   "ts": "1:14:42"
+  },
+  {
+   "movimento": "Pedir avaliação da dinâmica e da condução",
+   "descricao": "Passa o formulário no meio do encontro, pedindo avaliação do exercício e do próprio facilitador.",
+   "exemplo": "'Avaliem o encontro, tanto a dinâmica quanto a minha condução.'",
+   "ts": "0:51:55"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Ao apresentar um caso em supervisão, pergunte-se se as variáveis demográficas que você cita são pertinentes à queixa.",
+   "justificativa": "Descrições rápidas levam a suposições estereotipadas que podem não ser a demanda.",
+   "contexto": "Supervisão, intervisão, prontuário.",
+   "competencia": "Formulação de caso",
+   "ts": "0:04:59"
+  },
+  {
+   "dica": "Mantenha os cuidados básicos com raça, gênero e outras marcas sociais sem presumir que elas são a demanda.",
+   "justificativa": "São relevantes, mas a demanda precisa ser investigada em cada caso.",
+   "contexto": "Desde a primeira sessão.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:06:07"
+  },
+  {
+   "dica": "Separe o que você observou do que você inferiu e do que você fantasiou.",
+   "justificativa": "O erro cresce a cada camada, e misturá-las faz a fantasia parecer um dado.",
+   "contexto": "Ao registrar a sessão ou formular hipóteses.",
+   "competencia": "Escuta clínica",
+   "ts": "0:08:26"
+  },
+  {
+   "dica": "Diante de uma impressão forte sobre o paciente, reconstrua o caminho: de onde veio isso?",
+   "justificativa": "O critério escondido pode ser superficial (uma cor, uma foto) ou vir da sua biografia, não do paciente.",
+   "contexto": "Logo após a sessão, antes de intervir com base na impressão.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:46:57"
+  },
+  {
+   "dica": "Dê peso às fantasias que nascem do discurso e do funcionamento do paciente, e desconfie das que nascem da aparência ou da média estatística.",
+   "justificativa": "Só as primeiras dizem respeito àquele paciente.",
+   "contexto": "Ao escolher por onde aprofundar.",
+   "competencia": "Formulação de caso",
+   "ts": "1:15:48"
+  },
+  {
+   "dica": "Não use um estereótipo estatístico como ponto de partida para aprofundar.",
+   "justificativa": "A média do grupo não descreve o indivíduo.",
+   "contexto": "Ao escolher perguntas de aprofundamento.",
+   "competencia": "Aprofundamento",
+   "ts": "1:19:01"
+  },
+  {
+   "dica": "Transforme a fantasia em pergunta aberta, não em afirmação.",
+   "justificativa": "Testa a hipótese sem impô-la e pode abrir um tema novo ('e como é você em relação ao limite do outro?').",
+   "contexto": "Quando a fantasia se repete e o material da sessão a sustenta.",
+   "competencia": "Intervenção",
+   "ts": "1:05:03"
+  },
+  {
+   "dica": "Só leve uma fantasia diretamente à sessão quando ela encontrar o momento clínico.",
+   "justificativa": "Fora de contexto, a intervenção fica desconexa.",
+   "contexto": "Quando o paciente traz, naquele momento, elementos que a sustentam.",
+   "competencia": "Intervenção",
+   "ts": "1:00:32"
+  },
+  {
+   "dica": "Com pacientes que tendem a concordar para agradar, não confirme hipóteses perguntando 'você concorda?'.",
+   "justificativa": "A pergunta reforça o padrão de concordância. É melhor observar comportamentos eliciados na sessão.",
+   "contexto": "Pacientes com padrão de complacência.",
+   "competencia": "Formulação de caso",
+   "ts": "1:02:21"
+  },
+  {
+   "dica": "Pergunte-se que imagem, animal ou figura o paciente evoca.",
+   "justificativa": "A imagem sintetiza a percepção e ajuda a enxergar seus próprios preconceitos e possíveis direções clínicas.",
+   "contexto": "Depois das primeiras sessões ou em supervisão.",
+   "competencia": "Formulação de caso",
+   "ts": "0:53:00"
+  },
+  {
+   "dica": "Pergunte-se 'eu seria amigo dessa pessoa? Seria pai dela?'.",
+   "justificativa": "Explicita o lugar relacional que você está ocupando.",
+   "contexto": "Quando a relação parece fácil demais ou difícil demais.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:56:10"
+  },
+  {
+   "dica": "Anote suas fantasias ao final da sessão e revise-as mais tarde.",
+   "justificativa": "Algumas se confirmam semanas depois, e analisar o caminho até elas mostra seu estilo clínico.",
+   "contexto": "Rotina de registro pós-sessão.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:12:46"
+  },
+  {
+   "dica": "Leve à supervisão as fantasias que incomodam ou se repetem.",
+   "justificativa": "A supervisão ajuda a separar o que é seu do que é do paciente.",
+   "contexto": "Sobretudo quando uma associação pessoal (por exemplo, 'quem se contradiz mente') aparece com força.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:50:51"
+  },
+  {
+   "dica": "Desconfie do encantamento com um paciente.",
+   "justificativa": "Gostar muito do atendimento pode cegar o terapeuta (a imagem da sereia).",
+   "contexto": "Quando o caso é o seu preferido.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:57:59"
+  },
+  {
+   "dica": "Cuidado ao comentar mudanças na aparência do paciente logo na abertura da sessão.",
+   "justificativa": "A mudança pode estar ligada a algo doloroso, e o comentário também revela a sua fantasia.",
+   "contexto": "Início da sessão. Prefira deixar o paciente trazer o tema.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "1:08:14"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O aprimoramento deve treinar habilidades globais, não técnicas de escola.",
+   "argumento": "Empatia, interrupção e aprofundamento servem igualmente ao psicanalista e ao analista do comportamento. Associação livre e análise de contingência não.",
+   "contraponto": "Grupos organizados em torno de uma abordagem.",
+   "implicacao": "Escolher temas que qualquer participante possa aplicar.",
+   "quem": "Diogo",
+   "ts": "0:02:24"
+  },
+  {
+   "tese": "Descrever pacientes por variáveis centrais é útil para comunicar, mas produz estereótipos.",
+   "argumento": "A descrição rápida leva a suposições erradas ou simplistas (exemplo racial).",
+   "contraponto": "A supervisão que começa pelo rótulo (queixa, transtorno, demografia).",
+   "implicacao": "Checar a pertinência de cada variável e individualizar decisões.",
+   "quem": "Diogo",
+   "ts": "0:04:59"
+  },
+  {
+   "tese": "Estatística e preconceito não se separam com facilidade.",
+   "argumento": "Há dados robustos sobre violências, mas não sobre as formas específicas que assumem em cada caso.",
+   "contraponto": "A crença de que 'dados' protegem contra o preconceito.",
+   "implicacao": "Usar a estatística como alerta, não como descrição do paciente.",
+   "quem": "Diogo",
+   "ts": "0:06:30"
+  },
+  {
+   "tese": "Fantasias sobre o paciente são inevitáveis e utilizáveis. A questão é como e quando.",
+   "argumento": "O mesmo mecanismo opera com colegas, pacientes, filmes e pessoas na rua, e algumas fantasias são oportunidades clínicas.",
+   "contraponto": "O ideal de neutralidade da formação ('evitar seus atravessamentos').",
+   "implicacao": "Avaliar a origem de cada fantasia e escolher o destino dela (sessão, hipótese, supervisão).",
+   "quem": "Diogo",
+   "ts": "1:16:52"
+  },
+  {
+   "tese": "Uma fantasia vale pelo modo como foi construída.",
+   "argumento": "A que nasce do discurso e do funcionamento do paciente está próxima do psiquismo dele. A que nasce de foto ou média estatística, não.",
+   "contraponto": "Tratar toda impressão como 'intuição clínica'.",
+   "implicacao": "Não aprofundar a partir de estereótipos. Aprofundar quando a fantasia 'junta pontos' com outras observações.",
+   "quem": "Diogo",
+   "ts": "1:15:48"
+  },
+  {
+   "tese": "A fantasia fala mais da lente do terapeuta do que do paciente.",
+   "argumento": "Ela mostra 'o que está poluindo a lente'. Hipóteses se confirmam melhor eliciando comportamentos do que pedindo concordância.",
+   "contraponto": "O uso da fantasia como intervenção direta, defendido por outro participante.",
+   "implicacao": "Usar a fantasia sobretudo na construção do caso e na supervisão.",
+   "quem": "Participante (orientação comportamental)",
+   "ts": "1:01:13"
+  },
+  {
+   "tese": "O terapeuta não pode se destituir da própria personalidade, então 'tudo é ferramenta'.",
+   "argumento": "Antes de profissionais, somos humanos. Até traços como ser didático entram na clínica.",
+   "contraponto": "A neutralidade 'quadradona' ensinada na faculdade.",
+   "implicacao": "Tomar consciência e usar com parcimônia, sabendo quando se abster.",
+   "quem": "Participantes",
+   "ts": "1:12:46"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "O grupo só funciona quando a gente participa.",
+   "tema": "facilitação",
+   "ts": "0:03:19"
+  },
+  {
+   "texto": "Essas descrições permitem uma comunicação rápida e fácil, mas podem resultar em suposições erradas, simplistas e até estereotipadas.",
+   "tema": "estereótipos",
+   "ts": "0:04:59"
+  },
+  {
+   "texto": "Falar muito não quer dizer que a pessoa é simpática. O fato é que ela fala muito.",
+   "tema": "observação e inferência",
+   "ts": "0:15:01"
+  },
+  {
+   "texto": "Na verdade, isso diz mais sobre a gente do que sobre o paciente. (participante)",
+   "tema": "pessoa do terapeuta",
+   "ts": "0:55:17"
+  },
+  {
+   "texto": "A visualização consegue esclarecer mais a angústia do que trazer para o concreto. (participante)",
+   "tema": "imagem do paciente",
+   "ts": "1:03:22"
+  },
+  {
+   "texto": "Tudo é uma ferramenta, e tudo depende da forma como a gente a utiliza. (participante)",
+   "tema": "pessoa do terapeuta",
+   "ts": "1:09:55"
+  },
+  {
+   "texto": "Antes de sermos profissionais, somos humanos. (participante)",
+   "tema": "neutralidade",
+   "ts": "1:12:06"
+  },
+  {
+   "texto": "Não tem como a gente se destituir da nossa personalidade e virar um ser etéreo na clínica. (participante)",
+   "tema": "neutralidade",
+   "ts": "1:12:46"
+  },
+  {
+   "texto": "Tem fantasias que não são interessantes de jogar para o paciente na lata. E tem outras que, se você não trouxer para a sessão, vai perder uma grande oportunidade.",
+   "tema": "fantasia do terapeuta",
+   "ts": "1:14:42"
+  },
+  {
+   "texto": "Falar alto e gostar de conversar não é sinônimo de agitação. Mas na minha fantasia foi.",
+   "tema": "estereótipos",
+   "ts": "1:15:48"
+  },
+  {
+   "texto": "Fantasias sempre vamos ter. A gente vai usar isso na clínica? Vai. A questão é como e quando.",
+   "tema": "fantasia do terapeuta",
+   "ts": "1:16:52"
+  },
+  {
+   "texto": "Eu não usaria isso como princípio de aprofundamento, porque estou me baseando numa média estatística, e ela não diz tanto a respeito do paciente.",
+   "tema": "estereótipos",
+   "ts": "1:19:01"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "O que você sabe sobre seu paciente, e o que você só acha?",
+   "mensagem": "Observável, subjetivo e fantasioso: o erro cresce a cada camada, e separar as três evita tratar fantasia como dado.",
+   "roteiro": [
+    "Capa: 'Você sabe ou só acha?'",
+    "Camada 1: observável",
+    "Camada 2: subjetivo",
+    "Camada 3: fantasioso",
+    "Onde mais se erra",
+    "Pergunta para levar: de onde veio essa impressão?"
+   ],
+   "corte_inicio": "0:08:26",
+   "corte_fim": "0:10:18"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Descrevemos uns aos outros com 3 palavras e erramos quase todas as fantasias",
+   "mensagem": "A dinâmica mostra, na pele, como nascem os estereótipos e por que o terapeuta precisa vigiar os próprios.",
+   "roteiro": [
+    "Gancho",
+    "A consigna",
+    "Os erros mais divertidos (sem expor ninguém)",
+    "A lição para a clínica"
+   ],
+   "corte_inicio": "0:36:10",
+   "corte_fim": "0:37:36"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Fantasias sobre o paciente sempre vão existir",
+   "mensagem": "A questão é como e quando usá-las.",
+   "roteiro": [
+    "Frase em destaque",
+    "Legenda: fantasia de funcionamento x fantasia de média"
+   ],
+   "corte_inicio": "1:14:42",
+   "corte_fim": "1:16:52"
+  },
+  {
+   "formato": "reels",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Estatística não é diagnóstico",
+   "mensagem": "A média do grupo não descreve o indivíduo, e variáveis demográficas nem sempre são a demanda.",
+   "roteiro": [
+    "Gancho",
+    "Exemplo de descrição de caso por rótulo",
+    "O risco do estereótipo",
+    "Como individualizar"
+   ],
+   "corte_inicio": "0:04:59",
+   "corte_fim": "0:06:30"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Você não é neutro, e tudo bem",
+   "mensagem": "A personalidade do terapeuta é ferramenta: tome consciência, use com parcimônia e registre suas fantasias.",
+   "roteiro": [
+    "Capa",
+    "O mito da neutralidade absoluta",
+    "Tudo é ferramenta",
+    "Anote suas fantasias depois da sessão",
+    "Leve-as à supervisão"
+   ],
+   "corte_inicio": "1:09:55",
+   "corte_fim": "1:12:41"
+  },
+  {
+   "formato": "stories",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Que animal seu paciente seria?",
+   "mensagem": "A imagem que o paciente evoca ajuda a enxergar seus próprios vieses (sem material de caso).",
+   "roteiro": [
+    "Enquete: você usa imagens para pensar seus casos?",
+    "Explicação",
+    "Cuidado: a imagem fala de você também"
+   ],
+   "corte_inicio": "0:53:00",
+   "corte_fim": "0:54:10"
+  }
+ ],
+ "autores": [],
+ "formato_grupo": {
+  "nome": "Aprimoramento clínico — versão do Diogo: dinâmica vivencial entre os participantes + discussão de transposição para a clínica",
+  "objetivo": "Desenvolver uma habilidade transteórica (tomar decisões individualizadas e reconhecer os próprios estereótipos e fantasias sobre o paciente) por meio de uma vivência em que os colegas são o 'material', seguida de reflexão e ligação com a clínica.",
+  "publico": "Estudantes e psicólogos iniciantes de várias abordagens (psicanálise, análise do comportamento), parte já atendendo. Participantes frequentes da Allos e novatos.",
+  "tamanho": "Pequeno: 5 a 7 pessoas online, com entradas e saídas ao longo do encontro.",
+  "duracao": "~1h20 gravada (grupo previsto até ~15h30).",
+  "estrutura_padrao": "Bate-papo de chegada → recapitulação do que é o aprimoramento → teoria mínima (~3 min, lida de roteiro) → consigna com modelagem → escrita individual silenciosa → 2 rodadas de compartilhamento em cadeia → reflexão metacognitiva sobre acertos, erros e critérios → pergunta-ponte para casos clínicos → pergunta sobre uso como recurso terapêutico → pergunta sobre a relação exercício-clínica → síntese do facilitador → fechamento.",
+  "papel_facilitador": "Moderador socrático e co-participante: faz o exercício junto e expõe os próprios erros, pergunta mais do que explica, administra ordem e tempo, reintegra atrasados, usa humor para tornar seguro um exercício de exposição e costura as falas numa síntese final.",
+  "regras_combinados": "Participação por câmera, microfone ou chat ('o grupo só funciona quando a gente participa'). Não postar respostas no chat antes da rodada. Descrever todos, inclusive a si mesmo. Seguir a ordem da tela. Quem começou ganha o direito de escolher depois. Formulário de presença (horas complementares e avaliação da dinâmica e da condução).",
+  "comparacao_com_alan": "Tem teoria mínima (~3 min), mas o exercício não é resposta a um estímulo clínico: é uma vivência analógica em que os colegas fazem o papel do 'paciente', e o vínculo com a clínica só vem depois, por três perguntas-ponte. Não há feedback corretivo individual nem regras de qualidade da resposta. O feedback vem da realidade (o descrito confirma ou nega) e da reflexão guiada. Mais da metade do tempo é discussão, como o próprio Diogo anuncia ('bastante discussão, pouquinho de prática'). O facilitador participa do exercício e usa os próprios erros como material, e o fechamento extrai um princípio geral (a origem da fantasia define seu uso), não uma lista de regras. É forte para temas de pessoa do terapeuta (vieses, estereótipos, contratransferência) e mais fraco para treinar a formulação de uma intervenção concreta."
+ },
+ "reflexoes_do_facilitador": [
+  "Declara a preferência pelo próprio estilo: 'no meu grupo, bastante discussão, pouquinho de prática; adoro os grupos em que a gente debate formas e possibilidades'.",
+  "Reconhece publicamente que errou as próprias fantasias (imaginou 'agitada' uma participante muito calma; 'emo' só em parte).",
+  "Admite ter errado a ordem de fala e inverte a sequência 'para fins didáticos'.",
+  "Reconhece que expôs a primeira participante sem escolha e compensa dando-lhe a decisão na rodada seguinte.",
+  "Pede que o formulário avalie tanto a dinâmica quanto a sua condução e comemora que o formulário agora traz o seu nome.",
+  "Perde o fio numa explicação sobre o raciocínio fantasioso ('OK, não entendi, mas tudo bem, prosseguindo')."
+ ],
+ "referencias_a_outros_encontros": [
+  "Diogo é o facilitador habitual deste grupo de aprimoramento. No encontro anterior (acervo-05), foi substituído por Rodolfo.",
+  "Menção a um 'outro exercício do aprimoramento' sobre cuidados básicos (marcas sociais, raça etc.).",
+  "Cita o 'modelo de aprofundamento' como habilidade global (cf. esquemas de aprofundamento do Alan).",
+  "Recados: uma participante foi cotada para coordenar grupo. O 'grupo das quatro' de apresentação de caso deixou de existir.",
+  "Um participante acompanhou um atendimento de outra participante 'na quinta passada' (grupo de prática).",
+  "Participantes relatam treino clínico com paciente simulado por IA, acompanhado pelo Alan, em que ele perguntou 'o que veio como imagem dessa paciente?'. Menção a uma 'monitoria do Eco' (?).",
+  "Uma participante cita que 'o Alan fala muito da questão do insight'.",
+  "Menção ao 'grupo de prática' como espaço onde uma participante passou a ver a psicologia como menos 'quadrada'."
+ ],
+ "observacoes": "O título original ('Encontro 11 e Encontro 12') não corresponde a dois encontros: é um único encontro de ~1h20. A legenda automática registra o nome do facilitador como 'Dilvo', mas os participantes o chamam de Diogo, e ele mesmo diz 'sou o Diogo mesmo'. Ele se declara 'de comportamental'. A introdução teórica parece lida de um roteiro de exercício pré-determinado, cuja fonte não é citada. Houve entradas e saídas de participantes e trechos de conversa informal sobre a aparência e os cenários dos colegas, resumidos sem dados pessoais. Os casos clínicos mencionados pelos participantes (paciente adolescente, paciente que se queixa de desrespeito aos seus limites, imagens de pacientes) foram registrados de forma genérica. Trecho confuso na legenda em 0:48:09-0:48:55 (explicação do 'movimento fantasioso')."
+}

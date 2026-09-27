@@ -1,0 +1,754 @@
+{
+ "id": "acervo-04",
+ "nota": "Acervo 04 - Construção frasal em roleplay com pausas",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "Construção frasal em roleplay com pausas",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Aprimoramento clínico (roleplay interrompido)",
+ "facilitadores": [
+  "Rodolfo"
+ ],
+ "resumo": "Rodolfo define construção frasal como a maneira de escolher as palavras para comunicar uma intervenção já decidida. Ela importa porque a mesma leitura pode sair mais ou menos agressiva do que se queria e porque frases longas perdem potência. Depois de sintetizar com o grupo o que precede a intervenção (leitura do campo, hipóteses, estágio de mudança, priorização), fora do foco do dia, e de definir intervenção como tudo o que o clínico faz, ele conduz um roleplay livre entre dois voluntários e o interrompe a cada fala do terapeuta. Houve quatro pausas: a abertura ('Olá, tudo bem?'), que gerou uma rodada de formas de abrir e para onde cada uma leva; 'você consegue imaginar exatamente do que você tem medo?', com alternativas para levar o abstrato ao concreto; 'como as pessoas da sua idade fazem amizade?', com a discussão sobre a pergunta em terceira pessoa; e uma pergunta longa encurtada em três versões com pressupostos. O fechamento destaca que a formulação direciona a resposta do paciente, que frases longas tendem a acolher e perder potência enquanto curtas são potentes e agressivas, e que sem algum tensionamento da relação não há transformação.",
+ "em_uma_frase": "Num roleplay livre interrompido a cada fala do terapeuta, o grupo reformula a mesma intervenção e descobre que a frase (e a entonação) direciona a resposta do paciente e regula potência, agressividade e tensão na relação.",
+ "competencias": [
+  "Construção frasal",
+  "Intervenção",
+  "Abertura e encerramento de sessão",
+  "Relação terapêutica",
+  "Aprofundamento",
+  "Priorização clínica"
+ ],
+ "abordagens": [],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Abertura",
+   "descricao": "Checa se os novatos entenderam a explicação dada antes da gravação.",
+   "funcao": "Integrar quem chega.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:00:20",
+   "bloco": "Teoria",
+   "descricao": "Tema e plano em dois tempos; primeira vez nesse formato, cansado. Definição de construção frasal e por que importa (agressividade, potência, direção clínica).",
+   "funcao": "Teoria mínima e contrato com expectativas realistas.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:02:54",
+   "bloco": "Rodada de respostas",
+   "descricao": "'O que precede uma intervenção?' Sinais (primeira sessão) e priorização/hipóteses.",
+   "funcao": "Ativar o conhecimento prévio.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:05:58",
+   "bloco": "Teoria",
+   "descricao": "Síntese: leitura do campo, hipóteses, estágio de mudança, priorização.",
+   "funcao": "Mapear o que não será treinado hoje.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:07:12",
+   "bloco": "Combinados",
+   "descricao": "Pode-se discordar da direção clínica, mas o foco é como comunicar; explica a dinâmica (dois voluntários, pausa pela mãozinha do Meet, frase exata e entonação).",
+   "funcao": "Delimitar o foco e dar a consigna.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:09:21",
+   "bloco": "Demonstração",
+   "descricao": "Entonação: ênfase no 'sua' em 'como foi a sua semana?'.",
+   "funcao": "Mostrar que o tom faz parte da frase.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:10:26",
+   "bloco": "Discussão",
+   "descricao": "Pedido de definição de intervenção; devolvido ao grupo; 'a abertura é intervenção?'; tudo o que o clínico faz é intervenção, inclusive o silêncio; hoje, só a fala.",
+   "funcao": "Tornar o conceito concreto e reduzir o medo de intervir.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:16:10",
+   "bloco": "Combinados",
+   "descricao": "Pede voluntários; pode inventar a história ou um personagem; o foco não é avaliar o terapeuta; atendimento livre.",
+   "funcao": "Baixar a ansiedade de exposição.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:18:44",
+   "bloco": "Dinâmica",
+   "descricao": "Pausa 1 na primeira fala ('Olá, tudo bem?'); a própria 'paciente' nota que direciona a resposta.",
+   "funcao": "Mostrar que a abertura já é intervenção.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:19:48",
+   "bloco": "Rodada de respostas",
+   "descricao": "Formas de abrir a sessão e para onde levam (sentimento, passado e expectativas, demanda).",
+   "funcao": "Repertório de aberturas e seus efeitos.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:24:54",
+   "bloco": "Dinâmica",
+   "descricao": "O roleplay segue: semana de muitas mudanças, medo.",
+   "funcao": "Gerar material.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:30:27",
+   "bloco": "Feedback",
+   "descricao": "Pausa 2: 'Você consegue imaginar exatamente do que você tem medo?'. Intenção, autorreformulação ('do que exatamente você tem medo?'), ganhos e perdas.",
+   "funcao": "Explicitar o raciocínio e comparar formulações.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:36:19",
+   "bloco": "Rodada de respostas",
+   "descricao": "Alternativas do grupo (imagem, 'como se fosse o quê?', exemplo, personificação); 'que força esse medo exerce?' troca a intervenção.",
+   "funcao": "Criatividade clínica e critério 'mesma intervenção'.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:42:28",
+   "bloco": "Dinâmica",
+   "descricao": "O roleplay segue: amizades, idade, estilo de vida.",
+   "funcao": "Novo material.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:46:15",
+   "bloco": "Feedback",
+   "descricao": "Pausa 3: 'Como você acha que as pessoas da sua idade fazem amizade?'. Deslocamento para terceiros; alternativas 'como você faz amizades?' e 'descreva a forma ideal'.",
+   "funcao": "Perguntar sobre terceiros versus sobre a pessoa.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:56:35",
+   "bloco": "Dinâmica",
+   "descricao": "O roleplay segue: atividade anterior, mudança de bairro, recomeço.",
+   "funcao": "Novo material.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:02:28",
+   "bloco": "Feedback",
+   "descricao": "Pausa 4: pergunta longa encurtada ('como esse medo te atrapalha de fato?', 'o que esse medo te impede de fazer?', 'esse medo te paralisa?'); pressupostos e pergunta fechada.",
+   "funcao": "Encurtar e perceber o pressuposto.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:07:18",
+   "bloco": "Fechamento",
+   "descricao": "Mensagem principal: a formulação direciona a resposta; perguntas abertas no começo do processo investigativo.",
+   "funcao": "Consolidar.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "1:08:34",
+   "bloco": "Dúvidas",
+   "descricao": "'Frases curtas ou longas?' Não há regra; potência versus agressividade versus tensão; sem tensão não há transformação.",
+   "funcao": "Transformar tendências em critério de decisão.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:12:19",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "A 'paciente' revela que inventou quase tudo; incentivo a novatos para criar personagens; o terapeuta comenta a intervenção que teria vontade de fazer.",
+   "funcao": "Normalizar o papel de paciente simulado.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:14:30",
+   "bloco": "Dúvidas",
+   "descricao": "Uma estudante pergunta se a intervenção fica natural com a prática; formulário de presença (certificado, horas complementares); gravação interrompida.",
+   "funcao": "Logística; a conversa pessoal fica fora da gravação.",
+   "duracao_min": 2
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Ganhos e perdas da formulação",
+   "definicao": "Comparar o que cada versão da mesma intervenção oferece. O próprio terapeuta é convidado a dizer o que perde e o que ganha ao trocar uma formulação por outra.",
+   "exemplo": "'Consegue imaginar…?' mantém a hipótese no ar e tensiona menos; 'do que exatamente…?' mede o nível de abertura e de consciência.",
+   "abordagem": "",
+   "ts": "0:33:28"
+  },
+  {
+   "nome": "Criatividade clínica",
+   "definicao": "Capacidade de encontrar formulações além da primeira que vem à cabeça, mantendo a intenção. É o 'objetivo de fundo' do exercício de construção frasal.",
+   "exemplo": "'Se seu medo fosse uma pessoa, como ela seria?'",
+   "abordagem": "",
+   "ts": "0:37:45"
+  },
+  {
+   "nome": "Entonação e pausa",
+   "definicao": "A ênfase numa palavra muda o sentido e o efeito da frase; o tom faz parte da construção frasal.",
+   "exemplo": "'Me conta como foi a SUA semana' destaca a pessoa.",
+   "abordagem": "",
+   "ts": "0:09:21"
+  },
+  {
+   "nome": "Concretude da intervenção",
+   "definicao": "Levar o paciente do abstrato ao concreto: nomear o sentimento, pedir uma imagem, um exemplo ou uma comparação, para chegar às representações concretas por trás de palavras vagas.",
+   "exemplo": "'Me dá uma imagem do que você tem medo'; 'é como se fosse o quê?'.",
+   "abordagem": "",
+   "ts": "0:31:39"
+  },
+  {
+   "nome": "Intensidade da intervenção",
+   "definicao": "A 'agressividade' de uma formulação. Sobe com frases curtas, diretas e com pressupostos; desce com frases longas, hipotéticas e contextualizadas.",
+   "exemplo": "'Você consegue imaginar' tira diretividade e agressividade da pergunta.",
+   "abordagem": "",
+   "ts": "0:36:19"
+  },
+  {
+   "nome": "Potência da intervenção",
+   "definicao": "A capacidade de a intervenção alcançar seu objetivo com força. Formulações longas ou com contextualização excessiva perdem potência; intervenções pontuais ganham, mas tendem a ser mais agressivas.",
+   "exemplo": "Regra geral dada a um participante: formulações mais longas são menos potentes.",
+   "abordagem": "",
+   "ts": "0:01:23"
+  },
+  {
+   "nome": "Tensão na relação terapêutica",
+   "definicao": "Efeito das intervenções mais potentes e agressivas sobre a relação. Não deve ser evitado a todo custo: sem algum tensionamento não há transformação; é preciso conciliar acolhimento e tensão.",
+   "exemplo": "Escolher frase longa quando não se pode tensionar e curta quando cabe 'uma alfinetada'.",
+   "abordagem": "",
+   "ts": "1:12:19"
+  },
+  {
+   "nome": "Hipótese implícita",
+   "definicao": "O pressuposto embutido numa pergunta, que a transforma em verificação de uma hipótese do terapeuta.",
+   "exemplo": "'O que esse medo te impede de fazer?' supõe que ele impede; 'esse medo te paralisa?' supõe que paralisa.",
+   "abordagem": "",
+   "ts": "1:06:08"
+  },
+  {
+   "nome": "Pergunta aberta e pergunta fechada",
+   "definicao": "Perguntas abertas não direcionam a resposta e são indicadas no começo do processo investigativo; fechadas (sim/não) mudam a intervenção e direcionam.",
+   "exemplo": "'Tudo bem?' contra 'como você está?'; 'esse medo te paralisa?' contra 'como esse medo te paralisa?'.",
+   "abordagem": "",
+   "ts": "0:18:44"
+  },
+  {
+   "nome": "Pergunta em terceira pessoa",
+   "definicao": "O que o participante que atende chama de 'técnica de deslocamento': perguntar sobre 'as pessoas' (um terceiro) para que o paciente fale de si com mais liberdade e revele com o que se identifica.",
+   "exemplo": "'Como você acha que as pessoas da sua idade fazem amizade?'",
+   "abordagem": "",
+   "ts": "0:53:25"
+  },
+  {
+   "nome": "Leitura do campo",
+   "definicao": "Perceber sinais e interpretar o que acontece entre terapeuta, cliente e ambiente; junto com hipóteses, estágio de mudança e priorização, precede a decisão de intervir.",
+   "exemplo": "Choro intenso e desesperança na primeira sessão como sinais para intervir.",
+   "abordagem": "",
+   "ts": "0:06:26"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "Citados entre os elementos que precedem a intervenção: entender em que estágio de mudança está o paciente.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:07:00"
+  },
+  {
+   "nome": "Expectativas sobre a terapia",
+   "definicao": "O que o paciente espera do processo; a abertura 'o que te trouxe aqui?' direciona ao passado e prepara o terreno para trabalhá-las depois.",
+   "exemplo": "Abertura de primeira sessão de uma participante.",
+   "abordagem": "",
+   "ts": "0:24:00"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Construção frasal",
+   "objetivo": "Tomar consciência de como a formulação e a entonação de uma intervenção direcionam a resposta do paciente e exercitar a criatividade clínica, achando outras formas de dizer a mesma intervenção (versão de Rodolfo do roleplay interrompido de Alan).",
+   "competencias": [
+    "Construção frasal",
+    "Intervenção",
+    "Abertura e encerramento de sessão"
+   ],
+   "configuracao": "Grupo todo, online (Meet). Dois voluntários: terapeuta e paciente simulada (história própria, de terceiros ou inventada). O facilitador faz a mediação e pausa com a 'mãozinha'. Cerca de 8 observadores propõem formulações por voz e pelo chat.",
+   "tempo": "Cerca de 50 minutos de dinâmica, com 4 pausas de 5 a 10 minutos cada",
+   "materiais": "Nenhum; o facilitador anota as formulações e as repete no chat.",
+   "consigna": "Uma pessoa vai atender e outra vai ser atendida, num atendimento livre, sem script. Toda vez que o terapeuta intervier pela fala, eu levanto a mão, a gente para e conversa sobre a construção frasal: do exato jeito que ele formulou, e a entonação. Vocês podem discordar da direção clínica, mas a ideia hoje é pensar como comunicar aquela intervenção. O foco não é avaliar quem atende.",
+   "passos": [
+    "Teoria mínima: definir construção frasal e dizer por que importa.",
+    "Perguntar 'o que precede uma intervenção?', sintetizar e declarar que isso fica fora do foco.",
+    "Demonstrar a entonação com um exemplo.",
+    "Pedir dois voluntários e tranquilizar (pode inventar, pode criar personagem).",
+    "Pausar já na primeira fala e abrir uma rodada de formas de abrir a sessão e seus efeitos.",
+    "Retomar o roleplay e pausar na intervenção seguinte.",
+    "Perguntar ao terapeuta a intenção da intervenção.",
+    "Pedir que o próprio terapeuta reformule com a mesma intenção.",
+    "Perguntar o que ele ganha e o que perde com a nova formulação.",
+    "Abrir ao grupo e registrar as alternativas no chat.",
+    "Nomear quando uma proposta troca a intervenção ou só muda uma palavra.",
+    "Oferecer a própria formulação como mais uma possibilidade.",
+    "Retomar o roleplay e repetir (aqui foram quatro pausas).",
+    "Fechar com a mensagem principal e abrir para dúvidas e impressões."
+   ],
+   "feedback": "Critério central: manter a intenção (trocar o foco, por exemplo para as consequências, ou fechar a pergunta, troca a intervenção). Critérios auxiliares: para onde a formulação leva o paciente (sentimento, passado, demanda, concreto, confirmação de hipótese); diretividade e agressividade e tensão na relação; tamanho da frase (longas perdem potência); pressupostos embutidos; aberta versus fechada; manter a palavra do paciente; entonação. O feedback é exploratório: compara efeitos, raramente diz qual é melhor e admite dúvidas.",
+   "exemplos_praticos": "Paciente simulada: pessoa em fase de muitas mudanças (formatura, mudança de casa, início na profissão), com medo de não fazer amigos e de não ter pacientes; ela depois contou que inventou a maior parte. Pausa 1: 'Olá, tudo bem?' e a rodada de aberturas ('como está se sentindo hoje?', 'o que te trouxe aqui?', 'o que você me traz hoje?'). Pausa 2: 'você consegue imaginar exatamente do que você tem medo?', com as alternativas 'do que exatamente você tem medo?', 'me dá uma imagem do que você tem medo', 'é como se fosse o quê?', 'tenta me dar um exemplo', 'se seu medo fosse uma pessoa…', 'você sabe do que tem medo?'. Pausa 3: 'como as pessoas da sua idade fazem amizade?', com as alternativas 'como você faz amizades?' e 'descreva a forma ideal de fazer amizade'. Pausa 4: a pergunta longa sobre as preocupações, encurtada em 'como esse medo te atrapalha de fato?', 'o que esse medo te impede de fazer?' e 'esse medo te paralisa?' (fechada, troca a intervenção).",
+   "variacoes": "Pausar só na abertura e fazer várias rodadas de aberturas (ponto mais 'visual'); pedir a autorreformulação do terapeuta antes do grupo; registrar formulações no chat; comparar com a versão de Alan (quatro variações, votação da variação para seguir, mediador participante).",
+   "armadilhas": "Deixar o roleplay correr e perder a frase exata (anotar literalmente); propostas que trocam a intervenção; confundir mudança de palavra com mudança de intervenção (o próprio facilitador admite dificuldade); paciente simulada sem demanda, que deixa o atendimento raso; novatos tímidos para se voluntariar.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:08:16"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Integrar os novatos",
+   "descricao": "Checa se entenderam a explicação dada antes da gravação e, no fim, convida-os a fazer o papel de paciente com personagem inventado.",
+   "exemplo": "'Tati e Júlio, ficou alguma dúvida em relação à explicação que eu dei?'",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Anunciar o plano com vulnerabilidade",
+   "descricao": "Explica os dois tempos do encontro e admite que é a primeira vez no formato e que está cansado, baixando a expectativa de perfeição.",
+   "exemplo": "'Talvez eu tenha algum pouco de dificuldade, e hoje eu tô particularmente bem cansado.'",
+   "ts": "0:00:20"
+  },
+  {
+   "movimento": "Pergunta disparadora com palavras-chave anotadas",
+   "descricao": "Pergunta 'o que precede uma intervenção?', anota termos-chave e sintetiza nomeando quem trouxe cada contribuição.",
+   "exemplo": "'Vou até anotar essa palavra que você usou aqui: sinais.'",
+   "ts": "0:04:43"
+  },
+  {
+   "movimento": "Ler o silêncio com humor",
+   "descricao": "Encerra a rodada sem pressionar.",
+   "exemplo": "'Vou entender esse silêncio como não temos mais.'",
+   "ts": "0:06:26"
+  },
+  {
+   "movimento": "Delimitar o foco sem proibir",
+   "descricao": "Admite a discordância sobre a direção clínica, mas a deixa fora do exercício, numa versão mais branda da regra de Alan.",
+   "exemplo": "'Pode ser que você não concorde com a direção clínica… mas a ideia aqui hoje não é discutir exatamente isso.'",
+   "ts": "0:07:12"
+  },
+  {
+   "movimento": "Devolver a pergunta e perguntar socraticamente",
+   "descricao": "Quando pedem definição de intervenção, ouve o grupo e conduz com uma pergunta até a definição ampla.",
+   "exemplo": "'A forma que você abre a sessão é uma intervenção?'",
+   "ts": "0:11:50"
+  },
+  {
+   "movimento": "Reduzir a ansiedade de exposição",
+   "descricao": "Deixa claro que ninguém está sendo avaliado e que se pode inventar a história.",
+   "exemplo": "'O foco não é a sua história… vocês podem inventar, criar um personagem.'",
+   "ts": "0:16:18"
+  },
+  {
+   "movimento": "Pausar na primeira fala e creditar o participante",
+   "descricao": "Interrompe já no 'Olá, tudo bem?' e credita a observação da 'paciente', admitindo que não tinha percebido.",
+   "exemplo": "'Essa observação foi muito boa. Inclusive eu nem percebi.'",
+   "ts": "0:18:44"
+  },
+  {
+   "movimento": "Começar pelo terapeuta",
+   "descricao": "Pergunta a intenção, pede autorreformulação e avaliação de ganhos e perdas antes de abrir ao grupo.",
+   "exemplo": "'O que é que você acha que você perde com essa segunda formulação e o que é que você ganha com ela?'",
+   "ts": "0:33:28"
+  },
+  {
+   "movimento": "Registrar no chat",
+   "descricao": "Copia as formulações para todos compararem.",
+   "exemplo": "Coloca no chat a primeira e a segunda formulação a pedido de um participante.",
+   "ts": "0:36:19"
+  },
+  {
+   "movimento": "Nomear a troca de intervenção",
+   "descricao": "Aponta quando a proposta muda o foco, reconhecendo o valor dela.",
+   "exemplo": "'Nesse caso você troca a intervenção.'",
+   "ts": "0:39:40"
+  },
+  {
+   "movimento": "Própria formulação como mais uma",
+   "descricao": "Oferece sua versão sem apresentá-la como gabarito e reconhece a vantagem de ter tempo para pensar.",
+   "exemplo": "'Quando a gente tá com tempo para pensar, é muito mais fácil; no bate e volta é mais difícil.'",
+   "ts": "0:51:29"
+  },
+  {
+   "movimento": "Admitir os próprios limites",
+   "descricao": "Reconhece que perdeu formulações e que é difícil distinguir quando a intervenção muda.",
+   "exemplo": "'Esse é um exercício que para mim é difícil de às vezes identificar quando muda a intervenção.'",
+   "ts": "1:06:08"
+  },
+  {
+   "movimento": "Fechar com mensagem principal e pedir impressões",
+   "descricao": "Enuncia o que deve ficar e abre para comentários sobre o grupo.",
+   "exemplo": "'O principal que eu queria que ficasse…' / 'O que é que vocês acharam do grupo?'",
+   "ts": "1:07:18"
+  },
+  {
+   "movimento": "Responder com tendência, não com regra",
+   "descricao": "Diante da pergunta por regra geral, diz que não há, mas oferece tendências e um critério de decisão.",
+   "exemplo": "'Em terapia não existe regra geral… mas em regra dá para dizer que formulações mais longas são menos potentes.'",
+   "ts": "1:08:34"
+  },
+  {
+   "movimento": "Logística e privacidade",
+   "descricao": "Lembra o formulário de presença (certificado e horas) e para a gravação antes de uma conversa pessoal.",
+   "exemplo": "'Vou só parar de gravar para isso não ficar gravado.'",
+   "ts": "1:15:25"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Prefira 'como você está?' a 'tudo bem?' na abertura.",
+   "justificativa": "'Tudo bem?' direciona o paciente a dizer que está bem.",
+   "contexto": "Início de qualquer sessão.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:18:44"
+  },
+  {
+   "dica": "Escolha a pergunta de abertura sabendo para onde ela leva.",
+   "justificativa": "'Como está se sentindo?' leva ao sentimento; 'o que te trouxe?' leva ao passado; 'o que você me traz hoje?' leva a uma demanda.",
+   "contexto": "Planejar a abertura conforme o momento do processo.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:21:53"
+  },
+  {
+   "dica": "Na primeira sessão, pergunte 'o que te trouxe aqui?'.",
+   "justificativa": "Abre caminho para trabalhar depois as expectativas do paciente sobre a terapia.",
+   "contexto": "Entrevistas iniciais.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:24:00"
+  },
+  {
+   "dica": "Cuide da entonação: a ênfase numa palavra muda a intervenção.",
+   "justificativa": "O tom faz parte da frase; destacar 'sua' põe a pessoa no centro.",
+   "contexto": "Sempre; especialmente ao treinar.",
+   "competencia": "Construção frasal",
+   "ts": "0:09:21"
+  },
+  {
+   "dica": "Para levar o abstrato ao concreto, peça uma imagem, um exemplo, uma comparação ou uma personificação.",
+   "justificativa": "São recursos diferentes para a mesma intenção e ampliam a criatividade clínica.",
+   "contexto": "Paciente que fala em termos vagos.",
+   "competencia": "Aprofundamento",
+   "ts": "0:37:28"
+  },
+  {
+   "dica": "Use 'você consegue imaginar…?' quando não quiser tensionar; use a pergunta direta para medir abertura.",
+   "justificativa": "A primeira mantém a hipótese no ar e reduz a diretividade; a segunda mostra o nível de consciência e de defesa.",
+   "contexto": "Começo de vínculo ou tema sensível, e depois vínculo mais firme.",
+   "competencia": "Construção frasal",
+   "ts": "0:34:49"
+  },
+  {
+   "dica": "Mantenha a palavra que o paciente usou.",
+   "justificativa": "Repetir 'medo', e não 'preocupações', faz o link com o que ele mesmo nomeou.",
+   "contexto": "Ao retomar um tema.",
+   "competencia": "Construção frasal",
+   "ts": "1:03:54"
+  },
+  {
+   "dica": "Perceba o pressuposto que sua pergunta carrega e trate-o como hipótese.",
+   "justificativa": "'O que esse medo te impede de fazer?' já supõe que ele impede.",
+   "contexto": "Ao testar hipóteses sem perceber que as está impondo.",
+   "competencia": "Intervenção",
+   "ts": "1:06:08"
+  },
+  {
+   "dica": "Se quer explorar, pergunte 'como', não 'se'.",
+   "justificativa": "'Esse medo te paralisa?' é fechada e muda a intervenção; 'como esse medo te paralisa?' mantém a exploração.",
+   "contexto": "Aprofundamento.",
+   "competencia": "Aprofundamento",
+   "ts": "1:06:08"
+  },
+  {
+   "dica": "Pergunte sobre 'as pessoas' para dar liberdade; pergunte sobre 'você' para trazer o concreto.",
+   "justificativa": "Falar de um terceiro reduz a defesa; falar da própria experiência aumenta a chance de vir algo concreto.",
+   "contexto": "Paciente que fica no abstrato ou se defende.",
+   "competencia": "Construção frasal",
+   "ts": "0:53:25"
+  },
+  {
+   "dica": "Depois de uma descrição geral, pergunte se a pessoa usa aqueles recursos.",
+   "justificativa": "Ajuda a captar contradições entre a fantasia e a prática.",
+   "contexto": "Após uma pergunta em terceira pessoa.",
+   "competencia": "Aprofundamento",
+   "ts": "0:54:28"
+  },
+  {
+   "dica": "Encurte a frase quando quiser potência; alongue e contextualize quando não puder tensionar.",
+   "justificativa": "Frases longas perdem potência, mas acolhem; curtas são potentes, mas agressivas.",
+   "contexto": "Conforme o momento da relação e a leitura do caso.",
+   "competencia": "Construção frasal",
+   "ts": "1:10:51"
+  },
+  {
+   "dica": "No começo do processo investigativo, prefira perguntas abertas.",
+   "justificativa": "Não direcionam a resposta antes de conhecer o paciente.",
+   "contexto": "Primeiras sessões e início do aprofundamento.",
+   "competencia": "Intervenção",
+   "ts": "1:07:26"
+  },
+  {
+   "dica": "Aceite algum nível de tensão na relação.",
+   "justificativa": "Sem tensão não há transformação.",
+   "contexto": "Ao perceber que está evitando qualquer desconforto.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:12:19"
+  },
+  {
+   "dica": "Lembre que também se intervém na primeira sessão.",
+   "justificativa": "Sinais de sofrimento intenso (choro, desesperança, falas sobre tirar a vida) pedem ação; a ideia de que na primeira sessão não se intervém 'cai por terra'.",
+   "contexto": "Entrevistas iniciais.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:02:54"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A forma da frase importa tanto quanto a interpretação.",
+   "argumento": "Uma leitura correta pode sair mais agressiva ou menos agressiva do que se queria, ou perder potência, conforme a formulação.",
+   "contraponto": "A atenção exclusiva ao 'o que interpretar'.",
+   "implicacao": "Treinar a formulação separadamente da decisão clínica.",
+   "quem": "Rodolfo",
+   "ts": "0:01:23"
+  },
+  {
+   "tese": "Tudo o que o clínico faz é intervenção, inclusive abrir a sessão e ficar em silêncio.",
+   "argumento": "A forma de receber já direciona; o silêncio também é um modo de se relacionar.",
+   "contraponto": "A ideia de que 'na primeira sessão não se intervém' e o medo de 'será que é hora de intervir?'.",
+   "implicacao": "Toda fala merece atenção, a começar pela primeira.",
+   "quem": "Rodolfo e um participante",
+   "ts": "0:13:10"
+  },
+  {
+   "tese": "'Tudo bem?' não é uma pergunta neutra.",
+   "argumento": "No uso brasileiro, ela já pede a resposta 'tudo bem'.",
+   "contraponto": "O hábito coloquial.",
+   "implicacao": "Preferir perguntas abertas na abertura.",
+   "quem": "Uma participante e Rodolfo",
+   "ts": "0:18:44"
+  },
+  {
+   "tese": "Quanto mais potente a intervenção, mais ela tende a ser agressiva e a tensionar a relação.",
+   "argumento": "Frases curtas e pontuais atingem o objetivo com mais força; longas e contextualizadas amortecem.",
+   "contraponto": "Rodolfo ressalva que 'não é exatamente assim' sempre.",
+   "implicacao": "Escolher a forma conforme o quanto a relação pode ser tensionada.",
+   "quem": "Rodolfo",
+   "ts": "1:09:49"
+  },
+  {
+   "tese": "Sem algum tensionamento da relação terapêutica não há transformação.",
+   "argumento": "A relação só confortável não produz mudança.",
+   "contraponto": "A crença de que a relação não tensionada é sempre a melhor.",
+   "implicacao": "Conciliar acolhimento e tensão.",
+   "quem": "Rodolfo",
+   "ts": "1:12:19"
+  },
+  {
+   "tese": "Em terapia não existe regra geral nem receita de bolo.",
+   "argumento": "Tudo depende do caso e do paciente específico.",
+   "contraponto": "A demanda por regras como 'frase curta é melhor'.",
+   "implicacao": "Treinar critérios de decisão, não fórmulas.",
+   "quem": "Rodolfo",
+   "ts": "1:08:34"
+  },
+  {
+   "tese": "O exercício de construção frasal é, no fundo, treino de criatividade clínica.",
+   "argumento": "Obriga a pensar formulações além da primeira.",
+   "contraponto": "Ficar preso a um repertório fixo de perguntas.",
+   "implicacao": "Praticar variações da mesma intervenção.",
+   "quem": "Rodolfo",
+   "ts": "0:37:45"
+  },
+  {
+   "tese": "As pessoas falam mais quando falam de um terceiro.",
+   "argumento": "O deslocamento dá liberdade para dizer o que se pensa, 'como se não fosse dela'.",
+   "contraponto": "Outro participante e Rodolfo propõem perguntar diretamente sobre a pessoa para trazer o concreto.",
+   "implicacao": "Escolher entre o geral e o pessoal conforme a defesa do paciente.",
+   "quem": "Participante que fez o terapeuta",
+   "ts": "0:53:25"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "A maneira que você escolhe as palavras para comunicar uma intervenção ao paciente é o que a gente chama de construção frasal.",
+   "tema": "Definição",
+   "ts": "0:01:23"
+  },
+  {
+   "texto": "A depender da forma que eu formulo a minha frase, a intervenção pode soar mais ou menos potente, mais ou menos agressiva, mais ou menos persuasiva.",
+   "tema": "Por que importa",
+   "ts": "0:08:16"
+  },
+  {
+   "texto": "'Tudo bem?', apesar de a gente usar muito, já direciona o paciente para uma resposta. 'Como você está?' é uma pergunta mais aberta.",
+   "tema": "Abertura de sessão",
+   "ts": "0:18:44"
+  },
+  {
+   "texto": "Vou chamar de intervenção basicamente tudo que envolve a atuação do clínico.",
+   "tema": "Intervenção",
+   "ts": "0:13:10"
+  },
+  {
+   "texto": "O objetivo desse exercício, no fundo, é explorar a criatividade clínica: pensar formulações que vão além daquilo que vocês pensaram no primeiro momento.",
+   "tema": "Criatividade clínica",
+   "ts": "0:37:45"
+  },
+  {
+   "texto": "Quando a gente está com tempo para pensar, é muito mais fácil. No bate e volta é mais difícil.",
+   "tema": "Prática",
+   "ts": "0:51:29"
+  },
+  {
+   "texto": "As pessoas falam mais quando a gente usa essa técnica de deslocamento: falando de um terceiro, como se não fosse dela, a pessoa tem mais liberdade para dizer o que pensa.",
+   "tema": "Pergunta em terceira pessoa",
+   "ts": "0:53:25"
+  },
+  {
+   "texto": "A formulação que vocês fazem pode direcionar a resposta que o paciente vai dar.",
+   "tema": "Mensagem principal",
+   "ts": "1:07:26"
+  },
+  {
+   "texto": "Em terapia não existe regra geral. Não existe receita de bolo.",
+   "tema": "Sem receita",
+   "ts": "1:08:34"
+  },
+  {
+   "texto": "Quanto mais potente é a intervenção, muitas vezes mais agressiva ela tende a ser, ou seja, mais ela tensiona a relação terapêutica.",
+   "tema": "Potência e agressividade",
+   "ts": "1:09:49"
+  },
+  {
+   "texto": "A gente tende a achar que a relação terapêutica não tensionada é o melhor. Só que, se você não tensiona um pouquinho, não existe transformação no processo.",
+   "tema": "Tensão e transformação",
+   "ts": "1:12:19"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "'Tudo bem?' não é uma pergunta neutra",
+   "mensagem": "A abertura já é intervenção: 'tudo bem?' pede 'tudo bem'; 'como você está?' abre.",
+   "roteiro": [
+    "Cena: terapeuta abre com 'Oi, tudo bem?'.",
+    "Congela: o que essa pergunta pede?",
+    "Alternativa aberta.",
+    "Toda fala é intervenção."
+   ],
+   "corte_inicio": "0:18:44",
+   "corte_fim": "0:19:48"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "5 jeitos de abrir uma sessão e para onde cada um leva",
+   "mensagem": "Cada abertura direciona: sentimento, semana, passado e expectativas, demanda.",
+   "roteiro": [
+    "'Tudo bem?' → pede 'bem'.",
+    "'Como você está?' → aberta.",
+    "'Como está se sentindo?' → emoção.",
+    "'O que te trouxe aqui?' → passado e expectativas.",
+    "'O que você me traz hoje?' → demanda."
+   ],
+   "corte_inicio": "0:19:48",
+   "corte_fim": "0:24:54"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Do abstrato ao concreto: 6 jeitos de perguntar 'do que você tem medo?'",
+   "mensagem": "A mesma intenção cabe em várias frases, e cada uma tem ganhos e perdas.",
+   "roteiro": [
+    "'Você consegue imaginar…?' (suave).",
+    "'Do que exatamente…?' (direta).",
+    "'Me dá uma imagem.'",
+    "'É como se fosse o quê?'",
+    "'Tenta me dar um exemplo.'",
+    "'Se seu medo fosse uma pessoa…'"
+   ],
+   "corte_inicio": "0:33:17",
+   "corte_fim": "0:42:23"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Frase longa ou curta?",
+   "mensagem": "Longas acolhem e perdem potência; curtas são potentes e agressivas. Escolha pela tensão que a relação comporta.",
+   "roteiro": [
+    "Pergunta.",
+    "Tendência das longas.",
+    "Tendência das curtas.",
+    "Critério de decisão."
+   ],
+   "corte_inicio": "1:08:34",
+   "corte_fim": "1:12:19"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Sem tensão, não há transformação",
+   "mensagem": "Uma relação terapêutica confortável demais não muda ninguém.",
+   "roteiro": [
+    "Frase de impacto.",
+    "O mito da relação sem tensão.",
+    "Conciliar acolhimento e tensão."
+   ],
+   "corte_inicio": "1:12:19",
+   "corte_fim": "1:13:28"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "A pergunta que já traz a resposta",
+   "mensagem": "Pressupostos embutidos ('o que esse medo te impede?') e perguntas fechadas transformam a exploração em confirmação de hipótese.",
+   "roteiro": [
+    "Exemplo com pressuposto.",
+    "Exemplo fechado.",
+    "Versão aberta com 'como'."
+   ],
+   "corte_inicio": "1:06:08",
+   "corte_fim": "1:07:18"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como treinamos construção frasal: roleplay com a mão levantada",
+   "mensagem": "Convite ao Aprimoramento: pode inventar o personagem, o foco não é avaliar ninguém.",
+   "roteiro": [
+    "Bastidor do roleplay.",
+    "A regra da mão levantada.",
+    "Convite."
+   ],
+   "corte_inicio": "0:08:16",
+   "corte_fim": "0:09:21"
+  }
+ ],
+ "autores": [],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Acervo) — roleplay interrompido de construção frasal (Rodolfo)",
+  "objetivo": "Ampliar a consciência sobre como a formulação e a entonação das intervenções direcionam a resposta do paciente e regulam potência e agressividade, exercitando a criatividade clínica por meio de reformulações da mesma intervenção.",
+  "publico": "Estudantes de psicologia (por exemplo, no 8º período) e psicólogos recém-formados que atendem pela Allos; mistura de veteranos do grupo e novatos.",
+  "tamanho": "Cerca de 10 participantes: 2 no roleplay (terapeuta e paciente simulada) e cerca de 8 observadores ativos por voz e chat.",
+  "duracao": "Cerca de 1h16 gravado, com uma conversa final fora da gravação.",
+  "estrutura_padrao": "Checagem com novatos → teoria mínima (definição e por que importa) → pergunta disparadora ('o que precede a intervenção?') e síntese do que fica fora → combinados e consigna → demonstração de entonação → definição de intervenção com o grupo → voluntários → roleplay livre com pausas a cada intervenção (intenção do terapeuta → autorreformulação → ganhos e perdas → alternativas do grupo → checar se a intervenção mudou) → 4 pausas → mensagem principal → dúvidas → incentivo aos novatos → formulário de presença. Segue o ciclo do Alan (teoria mínima → exercício → feedback), numa réplica mais branda da dinâmica de Alan 02: o facilitador media, o terapeuta fala primeiro, há número livre de variações e chat, não há votação e o feedback é exploratório.",
+  "papel_facilitador": "Mediador que pausa o roleplay, pergunta a intenção, anota e registra as formulações, distingue mesma intervenção de troca de intervenção, oferece a própria formulação como alternativa e sintetiza tendências sem regras absolutas; mostra vulnerabilidade (primeira vez no formato) e cuida da logística.",
+  "regras_combinados": "Foco na formulação e na entonação, não em discordar da direção clínica; o foco não é avaliar quem atende; a paciente pode inventar a história ou um personagem; participação levantando a mão ou pelo chat; formulário de presença dá certificado e horas complementares; conversas pessoais ficam fora da gravação."
+ },
+ "reflexoes_do_facilitador": [
+  "Diz que é a primeira vez que conduz um grupo 'um pouquinho mais diferente', que pode ter dificuldade e que está cansado.",
+  "Admite que perdeu algumas formulações do terapeuta por deixar o atendimento correr antes de pausar.",
+  "Reconhece que, para ele, é difícil às vezes identificar quando uma reformulação muda a intervenção.",
+  "Reconhece que com tempo para pensar é fácil formular; no 'bate e volta' da sessão é mais difícil.",
+  "Explica que começou pela abertura porque é o ponto mais simples e 'visual' para mostrar como a formulação direciona a resposta."
+ ],
+ "referencias_a_outros_encontros": [
+  "Explicação dada aos novatos antes do início da gravação.",
+  "A dinâmica replica a de Alan 02 (Construção frasal); um participante brinca que 'ninguém bate a memória do Alan'.",
+  "A fala 'primeira vez que faço um grupo assim um pouquinho mais diferente' também aparece em Acervo 02 (Encontro 3 e 4), provavelmente conduzido pelo mesmo facilitador."
+ ],
+ "observacoes": "Facilitador identificado como Rodolfo (ele se nomeia ao pedir o preenchimento do formulário de presença, em 1:15:25). A legenda confunde nomes de participantes (por exemplo, 'Víor'/'Vitor', 'Bines'/'Vinícius', 'Ângelo'/'Angelo', 'Geovana'/'Giovana'). O caso do roleplay é simulado: a participante que fez a paciente diz que só a formatura e a mudança eram verdadeiras e que inventou o resto; detalhes pessoais foram omitidos. A gravação é interrompida antes de uma conversa pessoal sobre a prática clínica de uma participante."
+}

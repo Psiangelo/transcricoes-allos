@@ -1,0 +1,1139 @@
+{
+ "id": "pd-09",
+ "nota": "PD 09 - Como a Allos chegou à prática deliberada",
+ "pasta": "10 - Fichamentos/Prática Deliberada",
+ "titulo": "Como a Allos chegou à prática deliberada",
+ "serie": "Introdução à Prática Deliberada",
+ "formato": "Aula",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Alan conta como a Allos, nascida de grupos de estudo práticos, passou a sistematizar exercícios para erros comuns de roleplay e descobriu que isso tinha nome: a prática deliberada de Scott Miller. Reconstrói a crise da psicologia baseada em evidências: o modelo médico por transtorno do DSM (Barlow), o empate entre abordagens quando se mede bem-estar geral (Wampold), o gráfico em que terapeutas não melhoram com a experiência e o estudo em que calouros e formados atendem igual. Define a prática deliberada (feedback específico, decomposição, repetição, medida) por metáforas do esporte e da natação e mostra que o programa de Miller não mudou os resultados. Expõe onde discorda de Miller: PD divertida e em grupo, exercícios variados e sem gabarito, fundamentos escolhidos também por plausibilidade (interpretação) e crítica à expectativa como fundamento. Termina respondendo perguntas sobre a avaliação da Allos (concordância altíssima entre avaliadores, escala −9 a +9, antinomia realismo × concordância) e sobre quais terapeutas podem melhorar.",
+ "em_uma_frase": "Da constatação de que nem experiência nem faculdade formam clínicos melhores, Alan justifica a aposta da Allos na prática deliberada de Scott Miller, numa versão própria: em grupo, divertida, sem gabarito e com fundamentos escolhidos também por plausibilidade.",
+ "competencias": [
+  "Desenvolvimento profissional",
+  "Feedback clínico",
+  "Articulação teoria-prática",
+  "Relação terapêutica",
+  "Interpretação",
+  "Escuta clínica",
+  "Construção frasal",
+  "Intervenção",
+  "Primeira sessão e entrevistas iniciais",
+  "Pessoa do terapeuta"
+ ],
+ "abordagens": [
+  "Terapia cognitivo-comportamental",
+  "Análise do comportamento",
+  "Terapias contextuais",
+  "Psicanálise lacaniana",
+  "Psicanálise freudiana",
+  "Abordagem centrada na pessoa",
+  "Fenomenologia e existencialismo",
+  "Psicologia analítica junguiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Abertura",
+   "descricao": "Plano do dia (manhã teórica, tarde sobre projetos); origem da Allos em grupos de estudo em faculdades; os grupos práticos enchiam mais que os teóricos.",
+   "funcao": "Situar a prática deliberada na história da instituição.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:00:50",
+   "bloco": "Teoria",
+   "descricao": "Erros comuns observados nos roleplays (primeira sessão incoerente com o método, vícios de linguagem, intervenções pouco potentes, pensar na próxima intervenção em vez de escutar) e criação de exercícios específicos, como a troca de terapeutas.",
+   "funcao": "Mostrar que a Allos já fazia prática deliberada de forma intuitiva.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:02:47",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Como Alan conheceu Scott Miller por indicação de um colega da área de PBE; os livros Better Results e Field Guide to Better Results; o e-mail provocador e a conversa com Miller.",
+   "funcao": "Narrativa de origem que cria vínculo com o tema.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:05:11",
+   "bloco": "Teoria",
+   "descricao": "Parêntese sobre práticas baseadas em evidências; parceria com a associação brasileira de PBE; produto de ensino de prática clínica com IA para universidades.",
+   "funcao": "Contexto institucional e convite a participar dos projetos.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:10:06",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Queda de imagem e som na transmissão online.",
+   "funcao": "Interrupção técnica.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:11:38",
+   "bloco": "Teoria",
+   "descricao": "Psicologia fora do Brasil: consenso por PBE, David Barlow, DSM, cópia do modelo da medicina, critérios para escolher intervenções (plausibilidade, solidez epistêmica, efetividade), ensaio clínico randomizado.",
+   "funcao": "Genealogia da crise da psicoterapia.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:16:24",
+   "bloco": "Teoria",
+   "descricao": "Problema 1: definir a doença (fator patognomônico, borderline × vício, critério psicométrico de existência). Problema 2: medir o sucesso (contar cortes, perguntar à mãe, autorrelato).",
+   "funcao": "Mostrar os limites do modelo médico na psicologia.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:21:48",
+   "bloco": "Teoria",
+   "descricao": "Modus operandi do grupo de Barlow; medida de bem-estar geral faz tudo empatar; exemplo DBT × TCC clássica no borderline; Bruce Wampold e os fatores comuns.",
+   "funcao": "Apresentar a disputa central dos últimos 30 anos.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:26:01",
+   "bloco": "Teoria",
+   "descricao": "O gráfico: terapeutas não melhoram com a experiência. Explicações de Hayes (basquete vendado) e da cristalização de preconceitos (amoreira, terapia de casal); variância individual; Miller estuda quem melhora.",
+   "funcao": "Problematizar a experiência como fonte de melhora.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:34:47",
+   "bloco": "Teoria",
+   "descricao": "O que é prática deliberada: psicologia do esporte, 10.000 horas, performance × treino, feedback específico, repetição, decomposição; treino de sorriso; escolinha de natação; prática antes da teoria.",
+   "funcao": "Definir a prática deliberada por metáforas.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:40:32",
+   "bloco": "Discussão",
+   "descricao": "Participante: no esporte a teoria vem junto da correção. Alan: a teoria motiva, mas a repetição faz a diferença. Polêmica da supervisão tradicional.",
+   "funcao": "Integrar contribuições e firmar posição.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:45:30",
+   "bloco": "Dúvidas",
+   "descricao": "Pergunta sobre usar recompensas com pacientes; Alan esclarece que PD é sobre ensino; parêntese sobre a complexidade do reforço (tempo, acenos, atenção como reforçador).",
+   "funcao": "Corrigir mal-entendido e ensinar reforço.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:53:22",
+   "bloco": "Teoria",
+   "descricao": "Três explicações do gráfico; estudo de Miller com calouros × formados; terapeutas excepcionais; efeito do terapeuta muito maior que a diferença entre abordagens.",
+   "funcao": "Mostrar que o ensino atual não forma clínicos melhores.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:58:41",
+   "bloco": "Teoria",
+   "descricao": "O que faz um bom terapeuta: empatia, sensibilidade cultural, ilusões de autoavaliação (80% se acham acima da média), insegurança como correlato; conclusão de que ninguém sabe.",
+   "funcao": "Expor a lacuna que a PD tenta preencher.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:03:05",
+   "bloco": "Teoria",
+   "descricao": "Programa de Miller (vídeo, medida sessão a sessão por terceiros, exercícios) não mudou o gráfico; as duas corridas do ouro; Barlow desiste do DSM; a Allos entra na corrida.",
+   "funcao": "Posicionar a Allos no cenário internacional.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:06:42",
+   "bloco": "Teoria",
+   "descricao": "Posição de Alan sobre PBE; mensuração como jogo justo; por que medir com o instrumento de Miller; indicação dos livros.",
+   "funcao": "Transparência sobre escolhas metodológicas.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:09:59",
+   "bloco": "Teoria",
+   "descricao": "Divergências com Miller: diversão, perda de 20% dos dados, fundamentos repetitivos e simples, treino individual, modelo do atleta de elite; participante cita Calligaris.",
+   "funcao": "Justificar o modelo próprio da Allos.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:15:21",
+   "bloco": "Teoria",
+   "descricao": "O que a Allos fez: 180 páginas de exercícios sujos, oficina de exercícios, grupo de prática (jogo) × grupo de aprimoramento (treino), exemplos de exercícios, estrutura em três partes, sem gabarito, generalização.",
+   "funcao": "Mostrar a operacionalização nos grupos.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:20:29",
+   "bloco": "Discussão",
+   "descricao": "'Não existe intervenção errada'; frase atribuída a Jung; Rogers entediado; gravação de sessões com consentimento; ruptura e reparo; podcast Making Therapy Better; Jonathan Shedler.",
+   "funcao": "Ligar a PD à teoria da relação terapêutica.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:26:08",
+   "bloco": "Teoria",
+   "descricao": "Remuneração atrelada à PD; fundamentos por literatura × por plausibilidade (interpretação); crítica à expectativa como fundamento.",
+   "funcao": "Explicitar critérios de escolha do que treinar.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:34:01",
+   "bloco": "Discussão",
+   "descricao": "Participante compara com o barbeiro que melhora com pares; perguntas sobre feedback do paciente, OQ-45 e sessões psicanalíticas que irritam o paciente.",
+   "funcao": "Trazer o problema do feedback de resultado.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:38:51",
+   "bloco": "Teoria",
+   "descricao": "Limites das pesquisas (EUA e norte da Europa, psicodinâmica × lacaniana, instrumentos genéricos); psicometria (duração, janela de medida, torturar números); a piada do poste de luz.",
+   "funcao": "Alfabetização científica crítica.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:48:03",
+   "bloco": "Teoria",
+   "descricao": "Definição-síntese de prática deliberada; exemplos dos exercícios de entonação e do silêncio.",
+   "funcao": "Consolidar o conceito.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:49:51",
+   "bloco": "Combinados",
+   "descricao": "Plano da tarde: pesquisas, reorganização dos exercícios, volta do grupo de aprimoramento, estratégia com universidades.",
+   "funcao": "Enquadrar o que vem depois.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:51:39",
+   "bloco": "Dúvidas",
+   "descricao": "Pergunta desafio: terapeutas ruins podem ficar excelentes? Como distinguir erros fáceis e difíceis de corrigir.",
+   "funcao": "Aplicar a teoria à seleção e à formação.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:57:39",
+   "bloco": "Dúvidas",
+   "descricao": "Pesquisas de avaliação da Allos: concordância entre avaliadores, correlação com a melhora do paciente, escala −9 a +9, irrelevância da abordagem do avaliador, feedback qualitativo.",
+   "funcao": "Mostrar a PD medida dentro da Allos.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "2:08:27",
+   "bloco": "Fechamento",
+   "descricao": "Pausa para o almoço.",
+   "funcao": "Encerramento.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Prática deliberada",
+   "definicao": "Metodologia de estudo e ensino vinda da psicologia do esporte: feedback específico, decomposição de um problema complexo em subproblemas menores, exercícios específicos para cada fundamento, repetição e mensuração do que acontece. Na Allos, é o método dos grupos de aprimoramento.",
+   "exemplo": "O treino de vôlei (técnico corrigindo um movimento específico) versus a pelada de fim de semana; o saque decomposto em pulo e movimento da mão, assim como a intervenção se decompõe em construção da frase e entonação.",
+   "abordagem": "",
+   "ts": "1:48:03"
+  },
+  {
+   "nome": "Performance e treino",
+   "definicao": "Distinção entre jogar (performance, na qual se faz muita coisa sem saber o que funciona) e treinar (feedback específico sobre movimentos isolados, repetidos). Na Allos, o grupo de prática (roleplay com nota) equivale ao jogo e o grupo de aprimoramento equivale ao treino.",
+   "exemplo": "Pelada de vôlei × treino com técnico; tenista que bate mecanicamente na bola na mesma direção até pegar o gesto.",
+   "abordagem": "",
+   "ts": "0:35:40"
+  },
+  {
+   "nome": "Pseudoprática",
+   "definicao": "Acumular horas sem retorno sobre o efeito das próprias ações. Como numa sessão se fazem de 20 a 60 intervenções e o paciente sofre mil influências, o clínico treina às cegas.",
+   "exemplo": "O basquete vendado de Steven Hayes: treinar três meses de olhos vendados não melhora nada.",
+   "abordagem": "",
+   "ts": "0:29:58"
+  },
+  {
+   "nome": "Cristalização de preconceitos",
+   "definicao": "Conhecer é substituir o trabalho de enxergar a realidade por modelos mentais que a simplificam. Com a repetição de casos parecidos, o clínico passa a escutar o próprio modelo, e não o paciente, o que explicaria a piora com a experiência.",
+   "exemplo": "Vizinhos que só descobrem a amoreira na porta do prédio quando veem Alan colhendo amoras; casais que substituem a escuta pelo modelo da briga.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:29:58"
+  },
+  {
+   "nome": "Curva de experiência do terapeuta",
+   "definicao": "Dado atribuído por Alan a Wampold: a melhora dos pacientes não aumenta, e em média até diminui levemente, com os anos de prática do terapeuta. A média esconde trajetórias individuais muito variadas.",
+   "exemplo": "O gráfico que Alan desenha com linhas individuais que sobem, descem ou ficam estáveis.",
+   "abordagem": "",
+   "ts": "0:26:01"
+  },
+  {
+   "nome": "Efeito do terapeuta",
+   "definicao": "A diferença de resultado entre clínicos excelentes e péssimos é enorme, muito maior que a diferença de 5 a 10% entre abordagens medida por transtorno. Miller estudou qualitativamente esses terapeutas excepcionais ('supershrinks' (?)) para descobrir o que fazem de diferente e chegou à prática deliberada.",
+   "exemplo": "Uma clínica compara os terapeutas cujos pacientes mais melhoram com os cujos pacientes mais pioram e encontra uma diferença bizarra; Alan fala em algo como 10 vezes em taxa de suicídio.",
+   "abordagem": "",
+   "ts": "0:57:41"
+  },
+  {
+   "nome": "Expertise clínica",
+   "definicao": "O que torna alguém um bom terapeuta. Segundo Alan, consegue-se medir que bons terapeutas são muito melhores que a média, mas a literatura não sabe o que os torna bons nem como chegar lá.",
+   "exemplo": "Candidatos pesquisados: empatia, sensibilidade cultural, insegurança profissional.",
+   "abordagem": "",
+   "ts": "1:02:16"
+  },
+  {
+   "nome": "Psicologia baseada em evidências",
+   "definicao": "Movimento que critica a psicologia por discutir teorias sem mensurar seus resultados, o que faz vencer o autor favorito e não o que mais ajuda os pacientes. Alan a diferencia do cientificismo behaviorista e a considera filosoficamente mais acurada, embora tenha várias críticas a ela.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:05:58"
+  },
+  {
+   "nome": "Ensaio clínico randomizado",
+   "definicao": "Desenho copiado da medicina: escolher um transtorno do DSM, randomizar pacientes entre abordagens e comparar os resultados. Para Alan, é no fundo a única maneira de produzir conhecimento sobre intervenção, mas depende de definir bem a doença e o sucesso.",
+   "exemplo": "Depressão tratada por psicanálise lacaniana, DBT ou TCC, com pacientes randomizados.",
+   "abordagem": "",
+   "ts": "0:15:19"
+  },
+  {
+   "nome": "Critério psicométrico de existência",
+   "definicao": "Para a psicometria, um construto existe se não se correlaciona de forma discreta com outro. Como no DSM quase tudo se correlaciona com tudo, provavelmente as categorias foram mal definidas. Sem fatores patognomônicos (sinais que definem inequivocamente a doença, como tumor × gripe na medicina), o modelo médico fica frágil na psicologia.",
+   "exemplo": "Se quase todas as pessoas sorridentes são felizes, não existe 'sorridente', existe 'sorridente-feliz'; a correlação entre borderline e vício citada como acima de 80%.",
+   "abordagem": "",
+   "ts": "0:17:26"
+  },
+  {
+   "nome": "Veredito do pássaro Dodô",
+   "definicao": "Quando se mede bem-estar geral em vez de escalas específicas por transtorno, todas as abordagens empatam. Alan descreve o fenômeno sem usar o termo.",
+   "exemplo": "Com escala de borderline aparecem diferenças (DBT melhor que TCC clássica); com 'quão bem você está de 1 a 10', não.",
+   "abordagem": "",
+   "ts": "0:22:38"
+  },
+  {
+   "nome": "Fatores comuns",
+   "definicao": "Tese associada a Bruce Wampold: medido corretamente, sem o DSM e instrumentos específicos, tudo empata e o que cura são fatores comuns às abordagens.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:25:09"
+  },
+  {
+   "nome": "Autoavaliação do terapeuta",
+   "definicao": "Aqui, a autoavaliação é ilusória: cerca de 80% dos psicólogos acham que atendem acima da média, e a percepção do terapeuta sobre a própria sensibilidade cultural não se correlaciona com o resultado. Um dos correlatos de ser bom terapeuta é justamente não achar que atende bem.",
+   "exemplo": "70% dos motoristas se acham acima da média; 1 em cada 10 homens americanos acha que venceria um leão.",
+   "abordagem": "",
+   "ts": "1:01:23"
+  },
+  {
+   "nome": "Fundamentos da clínica",
+   "definicao": "Habilidades básicas que se treinam sempre, sem nunca 'dominá-las'. Para Miller, são as que a literatura correlacionou com resultado (como a relação terapêutica); para Alan, incluem também as plausíveis, como a interpretação.",
+   "exemplo": "O jogador de basquete com 20 anos de carreira que ainda treina drible básico.",
+   "abordagem": "",
+   "ts": "1:29:20"
+  },
+  {
+   "nome": "Plausibilidade",
+   "definicao": "Critério legítimo para escolher intervenções e conteúdos de treino, ao lado da solidez epistêmica e da efetividade, sobretudo quando faltam bons dados. Alan o usa para defender a interpretação como fundamento.",
+   "exemplo": "Interpretar é algo que todo terapeuta faz o tempo todo, então é plausível que tenha impacto clínico, mesmo sem estudos.",
+   "abordagem": "",
+   "ts": "1:30:08"
+  },
+  {
+   "nome": "Expectativas do paciente",
+   "definicao": "No Field Guide de Miller, trabalhar expectativas positivas de melhora é um fundamento. Alan considera isso efeito placebo e diz que as pesquisas são mal desenhadas, porque medem a melhora logo depois de o terapeuta reforçar o progresso.",
+   "exemplo": "Estudo sobre a sessão de alta: rememorar o tratamento, reforçar o progresso e aplicar em seguida o questionário 'você melhorou?'.",
+   "abordagem": "",
+   "ts": "1:31:01"
+  },
+  {
+   "nome": "Reforço positivo",
+   "definicao": "Reforçar é mais complexo do que elogiar: depende do tempo entre comportamento e consequência e do que é de fato reforçador para aquela pessoa. Acenos e 'bacana/legal' indiscriminados reforçam comportamentos que não se quer reforçar.",
+   "exemplo": "O pai que castiga o filho horas depois de deixá-lo no pula-pula; a criança para quem apanhar era o momento de atenção da mãe; o elogio à beleza que fere.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:47:51"
+  },
+  {
+   "nome": "Supervisão de habilidades",
+   "definicao": "Supervisão que usa a dificuldade do caso para treinar a habilidade que falta ao terapeuta e construir uma regra geral, idealmente a partir de gravação, em vez de só discutir o caso. Alan considera a supervisão tradicional praticamente inútil. A generalização, isto é, transformar o aprendizado de um caso numa regra geral, é para Alan o mais difícil do ensino clínico.",
+   "exemplo": "Usar a dificuldade de interpretar um caso para treinar interpretação com o terapeuta.",
+   "abordagem": "",
+   "ts": "0:42:48"
+  },
+  {
+   "nome": "Gabarito coletivo",
+   "definicao": "Em vez de resposta pronta, o grupo observa as consequências das intervenções no roleplay e monta o gabarito de forma coletiva e retroativa. Refletir sobre a resposta ideal é parte do treino.",
+   "exemplo": "Diferença em relação aos exercícios com gabarito do Field Guide de Miller.",
+   "abordagem": "",
+   "ts": "1:18:35"
+  },
+  {
+   "nome": "Ruptura e reparo da aliança",
+   "definicao": "Pesquisa (Catherine Eubanks (?)) segundo a qual as melhores alianças terapêuticas são rompidas e restabelecidas com frequência, enquanto relações sempre acolhedoras e passivas rendem menos. Para Alan, é a teoria de aliança mais defendida hoje por gente de TCC e 'basicamente volta à psicanálise'.",
+   "exemplo": "",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "1:24:16"
+  },
+  {
+   "nome": "Aqui e agora",
+   "definicao": "O que acontece entre terapeuta e paciente na sessão é mais material de terapia que o relato do passado. Isso inclui os afetos do terapeuta, como o tédio.",
+   "exemplo": "Rogers interrompe a história triste do paciente para dizer que está entediado.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:21:21"
+  },
+  {
+   "nome": "Psicologia baseada em medidas",
+   "definicao": "Acompanhar o resultado do paciente sessão a sessão, de preferência com coleta feita por terceiros, porque o paciente não diz ao terapeuta que piorou. O OQ-45 é citado como o melhor questionário, com software que prevê abandono e risco.",
+   "exemplo": "A cadeira de massagem de rua: depois de cinco minutos, você diz que está melhor por constrangimento.",
+   "abordagem": "",
+   "ts": "1:36:46"
+  },
+  {
+   "nome": "Efeito do poste de luz",
+   "definicao": "Procurar onde é fácil medir, e não onde é mais provável encontrar. Alan usa a imagem para criticar quem reduz a ciência a uma estética de método e exclui objetos difíceis de mensurar, como a capacidade interpretativa. Ele conta a piada sem usar o termo.",
+   "exemplo": "Procurar o celular perdido na rua errada porque ali está iluminado.",
+   "abordagem": "",
+   "ts": "1:46:11"
+  },
+  {
+   "nome": "Concordância entre avaliadores",
+   "definicao": "Duas pessoas avaliando o mesmo roleplay devem dar notas parecidas; caso contrário, o instrumento é ruim. Na avaliação da Allos, a diferença média é de cerca de 5%, independentemente da experiência ou da abordagem de quem avalia.",
+   "exemplo": "Uma régua com a qual duas pessoas medem tamanhos diferentes é uma régua ruim.",
+   "abordagem": "",
+   "ts": "1:57:39"
+  },
+  {
+   "nome": "Antinomia da psicometria",
+   "definicao": "Não se maximizam ao mesmo tempo a fidelidade à realidade (escalas finas, como de 0 a 10) e a concordância entre avaliadores (escalas grossas). A Allos escolheu a concordância, com notas −9, −3, −1, +1, +3, +9, porque os erros são exponenciais.",
+   "exemplo": "Com só −3 ou −9 disponíveis, o avaliador decide entre 'grave' e 'grosseiro' e as notas convergem.",
+   "abordagem": "",
+   "ts": "2:03:53"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Troca de terapeutas",
+   "objetivo": "Treinar a escuta do iniciante, que tende a planejar a próxima intervenção em vez de ouvir o paciente.",
+   "competencias": [
+    "Escuta clínica"
+   ],
+   "configuracao": "Roleplay em grupo: um paciente, um terapeuta e ouvintes que podem assumir o lugar do terapeuta.",
+   "tempo": "Não informado.",
+   "materiais": "Nenhum.",
+   "consigna": "O terapeuta será substituído a qualquer momento por alguém que está só ouvindo; quem entra continua o atendimento.",
+   "passos": [
+    "Iniciar o roleplay com paciente e terapeuta.",
+    "A qualquer momento, trocar o terapeuta por um ouvinte.",
+    "Quem entra continua de onde o outro parou."
+   ],
+   "feedback": "Quem entra precisa ter prestado atenção à última coisa que o paciente falou; se estava pensando na própria intervenção, não entende o que está acontecendo.",
+   "exemplos_praticos": "Apenas descrita nesta aula, como exemplo de exercício criado antes de a Allos conhecer a PD.",
+   "variacoes": "",
+   "armadilhas": "Ficar formulando a própria intervenção enquanto o colega atende.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:01:46"
+  },
+  {
+   "nome": "Dinâmica - Ênfase e entonação da pergunta",
+   "objetivo": "Mostrar que a mesma frase, com outra ênfase ou ordem, vira outra intervenção.",
+   "competencias": [
+    "Construção frasal",
+    "Intervenção"
+   ],
+   "configuracao": "Grupo todo, com quadro.",
+   "tempo": "Não informado.",
+   "materiais": "Quadro; frases reais tiradas de roleplays.",
+   "consigna": "Pegar a frase de um roleplay e trocar a entonação e o ponto sublinhado.",
+   "passos": [
+    "Selecionar uma frase dita por alguém em roleplay.",
+    "Escrevê-la no quadro.",
+    "Variar ênfase e ordem e discutir o efeito de cada versão."
+   ],
+   "feedback": "Comparação do efeito de cada versão (ex.: 'O que te trouxe à terapia hoje?' × 'E hoje, o que te trouxe à terapia?').",
+   "exemplos_praticos": "Descrita como um dos exercícios favoritos de Alan, que fazia tempo não era aplicado.",
+   "variacoes": "",
+   "armadilhas": "",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "1:49:03"
+  },
+  {
+   "nome": "Dinâmica - Silêncio",
+   "objetivo": "Treinar sustentar o silêncio enquanto o outro pensa, sem falar por cima de quem está formulando.",
+   "competencias": [
+    "Intervenção",
+    "Escuta clínica"
+   ],
+   "configuracao": "Duplas ou roleplay.",
+   "tempo": "Não informado.",
+   "materiais": "Nenhum.",
+   "consigna": "Ficar em silêncio quando a outra pessoa está pensando ou elaborando.",
+   "passos": [
+    "Uma pessoa fala e elabora.",
+    "O terapeuta só intervém quando o outro não está mais pensando."
+   ],
+   "feedback": "Não detalhado.",
+   "exemplos_praticos": "Um participante lembra que o exercício é 'doideira', difícil de sustentar.",
+   "variacoes": "",
+   "armadilhas": "Interromper a elaboração do outro.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "1:49:03"
+  },
+  {
+   "nome": "Dinâmica - Devolução literal",
+   "objetivo": "Treinar a escuta e a interpretação fenomenológicas, prestando atenção ao fenômeno e não à própria fantasia ou hipótese.",
+   "competencias": [
+    "Escuta clínica",
+    "Interpretação"
+   ],
+   "configuracao": "Duplas.",
+   "tempo": "Não informado.",
+   "materiais": "Nenhum.",
+   "consigna": "Repetir para a pessoa o que ela disse sem trocar nenhuma palavra.",
+   "passos": [
+    "Uma pessoa conta algo.",
+    "A outra devolve com as mesmas palavras.",
+    "Discutir as substituições feitas."
+   ],
+   "feedback": "Checar se alguma palavra foi trocada: 'se a pessoa falou que está com medo, ela não está angustiada, ela está com medo'.",
+   "exemplos_praticos": "Citada como exercício de interpretação humanista dos grupos de aprimoramento.",
+   "variacoes": "",
+   "armadilhas": "Substituir o dito por uma hipótese teórica.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "1:17:45"
+  },
+  {
+   "nome": "Dinâmica - Interpretação do jogo de linguagem",
+   "objetivo": "Treinar interpretação psicanalítica.",
+   "competencias": [
+    "Interpretação"
+   ],
+   "configuracao": "Grupo.",
+   "tempo": "Não informado.",
+   "materiais": "Lista de frases.",
+   "consigna": "Tentar compreender o jogo de linguagem que está acontecendo em cada frase.",
+   "passos": [
+    "Apresentar várias frases.",
+    "O grupo interpreta o jogo de linguagem de cada uma."
+   ],
+   "feedback": "Sem gabarito; reflexão coletiva.",
+   "exemplos_praticos": "Apenas mencionada.",
+   "variacoes": "",
+   "armadilhas": "",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:17:45"
+  },
+  {
+   "nome": "Dinâmica - Treino de sorriso",
+   "objetivo": "Treinar concretamente um componente da empatia, que todas as abordagens valorizam mas nenhuma faculdade treina.",
+   "competencias": [
+    "Relação terapêutica",
+    "Acolhimento e validação"
+   ],
+   "configuracao": "Duplas (proposta hipotética).",
+   "tempo": "Não informado.",
+   "materiais": "Técnica de teatro.",
+   "consigna": "Sorrir para outra pessoa e receber feedback específico sobre o sorriso.",
+   "passos": [
+    "Aprender uma técnica de teatro para sorrir.",
+    "Sorrir para o parceiro.",
+    "Receber feedback específico."
+   ],
+   "feedback": "Feedback específico sobre o sorriso dado.",
+   "exemplos_praticos": "Ideia usada como provocação ('nunca vi isso acontecer'); não aplicada.",
+   "variacoes": "",
+   "armadilhas": "O terapeuta que sorri e acena mecanicamente 'de um jeito creepy' porque leu que deveria.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:37:35"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Abrir pela história",
+   "descricao": "Começa pela origem da PD na Allos, contada como aventura, antes de definir o conceito, para criar vínculo e dar sentido.",
+   "exemplo": "O e-mail a Miller: 'acho que sei por que sua pesquisa está dando errado há 10 anos'.",
+   "ts": "0:04:29"
+  },
+  {
+   "movimento": "Separar descrição de opinião",
+   "descricao": "Explicita quando descreve um consenso e quando dá opinião pessoal, não institucional.",
+   "exemplo": "'Estou descrevendo, não falando que concordo'; 'opinião minha, não como presidente'.",
+   "ts": "0:12:26"
+  },
+  {
+   "movimento": "Metáforas canônicas",
+   "descricao": "Ensina com metáforas repetidas e memoráveis, e usa um gráfico desenhado na câmera.",
+   "exemplo": "Basquete vendado, escolinha de natação, pelada de vôlei, amoreira, poste de luz.",
+   "ts": "0:38:35"
+  },
+  {
+   "movimento": "Adiar perguntas",
+   "descricao": "Pede para retomar uma pergunta depois, para não quebrar a linha de raciocínio.",
+   "exemplo": "'Me faz essa pergunta daqui a pouquinho, me lembra que eu vou te responder.'",
+   "ts": "0:43:41"
+  },
+  {
+   "movimento": "Reenquadrar a contribuição",
+   "descricao": "Acolhe a fala do participante e a transforma em argumento do próprio raciocínio.",
+   "exemplo": "A teoria como motivador vira argumento de que o decisivo é a repetição.",
+   "ts": "0:41:47"
+  },
+  {
+   "movimento": "Corrigir o foco sem desqualificar",
+   "descricao": "Esclarece um mal-entendido e usa a dúvida para um parêntese didático.",
+   "exemplo": "'Aqui não é sobre paciente, é sobre como ensinar psicologia' e, em seguida, a aula sobre reforço.",
+   "ts": "0:46:26"
+  },
+  {
+   "movimento": "Demonstração corporal",
+   "descricao": "Encena o erro para torná-lo visível.",
+   "exemplo": "Imita o terapeuta que acena com a cabeça para tudo.",
+   "ts": "0:49:25"
+  },
+  {
+   "movimento": "Pedir perguntas desafio",
+   "descricao": "Convida objeções difíceis e responde com dados quando os tem e com 'não sei' quando não tem.",
+   "exemplo": "'Eu só gosto de pergunta desafio'; 'na dúvida, deixa a realidade contar'.",
+   "ts": "1:51:39"
+  },
+  {
+   "movimento": "Meta-comentário metodológico",
+   "descricao": "Expõe abertamente as escolhas e os vieses do instrumento que construiu.",
+   "exemplo": "'Montei o instrumento para ter correlação alta; dá para considerar sacanagem ou saber construir.'",
+   "ts": "2:03:53"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Alinhe a abertura da primeira sessão ao seu método.",
+   "justificativa": "'O que te trouxe à terapia?' leva o paciente direto ao problema, o que serve à TCC mas contradiz um método de associação livre.",
+   "contexto": "Primeira sessão.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:00:50"
+  },
+  {
+   "dica": "Escute a última coisa que o paciente disse em vez de planejar a próxima intervenção.",
+   "justificativa": "Raciocinar e escutar ao mesmo tempo é o erro mais comum de quem começa.",
+   "contexto": "Sempre, sobretudo no início da prática.",
+   "competencia": "Escuta clínica",
+   "ts": "0:01:46"
+  },
+  {
+   "dica": "Pare de acenar e dizer 'bacana/legal' para tudo.",
+   "justificativa": "Essas falas viram vírgula e reforçam comportamentos que você não queria reforçar, como uma péssima decisão de vida.",
+   "contexto": "Quando o paciente relata escolhas problemáticas.",
+   "competencia": "Intervenção",
+   "ts": "0:49:46"
+  },
+  {
+   "dica": "Não presuma o que é reforçador para aquele paciente.",
+   "justificativa": "Atenção pode reforçar até pela via da bronca, e um elogio (por exemplo, à beleza) pode tocar uma dor antiga.",
+   "contexto": "Ao validar, elogiar ou orientar.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:52:27"
+  },
+  {
+   "dica": "Ao orientar pais, ligue a consequência ao comportamento no tempo, ou ao menos verbalmente.",
+   "justificativa": "Um castigo aplicado horas depois, precedido de brincadeira, reforça o comportamento errado.",
+   "contexto": "Orientação parental.",
+   "competencia": "Intervenção",
+   "ts": "0:48:37"
+  },
+  {
+   "dica": "Diante de uma criança 'levada', teste mais atenção de base e retirada de atenção na bagunça.",
+   "justificativa": "A punição pode ser o único momento de atenção e funcionar como reforço.",
+   "contexto": "Como hipótese testada por uma semana, com retorno.",
+   "competencia": "Intervenção",
+   "ts": "0:51:35"
+  },
+  {
+   "dica": "Na terapia de casal, faça as pessoas realmente se escutarem.",
+   "justificativa": "Depois de muitas repetições, cada um substitui a escuta por um modelo mental da briga.",
+   "contexto": "Brigas recorrentes.",
+   "competencia": "Escuta clínica",
+   "ts": "0:32:06"
+  },
+  {
+   "dica": "Desconfie da sensação de 'já conheço esse tipo de paciente'.",
+   "justificativa": "Atender sempre o mesmo público cristaliza preconceitos e faz parar de ouvir, uma das explicações para terapeutas piorarem com o tempo.",
+   "contexto": "Ao se especializar num nicho.",
+   "competencia": "Escuta clínica",
+   "ts": "0:32:59"
+  },
+  {
+   "dica": "Colete o feedback do paciente sessão a sessão, de preferência por um terceiro.",
+   "justificativa": "O paciente não diz ao próprio terapeuta que piorou ou que vai abandonar; instrumentos como o OQ-45 preveem abandono e risco.",
+   "contexto": "Em toda a terapia.",
+   "competencia": "Feedback clínico",
+   "ts": "1:36:46"
+  },
+  {
+   "dica": "Grave seus atendimentos, com consentimento, para supervisão.",
+   "justificativa": "Permite feedback sobre o que você realmente fez e é obrigatório em muitos serviços baseados em evidências.",
+   "contexto": "Sempre com consentimento, nunca escondido.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:22:38"
+  },
+  {
+   "dica": "Leve à supervisão a habilidade que falhou, não só o caso.",
+   "justificativa": "Discutir o caso ensina só sobre aquele caso; treinar a habilidade e extrair uma regra geral é o que generaliza.",
+   "contexto": "Ao escolher o que levar para a supervisão.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:43:41"
+  },
+  {
+   "dica": "Não confie na sua autoavaliação como clínico.",
+   "justificativa": "80% dos psicólogos se acham acima da média, e a percepção do terapeuta sobre a própria sensibilidade não prediz resultado.",
+   "contexto": "Ao julgar o próprio trabalho.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:01:23"
+  },
+  {
+   "dica": "Use sua insegurança como motor de treino.",
+   "justificativa": "Não achar que atende bem se correlaciona com atender bem, provavelmente porque leva a treinar e estudar mais.",
+   "contexto": "Desenvolvimento profissional.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:02:16"
+  },
+  {
+   "dica": "Seja 'outra alma humana', mesmo quando isso é desagradável.",
+   "justificativa": "O aqui e agora da sessão, inclusive o tédio do terapeuta (como fez Rogers), pode ser mais material de terapia que o relato do trauma.",
+   "contexto": "Quando a sessão vira narrativa distante do presente.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:21:21"
+  },
+  {
+   "dica": "Não fuja das rupturas na aliança; repare-as.",
+   "justificativa": "As melhores alianças são rompidas e restabelecidas constantemente, e relações sempre acolhedoras rendem menos.",
+   "contexto": "Tensões e discordâncias com o paciente.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:24:16"
+  },
+  {
+   "dica": "Trabalhe a ênfase e a ordem das suas perguntas-chave.",
+   "justificativa": "Mudar onde cai a ênfase muda a intervenção.",
+   "contexto": "Na abertura e nas perguntas recorrentes.",
+   "competencia": "Construção frasal",
+   "ts": "1:49:03"
+  },
+  {
+   "dica": "Devolva as palavras exatas do paciente.",
+   "justificativa": "'Medo' não é 'angústia', e trocar a palavra substitui o fenômeno pela sua hipótese.",
+   "contexto": "Escuta de inspiração fenomenológica e humanista.",
+   "competencia": "Escuta clínica",
+   "ts": "1:17:45"
+  },
+  {
+   "dica": "Revise a crença de que a primeira sessão serve só para acolher.",
+   "justificativa": "Alan vê esse erro melhorar visivelmente com um simples toque.",
+   "contexto": "Primeira sessão.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "1:53:25"
+  },
+  {
+   "dica": "Depois de um feedback, reavalie antes de concluir que o erro é difícil de corrigir.",
+   "justificativa": "Muita gente vai mal numa avaliação e bem na seguinte; só a reavaliação mostra se o problema era fácil.",
+   "contexto": "Supervisão, formação, seleção.",
+   "competencia": "Feedback clínico",
+   "ts": "1:59:16"
+  },
+  {
+   "dica": "Ao ler uma pesquisa, veja quando e por quem o desfecho foi medido.",
+   "justificativa": "Medir logo após a intervenção, ou depois de reforçar o progresso, infla o efeito; janelas longas misturam o efeito com a melhora natural.",
+   "contexto": "Ao usar a literatura para escolher técnicas.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:32:43"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A supervisão tradicional, em que se conta o caso, é praticamente inútil; a supervisão deve ser treino de habilidade.",
+   "argumento": "Ela só ensina sobre aquele caso (um pouco de interpretação e formulação). A dificuldade do caso deve virar exercício da habilidade em falta e uma regra geral.",
+   "contraponto": "A maioria de quem decide na Allos discorda, e por isso a supervisão da casa ainda se parece com a da faculdade.",
+   "implicacao": "Supervisores devem propor exercícios, idealmente a partir de gravações.",
+   "quem": "Alan",
+   "ts": "0:42:48"
+  },
+  {
+   "tese": "O ensino de psicologia é invertido: a prática deveria começar na primeira aula.",
+   "argumento": "Ninguém aceitaria três anos de história da natação antes de entrar na piscina. No tênis e no esporte, pratica-se primeiro e a teoria vem depois ou junto.",
+   "contraponto": "O consenso academicista de que prática vem depois de teoria (não é culpa do MEC).",
+   "implicacao": "Grupos de formação devem pôr as pessoas 'na água, com boia' desde o início.",
+   "quem": "Alan",
+   "ts": "0:38:35"
+  },
+  {
+   "tese": "A faculdade e a experiência, do jeito atual, não formam clínicos melhores.",
+   "argumento": "No gráfico atribuído a Wampold, terapeutas levemente pioram com o tempo; no estudo de Miller, calouros e formados atendem praticamente igual. Há três explicações: treino às cegas, cristalização de preconceitos, ensino errado.",
+   "contraponto": "A crença de que experiência e diploma garantem qualidade.",
+   "implicacao": "A formação precisa de feedback, treino e medida, não só de horas de atendimento ou de aula.",
+   "quem": "Alan (relatando Miller, Wampold e Hayes)",
+   "ts": "0:54:52"
+  },
+  {
+   "tese": "A prática deliberada precisa ser divertida, em grupo e variada, e não técnica, individual e repetitiva.",
+   "argumento": "A perda de quase 20% dos participantes torna as pesquisas de Miller ininterpretáveis. As pessoas não engajam em fundamentos repetidos, até times de elite têm 'a hora da pelada', e o modelo do atleta de elite não serve ao ensino de base.",
+   "contraponto": "Scott Miller, para quem os fundamentos se treinam para sempre; ele respondeu que pensava a PD para o clínico obcecado por excelência, não para a graduação.",
+   "implicacao": "Grupos com dinâmicas engraçadas e exercícios simples e complexos, individuais e coletivos.",
+   "quem": "Alan",
+   "ts": "1:09:59"
+  },
+  {
+   "tese": "Exercícios de treino clínico não devem ter gabarito.",
+   "argumento": "Refletir sobre a resposta ideal faz parte do treino. As intervenções possíveis são indeterminadas (a ironia às vezes funciona, às vezes não). O gabarito se constrói de forma coletiva e retroativa, a partir das consequências no roleplay.",
+   "contraponto": "Os exercícios com gabarito do Field Guide; Alan diz ter convencido Miller.",
+   "implicacao": "Fechar cada exercício com uma discussão sobre o que funcionou e uma regra geral.",
+   "quem": "Alan",
+   "ts": "1:18:35"
+  },
+  {
+   "tese": "Os fundamentos da clínica devem ser escolhidos também por plausibilidade, não só pela literatura.",
+   "argumento": "Ninguém mediu a relação entre capacidade interpretativa e resultado, mas é 'meio óbvio' que interpretar importa. Ausência de estudo não é evidência de irrelevância.",
+   "contraponto": "Miller usa só a literatura; objeção dele: com plausibilidade entram 'n coisas' e a ideia de fundamento se dilui ('38 fundamentos').",
+   "implicacao": "A Allos treina interpretação como fundamento.",
+   "quem": "Alan",
+   "ts": "1:29:20"
+  },
+  {
+   "tese": "Expectativa não é fundamento: a literatura sobre ela mede placebo e constrangimento.",
+   "argumento": "Estudos como o da sessão de alta medem a melhora logo depois de o terapeuta reforçar o progresso, e o paciente tem vergonha de dizer que não melhorou. O certo seria medir anos depois.",
+   "contraponto": "Miller e o Field Guide.",
+   "implicacao": "Ler criticamente o desenho das pesquisas antes de adotar 'fundamentos'.",
+   "quem": "Alan",
+   "ts": "1:31:01"
+  },
+  {
+   "tese": "Ciência não é uma estética de método; procurar só onde é mensurável é o erro do poste de luz.",
+   "argumento": "Ciência é criatividade para inventar métodos; com criatividade suficiente tudo é mensurável. Eticamente, nunca se desqualifica o objeto por ser difícil de medir.",
+   "contraponto": "O perfil de quem tende à PBE (inclusive Miller), que vai onde dá para medir e chama isso de científico.",
+   "implicacao": "Inventar formas de medir interpretação, escuta etc., em vez de excluí-las do currículo.",
+   "quem": "Alan",
+   "ts": "1:46:11"
+  },
+  {
+   "tese": "Mensurar é o jogo mais justo, e por isso vale medir com o instrumento de todos, mesmo discordando dele.",
+   "argumento": "No jogo teórico você pode estar certo e nunca ser aceito; se todos medem igual, 'quem ganha, ganha'. Com um instrumento próprio, 'estou competindo comigo mesmo'.",
+   "contraponto": "A padronização às vezes vira problema epistêmico, e Alan acha o instrumento de Miller pouco rígido.",
+   "implicacao": "A Allos mede do jeito de Miller, para comparação internacional, e do jeito que Alan julga melhor.",
+   "quem": "Alan",
+   "ts": "1:07:37"
+  },
+  {
+   "tese": "Numa avaliação, vale sacrificar parte da fidelidade à realidade para ganhar concordância entre avaliadores.",
+   "argumento": "Há uma antinomia entre realismo e concordância. Com poucas notas possíveis (−9 a +9) e critérios bem discriminados, a diferença entre avaliadores cai para cerca de 5%, e é isso que a comunidade internacional lê.",
+   "contraponto": "Alan admite que 'dá para considerar isso sacanagem'.",
+   "implicacao": "Instrumentos de avaliação de roleplay com escala exponencial e critérios objetivos; a abordagem do avaliador deixa de importar.",
+   "quem": "Alan",
+   "ts": "2:03:53"
+  },
+  {
+   "tese": "Terapeutas muito ruins não compensam o investimento institucional, mas de médio a excelente é treinável, dependendo de onde está o erro.",
+   "argumento": "Erros de primeira sessão, interpretação e construção de caso melhoram rápido com feedback; vícios de linguagem e problemas de interação, muito pouco.",
+   "contraponto": "A seleção atual pela nota geral, e a crença do próprio Alan de que 'gente animada sempre dá para consertar'.",
+   "implicacao": "Selecionar e formar pelo tipo de erro; dar feedback e reavaliar para descobrir se o erro é fácil.",
+   "quem": "Alan",
+   "ts": "1:53:25"
+  },
+  {
+   "tese": "A relação terapêutica é dialética: o que cura é a interação, e o consenso deveria ir nessa direção.",
+   "argumento": "Rogers usa o próprio tédio como material do aqui e agora; a pesquisa sobre ruptura e reparo mostra que as melhores alianças se rompem e se reparam, e a TCC está 'voltando à psicanálise'.",
+   "contraponto": "A ideia de relação terapêutica como acolhimento constante e agradável.",
+   "implicacao": "Treinar a sustentação e o reparo de tensões, não a simpatia.",
+   "quem": "Alan",
+   "ts": "1:21:21"
+  },
+  {
+   "tese": "Sem incentivo econômico, poucos treinam: melhorar como clínico não traz clientes.",
+   "argumento": "É mais racional investir em Instagram ou em contatos; o próprio Miller atrelaria remuneração à PD se pudesse refazer.",
+   "contraponto": "A dificuldade prática de remunerar pesquisa; a Allos abandonou a ideia por ora.",
+   "implicacao": "Pensar incentivos (remuneração, seleção, certificação) para sustentar a adesão aos treinos.",
+   "quem": "Alan (relatando Miller)",
+   "ts": "1:26:08"
+  },
+  {
+   "tese": "A 'psicanálise' das pesquisas de evidência é psicodinâmica americanizada, e a lacaniana nem entra no radar.",
+   "argumento": "Os dados vêm dos EUA e do norte da Europa, onde a psicanálise lacaniana não existe, e os instrumentos são genéricos.",
+   "contraponto": "Dunker consideraria a psicodinâmica psicanálise; Gabriel Tupinambá, provavelmente não.",
+   "implicacao": "Cautela ao usar a literatura para julgar a psicanálise lacaniana, e oportunidade para gerar dados no Brasil.",
+   "quem": "Alan",
+   "ts": "1:39:41"
+  },
+  {
+   "tese": "Gravar sessões deveria ser norma na formação clínica.",
+   "argumento": "É obrigatório em muitos serviços baseados em evidências, ajuda o terapeuta a melhorar e dá ao paciente acesso ao material.",
+   "contraponto": "A norma social brasileira, que acha isso bizarro; por isso Alan não o torna regra na Allos.",
+   "implicacao": "Incentivar a gravação consentida para supervisão.",
+   "quem": "Alan",
+   "ts": "1:22:38"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Isso não é prática, isso é pseudoprática.",
+   "tema": "Pseudoprática",
+   "ts": "0:29:58"
+  },
+  {
+   "texto": "Não dá para melhorar em alguma coisa se eu não tenho resultado daquilo que eu fiz.",
+   "tema": "Feedback",
+   "ts": "0:28:59"
+  },
+  {
+   "texto": "No fundo, o que a gente chama de prática clínica é a cristalização de preconceitos que a gente tem.",
+   "tema": "Experiência clínica",
+   "ts": "0:32:59"
+  },
+  {
+   "texto": "Eu nunca vi nenhuma abordagem da psicologia que não achasse que empatia é importante. Dito isso, eu nunca vi ninguém tendo treino de sorriso na faculdade.",
+   "tema": "Ensino de psicologia",
+   "ts": "0:37:35"
+  },
+  {
+   "texto": "Você jamais colocaria seu filho numa escolinha de natação em que os três primeiros anos são de história da natação. Apesar de ser obviamente ridículo, é exatamente assim que a psicologia funciona.",
+   "tema": "Ensino de psicologia",
+   "ts": "0:38:35"
+  },
+  {
+   "texto": "Supervisão do jeito que a gente faz na faculdade, em que você conta o seu caso para alguém, é praticamente inútil.",
+   "tema": "Supervisão",
+   "ts": "0:42:48"
+  },
+  {
+   "texto": "'Legal' e 'bacana' viram vírgula para a pessoa, e você está reforçando um comportamento péssimo dela.",
+   "tema": "Reforço",
+   "ts": "0:49:46"
+  },
+  {
+   "texto": "Se a única informação que você tem é que uma pessoa acha que atende bem e a outra não, aposte na que não acha.",
+   "tema": "Autoavaliação",
+   "ts": "1:01:23"
+  },
+  {
+   "texto": "Eu acho que prática deliberada tem que ser divertida.",
+   "tema": "Prática deliberada",
+   "ts": "1:09:59"
+  },
+  {
+   "texto": "A maior parte das pessoas que treinam não são atletas de elite.",
+   "tema": "Prática deliberada",
+   "ts": "1:13:37"
+  },
+  {
+   "texto": "O ato de as pessoas refletirem sobre qual é a resposta ideal é parte do processo de treino.",
+   "tema": "Gabarito coletivo",
+   "ts": "1:18:35"
+  },
+  {
+   "texto": "Conheça todas as técnicas, saiba todas as teorias, mas diante de uma alma humana seja outra alma humana — e isso não te pede para ser agradável.",
+   "tema": "Relação terapêutica",
+   "ts": "1:20:29"
+  },
+  {
+   "texto": "Se você mudar o jeito que mede, você tortura os números até eles falarem o que você quer.",
+   "tema": "Psicometria",
+   "ts": "1:44:41"
+  },
+  {
+   "texto": "Ciência é a criatividade de inventar métodos para solucionar problemas. Eticamente, você nunca desqualifica o objeto.",
+   "tema": "Epistemologia",
+   "ts": "1:46:11"
+  },
+  {
+   "texto": "Ou você mostra melhor a realidade, ou você tem uma concordância maior entre os avaliadores.",
+   "tema": "Psicometria",
+   "ts": "2:03:53"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "O gráfico mais assustador da psicologia: terapeutas não melhoram com a experiência.",
+   "mensagem": "Anos de prática sem feedback não tornam ninguém melhor; a saída é treinar deliberadamente.",
+   "roteiro": [
+    "Slide 1: o gráfico (resultado dos pacientes × anos de experiência).",
+    "Slide 2: explicação 1, o basquete vendado (sem feedback não há melhora).",
+    "Slide 3: explicação 2, conhecimento como cristalização de preconceitos (a amoreira).",
+    "Slide 4: explicação 3, ensinamos psicologia errado.",
+    "Slide 5: a média esconde terapeutas que melhoram muito; o que eles fazem? Prática deliberada."
+   ],
+   "corte_inicio": "0:26:01",
+   "corte_fim": "0:34:47"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Você colocaria seu filho numa escolinha de natação com 3 anos de história da natação?",
+   "mensagem": "A formação em psicologia está invertida; a prática deveria começar na primeira aula, com boia.",
+   "roteiro": [
+    "Cena 1: a pergunta da escolinha.",
+    "Cena 2: 'é exatamente assim que a psicologia funciona'.",
+    "Cena 3: a alternativa: entrar na água desde a primeira aula, aprendendo a bater perna."
+   ],
+   "corte_inicio": "0:38:35",
+   "corte_fim": "0:40:32"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Seu 'bacana, legal' pode estar reforçando o pior do paciente.",
+   "mensagem": "Acenos e interjeições indiscriminados funcionam como reforço; o reforço depende de tempo e de contexto.",
+   "roteiro": [
+    "Cena 1: demonstração do aceno para tudo.",
+    "Cena 2: o paciente conta uma péssima decisão e o terapeuta diz 'legal'.",
+    "Cena 3: o que reforça depende do tempo e do que é reforçador para aquela pessoa."
+   ],
+   "corte_inicio": "0:49:25",
+   "corte_fim": "0:50:48"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Por que todas as abordagens 'empatam'? Depende de como você mede.",
+   "mensagem": "Escalas por transtorno mostram diferenças pequenas; medidas de bem-estar geral mostram empate. A disputa Barlow × Wampold é uma disputa de medida.",
+   "roteiro": [
+    "Slide 1: o modelo copiado da medicina (ensaio randomizado por transtorno).",
+    "Slide 2: problema 1, definir a doença (sem fator patognomônico).",
+    "Slide 3: problema 2, medir o sucesso.",
+    "Slide 4: bem-estar geral, tudo empata; fatores comuns.",
+    "Slide 5: moral: quem mede escolhe a conclusão."
+   ],
+   "corte_inicio": "0:21:48",
+   "corte_fim": "0:26:01"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "80% dos psicólogos acham que atendem acima da média.",
+   "mensagem": "A autoavaliação é ilusória, a insegurança se correlaciona com ser bom, e o que importa é buscar feedback.",
+   "roteiro": [
+    "Imagem: '80% acham que estão acima da média'.",
+    "Legenda: motoristas, leão, Serena Williams; e o dado de que duvidar de si se correlaciona com atender bem."
+   ],
+   "corte_inicio": "1:00:28",
+   "corte_fim": "1:02:16"
+  },
+  {
+   "formato": "reels",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Procurando o celular onde está iluminado.",
+   "mensagem": "Estudar só o que é fácil de medir não é rigor; ciência é criatividade de método, e não se desqualifica o objeto.",
+   "roteiro": [
+    "Cena 1: a piada do celular perdido.",
+    "Cena 2: o mesmo erro em quem só treina o que a literatura já mediu.",
+    "Cena 3: 'ciência é a criatividade de inventar métodos'."
+   ],
+   "corte_inicio": "1:45:26",
+   "corte_fim": "1:47:04"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Jogo × treino: como funcionam nossos grupos.",
+   "mensagem": "Grupo de prática (roleplay com nota) é o jogo; grupo de aprimoramento (exercício específico) é o treino; os exercícios não têm gabarito.",
+   "roteiro": [
+    "Slide 1: pelada × treino.",
+    "Slide 2: grupo de prática = jogo.",
+    "Slide 3: grupo de aprimoramento = treino.",
+    "Slide 4: estrutura do exercício: por que importa → exercício → reflexão.",
+    "Slide 5: por que sem gabarito."
+   ],
+   "corte_inicio": "1:17:00",
+   "corte_fim": "1:19:28"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Onde discordamos de Scott Miller.",
+   "mensagem": "A prática deliberada precisa ser divertida, em grupo, sem gabarito, com interpretação como fundamento e sem a expectativa como fundamento.",
+   "roteiro": [
+    "Slide 1: quem é Miller e o que é PD.",
+    "Slide 2: divertido × técnico (perda de 20%).",
+    "Slide 3: atleta de elite × ensino de base.",
+    "Slide 4: sem gabarito.",
+    "Slide 5: plausibilidade × literatura (interpretação); expectativa = placebo."
+   ],
+   "corte_inicio": "1:09:59",
+   "corte_fim": "1:15:21"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Scott D. Miller",
+   "contexto": "Trouxe a prática deliberada para a psicologia (Better Results; Field Guide to Better Results); estudou terapeutas excepcionais; conversou com Alan; alvo das divergências (diversão, gabarito, fundamentos, expectativa)."
+  },
+  {
+   "nome": "Bruce Wampold",
+   "contexto": "Medida de bem-estar geral, empate entre abordagens, fatores comuns; gráfico da curva de experiência; podcast Making Therapy Better."
+  },
+  {
+   "nome": "David Barlow",
+   "contexto": "Líder do grupo que, segundo Alan, montou o DSM e separou abordagens científicas de pseudociências; teria desistido do DSM rumo ao transdiagnóstico."
+  },
+  {
+   "nome": "Steven Hayes",
+   "contexto": "Criador da ACT (transcrito 'Reis'); metáfora do basquete vendado e da pseudoprática; envolvido nas pesquisas sobre o que faz um bom terapeuta."
+  },
+  {
+   "nome": "Jonathan Shedler",
+   "contexto": "Psicanalista, maior crítico da PBE; critica medidas que tornam uma sessão equivalente a dois anos de terapia; episódio com Wampold."
+  },
+  {
+   "nome": "Catherine Eubanks (?)",
+   "contexto": "Pesquisadora de ruptura e reparo da aliança (episódio 'Alliance Rupture and Repair' do Making Therapy Better)."
+  },
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Vídeo em que interrompe o paciente para dizer que está entediado: o aqui e agora."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Autor preferido de Alan; tese do conhecimento como cristalização de preconceito; frase apócrifa 'diante de uma alma humana, seja outra alma humana'; indeterminação das intervenções."
+  },
+  {
+   "nome": "B. F. Skinner",
+   "contexto": "Exemplo do analista do comportamento que sorri mecanicamente porque leu que deveria."
+  },
+  {
+   "nome": "Christian Dunker",
+   "contexto": "Polêmica com estudantes sobre PBE; consideraria a psicodinâmica uma psicanálise."
+  },
+  {
+   "nome": "Gabriel Tupinambá",
+   "contexto": "Citado como alguém que provavelmente não consideraria a psicodinâmica uma psicanálise."
+  },
+  {
+   "nome": "Contardo Calligaris",
+   "contexto": "Citado por um participante: o clínico experiente perde a curiosidade do iniciante."
+  },
+  {
+   "nome": "Milton Friedman (?)",
+   "contexto": "Suposto autor da piada do celular procurado onde está iluminado."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aula extra de prática deliberada (encontro teórico da série Introdução à Prática Deliberada)",
+  "objetivo": "Explicar a membros e formandos da Allos por que a instituição adota a prática deliberada: história, teoria, divergências com Scott Miller e projetos (pesquisa e produto com a associação de PBE).",
+  "publico": "Membros, associados e potenciais associados da Allos, alunos em formação e pessoas que acompanham a gravação.",
+  "tamanho": "Grupo presencial na sede, mais participantes online (número não informado).",
+  "duracao": "Cerca de 2h10 de manhã, seguida de uma tarde (não gravada) sobre projetos.",
+  "estrutura_padrao": "Exposição com parênteses e perguntas ao longo da aula, seguida de uma rodada final de perguntas desafio. Na aula, Alan descreve os formatos da Allos: grupo de prática (roleplay avaliado com nota, usado na seleção para a clínica, que equivale ao jogo) e grupo de aprimoramento (a cada semana um exercício diferente de uma habilidade decomposta, que equivale ao treino). O exercício tem três partes: por que importa, o exercício e uma reflexão coletiva sem gabarito.",
+  "papel_facilitador": "Expositor e provocador: conta a história, apresenta os dados, assume posições e responde com dados ou com 'não sei'.",
+  "regras_combinados": "Perguntas difíceis são bem-vindas ('só gosto de pergunta desafio'); gravação da manhã; a tarde é mais uma reunião de trabalho, talvez sem gravação."
+ },
+ "reflexoes_do_facilitador": [
+  "Diz que foi 'cara de pau' ao escrever a Miller quatro dias depois de conhecer a PD, e que Miller corrigiu várias impressões dele.",
+  "Reconhece que a Allos ficou três meses sem falar de PD para tocar outros projetos.",
+  "Admite que as pessoas da Allos odeiam quando ele fala em inglês.",
+  "Separa a opinião pessoal da institucional ao responder se terapeutas ruins podem ficar excelentes.",
+  "Revê uma crença antiga: achava que 'gente animada sempre dá para consertar' e não tem mais certeza.",
+  "Diz que os dados de avaliação coletados até agora não servem para pesquisa, só como leitura qualitativa, e que é preciso consertar a coleta.",
+  "Assume ter desenhado o instrumento de avaliação para maximizar a concordância, sacrificando o realismo ('dá para considerar sacanagem').",
+  "Diz que, no feedback qualitativo, dá atenção especial a corpo, linguagem, frases e entonação.",
+  "Afirma que não tem muitas opiniões prévias: 'vejo o que acontece e tenho opinião depois'."
+ ],
+ "referencias_a_outros_encontros": [
+  "Parte da série 'Introdução à Prática Deliberada' (encontro extra após os encontros 1 a 8).",
+  "A tarde do mesmo dia, sobre projetos (pesquisas, exercícios, volta do grupo de aprimoramento, estratégia com universidades), não está no vídeo.",
+  "Cronograma: desde cerca de outubro o grupo de aprimoramento está suspenso; o cronograma atual é grupo de prática + introdução às abordagens; o plano é retomar o aprimoramento.",
+  "Oficina de exercícios semanal que produziu cerca de 180 páginas de 'exercícios sujos'.",
+  "Parceria com a associação brasileira de PBE para um produto de ensino com IA, previsto para o semestre seguinte.",
+  "Alan diz ter comentado o vídeo de Rogers entediado em outro encontro."
+ ],
+ "observacoes": "Legenda automática com muito ruído nos nomes: 'Reis/Reace' = Steven Hayes; 'OnePod/WPOD/dopod/Wood' = Bruce Wampold; 'Barlof/Barlov/Barl' = David Barlow; 'Mila/Miler' = Scott Miller; 'Q45' = OQ-45; 'Schedley/Schendler/Shentler' = Jonathan Shedler; 'Ctherine Banks/Katherine' = provavelmente Catherine Eubanks (?); 'Gabriel Pinambá' = Gabriel Tupinambá; 'aba PBE' = associação brasileira de PBE; 'shrimp' = provavelmente supershrinks (?); 'fit Halton' possivelmente FIT (feedback-informed treatment) (?); 'Dan Joshua' e 'Víor' não identificados com segurança; 'avaliá-los' possivelmente o nome do sistema de avaliação da Allos (Avaliallos?). Há interrupções técnicas (0:10:06–0:11:38, 0:44:43–0:45:30) e uma interrupção presencial (chegada de uma paciente à sede, 0:16:10), sem conteúdo clínico. Datas e números são citados de memória por Alan e às vezes se contradizem (Barlow teria desistido do DSM 'há dois anos' e 'há um ano'); convém checá-los. O trecho sobre viés da janela de medida (1:41–1:44) é confuso na fala. Nenhuma dinâmica é conduzida; as dinâmicas listadas são descritas. Um caso real (triagem do início da carreira de Alan) e um episódio de avaliação foram anonimizados. A nota ficou mais longa que a faixa sugerida pela especificação por causa da densidade da aula (2h, cerca de 24 mil palavras)."
+}

@@ -1,0 +1,911 @@
+{
+ "id": "alan-04",
+ "nota": "Alan 04 - Cosmovisão e clínica 1",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Cosmovisão e clínica 1",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Artur"
+ ],
+ "resumo": "Encontro conduzido por Artur (coordenador do núcleo junguiano), em substituição a Alan, no formato de roda de debate aberto sobre como a cosmovisão do terapeuta (crenças religiosas, políticas, de estilo de vida, científicas e a própria abordagem) entra na clínica. Partindo de um trecho de Jung sobre equação pessoal, Artur quase não expõe teoria: conduz por perguntas de generalização, operacionalização, hipótese contrária, escalonamento de casos-limite e espelhamento de certezas. Os temas emergem das falas: autorrevelação (FAP), respeitar ou confrontar limites do paciente, racismo e imparcialidade, cosmovisão do terapeuta como diretriz, ciência/PBE como método ou crença, diagnóstico como nome coletivo, função do comportamento e meta da terapia (bem-estar, autenticidade, adaptação, emancipação). Fecha com a ideia de que a teoria não dá todas as respostas e de que é preciso trabalhar a personalidade do terapeuta, não só o intelecto.",
+ "em_uma_frase": "Roda de debate (conduzida por Artur, substituindo Alan) sobre como as crenças pessoais do terapeuta — e até sua abordagem — entram na clínica, concluindo que a teoria não dá todas as respostas e que é preciso trabalhar a própria personalidade.",
+ "competencias": [
+  "Pessoa do terapeuta",
+  "Articulação teoria-prática",
+  "Relação terapêutica",
+  "Direção do tratamento",
+  "Psicoeducação",
+  "Psicodiagnóstico",
+  "Intervenção"
+ ],
+ "abordagens": [
+  "Psicologia analítica junguiana",
+  "Terapia cognitivo-comportamental",
+  "Análise do comportamento",
+  "Terapias contextuais",
+  "Abordagem centrada na pessoa",
+  "Psicanálise freudiana",
+  "Terapia sistêmica"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Antes da abertura formal, participante lê trecho de Jung sobre pragmatismo/equação pessoal; Artur esclarece a dúvida e liga ao tema.",
+   "funcao": "Aquecimento teórico que depois é retomado como âncora do encontro.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:19",
+   "bloco": "Abertura",
+   "descricao": "Artur avisa que Alan teve reunião de última hora e que ele o substitui.",
+   "funcao": "Situar o grupo e ajustar expectativas.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:14",
+   "bloco": "Combinados",
+   "descricao": "Apresenta o tema (cosmovisão na clínica), sua origem em debates do grupo sobre crença religiosa e CRP, perguntas disparadoras e o contrato: dia de discussão, ele entra com diretrizes.",
+   "funcao": "Legitimar o tema a partir de demanda real e definir o formato de debate.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:04:05",
+   "bloco": "Teoria",
+   "descricao": "Definição mínima de cosmovisão; Artur se declara cristão; contraste psicanálise (não expressar crenças) × psicologia analítica (adaptado ao contexto); convite a falar.",
+   "funcao": "Vocabulário comum e modelagem da autorrevelação.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:05:44",
+   "bloco": "Discussão",
+   "descricao": "Participante (análise do comportamento/FAP) relata autorrevelação de não ter crença religiosa a uma criança, decidida por hipótese funcional; Artur pergunta se é diretriz ou decisão de caso.",
+   "funcao": "Primeiro caso concreto; separar princípio de decisão de caso.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:11:17",
+   "bloco": "Discussão",
+   "descricao": "Artur pede posições divergentes; silêncio; reformula: quando a crença do terapeuta passa a infringir o outro; amplia para questões políticas.",
+   "funcao": "Destravar o grupo com pergunta concreta.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:13:37",
+   "bloco": "Discussão",
+   "descricao": "Respeitar ou insistir nos limites do paciente; Artur pede operacionalização de 'beneficiar' e hipótese contrária.",
+   "funcao": "Treinar justificativa de critérios.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:17:17",
+   "bloco": "Discussão",
+   "descricao": "'Terapia não é para ser confortável'; intolerância religiosa e racismo como foco; psicoeducação; 'não existe clínica imparcial'; a 'cara feia'; Artur aponta contradição e devolve síntese.",
+   "funcao": "Núcleo do debate sobre imparcialidade, ética e política.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "0:28:09",
+   "bloco": "Discussão",
+   "descricao": "Diogo defende confrontar a crença de um paciente de que emoções fazem mal; Artur pede o cenário oposto.",
+   "funcao": "Contraexemplo a favor do confronto.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:30:56",
+   "bloco": "Discussão",
+   "descricao": "Participante de TCC com cosmovisão de hábitos saudáveis insiste nos objetivos e valoriza o confronto; Artur espelha 'sua certeza é como a dele'; pergunta do chat sobre mudança de estratégia.",
+   "funcao": "Mostrar a cosmovisão do terapeuta operando como diretriz não percebida.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:40:35",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Participante de TCC/PBE: colaborar, testar hipóteses, evidências como convite; Artur pergunta se ciência é cosmovisão; casos-limite (astrologia, predestinação, religião × identidade, hipotéticos); diagnóstico como redução ou alívio.",
+   "funcao": "Levar a posição 'científica' ao limite e discutir comunicação do diagnóstico.",
+   "duracao_min": 17
+  },
+  {
+   "ts": "0:57:41",
+   "bloco": "Retomada",
+   "descricao": "Artur liga a discussão do diagnóstico à frase de Jung lida no início.",
+   "funcao": "Costurar o encontro.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:58:32",
+   "bloco": "Discussão",
+   "descricao": "Uso de substância como alívio e não só causa; 'o defeito que segura o prédio'; não impor rótulos como 'relacionamento tóxico'.",
+   "funcao": "Introduzir função do comportamento e timing do paciente.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:02:59",
+   "bloco": "Comparação de abordagens",
+   "descricao": "A meta da terapia é o bem-estar? Diogo (consequência, nunca objetivo), TCC (objetivos pragmáticos), sonho da 'sabedoria da multidão', ACP (eu ideal → eu real, congruência), crítica ao 'repertório socialmente adaptativo'.",
+   "funcao": "Comparar metas terapêuticas entre abordagens; provocar do individual ao coletivo.",
+   "duracao_min": 15
+  },
+  {
+   "ts": "1:18:19",
+   "bloco": "Discussão",
+   "descricao": "Dialética teoria a priori × fenômeno; Diogo: construir a teoria do caso a partir do referencial.",
+   "funcao": "Preparar a amarração.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:20:01",
+   "bloco": "Fechamento",
+   "descricao": "Pergunta de amarração: até que ponto a abordagem vira cosmovisão; formação teórica demais; Skinner nunca atendeu; referências limitadas, não erradas.",
+   "funcao": "Generalizar o tema para a relação com a própria teoria.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:29:16",
+   "bloco": "Fechamento",
+   "descricao": "Síntese de Artur: a teoria não dá todas as respostas; trabalhar a personalidade; indica vídeo seu (Dostoiévski, neurose em Jung).",
+   "funcao": "Mensagem final.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:31:36",
+   "bloco": "Feedback",
+   "descricao": "Pede impressões, apresenta-se, diz que tenta ser 'antinômico'; despedidas.",
+   "funcao": "Colher impressões e encerrar.",
+   "duracao_min": 2
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Cosmovisão",
+   "definicao": "Conjunto de crenças pessoais e formas pessoais de lidar com a vida (religiosas, políticas, morais, de estilo de vida, científicas) que o terapeuta tem 'querendo ou não'. Mesmo quem se diz imparcial continua sendo afetado por ela na clínica; a questão é como ela entra e com que critério.",
+   "exemplo": "Artur se declara cristão e diz ter uma moral pessoal própria mesmo dentro do cristianismo.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:04:05"
+  },
+  {
+   "nome": "Equação pessoal",
+   "definicao": "Em Jung, tudo o que envolve a personalidade de quem fala de modo subjetivo: opiniões, crenças, vivências. Orienta o terapeuta a perguntar 'quem está falando' e a não partir de um preconceito teórico que ignore a história da pessoa.",
+   "exemplo": "Frase lida: 'quando se ouve alguém falar de um problema humano, nunca se deve esquecer de perguntar quem está falando'.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:00:21"
+  },
+  {
+   "nome": "Pragmatismo",
+   "definicao": "Na leitura de Artur sobre a psicologia analítica, a ideia de não impor nada ao paciente por causa da teoria sem saber o que está por trás da sua história; prestar atenção ao fenômeno antes da teoria.",
+   "exemplo": "Retomado ao discutir se o terapeuta deve dar nome (diagnóstico) ao que o paciente sente.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:57:41"
+  },
+  {
+   "nome": "Imparcialidade clínica",
+   "definicao": "Pretensão de neutralidade do terapeuta diante das próprias crenças. No debate é contestada ('não existe clínica imparcial', a psicologia é política), mas mantém-se uma postura dentro do setting regulada pelo código de ética, pela lei e pela análise do caso, diferente do posicionamento fora da clínica.",
+   "exemplo": "Não fazer 'cara feia' diante de fala racista: anotar e analisar o que vem depois.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:24:49"
+  },
+  {
+   "nome": "Autorrevelação do terapeuta",
+   "definicao": "Revelar ao paciente algo pessoal, como a própria crença. Na FAP é uma intervenção decidida por hipótese funcional sobre o que elicia na relação; não há diretriz geral, porque 'não é sobre mim'.",
+   "exemplo": "Terapeuta revela a uma criança com dificuldade com pessoas diferentes que não acredita em Deus, gerando curiosidade trabalhada na relação.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:08:07"
+  },
+  {
+   "nome": "Análise funcional",
+   "definicao": "Perguntar que função um comportamento cumpre, inclusive os prejudiciais, e o que uma intervenção elicia. Por isso 'disfuncional' seria palavra ruim e não se deve retirar um comportamento sem substituí-lo por outro que cumpra a mesma função.",
+   "exemplo": "Uso de substância como alívio da ansiedade; 'o defeito que segura o prédio'.",
+   "abordagem": "Análise do comportamento",
+   "ts": "1:06:24"
+  },
+  {
+   "nome": "Paradoxo da tolerância",
+   "definicao": "Citado por uma participante como 'paradoxo da intolerância': ser intolerante com o intolerante. Ela o assume fora da clínica, mas dentro do setting segue a ética e a análise. (Ideia usualmente atribuída a Karl Popper, não nomeado.)",
+   "exemplo": "Associado à frase de Angela Davis sobre não bastar não ser racista, é preciso ser antirracista.",
+   "abordagem": "",
+   "ts": "0:22:58"
+  },
+  {
+   "nome": "Confronto terapêutico",
+   "definicao": "Contestar ativamente crenças, limites ou padrões do paciente. Defendido com vínculo, sensibilidade e preparo da abertura; uma participante afirma que após conflito bem manejado a relação melhora.",
+   "exemplo": "Confrontar a crença de um paciente de que emoções são ruins e só a razão serve; referência a aula de Diogo sobre confronto na clínica.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:34:21"
+  },
+  {
+   "nome": "Objetivos da terapia",
+   "definicao": "O que se busca no tratamento, com respostas diferentes por abordagem: bem-estar; objetivos pragmáticos e operacionalizados (TCC); autenticidade/congruência (ACP); repertório socialmente adaptativo ou emancipação (análise do comportamento). Diogo sustenta que bem-estar nunca é objetivo, só consequência.",
+   "exemplo": "Instalar a noção de culpa em organização psicopática não traz bem-estar, mas é necessário.",
+   "abordagem": "",
+   "ts": "1:04:13"
+  },
+  {
+   "nome": "Eu ideal e eu real",
+   "definicao": "Na ACP, o eu ideal é organizado pelos valores e desejos do outro; o eu real surge quando a pessoa consulta o próprio organismo. A terapia visa essa passagem, o que pode gerar desconforto e desorganização, por isso não equivale a bem-estar.",
+   "exemplo": "Decidir onde esperar o trem consultando o próprio organismo, e aprender com a experiência de tê-lo perdido.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:12:47"
+  },
+  {
+   "nome": "Congruência",
+   "definicao": "Alinhamento entre sentir, simbolizar e comunicar; usada como sinônimo de autenticidade pela participante da ACP.",
+   "exemplo": "'Sinto raiva, simbolizo raiva, comunico raiva' — e não sentir raiva e comunicar tristeza.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:13:50"
+  },
+  {
+   "nome": "Comunicação do diagnóstico",
+   "definicao": "Modo de apresentar um diagnóstico: só após conceitualizar a experiência, como ferramenta e não sentença, explicando sua função clínica, normalizando e perguntando como a pessoa se sente ao recebê-lo. Negar diagnóstico a quem tem condição séria pode ser tão violento quanto impor um que não faz sentido.",
+   "exemplo": "'Ele não é o diagnóstico, ele tem o diagnóstico'; 'como uma luz, não como um rótulo'.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:53:33"
+  },
+  {
+   "nome": "Psicologia baseada em evidências",
+   "definicao": "Epistemologia de trabalho de uma participante: ciência crítica, 'a melhor resposta até agora', aplicada ouvindo a subjetividade do paciente tanto quanto o protocolo. Ela a distingue de cosmovisão pessoal.",
+   "exemplo": "Encaixar o protocolo no paciente, não o paciente no protocolo.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:46:36"
+  },
+  {
+   "nome": "Empirismo colaborativo",
+   "definicao": "Testar hipóteses em conjunto com o paciente e propor experimentos em vez de impor causas; evidências entram como convite. (Termo da TCC; no encontro a ideia é descrita sem o nome.)",
+   "exemplo": "Propor testar por um mês se melhorar o sono reduz a ansiedade; com paciente cético, experimento baseado na evidência anedótica que ele valoriza.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:43:27"
+  },
+  {
+   "nome": "Protocolos clínicos",
+   "definicao": "Procedimentos estruturados que devem ser adaptados ao paciente, e não o contrário; manuais com script servem pouco na linha de frente segundo uma participante.",
+   "exemplo": "Crítica ao 'livro verde' de Judith Beck como 'o último livro que eu usaria'.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "1:21:03"
+  },
+  {
+   "nome": "Preferências do paciente",
+   "definicao": "Valores e objetivos do paciente como critério para intervir, inclusive quando contrariam o que o terapeuta julgaria melhor.",
+   "exemplo": "Caso hipotético: se a pessoa escolhe manter a crença religiosa em vez de transicionar, trabalhar aceitação e tolerância ao desconforto sem impor.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:52:41"
+  },
+  {
+   "nome": "Sabedoria da multidão",
+   "definicao": "Ideia (livro 'Wisdom of the Crowd', lembrado num sonho de participante) de que escolhas coletivas às vezes acertam mais que a análise individual. Artur a usa para defender o valor do 'nome coletivo' (diagnóstico) contra o viés individualista do grupo.",
+   "exemplo": "Sonho de perder o trem por não esperar onde a multidão esperava.",
+   "abordagem": "",
+   "ts": "1:09:24"
+  },
+  {
+   "nome": "Crítica à própria abordagem",
+   "definicao": "Ler criticamente definições e autores da própria linha, cujas referências são limitadas (não erradas), e não deixar a abordagem virar cosmovisão rígida.",
+   "exemplo": "Diogo recusa, ao pé da letra, a meta 'produzir repertório socialmente adaptativo'; Skinner nunca atendeu, Freud nunca atendeu criança.",
+   "abordagem": "Análise do comportamento",
+   "ts": "1:16:23"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Roda de debate sobre cosmovisão",
+   "objetivo": "Tornar explícita a cosmovisão de cada terapeuta e examinar criticamente como ela entra (ou deve entrar) na clínica, confrontando posições de diferentes abordagens.",
+   "competencias": [
+    "Pessoa do terapeuta",
+    "Articulação teoria-prática",
+    "Relação terapêutica",
+    "Direção do tratamento"
+   ],
+   "configuracao": "Grupo todo, online (videochamada com chat), cerca de 10–15 participantes ativos de várias abordagens; um facilitador como mediador provocador; sem subgrupos.",
+   "tempo": "Cerca de 80 minutos de discussão dentro de encontro de 1h30.",
+   "materiais": "Trecho curto de texto para aquecimento (Jung sobre equação pessoal), 3–4 perguntas disparadoras, repertório de casos-limite hipotéticos.",
+   "consigna": "Hoje a ideia é debater. Quais visões de mundo vocês têm e não abrem mão na clínica? Existe algum tema mais sensível para você por causa dela? Existe algo que, mesmo na clínica, você não consegue ouvir de modo imparcial? E a imparcialidade é mesmo o caminho? Contem como vocês — e sua abordagem — lidam com isso. Quem quer ser o primeiro?",
+   "passos": [
+    "Definir cosmovisão em uma frase e o facilitador se autorrevelar para modelar (ex.: 'eu sou cristão').",
+    "Lançar as perguntas disparadoras e convidar falas de qualquer abordagem, citando um contraste entre abordagens.",
+    "Se houver silêncio, concretizar a pergunta ('em que momento nossa crença passa a infringir o outro? deem exemplo') e ampliar o escopo (política).",
+    "Para cada fala, fazer 1–3 perguntas de aprofundamento: generalização, operacionalização, hipótese contrária, escalonamento para caso-limite, apontar contradição, espelhar certezas, explicitar teoria de mudança.",
+    "Devolver síntese curta e pedir confirmação antes de passar a vez.",
+    "Quando o grupo convergir, abrir para discordância; se ninguém discordar, o facilitador assume o polo oposto e declara que faz isso de propósito.",
+    "Integrar perguntas do chat endereçando-as a quem está falando.",
+    "Fechar com pergunta de amarração a um participante, síntese do facilitador e rodada de impressões."
+   ],
+   "feedback": "Não há gabarito nem correção certo/errado. O critério implícito é a qualidade da justificativa: há critério explícito ('sob qual hipótese?'), distinção entre princípio e decisão de caso, capacidade de sustentar a hipótese contrária, coerência com o que se relatou ter feito, reconhecimento da própria certeza como crença. O feedback vem em forma de pergunta ou síntese para o participante confirmar/corrigir.",
+   "exemplos_praticos": "A primeira fala (autorrevelação na FAP) rendeu mais de 20 minutos de ida e volta até a síntese 'ética a priori, decisão pelo fenômeno'. O pedido de divergência gerou silêncio até ser reformulado. O espelhamento 'você traz os maus hábitos como certeza sua' foi aceito sem defensividade. Um sonho pessoal de participante virou metáfora sobre o valor do coletivo. Casos citados foram vinhetas breves e genéricas; casos-limite foram hipotéticos.",
+   "variacoes": "Formato do Alan no encontro seguinte (Alan 05): exposição estruturada comparando abordagens, diretrizes de processo e exercício prático. Sugestão (não feita no encontro): cada um escrever sua cosmovisão em uma linha antes de falar, ou conduzir a roda por eixos (religião, política, saúde, ciência, abordagem).",
+   "armadilhas": "Dispersão temática (o facilitador admite que 'não foi só sobre cosmovisão'); participação concentrada em poucas vozes (um participante diz que 'só faltou participação'); quedas de conexão em momentos-chave; facilitador substituto esquecer de se apresentar; exposição de casos reais dos participantes.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:02:14"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Ancorar o tema numa demanda real e firmar contrato",
+   "descricao": "Explica que o tema veio de debates do próprio grupo e combina que o encontro será de debate, com ele entrando com diretrizes; ajusta expectativas ao substituir Alan.",
+   "exemplo": "'Hoje eu queria que fosse um dia mais de discussão, mais de debate, e eu posso ir entrando com algumas diretrizes.'",
+   "ts": "0:03:14"
+  },
+  {
+   "movimento": "Modelar a autorrevelação",
+   "descricao": "Declara a própria cosmovisão ao definir o conceito, autorizando os participantes a falar das suas.",
+   "exemplo": "'Eu, por exemplo, sou cristão, tenho determinadas maneiras de lidar com o mundo.'",
+   "ts": "0:04:05"
+  },
+  {
+   "movimento": "Pergunta de generalização",
+   "descricao": "Pergunta se a conduta relatada é princípio ou decisão de caso, para explicitar critérios.",
+   "exemplo": "'Essa ideia de ser honesta quanto à sua crença é uma diretriz para você ou algo que você fez especificamente nesse caso?'",
+   "ts": "0:08:07"
+  },
+  {
+   "movimento": "Concretizar diante do silêncio",
+   "descricao": "Quando ninguém responde a uma pergunta abstrata, reformula em termos operacionais e amplia o escopo.",
+   "exemplo": "'Em qual momento a nossa crença passa a infringir o outro? Alguém tem algum exemplo?' — incluindo questões políticas.",
+   "ts": "0:12:47"
+  },
+  {
+   "movimento": "Pedir operacionalização",
+   "descricao": "Pede que termos vagos sejam traduzidos em critérios observáveis.",
+   "exemplo": "'O que é isso de beneficiar? Como você consegue ver que está sendo benéfico ou prejudicial?'; 'Como você tem essa certeza?'",
+   "ts": "0:14:53"
+  },
+  {
+   "movimento": "Hipótese contrária (advogado do diabo)",
+   "descricao": "Pede que o grupo ou o participante imagine e sustente o cenário oposto, mesmo sem acreditar nele.",
+   "exemplo": "'Alguém consegue pensar em uma hipótese contrária? Nem precisa acreditar na hipótese.'",
+   "ts": "0:16:13"
+  },
+  {
+   "movimento": "Escalonar para caso-limite",
+   "descricao": "Leva a posição do participante a casos extremos para testar sua consistência.",
+   "exemplo": "De intolerância religiosa para 'racismo expresso — você colocaria como foco? Sob qual hipótese?'; da ciência para astrologia e predestinação.",
+   "ts": "0:19:27"
+  },
+  {
+   "movimento": "Apontar contradição com cuidado",
+   "descricao": "Nomeia uma incoerência entre falas do participante, pedindo correção e reconhecendo que pode estar juntando fragmentos.",
+   "exemplo": "'Me pareceu, você me corrige, ... no início a exposição foi boa pro processo e agora você diz que tende a ser imparcial. Como relaciona as duas coisas?'",
+   "ts": "0:25:50"
+  },
+  {
+   "movimento": "Síntese devolutiva / paráfrase de checagem",
+   "descricao": "Resume a posição do participante e pede confirmação antes de passar a vez.",
+   "exemplo": "'Entendi. A priori você se baseia no código de ética e na sua abordagem e, dependendo do fenômeno, lida de acordo com o que é melhor pro caso. É isso?'",
+   "ts": "0:27:01"
+  },
+  {
+   "movimento": "Espelhar certezas",
+   "descricao": "Mostra que a certeza do terapeuta tem o mesmo estatuto da certeza do paciente, revelando a cosmovisão em ação.",
+   "exemplo": "'Da mesma forma que ele traz a ansiedade como uma certeza dele, você traz os maus hábitos como uma certeza sua.'",
+   "ts": "0:36:37"
+  },
+  {
+   "movimento": "Explicitar teoria de mudança e abrir divergência",
+   "descricao": "Nomeia o pressuposto implícito do participante (fator de cura, meta da terapia) e pergunta ao grupo se alguém discorda.",
+   "exemplo": "'Você vê então que a meta da terapia é o bem-estar. Alguém tem uma discordância ou todo mundo acha que a meta é o bem-estar?'",
+   "ts": "1:03:47"
+  },
+  {
+   "movimento": "Provocar contra o consenso e declarar a intenção",
+   "descricao": "Percebe a tendência do grupo e passa a defender o polo oposto, explicitando que é estratégia e não posição pessoal.",
+   "exemplo": "'Como vi que a tendência era trazer do coletivo pro individual, estou tentando brincar um pouco do individual pro coletivo também.'",
+   "ts": "1:11:43"
+  },
+  {
+   "movimento": "Gerir turnos, quedas e chat",
+   "descricao": "Passa a vez quando alguém cai e retorna depois; permite que um participante pense enquanto outro fala; anuncia a fila; traz perguntas do chat.",
+   "exemplo": "'Vou passar pro Diogo, então. Aí depois eu volto pra Juliana quando ela voltar.'",
+   "ts": "0:28:20"
+  },
+  {
+   "movimento": "Retomar o texto do aquecimento",
+   "descricao": "Liga a discussão em curso à frase de Jung lida no início, dando unidade ao encontro.",
+   "exemplo": "'Isso vai muito na primeira frase que a gente trouxe aqui no encontro...'",
+   "ts": "0:57:41"
+  },
+  {
+   "movimento": "Delegar a amarração e sintetizar",
+   "descricao": "Pede a um participante que responda a uma pergunta de nível superior para fechar e depois faz a própria síntese e pede impressões.",
+   "exemplo": "'Comenta um pouquinho de até que ponto a abordagem se torna uma cosmovisão. Acho que dá para amarrar tudo nisso.'",
+   "ts": "1:20:01"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Antes de interpretar o que o paciente diz, pergunte quem está falando.",
+   "justificativa": "A história e as crenças do paciente podem dar outro sentido ao que a teoria chamaria de problema; partir da teoria é partir de um preconceito.",
+   "contexto": "Crenças ou condutas que sua teoria classificaria de imediato.",
+   "competencia": "Escuta clínica",
+   "ts": "0:01:19"
+  },
+  {
+   "dica": "Decida autorrevelar crenças por hipótese funcional, não por regra fixa; planeje e supervisione.",
+   "justificativa": "A autorrevelação é uma intervenção; o critério é o que ela produz na relação ('não é sobre mim'). Diante de pergunta de supetão, não se expor.",
+   "contexto": "Paciente pergunta sobre religião ou posição do terapeuta.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:10:13"
+  },
+  {
+   "dica": "Desconfie do impulso de responder o que fará o paciente gostar de você.",
+   "justificativa": "Esse impulso serve ao terapeuta, não ao processo; deve ser elaborado em terapia pessoal.",
+   "contexto": "Vínculos muito afetivos, especialmente com crianças.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:09:18"
+  },
+  {
+   "dica": "Não demonstre reprovação ('cara feia') diante de falas que ferem sua cosmovisão; anote e observe o que vem depois.",
+   "justificativa": "A reprovação expõe a cosmovisão do terapeuta e fecha o espaço seguro em que o paciente revela o pior de si, que é material clínico.",
+   "contexto": "Falas racistas, intolerantes ou violentas.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:27:01"
+  },
+  {
+   "dica": "Use a espiritualidade do paciente como recurso quando for o modo de alcance dele, sem explorar vulnerabilidades.",
+   "justificativa": "A intervenção precisa falar a língua do paciente; o limite é ético (CRP).",
+   "contexto": "Pacientes religiosos, sobretudo crianças.",
+   "competencia": "Intervenção",
+   "ts": "0:06:45"
+  },
+  {
+   "dica": "Questione os limites do paciente (de onde vêm, quanto custam), mas prepare a abertura antes.",
+   "justificativa": "A rigidez pode ser o foco do sofrimento; sem vínculo e aviso, o confronto afasta.",
+   "contexto": "Temas evitados de forma persistente.",
+   "competencia": "Aprofundamento",
+   "ts": "0:18:25"
+  },
+  {
+   "dica": "Se o paciente evitou o mesmo tema várias vezes, recue e espere.",
+   "justificativa": "Insistir pode fazê-lo recuar do tratamento; beneficiar é dar segurança.",
+   "contexto": "Sinais repetidos de fechamento.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:14:53"
+  },
+  {
+   "dica": "Diante de racismo ou intolerância, avalie o nível de consciência e construa a psicoeducação junto com o paciente.",
+   "justificativa": "O 'bullying' pode esconder racismo; levar à criticidade funciona melhor que impor; há base legal e ética para não ser conivente.",
+   "contexto": "Crianças e adolescentes especialmente.",
+   "competencia": "Psicoeducação",
+   "ts": "0:20:34"
+  },
+  {
+   "dica": "Trate sua certeza sobre a causa do problema como hipótese.",
+   "justificativa": "Ela tem o mesmo estatuto da certeza do paciente sobre a própria queixa.",
+   "contexto": "Quando sua cosmovisão (hábitos, saúde) parece explicar tudo.",
+   "competencia": "Formulação de caso",
+   "ts": "0:36:37"
+  },
+  {
+   "dica": "Mapeie valores, objetivos e ciclo de manutenção e teste hipóteses em conjunto com o paciente.",
+   "justificativa": "O fator aparente nem sempre é a causa; a colaboração preserva a aliança e a autonomia.",
+   "contexto": "Queixas cuja causa parece óbvia ao terapeuta.",
+   "competencia": "Formulação de caso",
+   "ts": "0:41:34"
+  },
+  {
+   "dica": "Apresente evidências como convite a testar, não como prescrição; com paciente cético, proponha experimento a partir da experiência dele.",
+   "justificativa": "Mantém a decisão com o paciente; transparência sobre a base epistemológica permite consentimento real ou reencaminhamento.",
+   "contexto": "Recomendações de mudança de hábito (sono, substâncias).",
+   "competencia": "Psicoeducação",
+   "ts": "0:43:27"
+  },
+  {
+   "dica": "Encaixe o protocolo no paciente, e não o paciente no protocolo.",
+   "justificativa": "A PBE inclui a subjetividade e as preferências do paciente tanto quanto a evidência.",
+   "contexto": "Aplicação de qualquer protocolo.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:46:36"
+  },
+  {
+   "dica": "Separe a crença do paciente do padrão de comportamento que ela organiza.",
+   "justificativa": "Crer em astrologia não é demanda clínica; paralisar-se pela previsão do dia é um padrão trabalhável.",
+   "contexto": "Crenças que o terapeuta não compartilha.",
+   "competencia": "Priorização clínica",
+   "ts": "0:48:20"
+  },
+  {
+   "dica": "Mude a forma de perguntar quando ela gera angústia (ex.: trocar 'como você está?' por pedir que descreva a semana).",
+   "justificativa": "Obtém-se a mesma informação (humor) sem pressão.",
+   "contexto": "Paciente reclama de ritual da sessão.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:38:31"
+  },
+  {
+   "dica": "Ao arriscar uma estratégia relacional, esteja preparado para lidar com o erro.",
+   "justificativa": "'O problema não é dar certo ou errado, é saber lidar se der errado' (lembrado como fala recorrente do Alan).",
+   "contexto": "Intervenções pouco convencionais.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:40:35"
+  },
+  {
+   "dica": "Comunique o diagnóstico só após conceitualizar, explique sua função e pergunte como a pessoa se sente ao recebê-lo; diga 'você tem', não 'você é'.",
+   "justificativa": "O diagnóstico deve chegar como luz, não como rótulo; o erro comum é só soltar o nome.",
+   "contexto": "Devolutivas diagnósticas.",
+   "competencia": "Psicodiagnóstico",
+   "ts": "0:57:41"
+  },
+  {
+   "dica": "Não negue um diagnóstico a quem tem condição séria nem imponha um que não faz sentido.",
+   "justificativa": "Os dois extremos podem ser violentos; um nome bem dado alivia e orienta.",
+   "contexto": "Quadros com impacto importante.",
+   "competencia": "Psicodiagnóstico",
+   "ts": "0:55:45"
+  },
+  {
+   "dica": "Antes de mirar um comportamento 'problemático', descubra sua função e o que o substituirá.",
+   "justificativa": "Pode ser 'o defeito que segura o prédio inteiro'; retirar sem substituir desestrutura.",
+   "contexto": "Uso de substâncias, relações ruins, hábitos nocivos que não são a queixa.",
+   "competencia": "Priorização clínica",
+   "ts": "1:06:24"
+  },
+  {
+   "dica": "Não rotule a relação do paciente ('tóxica'); fortaleça autoestima e assertividade.",
+   "justificativa": "Sem estrutura ele não sai; a decisão de sair costuma vir por consequência.",
+   "contexto": "Relações prejudiciais sem risco iminente.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:07:15"
+  },
+  {
+   "dica": "Transforme metas vagas (bem-estar) em cenas concretas do dia a dia.",
+   "justificativa": "'Bem-estar' é abstrato; objetivos pragmáticos são trabalháveis e mensuráveis.",
+   "contexto": "Contrato de objetivos.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:07:15"
+  },
+  {
+   "dica": "Leia criticamente as definições da sua abordagem e construa a teoria do caso sem reduzir o paciente a ela.",
+   "justificativa": "'Repertório socialmente adaptativo' ao pé da letra contraria a emancipação; o paciente não nasceu para servir à teoria; criar teoria nova do zero gera erros graves.",
+   "contexto": "Formulação e definição de metas.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:18:56"
+  },
+  {
+   "dica": "Mantenha terapia pessoal em dia e pergunte-se se é capaz de usar a teoria que estuda.",
+   "justificativa": "A cosmovisão entra de qualquer jeito; a teoria só funciona encarnada numa personalidade compatível.",
+   "contexto": "Continuamente; na escolha da abordagem.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:30:45"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A cosmovisão do terapeuta sempre atua na clínica, mesmo quando ele se diz imparcial.",
+   "argumento": "Todo terapeuta tem crenças e moral pessoal; 'as coisas continuam te afetando'.",
+   "contraponto": "Ideal de imparcialidade, associado à psicanálise.",
+   "implicacao": "A questão passa a ser com que critério a cosmovisão entra, não como eliminá-la.",
+   "quem": "Artur",
+   "ts": "0:04:05"
+  },
+  {
+   "tese": "Não há diretriz geral para autorrevelação; decide-se pela função na relação.",
+   "argumento": "Na FAP a relação é material clínico; 'não é sobre mim'.",
+   "contraponto": "Artur aponta aparente contradição com 'guardar a cosmovisão na caixinha'.",
+   "implicacao": "Formular hipótese e supervisionar antes de se revelar.",
+   "quem": "Participante (análise do comportamento/FAP)",
+   "ts": "0:10:13"
+  },
+  {
+   "tese": "Não existe clínica imparcial, mas a postura dentro do setting difere da postura fora.",
+   "argumento": "A psicologia é política; dentro da clínica valem código de ética, lei e análise do caso.",
+   "contraponto": "Participante de TCC que é 'igual dentro e fora' e expressiva.",
+   "implicacao": "Não reprovar o paciente, sem ser conivente com violações de direitos.",
+   "quem": "Participante (análise do comportamento/FAP)",
+   "ts": "0:24:49"
+  },
+  {
+   "tese": "A terapia não é para ser confortável; limites do paciente devem ser examinados.",
+   "argumento": "Limites rígidos podem ser o próprio foco do sofrimento.",
+   "contraponto": "Respeitar temas evitados para não afastar o paciente do tratamento.",
+   "implicacao": "Confrontar com vínculo, sensibilidade e aviso prévio.",
+   "quem": "Participante (análise do comportamento/FAP)",
+   "ts": "0:17:17"
+  },
+  {
+   "tese": "Bem-estar nunca é o objetivo do tratamento; pode ser consequência.",
+   "argumento": "É abstrato; muitas mudanças necessárias (comunicação, instalar culpa em organização psicopática) não produzem bem-estar.",
+   "contraponto": "Participante que via o bem-estar como meta; ACP (autenticidade acima do bem-estar); TCC (operacionalizar bem-estar).",
+   "implicacao": "Definir metas por mudança funcional ou valor.",
+   "quem": "Diogo",
+   "ts": "1:05:24"
+  },
+  {
+   "tese": "A terapia pode ser lugar de emancipação e até de 'revolução social', não de adaptação.",
+   "argumento": "A definição 'produzir repertório socialmente adaptativo', ao pé da letra, impede que o sujeito transforme a sociedade.",
+   "contraponto": "Definição de manual da própria análise do comportamento.",
+   "implicacao": "Ler criticamente os objetivos da própria abordagem, sempre conforme o que faz sentido para o paciente.",
+   "quem": "Diogo",
+   "ts": "1:16:23"
+  },
+  {
+   "tese": "O diagnóstico é ferramenta, não sentença; negá-lo pode ser tão violento quanto impô-lo.",
+   "argumento": "O nome orienta pesquisa e possibilidades e alivia ao mostrar que outros sentem algo parecido.",
+   "contraponto": "Artur: risco de reduzir a experiência ao nome; outra participante: o paciente pode não estar preparado.",
+   "implicacao": "Conceitualizar, explicar a função e perguntar como a pessoa recebe o diagnóstico.",
+   "quem": "Participante (TCC/PBE)",
+   "ts": "0:55:45"
+  },
+  {
+   "tese": "A PBE é epistemologia de trabalho, não cosmovisão; ciência é a melhor resposta até agora, não verdade absoluta.",
+   "argumento": "Distinção entre crença pessoal e base de trabalho crítica e adaptável ao paciente.",
+   "contraponto": "Artur sugere que a crença na ciência também é uma cosmovisão.",
+   "implicacao": "Transparência epistemológica com o paciente e flexibilidade diante de quem não valoriza a ciência.",
+   "quem": "Participante (TCC/PBE)",
+   "ts": "0:46:36"
+  },
+  {
+   "tese": "A abordagem não deve virar cosmovisão; manuais com script servem pouco na linha de frente.",
+   "argumento": "Todo paciente é uma surpresa; formação universitária é teórica demais.",
+   "contraponto": "Formação centrada em teoria; 'livro verde' de Judith Beck; 'picuinha' entre abordagens.",
+   "implicacao": "Flexibilidade, diálogo entre abordagens, crítica constante.",
+   "quem": "Participante (análise do comportamento/ACT/FAP)",
+   "ts": "1:21:03"
+  },
+  {
+   "tese": "As referências teóricas não estão erradas, são limitadas.",
+   "argumento": "Skinner nunca atendeu; Freud e Jung não descreveram todas as formas possíveis de praticar suas abordagens; o tempo mudou.",
+   "contraponto": "Uso de autores clássicos como manual clínico.",
+   "implicacao": "Ampliar repertório, pesquisar, seguir discutindo.",
+   "quem": "Diogo",
+   "ts": "1:27:45"
+  },
+  {
+   "tese": "Na clínica atua a personalidade do terapeuta diante da do paciente; é preciso trabalhar a personalidade, não só o intelecto.",
+   "argumento": "A teoria não prevê tudo; intelectualidade extrema é, na leitura junguiana, marca de neurose; de nada adianta estudar Freud sem personalidade capaz de aplicar a psicanálise.",
+   "contraponto": "Formação que ensina 'modelos teóricos de autores que já morreram'.",
+   "implicacao": "Terapia pessoal e escolha de abordagem compatível com a própria personalidade.",
+   "quem": "Artur",
+   "ts": "1:24:32"
+  },
+  {
+   "tese": "O confronto bem manejado fortalece a relação terapêutica.",
+   "argumento": "Após o conflito, 'o relacionamento melhora mais ainda'.",
+   "contraponto": "Às vezes é preciso 'dar uma volta' e mudar de estratégia.",
+   "implicacao": "Não temer o conflito, mas saber reparar.",
+   "quem": "Participante (TCC)",
+   "ts": "0:34:21"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Quando se ouve alguém falar de um problema humano, nunca se deve esquecer de perguntar quem está falando. (Jung, lido no encontro)",
+   "tema": "Equação pessoal",
+   "ts": "0:00:21"
+  },
+  {
+   "texto": "O terapeuta, querendo ou não, tem crenças pessoais. Você pode se dizer imparcial, mas as coisas continuam te afetando.",
+   "tema": "Cosmovisão",
+   "ts": "0:04:05"
+  },
+  {
+   "texto": "Não é sobre mim; é sobre a relação que está sendo construída.",
+   "tema": "Autorrevelação",
+   "ts": "0:09:18"
+  },
+  {
+   "texto": "A terapia não é para ser confortável.",
+   "tema": "Confronto",
+   "ts": "0:17:17"
+  },
+  {
+   "texto": "Não existe clínica imparcial.",
+   "tema": "Imparcialidade",
+   "ts": "0:24:49"
+  },
+  {
+   "texto": "Da mesma forma que ele traz a ansiedade como uma certeza dele, você traz os maus hábitos como uma certeza sua.",
+   "tema": "Cosmovisão do terapeuta",
+   "ts": "0:36:37"
+  },
+  {
+   "texto": "O problema não é dar certo ou dar errado; é saber lidar se der errado.",
+   "tema": "Risco clínico",
+   "ts": "0:40:35"
+  },
+  {
+   "texto": "Não encaixar o paciente no protocolo, mas o protocolo no paciente.",
+   "tema": "PBE",
+   "ts": "0:46:36"
+  },
+  {
+   "texto": "Ele não é o diagnóstico; ele tem o diagnóstico.",
+   "tema": "Diagnóstico",
+   "ts": "0:54:32"
+  },
+  {
+   "texto": "Você não sabe qual defeito está segurando o prédio inteiro.",
+   "tema": "Função do comportamento",
+   "ts": "1:00:23"
+  },
+  {
+   "texto": "O bem-estar pode ser consequência, mas nunca é o objetivo do tratamento.",
+   "tema": "Objetivos da terapia",
+   "ts": "1:05:24"
+  },
+  {
+   "texto": "O paciente não nasceu para servir à minha teoria.",
+   "tema": "Teoria e fenômeno",
+   "ts": "1:18:56"
+  },
+  {
+   "texto": "Não é o Freud ou o Jung aplicando um conceito; é a sua personalidade diante da personalidade do paciente.",
+   "tema": "Pessoa do terapeuta",
+   "ts": "1:24:32"
+  },
+  {
+   "texto": "Nossas referências não estão erradas; elas são limitadas.",
+   "tema": "Crítica à abordagem",
+   "ts": "1:27:45"
+  },
+  {
+   "texto": "A teoria não vai te dar todas as respostas.",
+   "tema": "Teoria e prática",
+   "ts": "1:29:16"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Existe psicólogo neutro?",
+   "mensagem": "A cosmovisão sempre entra na sessão; a pergunta útil é com que critério (ética, função, valores do paciente, colaboração).",
+   "roteiro": [
+    "Existe psicólogo neutro?",
+    "Querendo ou não, todo terapeuta tem crenças e uma moral pessoal",
+    "Três posturas: guardar e revelar só por função / ser igual dentro e fora / colaborar e testar hipóteses",
+    "O risco de cada uma",
+    "A pergunta de Jung: quem está falando?"
+   ],
+   "corte_inicio": "0:04:05",
+   "corte_fim": "0:05:44"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Por que o terapeuta não pode fazer cara feia",
+   "mensagem": "A reprovação fecha o espaço em que o paciente mostra o pior de si, que é o material de trabalho; posicionar-se fora da clínica é outra coisa.",
+   "roteiro": [
+    "Paciente diz algo que te choca",
+    "A cara feia expõe sua cosmovisão",
+    "Fecha o espaço seguro",
+    "Anote, observe o que vem depois, analise"
+   ],
+   "corte_inicio": "0:24:49",
+   "corte_fim": "0:28:03"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Qual é a meta da terapia? Quatro respostas",
+   "mensagem": "Bem-estar não basta: TCC operacionaliza objetivos, ACP busca autenticidade/congruência, análise do comportamento discute adaptação × emancipação.",
+   "roteiro": [
+    "A meta é o bem-estar?",
+    "Bem-estar como consequência, não objetivo",
+    "TCC: objetivos pragmáticos",
+    "ACP: do eu ideal ao eu real",
+    "Análise do comportamento: adaptar ou emancipar?"
+   ],
+   "corte_inicio": "1:04:13",
+   "corte_fim": "1:05:24"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Como comunicar um diagnóstico sem rotular",
+   "mensagem": "Conceitualize antes, apresente como ferramenta e não sentença, diga 'você tem, não é', normalize e pergunte como a pessoa se sente.",
+   "roteiro": [
+    "Entender a experiência antes do nome",
+    "Ferramenta, não sentença",
+    "Você tem, não é",
+    "Normalizar",
+    "Perguntar como recebeu",
+    "Negar também pode ser violento"
+   ],
+   "corte_inicio": "0:53:33",
+   "corte_fim": "0:57:41"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Evidência não é imposição",
+   "mensagem": "Dados entram como convite a testar; com quem não acredita em ciência, experimento a partir da experiência dele; encaixar o protocolo no paciente.",
+   "roteiro": [
+    "Tenho evidência. Imponho?",
+    "Convite: vamos testar por um mês?",
+    "Paciente cético: experimento pela experiência dele",
+    "Transparência sobre sua base",
+    "Protocolo no paciente, não o contrário"
+   ],
+   "corte_inicio": "0:42:30",
+   "corte_fim": "0:44:22"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Skinner nunca atendeu um paciente",
+   "mensagem": "Teorias clássicas são limitadas, não erradas; ninguém aplica um autor como manual; o que atua é sua personalidade.",
+   "roteiro": [
+    "Skinner nunca atendeu; Freud nunca atendeu criança",
+    "Referências limitadas, não erradas",
+    "Ampliar repertório",
+    "Sua personalidade diante da do paciente"
+   ],
+   "corte_inicio": "1:25:31",
+   "corte_fim": "1:27:45"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "No nosso grupo, o facilitador defende o outro lado de propósito",
+   "mensagem": "A pergunta 'e a hipótese contrária?' como ferramenta de formação clínica entre abordagens.",
+   "roteiro": [
+    "Roda de debate entre abordagens",
+    "O facilitador provoca do lado oposto",
+    "Por que isso forma terapeutas melhores",
+    "Convite para participar"
+   ],
+   "corte_inicio": "1:11:43",
+   "corte_fim": "1:12:47"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Jung",
+   "contexto": "Trecho sobre equação pessoal ('pergunte quem está falando') e pragmatismo; neurose como intelectualidade extrema na síntese final de Artur."
+  },
+  {
+   "nome": "B. F. Skinner",
+   "contexto": "Citado como autor que nunca atendeu clinicamente, argumento para não usar autores clássicos como manual."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Nunca atendeu crianças; exemplo de que a teoria clássica é limitada e de que é preciso personalidade capaz de aplicar a teoria."
+  },
+  {
+   "nome": "Judith Beck",
+   "contexto": "'Livro verde' de TCC com script, criticado por uma participante como pouco útil na linha de frente."
+  },
+  {
+   "nome": "Angela Davis",
+   "contexto": "Frase sobre não bastar não ser racista, é preciso ser antirracista, citada como parte da cosmovisão de uma participante."
+  },
+  {
+   "nome": "Michel Foucault",
+   "contexto": "Identificação provável ('Fou já dizia'): somos seres políticos, respirar já é político."
+  },
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Não nomeado; conceitos da ACP (eu ideal/eu real, congruência) apresentados por participante."
+  },
+  {
+   "nome": "Fiódor Dostoiévski",
+   "contexto": "'O sonho de um homem ridículo', tema de vídeo de Artur no YouTube sobre intelectualidade extrema e neurose em Jung."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (grupo do Alan) — encontro em formato de roda de debate conduzido por substituto",
+  "objetivo": "Discutir criticamente, entre abordagens, como a cosmovisão do terapeuta atravessa a clínica e desenvolver a capacidade de justificar escolhas clínicas.",
+  "publico": "Psicólogos e estudantes de diversas abordagens (TCC, análise do comportamento/FAP/ACT, ACP, junguiana), vinculados à Allos.",
+  "tamanho": "Cerca de 10–15 participantes com fala ativa (mais ouvintes).",
+  "duracao": "Cerca de 1h30, online.",
+  "estrutura_padrao": "Aquecimento com leitura curta → abertura e contrato → teoria mínima e autorrevelação do facilitador → roda de debate guiada por perguntas (80 min) → pergunta de amarração → síntese → rodada de impressões. (Alan, no encontro seguinte, indica que seu formato habitual é outro: exposição estruturada comparando abordagens + exercício prático.)",
+  "papel_facilitador": "Mediador provocador ('antinômico'): quase não expõe; faz perguntas de generalização, operacionalização, hipótese contrária, escalonamento e espelhamento; devolve sínteses; gere turnos e chat.",
+  "regras_combinados": "Dia de discussão/debate; facilitador entra com diretrizes; mão levantada; perguntas pelo chat; encontro gravado."
+ },
+ "reflexoes_do_facilitador": [
+  "Artur ajusta expectativas ao substituir Alan: 'talvez não seja tão polêmico quanto todo mundo esperava' (0:02:14).",
+  "Declara que provoca de propósito na direção contrária ao consenso: 'estou tentando brincar um pouco do individual pro coletivo também' (1:11:43).",
+  "Explicita a intenção de uma pergunta: 'estou fazendo uma pergunta mais para a gente chegar à discussão mesmo' (0:52:41).",
+  "Reconhece dispersão: 'o encontro de hoje não foi só sobre cosmovisão estritamente, mas os temas circundam essa ideia' (1:29:16).",
+  "Percebe que esqueceu de se apresentar e o faz só no final (1:31:36).",
+  "Define seu estilo de condução como 'muito antinômico' (1:32:09).",
+  "Alan, no encontro seguinte (alan-05, 0:00:01), sem ter visto a gravação, supõe que a estrutura de Artur foi 'muito diferente', 'mais aberta para discussão' e marcada pela posição junguiana, enquanto ele pretende 'traçar a diretriz para processo' com comparação de abordagens e exercício."
+ ],
+ "referencias_a_outros_encontros": [
+  "Alan faltou por reunião de última hora; Artur (núcleo junguiano) substituiu (0:01:19).",
+  "O tema nasceu de debates num grupo dos participantes ('categoria de base' (?)) sobre crença religiosa e CRP (0:02:14).",
+  "Participante lembra aula anterior de Diogo sobre confronto na clínica em seus aprimoramentos (0:34:21).",
+  "'Como o Alan sempre fala': o problema não é dar errado, é saber lidar se der errado (0:40:35).",
+  "Participante menciona que em outras reuniões da Allos há polêmica sobre apresentar diagnóstico ao paciente (0:53:33).",
+  "Artur divulga vídeo seu no YouTube sobre 'O sonho de um homem ridículo' de Dostoiévski e neurose em Jung (1:30:45).",
+  "Continuação direta: Alan 05 - Cosmovisão e clínica 2, conduzido por Alan, que comenta a substituição (alan-05 0:00:01)."
+ ],
+ "observacoes": "Encontro NÃO conduzido por Alan: o facilitador é Artur (coordenador do núcleo junguiano, junto com Giovani), que só se apresenta no final (1:31:36). Diogo (facilitador de outros grupos da Allos) participa como analista do comportamento. A gravação começa no meio de uma leitura de Jung anterior à abertura formal. Não há exercício estruturado: a 'dinâmica' é a própria roda de debate guiada por perguntas. Participantes foram anonimizados (identificados por abordagem); vinhetas clínicas são breves e genéricas; casos-limite (astrologia, predestinação, pessoa trans com pais cristãos) são hipotéticos. Ruído de transcrição: nomes de participantes variam (Idra/Eidra, Micaelen/Mica Helen); 'Fou já dizia' provavelmente Foucault (?); 'minha condição, eu sempre tento ser muito antinômico' provavelmente 'minha condução'; 'o Reis aplicando' (1:24:32) não identificado; 'é da AUS' (0:34:21) não identificado. Houve quedas de conexão (0:28:20, 1:30:29)."
+}

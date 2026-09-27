@@ -1,0 +1,828 @@
+{
+  "id": "mon-15",
+  "nota": "Monitoria 15 - Diogo - Responsabilização e vínculo na primeira sessão",
+  "pasta": "10 - Fichamentos/Monitorias",
+  "titulo": "Responsabilização e vínculo na primeira sessão",
+  "serie": "Monitorias",
+  "formato": "Monitoria",
+  "facilitadores": [
+    "Diogo"
+  ],
+  "resumo": "Depois de responder a dúvidas técnicas sobre o paciente simulado por IA (memória só dentro da mesma conversa, alucinação de lembranças, gestos entre parênteses), Diogo lê com uma monitorada a primeira sessão escrita que ela fez com um personagem cético, de vida precária, pressionado a fazer terapia (apelidado pelo grupo de 'o marginal'). A cada fala, pergunta o que chamou atenção e por que ela interveio, e abre várias vezes a priorização e as hipóteses ao grupo. Ensina a não adotar a forma com que o paciente desqualifica o que faz (o caderno), refina a hipótese de desresponsabilização da monitorada (ele sabe que a culpa é dele e não age: inércia de atitude) e propõe um exercício coletivo de condensar as repetições do caso numa figura. Na parte final, discute esperar vs. buscar, o peso do contexto social e duas hipóteses concorrentes (a linha de chegada especial demais vs. o paciente que se vê como o único amaldiçoado). No feedback, afirma que o vínculo, objetivo da primeira sessão, foi conquistado, mas alerta que insistir na responsabilização de quem se sente amaldiçoado pode reforçar o isolamento.",
+  "em_uma_frase": "Na primeira sessão com um paciente resistente, o objetivo é o vínculo; o supervisor ensina a não aceitar a autodesqualificação do paciente, a condensar as repetições numa figura e a sustentar hipóteses concorrentes, lembrando que responsabilizar quem se sente amaldiçoado pode reforçar o isolamento.",
+  "competencias": [
+    "Primeira sessão e entrevistas iniciais",
+    "Priorização clínica",
+    "Escuta clínica",
+    "Formulação de caso",
+    "Intervenção",
+    "Relação terapêutica",
+    "Direção do tratamento",
+    "Feedback clínico"
+  ],
+  "abordagens": [
+    "Psicanálise freudiana"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:01",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Dúvidas sobre o bot: finalizar o exercício quebra o vínculo? Memória entre conversas, alucinação de memória, planos de várias abas.",
+      "funcao": "Ajustar o uso da ferramenta antes de supervisionar.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:01:17",
+      "bloco": "Abertura",
+      "descricao": "Impressão inicial da monitorada; personagem identificado como 'o marginal'.",
+      "funcao": "Registrar a primeira leitura para comparação posterior.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:02:25",
+      "bloco": "Dinâmica",
+      "descricao": "Leitura da abertura e da primeira fala; postura informal; o que chamou atenção na frase.",
+      "funcao": "Pensar abertura e postura a partir da primeira fala.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:06:14",
+      "bloco": "Dinâmica",
+      "descricao": "Fala da rotina e do caderno; o detalhe desqualificado.",
+      "funcao": "Ensinar a não aceitar a autodescrição desqualificadora.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:08:50",
+      "bloco": "Discussão",
+      "descricao": "O 'kkk' irônico: objetivo e recepção; comentários do chat; como indicar gestos ao bot.",
+      "funcao": "Avaliar recursos de tom; ajustar a ferramenta.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:12:30",
+      "bloco": "Dinâmica",
+      "descricao": "Por que veio (pressão de um familiar); hipótese de condução; consciência da desresponsabilização; pergunta ao grupo.",
+      "funcao": "Formular e testar uma hipótese desde a primeira sessão.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:15:26",
+      "bloco": "Dinâmica",
+      "descricao": "Intervenção provocativa; priorização aberta ao grupo (invisibilidade, caderno, ajuda aos outros).",
+      "funcao": "Mostrar que uma mesma fala admite várias priorizações.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:20:38",
+      "bloco": "Discussão",
+      "descricao": "Efeito da intervenção: o desejo de corrigir a terapeuta faz o paciente falar; a inversão 'capacho'.",
+      "funcao": "Ler a intervenção pelo que ela produz.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:22:06",
+      "bloco": "Dinâmica",
+      "descricao": "'Cada um é responsável pela própria desgraça'; caminho confrontativo vs. timing; sugestão de aqui e agora.",
+      "funcao": "Pesar direções de intervenção conforme a relação.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:26:18",
+      "bloco": "Dinâmica",
+      "descricao": "'O que está ruim' com as palavras dele; a emoção (nojo, depois desgosto); abertura do paciente.",
+      "funcao": "Nomear e aprofundar a emoção.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:31:14",
+      "bloco": "Discussão",
+      "descricao": "Consciência vs. inércia; 'falta de ambição'; 'parar de esperar'.",
+      "funcao": "Refinar a hipótese de responsabilização.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:34:54",
+      "bloco": "Dinâmica",
+      "descricao": "Exercício coletivo: elementos que se repetem e uma figura que os resuma.",
+      "funcao": "Recuperar o panorama do caso.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:38:47",
+      "bloco": "Dinâmica",
+      "descricao": "Esperar vs. buscar; o inimigo; ressentimento; aviso de 10 minutos.",
+      "funcao": "Diferenciar expectativa e ação.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:45:19",
+      "bloco": "Discussão",
+      "descricao": "Contexto social; 'linha de chegada'; hipóteses concorrentes (linha especial vs. sujeito amaldiçoado).",
+      "funcao": "Formulação de caso com hipóteses rivais.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:48:25",
+      "bloco": "Discussão",
+      "descricao": "Priorizar a última fala; metáfora do jogo; atitude unilateral; exploração da família e da mãe.",
+      "funcao": "Questionar critérios automáticos de priorização.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:51:34",
+      "bloco": "Feedback",
+      "descricao": "Final da sessão: vínculo conquistado, ponto de atenção (reforço do isolamento), hipótese alternativa, terapia como sapato e muleta.",
+      "funcao": "Devolutiva equilibrada: o que funcionou, o que vigiar, como continuar.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:57:04",
+      "bloco": "Fechamento",
+      "descricao": "Despedida; fica pendente o comentário de uma participante.",
+      "funcao": "Encerrar.",
+      "duracao_min": 1
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Paciente simulado por inteligência artificial",
+      "definicao": "Personagem de IA da ferramenta interna da Allos, atendido por escrito para supervisão sem dados reais. Guarda memória só dentro da mesma conversa; ao finalizar o exercício, tudo recomeça. Pode 'alucinar' lembranças se o terapeuta sugerir uma sessão anterior e entende gestos escritos entre parênteses ou asteriscos, mas não onomatopeias.",
+      "exemplo": "Escrever 'silêncio' foi entendido como ordem para o paciente se calar; reticências parecem marcar tempo.",
+      "abordagem": "",
+      "ts": "0:01:17"
+    },
+    {
+      "nome": "Expectativas sobre a terapia",
+      "definicao": "A primeira fala já revela o estereótipo que o paciente tem da terapia ('perguntas padrão') e sua pressa; a postura inicial do terapeuta deve responder a isso sem confirmar o estereótipo.",
+      "exemplo": "A monitorada evita perguntas padronizadas e diz 'me fala o que você quiser'.",
+      "abordagem": "",
+      "ts": "0:04:01"
+    },
+    {
+      "nome": "Detalhe desqualificado",
+      "definicao": "Elemento que o paciente menciona diminuindo-o. Se o terapeuta adota essa forma de linguagem, aceita a hipótese do paciente e perde algo que pode ser central, como um desejo de ser visto. Por destoar do resto, merece prioridade.",
+      "exemplo": "O caderno velho onde ele escreve 'besteiras' que 'ninguém vai ver' (mais tarde, poesia).",
+      "abordagem": "",
+      "ts": "0:07:07"
+    },
+    {
+      "nome": "Ironia clínica",
+      "definicao": "Uso intencional de ironia ou humor na intervenção; deve ser avaliado pelo objetivo e pela recepção possível (pode soar como deboche). Não é necessariamente um problema.",
+      "exemplo": "O 'kkk' da monitorada ao perguntar por que ele veio.",
+      "abordagem": "",
+      "ts": "0:09:14"
+    },
+    {
+      "nome": "Hipótese clínica",
+      "definicao": "Diogo pede uma hipótese de condução já na primeira sessão e a testa perguntando o que ela supõe (o paciente tem consciência?).",
+      "exemplo": "'Você já tem alguma hipótese de como levar esse caso?'",
+      "abordagem": "",
+      "ts": "0:13:55"
+    },
+    {
+      "nome": "Desresponsabilização",
+      "definicao": "Hipótese central da monitorada: o paciente ocupa o lugar de vítima, atribui aos outros suas decisões (até a de vir à terapia) e não assume o que poderia fazer.",
+      "exemplo": "Veio porque 'encheram o saco'.",
+      "abordagem": "",
+      "ts": "0:13:26"
+    },
+    {
+      "nome": "Retificação subjetiva",
+      "definicao": "Implícita no objetivo proposto: tornar o paciente consciente de sua parte e levá-lo a buscar ajuda porque quer, e não porque mandaram.",
+      "exemplo": "",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:14:22"
+    },
+    {
+      "nome": "Inércia de atitude",
+      "definicao": "Saber que a responsabilidade é sua e não agir. Difere da irresponsabilização no sentido inconsciente: o paciente repete 'a culpa é minha' e continua parado, e tornar isso consciente não muda nada. A repetição é o indício.",
+      "exemplo": "'Me responsabilizo, mas não vou fazer nada.'",
+      "abordagem": "",
+      "ts": "0:31:14"
+    },
+    {
+      "nome": "Critérios de priorização",
+      "definicao": "A mesma fala admite várias entradas; Diogo as abre ao grupo e pede que cada escolha seja justificada.",
+      "exemplo": "Externalização (culpa nos outros), invisibilidade e caderno, ou como ele ajuda quem lhe importa.",
+      "abordagem": "",
+      "ts": "0:17:04"
+    },
+    {
+      "nome": "Vício da última fala",
+      "definicao": "Priorizar o que o paciente disse por último por reflexo. Diogo pergunta se isso é uma boa forma de intervir; a monitorada reconhece que não sempre e justifica o caso.",
+      "exemplo": "Pegar o 'cansei do jogo' e perguntar qual jogo; Diogo diz que dava para ir direto.",
+      "abordagem": "",
+      "ts": "0:48:25"
+    },
+    {
+      "nome": "Confronto terapêutico",
+      "definicao": "Apontar ao paciente uma contradição disponível; aqui, ponderado pelo momento da relação na primeira sessão.",
+      "exemplo": "Ele diz que não promete nada a ninguém, mas aceitou a terapia por pressão de um parente.",
+      "abordagem": "",
+      "ts": "0:24:06"
+    },
+    {
+      "nome": "Aqui e agora",
+      "definicao": "Explorar na própria sessão a experiência do paciente com o terapeuta, alternativa para quem se sente invisível.",
+      "exemplo": "'Como é para você ter alguém escutando isso na sua frente?'",
+      "abordagem": "",
+      "ts": "0:25:16"
+    },
+    {
+      "nome": "Padrão de repetição",
+      "definicao": "Elementos que voltam ao longo das falas e que, somados, desenham o caso.",
+      "exemplo": "Bebida, morte, peso e dor no corpo, isolamento 'ele contra o mundo', vitimização.",
+      "abordagem": "",
+      "ts": "0:35:24"
+    },
+    {
+      "nome": "Imagem diagnóstica",
+      "definicao": "Figura ou estereótipo que condensa os elementos repetidos do caso. Serve para não perder o panorama quando se trabalha um aspecto isolado do discurso.",
+      "exemplo": "Estátua de um homem acorrentado (as correntes como questões sociais), Atlas segurando o mundo, filhote de passarinho esperando comida.",
+      "abordagem": "",
+      "ts": "0:37:45"
+    },
+    {
+      "nome": "Ressentimento",
+      "definicao": "Leitura do grupo: o paciente esperava que o mundo lhe devolvesse algo e, sem esse retorno, fez do mundo um inimigo.",
+      "exemplo": "'Cada vez que eu buscava algo, o mundo devolvia um tapa.'",
+      "abordagem": "",
+      "ts": "0:44:33"
+    },
+    {
+      "nome": "Determinantes sociais do sofrimento",
+      "definicao": "Condições estruturais (pobreza, trabalho precário) que pesam na estagnação; antes de concluir sobre a responsabilidade, é preciso saber se a pessoa teve condições.",
+      "exemplo": "As 'correntes' da figura; o 'preso no barro'.",
+      "abordagem": "",
+      "ts": "0:45:19"
+    },
+    {
+      "nome": "Geração e teste de hipóteses",
+      "definicao": "Manter hipóteses concorrentes igualmente plausíveis e deixar que as sessões seguintes as testem; o supervisor explicita a sua sem invalidar a do monitorado.",
+      "exemplo": "'A linha de chegada é especial demais para ele' vs. 'ele se vê como o único amaldiçoado'.",
+      "abordagem": "",
+      "ts": "0:47:49"
+    },
+    {
+      "nome": "Unilateralidade",
+      "definicao": "O paciente vinha com uma atitude unilateral havia várias falas, e as intervenções não conseguiam mudar essa posição.",
+      "exemplo": "O mundo como inimigo; 'nunca joguei para ganhar'.",
+      "abordagem": "",
+      "ts": "0:49:32"
+    },
+    {
+      "nome": "Aliança terapêutica",
+      "definicao": "O vínculo como objetivo da primeira sessão. Indicadores: o paciente passa da desconfiança à empatia pelo trabalho da terapeuta e aceita voltar.",
+      "exemplo": "'Esse seu trabalho de ouvir a dor alheia não deve ser moleza.'",
+      "abordagem": "",
+      "ts": "0:56:09"
+    },
+    {
+      "nome": "Terapia como muleta",
+      "definicao": "No início, a terapia funciona como suporte; depois, a pessoa aprende a andar sem ela. Diogo tira a ideia da imagem do 'sapato novo' trazida pelo paciente.",
+      "exemplo": "'Se me der uma chuteira nova, pode ser que eu tropece menos.'",
+      "abordagem": "",
+      "ts": "0:55:19"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Leitura comentada do atendimento simulado",
+      "objetivo": "Supervisionar a primeira sessão escrita de um atendimento com paciente de IA, explicitando o raciocínio de cada intervenção e abrindo priorizações e hipóteses ao grupo.",
+      "competencias": [
+        "Primeira sessão e entrevistas iniciais",
+        "Priorização clínica",
+        "Formulação de caso",
+        "Intervenção"
+      ],
+      "configuracao": "Uma monitorada e um grupo participante (cerca de meia dúzia de pessoas, com voz, reações e chat do Meet); online, com a conversa na tela; aqui, o supervisor lê as falas.",
+      "tempo": "Cerca de 50 minutos.",
+      "materiais": "Conversa com o bot (primeira sessão); tela compartilhada; chat e reações do Meet.",
+      "consigna": "O que você pensou dessa fala? O que você priorizou na escuta? Por que essa intervenção? Alguém pensa em outra priorização ou tem uma hipótese diferente?",
+      "passos": [
+        "Impressão inicial da monitorada.",
+        "Leitura fala a fala.",
+        "Pergunta sobre o que chamou atenção e sobre a intenção de cada intervenção.",
+        "Abertura ao grupo para priorizações e hipóteses alternativas.",
+        "Volta à monitorada: você viu outras possibilidades?",
+        "Leitura do efeito da intervenção na fala seguinte do paciente.",
+        "Feedback final: o que funcionou, ponto de atenção, hipótese alternativa, próximo passo."
+      ],
+      "feedback": "Pede justificativas ancoradas em trechos; aponta o que ficou de fora sem acusar ('acho que você acabou caindo na forma da linguagem dele'); pondera riscos em vez de proibir; explicita a própria hipótese como uma entre outras. Critérios: postura justificada pela leitura, atenção ao que destoa, hipótese testável, sensibilidade ao timing da relação, vínculo como meta da primeira sessão.",
+      "exemplos_praticos": "A monitorada trabalhou a hipótese da responsabilização o tempo todo; participantes ofereceram a leitura da invisibilidade (com o caderno como entrada) e a de perguntar como ele ajuda quem lhe importa; Diogo apontou o risco de a insistência na responsabilidade reforçar o isolamento de alguém que se sente amaldiçoado.",
+      "variacoes": "O supervisor lê as falas (aqui) ou o monitorado lê (mon-14); abertura maior ou menor ao grupo.",
+      "armadilhas": "Comentários adiados que se perdem (uma participante pediu para comentar no final e não falou); tomar limitações do bot por material clínico; o monitorado desvalorizar o próprio atendimento ('aleatório') antes da análise.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:02:25"
+    },
+    {
+      "nome": "Dinâmica - Figura das repetições",
+      "objetivo": "Recuperar o panorama do caso quando a discussão está presa num único aspecto, condensando numa imagem os elementos que se repetem.",
+      "competencias": [
+        "Formulação de caso",
+        "Escuta clínica"
+      ],
+      "configuracao": "Grupo todo, rodada livre por voz; online.",
+      "tempo": "3 a 5 minutos.",
+      "materiais": "O atendimento em discussão (lido até a metade).",
+      "consigna": "Quais são os elementos que se repetiram até agora? Se vocês tivessem que resumir essas coisas que se repetem numa figura ou num estereótipo, como resumiriam?",
+      "passos": [
+        "Pausar a leitura no meio do caso.",
+        "Pedir ao grupo os elementos recorrentes, em palavras soltas.",
+        "Pedir uma figura, estereótipo ou personagem que os condense.",
+        "Discutir o que cada figura destaca.",
+        "Explicar a função do exercício e voltar à leitura."
+      ],
+      "feedback": "Acolhe todas as figuras e valoriza as mais sintéticas; o critério implícito é abarcar o maior número de elementos repetidos.",
+      "exemplos_praticos": "Elementos: cerveja, morte, peso e dor no corpo, isolamento (ele contra o mundo), posição de vítima. Figuras: estátua de um homem acorrentado (autoimagem rígida; correntes como questões sociais estruturais), Atlas segurando o mundo, filhote de passarinho esperando comida.",
+      "variacoes": "Individual (só o monitorado) ou ao fim de cada sessão; parente da dinâmica de dar um título ao caso e da imagem diagnóstica do Alan.",
+      "armadilhas": "A figura virar rótulo estético sem reorientar a priorização; focar numa figura só e repetir o erro que o exercício quer corrigir.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:34:54"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Resolver o técnico antes do clínico",
+      "descricao": "Explica a memória do bot, a alucinação e as melhorias previstas, e separa essas questões da supervisão.",
+      "exemplo": "'Isso aí são questões técnicas que a gente vai resolvendo com o tempo. Mas vamos lá.'",
+      "ts": "0:02:25"
+    },
+    {
+      "movimento": "Registrar a impressão inicial",
+      "descricao": "Pede a primeira leitura da monitorada e a marca como provisória, para comparar depois.",
+      "exemplo": "'Isso é uma impressão inicial mesmo.'",
+      "ts": "0:01:17"
+    },
+    {
+      "movimento": "Perguntar a intenção até do gesto banal",
+      "descricao": "Questiona se a abertura da sessão foi procedimental ou pensada.",
+      "exemplo": "'Você sempre começa assim, foi procedimental ou você já tinha alguma noção?'",
+      "ts": "0:02:25"
+    },
+    {
+      "movimento": "Ancorar no trecho",
+      "descricao": "Pede a parte exata da fala que motivou a escolha.",
+      "exemplo": "'Qual parte da sentença que ele te falou mais chamou atenção?'",
+      "ts": "0:04:01"
+    },
+    {
+      "movimento": "Reconstruir antes de conferir",
+      "descricao": "Propõe que a monitorada intua de novo a própria resposta antes de vê-la.",
+      "exemplo": "'Você quer ver sua resposta antes? ... Vamos ver se bate.'",
+      "ts": "0:06:14"
+    },
+    {
+      "movimento": "Apontar a omissão sem acusar",
+      "descricao": "Mostra o que ficou de fora, oferece uma hipótese alternativa e a marca como possível.",
+      "exemplo": "'Acho que você acabou caindo na forma da linguagem dele... sendo uma hipótese possível.'",
+      "ts": "0:07:07"
+    },
+    {
+      "movimento": "Perguntar objetivo e recepção",
+      "descricao": "Avalia um recurso de tom pelas consequências possíveis, sem julgá-lo de antemão.",
+      "exemplo": "'Poderia ele receber essa risada de outra forma?'",
+      "ts": "0:09:25"
+    },
+    {
+      "movimento": "Usar chat e reações do Meet",
+      "descricao": "Vê o emoji de uma participante e a convida; lê em voz alta o comentário de outro.",
+      "exemplo": "'Você fez o emoji no Meet aí? Você quer comentar?'",
+      "ts": "0:09:40"
+    },
+    {
+      "movimento": "Abrir ao grupo e voltar ao monitorado",
+      "descricao": "Pede hipóteses e priorizações alternativas ao grupo e depois devolve a palavra à monitorada.",
+      "exemplo": "'Alguém pensa em alguma outra possibilidade de priorização?' / 'Você viu também outras possibilidades?'",
+      "ts": "0:17:04"
+    },
+    {
+      "movimento": "Ler a intervenção pelo efeito",
+      "descricao": "Pergunta o que mudou na fala seguinte do paciente.",
+      "exemplo": "'Você acha que a partir dessa última fala teve alguma coisa diferente das outras falas?'",
+      "ts": "0:20:12"
+    },
+    {
+      "movimento": "Alternativa com ressalva de timing",
+      "descricao": "Mostra um caminho confrontativo possível e pondera o momento da relação.",
+      "exemplo": "'Talvez nesse momento ainda não fosse o correto por conta da própria relação terapêutica.'",
+      "ts": "0:24:06"
+    },
+    {
+      "movimento": "Mini-exercício coletivo com justificativa",
+      "descricao": "Interrompe a leitura para um exercício de síntese e explica por que o faz.",
+      "exemplo": "'Eu tô fazendo essas perguntas porque acho muito útil trabalhar no nível da forma...'",
+      "ts": "0:37:45"
+    },
+    {
+      "movimento": "Discordar explicitamente e reconhecer a outra leitura",
+      "descricao": "Diz qual hipótese seguiria e reconhece que a da monitorada também é plausível.",
+      "exemplo": "'Eu trabalharia nesse sentido, mas eu entendo a outra posição.'",
+      "ts": "0:47:49"
+    },
+    {
+      "movimento": "Questionar critério automático",
+      "descricao": "Pergunta se priorizar a última fala é uma boa forma de intervir.",
+      "exemplo": "'Você acha que priorizar o que ele falou por último é uma boa forma de intervir?'",
+      "ts": "0:48:25"
+    },
+    {
+      "movimento": "Feedback final em camadas",
+      "descricao": "Acerto (vínculo), ponto de atenção (reforço do isolamento), hipótese alternativa com implicação e próximo passo concreto.",
+      "exemplo": "'Você comprou ele na primeira sessão' e 'um ponto que eu atentaria seria...'",
+      "ts": "0:52:13"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Saiba se a sua abertura foi procedimental ou pensada.",
+      "justificativa": "Até a primeira frase do terapeuta é uma escolha com efeitos.",
+      "contexto": "Revisão de primeiras sessões.",
+      "competencia": "Primeira sessão e entrevistas iniciais",
+      "ts": "0:02:25"
+    },
+    {
+      "dica": "Ancore a postura inicial num trecho concreto da primeira fala do paciente.",
+      "justificativa": "A informalidade ou a formalidade deve vir da leitura do paciente, não de um hábito.",
+      "contexto": "Pacientes desconfiados da terapia.",
+      "competencia": "Primeira sessão e entrevistas iniciais",
+      "ts": "0:04:01"
+    },
+    {
+      "dica": "Não confirme o estereótipo que o paciente tem da terapia.",
+      "justificativa": "Se ele espera perguntas padrão, uma pergunta padrão confirma a expectativa e aumenta a resistência.",
+      "contexto": "Primeira sessão com paciente cético.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:05:14"
+    },
+    {
+      "dica": "Desconfie do que o paciente desqualifica.",
+      "justificativa": "Adotar a forma dele de desvalorizar faz perder o que pode ser mais importante, talvez um desejo de ser visto.",
+      "contexto": "Detalhes citados de passagem que destoam do resto.",
+      "competencia": "Escuta clínica",
+      "ts": "0:07:07"
+    },
+    {
+      "dica": "Antes de usar ironia ou humor, pense em como pode ser recebido.",
+      "justificativa": "O riso pode soar como deboche do que o paciente trouxe.",
+      "contexto": "Sobretudo no início do vínculo.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:09:25"
+    },
+    {
+      "dica": "No atendimento com bot, escreva gestos e ações entre parênteses ou asteriscos.",
+      "justificativa": "Onomatopeias e palavras soltas ('silêncio') são mal interpretadas pela IA.",
+      "contexto": "Treino com paciente simulado.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:10:46"
+    },
+    {
+      "dica": "Mantenha a mesma conversa para simular várias sessões com o bot e não sugira lembranças inexistentes.",
+      "justificativa": "Ao finalizar o exercício, a memória se perde, e o modelo pode alucinar lembranças se o terapeuta insinuar uma sessão anterior.",
+      "contexto": "Casos longos com paciente simulado.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:01:17"
+    },
+    {
+      "dica": "Pergunte-se se o paciente tem consciência daquilo que a sua hipótese supõe.",
+      "justificativa": "Se ele já sabe, tornar consciente não adianta; o problema pode ser inércia.",
+      "contexto": "Hipóteses de desresponsabilização.",
+      "competencia": "Formulação de caso",
+      "ts": "0:14:22"
+    },
+    {
+      "dica": "Observe a repetição do 'a culpa é minha' e pergunte por que o paciente a repete.",
+      "justificativa": "Repetir a responsabilidade sem agir sinaliza inércia de atitude, não falta de consciência.",
+      "contexto": "Pacientes que se culpam de modo resignado.",
+      "competencia": "Interpretação",
+      "ts": "0:31:14"
+    },
+    {
+      "dica": "Leia o que a sua intervenção provocou na fala seguinte.",
+      "justificativa": "Um exagero pode fazer o paciente querer corrigir o terapeuta e, assim, falar mais de si.",
+      "contexto": "Depois de intervenções provocativas.",
+      "competencia": "Intervenção",
+      "ts": "0:20:38"
+    },
+    {
+      "dica": "Investigue a forma como o paciente se responsabiliza.",
+      "justificativa": "Ele pode assumir responsabilidade de um jeito que ainda projeta nos outros ou que o isola.",
+      "contexto": "Quando o tema da culpa aparece espontaneamente.",
+      "competencia": "Aprofundamento",
+      "ts": "0:23:03"
+    },
+    {
+      "dica": "Pese o timing antes de confrontar uma contradição.",
+      "justificativa": "A contradição pode estar clara, mas a relação da primeira sessão pode não sustentar o confronto.",
+      "contexto": "Início do tratamento.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:25:16"
+    },
+    {
+      "dica": "Com pacientes que se sentem invisíveis, explore o aqui e agora.",
+      "justificativa": "Perguntar como é ter alguém escutando faz da sessão o lugar onde ele é visto.",
+      "contexto": "Queixa de que 'ninguém quer saber'.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:25:16"
+    },
+    {
+      "dica": "Use as palavras exatas do paciente.",
+      "justificativa": "Aproxima a intervenção do vocabulário dele e evita tradução.",
+      "contexto": "Ao pedir detalhamento de algo que ele já nomeou.",
+      "competencia": "Construção frasal",
+      "ts": "0:26:18"
+    },
+    {
+      "dica": "Arrisque nomear a emoção e deixe o paciente corrigir.",
+      "justificativa": "A correção ('não é nojo, é desgosto') aprofunda a experiência emocional e abre o paciente para a terapia.",
+      "contexto": "Quando uma palavra emocional aparece na fala.",
+      "competencia": "Aprofundamento",
+      "ts": "0:30:24"
+    },
+    {
+      "dica": "Resuma as repetições do caso numa figura.",
+      "justificativa": "Evita que o foco num aspecto apague os outros elementos recorrentes.",
+      "contexto": "No meio de casos longos ou quando a hipótese fica monotemática.",
+      "competencia": "Formulação de caso",
+      "ts": "0:37:45"
+    },
+    {
+      "dica": "Diferencie falta de ação de expectativas irreais.",
+      "justificativa": "As duas explicam uma frustração, mas pedem direções diferentes.",
+      "contexto": "Pacientes que falam de sonhos frustrados.",
+      "competencia": "Formulação de caso",
+      "ts": "0:42:21"
+    },
+    {
+      "dica": "Considere o contexto social antes de concluir sobre responsabilidade.",
+      "justificativa": "A estagnação pode ter peso estrutural real; de início, não se sabe se a pessoa teve condições.",
+      "contexto": "Pacientes de contextos precários.",
+      "competencia": "Formulação de caso",
+      "ts": "0:45:19"
+    },
+    {
+      "dica": "Não priorize a última fala por reflexo.",
+      "justificativa": "Nem sempre é o melhor ponto; se escolhê-la, saiba justificar.",
+      "contexto": "Em cada intervenção.",
+      "competencia": "Priorização clínica",
+      "ts": "0:48:25"
+    },
+    {
+      "dica": "Quando o paciente se vê como singularmente azarado, conecte-o aos outros em vez de só responsabilizá-lo.",
+      "justificativa": "Devolver toda a responsabilidade a quem a vive como maldição pode reforçar o isolamento e a neurose; a conexão com alguém foi o que o ajudou.",
+      "contexto": "Depois de formular a hipótese da maldição.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:54:33"
+    },
+    {
+      "dica": "Feche a primeira sessão sobre uma imagem trazida pelo paciente.",
+      "justificativa": "Dá continuidade e sentido ao retorno (a terapia como sapato novo ou muleta).",
+      "contexto": "Fim da primeira sessão.",
+      "competencia": "Abertura e encerramento de sessão",
+      "ts": "0:55:19"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "O objetivo da primeira sessão é criar vínculo, e isso é observável na mudança de posição do paciente.",
+      "argumento": "O paciente passa da desconfiança à empatia pelo trabalho da terapeuta e à disposição de voltar.",
+      "contraponto": "Primeira sessão focada em coletar dados ou em intervir logo no núcleo do caso.",
+      "implicacao": "Avaliar a primeira sessão pelo vínculo antes de avaliar a hipótese.",
+      "quem": "Diogo",
+      "ts": "0:52:13"
+    },
+    {
+      "tese": "Nem toda desresponsabilização é inconsciente; às vezes o paciente sabe e não age.",
+      "argumento": "Ele repete que a culpa é dele e continua parado; tornar consciente não muda nada: é inércia de atitude.",
+      "contraponto": "A leitura de que o paciente não percebe sua parte.",
+      "implicacao": "Investigar a repetição e a função da inércia em vez de insistir em mostrar a responsabilidade.",
+      "quem": "Diogo",
+      "ts": "0:31:14"
+    },
+    {
+      "tese": "Responsabilizar quem se vive como amaldiçoado pode torná-lo mais neurótico e mais isolado.",
+      "argumento": "Se o núcleo é 'sou o único azarado do mundo', a responsabilidade confirma a maldição; o que o ajudou foi a conexão com alguém.",
+      "contraponto": "A hipótese da monitorada, centrada na responsabilização; Diogo diz que isso pode ser invertido depois.",
+      "implicacao": "Priorizar a conexão com os outros e 'atacar no jogo' (fazer algo) em vez de só devolver a culpa.",
+      "quem": "Diogo",
+      "ts": "0:54:33"
+    },
+    {
+      "tese": "Condensar as repetições do caso numa figura protege contra a perda do panorama.",
+      "argumento": "Ao focar num aspecto do discurso, os outros elementos recorrentes somem de vista.",
+      "contraponto": "Análise fala a fala sem síntese.",
+      "implicacao": "Fazer pausas periódicas de síntese nas monitorias e nos casos.",
+      "quem": "Diogo",
+      "ts": "0:37:45"
+    },
+    {
+      "tese": "O terapeuta não deve adotar a forma com que o paciente desqualifica o que faz.",
+      "argumento": "Ao aceitar a hipótese do paciente, o terapeuta perde o elemento que destoa e pode ser central.",
+      "contraponto": "A escuta que segue literalmente o valor que o paciente atribui às coisas.",
+      "implicacao": "Marcar os detalhes desqualificados para investigar.",
+      "quem": "Diogo",
+      "ts": "0:07:07"
+    },
+    {
+      "tese": "Duas formulações diferentes podem ser igualmente plausíveis, e o supervisor deve dizer a sua sem invalidar a do monitorado.",
+      "argumento": "'São duas posições bem plausíveis em termos de formulação de caso'; Diogo explicita a dele e o que mudaria na clínica.",
+      "contraponto": "A supervisão que corrige para uma única leitura certa.",
+      "implicacao": "Treinar hipóteses concorrentes e testá-las nas sessões seguintes.",
+      "quem": "Diogo",
+      "ts": "0:47:49"
+    },
+    {
+      "tese": "Recursos de tom como humor e ironia não são proibidos, mas exigem pensar no objetivo e na recepção.",
+      "argumento": "A risada irônica pode ser lida como deboche, mas não é necessariamente um problema.",
+      "contraponto": "Um participante via risco na risada.",
+      "implicacao": "Usar a ironia com intenção clara e observar a reação.",
+      "quem": "Diogo",
+      "ts": "0:09:40"
+    },
+    {
+      "tese": "No início do tratamento, a terapia pode funcionar como muleta, e isso é legítimo.",
+      "argumento": "Muita gente precisa primeiro de suporte e depois aprende a andar sem ele.",
+      "contraponto": "A ideia de que depender da terapia é sempre um problema.",
+      "implicacao": "Aceitar a função de suporte e planejar a autonomia.",
+      "quem": "Diogo",
+      "ts": "0:55:19"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Acho que você acabou caindo na forma da linguagem dele de descredibilizar as coisas que ele faz. Talvez esse caderno, na verdade, tenha uma baita importância.",
+      "tema": "Detalhe desqualificado",
+      "ts": "0:07:07"
+    },
+    {
+      "texto": "Você só aceitou a hipótese dele.",
+      "tema": "Escuta",
+      "ts": "0:08:12"
+    },
+    {
+      "texto": "Você acha que ele tem consciência de que não se responsabiliza?",
+      "tema": "Hipótese clínica",
+      "ts": "0:14:22"
+    },
+    {
+      "texto": "Não tem muito a ver com ele não saber o que tem de errado nele, mas com ele não querer fazer nada quanto a isso: é mais inércia de atitude do que irresponsabilização no sentido inconsciente do termo.",
+      "tema": "Inércia de atitude",
+      "ts": "0:31:14"
+    },
+    {
+      "texto": "Quais são os elementos que se repetiram até agora? Se vocês tivessem que resumir isso numa figura, como resumiriam?",
+      "tema": "Figura das repetições",
+      "ts": "0:34:54"
+    },
+    {
+      "texto": "Resumir aquilo que se repete em algumas palavras e associar uma figura é muito útil para a gente não se perder.",
+      "tema": "Formulação de caso",
+      "ts": "0:37:45"
+    },
+    {
+      "texto": "São duas posições bem plausíveis em termos de formulação de caso.",
+      "tema": "Hipóteses concorrentes",
+      "ts": "0:47:49"
+    },
+    {
+      "texto": "Você acha que priorizar o que ele falou por último é uma boa forma de intervir?",
+      "tema": "Priorização",
+      "ts": "0:48:25"
+    },
+    {
+      "texto": "Você comprou ele na primeira sessão, que é o objetivo da primeira sessão.",
+      "tema": "Primeira sessão e vínculo",
+      "ts": "0:52:13"
+    },
+    {
+      "texto": "Conectar ele ao social, conectar ele a outras pessoas, na verdade é secretamente algo necessário.",
+      "tema": "Direção do tratamento",
+      "ts": "0:53:17"
+    },
+    {
+      "texto": "A terapia, num primeiro momento, para muita gente serve como suporte, e depois a pessoa aprende a andar sem muleta.",
+      "tema": "Terapia como muleta",
+      "ts": "0:55:19"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Resuma o caso numa figura.",
+      "mensagem": "Listar o que se repete e condensar numa imagem evita que o foco num detalhe apague o panorama.",
+      "roteiro": [
+        "Capa: você está perdendo o panorama do caso?",
+        "Passo 1: liste as palavras e temas que se repetem",
+        "Passo 2: resuma tudo numa figura, personagem ou estereótipo",
+        "Por que funciona: focar num aspecto apaga os outros",
+        "Cuidado: a figura tem que mudar sua priorização, não só enfeitar"
+      ],
+      "corte_inicio": "0:34:54",
+      "corte_fim": "0:38:47"
+    },
+    {
+      "formato": "post",
+      "pilar": "clinica-na-pratica",
+      "gancho": "O que o paciente desvaloriza pode ser o mais importante.",
+      "mensagem": "Não adote a forma com que a pessoa diminui as próprias coisas; o detalhe que destoa merece atenção.",
+      "roteiro": [
+        "'É só uma besteira que ninguém vai ver'",
+        "Armadilha: aceitar a desvalorização",
+        "Pergunta: por que ele mencionou isso?"
+      ],
+      "corte_inicio": "0:07:07",
+      "corte_fim": "0:08:50"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Qual é o objetivo da primeira sessão?",
+      "mensagem": "Criar vínculo, e ele se vê quando a pessoa muda de posição em relação ao terapeuta: da desconfiança à disposição de voltar.",
+      "roteiro": [
+        "Pergunta ao público",
+        "Resposta: vínculo",
+        "Como saber que aconteceu: mudança de posição do paciente",
+        "Fechar sobre uma imagem que o próprio paciente trouxe"
+      ],
+      "corte_inicio": "0:52:13",
+      "corte_fim": "0:53:17"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "'Eu sei que a culpa é minha' não é responsabilização.",
+      "mensagem": "Saber não é agir; repetir a culpa pode ser inércia, e insistir na responsabilidade de quem se sente amaldiçoado pode piorar.",
+      "roteiro": [
+        "Capa: frase de efeito",
+        "Consciência vs. inércia de atitude",
+        "Sinal: a repetição sem ação",
+        "Risco: responsabilizar demais reforça o isolamento",
+        "Alternativa: conectar a pessoa aos outros e a pequenas ações"
+      ],
+      "corte_inicio": "0:31:14",
+      "corte_fim": "0:32:16"
+    },
+    {
+      "formato": "stories",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Treinando com um paciente de IA: 4 dicas.",
+      "mensagem": "Use a mesma conversa para várias sessões, não sugira lembranças que não existem, escreva gestos entre parênteses e use reticências para marcar tempo.",
+      "roteiro": [
+        "Story 1: na formação, treinamos com pacientes simulados por IA",
+        "Story 2: memória só dentro da mesma conversa",
+        "Story 3: não pergunte 'lembra da última sessão?'",
+        "Story 4: gestos entre parênteses, reticências para o tempo",
+        "Story 5: convite para as monitorias"
+      ],
+      "corte_inicio": "0:10:46",
+      "corte_fim": "0:11:38"
+    },
+    {
+      "formato": "post",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Duas hipóteses plausíveis. E agora?",
+      "mensagem": "Um bom supervisor diz a própria hipótese sem apagar a sua; hipóteses concorrentes se testam nas sessões seguintes.",
+      "roteiro": [
+        "Duas leituras do mesmo caso",
+        "Ambas plausíveis",
+        "O que cada uma mudaria na próxima sessão"
+      ],
+      "corte_inicio": "0:46:52",
+      "corte_fim": "0:48:25"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Jordan Peterson",
+      "contexto": "Referência em tom de brincadeira no grupo ('tá lendo muito [Peterson] (?)' e 'arruma o quarto antes de arrumar o mundo') diante da leitura de ressentimento; na transcrição aparece como 'peron' (?)."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Monitoria com Diogo (leitura comentada aberta ao grupo)",
+    "objetivo": "Supervisionar atendimentos escritos com o paciente simulado por IA da Allos, explicitando o raciocínio de cada intervenção e usando o grupo como fonte de priorizações e hipóteses alternativas.",
+    "publico": "Participantes da formação clínica da Allos (estudantes e terapeutas em formação); uma monitorada e colegas que também atendem o bot.",
+    "tamanho": "Uma monitorada e cerca de meia dúzia de participantes com voz ativa.",
+    "duracao": "Cerca de 1 hora.",
+    "estrutura_padrao": "Dúvidas técnicas → impressão inicial → leitura fala a fala com perguntas sobre intenção e trecho → aberturas ao grupo → pausa de síntese (figura das repetições) → hipóteses concorrentes → feedback final em camadas.",
+    "papel_facilitador": "Lê as falas, pergunta antes de ensinar, abre ao grupo e devolve ao monitorado, explicita a própria hipótese e fecha com uma devolutiva equilibrada.",
+    "regras_combinados": "Interação por voz, chat e reações do Meet; comentários podem ser adiados para o final (nesta gravação um deles se perdeu); uso do bot com dados fictícios; o caso pode continuar em monitorias seguintes."
+  },
+  "reflexoes_do_facilitador": [
+    "Reconhece limites atuais da ferramenta (memória, gestos, 'kkk', 'silêncio') e diz que a equipe está ajustando as instruções e criando abas por personagem.",
+    "Diz que a risada irônica 'não é necessariamente um problema', relativizando a crítica de um participante.",
+    "Admite que, até ali, o paciente mantinha uma atitude unilateral e que a intervenção não conseguia mudá-la.",
+    "Afirma que trabalharia com outra hipótese ('o único azarado'), mas reconhece que a da monitorada também é plausível.",
+    "Pondera que o caminho confrontativo talvez não fosse adequado naquele momento da relação."
+  ],
+  "referencias_a_outros_encontros": [
+    "Dúvida de um participante levada antes ao grupo (de mensagens) sobre a memória do bot.",
+    "A monitorada já fez uma segunda sessão com o mesmo personagem, citada de passagem (o caderno de poesia).",
+    "Uma participante (a monitorada da mon-14) retoma a leitura da invisibilidade.",
+    "Possível continuação do caso: fala-se em continuar com outra dupla; a mon-21, com a mesma monitorada, menciona o personagem 'marginal' (?)."
+  ],
+  "observacoes": "Caso simulado por IA; falas do personagem parafraseadas ou citadas em fragmentos. O título do vídeo cita Arthur e Thainá, mas só o atendimento de Thainá (Tainá na transcrição) é discutido; o nome de Diogo não aparece na fala, e o facilitador foi identificado pelo título. Parte das explicações técnicas sobre o bot pode ser de outro membro da equipe (possivelmente Arthur (?)). Há trechos em que não dá para distinguir se a fala é do supervisor ou de um participante (por exemplo, a sugestão de aqui e agora em 0:25:16). O personagem emite sinais de desesperança e ideação passiva ('só esperando acabar'; 'não sou do tipo que faz besteira'), e a gravação não mostra discussão de avaliação de risco; registrado em 'Perguntas para aprofundar'. Ruído: 'bote' = bot; 'EOS' (?) no início; 'peron' (?) = provavelmente Peterson; 'vinho' = vínculo; 'potes' = hipóteses (?)."
+}

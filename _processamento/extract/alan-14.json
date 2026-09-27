@@ -1,0 +1,1093 @@
+{
+ "id": "alan-14",
+ "nota": "Alan 14 - Priorização clínica 1",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Priorização clínica 1",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Alan trata a priorização clínica — decidir, entre vários fenômenos trazidos pelo paciente, o que perguntar ou trabalhar primeiro — como a 'função sentimento' junguiana (valoração). Na parte teórica, conduz um levantamento socrático ('qual é o seu algoritmo de priorização?'), rebatiza cada resposta numa categoria geral e a critica, chegando a cerca de 20 esquemas (gravidade, eixo axial, o que toca o terapeuta, delegar ao paciente, o que ele aguenta, o mais simples, resistência/hermenêutica da desconfiança, o 'monstro', o banal, recorrência, atenção flutuante, vínculo primeiro, contradição, recência/primazia, concreto x abstrato, encaixe teórico). Uma pergunta-desafio mostra que o risco de suicídio vem primeiro por causa do vínculo (hierarquia que ele atribui a Judith Beck), não da gravidade. Na prática, Alan faz o paciente numa vinheta simulada (arco e flecha, equipamento defeituoso, flecha que fura um cano) e, no feedback, reconstrói o esquema que cada participante realmente usou, mostrando que justificativas como 'repetição' às vezes escondem encaixe teórico. Como o grupo converge para três esquemas, ele inverte o exercício para treinar flexibilidade. Fecha com a plasticidade do fenômeno psíquico (até hipóteses unilaterais 'funcionam'), a falta de feedback sobre priorização, a lista de esquemas e a tarefa de observar as próprias conversas.",
+ "em_uma_frase": "Todo clínico escolhe intuitivamente por onde perguntar; o encontro torna explícitos cerca de vinte esquemas de priorização, mostra o ponto cego de cada um e treina a consciência e a flexibilidade dessa escolha numa vinheta.",
+ "competencias": [
+  "Priorização clínica",
+  "Interpretação",
+  "Aprofundamento",
+  "Formulação de caso",
+  "Direção do tratamento",
+  "Pessoa do terapeuta",
+  "Relação terapêutica",
+  "Intervenção",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicanálise freudiana",
+  "Psicanálise lacaniana",
+  "Psicologia analítica junguiana",
+  "Terapia cognitivo-comportamental",
+  "Terapias contextuais",
+  "Gestalt-terapia"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:02",
+   "bloco": "Abertura",
+   "descricao": "Contexto (poucas pessoas, convite enviado no dia errado), formato teoria → exercício, tema do dia; avisa que a teoria será sobre priorização no caso e o exercício sobre priorização em frases.",
+   "funcao": "Enquadrar e antecipar a costura teoria-prática.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:06",
+   "bloco": "Teoria",
+   "descricao": "Priorização como 'função sentimento' (valoração em alemão); meta de tornar explícito o que se faz intuitivamente; definição do problema: muita informação, tempo escasso.",
+   "funcao": "Nomear o construto e justificar por que treiná-lo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:03:12",
+   "bloco": "Rodada de respostas",
+   "descricao": "Pergunta 'qual é o seu algoritmo?'; surgem gravidade, eixo axial, o que toca o terapeuta, delegar ao paciente, o que o paciente aguenta; Alan acrescenta 'o mais simples'.",
+   "funcao": "Extrair e rotular o repertório intuitivo do grupo.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:12:03",
+   "bloco": "Teoria",
+   "descricao": "Crítica sistemática de cada esquema: enxugar gelo, bússola moral desafinada, 'lobo cuidando do galinheiro' (a neurose decide), viés da inação (dilema do bonde); exemplos da fobia e da planilha financeira.",
+   "funcao": "Mostrar que todo esquema tem ponto cego.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:20:31",
+   "bloco": "Rodada de respostas",
+   "descricao": "Recapitulação parcial; novos esquemas: devolver a hierarquia, o que o paciente não quer falar (hermenêutica da desconfiança), o 'monstro' (lendas arturianas), o banal (zebra), convicções do paciente.",
+   "funcao": "Esgotar o repertório e ampliá-lo com histórias memoráveis.",
+   "duracao_min": 15
+  },
+  {
+   "ts": "0:35:25",
+   "bloco": "Discussão",
+   "descricao": "Uma participante propõe 'saber sua função, não conduzir'; Alan mostra que isso não é esquema de priorização, insiste e troca o exemplo (sem suicídio) para impedir a delegação da resposta ao CRP.",
+   "funcao": "Separar postura geral de decisão de priorização.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:45:06",
+   "bloco": "Retomada",
+   "descricao": "Contrato do grupo ('não é lugar de responder sua demanda; nunca vou dizer o jeito que tem que fazer'); recapitulação completa; acrescenta atenção flutuante e leitmotiv.",
+   "funcao": "Integrar atrasados e explicitar o método.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:49:50",
+   "bloco": "Teoria",
+   "descricao": "Pergunta-desafio: por que o protocolo manda tratar suicídio primeiro, se não é por gravidade? Chutes (proteção legal, protocolo, Linehan); resposta: engajamento/vínculo — hierarquia vida → o que impede a terapia → problema.",
+   "funcao": "Revelar um esquema escondido num protocolo conhecido.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:57:07",
+   "bloco": "Teoria",
+   "descricao": "Síntese: ~15 esquemas, todos válidos em alguma situação; conhecer todos; esquemas aninhados; exercício de rever conversas de WhatsApp; encerra a teoria.",
+   "funcao": "Consolidar e fazer a transição para a prática.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:00:52",
+   "bloco": "Dinâmica",
+   "descricao": "Consigna da vinheta; ninguém se oferece e Alan faz o paciente; narra vinheta simulada (arco e flecha, comparação com colega, equipamento defeituoso, flecha no cano, medo de não conseguir consertar).",
+   "funcao": "Criar material clínico denso e ambíguo.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:04:59",
+   "bloco": "Feedback",
+   "descricao": "Rodada: contradição e recência; pergunta sobre competição reconstruída como eixo axial; concreto/abstrato como critério secundário.",
+   "funcao": "Nomear o esquema por trás de cada escolha.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:11:08",
+   "bloco": "Feedback",
+   "descricao": "Confronto entre justificativa declarada ('repetição') e mecanismo real (encaixe teórico) na leitura 'masculinidade'; tese 'quase nunca é agressivo quando você está certo'; incômodo raramente rompe vínculo.",
+   "funcao": "Treinar honestidade sobre o próprio processo de priorização.",
+   "duracao_min": 15
+  },
+  {
+   "ts": "1:26:25",
+   "bloco": "Discussão",
+   "descricao": "Participante reage ao estilo confrontativo; Alan expõe tese de ensino (contra o ensino depositário, transmitir tesão, clínicos que clinicam na vida); relativiza a importância da priorização; compara duas intervenções com o mesmo esquema.",
+   "funcao": "Meta-reflexão sobre o método e manejo de resistência.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "1:36:26",
+   "bloco": "Feedback",
+   "descricao": "Participante faz síntese (paciente egocentrado, arco como falo, inflação/deflação); Alan distingue recorrência de forma x de conteúdo; digressão sobre função inferior (von Franz).",
+   "funcao": "Mostrar que mesmo uma síntese rica usa os mesmos esquemas.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "1:47:21",
+   "bloco": "Dinâmica",
+   "descricao": "Hora estourada; priorização invertida: Alan dá o fenômeno e pede justificativa com esquema ainda não usado; quatro fenômenos; demonstrações do esquema do 'monstro' e da delegação por protointerpretação.",
+   "funcao": "Treinar flexibilidade clínica contra a cristalização.",
+   "duracao_min": 21
+  },
+  {
+   "ts": "2:08:24",
+   "bloco": "Fechamento",
+   "descricao": "Plasticidade do fenômeno psíquico (hipóteses unilaterais funcionam), falta de feedback sobre priorização; variedade de ferramentas + julgamento intuitivo.",
+   "funcao": "Dar o enquadre filosófico e a moral do encontro.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "2:13:15",
+   "bloco": "Fechamento",
+   "descricao": "A pedido de uma participante, Alan dita a lista de esquemas que anotou.",
+   "funcao": "Deixar um artefato de estudo.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "2:16:54",
+   "bloco": "Tarefa",
+   "descricao": "Observar a própria comunicação: (1) sou excessivamente unilateral? (2) que outros esquemas uso além da lista? Vale para a clínica e para a vida.",
+   "funcao": "Transferir o treino para o cotidiano.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "2:18:14",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Participante elogia e sugere repetir quinzenalmente o 'jogo da lista' (o que já foi não pode); despedida.",
+   "funcao": "Feedback espontâneo do grupo.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Função sentimento",
+   "definicao": "Na tipologia junguiana, a função de valoração. Alan a usa como nome preciso para a priorização clínica: em alemão, 'sentimento' tem a ver com peso, valor e prioridade, e não com emoção.",
+   "exemplo": "Problema de tradução semelhante na economia, quando autores de língua alemã falam em 'sentimento'.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:01:06"
+  },
+  {
+   "nome": "Esquema de priorização",
+   "definicao": "O 'algoritmo', intuitivo ou explícito, com que o terapeuta decide qual fenômeno trabalhar ou sobre qual perguntar primeiro. Vale no nível do caso e no da frase. Todos o têm; o intuitivo não pode ser melhorado.",
+   "exemplo": "Paciente conta que pensa em se matar, que o namoro vai mal e que vai reprovar em matemática: por onde começar?",
+   "abordagem": "",
+   "ts": "0:03:12"
+  },
+  {
+   "nome": "Eixo axial",
+   "definicao": "O ponto pivô, central, que articula várias queixas e provavelmente é a causa delas. Priorizá-lo evita 'enxugar gelo' tratando consequências.",
+   "exemplo": "A árvore (um tronco único, não uma rede); rios que desembocam numa torrente só; o luto do avô que explica o desânimo com estudo e namoro.",
+   "abordagem": "",
+   "ts": "0:21:25"
+  },
+  {
+   "nome": "Bússola moral",
+   "definicao": "Senso interno forjado pela vida e pela experiência clínica, usado para priorizar o que 'toca' o terapeuta em vez de seguir um protocolo. Só é confiável se estiver afiado; pode refletir questões do terapeuta, não do paciente.",
+   "exemplo": "Um terapeuta que acabou de descobrir uma traição tende a superestimar um relato parecido.",
+   "abordagem": "",
+   "ts": "0:08:24"
+  },
+  {
+   "nome": "Hermenêutica da desconfiança",
+   "definicao": "Lógica de priorização psicanalítica: o que o paciente diz seria 'irrelevante, senão ele já saberia'; interessa o que ele evita e o que está além das resistências.",
+   "exemplo": "O sonhador diz 'não sei quem é essa mulher, só sei que não é minha mãe', e Freud anota: mãe.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:24:13"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Sinais de evitação (ficar arisco, chorar, pedir para encerrar sempre que um tema aparece) que permitem hipotetizar o que está além deles e priorizá-lo.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:24:13"
+  },
+  {
+   "nome": "Atenção flutuante",
+   "definicao": "Atenção uniformemente dividida: não priorizar nada e esperar que a linguagem, o erro ou o inconsciente indiquem a direção. Premissa psicanalítica que ninguém do grupo citou.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:48:21"
+  },
+  {
+   "nome": "Leitmotiv",
+   "definicao": "O tema recorrente de uma narrativa (termo da ópera). Priorizar o que mais aparece é o inverso de priorizar o não dito.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "2:14:47"
+  },
+  {
+   "nome": "Hierarquia de prioridades do tratamento",
+   "definicao": "Esquema que prioriza o que rompe o vínculo: primeiro o risco de vida ('paciente morto não faz terapia'), depois o que impede a terapia de acontecer (antipatia pelo terapeuta ou pelo método, dinheiro, agenda), só então o problema. Alan o atribui a Judith Beck; é a razão teórica de tratar o suicídio primeiro.",
+   "exemplo": "Um esporte radical que faz o paciente desmarcar sempre entra no mesmo nível lógico.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:55:19"
+  },
+  {
+   "nome": "Priorização aninhada",
+   "definicao": "Usar esquemas de priorização sobre esquemas de priorização ('nested systems'): quando dois itens empatam num nível, é preciso uma regra auxiliar.",
+   "exemplo": "Falta de dinheiro e agenda desorganizada, ambos no nível 2 da hierarquia de Beck; ou gravidade primeiro e, entre dois sofrimentos, o mais central.",
+   "abordagem": "",
+   "ts": "0:58:33"
+  },
+  {
+   "nome": "Encaixe teórico",
+   "definicao": "Priorizar o que se ajusta à teoria, às leituras ou às convicções (cosmovisão) do terapeuta. Um dos esquemas mais frequentes na prática, muitas vezes disfarçado de 'recorrência'.",
+   "exemplo": "Um gestaltista ou terapeuta de ACT que sempre vê esquiva e falta de contato; 'a verdade liberta'; 'Lacan acha isso importante'; na vinheta, a leitura de 'masculinidade'.",
+   "abordagem": "",
+   "ts": "1:13:23"
+  },
+  {
+   "nome": "Cosmovisão",
+   "definicao": "A visão de mundo pessoal do terapeuta como fonte de prioridades; aparece junto com o encaixe teórico e com o esquema 'o que me toca'.",
+   "exemplo": "Uma participante que sempre traz a responsabilidade para si prioriza a autorresponsabilização do paciente.",
+   "abordagem": "",
+   "ts": "2:00:53"
+  },
+  {
+   "nome": "Camuflagem psíquica",
+   "definicao": "O sintoma, ou a parte que decide pela pessoa (o vício, a vontade de aparecer), escondido no banal, no que o terapeuta toma por normal. Justifica priorizar o que parece menos interessante.",
+   "exemplo": "As listras da zebra camuflam o animal no bando; zebras marcadas com uma bola vermelha eram caçadas (exemplo atribuído a Manuel DeLanda).",
+   "abordagem": "",
+   "ts": "0:33:05"
+  },
+  {
+   "nome": "Dissociação",
+   "definicao": "A fragmentação natural e saudável da psique em 'eus' de contextos diferentes, que pode se tornar patológica quando o 'eu doente' passa a tomar as decisões. Justifica não delegar a priorização em certos casos.",
+   "exemplo": "O advogado não trata a esposa como o colega de trabalho.",
+   "abordagem": "",
+   "ts": "0:13:59"
+  },
+  {
+   "nome": "Viés da inação",
+   "definicao": "Tendência a errar por omissão por ela ser moralmente mais confortável. Na clínica, os terapeutas tendem a ser conservadores demais ao julgar o que o paciente aguenta.",
+   "exemplo": "O dilema do bonde: deixar morrer é mais fácil do que matar.",
+   "abordagem": "",
+   "ts": "0:17:28"
+  },
+  {
+   "nome": "Compensação psíquica",
+   "definicao": "Critério secundário de priorização: levar a pessoa ao polo que compensa sua posição (abstrair com quem é muito concreto; vivências concretas com quem vive 'em torre de marfim').",
+   "exemplo": "",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:09:49"
+  },
+  {
+   "nome": "Função inferior",
+   "definicao": "Segundo von Franz, a função menos desenvolvida, que paradoxalmente concentra nosso maior interesse e prazer, e por isso é confundida com a função superior.",
+   "exemplo": "Quem adora pensar pensa mal; o engenheiro que pinta 'se acha um baita artista'; junguianos que amam imaginação ativa costumam ser racionais.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:45:21"
+  },
+  {
+   "nome": "Protointerpretação",
+   "definicao": "Hipótese provisória sobre o que é central para o paciente, oferecida para ele confirmar ou corrigir quando a prioridade dele não está explícita no discurso.",
+   "exemplo": "'Me corrija se eu estiver errado, mas das coisas que você falou, a mais urgente parece ser consertar o cano... é isso o central?'",
+   "abordagem": "",
+   "ts": "2:07:22"
+  },
+  {
+   "nome": "Retificação subjetiva",
+   "definicao": "Mencionada como exemplo de saber teórico a priori (leitura do caso Dora) que leva o terapeuta a priorizar a responsabilização do paciente pelas próprias queixas.",
+   "exemplo": "",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:56:25"
+  },
+  {
+   "nome": "Plasticidade do fenômeno clínico",
+   "definicao": "O fenômeno psíquico é 'líquido' e se molda às hipóteses de partida, de modo que até teorias unilaterais parecem funcionar. É vantagem (dois ou três esquemas já dão uma clínica razoável) e problema (há pouco feedback para refinar).",
+   "exemplo": "O primeiro Freud (tudo é sexualidade); o analista que depois de dois anos grita 'eureca, papai e mamãe'.",
+   "abordagem": "",
+   "ts": "2:08:24"
+  },
+  {
+   "nome": "Unilateralidade",
+   "definicao": "Usar sempre o mesmo esquema de priorização. Alan compara isso a 'treinar ser paranoico' quando o esquema é só procurar padrões.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:51:50"
+  },
+  {
+   "nome": "Ensino depositário",
+   "definicao": "Modelo de ensino em que o professor 'deposita' informações na cabeça do aluno. Alan o critica e defende uma aprendizagem provocativa, que transmita o tesão pelo tema.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:30:05"
+  },
+  {
+   "nome": "Esquemas de aprofundamento",
+   "definicao": "Competência vizinha, que Alan considera mais importante que a priorização junto com a interpretação.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:32:56"
+  },
+  {
+   "nome": "Flexibilidade clínica",
+   "definicao": "Capacidade de usar e justificar esquemas de priorização diferentes dos habituais, contra as maneiras de perguntar cristalizadas ao longo da vida.",
+   "exemplo": "Exercício de priorização invertida.",
+   "abordagem": "",
+   "ts": "1:48:17"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "Aqui, o vínculo cuja ruptura deve ser evitada antes de qualquer outra prioridade clínica.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:56:09"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Algoritmo de priorização",
+   "objetivo": "Fazer o grupo explicitar os critérios intuitivos com que decide o que perguntar primeiro e mostrar que cada critério tem um ponto cego.",
+   "competencias": [
+    "Priorização clínica",
+    "Formulação de caso",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Grupo todo, online (câmeras e chat), grupo pequeno.",
+   "tempo": "50–60 min",
+   "materiais": "Uma situação-tipo com 3 ou 4 fenômenos concorrentes (e uma variante sem suicídio); quadro ou papel para anotar os esquemas.",
+   "consigna": "Se você tivesse que responder abstratamente: qual é o seu algoritmo, a sua lógica para priorizar? Se a pessoa te fala várias coisas, para onde você tende a seguir?",
+   "passos": [
+    "Apresentar a situação-tipo com fenômenos concorrentes (ideação suicida, namoro, prova, luto).",
+    "Recolher uma resposta por vez, rebatizá-la numa categoria geral e confirmar com a pessoa.",
+    "Para cada esquema, perguntar ou mostrar 'qual é o problema disso?', com um contraexemplo.",
+    "Pedir sempre mais e completar com esquemas não citados.",
+    "Recapitular a lista de tempos em tempos, sobretudo quando chega gente.",
+    "Lançar uma pergunta-desafio que revele um esquema escondido: 'por que tratar suicídio primeiro, se não é por gravidade?'.",
+    "Sintetizar: todos são válidos em alguma situação, conhecer todos, aninhar."
+   ],
+   "feedback": "A resposta precisa ser um critério de escolha entre fenômenos, não uma postura geral nem teoria sobre o tema. Quando alguém foge, o facilitador insiste e troca o exemplo para fechar a saída. Respostas certas mas fora do foco são descartadas com explicação ('é uma resposta teórica, não de priorização').",
+   "exemplos_praticos": "O grupo produziu 11 ou 12 esquemas antes do desafio (Alan: 'normalmente vocês param no cinco'). Uma participante confundiu priorizar com dirigir a vida do paciente; uma colega psicanalista reformulou que o paciente fala para o analista e 'não dá para só ouvir'. No desafio do suicídio, surgiram proteção legal, protocolo e Linehan até uma participante acertar: engajamento.",
+   "variacoes": "Alan acrescenta esquemas que ninguém cita (o mais simples, a atenção flutuante). Pode-se anotar a lista num documento compartilhado.",
+   "armadilhas": "Virar aula expositiva; participantes responderem com a teoria da própria abordagem; confundir priorizar com dirigir o paciente.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:03:12"
+  },
+  {
+   "nome": "Dinâmica - Vinheta de priorização",
+   "objetivo": "Aplicar os esquemas a uma fala concreta e tomar consciência de qual esquema cada um realmente usa, separando a justificativa declarada do mecanismo real.",
+   "competencias": [
+    "Priorização clínica",
+    "Interpretação",
+    "Aprofundamento"
+   ],
+   "configuracao": "Grupo todo, online; o facilitador (ou um voluntário) faz o paciente e os participantes respondem em voz alta ou no chat.",
+   "tempo": "~45 min (3 min de vinheta + rodada e feedback)",
+   "materiais": "Vinheta simulada com 4 fenômenos distintos. A de Alan: crença de se destacar em tudo o que começa e culpa prazerosa por atirar melhor que uma colega; frustração com um arco caro e defeituoso que permite culpar o equipamento; flecha que furou um cano da sede; medo de não conseguir consertar ('todo homem deveria saber').",
+   "consigna": "Vou falar uma série de coisas, pausar e perguntar: por onde vocês iriam e por quê? Qual é a estratégia de priorização entre as várias coisas que eu falei?",
+   "passos": [
+    "Perguntar quem quer ser o paciente; se ninguém quiser, o facilitador faz.",
+    "Narrar a vinheta sem pausas, com iscas variadas (contradição, emoção ambígua, tema de gênero, evento urgente).",
+    "Oferecer-se para separar os fenômenos se houver dificuldade.",
+    "Cada participante diz por onde iria e por quê.",
+    "O facilitador nomeia o esquema e, se a justificativa não convence, reconstrói em voz alta o raciocínio provável e pede confirmação.",
+    "Comparar respostas pelo esquema, não pela intervenção (duas intervenções com o mesmo esquema são a 'mesma resposta')."
+   ],
+   "feedback": "Critérios: a justificativa corresponde ao processo real; separar priorização de interpretação e de intervenção; não há boa ou má intervenção no exercício, o objetivo é a consciência do esquema. Alan confronta ('acho que a justificativa que você está dando não é verdadeira') e depois reformula como hipótese.",
+   "exemplos_praticos": "Uma participante ligou a última frase à primeira (contradição + recência). Outra perguntaria por que ele quer competir: Alan reconstruiu como eixo axial 'competição' com entrada concreta e menos agressiva. Uma terceira foi para a masculinidade alegando repetição; Alan mostrou que 'todo homem tem que' só aparecia no último fenômeno e identificou encaixe teórico, admitindo que a leitura pode estar certa. Um participante atrasado fez uma síntese (egocentrismo, arco como falo) que usou recorrência de forma, encaixe teórico e contradição.",
+   "variacoes": "Um voluntário faz o paciente com uma vinheta pronta; respostas pelo chat para quem é mais tímido.",
+   "armadilhas": "O grupo converge para 2 ou 3 esquemas; respostas vêm como intervenção ou interpretação; o confronto pode soar como acusação de projeção; o facilitador acumula os papéis de coordenador e paciente.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:00:52"
+  },
+  {
+   "nome": "Dinâmica - Priorização invertida",
+   "objetivo": "Treinar flexibilidade clínica: dado um fenômeno, construir a justificativa de priorização com um esquema diferente dos habituais.",
+   "competencias": [
+    "Priorização clínica",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Grupo todo, online, reaproveitando a vinheta anterior recortada em fenômenos.",
+   "tempo": "~20 min (cerca de 5 min por fenômeno)",
+   "materiais": "Vinheta recortada em fenômenos numerados; a lista de esquemas já usados (proibidos).",
+   "consigna": "Quando pedi que fizessem intuitivamente, todo mundo foi para as mesmas três direções. Agora o contrário: eu descrevo o fenômeno e vocês me dão só a justificativa, com um esquema que ainda não usaram. Não vale recorrência nem conflito.",
+   "passos": [
+    "Apresentar um fenômeno por vez.",
+    "Exigir um esquema inédito; resposta com esquema repetido 'serve de exemplo, não para o exercício'.",
+    "Se vier uma intervenção, pedir a justificativa de priorização.",
+    "Se o grupo travar, inverter de novo: o participante escolhe um esquema e o facilitador demonstra como encaixá-lo.",
+    "Permitir manter a mesma intervenção mudando só a justificativa."
+   ],
+   "feedback": "Vale se o esquema for diferente dos já usados e a ligação entre esquema e fenômeno estiver explícita; o facilitador identifica o esquema real quando o participante repete um já usado.",
+   "exemplos_praticos": "Fenômeno 1: 'foi a primeira coisa que você trouxe' (primazia), aceito. Alan demonstrou o 'monstro': o único momento em que a fala vacilou foi a culpa misturada com prazer ('essa culpa é só para inglês ver?'). Fenômeno 2: 'responsabilizar' e 'vulnerabilidade' foram lidos como encaixe teórico (retificação subjetiva; a máxima 'tudo que aparece demais esconde algo'); a cosmovisão de uma participante foi reconhecida no esquema 'o que me toca'. Fenômenos 3 e 4: Alan modelou a priorização pelo desejo do paciente via protointerpretação ('me corrija se eu estiver errado... é isso o central?').",
+   "variacoes": "Uma participante sugeriu um 'jogo da lista' quinzenal, em que o que já foi dito não pode ser repetido. Alan reconhece que devia ter feito este exercício desde o início.",
+   "armadilhas": "É bem mais difícil do que parece (maneiras de perguntar cristalizadas); o grupo cansa ('passa pro próximo, está muito difícil'); participantes voltam aos esquemas habituais.",
+   "nivel": "avançado",
+   "funciona_online": true,
+   "ts": "1:47:21"
+  },
+  {
+   "nome": "Dinâmica - Revisão de conversas do WhatsApp",
+   "objetivo": "Levar a observação dos esquemas de priorização para a vida cotidiana e detectar a própria unilateralidade.",
+   "competencias": [
+    "Priorização clínica",
+    "Desenvolvimento profissional"
+   ],
+   "configuracao": "Individual, como tarefa fora do grupo.",
+   "tempo": "Livre",
+   "materiais": "Uma conversa própria de WhatsApp.",
+   "consigna": "Pegue uma conversa de WhatsApp que você está tendo com alguém, olhe as respostas e os comentários que você fez e pergunte-se por que fez esse comentário e não o outro.",
+   "passos": [
+    "Escolher uma conversa real.",
+    "Para cada resposta sua, anotar o que o outro disse e o que você escolheu comentar.",
+    "Nomear o esquema de priorização usado.",
+    "Verificar se você é excessivamente unilateral.",
+    "Registrar esquemas novos que não estão na lista."
+   ],
+   "feedback": "Autoavaliação: notar a variedade de esquemas (usamos vários sem perceber) e o risco de unilateralidade.",
+   "exemplos_praticos": "Proposto como tarefa, não realizado no encontro.",
+   "variacoes": "Aplicar a conversas com amigos, parceiros ou familiares; 'serve para atender melhor, mas também para arrumar uma namorada'.",
+   "armadilhas": "",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:59:55"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Anunciar formato e costura",
+   "descricao": "Abre dizendo que primeiro vêm os comentários teóricos e depois o exercício, e antecipa que a teoria e o exercício tratam de níveis diferentes do mesmo construto.",
+   "exemplo": "'Vou comentar sobre uma coisa teórica e o exercício vai ser sobre uma coisa um pouquinho diferente.'",
+   "ts": "0:00:02"
+  },
+  {
+   "movimento": "Pergunta aberta abstrata",
+   "descricao": "Em vez de expor uma lista, pede ao grupo que explicite o próprio algoritmo, extraindo o repertório intuitivo.",
+   "exemplo": "'Qual é o seu algoritmo, a sua lógica para priorizar?'",
+   "ts": "0:03:12"
+  },
+  {
+   "movimento": "Rebatizar e confirmar",
+   "descricao": "Generaliza a resposta do participante numa categoria canônica e checa se entendeu, dando uma nomenclatura comum ao grupo.",
+   "exemplo": "'Você deu duas respostas canônicas... Eu entendi certo? Estou colocando palavras na sua boca.'",
+   "ts": "0:05:58"
+  },
+  {
+   "movimento": "Crítica simétrica",
+   "descricao": "Todo esquema recebe um 'qual é o problema?', o que mostra que não há esquema perfeito e evita que alguém se sinta o único alvo.",
+   "exemplo": "'Todas as construções vão ter pontos positivos e problemas.'",
+   "ts": "0:12:03"
+  },
+  {
+   "movimento": "Pressionar pelo esgotamento",
+   "descricao": "Pede mais e mais respostas e reconhece o esforço do grupo.",
+   "exemplo": "'Quero ouvir mais'; 'normalmente vocês param no cinco'.",
+   "ts": "0:29:36"
+  },
+  {
+   "movimento": "Fixar com histórias",
+   "descricao": "Associa cada esquema a uma imagem ou história memorável.",
+   "exemplo": "A árvore do eixo axial, o lobo no galinheiro, o dilema do bonde, a floresta do Graal, a zebra.",
+   "ts": "0:31:04"
+  },
+  {
+   "movimento": "Fechar a rota de fuga",
+   "descricao": "Quando a participante responde com uma postura geral ou delega ao CRP, insiste e troca o exemplo.",
+   "exemplo": "'Esquece se matar... não quero que você fuja da pergunta.'",
+   "ts": "0:40:53"
+  },
+  {
+   "movimento": "Explicitar o contrato do grupo",
+   "descricao": "Diante da demanda por 'resposta certa', esclarece que o grupo ensina o processo, não receitas.",
+   "exemplo": "'Eu nunca vou falar para vocês o jeito que tem que fazer... o que interessa é o processo de como eu chego nessa conclusão.'",
+   "ts": "0:45:06"
+  },
+  {
+   "movimento": "Recapitular para os atrasados e para a gravação",
+   "descricao": "Repete a lista inteira quando chega gente e pensando em quem verá o vídeo.",
+   "exemplo": "'Isso precisa ser repetido de novo, de novo, porque é complicado mesmo.'",
+   "ts": "0:45:06"
+  },
+  {
+   "movimento": "Pergunta-desafio com resposta escondida",
+   "descricao": "Faz uma pergunta cuja resposta revela um esquema, deixa chutar, descarta o que está fora do foco e celebra o acerto.",
+   "exemplo": "'Por que o CRP fala que primeiro você trata o suicídio, e não é por gravidade?'",
+   "ts": "0:49:50"
+  },
+  {
+   "movimento": "Facilitador como paciente",
+   "descricao": "Quando ninguém se oferece, faz o paciente numa vinheta em primeira pessoa, mesmo reconhecendo o incômodo do papel duplo.",
+   "exemplo": "'Eu odeio ser a pessoa que coordena e a que é paciente ao mesmo tempo.'",
+   "ts": "1:01:26"
+  },
+  {
+   "movimento": "Reconstruir o raciocínio em voz alta",
+   "descricao": "Explicita o provável processo intuitivo do participante e pede confirmação, corrigindo pelo processo e não pelo conteúdo.",
+   "exemplo": "'Deixa eu falar o que acho que você pensou e você me diz se estou maluco.'",
+   "ts": "1:08:37"
+  },
+  {
+   "movimento": "Separar níveis",
+   "descricao": "Redireciona respostas de interpretação ou intervenção para a justificativa de priorização.",
+   "exemplo": "'Isso é intervenção; qual é a justificativa em termos de priorização?'",
+   "ts": "1:56:03"
+  },
+  {
+   "movimento": "Confrontar e depois suavizar",
+   "descricao": "Contesta a justificativa declarada e depois reformula as duas leituras possíveis (projeção x saber que revela), deixando claro que não avalia a qualidade da intervenção.",
+   "exemplo": "'Numa hora falei num tom mais crítico... na segunda, como se esse conhecimento te permitisse ver algo que não é óbvio.'",
+   "ts": "1:21:57"
+  },
+  {
+   "movimento": "Meta-reflexão diante da crítica ao estilo",
+   "descricao": "Responde à queixa de que é confrontativo com a sua tese de ensino, indo do mais amplo ao mais específico, e assume a antipatia.",
+   "exemplo": "'Não precisa gostar de mim; o ponto é engajar o suficiente para você levar isso para a sua vida.'",
+   "ts": "1:29:08"
+  },
+  {
+   "movimento": "Mudar o exercício ao ler o grupo",
+   "descricao": "Ao ver que todos convergiram para os mesmos esquemas, inverte o exercício; quando fica difícil demais, inverte de novo (o participante escolhe o esquema, ele encaixa).",
+   "exemplo": "'Como vocês foram para as mesmas formas de priorização, eu vou inverter o exercício.'",
+   "ts": "1:47:21"
+  },
+  {
+   "movimento": "Modelar quando o participante trava",
+   "descricao": "Dá o exemplo 'mais simples possível' para mostrar como um esquema se aplica.",
+   "exemplo": "Protointerpretação: 'Me corrija se eu estiver errado... é isso o central?'",
+   "ts": "2:05:43"
+  },
+  {
+   "movimento": "Fechar em três camadas",
+   "descricao": "Encerra com uma moral filosófica (plasticidade, falta de feedback), um artefato (a lista ditada) e uma tarefa para a vida.",
+   "exemplo": "'Observe o seu comportamento... se não está excessivamente unilateral... e reflita novas possibilidades além da lista.'",
+   "ts": "2:08:24"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Saiba nomear o esquema de priorização que você está usando.",
+   "justificativa": "O que é intuitivo não dá para melhorar; operar só por intuição leva a erros de tempos em tempos.",
+   "contexto": "Sempre; especialmente em supervisão e estudo de caso.",
+   "competencia": "Priorização clínica",
+   "ts": "0:45:59"
+  },
+  {
+   "dica": "Entre algo com conflito ou sofrimento e algo sem, vá ao primeiro; entre dois sofrimentos, procure o mais central.",
+   "justificativa": "Combina gravidade e eixo axial numa regra aninhada.",
+   "contexto": "Várias queixas na mesma fala.",
+   "competencia": "Priorização clínica",
+   "ts": "0:06:33"
+  },
+  {
+   "dica": "Procure o ponto comum entre as queixas antes de atacar a mais barulhenta.",
+   "justificativa": "Tratar consequências cuja causa está em outro lugar é enxugar gelo.",
+   "contexto": "Queixas com possível nexo causal (luto → desânimo com estudo e namoro).",
+   "competencia": "Formulação de caso",
+   "ts": "0:04:44"
+  },
+  {
+   "dica": "Antes de seguir o que mexe com você, pergunte se é do paciente ou seu.",
+   "justificativa": "Um complexo pessoal (ex.: traição recente) pode inflar a importância de um tema periférico.",
+   "contexto": "Forte reação pessoal a um relato.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:09:36"
+  },
+  {
+   "dica": "Não delegue a priorização a um paciente muito tomado pelo sintoma.",
+   "justificativa": "Quem decide pode ser a neurose ou o vício ('o lobo cuidando do galinheiro'), que puxa o tratamento para o que mantém a doença.",
+   "contexto": "Dependência, padrões manipulativos, neuroses graves.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:13:59"
+  },
+  {
+   "dica": "Desconfie do seu 'ele ainda não está pronto'.",
+   "justificativa": "Na média os terapeutas erram por conservadorismo; a inação é moralmente mais confortável (dilema do bonde).",
+   "contexto": "Ao adiar um tema difícil.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:16:11"
+  },
+  {
+   "dica": "Considere começar pelo que você resolve com certeza.",
+   "justificativa": "Um resultado rápido aumenta a probabilidade de o paciente aderir ao que é difícil.",
+   "contexto": "Fobia específica, organização financeira, problemas com técnica bem estabelecida, sobretudo no início.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:19:34"
+  },
+  {
+   "dica": "Mapeie onde o paciente fica arisco, chora ou quer encerrar.",
+   "justificativa": "As resistências apontam para o que está além delas (hermenêutica da desconfiança).",
+   "contexto": "Temas sempre interrompidos.",
+   "competencia": "Escuta clínica",
+   "ts": "0:24:13"
+  },
+  {
+   "dica": "Não descarte o banal nem as 'áreas de sucesso' do paciente.",
+   "justificativa": "O sintoma pode se camuflar no normal, e toda convicção cria um ponto cego.",
+   "contexto": "Narrativas lisas demais, sem conflito aparente.",
+   "competencia": "Escuta clínica",
+   "ts": "0:33:05"
+  },
+  {
+   "dica": "Coloque no topo o que ameaça a continuidade do tratamento: risco de vida, depois dinheiro, agenda e descrença no método ou no terapeuta.",
+   "justificativa": "Paciente morto ou que abandona não faz terapia; o suicídio 'não tem nada de especial' nessa lógica.",
+   "contexto": "Sinais de ruptura, antes da queixa central.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:55:19"
+  },
+  {
+   "dica": "Quando dois itens empatam no mesmo nível, adote uma regra auxiliar explícita.",
+   "justificativa": "Nenhum sistema resolve tudo sozinho (esquemas aninhados).",
+   "contexto": "Ex.: falta de dinheiro e agenda desorganizada ao mesmo tempo.",
+   "competencia": "Priorização clínica",
+   "ts": "0:58:58"
+  },
+  {
+   "dica": "Se o paciente falou muitas coisas, comece pela última.",
+   "justificativa": "A recência é o critério mais natural na conversa e dá fluidez; retomar algo lá de trás soa artificial.",
+   "contexto": "Monólogos longos.",
+   "competencia": "Priorização clínica",
+   "ts": "1:06:00"
+  },
+  {
+   "dica": "Não subestime a primeira coisa dita.",
+   "justificativa": "Muitas pessoas começam pelo mais importante, como a frase de impacto de um parágrafo.",
+   "contexto": "Abertura de sessão.",
+   "competencia": "Priorização clínica",
+   "ts": "2:15:53"
+  },
+  {
+   "dica": "Para entrar num tema central sem agressividade, comece pelo aspecto mais concreto dele.",
+   "justificativa": "Come-se pelas beiradas, e o paciente pode 'entregar o ouro'.",
+   "contexto": "Temas sensíveis, início de vínculo.",
+   "competencia": "Intervenção",
+   "ts": "1:34:53"
+  },
+  {
+   "dica": "Use concreto x abstrato como compensação.",
+   "justificativa": "Leve à abstração quem é muito concreto e às vivências concretas quem vive 'em torre de marfim'.",
+   "contexto": "Ao escolher o registro da próxima pergunta.",
+   "competencia": "Aprofundamento",
+   "ts": "1:09:49"
+  },
+  {
+   "dica": "Quando disser 'é o que se repete', confira se a repetição está na fala ou só na sua teoria.",
+   "justificativa": "O encaixe teórico se disfarça de recorrência; saber disso evita confundir projeção com escuta.",
+   "contexto": "Leituras de gênero, trauma e outros temas muito estudados pelo terapeuta.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:11:48"
+  },
+  {
+   "dica": "Separe as três perguntas: o que eu leio (interpretação), o que eu falo (intervenção) e por que isto e não aquilo (priorização).",
+   "justificativa": "Intervenções diferentes podem expressar a mesma prioridade; confundir os níveis impede de corrigir cada um.",
+   "contexto": "Estudo de caso e supervisão.",
+   "competencia": "Priorização clínica",
+   "ts": "1:56:03"
+  },
+  {
+   "dica": "Se o paciente achou sua fala agressiva, verifique primeiro se você não errou.",
+   "justificativa": "'Quase nunca é agressivo quando você está certo'; o incômodo de uma verdade raramente rompe o vínculo, a não ser em pacientes muito graves.",
+   "contexto": "Depois de uma interpretação que gerou reação.",
+   "competencia": "Interpretação",
+   "ts": "1:24:15"
+  },
+  {
+   "dica": "Na priorização pelo 'monstro', procure o ponto em que a fala vacila emocionalmente e sublinhe o sentimento duplo.",
+   "justificativa": "Num discurso dito com segurança, o único momento de sentimento misto (culpa com prazer) marca o ponto sensível.",
+   "contexto": "Pacientes muito seguros de si.",
+   "competencia": "Aprofundamento",
+   "ts": "1:53:19"
+  },
+  {
+   "dica": "Se a prioridade do paciente não está explícita, protointerprete e peça correção.",
+   "justificativa": "Respeita a direção dele sem paralisar o terapeuta.",
+   "contexto": "Estratégia de delegação sem demanda clara.",
+   "competencia": "Priorização clínica",
+   "ts": "2:07:22"
+  },
+  {
+   "dica": "Evite a unilateralidade: não procure só padrões.",
+   "justificativa": "'Se a única coisa que você faz é procurar padrões, você está treinando ser paranoico.'",
+   "contexto": "Autoavaliação do estilo clínico.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:51:50"
+  },
+  {
+   "dica": "Desconfie de estereótipos sobre que tipo de paciente 'aguenta' abstração.",
+   "justificativa": "O interesse de alguém pode estar justamente na sua função inferior (von Franz); a resposta do paciente é que deve indicar o registro.",
+   "contexto": "Ao calibrar interpretações simbólicas.",
+   "competencia": "Interpretação",
+   "ts": "1:44:26"
+  },
+  {
+   "dica": "Treine a priorização fora da clínica, revisando conversas próprias.",
+   "justificativa": "Fazemos isso o tempo todo sem perceber, e o que funciona na clínica vale para a comunicação humana em geral.",
+   "contexto": "Prática deliberada entre sessões.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:59:55"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Priorização clínica é a 'função sentimento': valoração, e não emoção.",
+   "argumento": "Em alemão, sentimento significa valoração, peso, prioridade; o mesmo problema de tradução aparece na economia.",
+   "contraponto": "O uso cotidiano que liga sentimento a emoção.",
+   "implicacao": "Treinar priorização é treinar julgamento de valor sobre o material clínico.",
+   "quem": "Alan",
+   "ts": "0:01:06"
+  },
+  {
+   "tese": "Todo terapeuta tem um esquema de priorização, e o intuitivo não pode ser melhorado.",
+   "argumento": "Escolhemos o tempo todo, inclusive fora da clínica; só o que vem à consciência pode ser criticado.",
+   "contraponto": "A ideia de que o terapeuta 'não prioriza' porque não dirige o paciente.",
+   "implicacao": "O treino começa por nomear o que se faz.",
+   "quem": "Alan",
+   "ts": "0:45:59"
+  },
+  {
+   "tese": "Nenhum esquema está errado a priori; o correto é conhecer todos e combiná-los.",
+   "argumento": "Para cada esquema há uma situação clínica que o justifica; na prática, eles se aninham.",
+   "contraponto": "Preferências doutrinárias fixas ('minha abordagem manda priorizar assim').",
+   "implicacao": "Ampliar o repertório e escolher pelo caso.",
+   "quem": "Alan",
+   "ts": "0:57:07"
+  },
+  {
+   "tese": "Os terapeutas erram, na média, por conservadorismo ao avaliar o que o paciente aguenta.",
+   "argumento": "A experiência de Alan em quase uma década de grupos de prática e o viés moral da inação (dilema do bonde).",
+   "contraponto": "A prudência como virtude clínica.",
+   "implicacao": "Ser mais corajoso e testar temas difíceis mais cedo.",
+   "quem": "Alan",
+   "ts": "0:16:11"
+  },
+  {
+   "tese": "O risco de suicídio vem primeiro pelo vínculo, não pela gravidade.",
+   "argumento": "Na hierarquia que Alan atribui a Judith Beck: o que mata o paciente, depois o que impede a terapia, depois o problema; qualquer ameaça ao vínculo ocupa o mesmo lugar lógico.",
+   "contraponto": "A leitura cética (o CRP protege legalmente o terapeuta), admitida como fato histórico mas insuficiente como justificativa.",
+   "implicacao": "Dinheiro, agenda e descrença no método entram antes da queixa central.",
+   "quem": "Alan",
+   "ts": "0:50:18"
+  },
+  {
+   "tese": "Delegar a prioridade ao paciente pode ser pôr o lobo para cuidar do galinheiro.",
+   "argumento": "Em neuroses graves e dependências, quem decide é a parte doente (dissociação patológica).",
+   "contraponto": "A posição do terapeuta como puro 'meio', que nunca escolhe.",
+   "implicacao": "Delegar exige avaliar quem está falando.",
+   "quem": "Alan",
+   "ts": "0:12:58"
+  },
+  {
+   "tese": "O encaixe teórico é dos esquemas mais usados e costuma se disfarçar de 'escuta do que se repete'.",
+   "argumento": "No exercício, uma 'repetição' só era visível à luz de um saber prévio sobre masculinidade.",
+   "contraponto": "Esse saber pode revelar algo real e não óbvio; a leitura pode estar certa.",
+   "implicacao": "Honestidade sobre o próprio processo de priorização.",
+   "quem": "Alan",
+   "ts": "1:20:42"
+  },
+  {
+   "tese": "Quase nunca é agressivo quando você está certo (opinião declaradamente polêmica).",
+   "argumento": "O paciente costuma achar agressivo o que está errado; o incômodo da verdade raramente rompe o vínculo; quem busca terapia para não melhorar é um grupo pequeno, como quem paga academia para não ir.",
+   "contraponto": "Participantes: pode incomodar mesmo estando certo; o confronto nem sempre é ruim.",
+   "implicacao": "Intervenções diretas são menos arriscadas do que se pensa; o critério principal é a precisão.",
+   "quem": "Alan",
+   "ts": "1:24:15"
+  },
+  {
+   "tese": "Priorização não é das competências mais importantes; é um acelerador do processo.",
+   "argumento": "Se a coisa é importante, ela volta a aparecer; errar a priorização custa um paciente de vez em quando, 'um problema menor'.",
+   "contraponto": "Casos com pouca motivação, pouco tempo ou terapeuta impaciente.",
+   "implicacao": "Estudar antes interpretação e esquemas de aprofundamento.",
+   "quem": "Alan",
+   "ts": "1:33:51"
+  },
+  {
+   "tese": "O ensino depositário é ruim; o professor transmite o tesão pelo tema.",
+   "argumento": "Aulas expositivas não engajam; aprender exige sentar e pensar; a provocação serve para engajar e levar o tema para a vida.",
+   "contraponto": "O modelo em que a cabeça do aluno é um depósito de informações.",
+   "implicacao": "Grupos com vinhetas, roleplay, provocação e ligação com a vida concreta.",
+   "quem": "Alan",
+   "ts": "1:30:05"
+  },
+  {
+   "tese": "Os clínicos fora de série clinicam na vida.",
+   "argumento": "Os melhores que Alan conheceu, até alunos de terceiro ou quinto período, refletiam o tempo todo sobre as conversas cotidianas e refinavam categorias intuitivas.",
+   "contraponto": "'Isso não é uma dica, é um problema': às vezes chega a ser antiético.",
+   "implicacao": "Praticar deliberadamente fora da clínica.",
+   "quem": "Alan",
+   "ts": "1:31:55"
+  },
+  {
+   "tese": "O fenômeno clínico é plástico e confirma até hipóteses unilaterais.",
+   "argumento": "Dá para 'forçar a barra' com qualquer esquema: o primeiro Freud (tudo é sexualidade), o estoicismo (não há problemas reais), o analista do 'eureca, papai e mamãe'.",
+   "contraponto": "A maioria das pessoas acha que há 'muito mais cor' no fenômeno humano.",
+   "implicacao": "É vantagem (poucos esquemas já dão uma clínica razoável) e problema (pouco feedback para refinar): variedade de ferramentas + julgamento intuitivo.",
+   "quem": "Alan",
+   "ts": "2:08:24"
+  },
+  {
+   "tese": "O que mais nos interessa costuma ser a nossa função inferior.",
+   "argumento": "Marie-Louise von Franz sobre os tipos psicológicos: quem adora pensar pensa mal; junguianos que amam imaginação ativa costumam ser racionais.",
+   "contraponto": "",
+   "implicacao": "Desconfiar de autoimagens e de estereótipos tipológicos sobre pacientes.",
+   "quem": "Alan (via von Franz)",
+   "ts": "1:45:21"
+  },
+  {
+   "tese": "O que funciona na clínica funciona na comunicação humana em geral.",
+   "argumento": "A comunicação humana é 'mais ou menos constante'; saber priorizar faz de você um ouvinte mais agradável.",
+   "contraponto": "",
+   "implicacao": "Treinar a competência na vida (com a avó, num namoro).",
+   "quem": "Alan",
+   "ts": "2:16:54"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "O que é intuitivo não dá para a gente melhorar. Eu preciso primeiro trazer para a consciência para depois criticar.",
+   "tema": "método do aprimoramento",
+   "ts": "0:45:59"
+  },
+  {
+   "texto": "Todas as construções vão ter pontos positivos e problemas.",
+   "tema": "crítica dos esquemas",
+   "ts": "0:12:03"
+  },
+  {
+   "texto": "Delegar a responsabilidade, nesse momento, é colocar o lobo para cuidar do galinheiro.",
+   "tema": "delegar ao paciente",
+   "ts": "0:13:59"
+  },
+  {
+   "texto": "Deixar alguém morrer é muito mais fácil do que matar alguém. A gente tende a errar pela inação.",
+   "tema": "viés da inação",
+   "ts": "0:17:28"
+  },
+  {
+   "texto": "Atrás do dragão tem ouro.",
+   "tema": "o monstro",
+   "ts": "0:27:05"
+  },
+  {
+   "texto": "Coragem é ter medo e enfrentar. A ausência de medo é burrice.",
+   "tema": "coragem",
+   "ts": "0:28:12"
+  },
+  {
+   "texto": "Paciente morto não faz terapia.",
+   "tema": "hierarquia do vínculo",
+   "ts": "0:54:10"
+  },
+  {
+   "texto": "No grupo de aprimoramento eu nunca vou falar para vocês o jeito que tem que fazer. O que a gente precisa é aprender o processo de como eu chego nessa conclusão.",
+   "tema": "contrato do grupo",
+   "ts": "0:45:06"
+  },
+  {
+   "texto": "Quase nunca é agressivo quando você está certo. Normalmente o paciente acha agressivo quando você está errado.",
+   "tema": "interpretação direta",
+   "ts": "1:24:15"
+  },
+  {
+   "texto": "A única coisa que eu transmito para as pessoas é o tesão.",
+   "tema": "tese de ensino",
+   "ts": "1:30:05"
+  },
+  {
+   "texto": "Se a coisa é importante, ela vai voltar a aparecer. Saber priorizar é um acelerador do processo.",
+   "tema": "valor da priorização",
+   "ts": "1:33:51"
+  },
+  {
+   "texto": "Se a única coisa que você faz é procurar padrões, você não está fazendo terapia, está treinando ser paranoico.",
+   "tema": "unilateralidade",
+   "ts": "1:51:50"
+  },
+  {
+   "texto": "Esse é o problema da psicologia: mesmo as hipóteses mais unilaterais funcionam.",
+   "tema": "plasticidade do fenômeno",
+   "ts": "2:08:24"
+  },
+  {
+   "texto": "Se você domina várias técnicas e tem um apreço semelhante por todas elas, a tendência de não ser unilateral já é mais alta.",
+   "tema": "variedade de ferramentas",
+   "ts": "2:12:20"
+  },
+  {
+   "texto": "Isso serve para atender melhor, mas também serve para arrumar uma namorada.",
+   "tema": "clínica e vida",
+   "ts": "2:16:54"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Seu paciente contou quatro coisas. Por qual você começa?",
+   "mensagem": "Não existe um critério único de priorização; cada um (gravidade, eixo axial, resistência, vínculo, recência, contradição, encaixe teórico) tem um ponto cego, e o bom clínico conhece todos.",
+   "roteiro": [
+    "Slide 1: 'Ele quer se matar, vai terminar o namoro e vai reprovar em matemática. Por onde você começa?'",
+    "Slide 2: Gravidade — e o risco de enxugar gelo.",
+    "Slide 3: Eixo axial — o tronco da árvore.",
+    "Slide 4: O que o paciente evita — hermenêutica da desconfiança.",
+    "Slide 5: Vínculo primeiro — paciente morto não faz terapia.",
+    "Slide 6: Recência, contradição, encaixe teórico.",
+    "Slide 7: Nenhum é errado; o erro é usar só um."
+   ],
+   "corte_inicio": "2:13:15",
+   "corte_fim": "2:16:54"
+  },
+  {
+   "formato": "reels",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Por que o risco de suicídio vem primeiro? Não é pela gravidade.",
+   "mensagem": "A lógica é o vínculo: o que impede a terapia de continuar vem antes do problema, e dinheiro e agenda entram na mesma categoria.",
+   "roteiro": [
+    "Cena 1: a pergunta provocativa.",
+    "Cena 2: a resposta cética (proteção legal).",
+    "Cena 3: a hierarquia vida → o que interfere na terapia → o problema.",
+    "Cena 4: 'o suicídio não tem nada de especial'."
+   ],
+   "corte_inicio": "0:54:10",
+   "corte_fim": "0:56:09"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Quase nunca é agressivo quando você está certo.",
+   "mensagem": "O que costuma ferir o paciente é o erro, não a verdade; o incômodo da verdade raramente rompe o vínculo.",
+   "roteiro": [
+    "Cena 1: a frase.",
+    "Cena 2: a analogia de quem paga a academia para não ir.",
+    "Cena 3: 'a pessoa fica incomodada, continua na terapia e secretamente adorou'."
+   ],
+   "corte_inicio": "1:24:15",
+   "corte_fim": "1:26:25"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "O que as listras da zebra ensinam sobre sintomas?",
+   "mensagem": "As listras camuflam a zebra no bando; o sintoma se camufla no que o terapeuta toma por normal.",
+   "roteiro": [
+    "Cena 1: a história da bola vermelha.",
+    "Cena 2: a explicação da camuflagem no bando.",
+    "Cena 3: o sintoma que se esconde no banal."
+   ],
+   "corte_inicio": "0:31:04",
+   "corte_fim": "0:33:05"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Terapeutas erram por covardia, não por ousadia.",
+   "mensagem": "Na média somos conservadores demais ao julgar o que o paciente aguenta; o viés da inação (dilema do bonde) torna o erro por omissão confortável.",
+   "roteiro": [
+    "Imagem: o dilema do bonde.",
+    "Legenda: 'ele ainda não está pronto' pode ser o seu viés falando."
+   ],
+   "corte_inicio": "0:16:11",
+   "corte_fim": "0:18:30"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Treine clínica no seu WhatsApp.",
+   "mensagem": "Releia suas conversas e pergunte por que comentou isto e não aquilo; o intuitivo só melhora quando fica consciente.",
+   "roteiro": [
+    "Slide 1: 'Você prioriza o tempo todo sem perceber.'",
+    "Slide 2: o exercício passo a passo.",
+    "Slide 3: as duas perguntas: sou unilateral? que esquemas novos eu uso?"
+   ],
+   "corte_inicio": "0:59:55",
+   "corte_fim": "1:00:52"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "O exercício que 'dói na cabeça': priorização invertida.",
+   "mensagem": "No Aprimoramento, você recebe o fenômeno e precisa justificá-lo com um critério que nunca usa, para ganhar flexibilidade clínica.",
+   "roteiro": [
+    "Cena 1: 'todo mundo foi para as mesmas três direções'.",
+    "Cena 2: a regra 'não vale o que vocês já usaram'.",
+    "Cena 3: a reação do grupo."
+   ],
+   "corte_inicio": "1:47:21",
+   "corte_fim": "1:49:08"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Contra a aula depositária: o professor transmite tesão.",
+   "mensagem": "Aprender clínica exige provocação, vinhetas e ligação com a vida; os melhores clínicos refletem sobre as conversas do dia a dia.",
+   "roteiro": [
+    "Slide 1: a crítica ao ensino depositário.",
+    "Slide 2: 'a única coisa que eu transmito é o tesão'.",
+    "Slide 3: clínicos fora de série clinicam na vida."
+   ],
+   "corte_inicio": "1:29:08",
+   "corte_fim": "1:32:56"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Jung",
+   "contexto": "A 'função sentimento' como valoração; a tipologia psicológica; a lenda do Graal lida como verdade psíquica; a compensação psíquica."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "A cena do sonhador ('não é minha mãe') como paradigma da hermenêutica da desconfiança; atenção flutuante; o 'primeiro Freud' (tudo é sexualidade) como exemplo de hipótese unilateral; o caso Dora."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Citado como exemplo de encaixe teórico ('Lacan acha isso importante'); retificação subjetiva."
+  },
+  {
+   "nome": "Judith Beck",
+   "contexto": "Alan lhe atribui a hierarquia de priorização vida → o que impede a terapia → o problema ('aula um')."
+  },
+  {
+   "nome": "Marsha Linehan",
+   "contexto": "Citada por uma participante (DBT, dialética, 'vida que vale a pena ser vivida') ao discutir o suicídio."
+  },
+  {
+   "nome": "Marie-Louise von Franz",
+   "contexto": "Tipos psicológicos e função inferior: o que mais nos interessa é a nossa inferioridade psíquica."
+  },
+  {
+   "nome": "Manuel DeLanda",
+   "contexto": "Exemplo da zebra, cujas listras camuflam no bando."
+  },
+  {
+   "nome": "Marco Aurélio",
+   "contexto": "Posição estoica de que não existem problemas reais, só leituras imprecisas (exemplo do banho público), citada como hipótese unilateral."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento clínico (Alan)",
+  "objetivo": "Tornar explícitas e treinar competências clínicas que se exercem por intuição (aqui, a priorização), passando da consciência à crítica e à flexibilidade.",
+  "publico": "Estudantes de psicologia e clínicos em formação da Allos, de abordagens variadas (psicanálise, Jung, TCC, fenomenologia).",
+  "tamanho": "Pequeno: cerca de 6 a 9 participantes nesta edição; Alan diz que o formato funciona bem com grupos pequenos.",
+  "duracao": "Previsto 2h; esta edição durou 2h19.",
+  "estrutura_padrao": "Primeira parte abstrata e teórica, em conversa (levantamento socrático e crítica); segunda parte prática (vinheta ou roleplay com rodada de respostas e feedback); fechamento com síntese e tarefa para a vida.",
+  "papel_facilitador": "Provocador socrático: extrai o repertório, rebatiza, critica de forma simétrica, reconstrói o raciocínio dos participantes, faz o paciente nas vinhetas, ajusta o exercício ao clima do grupo e assume um estilo confrontativo com a meta de 'transmitir tesão'.",
+  "regras_combinados": "O grupo não dá receitas ('nunca vou dizer o jeito que tem que fazer'); o foco é o processo de chegar à conclusão; no exercício não se avalia boa ou má intervenção; o encontro é gravado para 'as pessoas do futuro'; quem precisar pode sair quando o horário estoura."
+ },
+ "reflexoes_do_facilitador": [
+  "Enviou o convite 'no dia errado, na hora errada', mas aproveitou o grupo pequeno: 'o aprimoramento funciona bem com grupos pequenos' (0:00:02).",
+  "'Eu odeio ser a pessoa que coordena e a pessoa que é paciente ao mesmo tempo' (1:01:26).",
+  "Sobre o confronto com uma participante: explica que falou uma vez em tom crítico (projeção) e outra como possibilidade (saber que revela), e que as duas são hipóteses abstratas (1:21:57).",
+  "Diante da crítica de estilo confrontativo ('fiquei com muita raiva dele'), expõe sua tese de ensino e assume: 'sei que sou uma pessoa odiável... não precisa gostar de mim; o ponto é engajar' (1:29:08, 1:35:36).",
+  "Não está se importando em corrigir intervenções, porque o foco do dia é a priorização (1:33:51).",
+  "A síntese de um participante 'é legal e é um problema para a construção do exercício, porque eu queria variedade' (1:41:17).",
+  "'Tenho problema com horário, é uma feature da minha personalidade'; estourou as 2h e pediu licença para continuar (1:47:21).",
+  "'Esse era o exercício que eu devia ter feito com vocês; eu li o clima do grupo errado' — sobre a priorização invertida (1:51:07).",
+  "Surpresa com a criatividade do grupo: 'normalmente vocês param no cinco' (0:29:36).",
+  "Reconhece que o conteúdo 'precisa ser repetido de novo, de novo, porque é complicado mesmo' (0:45:06)."
+ ],
+ "referencias_a_outros_encontros": [
+  "Alan recomenda como mais importantes o aprimoramento de diagnóstico/interpretação com os poemas (Alan 11 - Psicodiagnóstico) e o de esquemas de aprofundamento (Alan 06 - Esquemas de aprofundamento).",
+  "A qualidade das intervenções é tema de outro aprimoramento (Alan 16 - Intervenção / Alan 17 - Qualidade da intervenção).",
+  "O tema é retomado em Alan 15 - Priorização clínica 2.",
+  "Encaixe teórico e cosmovisão dialogam com Alan 04 e 05 - Cosmovisão e clínica.",
+  "Participante sugere repetir o jogo da lista de esquemas a cada 15 dias."
+ ],
+ "observacoes": "Legenda automática com bastante ruído. Correções feitas: 'JBEC', 'Judit Pack', 'Juditback', 'BEC', 'PEC' = Judith Beck; 'Mariner' = Marsha Linehan; 'Von France' = Marie-Louise von Franz; 'Manuel Delanda' = Manuel DeLanda; 'Leb tef/lem motif' = leitmotiv; 'guestutista' = gestaltista; 'eixoa axial' = eixo axial; 'periodização' = priorização. Um segundo autor citado junto de DeLanda no exemplo da zebra ('Sabos'?) não foi identificado. A hierarquia vida → o que interfere na terapia → o problema, atribuída por Alan a Judith Beck, é classicamente a da DBT de Linehan (nota do fichador); o exemplo do banho público, atribuído a Marco Aurélio, aparece no Manual de Epicteto (nota do fichador). A vinheta é simulada, com o próprio Alan como paciente. Uma participante cita genericamente um caso real (limites com a família e numa relação afetiva), anonimizado na nota. Participantes mencionados por nome na fala foram anonimizados. Alias da nota evita 'Priorização clínica' para não colidir com a competência-hub de mesmo nome."
+}

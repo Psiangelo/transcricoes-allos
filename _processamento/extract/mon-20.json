@@ -1,0 +1,778 @@
+{
+ "id": "mon-20",
+ "nota": "Monitoria 20 - Diogo - Aprofundamento na análise de atendimento simulado",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Aprofundamento na análise de atendimento simulado",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo conduz uma monitoria temática sobre aprofundamento. Uma estudante que ainda não fez estágio clínico analisa, fala por fala, a primeira sessão por texto que outra associada, de orientação comportamental e ACT, fez com uma paciente simulada por IA (o mesmo registro que Alan analisa na mon-02). O procedimento é de predição e comparação: a monitorada diz o que é relevante e que pergunta faria, e só depois vê e avalia a intervenção real. Diogo ensina a transformar impressões em hipóteses, preferir perguntas abertas e únicas, buscar amplitude de investigação e usar as repetições do discurso como atalho para o central do caso. No fim, revela o que a monitorada não viu: a forma do discurso e a relação terapêutica (as perguntas devolvidas pela paciente) como segunda ferramenta de aprofundamento.",
+ "em_uma_frase": "Analisando o atendimento simulado de outra terapeuta, uma iniciante aprende a aprofundar: sair do literal, formular hipóteses, fazer perguntas abertas uma de cada vez, achar o central pelas repetições e ler também a forma do discurso e a relação.",
+ "competencias": [
+  "Aprofundamento",
+  "Escuta clínica",
+  "Interpretação",
+  "Intervenção",
+  "Construção frasal",
+  "Primeira sessão e entrevistas iniciais",
+  "Relação terapêutica",
+  "Articulação teoria-prática",
+  "Feedback clínico"
+ ],
+ "abordagens": [
+  "Terapias contextuais",
+  "Análise do comportamento",
+  "Terapia cognitivo-comportamental",
+  "Psicologia sócio-histórica"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Conversa informal sobre as trajetórias dos participantes na graduação.",
+   "funcao": "Aquecimento e vínculo com grupo pequeno.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:02:14",
+   "bloco": "Abertura",
+   "descricao": "Diogo se apresenta para a gravação e explica a monitoria: foco individual, sigilo, um terapeuta central e o monitor como guia. Pede voluntário.",
+   "funcao": "Situar o formato e os papéis.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:03:38",
+   "bloco": "Combinados",
+   "descricao": "Participantes se dizem inseguros. Diogo anuncia que não haverá simulação, só a análise de um atendimento já feito, e reenquadra a monitoria como espaço para errar com feedback imediato.",
+   "funcao": "Reduzir a ansiedade e viabilizar um voluntário.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:04:39",
+   "bloco": "Retomada",
+   "descricao": "Pergunta o referencial da monitorada (psicologia sócio-histórica), pede que ela o explique e admite que não conhece bem (Vigotski).",
+   "funcao": "Saber de onde o monitorado vai analisar.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:08:23",
+   "bloco": "Teoria",
+   "descricao": "Apresenta a terapeuta do registro (comportamental, ACT) e resume a lógica da ACT: crenças protetoras que bloqueiam o contato com o mundo e a flexibilidade psicológica.",
+   "funcao": "Dar o lugar de onde a intervenção analisada foi feita.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:10:35",
+   "bloco": "Teoria",
+   "descricao": "Define aprofundamento e dá o exemplo da frase 'não me sinto chateado quando me julgam'. A monitorada acrescenta uma hipótese.",
+   "funcao": "Nomear o critério de avaliação do dia.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:13:33",
+   "bloco": "Combinados",
+   "descricao": "Explica o exercício: paciente fictícia (IA), atendimento em texto, análise das intervenções a partir do referencial da monitorada. Compartilha a tela e ajusta o zoom.",
+   "funcao": "Deixar clara a tarefa.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:16:17",
+   "bloco": "Dinâmica",
+   "descricao": "Leitura da primeira fala da paciente. A monitorada aponta a rotina quebrada, o 'por que agora', o 'não tenho crise' e o controle da conversa.",
+   "funcao": "Treinar a escuta do relevante.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:19:27",
+   "bloco": "Discussão",
+   "descricao": "Diogo pergunta de onde vem a linha de investigação e como ela se liga ao controle. A monitorada propõe perguntas abertas.",
+   "funcao": "Metacognição sobre a investigação.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:26:37",
+   "bloco": "Feedback",
+   "descricao": "Da impressão à hipótese; força das perguntas abertas; uma pergunta de cada vez; pedido da frase exata nas próximas falas.",
+   "funcao": "Consolidar princípios de construção de pergunta.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:30:09",
+   "bloco": "Dinâmica",
+   "descricao": "Diogo liga controle e rotina à direção do discurso e revela a intervenção da terapeuta.",
+   "funcao": "Passar da predição à comparação.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:31:39",
+   "bloco": "Discussão",
+   "descricao": "A monitorada avalia a intervenção ('perdido na vida' direciona a resposta) e reformula a própria. Discussão sobre responder ou não à pergunta do paciente.",
+   "funcao": "Avaliar uma intervenção alheia com critério explícito.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:38:27",
+   "bloco": "Dinâmica",
+   "descricao": "Segunda fala da paciente (olhar dos outros, espelho, observar ou mergulhar). A monitorada relê, levanta as hipóteses de insegurança e controle e formula uma pergunta única e aberta.",
+   "funcao": "Treinar a formulação exata da intervenção.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:45:26",
+   "bloco": "Feedback",
+   "descricao": "Diogo pede a justificativa, ajusta a redação e elogia a amplitude de investigação e o cuidado de manter as hipóteses em dia.",
+   "funcao": "Reforçar o raciocínio, não só a frase.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:51:55",
+   "bloco": "Discussão",
+   "descricao": "Segunda intervenção da terapeuta ('você consegue se observar atentamente? se sim, o que vê?'), criticada por direcionar a resposta e juntar duas perguntas.",
+   "funcao": "Aplicar o critério pergunta aberta/fechada.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:56:23",
+   "bloco": "Dinâmica",
+   "descricao": "Terceira fala da paciente, lida em silêncio. A monitorada percebe a repetição do olhar do outro e propõe 'além do espelho, como você se vê?'.",
+   "funcao": "Encontrar o central do caso.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:03:22",
+   "bloco": "Teoria",
+   "descricao": "Tempo clínico e tempo cronológico; sinais e sintomas; limites do atendimento por texto.",
+   "funcao": "Generalizar a lição do caso.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:05:35",
+   "bloco": "Feedback",
+   "descricao": "Diogo revela o que ficou de fora: a forma do discurso e as perguntas devolvidas pela paciente como dado clínico, confirmável na relação terapêutica.",
+   "funcao": "Introduzir uma segunda ferramenta de aprofundamento.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:10:43",
+   "bloco": "Fechamento",
+   "descricao": "A monitorada avalia a monitoria. Diogo faz a devolutiva final e cita o princípio do Alan de trabalhar bem as primeiras frases.",
+   "funcao": "Fechar com as duas perspectivas e reforçar o progresso.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Interpretação rasa e interpretação profunda",
+   "definicao": "A interpretação rasa toma a fala ao pé da letra. A profunda pergunta por que o paciente precisa dizer aquilo e levanta várias leituras possíveis (esconder o contrário, defesa construída na história, sentimento de superioridade).",
+   "exemplo": "'Eu não me sinto chateado quando as pessoas me julgam': literalmente, não se ofende; profundamente, talvez esconda a mágoa ou tenha aprendido a não depender dos outros.",
+   "abordagem": "Transteórico",
+   "ts": "0:11:44"
+  },
+  {
+   "nome": "Hipótese clínica",
+   "definicao": "Impressões sobre o paciente são inevitáveis e podem ser verdadeiras ou falsas. Quando elaboradas, viram hipóteses que orientam a investigação e são testadas por perguntas. Numa primeira sessão, tudo é hipótese.",
+   "exemplo": "A impressão de que a paciente 'parece controladora' vira hipótese de controle, concorrente com a de insegurança.",
+   "abordagem": "Transteórico",
+   "ts": "0:26:37"
+  },
+  {
+   "nome": "Pergunta aberta e pergunta fechada",
+   "definicao": "A pergunta fechada só confirma ou nega a hipótese do terapeuta. A aberta dá espaço ao paciente para trazer tanto o previsto quanto o imprevisto e gera material mais rico.",
+   "exemplo": "'Você acha que está controlando?' (sim/não) versus 'por que você escolheu este momento?' (mil motivos possíveis).",
+   "abordagem": "Transteórico",
+   "ts": "0:27:45"
+  },
+  {
+   "nome": "Pergunta múltipla",
+   "definicao": "Várias perguntas numa mesma intervenção. O paciente tende a responder só uma e perde-se a chance de investigar as outras com concretude.",
+   "exemplo": "'Por que agora? O que espera da terapia?' pode receber só 'espero me desenvolver'.",
+   "abordagem": "Transteórico",
+   "ts": "0:28:44"
+  },
+  {
+   "nome": "Pergunta indutiva",
+   "definicao": "Pergunta ou comentário que antecipa o estado do paciente ou pressupõe a resposta e direciona o material. Pode ser tomada como veredito do especialista.",
+   "exemplo": "'Às vezes a gente pode se sentir perdido na vida' e 'se sim, o que vê?'.",
+   "abordagem": "Transteórico",
+   "ts": "0:34:51"
+  },
+  {
+   "nome": "Pergunta do paciente ao terapeuta",
+   "definicao": "Responder ou não à pergunta do paciente depende do contexto; no início, ignorar pode soar grosseiro. Se o paciente reclamar, vale uma mini-retratação. Quando se repete, a pergunta devolvida é dado da forma do discurso e da relação.",
+   "exemplo": "A paciente simulada pergunta repetidamente 'e você? você costuma ver isso?' até a terapeuta marcar que a sessão é sobre ela.",
+   "abordagem": "Transteórico",
+   "ts": "0:37:25"
+  },
+  {
+   "nome": "Amplitude de investigação",
+   "definicao": "Qualidade de uma pergunta que permite investigar ao mesmo tempo mais de uma hipótese e ainda deixa espaço para uma terceira surgir, sem dizer ao paciente o que ele é.",
+   "exemplo": "'Como você se sente percebendo que as pessoas te veem dessa forma?' serve às hipóteses de insegurança e de controle.",
+   "abordagem": "Transteórico",
+   "ts": "0:47:07"
+  },
+  {
+   "nome": "Repetição no discurso",
+   "definicao": "Um padrão que se repete no discurso indica algo central para o caso. Como aprofundar é chegar ao central, perceber repetições é um atalho.",
+   "exemplo": "Em todas as respostas, a paciente fala do olhar dos outros sobre ela.",
+   "abordagem": "Transteórico",
+   "ts": "1:00:28"
+  },
+  {
+   "nome": "Tempo clínico",
+   "definicao": "O ritmo em que o essencial de um caso aparece não coincide com o tempo do relógio. O central pode surgir em poucos minutos, embora isso não seja conhecer o caso inteiro.",
+   "exemplo": "O tema central apareceu depois de três perguntas, talvez 5 a 10 minutos de sessão.",
+   "abordagem": "Transteórico",
+   "ts": "1:03:22"
+  },
+  {
+   "nome": "Sinais e sintomas",
+   "definicao": "Distinção emprestada da psicopatologia, sem sentido patológico: sinais são o que o terapeuta observa (pausas, tom, ritmo, expressão), sintomas são o que o paciente relata. No texto só há sintomas.",
+   "exemplo": "A monitorada sente falta das pausas e da entonação para decidir entre as hipóteses.",
+   "abordagem": "Transteórico",
+   "ts": "1:04:26"
+  },
+  {
+   "nome": "Forma e conteúdo",
+   "definicao": "Todo discurso, terapêutico ou não, tem forma e conteúdo. Na clínica, a forma é o modo como o paciente discursa (agressivo, passivo, perguntando de volta) e a relação que propõe ao terapeuta. É uma segunda ferramenta de aprofundamento.",
+   "exemplo": "A paciente devolve perguntas porque 'sua versão de paciente depende da versão de terapeuta', coerente com a preocupação com o outro.",
+   "abordagem": "Transteórico",
+   "ts": "1:08:44"
+  },
+  {
+   "nome": "Flexibilidade psicológica",
+   "definicao": "Meta da terapia de aceitação e compromisso: romper com pensamentos e crenças que protegeram a pessoa de situações dolorosas, mas que bloqueiam o contato com o mundo e com novos espaços prazerosos e saudáveis.",
+   "exemplo": "",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:09:21"
+  },
+  {
+   "nome": "Paciente simulado por inteligência artificial",
+   "definicao": "Chatbot de texto da Allos, em teste, que simula pacientes. Os atendimentos feitos com ele viram material de monitoria. Segundo Diogo, não é um chatbot genérico, e o comportamento do paciente simulado deve ser lido como dado clínico.",
+   "exemplo": "A monitorada atribuiu à IA o hábito de perguntar de volta e deixou passar o padrão relacional.",
+   "abordagem": "",
+   "ts": "1:09:48"
+  },
+  {
+   "nome": "Atendimento por mensagem de texto",
+   "definicao": "Formato que perde os sinais observáveis. Para Diogo e a monitorada, deve ser exceção (casos muito excepcionais, como os de algumas pessoas com deficiência). Ainda assim permite analisar a forma escrita (pontuação, perguntas, extensão).",
+   "exemplo": "A monitorada lê a pontuação como pausa para compensar a falta de voz.",
+   "abordagem": "",
+   "ts": "1:04:26"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Leitura comentada de atendimento simulado",
+   "objetivo": "Treinar aprofundamento (escuta do relevante, formulação de hipóteses e construção de perguntas) a partir do registro em texto de uma sessão com paciente simulado.",
+   "competencias": [
+    "Aprofundamento",
+    "Escuta clínica",
+    "Construção frasal",
+    "Intervenção"
+   ],
+   "configuracao": "Online; um monitorado analisa, o monitor conduz e compartilha a tela, o grupo acompanha como ouvinte (três ou quatro pessoas no início, só a dupla no fim).",
+   "tempo": "Cerca de 55 minutos para três trocas da sessão.",
+   "materiais": "Registro em texto de uma primeira sessão feita por outro terapeuta com o paciente simulado por IA; tela compartilhada com zoom e em modo claro; bloco de notas para registrar o raciocínio do monitorado.",
+   "consigna": "A partir do seu referencial, analise as intervenções da terapeuta com o objetivo do aprofundamento. Você pode dizer que faria diferente e por quê; eu vou avaliar e balizar a sua forma de aprofundar.",
+   "passos": [
+    "Perguntar o referencial do monitorado e apresentar o de quem atendeu.",
+    "Definir o tema-critério com um exemplo fora do caso.",
+    "Ler a fala do paciente (em voz alta ou em silêncio) e perguntar o que é relevante.",
+    "Pedir a frase exata que o monitorado diria e o porquê; registrar o raciocínio.",
+    "Mostrar a intervenção real do terapeuta e pedir que o monitorado a avalie pelo critério.",
+    "Repetir com a fala seguinte.",
+    "No fim, revelar o ponto não percebido (a forma do discurso) e pedir a avaliação da monitoria."
+   ],
+   "feedback": "Elogio específico seguido de um ponto de atenção. Critérios: pergunta aberta, uma de cada vez, sem pressupor a resposta, amplitude (várias hipóteses e espaço para uma terceira), conexão entre hipóteses, justificativa explícita. Fala em 'possibilidades diferentes' avaliadas pelo resultado, não em certo e errado.",
+   "exemplos_praticos": "No início, a monitorada descreve o que investigaria e junta perguntas; Diogo passa a pedir a frase exata. Na segunda troca, ela formula uma única pergunta aberta sobre como a paciente se sente ao perceber como é vista. Na terceira, parte da imagem trazida pela paciente ('além do espelho, como você se vê?'). Não percebe a forma do discurso porque atribuiu à IA as perguntas devolvidas.",
+   "variacoes": "Analisar o registro de outra pessoa com predição antes de ver a intervenção real permite que um estudante sem experiência clínica participe. Pode-se ler em voz alta ou deixar o monitorado ler em silêncio. O mesmo registro pode ser trabalhado com o autor do atendimento (como na mon-02, com Alan).",
+   "armadilhas": "No texto faltam os sinais (pausa, tom); o monitorado pode atribuir ao simulador o que é dado clínico; o tempo curto só permite poucas trocas (aceito pelo princípio do Alan: pouco e bem trabalhado); o monitorado pode ler as perguntas do monitor como crítica.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:13:33"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Ajusta a tarefa à insegurança do grupo",
+   "descricao": "Diante de participantes com medo de ser terapeuta, troca a simulação pela análise de um atendimento alheio e diz que a monitoria é o espaço para errar.",
+   "exemplo": "'Aqui é o espaço onde a gente pode colocar uma intervenção que talvez não faça sentido e obter feedback imediatamente.'",
+   "ts": "0:04:39"
+  },
+  {
+   "movimento": "Começa pelo referencial do monitorado",
+   "descricao": "Pergunta a abordagem com que a monitorada se identifica, pede que a explique e admite o que não sabe, para poder articular a análise com ela.",
+   "exemplo": "'Uma vez eu tinha entendido que a sócio-histórica era uma abordagem e me corrigiram, me explica.'",
+   "ts": "0:05:43"
+  },
+  {
+   "movimento": "Contextualiza o referencial de quem atendeu",
+   "descricao": "Resume a ACT antes de mostrar o registro, para que as intervenções sejam avaliadas sabendo de onde vêm.",
+   "exemplo": "Explica flexibilidade psicológica e crenças protetoras.",
+   "ts": "0:09:21"
+  },
+  {
+   "movimento": "Define o critério com exemplo próprio",
+   "descricao": "Define aprofundamento com uma frase hipotética dele, não do caso, e acolhe a hipótese extra da monitorada.",
+   "exemplo": "'Eu não me sinto chateado quando as pessoas me julgam.'",
+   "ts": "0:10:35"
+  },
+  {
+   "movimento": "Predição antes do gabarito",
+   "descricao": "Pede que a monitorada diga o que é relevante e o que perguntaria antes de mostrar a intervenção real.",
+   "exemplo": "'Com base nessa fala, o que você já consegue perceber que é relevante?'",
+   "ts": "0:18:00"
+  },
+  {
+   "movimento": "Pergunta pelo porquê e pela relação entre ideias",
+   "descricao": "Leva a monitorada a explicitar a origem da linha de investigação e a relacionar hipóteses.",
+   "exemplo": "'Qual é a relação entre essas duas coisas?'",
+   "ts": "0:22:42"
+  },
+  {
+   "movimento": "Registra o raciocínio por escrito",
+   "descricao": "Anota as falas da monitorada e usa as anotações para estruturar o feedback.",
+   "exemplo": "O arquivo se apaga e ele o recupera para devolver o raciocínio.",
+   "ts": "0:21:06"
+  },
+  {
+   "movimento": "Feedback 'legal e perigoso'",
+   "descricao": "Primeiro um elogio específico, depois o risco.",
+   "exemplo": "Elogia a recusa da pergunta já respondida e a pergunta aberta; alerta contra várias perguntas juntas.",
+   "ts": "0:26:37"
+  },
+  {
+   "movimento": "Ajusta a consigna sem culpar",
+   "descricao": "Ao perceber que a monitorada descrevia em vez de formular, passa a pedir a frase exata e diz que a pergunta anterior era mesmo sobre o raciocínio.",
+   "exemplo": "'Das próximas falas, vou pedir que você me diga exatamente o que perguntaria.'",
+   "ts": "0:28:44"
+  },
+  {
+   "movimento": "Desfaz a leitura de crítica",
+   "descricao": "Explica que perguntar por que ela reformulou não era uma crítica e pede desculpas se pareceu.",
+   "exemplo": "'Se pareceu que eu estava te criticando, não foi. Me desculpa.'",
+   "ts": "0:36:37"
+  },
+  {
+   "movimento": "Relativiza a partir da própria experiência",
+   "descricao": "Como estudante de último semestre com mais estágio, responde 'depende' e oferece saídas práticas.",
+   "exemplo": "Responder ou não à pergunta do paciente; mini-retratação.",
+   "ts": "0:37:25"
+  },
+  {
+   "movimento": "Nomeia o que o monitorado fez implicitamente",
+   "descricao": "Transforma a percepção intuitiva da monitorada em princípio explícito.",
+   "exemplo": "'Você traz um ponto de aprofundamento de forma implícita': a repetição.",
+   "ts": "1:00:28"
+  },
+  {
+   "movimento": "Guarda um ponto para ver se emerge",
+   "descricao": "Não direciona para a forma do discurso durante a análise e só a revela no fim, ligando-a à relação terapêutica.",
+   "exemplo": "'Eu não fiquei direcionando para ver se emergia em algum momento.'",
+   "ts": "1:05:35"
+  },
+  {
+   "movimento": "Fecha com avaliação do monitorado e devolutiva de progresso",
+   "descricao": "Pergunta se a monitoria foi útil e devolve o que ela fez bem e como evoluiu no encontro.",
+   "exemplo": "'No começo eu te fazia várias perguntas e você foi pegando o ritmo da monitoria.'",
+   "ts": "1:12:52"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Diante de uma afirmação categórica, pergunte-se por que o paciente precisa afirmá-la.",
+   "justificativa": "A negação enfática pode esconder o que se nega ou revelar uma defesa construída na história.",
+   "contexto": "Frases como 'não ligo', 'não me afeta', 'não tenho crise'.",
+   "competencia": "Aprofundamento",
+   "ts": "0:11:44"
+  },
+  {
+   "dica": "Saiba dizer por que está investigando um tema.",
+   "justificativa": "A consciência da própria linha de investigação permite relacionar hipóteses e escolher perguntas.",
+   "contexto": "Sempre; na supervisão, justifique cada caminho.",
+   "competencia": "Escuta clínica",
+   "ts": "0:21:06"
+  },
+  {
+   "dica": "Transforme impressões em hipóteses e teste-as com perguntas.",
+   "justificativa": "Impressões são inevitáveis e podem ser falsas; só elaboradas orientam a investigação.",
+   "contexto": "Primeiros minutos da sessão.",
+   "competencia": "Interpretação",
+   "ts": "0:26:37"
+  },
+  {
+   "dica": "Não pergunte o que o paciente já respondeu, mesmo que implicitamente.",
+   "justificativa": "Mostra atenção e reserva a pergunta para o que ainda não se sabe.",
+   "contexto": "Ao planejar a próxima pergunta.",
+   "competencia": "Escuta clínica",
+   "ts": "0:26:37"
+  },
+  {
+   "dica": "Prefira perguntas abertas no começo do atendimento.",
+   "justificativa": "Trazem tanto o que você supõe quanto o que você não imaginava; a fechada só confirma ou nega sua hipótese.",
+   "contexto": "Quando ainda há pouco material.",
+   "competencia": "Construção frasal",
+   "ts": "0:27:45"
+  },
+  {
+   "dica": "Faça uma pergunta de cada vez.",
+   "justificativa": "Com várias juntas, o paciente responde uma e as outras se perdem.",
+   "contexto": "Sempre, inclusive por texto.",
+   "competencia": "Construção frasal",
+   "ts": "0:28:44"
+  },
+  {
+   "dica": "Evite frases que nomeiam o estado do paciente antes dele.",
+   "justificativa": "Direcionam a resposta e podem ser tomadas como diagnóstico do especialista ('foi o que a doutora falou').",
+   "contexto": "Sobretudo em primeira sessão e com pacientes sugestionáveis.",
+   "competencia": "Intervenção",
+   "ts": "0:34:51"
+  },
+  {
+   "dica": "Decida caso a caso se responde à pergunta do paciente; se ele se incomodar, faça uma mini-retratação.",
+   "justificativa": "Não há regra fixa; no início, ignorar pode soar grosseiro, mas nem sempre soa.",
+   "contexto": "Paciente que devolve perguntas ao terapeuta.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:37:25"
+  },
+  {
+   "dica": "Construa perguntas que sirvam a mais de uma hipótese e deixem espaço para uma terceira.",
+   "justificativa": "No início nada está comprovado; a amplitude traz material sem impor uma leitura.",
+   "contexto": "Hipóteses concorrentes (por exemplo, insegurança ou controle).",
+   "competencia": "Aprofundamento",
+   "ts": "0:47:07"
+  },
+  {
+   "dica": "No início, amplie o material mas mantenha as hipóteses conectadas.",
+   "justificativa": "O caso é complexo e há pouco material; conectar elementos é o que permite aprofundar.",
+   "contexto": "Primeira sessão.",
+   "competencia": "Formulação de caso",
+   "ts": "0:51:55"
+  },
+  {
+   "dica": "Tire o 'se sim' das perguntas de auto-observação.",
+   "justificativa": "Pressupõe a resposta, empurra o paciente para uma afirmação e costuma vir junto com uma segunda pergunta.",
+   "contexto": "Ao convidar o paciente a se observar.",
+   "competencia": "Construção frasal",
+   "ts": "0:54:15"
+  },
+  {
+   "dica": "Procure repetições no discurso para achar o central do caso.",
+   "justificativa": "O que se repete em todas as respostas é pista do que organiza o caso.",
+   "contexto": "Desde as primeiras falas.",
+   "competencia": "Aprofundamento",
+   "ts": "1:00:28"
+  },
+  {
+   "dica": "Use a imagem que o próprio paciente trouxe como porta de entrada da intervenção.",
+   "justificativa": "Parte do tema identificado como central e fala a língua do paciente.",
+   "contexto": "Quando o paciente oferece uma metáfora (aqui, 'além do espelho').",
+   "competencia": "Intervenção",
+   "ts": "1:02:36"
+  },
+  {
+   "dica": "Observe a forma do discurso e a relação que o paciente propõe, além do conteúdo.",
+   "justificativa": "Perguntar de volta, buscar aprovação ou agredir são dados clínicos que muitas vezes confirmam o que o conteúdo sugere.",
+   "contexto": "Sempre.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:08:44"
+  },
+  {
+   "dica": "Não atribua ao meio (IA, texto, contexto atípico) o que pode ser dado clínico.",
+   "justificativa": "A monitorada achou que as perguntas eram 'coisa de IA' e deixou passar o padrão relacional.",
+   "contexto": "Atendimentos com simulador, por texto ou em situações atípicas.",
+   "competencia": "Escuta clínica",
+   "ts": "1:09:48"
+  },
+  {
+   "dica": "Em atendimento por texto, leia a pontuação como pista de fala, mas conte com a perda dos sinais.",
+   "justificativa": "No texto só aparecem os sintomas (o que se relata), não os sinais (o que se observa).",
+   "contexto": "Atendimento por texto ou mensagens de paciente fora do setting, inclusive em crise.",
+   "competencia": "Escuta clínica",
+   "ts": "1:04:26"
+  },
+  {
+   "dica": "Quando o paciente trata a sessão como conversa, investigue antes de concluir se é controle ou desconhecimento do que é terapia.",
+   "justificativa": "As duas hipóteses levam a intervenções diferentes; uma pergunta aberta sobre o que é estar em terapia agora ajuda a distinguir.",
+   "contexto": "Primeira sessão, paciente que pergunta muito sobre o terapeuta.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:23:11"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Aprofundar é ir além do literal e construir significados que o discurso não diz explicitamente.",
+   "argumento": "O paciente afirma coisas por razões que a afirmação não mostra; perguntar pela necessidade da frase abre várias leituras.",
+   "contraponto": "A leitura rasa, que toma a fala ao pé da letra.",
+   "implicacao": "Diante de cada fala, levantar mais de uma leitura antes de intervir.",
+   "quem": "Diogo",
+   "ts": "0:10:35"
+  },
+  {
+   "tese": "No início do atendimento, perguntas abertas e únicas são superiores a perguntas fechadas ou múltiplas.",
+   "argumento": "Com pouco material nenhuma hipótese está comprovada; a pergunta aberta traz o previsto e o imprevisto, e a múltipla dispersa a resposta.",
+   "contraponto": "As intervenções da terapeuta do registro, que juntam perguntas ou pressupõem a resposta.",
+   "implicacao": "Treinar a formulação de uma única pergunta aberta por vez.",
+   "quem": "Diogo",
+   "ts": "0:27:45"
+  },
+  {
+   "tese": "Na clínica é melhor falar em 'possibilidades diferentes' do que em certo e errado, mas o resultado precisa ser avaliado.",
+   "argumento": "As escolhas dependem do contexto e da preferência do profissional; o critério que resta é se a intervenção produziu bom resultado.",
+   "contraponto": "Avaliação dicotômica das intervenções. A monitorada concorda: 'erro e acerto é muito relativo'.",
+   "implicacao": "Na supervisão, avaliar pela consequência e pelo raciocínio, não por um gabarito.",
+   "quem": "Diogo",
+   "ts": "0:55:18"
+  },
+  {
+   "tese": "O central do caso pode aparecer muito cedo: tempo clínico não é tempo cronológico.",
+   "argumento": "Três trocas bastaram para o tema do olhar do outro se impor pela repetição.",
+   "contraponto": "O estereótipo de que o central demora a surgir. Ressalva: isso não é conhecer o caso inteiro.",
+   "implicacao": "Escutar desde o primeiro minuto em busca de padrões.",
+   "quem": "Diogo",
+   "ts": "1:03:22"
+  },
+  {
+   "tese": "A terapia não deveria, em regra, ser feita por texto.",
+   "argumento": "No texto se perdem os sinais (tom, pausa, ritmo, expressão) e sobra só o que a pessoa relata.",
+   "contraponto": "Casos muito excepcionais, como os de algumas pessoas com deficiência; e a forma do discurso ainda pode ser analisada no texto, com mais dificuldade.",
+   "implicacao": "Usar o texto como exceção e, quando usado, ler a forma escrita.",
+   "quem": "A monitorada, com a concordância de Diogo",
+   "ts": "1:04:26"
+  },
+  {
+   "tese": "O comportamento do paciente simulado deve ser lido como dado clínico, não como artefato da ferramenta.",
+   "argumento": "O simulador da Allos não é um chatbot genérico; as perguntas da paciente fazem sentido no caso e param quando a terapeuta se posiciona.",
+   "contraponto": "A leitura da monitorada: 'ela responde com pergunta porque é IA'.",
+   "implicacao": "Usar o simulador para treinar a leitura da forma e da relação, não só do conteúdo.",
+   "quem": "Diogo",
+   "ts": "1:09:48"
+  },
+  {
+   "tese": "Frases que antecipam o estado do paciente funcionam como pseudo-diagnóstico.",
+   "argumento": "O paciente pode se pautar na fala do terapeuta ('foi o que a doutora falou') e perder a chance de dizer o que sente.",
+   "contraponto": "Diogo ressalva que o risco depende do paciente.",
+   "implicacao": "Evitar comentários como 'às vezes a gente se sente perdido' no início.",
+   "quem": "A monitorada e Diogo",
+   "ts": "0:34:51"
+  },
+  {
+   "tese": "Na supervisão, profundidade vale mais do que extensão.",
+   "argumento": "Seguindo um princípio que atribui ao Alan: não importa ficar nas primeiras frases, desde que bem trabalhadas.",
+   "contraponto": "A pressa em ver o atendimento inteiro.",
+   "implicacao": "Planejar monitorias que param em poucas trocas e as esgotam.",
+   "quem": "Diogo (atribuindo a Alan)",
+   "ts": "1:12:52"
+  },
+  {
+   "tese": "A monitoria é o lugar certo para errar e deve incluir quem ainda não atende.",
+   "argumento": "Ali se pode propor uma intervenção que talvez não faça sentido e receber feedback imediato.",
+   "contraponto": "A insegurança dos participantes sem experiência.",
+   "implicacao": "Convidar estudantes sem estágio a assumir o papel central.",
+   "quem": "Diogo",
+   "ts": "0:04:39"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Aqui é o espaço justamente onde a gente pode colocar uma intervenção que talvez não faça tanto sentido e receber o feedback na hora.",
+   "tema": "formação",
+   "ts": "0:04:39"
+  },
+  {
+   "texto": "Aprofundar é conseguir, por meio do discurso, acessar informações menos óbvias da realidade do paciente e construir significados novos, mais complexos do que o óbvio.",
+   "tema": "aprofundamento",
+   "ts": "0:10:35"
+  },
+  {
+   "texto": "Se ele precisa afirmar que não se chateia, será que não está escondendo justamente isso?",
+   "tema": "interpretação",
+   "ts": "0:11:44"
+  },
+  {
+   "texto": "Impressões são inevitáveis, isso é humano. Quando mais elaboradas, elas se tornam hipóteses.",
+   "tema": "hipótese clínica",
+   "ts": "0:26:37"
+  },
+  {
+   "texto": "Perguntas abertas dão espaço para vir tanto o que a gente já estava imaginando quanto coisas novas que a gente não imaginava.",
+   "tema": "pergunta aberta",
+   "ts": "0:27:45"
+  },
+  {
+   "texto": "Quando for perguntar, sempre uma de cada vez.",
+   "tema": "construção frasal",
+   "ts": "0:28:44"
+  },
+  {
+   "texto": "É bom ou ruim responder à pergunta do paciente? Depende. Não existe resposta certa.",
+   "tema": "relação terapêutica",
+   "ts": "0:37:25"
+  },
+  {
+   "texto": "Eu gosto mais de falar que a gente tem possibilidades diferentes, mas a gente tem que saber avaliar se o resultado foi bom ou não.",
+   "tema": "certo e errado na clínica",
+   "ts": "0:55:18"
+  },
+  {
+   "texto": "Se algo se repete, é porque tem algo central ali. E aprofundar envolve chegar no central do caso.",
+   "tema": "repetição",
+   "ts": "1:00:28"
+  },
+  {
+   "texto": "O tempo clínico não é igual ao tempo cronológico.",
+   "tema": "tempo clínico",
+   "ts": "1:03:22"
+  },
+  {
+   "texto": "Todo discurso, terapêutico ou não, tem forma e conteúdo.",
+   "tema": "forma do discurso",
+   "ts": "1:08:44"
+  },
+  {
+   "texto": "Além dos conteúdos, olhe como esse conteúdo está sendo trazido e qual relação terapêutica está se estabelecendo.",
+   "tema": "relação terapêutica",
+   "ts": "1:09:48"
+  },
+  {
+   "texto": "Não importa se a gente fica nas primeiras frases do atendimento: a parte que a gente está desenvolvendo tem que ser bem trabalhada.",
+   "tema": "supervisão",
+   "ts": "1:12:52"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Ele diz que não liga para o que pensam dele. Você acredita?",
+   "mensagem": "Leitura rasa e leitura profunda: pergunte por que alguém precisa afirmar algo com tanta ênfase.",
+   "roteiro": [
+    "A frase: 'não me chateio quando me julgam'",
+    "Leitura rasa: acreditar",
+    "Leitura profunda 1: esconde justamente a mágoa",
+    "Leitura profunda 2: defesa construída na história",
+    "Leitura profunda 3: sentimento de superioridade",
+    "Aprofundar é multiplicar leituras antes de intervir"
+   ],
+   "corte_inicio": "0:10:35",
+   "corte_fim": "0:12:26"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "3 regras para perguntar no começo da terapia",
+   "mensagem": "Pergunta aberta, uma de cada vez, sem pressupor a resposta.",
+   "roteiro": [
+    "Aberta > fechada: 'você está controlando?' x 'por que agora?'",
+    "Uma de cada vez: com duas juntas, o paciente responde uma",
+    "Sem 'se sim': não pressuponha a resposta",
+    "Bônus: a pergunta que serve a duas hipóteses"
+   ],
+   "corte_inicio": "0:26:37",
+   "corte_fim": "0:29:43"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Tempo clínico não é tempo de relógio",
+   "mensagem": "O central de um caso pode aparecer nos primeiros minutos, se você escuta as repetições.",
+   "roteiro": [
+    "Mito: o essencial demora meses para aparecer",
+    "O que se repete é central",
+    "Tempo clínico ≠ tempo cronológico",
+    "Não é o caso inteiro, mas já é um fio"
+   ],
+   "corte_inicio": "1:00:28",
+   "corte_fim": "1:04:26"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "O paciente te fez uma pergunta. Responder ou não?",
+   "mensagem": "Depende do contexto; se ele se incomodar, uma mini-retratação resolve.",
+   "roteiro": [
+    "Não há regra fixa",
+    "No início, ignorar pode soar grosseiro, mas nem sempre soa",
+    "Se o paciente se incomodar, faça uma mini-retratação",
+    "Quando a pergunta se repete, ela vira dado clínico"
+   ],
+   "corte_inicio": "0:37:25",
+   "corte_fim": "0:38:27"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Terapia por mensagem funciona igual?",
+   "mensagem": "No texto só há sintomas, não sinais; por isso deve ser exceção, mas ainda dá para ler a forma escrita.",
+   "roteiro": [
+    "Sinais: o que o terapeuta observa",
+    "Sintomas: o que o paciente relata",
+    "O texto perde tom, pausa, ritmo",
+    "Exceções: situações muito específicas",
+    "Ainda assim: leia a forma escrita"
+   ],
+   "corte_inicio": "1:04:26",
+   "corte_fim": "1:05:35"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Todo discurso tem forma e conteúdo",
+   "mensagem": "Além do que o paciente diz, veja como diz e que relação ele propõe ao terapeuta.",
+   "roteiro": [
+    "Conteúdo: o que é dito",
+    "Forma: agressiva, passiva, perguntando de volta",
+    "A forma costuma confirmar o conteúdo",
+    "É na relação que a hipótese se confirma"
+   ],
+   "corte_inicio": "1:08:44",
+   "corte_fim": "1:10:43"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Nunca atendeu? Você já pode treinar clínica.",
+   "mensagem": "Na monitoria, iniciantes analisam o atendimento de outra pessoa com paciente simulado por IA e recebem feedback na hora, sem expor casos reais.",
+   "roteiro": [
+    "Medo de ser terapeuta pela primeira vez",
+    "A monitoria: analisar o atendimento de outra pessoa",
+    "Paciente simulado por IA: sem casos reais",
+    "Feedback imediato: aqui é para errar"
+   ],
+   "corte_inicio": "0:03:38",
+   "corte_fim": "0:04:39"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Lev Vigotski",
+   "contexto": "Citado como autor principal da psicologia sócio-histórica, referencial com que a monitorada se identifica."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria com Diogo (análise de atendimento simulado)",
+  "objetivo": "Acompanhamento de foco individual em que um terapeuta central analisa um caso e o monitor guia a análise segundo um tema clínico transversal (aqui, aprofundamento).",
+  "publico": "Estudantes e terapeutas em formação da Allos, inclusive quem ainda não fez estágio clínico; outros participantes como ouvintes.",
+  "tamanho": "Grupo pequeno: três ou quatro pessoas no início, só monitor e monitorada no fim.",
+  "duracao": "Cerca de 1h15.",
+  "estrutura_padrao": "Bate-papo → apresentação do formato → escolha do monitorado → referencial do monitorado e de quem atendeu → definição do tema-critério → ciclos de leitura (fala do paciente → relevância e pergunta do monitorado → intervenção real → avaliação) → revelação do ponto não percebido → avaliação da monitoria e devolutiva.",
+  "papel_facilitador": "Guia da análise: pergunta antes de avaliar, pede a frase exata e a justificativa, registra o raciocínio, dá feedback com um elogio e um ponto de atenção, guarda pontos para ver se emergem e dá a devolutiva final.",
+  "regras_combinados": "Sigilo (casos fictícios ou simulados); um terapeuta central; nesta edição, sem simulação ao vivo; câmera opcional; quem não pode participar (por exemplo, dirigindo) fica como ouvinte; o espaço é para errar."
+ },
+ "reflexoes_do_facilitador": [
+  "Diz que prefere compartilhar a tela em modo claro, diferente do Alan, que usava o escuro, e pede que o corrijam se estiver errado.",
+  "Percebe que a monitorada entendeu que devia descrever a análise e não formular a pergunta, e decide deixar a consigna mais clara nas falas seguintes.",
+  "Pede desculpas caso a pergunta sobre a reformulação tenha soado como crítica.",
+  "Conta que guardou de propósito a forma do discurso, sem direcionar, para ver se emergia sozinha.",
+  "Diz seguir um modelo que viu Alan praticar: não importa ficar nas primeiras frases, desde que bem trabalhadas; lamenta não ter dado tempo de ver mais do caso."
+ ],
+ "referencias_a_outros_encontros": [
+  "O registro analisado é, ao que tudo indica, o mesmo da mon-02 (Alan com a autora do atendimento).",
+  "Menciona que a terapeuta do registro esteve na Prática Clínica da noite anterior.",
+  "Menciona que Alan dava a monitoria antes dele.",
+  "Diz que, em casos futuros, a monitorada verá outros atendimentos com o simulador."
+ ],
+ "observacoes": "Legenda automática com muitos erros de nome: o supervisor aparece como 'de jogo' (Diogo); a terapeuta do registro, como 'Adrian', 'Aidren', 'Hidran' ou 'Idra' (a mesma associada do título da mon-02 e da mon-18); a monitorada, como 'Dara', 'Dário' ou 'Rodar'. 'Casos clínicosícios' foi lido como 'casos clínicos fictícios (?)'. O bate-papo inicial traz dados pessoais de participantes (saúde, idade, instituição), que foram omitidos de propósito. Diogo diz estar no 10º semestre, formando-se no ano. A discussão cobre apenas as três primeiras trocas da sessão simulada."
+}

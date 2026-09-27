@@ -1,0 +1,502 @@
+---
+tipo: "tese"
+tema: "Outras reflexões"
+n_teses: 98
+tags: ["tese"]
+---
+
+# Teses — Outras reflexões
+
+> [!abstract] 98 pontos de vista defendidos nos grupos e vídeos, cada um com o argumento, o contraponto e a implicação prática.
+> Ótimo ponto de partida para posts de opinião, debates em grupo e roteiros de vídeo.
+
+## Alan
+- **Não existe regra em terapia; quem passa regra é picareta. Mesmo assim, máximas ajudam.**
+  - *Argumento:* As regras gerais servem como tendências, não como dogmas.
+  - *Implicação prática:* Usar máximas clínicas como heurísticas.
+  - [[Alan 01 - Relação terapêutica tensionada]] [▶ 1:08:15](https://www.youtube.com/watch?v=EesAwF0Ee9E&t=4095s)
+- **A transparência quase nunca é agressiva, e a ironia agride menos que a condescendência.**
+  - *Argumento:* Narrar o raciocínio descreve em vez de cutucar; a ironia explícita vira comicidade; a condescendência é o meio-termo que fere.
+  - *Contra quem / contraponto:* A ironia pode não ser entendida; na primeira sessão, a transparência é mais segura.
+  - *Implicação prática:* Nunca ficar na meia-condescendência: escolher entre transparência e exagero irônico.
+  - [[Alan 02 - Construção frasal]] [▶ 0:51:48](https://www.youtube.com/watch?v=npsx_ip98fw&t=3108s)
+- **Entre método doutrinário e 'nova clínica para cada paciente', os dois polos são um só: sempre se tem uma posição absoluta, mesmo que seja relativizar.**
+  - *Argumento:* Reinventar tudo a cada caso também é uma regra.
+  - *Contra quem / contraponto:* A ilusão de uma clínica sem pressupostos.
+  - *Implicação prática:* Assumir o próprio absoluto e flexibilizá-lo conscientemente.
+  - [[Alan 05 - Cosmovisão e clínica 2]] [▶ 1:53:12](https://www.youtube.com/watch?v=7cGsqpFnYx0&t=6792s)
+- **O esquema concêntrico pode ser uma cama de Procusto.**
+  - *Argumento:* Força os fenômenos a se alinharem ao centro, podendo ser violento com conteúdos delicados.
+  - *Contra quem / contraponto:* Um participante acrescenta que o especialista pode errar o ponto do discurso quando a fala só parece ser sobre seu tema.
+  - *Implicação prática:* Suspender o centro quando algo pede para ser visto em si.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:16:21](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=4581s)
+- **Na maior parte do vídeo com Gloria, Perls faz um pré-atendimento, não um aprofundamento.**
+  - *Argumento:* Ele recusa o personagem e insiste para que a paciente apareça de verdade; qualquer afeto genuíno serviria.
+  - *Implicação prática:* Às vezes a primeira tarefa é criar a condição para haver o que aprofundar.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:26:01](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=5161s)
+- **Compreender vale mais que ser convencido por autoridade; mandar artigos ao paciente é puro apelo à autoridade.**
+  - *Argumento:* Quase ninguém lê artigos, nem muitos professores universitários; o português claro é acessível a todos.
+  - *Contra quem / contraponto:* A sugestão de uma supervisora de mandar listas de evidências (criticada com ressalvas, sem conhecer o caso).
+  - *Implicação prática:* Explicar em bom português; manter os artigos só de reserva.
+  - [[Alan 07 - Psicoeducação]] [▶ 0:47:43](https://www.youtube.com/watch?v=a7aECd72834&t=2863s)
+- **A anotação aberta deveria ser a regra.**
+  - *Argumento:* Favorece a relação e permite trabalhar as fantasias do paciente sobre as anotações.
+  - *Contra quem / contraponto:* Estilos e abordagens de anotação fechada.
+  - *Implicação prática:* Mostrar as notas ao paciente.
+  - [[Alan 07 - Psicoeducação]] [▶ 0:55:21](https://www.youtube.com/watch?v=a7aECd72834&t=3321s)
+- **A literatura relevante para um caso é a do seu tema real, não a da categoria a que parece pertencer.**
+  - *Argumento:* O poema 1 é sobre culpa; Crime e castigo ajuda mais que literatura sobre gênero ou psicologia trans.
+  - *Contra quem / contraponto:* Estudar o caso a partir do rótulo.
+  - *Implicação prática:* Depois de achar a imagem, buscar obras sobre ela.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 0:32:58](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=1978s)
+- **Caçar contradição no colega é improdutivo.**
+  - *Argumento:* Alan não vê utilidade; no papel mostra que aproximar coisas de natureza diferente para achar contradição faz perder o objeto ('tudo é poeira estelar').
+  - *Contra quem / contraponto:* A contradição apontada por Diogo (impressão contra fato) foi útil porque ligada a consequência clínica.
+  - *Implicação prática:* Apontar contradições só quando mudam a direção do caso.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 1:47:47](https://www.youtube.com/watch?v=VRappbW9ZNU&t=6467s)
+- **(No papel) Existem fugas e fugas: recuar para se reagrupar não é deserção.**
+  - *Argumento:* Distinção atribuída a Tolkien (?) entre a fuga do desertor (quebra de compromisso) e a do prisioneiro (ato de vontade).
+  - *Contra quem / contraponto:* Participante que igualou a saída do paciente ao recuo do terapeuta.
+  - *Implicação prática:* Não reagir no calor pode ser decisão clínica.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 1:30:38](https://www.youtube.com/watch?v=VRappbW9ZNU&t=5438s)
+- **Nenhum esquema está errado a priori; o correto é conhecer todos e combiná-los.**
+  - *Argumento:* Para cada esquema há uma situação clínica que o justifica; na prática, eles se aninham.
+  - *Contra quem / contraponto:* Preferências doutrinárias fixas ('minha abordagem manda priorizar assim').
+  - *Implicação prática:* Ampliar o repertório e escolher pelo caso.
+  - [[Alan 14 - Priorização clínica 1]] [▶ 0:57:07](https://www.youtube.com/watch?v=bhMBmA7D57s&t=3427s)
+- **Delegar a prioridade ao paciente pode ser pôr o lobo para cuidar do galinheiro.**
+  - *Argumento:* Em neuroses graves e dependências, quem decide é a parte doente (dissociação patológica).
+  - *Contra quem / contraponto:* A posição do terapeuta como puro 'meio', que nunca escolhe.
+  - *Implicação prática:* Delegar exige avaliar quem está falando.
+  - [[Alan 14 - Priorização clínica 1]] [▶ 0:12:58](https://www.youtube.com/watch?v=bhMBmA7D57s&t=778s)
+- **Os clínicos fora de série clinicam na vida.**
+  - *Argumento:* Os melhores que Alan conheceu, até alunos de terceiro ou quinto período, refletiam o tempo todo sobre as conversas cotidianas e refinavam categorias intuitivas.
+  - *Contra quem / contraponto:* 'Isso não é uma dica, é um problema': às vezes chega a ser antiético.
+  - *Implicação prática:* Praticar deliberadamente fora da clínica.
+  - [[Alan 14 - Priorização clínica 1]] [▶ 1:31:55](https://www.youtube.com/watch?v=bhMBmA7D57s&t=5515s)
+- **Às vezes é legítimo começar pelo mais fácil.**
+  - *Argumento:* Um ganho rápido e concreto mantém o paciente animado e em terapia.
+  - *Contra quem / contraponto:* Hierarquias rígidas por gravidade ou centralidade.
+  - *Implicação prática:* Considerar o que o paciente consegue resolver logo para fortalecer a adesão.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 0:51:14](https://www.youtube.com/watch?v=5S1N66EW-7w&t=3074s)
+- **A conversa natural leva ao aprofundamento, e o pente vai contra ela.**
+  - *Argumento:* A juíza nunca escolheu o pente, embora ele tenha sido executado acima da média.
+  - *Contra quem / contraponto:* Bem-feito, o pente alcança o assunto oculto (no caso, o relacionamento amoroso).
+  - *Implicação prática:* Recomendar o raio a iniciantes; usar o pente com domínio.
+  - [[Acervo 13 - Gincana de esquemas de aprofundamento com paciente simulado]] [▶ 1:05:45](https://www.youtube.com/watch?v=Az-CUC7SzOA&t=3945s)
+- **A prudência do terapeuta pode ser insegurança disfarçada.**
+  - *Argumento:* Se nada no caso justifica a cautela, ela provavelmente fala do terapeuta.
+  - *Contra quem / contraponto:* É de fato potente quando o paciente cai sozinho na própria contradição.
+  - *Implicação prática:* Buscar no caso o indício que sustenta a prudência.
+  - [[Acervo 13 - Gincana de esquemas de aprofundamento com paciente simulado]] [▶ 0:35:25](https://www.youtube.com/watch?v=Az-CUC7SzOA&t=2125s)
+- **Não há regras na terapia, mas há 'regrinhas de bolso'.**
+  - *Argumento:* Ajudam enquanto a intuição não se torna natural.
+  - *Implicação prática:* Formular regras operacionais e revisá-las.
+  - [[Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica]] [▶ 0:43:11](https://www.youtube.com/watch?v=VCS9TBtwiMY&t=2591s)
+- **Quem reclama da estrutura da terapia é o terapeuta, não o paciente.**
+  - *Argumento:* Em geral o paciente aceita gravação, trabalho corporal ou observadores; a preocupação é incutida pelo terapeuta.
+  - *Contra quem / contraponto:* Terapeutas que deixam de propor enquadres por medo da reação do paciente.
+  - *Implicação prática:* Propor a estrutura com segurança e explicá-la.
+  - [[Monitoria 04 - Alan - Relação terapêutica além do vínculo]] [▶ 0:36:41](https://www.youtube.com/watch?v=n81lyvBHys0&t=2201s)
+- **Mostrar abertamente o próprio jeito, com as suas unilateralidades, atrai mais do que o modelo genérico; nichar é economicamente viável.**
+  - *Argumento:* Os dados comentados por Hannah Fry (quem assume uma característica filtra quem a deseja); o contador especializado em psicólogos.
+  - *Contra quem / contraponto:* Um participante discorda de que essa seja a razão principal do nicho; Alan fala em múltiplos vetores.
+  - *Implicação prática:* Expor método e nicho sem medo.
+  - [[Monitoria 04 - Alan - Relação terapêutica além do vínculo]] [▶ 0:50:32](https://www.youtube.com/watch?v=n81lyvBHys0&t=3032s)
+- **É necessária a angústia de se ver perdido antes de achar uma direção.**
+  - *Argumento:* Da posição de quem acha que já sabe, a discussão genuína sobre escolha de referenciais é impossível.
+  - *Contra quem / contraponto:* Oferecer a sistematização logo (como Diogo propôs).
+  - *Implicação prática:* Adiar a ordem e sustentar a confusão.
+  - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] [▶ 1:27:47](https://www.youtube.com/watch?v=r4Q-Xi6Gntk&t=5267s)
+- **Terapeutas erram mais por passividade do que por excesso; o perigo real é não agir.**
+  - *Argumento:* Todos têm medo de uma construção agressiva demais, mas não do que deveriam temer: simplesmente levar a coisa do jeito que está indo.
+  - *Contra quem / contraponto:* Participantes que guardariam a recusa 'na manga'; a ressalva de que regra geral em terapia é 'coisa de picareta'.
+  - *Implicação prática:* Medir também o custo do que não se faz.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:14:33](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=873s)
+- **Acelerar é menos violento do que ir com calma.**
+  - *Argumento:* Acelerando, o paciente mostra quando não aguenta; indo devagar, é o terapeuta que decide pelo paciente o que ele aguenta.
+  - *Contra quem / contraponto:* A intuição de que ir devagar protege o paciente e o vínculo.
+  - *Implicação prática:* Ritmo mais rápido desde a primeira sessão, com atenção à resposta do paciente.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:27:33](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=1653s)
+- **Agir dentro da sessão é menos agressivo do que prescrever tarefa para casa.**
+  - *Argumento:* Na sessão há um clínico para manejar as consequências; fora dela o paciente está sozinho, fora do enquadre.
+  - *Contra quem / contraponto:* A impressão de que terapias que agem na sessão são agressivas.
+  - *Implicação prática:* Trazer a ação para o setting.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:57:52](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=3472s)
+- **Baixar a régua é um erro pedagógico e clínico.**
+  - *Argumento:* Quem não entende fica engajado porque quer entender; basta mantê-lo engajado, sem seguir o ritmo dele.
+  - *Contra quem / contraponto:* O professor que quer ser didático; o participante que sugeriu uma história infantil conhecida; a versão antiga do avaliador de IA.
+  - *Implicação prática:* Falar um passo à frente do paciente ou do aluno, sustentado pelo enquadre.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 1:28:58](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=5338s)
+- **Fatores de setting aparentemente banais pesam tanto quanto (ou mais que) a competência clínica.**
+  - *Argumento:* Na clínica da Allos, responder rápido reduziu muito a perda de pacientes, com impacto maior que a diferença entre o mais e o menos competente.
+  - *Contra quem / contraponto:* A ideia de que o resultado depende só da técnica em sessão.
+  - *Implicação prática:* Cuidar de agendamento, resposta, pontualidade e canal como parte da clínica.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 0:14:01](https://www.youtube.com/watch?v=do6RPg_flrg&t=841s)
+- **Dica clínica para quem não entende a problemática epistemológica da psicologia é mais veneno do que ajuda.**
+  - *Argumento:* Sem base epistêmica a dica vira regra, e a clínica é feita de exceções: toda pessoa atendida é uma exceção.
+  - *Contra quem / contraponto:* O ensino por dicas e receitas.
+  - *Implicação prática:* Na Allos, dicas e posições fortes vêm depois do módulo de epistemologia.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 0:34:43](https://www.youtube.com/watch?v=do6RPg_flrg&t=2083s)
+- **O paciente não precisa querer mudar nem dizer a verdade para a terapia funcionar.**
+  - *Argumento:* Propaganda, família e pressão econômica mudam as pessoas sem que elas queiram e sem conhecer a verdade delas.
+  - *Contra quem / contraponto:* A crença, ensinada na faculdade, de que o paciente precisa querer mudar; talvez certos jeitos de fazer terapia precisem disso.
+  - *Implicação prática:* Trabalhar mentira, relato de terceiros e racionalização como material clínico.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 1:05:33](https://www.youtube.com/watch?v=do6RPg_flrg&t=3933s)
+- **A clínica deve ser pensada como força (impacto contextual), não como forma (regras).**
+  - *Argumento:* Regras formais como 'não se aproxime do borderline' ignoram o estado do sujeito naquele dia.
+  - *Contra quem / contraponto:* O ensino por regras técnicas fixas.
+  - *Implicação prática:* Avaliar a cada momento quanto o paciente suporta.
+  - [[YT Avaliação Clínica 01 - Meu paciente está pronto - Estágios de mudança]] [▶ 0:07:41](https://www.youtube.com/watch?v=NJBRCNbPc3Q&t=461s)
+- **O bom senso social não se aplica à clínica, porque o clínico é responsável também pelo que não faz.**
+  - *Argumento:* Culturalmente e juridicamente a inação é menos punida que a ação, o que torna o trato social conservador; na clínica, omitir-se pode manter o paciente no sofrimento.
+  - *Contra quem / contraponto:* A regra 'falo com o outro como gostaria que falassem comigo'.
+  - *Implicação prática:* Tratar a omissão como decisão clínica com consequências.
+  - [[YT Avaliação Clínica 01 - Meu paciente está pronto - Estágios de mudança]] [▶ 0:12:29](https://www.youtube.com/watch?v=NJBRCNbPc3Q&t=749s)
+- **As regras de atendimento são, em boa parte, dogmas dos clínicos, não exigências dos pacientes.**
+  - *Argumento:* O paciente, como no consultório médico, raramente questiona o método, sobretudo se ele for explicado.
+  - *Contra quem / contraponto:* Autores e tradições que impõem regras rígidas; segundo Alan, muitos estruturaram mal suas propostas.
+  - *Implicação prática:* Examinar se uma regra serve ao caso ou ao conforto do terapeuta.
+  - [[YT Avaliação Clínica 01 - Meu paciente está pronto - Estágios de mudança]] [▶ 0:14:29](https://www.youtube.com/watch?v=NJBRCNbPc3Q&t=869s)
+- **Todo erro clínico é um acerto fora de contexto.**
+  - *Argumento:* As regras são gerais e cada uma tem dezenas de exceções.
+  - *Contra quem / contraponto:* A leitura dogmática de listas de dicas.
+  - *Implicação prática:* Usar as regras como ponto de partida e contextualizá-las.
+  - [[YT Avaliação Clínica 03 - Comecei na clínica, e agora]] [▶ 0:01:46](https://www.youtube.com/watch?v=JTso5qJYMNU&t=106s)
+- **Segurança e acolhimento se demonstram, não se anunciam.**
+  - *Argumento:* Anunciar ('aqui é um espaço seguro') gera estranhamento, como dizer num encontro que nunca bateu em namorada.
+  - *Contra quem / contraponto:* Roteiros de primeira sessão que recitam as regras do setting.
+  - *Implicação prática:* Substituir o anúncio pela postura; explicitar só o que precisa ser explicado.
+  - [[YT Avaliação Clínica 03 - Comecei na clínica, e agora]] [▶ 0:07:05](https://www.youtube.com/watch?v=JTso5qJYMNU&t=425s)
+- **O ideal é dominar muitos esquemas e mesclá-los.**
+  - *Argumento:* A mistura torna a conversa a mais natural e interessante possível, na clínica e na vida.
+  - *Contra quem / contraponto:* A fixação num único modelo.
+  - *Implicação prática:* Depois de dominar os básicos, combinar.
+  - [[YT Avaliação Clínica 05 - Como treinar sua escuta clínica - Um guia aprofundado]] [▶ 0:10:43](https://www.youtube.com/watch?v=pbCStH1GWgY&t=643s)
+- **A experiência do cliente muitas vezes conquista o paciente mais do que a potência da clínica.**
+  - *Argumento:* Gostamos das coisas pelo empacotamento, como o celular que chegou rápido ou o restaurante bem atendido.
+  - *Contra quem / contraponto:* Quem acha que só a técnica importa.
+  - *Implicação prática:* Cuidar de pontualidade, rapidez e educação desde o primeiro contato.
+  - [[YT Avaliação Clínica 06 - Dicas para quem está inseguro em começar a atender]] [▶ 0:14:11](https://www.youtube.com/watch?v=RPVjdqdzcMY&t=851s)
+- **Não existe abertura certa em si; ela deve ter nexo com o modo de trabalhar.**
+  - *Argumento:* Cada abertura puxa um tipo de material: associação livre, questão central, passado, futuro.
+  - *Contra quem / contraponto:* A busca de uma frase ideal para todos os pacientes.
+  - *Implicação prática:* Montar um repertório e escolher conforme a proposta e o paciente.
+  - [[YT Avaliação Clínica 07 - Abertura e encerramento de sessão clínica]] [▶ 0:01:54](https://www.youtube.com/watch?v=t1vRYiBKZFY&t=114s)
+- **Um quebra-gelo faz a pessoa contar mais do que o anúncio de sigilo.**
+  - *Argumento:* A entrega vem do aquecimento, não da garantia verbal.
+  - *Contra quem / contraponto:* O anúncio de ambiente seguro faz sentido em empresas e escolas.
+  - *Implicação prática:* Arriscar aberturas corporais e lúdicas.
+  - [[YT Avaliação Clínica 07 - Abertura e encerramento de sessão clínica]] [▶ 0:11:42](https://www.youtube.com/watch?v=t1vRYiBKZFY&t=702s)
+- **O erro mais comum de quem simula uma primeira sessão psicanalítica é agir como se a análise já tivesse começado.**
+  - *Argumento:* Nas entrevistas não há associação livre nem posição de analista; há entrevista, face a face.
+  - *Contra quem / contraponto:* A imagem do analista silencioso desde o primeiro minuto.
+  - *Implicação prática:* Conduzir as primeiras sessões como entrevistas ativas.
+  - [[YT Avaliação Clínica 09 - Entrevistas preliminares - como conduzir a primeira sessão em psicanálise]] [▶ 0:00:50](https://www.youtube.com/watch?v=UygS_g0ipl0&t=50s)
+- **A anamnese pode ser bem-feita, mas é difícil; a recomendação é não fazê-la.**
+  - *Argumento:* A estrutura em pente não aprofunda nada e não faz a pessoa sentir que algo aconteceu.
+  - *Contra quem / contraponto:* O ensino tradicional de anamnese na primeira sessão.
+  - *Implicação prática:* Usar esquemas de aprofundamento.
+  - [[YT Avaliação Clínica 10 - Primeira sessão em TCC - o que evitar]] [▶ 0:06:04](https://www.youtube.com/watch?v=zG7e2OoxWXU&t=364s)
+- **Responder rápido a um problema tenso é violento, mesmo quando a resposta está certa.**
+  - *Argumento:* Sugerir o óbvio a quem vive o problema há anos soa como chamá-lo de ignorante.
+  - *Contra quem / contraponto:* Depois de uma primeira sessão bem conduzida já se pode arriscar algo.
+  - *Implicação prática:* Segurar a solução no início.
+  - [[YT Avaliação Clínica 10 - Primeira sessão em TCC - o que evitar]] [▶ 0:21:59](https://www.youtube.com/watch?v=zG7e2OoxWXU&t=1319s)
+- **Formular regras gerais para psicoterapia é 'coisa de picareta'.**
+  - *Argumento:* As dicas descrevem a prevalência estatística de erros grosseiros, não leis.
+  - *Contra quem / contraponto:* O uso dogmático de listas de dicas, inclusive desta.
+  - *Implicação prática:* Tomar as regras com um grão de sal.
+  - [[YT Avaliação Clínica 10 - Primeira sessão em TCC - o que evitar]] [▶ 0:33:38](https://www.youtube.com/watch?v=zG7e2OoxWXU&t=2018s)
+- **Vinte minutos de sessão observada bastam para uma noção grosseira da qualidade clínica.**
+  - *Argumento:* Os critérios são básicos e estruturados; quem toma a clínica o faz nos primeiros minutos; experiência de ver milhares de atendimentos.
+  - *Contra quem / contraponto:* Objeção de que é pouco tempo; Alan reconhece que é uma noção grosseira, depois triangulada com outras fontes.
+  - *Implicação prática:* Avaliações curtas e repetíveis, complementadas por pares e dados clínicos.
+  - [[YT Avaliação Clínica 11 - Como entrar na Allos]] [▶ 0:22:41](https://www.youtube.com/watch?v=HlYGLPwRMFc&t=1361s)
+- **Nunca se validou seriamente um instrumento rápido e confiável de aptidão clínica, e o jeito óbvio de fazê-lo é ver a pessoa atender.**
+  - *Argumento:* A psicometria é madura e criativa, mas nunca se ocupou disso.
+  - *Implicação prática:* Avaliação por sessão observada com critérios explícitos.
+  - [[YT Avaliação Clínica 12 - Como funciona o instrumento de avaliação]] [▶ 0:01:58](https://www.youtube.com/watch?v=jYbUiWwmF2I&t=118s)
+- **O setting é o critério mais injusto, mas precisa ser avaliado.**
+  - *Argumento:* Falta de recursos é penalizada e depois resolvida pela instituição; falta de cuidado na própria avaliação sinaliza risco com pacientes reais; preconceitos de pacientes aparecem nos dados.
+  - *Contra quem / contraponto:* Pessoas sem recursos ou alvo de preconceito são prejudicadas.
+  - *Implicação prática:* Cuidar do enquadre online como parte da clínica.
+  - [[YT Avaliação Clínica 12 - Como funciona o instrumento de avaliação]] [▶ 0:20:43](https://www.youtube.com/watch?v=jYbUiWwmF2I&t=1243s)
+- **A principal falha dos avaliadores é não hierarquizar os problemas.**
+  - *Argumento:* Pontuam com precisão, mas não distinguem causa de consequência nem central de periférico.
+  - *Implicação prática:* Setas na folha de anotação e explicitação da causa-raiz.
+  - [[YT Avaliação Clínica 13 - Como estruturar o feedback clínico]] [▶ 0:12:02](https://www.youtube.com/watch?v=08PygIYaAP4&t=722s)
+- **A falta de diretrizes concretas é a principal fonte de incômodo com avaliações.**
+  - *Argumento:* Sem saber o que fazer, a crítica vira só frustração.
+  - *Implicação prática:* Dicas fáceis, exercício semanal e top três.
+  - [[YT Avaliação Clínica 13 - Como estruturar o feedback clínico]] [▶ 0:19:02](https://www.youtube.com/watch?v=08PygIYaAP4&t=1142s)
+- **O final é o que mais fica.**
+  - *Argumento:* Quem bateu na trave e não soube disso desiste.
+  - *Implicação prática:* Encerrar conforme a faixa de nota, com elogio e reavaliação marcada quando cabível.
+  - [[YT Avaliação Clínica 13 - Como estruturar o feedback clínico]] [▶ 0:22:47](https://www.youtube.com/watch?v=08PygIYaAP4&t=1367s)
+- **Conhecimento tácito deve ser codificado em processos e artefatos culturais.**
+  - *Argumento:* A transmissão passiva (ver outros avaliando) é lenta e desigual.
+  - *Contra quem / contraponto:* Estruturar não pode virar robotizar.
+  - *Implicação prática:* Guias, listas de etapas e modelos para avaliadores e formadores.
+  - [[YT Avaliação Clínica 13 - Como estruturar o feedback clínico]] [▶ 0:25:22](https://www.youtube.com/watch?v=08PygIYaAP4&t=1522s)
+- **O avaliador de sucesso é aquele cujo avaliado quer voltar e trazer colegas.**
+  - *Argumento:* Uma avaliação profissional e prazerosa atrai gente só pela experiência, o que melhora a seleção.
+  - *Implicação prática:* Medir o avaliador também pela experiência que ele proporciona.
+  - [[YT Avaliação Clínica 13 - Como estruturar o feedback clínico]] [▶ 0:26:16](https://www.youtube.com/watch?v=08PygIYaAP4&t=1576s)
+
+## Diogo
+- **Estatística e preconceito não se separam com facilidade.**
+  - *Argumento:* Há dados robustos sobre violências, mas não sobre as formas específicas que assumem em cada caso.
+  - *Contra quem / contraponto:* A crença de que 'dados' protegem contra o preconceito.
+  - *Implicação prática:* Usar a estatística como alerta, não como descrição do paciente.
+  - [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]] [▶ 0:06:30](https://www.youtube.com/watch?v=LnSuu9hHx0Q&t=390s)
+- **Uma fantasia vale pelo modo como foi construída.**
+  - *Argumento:* A que nasce do discurso e do funcionamento do paciente está próxima do psiquismo dele. A que nasce de foto ou média estatística, não.
+  - *Contra quem / contraponto:* Tratar toda impressão como 'intuição clínica'.
+  - *Implicação prática:* Não aprofundar a partir de estereótipos. Aprofundar quando a fantasia 'junta pontos' com outras observações.
+  - [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]] [▶ 1:15:48](https://www.youtube.com/watch?v=LnSuu9hHx0Q&t=4548s)
+- **O psicólogo, entre a cruz e a espada, às vezes precisa dar um passo atrás para dar um à frente.**
+  - *Argumento:* Pedir ao empresário que abra mão do lucro faz com que ele pare de ouvir; usar o discurso do lucro reproduz a lógica criticada; como na psicologia social, se a pessoa está morrendo de fome, primeiro se dá o peixe.
+  - *Contra quem / contraponto:* Posições puristas de um lado ou de outro.
+  - *Implicação prática:* Resolver o imediato dentro da lógica vigente e combatê-la por fora, também como categoria organizada.
+  - [[Acervo 11 - Vício em trabalho, precarização e saúde mental]] [▶ 0:49:10](https://www.youtube.com/watch?v=ieKRsSAxIPg&t=2950s)
+- **O sentimento do terapeuta é um termômetro clínico, mas perde validade quando contaminado por processos internos.**
+  - *Argumento:* O modo relacional do paciente se reproduz na sessão; se o termômetro está 'bagunçado', perde-se o dado.
+  - *Contra quem / contraponto:* O participante junguiano pergunta que outra métrica haveria para perceber a diferença de valor.
+  - *Implicação prática:* Usar o afeto como ferramenta só quando se sabe o que é seu.
+  - [[Acervo 14 - Crenças e valores divergentes entre paciente e terapeuta]] [▶ 0:22:59](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1379s)
+- **A psicologia deve ajudar o paciente a atuar politicamente na própria realidade em pautas sociais.**
+  - *Argumento:* Em casos de violência, acolher e investigar não bastam; informar sobre a rede de apoio é parte do trabalho.
+  - *Contra quem / contraponto:* Isso não significa psicoeducar moralmente o paciente; o racista já ouviu a correção.
+  - *Implicação prática:* Incluir recursos concretos quando o sofrimento passa por pautas sociais.
+  - [[Acervo 14 - Crenças e valores divergentes entre paciente e terapeuta]] [▶ 0:41:44](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2504s)
+- **Quanto mais global a habilidade, menos específica ela é, o que é ao mesmo tempo um problema e uma vantagem.**
+  - *Argumento:* É difícil definir com precisão algo tão geral, mas por isso mesmo a habilidade é maleável e se aplica de várias formas.
+  - *Contra quem / contraponto:* A busca de uma definição única e correta.
+  - *Implicação prática:* Pergunte que uso você faz da habilidade e se o executa bem, em vez de decorar definições.
+  - [[Acervo 15 - Habilidades terapêuticas e os usos da empatia]] [▶ 0:35:09](https://www.youtube.com/watch?v=eHYies2o_GA&t=2109s)
+- **Encerra-se a sessão com o movimento que se quer provocar, e não há fórmula única.**
+  - *Argumento:* Cada sessão pede um fechamento; importam a proximidade com a essência do atendimento e a clareza da intenção.
+  - *Contra quem / contraponto:* Buscar uma técnica padrão de encerramento.
+  - *Implicação prática:* Antes do fim, decidir entre segurança, contato e reflexão.
+  - [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 1:39:32](https://www.youtube.com/watch?v=n1iu-W8ujac&t=5972s)
+- **Quem não olha as próprias dificuldades não consegue analisar o caso.**
+  - *Argumento:* A dificuldade não vista continua agindo e compromete a compreensão.
+  - *Contra quem / contraponto:* A postura defensiva de mostrar só os acertos (inclusive na intervisão).
+  - *Implicação prática:* Autoavaliação, intervisão honesta, terapia pessoal.
+  - [[Acervo 17 - Fracasso clínico e seus fatores associados]] [▶ 0:19:56](https://www.youtube.com/watch?v=DYU5QdBDs1k&t=1196s)
+- **O terapeuta não é responsável pela mudança total do paciente.**
+  - *Argumento:* Uma hora em 168; ambiente e sono pesam; o terapeuta possibilita mudanças, que raramente serão perfeitas.
+  - *Contra quem / contraponto:* O próprio Diogo afirma a responsabilidade pelas dificuldades técnicas. A responsabilidade é pelo trabalho, não pelo resultado inteiro.
+  - *Implicação prática:* Mirar no processo; aliviar a autocobrança por resultado.
+  - [[Acervo 17 - Fracasso clínico e seus fatores associados]] [▶ 0:26:56](https://www.youtube.com/watch?v=DYU5QdBDs1k&t=1616s)
+- **'Falta de habilidades' é um fator genérico demais para orientar a discussão.**
+  - *Argumento:* É amplo e óbvio; o útil é a tipologia de habilidades (técnica, conceitual, relacional, cultural).
+  - *Contra quem / contraponto:* Listas de fatores que explicam tudo e nada.
+  - *Implicação prática:* Trabalhar fatores específicos e acionáveis.
+  - [[Acervo 17 - Fracasso clínico e seus fatores associados]] [▶ 1:08:03](https://www.youtube.com/watch?v=DYU5QdBDs1k&t=4083s)
+- **Sempre desconfie de afirmações universais sobre o significado de gestos e expressões.**
+  - *Argumento:* É muito difícil observar algo que ocorra do mesmo modo em todas as pessoas; pode valer para um caso, não como reflexo absoluto.
+  - *Contra quem / contraponto:* Divulgação popular de linguagem corporal (microexpressões, O corpo fala).
+  - *Implicação prática:* Ler sinais no contexto e na linha de base do paciente.
+  - [[Acervo 23 - Comunicação não verbal na clínica]] [▶ 0:10:12](https://www.youtube.com/watch?v=MHBD5THDIXE&t=612s)
+- **Online e presencial são ambientes diferentes, com ganhos e perdas; a resposta é 'depende'.**
+  - *Argumento:* O online limita enquadramento e luz, mas amplia alcance, e há quem se expresse com mais verdade em casa.
+  - *Contra quem / contraponto:* Desqualificação do online e, no outro extremo, equivalência total com o presencial.
+  - *Implicação prática:* Escolher o formato pelo paciente e pelo momento clínico.
+  - [[Acervo 23 - Comunicação não verbal na clínica]] [▶ 0:22:41](https://www.youtube.com/watch?v=MHBD5THDIXE&t=1361s)
+- **Psicologizar o orgânico é erro clínico e invalidação.**
+  - *Argumento:* Dizer que um paciente com Alzheimer 'recalca o esquecimento' confunde uma questão orgânica com um mecanismo psíquico.
+  - *Contra quem / contraponto:* Leituras psicológicas totalizantes de sintomas físicos.
+  - *Implicação prática:* Exames e avaliação médica como parte do raciocínio diferencial.
+  - [[Acervo 24 - Cuidados básicos de saúde na clínica]] [▶ 0:54:22](https://www.youtube.com/watch?v=QKoZq_lBSaw&t=3262s)
+- **Formal não é técnico.**
+  - *Argumento:* Dá para definir um conceito formalmente sem jargão, e a formalidade pode ajudar alguns pacientes a se organizarem.
+  - *Contra quem / contraponto:* Participante que preferia o informal 'para não gerar dúvidas', confundindo formalidade com tecnicismo.
+  - *Implicação prática:* Ajustar o registro ao paciente e investigar por que cada registro funciona.
+  - [[Acervo 25 - Linguagem clínica e função da intervenção]] [▶ 0:54:44](https://www.youtube.com/watch?v=gVE5nBobukU&t=3284s)
+- **Nem tudo que acontece na sessão é material clínico.**
+  - *Argumento:* Há acasos e intercorrências; psicologizar tudo distorce a compreensão do caso ('às vezes o paciente só está com sede').
+  - *Contra quem / contraponto:* Uma participante defende que 'tudo que acontece na clínica é material'; Diogo aceita o pressuposto de relevância, mas não o de centralidade automática.
+  - *Implicação prática:* Dar peso a um evento pela recorrência e pelo contexto.
+  - [[Acervo 25 - Linguagem clínica e função da intervenção]] [▶ 0:40:14](https://www.youtube.com/watch?v=gVE5nBobukU&t=2414s)
+- **A forma do discurso pode virar conteúdo: a ausência de dados é um dado.**
+  - *Argumento:* Se o paciente não nomeia problema concreto, isso corrobora no nível subentendido o que ele diz explicitamente.
+  - *Contra quem / contraponto:* A leitura do monitorado de que a fantasia genérica era só limitação dele.
+  - *Implicação prática:* Observar o que o paciente não diz e como fala.
+  - [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] [▶ 0:23:05](https://www.youtube.com/watch?v=zwWy-So8fk8&t=1385s)
+- **Um setting leve demais pode dificultar a generalização dos ganhos, mas às vezes é justamente ele que muda tudo.**
+  - *Argumento:* O que é fácil no consultório pode não passar para a vida; porém Diogo viu uma terapeuta criar um ambiente livre em que surgiram novos repertórios ('sem zerar o ambiente aversivo, não muda nada').
+  - *Contra quem / contraponto:* O próprio argumento anterior de Diogo, com o qual admite ter 'quebrado a cara'.
+  - *Implicação prática:* Não descartar a proposta de um espaço diferente, cuidando da ponte para a vida real e do risco de desestruturar.
+  - [[Monitoria 16 - Diogo - Autenticidade e ser verdadeiro na clínica]] [▶ 0:55:33](https://www.youtube.com/watch?v=LSaS_1EaQzY&t=3333s)
+- **'É o meu jeito' pode ser um discurso de irresponsabilização.**
+  - *Argumento:* Justificar-se por uma identidade fixa tira de cena a escolha.
+  - *Contra quem / contraponto:* Ressalva do próprio Diogo: talvez não se aplique a este paciente.
+  - *Implicação prática:* Explorar a função do 'é o meu jeito' em vez de aceitá-lo ou combatê-lo.
+  - [[Monitoria 17 - Diogo - Perguntas abertas, hipótese e movimento clínico]] [▶ 0:45:49](https://www.youtube.com/watch?v=4I-WY_26yuw&t=2749s)
+- **Fugir de vez em quando é saudável; fugir como regra é perigoso.**
+  - *Argumento:* Quem tem a fuga como modo de funcionamento não consegue lidar com nada; em sessão o contato pode ser contido.
+  - *Implicação prática:* Pôr o paciente em contato com o conteúdo evitado, com clareza e contenção.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 0:33:16](https://www.youtube.com/watch?v=spFIOJh7XzE&t=1996s)
+- **Os sentimentos do terapeuta são tão importantes quanto os do paciente para definir o caminho clínico.**
+  - *Argumento:* A irritação da monitorada sinalizou a resistência e orientou a direção.
+  - *Contra quem / contraponto:* A ideia de que, por ser o lugar do paciente, a terapia deveria deixar de fora o que o terapeuta sente.
+  - *Implicação prática:* Monitorar o próprio afeto em sessão e usá-lo como dado.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 0:34:24](https://www.youtube.com/watch?v=ju1ShOijRrg&t=2064s)
+- **Saber não é fazer.**
+  - *Argumento:* Os estímulos que controlam o saber não são os que controlam a ação.
+  - *Contra quem / contraponto:* A aposta em apontar racionalmente ao paciente o que ele deveria mudar.
+  - *Implicação prática:* Trabalhar pela experiência em sessão e pela avaliação do estágio de mudança, não só por insight.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 0:58:56](https://www.youtube.com/watch?v=ju1ShOijRrg&t=3536s)
+- **A terapia não deve criar dependência.**
+  - *Argumento:* A meta é o paciente não precisar mais de terapia; o terapeuta não controla a mudança, e o paciente tem autonomia.
+  - *Implicação prática:* Quando a terapia vira só alívio, conversar sobre perspectiva de mudança.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 1:00:58](https://www.youtube.com/watch?v=ju1ShOijRrg&t=3658s)
+- **Quem está muito resistente é porque é, ou se sente, atacado; suspender as armas desarma a resistência.**
+  - *Argumento:* Atacar de novo aumenta a defesa; sem ataque, não há por que resistir.
+  - *Implicação prática:* Diante de uma escalada, recuar e surpreender em vez de insistir.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 1:15:36](https://www.youtube.com/watch?v=ju1ShOijRrg&t=4536s)
+- **A terapia não deveria, em regra, ser feita por texto.**
+  - *Argumento:* No texto se perdem os sinais (tom, pausa, ritmo, expressão) e sobra só o que a pessoa relata.
+  - *Contra quem / contraponto:* Casos muito excepcionais, como os de algumas pessoas com deficiência; e a forma do discurso ainda pode ser analisada no texto, com mais dificuldade.
+  - *Implicação prática:* Usar o texto como exceção e, quando usado, ler a forma escrita.
+  - [[Monitoria 20 - Diogo - Aprofundamento na análise de atendimento simulado]] [▶ 1:04:26](https://www.youtube.com/watch?v=92xFTaRaDYg&t=3866s)
+
+## João de Bragança
+- **Terapia por sugestão e garantias são sinais de terapia ruim.**
+  - *Argumento:* O terapeuta prevê o que vai acontecer se a paciente obedecer; num problema relacional nada pode ser garantido.
+  - *Contra quem / contraponto:* O público que acha que 'meia hora com ele resolveria minha vida'.
+  - *Implicação prática:* Formular tarefas como experimentos, sem prometer resultado.
+  - [[Monitoria 06 - João de Bragança - Critérios de uma terapia ruim]] [▶ 1:02:28](https://www.youtube.com/watch?v=9QbVz3nle0E&t=3748s)
+- **O psicólogo pode recusar ou encaminhar um caso, e às vezes deve.**
+  - *Argumento:* A relação depende de o terapeuta conseguir estar presente e suspender julgamentos; insistir sem isso pode ser menos responsável.
+  - *Contra quem / contraponto:* Colegas da medicina que acham absurdo negar atendimento; o dano de romper vínculos (risco suicida).
+  - *Implicação prática:* Encaminhamento como decisão clínica pesada caso a caso.
+  - [[Monitoria 07 - João de Bragança - Limites do terapeuta e confronto]] [▶ 0:01:58](https://www.youtube.com/watch?v=zsZasKwhGLI&t=118s)
+- **O explícito é preferível ao implícito quando algo preocupa o terapeuta na relação.**
+  - *Argumento:* Guardar o medo 'na própria cabeça' gera condução velada; dizê-lo abre uma conversa que preserva ganhos e compromisso.
+  - *Contra quem / contraponto:* Construir tudo 'na maciota'; a máxima de supervisão de que explicar tira a potência.
+  - *Implicação prática:* Nomear riscos e expectativas em voz alta, sobretudo quando envolvem o enquadre.
+  - [[Monitoria 08 - João de Bragança - MAPA e o papel do paciente]] [▶ 0:28:17](https://www.youtube.com/watch?v=WDkH3mWKmew&t=1697s)
+- **Trabalhar psicologicamente com uma dor não exige supor que sua causa seja psicológica.**
+  - *Argumento:* Há uma mentalidade de buscar causas a todo custo; médicos encaminham por exclusão; às vezes a causa só não foi descoberta; é possível trabalhar afetações.
+  - *Contra quem / contraponto:* A interpretação da dor como alarme e o modelo biopsicossocial da aluna ('segundo cérebro').
+  - *Implicação prática:* Intervir sobre como a dor afeta a vida, sem apostar a sessão numa causalidade psicológica.
+  - [[Monitoria 10 - João de Bragança - Dor somática, resistência e hipóteses revisáveis]] [▶ 0:51:52](https://www.youtube.com/watch?v=8Ii4P31GGsU&t=3112s)
+- **Na primeira sessão é muito importante mapear expectativas e visão do paciente sobre a psicoterapia.**
+  - *Argumento:* Faz o paciente refletir sobre preconceitos que nem sabia ter, suaviza o processo e substitui a especulação sobre resistência.
+  - *Contra quem / contraponto:* A escolha justificada da aluna de validar a dor em vez de psicoeducar.
+  - *Implicação prática:* Incluir expectativas no roteiro das entrevistas iniciais.
+  - [[Monitoria 10 - João de Bragança - Dor somática, resistência e hipóteses revisáveis]] [▶ 1:02:02](https://www.youtube.com/watch?v=8Ii4P31GGsU&t=3722s)
+
+## Rodolfo
+- **Desconforto no encerramento não é, por si, erro clínico.**
+  - *Argumento:* Frustração ou confusão podem ser efeito pretendido (corte) ou o preço de ouvir o necessário; relatos mostram impacto positivo depois.
+  - *Contra quem / contraponto:* A ideia de que a sessão deve terminar sempre confortável.
+  - *Implicação prática:* Avaliar o encerramento pela condução e pelo manejo, não pelo conforto imediato.
+  - [[Acervo 22 - Formas de encerrar a sessão]] [▶ 0:03:38](https://www.youtube.com/watch?v=7zGA_xgbZg8&t=218s)
+- **Os esquemas de aprofundamento do Alan sistematizam algo pouco teorizado.**
+  - *Argumento:* Alan refletiu sobre como o aprofundamento acontece, algo sobre o qual quase ninguém refletia e sem literatura própria.
+  - *Contra quem / contraponto:* Formação que ensina o que perguntar mas não como.
+  - *Implicação prática:* Usar os esquemas, como o pente, também como ferramenta de encerramento.
+  - [[Acervo 22 - Formas de encerrar a sessão]] [▶ 0:20:08](https://www.youtube.com/watch?v=7zGA_xgbZg8&t=1208s)
+
+## Outros facilitadores e participantes
+- **As pessoas falam mais quando falam de um terceiro.**
+  - *Argumento:* O deslocamento dá liberdade para dizer o que se pensa, 'como se não fosse dela'.
+  - *Contra quem / contraponto:* Outro participante e Rodolfo propõem perguntar diretamente sobre a pessoa para trazer o concreto.
+  - *Implicação prática:* Escolher entre o geral e o pessoal conforme a defesa do paciente.
+  - Participante que fez o terapeuta · [[Acervo 04 - Construção frasal em roleplay com pausas]] [▶ 0:53:25](https://www.youtube.com/watch?v=GCM5FpoEXXk&t=3205s)
+- **O que se traz à sessão deve estar 'a serviço' do paciente, e o como importa mais que o quê.**
+  - *Argumento:* Uma observação correta dita de qualquer jeito pode ofender. Guardada até o momento certo, pode ter grande efeito.
+  - *Contra quem / contraponto:* Apontamentos imediatos e literais sobre aparência.
+  - *Implicação prática:* Escolher o momento e a forma do apontamento corporal.
+  - Colaboradora (participante) · [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] [▶ 0:57:32](https://www.youtube.com/watch?v=IpexSTnbrGo&t=3452s)
+- **Quem se considera sem sentimentos no setting produz uma clínica mecanizada.**
+  - *Argumento:* Terapeuta e paciente estão vulneráveis: o terapeuta se abre para ouvir uma história e interferir nela.
+  - *Contra quem / contraponto:* O ideal de neutralidade de super-herói.
+  - *Implicação prática:* Reconhecer e trabalhar a própria vulnerabilidade.
+  - Tainá · [[Acervo 08 - Como a clínica atravessa o terapeuta]] [▶ 1:21:43](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4903s)
+- **'Parar' não existe psiquicamente; o que falta é reconhecer o trabalho interior como trabalho.**
+  - *Argumento:* A energia psíquica sempre busca direção; barrada, estoura (burnout) ou encontra outra vazão; o mundo interno é tratado como inexistente por certa visão cultural e científica.
+  - *Contra quem / contraponto:* A visão que só valoriza a adaptação ao mundo externo.
+  - *Implicação prática:* Reenquadrar pausas como trabalho de elaboração.
+  - Vinícius (participante) · [[Acervo 11 - Vício em trabalho, precarização e saúde mental]] [▶ 0:13:14](https://www.youtube.com/watch?v=ieKRsSAxIPg&t=794s)
+- **A saúde mental é coletiva e política.**
+  - *Argumento:* O que se discute ultrapassa o mundo interno: envolve o que o país considera trabalho, privilégios e mobilizações como o fim da escala 6x1; saúde social e agência coletiva produzem pertencimento e mudanças.
+  - *Contra quem / contraponto:* A clínica exclusivamente individual.
+  - *Implicação prática:* Conectar-se a outros profissionais e movimentos; olhar também para a própria categoria.
+  - Adria (?) · [[Acervo 11 - Vício em trabalho, precarização e saúde mental]] [▶ 0:37:04](https://www.youtube.com/watch?v=ieKRsSAxIPg&t=2224s)
+- **O psicólogo não deve ocupar a posição de salvador nas organizações.**
+  - *Argumento:* Essa expectativa adoece o profissional; mudanças reais vêm de redesenhar sistemas com as pessoas, e com visão de longo prazo.
+  - *Contra quem / contraponto:* A expectativa da empresa (e dos funcionários) de que 'a psicóloga vai mudar tudo'.
+  - *Implicação prática:* Trabalhar com a cultura e a liderança, não só com o indivíduo; aceitar ganhos parciais.
+  - Adria (?) · [[Acervo 11 - Vício em trabalho, precarização e saúde mental]] [▶ 0:54:42](https://www.youtube.com/watch?v=ieKRsSAxIPg&t=3282s)
+- **Todo sentimento do terapeuta é próprio; o que muda é o grau de elaboração.**
+  - *Argumento:* Não é possível separar 'o que é meu' do 'que é da relação'; elaborado, o sentimento vira bússola; mal elaborado, preconceito.
+  - *Contra quem / contraponto:* Diverge da distinção meu/nosso proposta pela participante psicanalista.
+  - *Implicação prática:* Terapia pessoal como refinamento do instrumento, e não como anestesia.
+  - Participante (leitura junguiana) · [[Acervo 14 - Crenças e valores divergentes entre paciente e terapeuta]] [▶ 1:04:57](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3897s)
+- **Na terapia, o que dá vontade de dizer deve ser dito.**
+  - *Argumento:* É 'o segredo da psicoterapia'; o impulso contido, inclusive a irritação com o terapeuta, é material de trabalho.
+  - *Contra quem / contraponto:* A postura polida do paciente-psicólogo que se censura porque 'o terapeuta tem razão'.
+  - *Implicação prática:* Vale para a terapia pessoal do terapeuta e como convite ao paciente.
+  - Mateus · [[Acervo 19 - Dinâmica de troca - roleplay em revezamento]] [▶ 0:43:20](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2600s)
+- **A psicologia é posicionada: diante da injustiça, o plantonista deve nomear a gravidade.**
+  - *Argumento:* Validar a seriedade do que se viveu (por exemplo, violência doméstica como crime) exige coragem e pode mobilizar uma raiva útil à mudança.
+  - *Contra quem / contraponto:* Uma neutralidade que reforça a banalização do próprio sofrimento.
+  - *Implicação prática:* Validação explícita e direcionamento da indignação.
+  - Malu · [[Acervo 20 - Mesa de estudos sobre plantão psicológico]] [▶ 0:56:15](https://www.youtube.com/watch?v=PmJtmPKYBSY&t=3375s)
+- **O plantão presencial é um lugar de resistência, e o online traz barreiras próprias.**
+  - *Argumento:* O presencial abre uma brecha num dia caótico; no online há mais faltas, uma barreira de presença e talvez uma expectativa de 'telemedicina'.
+  - *Contra quem / contraponto:* Malu pondera que parte do problema pode ser o agendamento, e não só o meio online.
+  - *Implicação prática:* Preparar os plantonistas para acolher a distância e reduzir faltas.
+  - Cindy (?) e Malu · [[Acervo 20 - Mesa de estudos sobre plantão psicológico]] [▶ 0:38:21](https://www.youtube.com/watch?v=PmJtmPKYBSY&t=2301s)
+- **Atrás do dragão está o tesouro.**
+  - *Argumento:* História do Santo Graal: o tesouro nunca encontrado está no caminho mais escuro, por onde ninguém passou.
+  - *Contra quem / contraponto:* Priorizar apenas o que é confortável ou fácil para o paciente.
+  - *Implicação prática:* Dirigir-se, no tempo certo, ao que o paciente mais teme ou desconhece.
+  - Facilitador · [[Acervo 21 - Critérios para priorizar o discurso do paciente]] [▶ 0:33:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2009s)
+- **Em geral vale a pena delimitar o papel do paciente, exceto em casos de acolhimento extremo.**
+  - *Argumento:* O fim da terapia é a autonomia; mas quem chega muito fragilizado não consegue ouvir um pedido de contribuição.
+  - *Contra quem / contraponto:* Deixar o papel sempre implícito.
+  - *Implicação prática:* Introduzir a responsabilidade conforme o ego se estrutura.
+  - Um participante · [[Monitoria 08 - João de Bragança - MAPA e o papel do paciente]] [▶ 0:58:01](https://www.youtube.com/watch?v=WDkH3mWKmew&t=3481s)
+- **Não existe tempo certo para um cliente se tornar congruente.**
+  - *Argumento:* Cada cliente tem uma história singular; o tempo depende da condução, da personalidade e do processo.
+  - *Contra quem / contraponto:* Pergunta de participante sobre dez meses de terapia.
+  - *Implicação prática:* Respeitar o ritmo do paciente sem se frustrar.
+  - Monitorado · [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] [▶ 0:50:53](https://www.youtube.com/watch?v=rFd2HjdymmM&t=3053s)
+- **Se não houvesse o sintoma psicossomático, o jeito reservado do paciente poderia ser só um modo de amar; o sintoma mostra que não está saudável.**
+  - *Argumento:* Há quem demonstre amor de outras formas; mas a dor indica sofrimento ligado a não expressar o que sente.
+  - *Contra quem / contraponto:* O paciente: 'é o meu jeito'.
+  - *Implicação prática:* Usar o sintoma como critério para decidir se um traço é problema clínico.
+  - Participante (monitorada) · [[Monitoria 17 - Diogo - Perguntas abertas, hipótese e movimento clínico]] [▶ 0:44:43](https://www.youtube.com/watch?v=4I-WY_26yuw&t=2683s)
+- **A forma de aplicar a escala determina a qualidade do dado.**
+  - *Argumento:* A burocracia gera respostas descuidadas; o efeito Hawthorne infla as notas.
+  - *Implicação prática:* Explicar, pedir honestidade e pedir a menor nota possível.
+  - Bernardo · [[PD 05 - Problemas da mensuração, aliança e auto-observação]] [▶ 0:13:49](https://www.youtube.com/watch?v=7aHutJ-HDWk&t=829s)
+- **Pequenas melhoras individuais têm grande impacto acumulado.**
+  - *Argumento:* Imel e colegas: diferença mínima de eficácia rende quatro vezes mais pessoas recuperadas em uma década; 'o diabo mora nos detalhes'.
+  - *Contra quem / contraponto:* Ideia de que só grandes saltos importam.
+  - *Implicação prática:* Investir em ajustes finos e graduais.
+  - Bernardo (a partir do livro) · [[PD 06 - Métricas de resultado e a tocha na caverna]] [▶ 0:33:37](https://www.youtube.com/watch?v=MHDlojceuEk&t=2017s)
+- **Tendemos a superestimar nossa influência nos resultados.**
+  - *Argumento:* Tempo, eventos aleatórios e imprecisão da medida mexem nos escores; daí o índice de mudança confiável.
+  - *Contra quem / contraponto:* Terapeuta que credita à terapia toda melhora.
+  - *Implicação prática:* Usar critérios de mudança confiável e clinicamente significativa.
+  - Bernardo (a partir do livro) · [[PD 06 - Métricas de resultado e a tocha na caverna]] [▶ 0:40:37](https://www.youtube.com/watch?v=MHDlojceuEk&t=2437s)
+- **Boa intenção não dispensa consentimento na gravação.**
+  - *Argumento:* O paciente precisa saber onde a gravação vai parar; ela pode vazar; há regras institucionais na graduação.
+  - *Contra quem / contraponto:* Gravação escondida 'por desespero', para estudar.
+  - *Implicação prática:* Termo de consentimento sempre; autorização institucional na clínica-escola.
+  - Bernardo · [[PD 07 - Caso Eta e o modo de aplicar escalas]] [▶ 0:47:36](https://www.youtube.com/watch?v=CgJ7V3S3CT0&t=2856s)
+- **Ser totalmente consistente como terapeuta é impossível, mas é possível se aproximar.**
+  - *Argumento:* Cada paciente é outra realidade; estado emocional, cansaço e lugar na relação variam; com certas atitudes e medição, dá para se adaptar melhor.
+  - *Contra quem / contraponto:* O modelo fast food (McDonald's).
+  - *Implicação prática:* Buscar mecanismos de correção em vez de fingir constância.
+  - Bernardo (a partir do livro) · [[PD 08 - Monitoramento rotineiro e como pedir feedback]] [▶ 0:12:42](https://www.youtube.com/watch?v=14Zp9T2ptSA&t=762s)
+
+## Relacionados
+- [[MOC - Teses e posicionamentos]]

@@ -1,0 +1,831 @@
+{
+  "id": "pc-06",
+  "nota": "Prática Clínica 06 - Raciocínio clínico, memória e decisão ética",
+  "pasta": "10 - Fichamentos/Prática Clínica",
+  "titulo": "Raciocínio clínico, memória e decisão ética",
+  "serie": "Prática clínica",
+  "formato": "Prática clínica",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Alan retoma a taxonomia da série (setting, escuta, raciocínio, comunicação) e dedica o 5º encontro ao raciocínio clínico, que é o que acontece entre escutar e comunicar. Numa construção socrática, o grupo propõe etapas, e ele destrincha o 'buscar na memória' em teoria, experiências passadas (próprias ou alheias) e uma terceira fonte vaga. Para dar corpo a essa terceira fonte, Alan faz um experimento com cinco vinhetas relâmpago e descobre que as direções de cada participante convergem para uma imagem fundamental ('entrar em contato', 'conscientizar'), ligada a valores e à 'vibe' da teoria, e não a citações teóricas. Daí vêm a tese de que a maioria das decisões clínicas não é teórica e a crítica de que pouca informação empurra o clínico para a ferramenta preferida. Na síntese, o raciocínio clínico é dividido em interpretação (reconstruir o contexto) e decisão ética. Alan aplica essa divisão para localizar o bloqueio de uma participante ('três caixinhas') e para mostrar, a partir da experiência de outra em emergência hospitalar, que cada interpretação sugere uma intervenção diferente.",
+  "em_uma_frase": "O raciocínio clínico, isto é, o que acontece entre escutar e comunicar, divide-se em interpretação (reconstruir o contexto usando teoria, experiência e máximas) e decisão ética, e cada interpretação já aponta uma direção de intervenção.",
+  "competencias": [
+    "Interpretação",
+    "Direção do tratamento",
+    "Articulação teoria-prática",
+    "Escuta clínica",
+    "Priorização clínica",
+    "Pessoa do terapeuta",
+    "Desenvolvimento profissional"
+  ],
+  "abordagens": [
+    "Psicodrama",
+    "Gestalt-terapia",
+    "Análise do comportamento",
+    "Psicanálise freudiana",
+    "Terapia cognitivo-comportamental",
+    "Abordagem centrada na pessoa",
+    "Psicanálise lacaniana",
+    "Terapia sistêmica"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:11",
+      "bloco": "Retomada",
+      "descricao": "Relembra as categorias setting, escuta, raciocínio e comunicação e escolhe o raciocínio clínico, recém-discutido com um colega. Comenta em tom leve lutas do UFC.",
+      "funcao": "Situar o encontro na série e criar clima informal.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:01:59",
+      "bloco": "Teoria",
+      "descricao": "Justificativa metadidática: conscientização é a primeira etapa da mudança; construir uma taxonomia dá vocabulário para corrigir na prática.",
+      "funcao": "Dar sentido ao método antes de pedir esforço ao grupo.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:03:07",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta disparadora sobre o que acontece entre escuta e comunicação. Discussão de 'entrega' e 'atenção' (renomeada priorização) e redirecionamento de uma resposta que listava modos da escuta.",
+      "funcao": "Construção socrática de taxonomia, com erro valorizado.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "0:11:26",
+      "bloco": "Dinâmica",
+      "descricao": "Uma participante propõe escuto → compreendo → penso → busco na memória → respondo. Alan pergunta o que é compreender e escolhe destrinchar a memória.",
+      "funcao": "Transformar uma resposta intuitiva em etapas nomeáveis.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:14:07",
+      "bloco": "Teoria",
+      "descricao": "Fontes da memória clínica: teoria, experiências próprias ou alheias e 'algo parecido'. Exemplos do facilitador (máxima de Moreno; caso contado por um professor) classificados pelo grupo.",
+      "funcao": "Classificação ativa em vez de definição dada.",
+      "duracao_min": 12
+    },
+    {
+      "ts": "0:26:37",
+      "bloco": "Dinâmica",
+      "descricao": "Experimento mental com uma participante: cinco vinhetas relâmpago simuladas, pedindo a direção clínica intuitiva de cada uma.",
+      "funcao": "Tornar visível a fonte implícita das direções clínicas.",
+      "duracao_min": 14
+    },
+    {
+      "ts": "0:40:28",
+      "bloco": "Discussão",
+      "descricao": "Busca do padrão nas respostas: ausência de teoria explícita, 'cheiro de Gestalt', valores, vibe da teoria, intuição ética, ética como compressão do mundo em princípios.",
+      "funcao": "Nomear a terceira fonte da memória.",
+      "duracao_min": 9
+    },
+    {
+      "ts": "0:49:17",
+      "bloco": "Teoria",
+      "descricao": "Tese: a maioria das decisões clínicas não é teórica; a teoria justifica as decisões maiores ou mais arriscadas.",
+      "funcao": "Posicionamento sobre o uso da teoria.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:50:28",
+      "bloco": "Dinâmica",
+      "descricao": "Mesmas vinhetas com um segundo participante, cujas respostas convergem para 'conscientizar'.",
+      "funcao": "Replicar o experimento para comparar padrões.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:55:37",
+      "bloco": "Teoria",
+      "descricao": "Revelação: Alan esperava um truísmo por vinheta e encontrou uma imagem fundamental por pessoa. Traduz as respostas em truísmos ('santo de casa não faz milagre', Never Split the Difference, compensar a unilateralidade) e liga tudo à psicologia comparada.",
+      "funcao": "Mostrar a resposta depois do esforço do grupo.",
+      "duracao_min": 10
+    },
+    {
+      "ts": "1:05:06",
+      "bloco": "Discussão",
+      "descricao": "Objeção: vinhetas vagas forçam truísmos. Resposta com a metáfora do carro: pouca informação leva à ferramenta preferida e revela vícios clínicos.",
+      "funcao": "Transformar a objeção em conteúdo.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "1:07:36",
+      "bloco": "Teoria",
+      "descricao": "Síntese: raciocínio clínico = interpretação (reconstruir o contexto; a memória como subcomponente) + decisão ética.",
+      "funcao": "Consolidar a taxonomia.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "1:09:39",
+      "bloco": "Discussão",
+      "descricao": "Volta à vinheta que uma participante recusou: 'três caixinhas' de medo (escutar, decidir e comunicar, consequências jurídicas). Ela se reconhece na segunda.",
+      "funcao": "Aplicar a taxonomia para localizar um bloqueio pessoal.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "1:16:36",
+      "bloco": "Demonstração",
+      "descricao": "A partir da experiência de uma participante em emergência hospitalar, três interpretações do comportamento de um agressor e a intervenção mais óbvia para cada uma.",
+      "funcao": "Mostrar a articulação entre interpretação e decisão.",
+      "duracao_min": 10
+    },
+    {
+      "ts": "1:26:57",
+      "bloco": "Fechamento",
+      "descricao": "Admite que o encontro ficou pouco estruturado por escolha ('quis mais jogar'). Propõe trabalhar interpretação e decisão separadamente, a decidir com o grupo, e encerra a gravação.",
+      "funcao": "Encerrar e abrir o próximo passo.",
+      "duracao_min": 2
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Raciocínio clínico",
+      "definicao": "O que acontece entre a escuta e a comunicação: o processo de tomada de decisão clínica. Começa na interpretação, que já toca a escuta, e termina na organização de como intervir, que já toca a comunicação. Na forma mais simples, divide-se em interpretação e decisão ética.",
+      "exemplo": "Escutou algo do paciente e vai devolver uma fala, um gesto ou uma ação: o que acontece entre essas duas coisas?",
+      "abordagem": "Transteórico",
+      "ts": "0:03:07"
+    },
+    {
+      "nome": "Macrocategorias de habilidades clínicas",
+      "definicao": "Taxonomia não canônica da série: setting, escuta, raciocínio e comunicação (a clínica como 'escutar, falar e pensar', mais o setting). As fronteiras não são rígidas. Serve para tornar conscientes dimensões que costumam passar despercebidas.",
+      "exemplo": "Não dá para treinar o setting sem saber o que ele significa.",
+      "abordagem": "Transteórico",
+      "ts": "0:00:11"
+    },
+    {
+      "nome": "Reconstrução do contexto",
+      "definicao": "Definição de interpretar neste grupo: dar significância clínica ao que se escutou reconstruindo o contexto em que aquilo faz sentido. Por isso entram comparação, teoria, experiência e máximas.",
+      "exemplo": "Buscar na memória um autor, um caso ou um truísmo para entender 'o que significa isso daqui'.",
+      "abordagem": "Transteórico",
+      "ts": "1:07:36"
+    },
+    {
+      "nome": "Decisão ética",
+      "definicao": "A passagem do raciocínio para a comunicação: depois de entender o que acontece, decidir qual é a própria posição diante disso. É articulada com a interpretação, que sugere uma direção 'mais óbvia', mas a escolha continua sendo moral e ética.",
+      "exemplo": "Se a leitura é impunidade, a intervenção mais óbvia é com o agressor; ainda assim é preciso escolher eticamente se se vai por aí.",
+      "abordagem": "Transteórico",
+      "ts": "1:08:45"
+    },
+    {
+      "nome": "Memória clínica",
+      "definicao": "O que se busca na memória ao raciocinar clinicamente. É um subcomponente da interpretação e tem três fontes: teoria, experiências passadas (próprias ou ouvidas de outros) e máximas ou imagens fundamentais.",
+      "exemplo": "Lembrar uma frase de Lacan, um caso contado por um professor, ou 'santo de casa não faz milagre'.",
+      "abordagem": "Transteórico",
+      "ts": "0:15:47"
+    },
+    {
+      "nome": "Máximas clínicas",
+      "definicao": "Truísmos, clichês ou 'tropes' psicológicos, muitas vezes também culturais, que orientam direções clínicas sem que se cite uma teoria. Alan esperava que cada vinheta ativasse uma máxima diferente.",
+      "exemplo": "'O que você busca no fim da jornada já estava no início'; 'santo de casa não faz milagre'; 'provar do próprio veneno às vezes é cura'; 'as coisas não necessariamente são duais'.",
+      "abordagem": "Transteórico",
+      "ts": "0:57:49"
+    },
+    {
+      "nome": "Imagem fundamental",
+      "definicao": "Ideia ou imagem que se repete nas direções clínicas de uma pessoa em casos muito diferentes, como se todos os pregos pedissem o mesmo martelo. Está codificada nos valores e funciona como uma intuição ética ou a 'vibe' de uma teoria.",
+      "exemplo": "As respostas de uma participante convergiram para 'entrar em contato'; as de outro, para 'conscientizar'.",
+      "abordagem": "Psicologia comparada",
+      "ts": "0:56:47"
+    },
+    {
+      "nome": "Vício clínico",
+      "definicao": "Tendência a aplicar sempre a mesma ferramenta. Aparece sobretudo quando o caso tem pouca informação, porque aí a escolha segue a predisposição do terapeuta e não a especificidade do caso.",
+      "exemplo": "'Meu carro deu problema': tanto o macaco quanto a chave de fenda parecem servir.",
+      "abordagem": "Transteórico",
+      "ts": "1:05:06"
+    },
+    {
+      "nome": "Tomada de consciência",
+      "definicao": "Primeira etapa da mudança, também na formação: nomear o que se faz para poder treinar e corrigir. Justifica a construção de taxonomias.",
+      "exemplo": "A maioria sabe raciocinar clinicamente, mas não sabe descrever o que faz.",
+      "abordagem": "Transteórico",
+      "ts": "0:01:59"
+    },
+    {
+      "nome": "Priorização clínica",
+      "definicao": "Nome que Alan prefere a 'atenção': não é deixar de escutar algo deliberadamente, é escolher o que vem primeiro, podendo priorizar outra coisa depois.",
+      "exemplo": "",
+      "abordagem": "Transteórico",
+      "ts": "0:07:50"
+    },
+    {
+      "nome": "Atenção flutuante",
+      "definicao": "Usada como contraexemplo à 'entrega': na psicanálise clássica, estar muito presente atrapalha, porque o analista quer manter a atenção flutuando e servir de anteparo à projeção.",
+      "exemplo": "Se a 'parede' da projeção está cheia de coisas, a projeção não acontece.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:06:57"
+    },
+    {
+      "nome": "Aquecimento",
+      "definicao": "Pela máxima de Moreno ('não existe resistência, existe apenas falta de aquecimento'), o que se chama de resistência do paciente é falta de pré-construção do terapeuta. Com a construção feita, a intervenção parece natural.",
+      "exemplo": "Paciente que se acha muito humilde: antes de mostrar a ele que não é, construir o caminho.",
+      "abordagem": "Psicodrama",
+      "ts": "0:21:46"
+    },
+    {
+      "nome": "Espelhamento caricatural",
+      "definicao": "O terapeuta encarna de modo exagerado o comportamento do paciente, num ambiente controlado, para que ele se veja de fora ('provar do próprio remédio').",
+      "exemplo": "Direção dada por uma participante para um paciente simulado que se acha engraçado e não percebe que é inconveniente.",
+      "abordagem": "Gestalt-terapia",
+      "ts": "0:39:08"
+    },
+    {
+      "nome": "Psicologia comparada",
+      "definicao": "Olhar para os princípios simples com que cada autor ou abordagem explica decisões complexas: o mesmo movimento que revela a imagem fundamental de cada clínico.",
+      "exemplo": "",
+      "abordagem": "Psicologia comparada",
+      "ts": "0:56:47"
+    },
+    {
+      "nome": "Duplo vínculo",
+      "definicao": "Citado como possível leitura sistêmica de uma relação em que carinho e agressão coexistem.",
+      "exemplo": "Agressor que agride e depois leva a vítima ao hospital para 'mostrar que cuida'.",
+      "abordagem": "Terapia sistêmica",
+      "ts": "1:20:14"
+    },
+    {
+      "nome": "Teoria como defesa",
+      "definicao": "Crítica, levantada em tom de brincadeira por uma participante e reconhecida por Alan, de que às vezes se estuda teoria 'para se defender da realidade' do paciente.",
+      "exemplo": "",
+      "abordagem": "Transteórico",
+      "ts": "0:15:08"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Taxonomia construída pelo grupo",
+      "objetivo": "Construir com o grupo, sem entregar pronta, uma descrição das etapas do raciocínio clínico, gerando consciência e vocabulário.",
+      "competencias": [
+        "Interpretação",
+        "Articulação teoria-prática"
+      ],
+      "configuracao": "Grupo todo, online. O facilitador chama pessoas pelo nome (de preferência com câmera) e lê o chat.",
+      "tempo": "Cerca de 25 minutos",
+      "materiais": "Nenhum (opcionalmente, quadro para registrar as categorias).",
+      "consigna": "Você escutou algo do paciente e vai devolver uma fala, um gesto ou uma ação. O que acontece entre essas duas coisas? Se a gente fosse esquematizar as etapas desse processo, você consegue me entregar pelo menos uma?",
+      "passos": [
+        "Fazer a pergunta aberta, com a fronteira delimitada (entre escuta e comunicação).",
+        "Recolher um chute e pressioná-lo: vale para todas as abordagens ou é uma possibilidade entre várias?",
+        "Renomear quando útil (atenção → priorização).",
+        "Apontar respostas boas que respondem a outra pergunta (elementos da escuta).",
+        "Destrinchar um termo de uma sequência proposta de cada vez, começando pelo mais óbvio e deixando os outros em aberto.",
+        "Listar as categorias e conferir se todos estão na mesma página."
+      ],
+      "feedback": "Critério de multimodalidade: a taxonomia deve servir a várias abordagens. O facilitador distingue elementos da escuta de elementos do raciocínio e valoriza o erro ('aluno é bom quando erra').",
+      "exemplos_praticos": "Uma participante tentou passar a vez e foi incentivada a arriscar; surgiram 'atenção', 'entrega', uma lista de modos de escuta e a sequência escuto, compreendo, penso, busco na memória, respondo.",
+      "variacoes": "Aplicável a qualquer habilidade (escuta, comunicação, setting).",
+      "armadilhas": "Pode ficar pouco estruturada e deixar termos sem tratamento ('compreender', 'pensar' ficaram em aberto); quem chega atrasado responde à pergunta errada.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:03:07"
+    },
+    {
+      "nome": "Dinâmica - De onde veio esse raciocínio",
+      "objetivo": "Reconhecer as fontes da memória clínica (teoria, experiência própria ou alheia, 'algo parecido') classificando raciocínios concretos.",
+      "competencias": [
+        "Interpretação",
+        "Articulação teoria-prática"
+      ],
+      "configuracao": "Grupo todo, online.",
+      "tempo": "Cerca de 10 minutos",
+      "materiais": "Dois ou três raciocínios clínicos do facilitador, com a fonte conhecida.",
+      "consigna": "Eu vou descrever um raciocínio clínico. Vocês classificariam o uso da memória como teoria, como experiência passada ou como esse 'algo parecido' que a gente não sabe definir?",
+      "passos": [
+        "Narrar um raciocínio ancorado numa máxima de autor (Moreno).",
+        "O grupo classifica.",
+        "Narrar um raciocínio ancorado num caso contado por um professor.",
+        "O grupo classifica.",
+        "Narrar um raciocínio sem fonte aparente e perguntar de onde veio a direção."
+      ],
+      "feedback": "Confirma ou corrige a categoria e explica o porquê.",
+      "exemplos_praticos": "Os dois primeiros foram classificados corretamente como teoria e experiência passada; no terceiro, o grupo não soube localizar a fonte, o que preparou o experimento das vinhetas.",
+      "variacoes": "Os participantes podem trazer os próprios raciocínios para o grupo classificar.",
+      "armadilhas": "Usar casos reais com detalhes identificáveis; manter os exemplos genéricos ou simulados.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:20:43"
+    },
+    {
+      "nome": "Dinâmica - Direção clínica intuitiva em vinhetas",
+      "objetivo": "Tornar consciente a fonte implícita das direções clínicas de cada pessoa (máximas, imagem fundamental, valores) e evidenciar vícios clínicos.",
+      "competencias": [
+        "Interpretação",
+        "Direção do tratamento",
+        "Pessoa do terapeuta"
+      ],
+      "configuracao": "Facilitador e um participante por vez, na frente do grupo, repetindo com um segundo participante. Online.",
+      "tempo": "Cerca de 12 minutos por participante, mais 10 a 15 minutos de discussão.",
+      "materiais": "Cinco vinhetas relâmpago fictícias e bem diferentes.",
+      "consigna": "Vou jogar um jogo com você. Vou te dar uma situação clínica e você me conta, de coração, para onde iria. Depois a gente vê se acha um padrão nas respostas.",
+      "passos": [
+        "Apresentar vinhetas curtíssimas (jovem que anuncia suicídio aparentemente para chamar atenção; criança em birra; adulto que fez engenharia e sempre quis ser artista; jovem atleta que se achava especial e não acompanha a faculdade; homem que não percebe o próprio comportamento abusivo ou inconveniente).",
+        "Pedir a direção intuitiva de cada uma, bloqueando saídas como encaminhar ou falar com terceiros.",
+        "Tentar generalizar a regra por trás de uma resposta e deixar a pessoa corrigir.",
+        "Perguntar ao grupo o que há de comum em todas as respostas.",
+        "Repetir com outra pessoa.",
+        "Revelar a hipótese do facilitador (um truísmo por caso) e o que foi encontrado (uma imagem por pessoa)."
+      ],
+      "feedback": "Não julga se a direção está certa; busca o padrão e a fonte, traduzindo cada resposta num truísmo e mostrando a convergência.",
+      "exemplos_praticos": "Uma participante foi por 'entrar em contato' (o grupo leu um sabor gestáltico); outro foi por 'conscientizar'. Uma generalização de Alan ('fins legítimos por meios inapropriados') foi corrigida pela participante para 'meios desencorajados'.",
+      "variacoes": "Usar vinhetas mais específicas quando o objetivo for identificar truísmos caso a caso; vinhetas vagas quando o objetivo for expor a ferramenta preferida.",
+      "armadilhas": "Contaminação entre participantes que ouvem as respostas uns dos outros (fazer separado); temas pesados podem gerar recusa, então trocar a vinheta e depois retomar a recusa com cuidado; vinhetas vagas forçam respostas genéricas.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:28:07"
+    },
+    {
+      "nome": "Dinâmica - Uma intervenção para cada hipótese",
+      "objetivo": "Mostrar que interpretações diferentes do mesmo fenômeno levam a decisões e intervenções diferentes, inclusive quanto a com quem intervir.",
+      "competencias": [
+        "Interpretação",
+        "Direção do tratamento",
+        "Intervenção"
+      ],
+      "configuracao": "Feita como demonstração do facilitador em diálogo com uma participante, a partir de uma situação profissional que ela trouxe.",
+      "tempo": "Cerca de 10 minutos",
+      "materiais": "Uma situação enigmática trazida pelo grupo, anonimizada.",
+      "consigna": "Temos um mistério: por que a pessoa faz isso? Você consegue supor? De onde tirou essa leitura? Agora vamos ver o que cada leitura pede como intervenção.",
+      "passos": [
+        "Formular o fenômeno como enigma.",
+        "Levantar uma interpretação e perguntar de onde veio.",
+        "Nomeá-la em vocabulários teóricos diferentes (gozo lacaniano, duplo vínculo sistêmico).",
+        "Derivar a intervenção mais óbvia para essa leitura e o alvo dela.",
+        "Repetir com outras interpretações (impunidade; ciclo da violência).",
+        "Lembrar que a escolha final é uma decisão ética."
+      ],
+      "feedback": "O critério é a coerência entre interpretação e intervenção derivada.",
+      "exemplos_praticos": "Três leituras do comportamento de um agressor levaram a três direções: trabalhar com a vítima que 'amor não é isso'; trabalhar com o agressor as consequências (analogia com um paciente que mente, com Crime e castigo e O coração delator); quebrar o ciclo pelo perdão ou pela consciência dos porquês.",
+      "variacoes": "Pode virar exercício do grupo: cada participante propõe uma leitura e a intervenção correspondente.",
+      "armadilhas": "Com situações reais, anonimizar e não expor terceiros.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "1:18:59"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Retomada com informalidade",
+      "descricao": "Relembra as categorias com a ajuda do grupo, assume uma preferência pessoal pelo tema e faz um comentário leve antes de 'começar formalmente'.",
+      "exemplo": "Admite que começar pela escuta talvez fosse didaticamente melhor, mas diz que está 'a fim de falar de raciocínio'; brinca sobre o UFC.",
+      "ts": "0:00:11"
+    },
+    {
+      "movimento": "Explicitar a metadidática",
+      "descricao": "Explica por que o encontro é feito assim: consciência antes de treino, taxonomia como vocabulário para correção.",
+      "exemplo": "'A ideia desse momento, em termos metadidáticos, é oferecer categorias e criar com vocês uma taxonomia.'",
+      "ts": "0:01:59"
+    },
+    {
+      "movimento": "Não aceitar 'passar a vez'",
+      "descricao": "Recusa gentilmente a desistência, legitima o erro e reduz a exigência para destravar a pessoa.",
+      "exemplo": "'Aluno é bom quando erra.' 'Não precisa pensar em clínica, pense numa conversa. Me entrega pelo menos uma etapa.'",
+      "ts": "0:04:30"
+    },
+    {
+      "movimento": "Pressionar a categoria com uma pergunta",
+      "descricao": "Testa a generalidade de uma contribuição com uma pergunta fechada e justifica a pressão com exemplos de abordagens.",
+      "exemplo": "'Você precisa necessariamente estar entregue ou essa é uma possibilidade entre várias?'",
+      "ts": "0:05:36"
+    },
+    {
+      "movimento": "Renomear sem invalidar",
+      "descricao": "Concorda com o conteúdo e propõe um termo mais preciso.",
+      "exemplo": "'Vou concordar, só vou trazer um nome que prefiro: priorização em vez de atenção.'",
+      "ts": "0:07:50"
+    },
+    {
+      "movimento": "Elogiar e reorientar",
+      "descricao": "Reconhece a qualidade de uma resposta fora do alvo e recontextualiza a pergunta, inclusive para quem chegou atrasado.",
+      "exemplo": "'Sua resposta foi muito boa, ela só não tem a ver com a pergunta que eu fiz.'",
+      "ts": "0:09:44"
+    },
+    {
+      "movimento": "Destrinchar um termo e guardar a tensão",
+      "descricao": "Escolhe o elemento mais óbvio para trabalhar e deixa os mais complexos em aberto, para o grupo se virar com eles.",
+      "exemplo": "Pega 'busco na memória' e deixa 'compreendo' e 'penso' para depois.",
+      "ts": "0:14:07"
+    },
+    {
+      "movimento": "Segurar o gabarito",
+      "descricao": "Diz que tem uma taxonomia pronta, mas prefere que o grupo trave e se esforce, porque o que se recebe pronto se esquece.",
+      "exemplo": "'Se eu contar sem vocês pensarem, vocês vão esquecer pra próxima semana.'",
+      "ts": "0:20:43"
+    },
+    {
+      "movimento": "Experimento individual em público com saídas bloqueadas",
+      "descricao": "Joga vinhetas com uma pessoa na frente do grupo, impede fugas (encaminhar) e troca a vinheta quando o tema trava.",
+      "exemplo": "'Você não tem encaminhamento. Você tem que ter um raciocínio clínico.' Depois troca para um caso menos carregado.",
+      "ts": "0:38:25"
+    },
+    {
+      "movimento": "Generalizar em voz alta e pedir correção",
+      "descricao": "Formula a regra implícita na resposta do participante e o convida a corrigi-la.",
+      "exemplo": "'Vou formular uma regra geral para ver se estou sendo justo; se não for, me corrige.'",
+      "ts": "0:31:13"
+    },
+    {
+      "movimento": "Assumir o imprevisto como achado",
+      "descricao": "Reconhece que o exercício foi para outra direção e transforma a surpresa em conteúdo, revelando o que esperava e o que encontrou.",
+      "exemplo": "'Eu não estava indo nessa direção. Isso é bem legal.'",
+      "ts": "0:55:37"
+    },
+    {
+      "movimento": "Transformar objeção em conteúdo",
+      "descricao": "Usa a crítica de um participante às vinhetas vagas como ponto de partida para a crítica do vício clínico.",
+      "exemplo": "Metáfora do carro com defeito: sem saber onde está, qualquer ferramenta parece servir.",
+      "ts": "1:05:06"
+    },
+    {
+      "movimento": "Oferecer caixinhas para localizar o bloqueio",
+      "descricao": "Diante de uma recusa, oferece três hipóteses estruturadas pela taxonomia para a pessoa escolher, sem exposição excessiva.",
+      "exemplo": "Medo na escuta, na decisão e comunicação, ou nas consequências jurídicas.",
+      "ts": "1:12:22"
+    },
+    {
+      "movimento": "Aproveitar material trazido pelo grupo",
+      "descricao": "Usa a experiência profissional de uma participante para demonstrar a articulação entre interpretação e decisão, perguntando de onde ela tirou a leitura.",
+      "exemplo": "'Você tem consciência de onde tirou esse raciocínio?'",
+      "ts": "1:18:59"
+    },
+    {
+      "movimento": "Fechar com autocrítica e decisão compartilhada",
+      "descricao": "Avalia o próprio encontro e propõe o próximo passo, deixando a decisão para o grupo.",
+      "exemplo": "'Ficou pouco estruturado porque eu quis mais jogar'; 'a gente pode decidir lá no grupo'.",
+      "ts": "1:26:57"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Quando o paciente 'resiste', pergunte-se se faltou aquecimento.",
+      "justificativa": "Pela máxima de Moreno, as pessoas resistem a intervenções entregues sem construção prévia; com a construção feita, a intervenção parece natural.",
+      "contexto": "Ao precisar dizer algo que contradiz a autoimagem do paciente.",
+      "competencia": "Intervenção",
+      "ts": "0:21:46"
+    },
+    {
+      "dica": "Suporte a hostilidade do paciente quando ela não é sobre você.",
+      "justificativa": "Aguentar sem retaliar pode ser a chave do caso (experiência de um professor de Alan, transposta para uma terapia de casal hipotética).",
+      "contexto": "Agressividade dirigida ao terapeuta como representante de outra coisa.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:24:48"
+    },
+    {
+      "dica": "Se todos na vida do paciente reagem de um jeito, considere reagir diferente.",
+      "justificativa": "'Santo de casa não faz milagre': repetir a resposta cotidiana (ceder à birra) mantém o padrão; tirar da zona de conforto e fazer a pergunta inesperada é uma regra clínica geral.",
+      "contexto": "Comportamentos que buscam uma resposta previsível; respostas prontas do paciente.",
+      "competencia": "Intervenção",
+      "ts": "1:01:03"
+    },
+    {
+      "dica": "Diante de um falso dilema, procure o terceiro lugar em vez do meio-termo.",
+      "justificativa": "O meio-termo garante que alguém sempre fica insatisfeito; o que transcende o binário é entender o que cada polo realmente busca (Never Split the Difference).",
+      "contexto": "Impasses do tipo 'ou isto ou aquilo' (carreira, casal).",
+      "competencia": "Direção do tratamento",
+      "ts": "1:02:02"
+    },
+    {
+      "dica": "Compense a unilateralidade do paciente devagar e com cuidado.",
+      "justificativa": "Quando alguém se vê de modo muito unilateral, contrapor é uma decisão clínica razoável, desde que não seja brusca.",
+      "contexto": "Autoimagem inflada que começa a ruir.",
+      "competencia": "Intervenção",
+      "ts": "1:03:55"
+    },
+    {
+      "dica": "Desconfie das suas respostas quando o caso tem pouca informação.",
+      "justificativa": "Com pouca informação você não escolhe a ferramenta certa, escolhe a preferida; é aí que aparecem os vícios clínicos.",
+      "contexto": "Primeiras sessões, vinhetas, supervisões rápidas.",
+      "competencia": "Interpretação",
+      "ts": "1:05:06"
+    },
+    {
+      "dica": "Descubra sua imagem fundamental respondendo a várias vinhetas diferentes e procurando o padrão.",
+      "justificativa": "Se todas as suas direções convergem para a mesma ideia (contato, consciência), isso revela seu estilo e seus vícios.",
+      "contexto": "Formação, supervisão e intervisão.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:56:47"
+    },
+    {
+      "dica": "Antes de intervir, separe o que está acontecendo de qual é a sua posição sobre isso.",
+      "justificativa": "Interpretação e decisão ética são componentes diferentes; confundi-los faz decidir sem perceber.",
+      "contexto": "Sempre que a interpretação parecer levar 'naturalmente' a uma ação.",
+      "competencia": "Direção do tratamento",
+      "ts": "1:08:45"
+    },
+    {
+      "dica": "Se você trava diante de um caso, localize em que ponto da cadeia está o bloqueio.",
+      "justificativa": "Não conseguir escutar, não conseguir decidir e comunicar e temer consequências externas são problemas diferentes, com saídas diferentes.",
+      "contexto": "Vontade de encaminhar; casos que despertam nojo, raiva ou medo.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "1:12:22"
+    },
+    {
+      "dica": "Gere várias interpretações para o mesmo fenômeno e derive a intervenção de cada uma.",
+      "justificativa": "Cada leitura aponta um alvo e um estilo de intervenção diferente; isso impede de tratar a primeira leitura como a única.",
+      "contexto": "Comportamentos enigmáticos ou contraditórios.",
+      "competencia": "Interpretação",
+      "ts": "1:21:11"
+    },
+    {
+      "dica": "Para quem age por se achar impune, acompanhe e registre as consequências ao longo do tempo.",
+      "justificativa": "É muito raro uma mentira não ter consequência; o registro permite mostrar o preço pago, e a literatura (Crime e castigo, O coração delator) ajuda a dar forma a essa 'outra justiça'.",
+      "contexto": "Padrões de mentira ou transgressão vividos sem culpa.",
+      "competencia": "Intervenção",
+      "ts": "1:23:07"
+    },
+    {
+      "dica": "Considere o risco de o confronto na sessão ser descontado em terceiros.",
+      "justificativa": "Numa clínica mais provocativa, a intervenção pode funcionar no setting e gerar reação fora dele; é um problema da passagem entre decisão e comunicação.",
+      "contexto": "Casos com violência doméstica.",
+      "competencia": "Direção do tratamento",
+      "ts": "1:14:44"
+    },
+    {
+      "dica": "Não trate presença e 'entrega' como regra universal.",
+      "justificativa": "Na psicanálise clássica, estar muito presente atrapalha a atenção flutuante e a projeção; na TCC clássica, parte da atenção vai para o raciocínio teórico.",
+      "contexto": "Ao descrever ou avaliar a escuta de alguém de outra abordagem.",
+      "competencia": "Escuta clínica",
+      "ts": "0:06:57"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "A conscientização é a primeira etapa da mudança, também na formação clínica.",
+      "argumento": "Não se treina o que não se consegue nomear; uma taxonomia dá vocabulário e permite correção na prática.",
+      "contraponto": "",
+      "implicacao": "Grupos de formação devem começar por categorias antes de exercitar.",
+      "quem": "Alan",
+      "ts": "0:01:59"
+    },
+    {
+      "tese": "Aluno é bom quando erra; aluno que acerta de primeira atrapalha a construção.",
+      "argumento": "O gabarito entregue cedo quebra a construção coletiva, e o que se recebe pronto se esquece.",
+      "contraponto": "Formatos expositivos que entregam a taxonomia pronta.",
+      "implicacao": "O facilitador pede chutes imprecisos e segura o gabarito.",
+      "quem": "Alan",
+      "ts": "0:04:30"
+    },
+    {
+      "tese": "Uma taxonomia da clínica deve ser multimodal; presença ou 'entrega' não é etapa universal.",
+      "argumento": "Há clínicas em que a entrega é indesejável (psicanálise clássica, TCC clássica).",
+      "contraponto": "A visão de que presença plena é sempre condição da boa escuta.",
+      "implicacao": "Descrever habilidades num vocabulário que sirva a várias abordagens.",
+      "quem": "Alan",
+      "ts": "0:05:36"
+    },
+    {
+      "tese": "A maior parte das decisões clínicas não é teórica.",
+      "argumento": "Há dezenas ou centenas de decisões por sessão; não dá tempo de fazer a conexão teórica, e a teoria não alcança a especificidade do caso. A teoria costuma justificar as decisões maiores ou mais arriscadas.",
+      "contraponto": "A imagem do clínico que deduz cada intervenção da teoria.",
+      "implicacao": "Conhecer a própria posição ética ou imagem fundamental é tão importante quanto conhecer teoria.",
+      "quem": "Alan",
+      "ts": "0:49:17"
+    },
+    {
+      "tese": "Um estilo clínico funciona como uma ética: comprime a complexidade do mundo em poucos princípios.",
+      "argumento": "É o que Kant e Aristóteles fazem em filosofia e o que as respostas convergentes dos participantes revelaram; a psicologia comparada estuda esses conjuntos de princípios.",
+      "contraponto": "O próprio Alan: é aí que mora o risco de forçar tudo a ser sobre contato ou consciência.",
+      "implicacao": "Identificar o próprio 'martelo'.",
+      "quem": "Alan",
+      "ts": "0:47:11"
+    },
+    {
+      "tese": "Quanto menos informação sobre o caso, mais o clínico usa a ferramenta preferida; essa é a crítica à 'posição ética' universal.",
+      "argumento": "Metáfora do carro: sem saber onde está o defeito, qualquer ferramenta parece plausível.",
+      "contraponto": "A objeção de um participante de que as vinhetas vagas forçavam os truísmos, que Alan acolhe como correta.",
+      "implicacao": "Buscar especificidade antes de intervir; usar vinhetas vagas para diagnosticar vícios clínicos.",
+      "quem": "Alan",
+      "ts": "1:05:06"
+    },
+    {
+      "tese": "O raciocínio clínico se divide, no mínimo, em interpretação (reconstruir o contexto) e decisão ética, componentes separados e articulados.",
+      "argumento": "Entender o que acontece é diferente de escolher uma posição; cada interpretação sugere uma decisão mais óbvia, mas a escolha continua moral.",
+      "contraponto": "",
+      "implicacao": "Treinar os dois separadamente e diagnosticar em qual deles se trava.",
+      "quem": "Alan",
+      "ts": "1:07:36"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Aluno é bom quando erra. Aluno que acerta só atrapalha.",
+      "tema": "Formação e erro",
+      "ts": "0:04:30"
+    },
+    {
+      "texto": "É muito difícil treinar e lidar melhor com o setting se você nem sabe o que setting significa.",
+      "tema": "Consciência antes do treino",
+      "ts": "0:01:59"
+    },
+    {
+      "texto": "A maior parte das pessoas sabe raciocinar clinicamente, mas não sabe descrever o que é raciocinar clinicamente.",
+      "tema": "Raciocínio clínico",
+      "ts": "0:13:15"
+    },
+    {
+      "texto": "Não existe resistência, existe apenas falta de aquecimento. (Moreno)",
+      "tema": "Resistência e aquecimento",
+      "ts": "0:20:43"
+    },
+    {
+      "texto": "Se eu conto a taxonomia sem vocês pensarem, vocês vão esquecer até a próxima semana.",
+      "tema": "Didática",
+      "ts": "0:20:43"
+    },
+    {
+      "texto": "Você não precisa lembrar da frase do autor. Você pode pegar a vibe da teoria, ter uma intuição ética da teoria.",
+      "tema": "Teoria e valores",
+      "ts": "0:46:04"
+    },
+    {
+      "texto": "Normalmente a gente produz teoria para justificar as decisões maiores ou mais arriscadas que toma.",
+      "tema": "Uso da teoria",
+      "ts": "0:49:17"
+    },
+    {
+      "texto": "Por mais que todos os pregos sejam diferentes, eu preciso de uma coisa mais ou menos parecida com o martelo para resolver.",
+      "tema": "Imagem fundamental",
+      "ts": "0:56:47"
+    },
+    {
+      "texto": "Quanto menos informação você tem sobre um caso, mais as ferramentas parecem ser ferramentas possíveis.",
+      "tema": "Vício clínico",
+      "ts": "1:05:06"
+    },
+    {
+      "texto": "Uma coisa é eu entender o que está acontecendo; outra coisa é eu entender qual é a minha posição com relação a isso.",
+      "tema": "Interpretação e decisão",
+      "ts": "1:08:45"
+    },
+    {
+      "texto": "A depender da interpretação que você faz, muda a tomada de decisão que você vai ter.",
+      "tema": "Interpretação e decisão",
+      "ts": "1:21:11"
+    },
+    {
+      "texto": "Ninguém sai exatamente impune de uma violência.",
+      "tema": "Consequências",
+      "ts": "1:24:03"
+    },
+    {
+      "texto": "Separar os componentes serve para a gente ver a integração desses componentes.",
+      "tema": "Taxonomia",
+      "ts": "1:26:57"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "O que acontece na sua cabeça entre ouvir o paciente e responder?",
+      "mensagem": "Raciocínio clínico = interpretar (reconstruir o contexto) + decidir (posição ética): dois passos diferentes e articulados.",
+      "roteiro": [
+        "Escuta → ? → comunicação",
+        "Interpretar é reconstruir o contexto",
+        "De onde vem o contexto: teoria, experiência, máximas",
+        "Decidir é tomar posição diante do que entendeu",
+        "Cada interpretação sugere uma intervenção",
+        "Separe os dois para saber onde você trava"
+      ],
+      "corte_inicio": "1:07:36",
+      "corte_fim": "1:09:39"
+    },
+    {
+      "formato": "reels",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Não existe paciente resistente.",
+      "mensagem": "'Não existe resistência, existe falta de aquecimento' (Moreno): a intervenção só parece natural quando foi preparada.",
+      "roteiro": [
+        "A frase de Moreno",
+        "O que é 'aquecer' uma intervenção",
+        "Sem preparação, qualquer verdade soa como ataque"
+      ],
+      "corte_inicio": "0:20:43",
+      "corte_fim": "0:22:51"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Você não decide pela teoria (e tudo bem).",
+      "mensagem": "São centenas de decisões por sessão; a teoria justifica as grandes, e o dia a dia é guiado pela 'vibe' da teoria, uma posição ética.",
+      "roteiro": [
+        "Quantas decisões você toma numa sessão?",
+        "Por que a teoria não chega a tempo",
+        "Por que ela não alcança a especificidade",
+        "Para que ela serve então",
+        "Conheça sua posição ética"
+      ],
+      "corte_inicio": "0:49:17",
+      "corte_fim": "0:50:21"
+    },
+    {
+      "formato": "reels",
+      "pilar": "abordagens-em-dialogo",
+      "gancho": "Qual é o seu martelo?",
+      "mensagem": "Cada estilo clínico tem uma imagem fundamental (contato, consciência...); com pouca informação, você sempre usa a ferramenta preferida.",
+      "roteiro": [
+        "Cinco casos diferentes, a mesma resposta",
+        "A metáfora do carro",
+        "Especificidade contra vício clínico"
+      ],
+      "corte_inicio": "1:05:06",
+      "corte_fim": "1:07:36"
+    },
+    {
+      "formato": "post",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Santo de casa não faz milagre.",
+      "mensagem": "Se todo mundo na vida da pessoa reage do mesmo jeito, talvez a terapia deva reagir diferente.",
+      "roteiro": [
+        "A regra",
+        "Exemplo: ceder à birra",
+        "Fazer a pergunta que a pessoa não espera"
+      ],
+      "corte_inicio": "1:00:01",
+      "corte_fim": "1:02:02"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Nunca rache a diferença.",
+      "mensagem": "Em vez do meio-termo, procure o terceiro lugar que faz sentido para os dois lados.",
+      "roteiro": [
+        "A tese do negociador do FBI",
+        "O meio-termo deixa alguém sempre triste",
+        "O terceiro elemento",
+        "Na clínica: sair do falso dilema"
+      ],
+      "corte_inicio": "1:02:02",
+      "corte_fim": "1:03:55"
+    },
+    {
+      "formato": "stories",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "No nosso grupo, aluno bom é aluno que erra.",
+      "mensagem": "A taxonomia é construída com chutes do grupo, não entregue pronta, porque o que vem pronto se esquece.",
+      "roteiro": [
+        "A regra do erro",
+        "Como é a construção coletiva",
+        "Convite para o grupo"
+      ],
+      "corte_inicio": "0:04:30",
+      "corte_fim": "0:05:22"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Jacob Levy Moreno",
+      "contexto": "Máxima 'não existe resistência, existe apenas falta de aquecimento', usada como exemplo de memória teórica."
+    },
+    {
+      "nome": "Jacques Lacan",
+      "contexto": "Exemplo de teoria que vem à memória; possível leitura via 'gozo' do agressor que leva a vítima ao hospital."
+    },
+    {
+      "nome": "Carl Jung",
+      "contexto": "Exemplo de raciocínio clínico lembrado ('um raciocínio que vi o Jung fazer')."
+    },
+    {
+      "nome": "Immanuel Kant",
+      "contexto": "A ética como tentativa de explicar a humanidade a partir de poucos princípios."
+    },
+    {
+      "nome": "Aristóteles",
+      "contexto": "Idem, a ética como compressão do mundo em princípios; possível referência à dialética (termo pouco claro na transcrição)."
+    },
+    {
+      "nome": "Chris Voss",
+      "contexto": "Autor (não nomeado na fala) de Never Split the Difference, livro de negociação citado para a ideia do terceiro lugar."
+    },
+    {
+      "nome": "Edgar Allan Poe",
+      "contexto": "O coração delator como exemplo literário de que não há crime perfeito para a consciência."
+    },
+    {
+      "nome": "Fiódor Dostoiévski",
+      "contexto": "Crime e castigo como exemplo de 'outra justiça', psicológica ou divina, para trabalhar a impunidade."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Prática clínica (série de 6 encontros semanais conduzida por Alan na formação online da Allos)",
+    "objetivo": "Tornar conscientes e nomeáveis as dimensões da prática clínica, por meio de uma taxonomia não canônica (setting, escuta, raciocínio, comunicação), para depois treiná-las e corrigi-las com vocabulário comum. Neste 5º encontro, o foco é o raciocínio clínico: o que acontece entre escutar e comunicar.",
+    "publico": "Estudantes de psicologia e psicólogos iniciantes de abordagens variadas (Gestalt, ACP, psicanálise, análise do comportamento), incluindo pessoas sem nenhuma experiência clínica e uma enfermeira em transição para a psicologia.",
+    "tamanho": "Grupo online pequeno. Cerca de 5 participantes falam ao microfone e há contribuições pelo chat (estimativa pela transcrição).",
+    "duracao": "Encontros semanais (fala de 'próxima semana'); este teve 1h28 gravada. O padrão da Allos é 1h30.",
+    "estrutura_padrao": "Retomada da taxonomia → justificativa metadidática → pergunta disparadora aberta → construção socrática com chutes do grupo ('aluno é bom quando erra') → exemplos do facilitador para classificação → experimento mental com vinhetas relâmpago feito com participantes individualmente → busca coletiva do padrão → revelação do que o facilitador esperava e do que apareceu → síntese conceitual → aplicação a material trazido pelos participantes → proposta para o encontro seguinte, decidida com o grupo → dúvidas depois de parar a gravação.",
+    "papel_facilitador": "Faz perguntas, pressiona categorias, renomeia termos, segura o 'gabarito' até o grupo se esforçar, conduz experimentos individuais em público, transforma objeções e imprevistos em conteúdo, sintetiza e aplica a taxonomia a situações trazidas pelo grupo.",
+    "regras_combinados": "Câmera ligada é desejada ('fica mais fácil jogar'); participação por microfone e chat; não vale 'passar a vez', porque o erro é esperado; participantes são chamados pelo nome; encontro gravado, com dúvidas extras após parar a gravação; o formato e o tema seguinte são decididos com o grupo."
+  },
+  "reflexoes_do_facilitador": [
+    "Admite que começar pela escuta talvez fosse didaticamente melhor, mas escolhe o raciocínio por estar com o tema fresco.",
+    "Diz que tem um 'gabarito' de taxonomia, mas prefere que o grupo trave e construa, porque o que se entrega pronto se esquece.",
+    "Reconhece que o experimento com as vinhetas foi para uma direção que ele não esperava (imagem fundamental em vez de um truísmo por caso) e considera isso um bom achado.",
+    "Aceita como correta a objeção de que vinhetas vagas forçam formulações gerais.",
+    "Avalia no fechamento que o encontro ficou 'pouco estruturado', porque quis 'mais jogar do que trazer uma construção pronta'.",
+    "Não teve tempo de destrinchar 'compreender' e 'pensar'."
+  ],
+  "referencias_a_outros_encontros": [
+    "Retoma a divisão feita no encontro anterior (pc-05, 4º encontro): setting, escuta, raciocínio e comunicação; o setting já foi trabalhado.",
+    "Propõe para a semana seguinte aprofundar o raciocínio clínico separando interpretação e decisão, a decidir com o grupo; o 6º encontro (pc-07) acaba sendo um encontro de dúvidas sobre como treinar interpretação.",
+    "Menciona discussão recente sobre raciocínio clínico com um colega da ACP com quem desenvolve materiais com IA (nome transcrito como 'Lucas Albertoni (?)'), que fez um post no Instagram da Allos."
+  ],
+  "observacoes": "Legenda automática com ruído considerável. 'Aula' e 'aulas' na transcrição parecem ser 'Allos'. Os nomes dos participantes oscilam: Alan chama o mesmo participante de 'Ângelo' e de 'Gabriel' (possível erro da legenda ou dois nomes da mesma pessoa), e a participante 'Júlia' aparece uma vez como 'Júlio'. Na nota, participantes foram anonimizados. A arte marcial da vinheta do jovem atleta está ininteligível ('taondo', 'myi'). As vinhetas do experimento são fictícias. O caso do professor e a experiência hospitalar de uma participante foram descritos de forma genérica. 'Dialética aristatérica' foi interpretada como dialética (aristotélica?). O último minuto trata de parar a gravação para dúvidas."
+}

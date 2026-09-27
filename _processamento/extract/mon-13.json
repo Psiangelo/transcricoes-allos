@@ -1,0 +1,781 @@
+{
+ "id": "mon-13",
+ "nota": "Monitoria 13 - Diogo - Criatividade clínica entre abordagens",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Criatividade clínica entre abordagens",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo testa um formato experimental de monitoria sobre criatividade clínica, definida como criar compreensões novas do caso, e não recursos. Um terapeuta em formação, de orientação gestáltica e centrada na pessoa, traz um caso real (anonimizado) e apresenta sua leitura (lócus de avaliação externo); Diogo relê o caso pela análise do comportamento (função da frieza, não decidir é decidir, punição, ambientes invalidantes, controle pela audiência, FAP e audiência não punitiva, pareamento, generalização) e pede ao monitorado que traduza para a própria abordagem (incongruência, autenticidade, awareness). Surgem dificuldades reais do caso: apontamentos e confrontos não mobilizam a paciente, e Diogo levanta a hipótese de que a provocação reproduza a invalidação vivida fora. Uma pergunta sobre tempo de terapia e confiança leva à discussão de estágios de mudança e de um vínculo que existe mas ainda não permite certas conversas. Na avaliação, o monitorado diz que a troca não mudou sua concepção do caso, e Diogo conclui que o formato talvez funcione melhor quando a compreensão ainda não está montada, frisando que abordagens não são iguais e que o referencial externo só fornece hipóteses a serem readaptadas.",
+ "em_uma_frase": "Diogo usa a análise do comportamento como lente estrangeira sobre um caso lido pela Gestalt e pela ACP e pede ao terapeuta que traduza essa leitura para a própria abordagem, para gerar compreensões novas sem igualar as abordagens.",
+ "competencias": [
+  "Formulação de caso",
+  "Articulação teoria-prática",
+  "Interpretação",
+  "Relação terapêutica",
+  "Direção do tratamento",
+  "Intervenção",
+  "Feedback clínico"
+ ],
+ "abordagens": [
+  "Análise do comportamento",
+  "Gestalt-terapia",
+  "Abordagem centrada na pessoa",
+  "Terapias contextuais",
+  "Psicanálise freudiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:09",
+   "bloco": "Abertura",
+   "descricao": "O que é a monitoria: acompanhamento individual e apresentação do protótipo de paciente de IA; espaço para avaliar se vale ter isso na formação.",
+   "funcao": "Situar curiosos e novatos.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:12",
+   "bloco": "Combinados",
+   "descricao": "Um terapeuta traz um caso (real, fictício ou estudo de caso); os demais são ouvintes, diferente do aprimoramento.",
+   "funcao": "Definir papéis.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:06",
+   "bloco": "Teoria",
+   "descricao": "Criatividade clínica: criar compreensões e interpretações novas do caso, não recursos; vieses e aspectos gritantes.",
+   "funcao": "Justificar o exercício.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:04:13",
+   "bloco": "Demonstração",
+   "descricao": "Relato do caso pelo monitorado.",
+   "funcao": "Material comum.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:09:20",
+   "bloco": "Combinados",
+   "descricao": "Consigna do exercício de tradução entre abordagens (análise, contra-análise, tradução, aplicação).",
+   "funcao": "Explicitar etapas.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:11:25",
+   "bloco": "Dinâmica",
+   "descricao": "Leitura do monitorado: papel de cuidadora e lócus de avaliação externo.",
+   "funcao": "Etapa 1.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:14:33",
+   "bloco": "Dinâmica",
+   "descricao": "Leitura de Diogo: função da frieza, não decidir é decidir, punição, ambientes invalidantes.",
+   "funcao": "Etapa 2.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:19:16",
+   "bloco": "Dinâmica",
+   "descricao": "Tradução: rejeição, moldar-se, incongruência como oposto de autenticidade.",
+   "funcao": "Etapa 3.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:21:07",
+   "bloco": "Dinâmica",
+   "descricao": "Aplicação ao caso: incongruência na sessão e na vida.",
+   "funcao": "Etapa 4.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:23:45",
+   "bloco": "Dinâmica",
+   "descricao": "Controle pela audiência, perda da discriminação de sentimentos, FAP e audiência não punitiva; participante sugere awareness.",
+   "funcao": "Novo ciclo de leitura e tradução.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:30:19",
+   "bloco": "Feedback",
+   "descricao": "Resultados das intervenções já feitas; como promover autenticidade; checagem da expectativa do terapeuta.",
+   "funcao": "Ligar teoria a resultados.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:33:45",
+   "bloco": "Dinâmica",
+   "descricao": "História de invalidação, significado de uma frase marcante, pareamento, quebrar o contexto aversivo.",
+   "funcao": "Formulação comportamental.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:39:55",
+   "bloco": "Discussão",
+   "descricao": "Monitorado fala do personagem da paciente e do confronto que não funcionou; reconhece um ponto difícil.",
+   "funcao": "Chegar a pontos não vistos.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:42:21",
+   "bloco": "Discussão",
+   "descricao": "Comentários do chat: reconhecer que não quer acessar, posição diante da mãe, cadeira vazia, por que um personagem.",
+   "funcao": "Abrir para ouvintes.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:45:50",
+   "bloco": "Teoria",
+   "descricao": "Generalização (semáforo, fobias); terapeuta como audiência; pedido de tradução.",
+   "funcao": "Aplicar novo conceito à relação terapêutica.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:50:36",
+   "bloco": "Dúvidas",
+   "descricao": "Dez meses não bastam para confiar? Respostas do monitorado e de Diogo (estágios de mudança, compensação, vínculo, inconsciente).",
+   "funcao": "Tratar dúvida comum de iniciantes.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:58:53",
+   "bloco": "Retomada",
+   "descricao": "Provocar pode reproduzir a invalidação; investigar as conversas; figura e fundo.",
+   "funcao": "Voltar ao fio do caso.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:03:30",
+   "bloco": "Feedback",
+   "descricao": "Avaliação do formato pelo monitorado e pelos ouvintes; generalização operante × respondente.",
+   "funcao": "Coletar feedback.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:07:45",
+   "bloco": "Fechamento",
+   "descricao": "Autoavaliação de Diogo; abordagens não são iguais; futuro da monitoria; pergunta sobre PD.",
+   "funcao": "Consolidar e situar o formato.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Criatividade clínica",
+   "definicao": "Capacidade de criar compreensões e interpretações novas para o caso. Nas aulas da Allos, segundo Diogo, refere-se principalmente ao processo de compreensão, não à invenção de recursos. Serve para escapar dos vieses e do que é mais gritante no caso.",
+   "exemplo": "Reler um caso pela análise do comportamento e traduzir para a Gestalt.",
+   "abordagem": "",
+   "ts": "0:02:06"
+  },
+  {
+   "nome": "Psicologia comparada",
+   "definicao": "Aproximar conceitos de abordagens diferentes para gerar hipóteses, sem afirmar que as abordagens são iguais.",
+   "exemplo": "Lócus de avaliação externo aproximado ao controle pelo ambiente.",
+   "abordagem": "",
+   "ts": "1:09:21"
+  },
+  {
+   "nome": "Lócus de avaliação",
+   "definicao": "Na abordagem centrada na pessoa, o ponto de referência pelo qual a pessoa toma decisões. Quando é externo, ela se guia pelo que é adequado, certo ou errado para os outros, e não pela própria experiência.",
+   "exemplo": "Necessidade de respaldo externo para decidir.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:13:06"
+  },
+  {
+   "nome": "Congruência",
+   "definicao": "Trabalhada pelo negativo: incongruência é a falta de consonância entre o que a pessoa sente e o que mostra, sem transparência no mundo. O monitorado a trata como oposto de autenticidade.",
+   "exemplo": "Rir ou fazer piada quando está desconfortável.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:20:02"
+  },
+  {
+   "nome": "Autenticidade",
+   "definicao": "Estar de modo genuíno e transparente. O terapeuta a promove sendo ele mesmo autêntico (confrontar, falar da relação) e reforçando os momentos genuínos do paciente.",
+   "exemplo": "",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:31:01"
+  },
+  {
+   "nome": "Análise funcional",
+   "definicao": "Todo comportamento está lá por algum motivo; entender os motivos atuais permite, com a pessoa, produzir outros. Vale também para o que a pessoa não faz: se não faz algo que não é obrigada a fazer, é porque isso a prejudica de algum modo.",
+   "exemplo": "A frieza lida como função, não como traço.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:14:33"
+  },
+  {
+   "nome": "Punição",
+   "definicao": "Consequência que reduz um comportamento. Decidir e pedir, quando punidos, invalidados ou humilhados, tornam-se difíceis.",
+   "exemplo": "Dificuldade de decidir como efeito de decisões punidas.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:18:06"
+  },
+  {
+   "nome": "Ambiente invalidante",
+   "definicao": "Ambiente ausente ou que desqualifica a expressão da pessoa; origem provável do comportamento de se afastar.",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:18:06"
+  },
+  {
+   "nome": "Controle pela audiência",
+   "definicao": "O comportamento comunicacional se dá mais em função dos outros do que da própria pessoa. Primeiro ela esconde o sentimento que reconhece; com o tempo, deixa de conseguir identificá-lo.",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:25:27"
+  },
+  {
+   "nome": "Discriminação de sentimentos",
+   "definicao": "Identificar, nomear e expressar o que se sente, na sessão e para outras pessoas; objetivo terapêutico proposto por Diogo.",
+   "exemplo": "Mapear sentimentos e ajudar a dar nome.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:27:57"
+  },
+  {
+   "nome": "Audiência não punitiva",
+   "definicao": "Proposta da FAP: o terapeuta como uma audiência nova na vida do paciente, que reforça o contato genuíno e permite consolidar ganhos na própria relação terapêutica.",
+   "exemplo": "Resposta da FAP à crítica de que o analista do comportamento só tem acesso a uma hora da vida da pessoa.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:26:46"
+  },
+  {
+   "nome": "Awareness",
+   "definicao": "Tomada de consciência na Gestalt-terapia, sugerida no chat como tradução do trabalho de discriminação de sentimentos; apontar incoerências entre corpo e discurso amplia o awareness.",
+   "exemplo": "",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:28:54"
+  },
+  {
+   "nome": "Pareamento de estímulos",
+   "definicao": "Quando pedir ou se expressar ficou associado a sentimentos ruins, a simples situação já evoca dor e a pessoa evita. A tarefa é quebrar o contexto, retirando o valor aversivo.",
+   "exemplo": "Evitar temas sensíveis porque entrar em contato dói.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:38:12"
+  },
+  {
+   "nome": "Generalização",
+   "definicao": "Comportar-se do mesmo modo diante de estímulos fisicamente parecidos. Operante quando envolve ações; respondente quando envolve sentimentos e sensações. O terapeuta, como pessoa, pode evocar as reações dirigidas a outras audiências.",
+   "exemplo": "Semáforo com contador na cidade vizinha; medo de aranhas estendido a outros insetos de pernas longas.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:45:50"
+  },
+  {
+   "nome": "Confronto terapêutico",
+   "definicao": "Provocar o paciente para tirá-lo do personagem ou da defesa, na linha do confronto gestáltico. Funcionou com outro paciente do monitorado, mas, com uma paciente de histórico invalidante, pode reproduzir por generalização a invalidação vivida fora da sessão.",
+   "exemplo": "O atendimento filmado de Perls com Gloria.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:41:39"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "A paciente talvez ainda não veja a questão como problema a mudar, o que ajuda a explicar a pouca abertura apesar do tempo de terapia.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:53:27"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "O vínculo pode existir (a paciente continua vindo) e ainda não permitir determinadas conversas; não se mede por tempo.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:58:03"
+  },
+  {
+   "nome": "Cadeira vazia",
+   "definicao": "Técnica gestáltica sugerida no chat para uma conversa simbólica com a mãe; Diogo reconhece ganhos, mas duvida que resolva o pareamento discutido.",
+   "exemplo": "",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:43:31"
+  },
+  {
+   "nome": "Figura e fundo",
+   "definicao": "Conceito gestáltico sugerido no chat: como o fundo das relações parentais altera a figura das relações atuais. Diogo aproxima da ideia comportamental de semelhança.",
+   "exemplo": "Imagem do cálice que também forma dois rostos.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "1:01:34"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Criatividade clínica",
+   "objetivo": "Gerar compreensões novas de um caso relendo-o por outra abordagem e traduzindo essa leitura para o referencial do terapeuta.",
+   "competencias": [
+    "Formulação de caso",
+    "Articulação teoria-prática",
+    "Interpretação"
+   ],
+   "configuracao": "Online; um terapeuta traz um caso; o supervisor representa outra abordagem; ouvintes comentam pelo chat (quatro a seis pessoas neste encontro).",
+   "tempo": "Cerca de 1 hora.",
+   "materiais": "Um caso com bastante informação (real, fictício ou estudo de caso); chat.",
+   "consigna": "Me fala como você interpretou o caso segundo a sua abordagem. Eu faço a minha análise pelo meu referencial e depois pergunto: como você enxerga isso? Se fosse traduzir para a sua abordagem, que conceitos traria?",
+   "passos": [
+    "Apresentar o conceito de criatividade clínica.",
+    "O terapeuta relata o caso.",
+    "O terapeuta apresenta sua análise teórica.",
+    "O supervisor apresenta a análise pelo próprio referencial.",
+    "O terapeuta traduz para a própria abordagem; o supervisor confere se a palavra é conceito ou linguagem comum.",
+    "Aplicar a tradução ao caso com exemplos da sessão e da história.",
+    "Perguntar o que já foi tentado e com que resultado.",
+    "Repetir o ciclo com novos conceitos.",
+    "Abrir para comentários do chat.",
+    "Avaliar se surgiram insights e se as compreensões servem para outros casos."
+   ],
+   "feedback": "Critérios: precisão conceitual, aplicabilidade ao caso, relação com resultados de intervenções já feitas, surgimento de pontos novos. Diogo não avalia a competência do terapeuta e marca o que é suposição.",
+   "exemplos_praticos": "Convergências entre lócus externo e controle pelo ambiente e entre incongruência e controle pela audiência; o monitorado não achou equivalentes gestálticos para discriminação de sentimentos e audiência, e participantes sugeriram awareness e figura e fundo; ponto novo: confrontos não mobilizam a paciente, talvez por generalização da invalidação. Monitorado e Diogo avaliaram que surgiram poucos insights novos.",
+   "variacoes": "Vários ouvintes de abordagens diferentes traduzindo; aplicar no início da formulação de um caso ou em casos travados.",
+   "armadilhas": "Caso muito pensado gera leitura enrijecida; terapeuta que não domina os conceitos da própria abordagem trava na tradução; o supervisor pode virar professor da própria teoria; muitas perguntas de uma vez; ler o chat no meio do raciocínio desconcentra.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:09:20"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Explicar o propósito para curiosos",
+   "descricao": "Apresenta o que a monitoria testa e convida os ouvintes a avaliar se aprenderiam bem assim.",
+   "exemplo": "Será que eu gostaria de tirar dúvidas e aprender dessa forma? Será que é um espaço relevante para ter dentro da aula?",
+   "ts": "0:00:09"
+  },
+  {
+   "movimento": "Definir papéis",
+   "descricao": "Coloca o terapeuta do dia no centro e os demais como ouvintes, diferenciando do aprimoramento.",
+   "exemplo": "Hoje é mais direcionado ao terapeuta, e vocês ficam mais como ouvintes.",
+   "ts": "0:01:12"
+  },
+  {
+   "movimento": "Sondar o repertório com humor",
+   "descricao": "Pergunta se conhecem o conceito do dia e lê o silêncio com leveza.",
+   "exemplo": "O silêncio mortal é um não.",
+   "ts": "0:02:06"
+  },
+  {
+   "movimento": "Explicitar e recapitular etapas",
+   "descricao": "Descreve o exercício passo a passo e depois diz em que etapa o grupo está.",
+   "exemplo": "Ele trouxe a primeira interpretação, eu trouxe a minha, traduzimos; a próxima etapa é aplicar no caso.",
+   "ts": "0:21:07"
+  },
+  {
+   "movimento": "Parafrasear e aceitar correção",
+   "descricao": "Resume o conceito do monitorado e aceita ser corrigido.",
+   "exemplo": "Só para ver se eu entendi... Na verdade é o lócus de avaliação.",
+   "ts": "0:13:06"
+  },
+  {
+   "movimento": "Exigir precisão conceitual",
+   "descricao": "Pergunta se uma palavra é conceito da abordagem ou linguagem comum.",
+   "exemplo": "Moldar é um conceito da Gestalt?",
+   "ts": "0:19:52"
+  },
+  {
+   "movimento": "Perguntar com curiosidade honesta",
+   "descricao": "Faz perguntas genuínas sobre a outra abordagem e admite o que não sabe.",
+   "exemplo": "Incongruência é o oposto de espontaneidade ou de autenticidade?",
+   "ts": "0:20:02"
+  },
+  {
+   "movimento": "Perguntar por resultados",
+   "descricao": "Antes de propor, pergunta o que já foi feito e o que aconteceu.",
+   "exemplo": "Quais foram os resultados dessa intervenção?",
+   "ts": "0:30:19"
+  },
+  {
+   "movimento": "Checar a expectativa do terapeuta",
+   "descricao": "Nomeia uma possível frustração do monitorado com o ritmo da paciente.",
+   "exemplo": "Me passou a impressão de que você esperava outro resultado.",
+   "ts": "0:33:27"
+  },
+  {
+   "movimento": "Proteger o monitorado",
+   "descricao": "Separa a análise do caso de um julgamento sobre a competência do terapeuta.",
+   "exemplo": "Não estou dizendo que você esteja sendo um mau terapeuta.",
+   "ts": "0:34:58"
+  },
+  {
+   "movimento": "Reconhecer excesso de perguntas",
+   "descricao": "Percebe que sobrecarregou o monitorado e oferece reformular.",
+   "exemplo": "Acho que eu fiz muitas perguntas de uma vez; posso reformular.",
+   "ts": "0:39:33"
+  },
+  {
+   "movimento": "Validar o ponto novo",
+   "descricao": "Transforma o impasse do monitorado em sucesso do exercício.",
+   "exemplo": "Um dos objetivos é chegar em pontos que a gente não tinha visto do caso.",
+   "ts": "0:42:21"
+  },
+  {
+   "movimento": "Integrar o chat em bloco",
+   "descricao": "Lê comentários acumulados, pede desculpas pela demora e às vezes devolve a pergunta ao monitorado.",
+   "exemplo": "Você quer responder essa ou não?",
+   "ts": "0:43:31"
+  },
+  {
+   "movimento": "Explicar com exemplos cotidianos",
+   "descricao": "Usa situações do dia a dia para conceitos comportamentais.",
+   "exemplo": "O semáforo com contador da cidade vizinha para explicar generalização.",
+   "ts": "0:47:07"
+  },
+  {
+   "movimento": "Marcar o grau de certeza",
+   "descricao": "Sinaliza quando uma hipótese é especulativa.",
+   "exemplo": "Uma suposição muito grande; não que ela pense isso, é só uma descrição dos comportamentos.",
+   "ts": "0:53:27"
+  },
+  {
+   "movimento": "Horizontalizar",
+   "descricao": "Lembra que todos são estudantes aprendendo juntos.",
+   "exemplo": "Está todo mundo aprendendo junto; estamos discutindo.",
+   "ts": "0:58:03"
+  },
+  {
+   "movimento": "Avaliar o formato com o grupo",
+   "descricao": "Pede avaliação ao monitorado e aos ouvintes e faz a própria autocrítica.",
+   "exemplo": "A ideia era dar insights novos, e acho que isso não ocorreu tanto.",
+   "ts": "1:06:41"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Quando o paciente não faz algo que não é obrigado a fazer, pergunte o que fazer lhe custaria.",
+   "justificativa": "Comportamento ausente também tem função; a frieza pode ser proteção, não traço.",
+   "contexto": "Queixas de distanciamento ou falta de afeto.",
+   "competencia": "Formulação de caso",
+   "ts": "0:16:26"
+  },
+  {
+   "dica": "Leia a dificuldade de decidir como deixar que decidam por você ou como história de punição ao decidir.",
+   "justificativa": "Não decidir já é decidir; as duas hipóteses levam a caminhos diferentes.",
+   "contexto": "Demanda de indecisão.",
+   "competencia": "Formulação de caso",
+   "ts": "0:18:06"
+  },
+  {
+   "dica": "Verifique se a expressão emocional do paciente está sob controle da audiência.",
+   "justificativa": "Quem sempre ajusta a expressão ao que os outros esperam acaba perdendo a capacidade de identificar o que sente.",
+   "contexto": "Riso no desconforto; ajudar os outros contra a própria vontade.",
+   "competencia": "Interpretação",
+   "ts": "0:25:27"
+  },
+  {
+   "dica": "Seja uma audiência não punitiva e reforce os momentos de contato genuíno na sessão.",
+   "justificativa": "A relação terapêutica é o lugar para consolidar novos comportamentos (FAP).",
+   "contexto": "Pacientes com histórico de invalidação.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:26:46"
+  },
+  {
+   "dica": "Ajude a mapear, nomear e expressar sentimentos, na sessão e fora dela.",
+   "justificativa": "Discriminar os próprios sentimentos é pré-condição para expressá-los.",
+   "contexto": "Incongruência entre o que se sente e o que se mostra.",
+   "competencia": "Intervenção",
+   "ts": "0:27:57"
+  },
+  {
+   "dica": "Antes de insistir numa intervenção, veja o que ela produziu até agora.",
+   "justificativa": "Se apontar a emoção não mobilizou nada, repetir é pouco provável que funcione; o dado muda a hipótese.",
+   "contexto": "Impasses.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:30:19"
+  },
+  {
+   "dica": "Explore o significado das frases fortes com que o paciente resume sua história.",
+   "justificativa": "Elas costumam abrir episódios concretos que sustentam a formulação.",
+   "contexto": "Frases que resumem relações importantes.",
+   "competencia": "Escuta clínica",
+   "ts": "0:35:25"
+  },
+  {
+   "dica": "Se o paciente evita temas sensíveis, considere que falar deles ficou pareado à dor.",
+   "justificativa": "A evitação protege de um sentimento aversivo; a tarefa é retirar o valor aversivo do contexto, não forçar a entrada.",
+   "contexto": "Respostas como não sei ou não quero falar disso agora.",
+   "competencia": "Formulação de caso",
+   "ts": "0:38:12"
+  },
+  {
+   "dica": "Cuidado ao provocar pacientes com histórico de invalidação.",
+   "justificativa": "Por generalização, o terapeuta pode ser vivido como mais uma audiência invalidante, e a provocação reproduz o problema.",
+   "contexto": "Confrontos que não geram reação.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:59:15"
+  },
+  {
+   "dica": "Não use o tempo de terapia como régua de abertura.",
+   "justificativa": "Estágio de mudança, ausência de reforço fora da sessão e mecanismos inconscientes pesam; o vínculo pode existir e ainda não permitir certas conversas.",
+   "contexto": "Sensação de que o paciente já deveria estar se expondo.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:55:47"
+  },
+  {
+   "dica": "Pergunte como são as conversas do paciente com as pessoas próximas.",
+   "justificativa": "A forma como o afeto circula fora da sessão informa sobre as audiências e o que elas reforçam.",
+   "contexto": "Formulação de padrões relacionais.",
+   "competencia": "Formulação de caso",
+   "ts": "1:00:22"
+  },
+  {
+   "dica": "Traduza para a sua abordagem o que ouve de outra, em vez de importar conceitos soltos.",
+   "justificativa": "A leitura externa gera hipóteses, mas a coerência da análise depende do seu referencial.",
+   "contexto": "Supervisões e intervisões com colegas de outras linhas.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:09:21"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Criatividade clínica diz respeito sobretudo à compreensão do caso, não à invenção de recursos.",
+   "argumento": "Vieses e aspectos gritantes do caso cegam para outros aspectos; criar leituras novas amplia a compreensão.",
+   "contraponto": "A ideia corrente de clínico criativo como quem inventa técnicas.",
+   "implicacao": "Treinar a geração de hipóteses alternativas.",
+   "quem": "Diogo",
+   "ts": "0:02:06"
+  },
+  {
+   "tese": "Abordagens não são iguais, mas um referencial externo é fonte legítima de hipóteses.",
+   "argumento": "Há conceitos com aproximações, mas não se aplica uma abordagem na outra; o terapeuta readapta para manter a integridade da análise.",
+   "contraponto": "O ecletismo que importa conceitos soltos e o isolamento entre abordagens.",
+   "implicacao": "Supervisão entre linhas como exercício de tradução.",
+   "quem": "Diogo",
+   "ts": "1:09:21"
+  },
+  {
+   "tese": "A relação terapêutica é o lugar para consolidar ganhos quando se tem acesso a uma hora da vida do paciente.",
+   "argumento": "Resposta da FAP à crítica feita à análise do comportamento; o terapeuta pode ser uma audiência nova e não punitiva.",
+   "contraponto": "A crítica de que a análise do comportamento teria pouca influência sobre o ambiente do paciente.",
+   "implicacao": "Trabalhar comportamentos que surgem na própria sessão.",
+   "quem": "Diogo",
+   "ts": "0:26:46"
+  },
+  {
+   "tese": "Tempo de terapia não garante abertura; o vínculo pode existir e ainda não permitir certas conversas.",
+   "argumento": "Estágios de mudança, compensação, falta de reforço fora da sessão, mecanismos inconscientes; a paciente continuar vindo mostra que há vínculo.",
+   "contraponto": "A expectativa de que, passados alguns meses, o paciente deveria confiar e se expor.",
+   "implicacao": "Não pressionar a exposição a ponto de o paciente se sentir não ouvido e abandonar.",
+   "quem": "Diogo",
+   "ts": "0:52:02"
+  },
+  {
+   "tese": "O confronto pode reproduzir a invalidação que o paciente vive fora.",
+   "argumento": "Por generalização, o terapeuta é mais uma audiência; se os outros provocam e invalidam, a provocação terapêutica pode ser vivida do mesmo modo.",
+   "contraponto": "A estratégia de encher o saco do paciente para tirá-lo do personagem, que funcionou com outro paciente do monitorado.",
+   "implicacao": "Investigar como o paciente vive as provocações dos outros antes de insistir no confronto.",
+   "quem": "Diogo",
+   "ts": "0:59:15"
+  },
+  {
+   "tese": "Todo comportamento tem função, inclusive o que não é feito.",
+   "argumento": "Se a pessoa não faz algo que não é obrigada a fazer, é porque isso a prejudica de algum modo.",
+   "contraponto": "Leituras que tomam a frieza como traço.",
+   "implicacao": "Ler traços como padrões funcionais mantidos por uma história.",
+   "quem": "Diogo",
+   "ts": "0:16:26"
+  },
+  {
+   "tese": "Não existe tempo certo para um cliente se tornar congruente.",
+   "argumento": "Cada cliente tem uma história singular; o tempo depende da condução, da personalidade e do processo.",
+   "contraponto": "Pergunta de participante sobre dez meses de terapia.",
+   "implicacao": "Respeitar o ritmo do paciente sem se frustrar.",
+   "quem": "Monitorado",
+   "ts": "0:50:53"
+  },
+  {
+   "tese": "O exercício de tradução entre abordagens rende mais quando a compreensão do caso ainda não está montada.",
+   "argumento": "Com um caso muito pensado, a leitura do terapeuta tende a ficar enrijecida e os insights novos rareiam.",
+   "contraponto": "",
+   "implicacao": "Usar o formato no início da formulação ou em casos travados.",
+   "quem": "Diogo",
+   "ts": "1:07:45"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Quando você pensa em criatividade clínica, o termo, pelo menos aqui nas aulas, se refere principalmente ao processo de compreensão do caso.",
+   "tema": "Criatividade clínica",
+   "ts": "0:02:06"
+  },
+  {
+   "texto": "O caso chama a atenção para coisas muito gritantes, que podem nos deixar cegos para outras coisas que também são relevantes.",
+   "tema": "Vieses",
+   "ts": "0:03:09"
+  },
+  {
+   "texto": "Em geral, se a pessoa não faz alguma coisa, é porque isso a prejudica de algum jeito.",
+   "tema": "Análise funcional",
+   "ts": "0:16:26"
+  },
+  {
+   "texto": "Não decidir já é uma decisão.",
+   "tema": "Tomada de decisão",
+   "ts": "0:17:04"
+  },
+  {
+   "texto": "Com o tempo, ela está tão acostumada a ser em função do ambiente que começa a não saber identificar o que está sentindo.",
+   "tema": "Controle pela audiência",
+   "ts": "0:26:21"
+  },
+  {
+   "texto": "Ser nós mesmos, terapeutas, uma audiência não punitiva, uma audiência nova na vida dela, que reforce um contato genuíno.",
+   "tema": "FAP",
+   "ts": "0:26:46"
+  },
+  {
+   "texto": "Um dos objetivos dessa forma de trabalhar criatividade clínica é chegar em pontos que a gente não tinha visto do caso.",
+   "tema": "Criatividade clínica",
+   "ts": "0:42:21"
+  },
+  {
+   "texto": "Acima de terapeuta, você também é uma pessoa.",
+   "tema": "Generalização",
+   "ts": "0:45:50"
+  },
+  {
+   "texto": "Quando você provoca, não pode estar sem querer reproduzindo a invalidação que ela experimenta fora da sessão?",
+   "tema": "Confronto e invalidação",
+   "ts": "0:59:15"
+  },
+  {
+   "texto": "Não é que não haja vínculo; é um vínculo que ainda não permite fazer determinada coisa.",
+   "tema": "Vínculo terapêutico",
+   "ts": "0:58:03"
+  },
+  {
+   "texto": "Não é que as abordagens sejam iguais. Isso aqui não é para literalmente aplicar uma coisa da outra.",
+   "tema": "Comparação de abordagens",
+   "ts": "1:09:21"
+  },
+  {
+   "texto": "O meu referencial, enquanto externo, tem um potencial de insights e novas hipóteses; e você faz o trabalho de readaptar para a sua abordagem, para manter a integridade da análise do caso.",
+   "tema": "Comparação de abordagens",
+   "ts": "1:09:21"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "O mesmo fenômeno em duas línguas",
+   "mensagem": "Lócus de avaliação externo (ACP) e controle pelo ambiente (análise do comportamento); incongruência e controle pela audiência: conceitos diferentes que iluminam o mesmo fenômeno.",
+   "roteiro": [
+    "Duas abordagens, uma pessoa",
+    "Lócus de avaliação externo",
+    "Controle pelo ambiente",
+    "Incongruência × controle pela audiência",
+    "Não são iguais, mas conversam",
+    "Traduzir, não importar"
+   ],
+   "corte_inicio": "0:13:06",
+   "corte_fim": "0:14:33"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Não decidir já é decidir",
+   "mensagem": "Duas leituras da dificuldade de decidir: deixar os outros decidirem ou ter sido punido ao decidir.",
+   "roteiro": [
+    "Exemplo da roupa e do clima",
+    "Quem decide quando você não decide?",
+    "Hipótese 1: delegar",
+    "Hipótese 2: história de punição"
+   ],
+   "corte_inicio": "0:17:04",
+   "corte_fim": "0:18:06"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Criatividade clínica não é inventar técnicas",
+   "mensagem": "É criar compreensões novas do caso para escapar dos próprios vieses.",
+   "roteiro": [
+    "Definição",
+    "Por que o óbvio cega",
+    "Como treinar"
+   ],
+   "corte_inicio": "0:02:06",
+   "corte_fim": "0:03:09"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Seu paciente ainda não se abre? Tempo não é régua",
+   "mensagem": "Estágios de mudança, reforço fora da sessão e vínculo que ainda não permite certas conversas.",
+   "roteiro": [
+    "A expectativa comum",
+    "Estágio de mudança",
+    "O ambiente de fora",
+    "O risco de pressionar",
+    "O vínculo existe"
+   ],
+   "corte_inicio": "0:52:02",
+   "corte_fim": "0:55:47"
+  },
+  {
+   "formato": "reels",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Por que seu paciente pode te tratar como trata os outros",
+   "mensagem": "Generalização: o terapeuta é mais uma pessoa e pode evocar as mesmas reações que as outras audiências.",
+   "roteiro": [
+    "O semáforo diferente",
+    "Generalização",
+    "Fobias",
+    "O terapeuta como audiência"
+   ],
+   "corte_inicio": "0:45:50",
+   "corte_fim": "0:48:06"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Terapeuta como audiência não punitiva",
+   "mensagem": "A resposta da FAP para a pergunta: como mudar algo com uma hora por semana?",
+   "roteiro": [
+    "A crítica",
+    "A resposta",
+    "O que isso muda na sessão"
+   ],
+   "corte_inicio": "0:26:46",
+   "corte_fim": "0:27:57"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Supervisão entre abordagens",
+   "mensagem": "Como funciona a monitoria de criatividade clínica: analisar, traduzir, aplicar.",
+   "roteiro": [
+    "O formato",
+    "As quatro etapas",
+    "O que os participantes acharam"
+   ],
+   "corte_inicio": "0:09:20",
+   "corte_fim": "0:11:07"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Fritz Perls",
+   "contexto": "Lembrado pelo monitorado pelo atendimento filmado com Gloria, em que a paciente ri ao dizer que tem medo (incongruência) e em que o terapeuta insiste e confronta (transcrição automática: perto / PS)."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria de criatividade clínica com Diogo (formato experimental)",
+  "objetivo": "Acompanhamento individual de um caso e treino de criatividade clínica pela tradução entre abordagens.",
+  "publico": "Terapeutas e estudantes em formação na Allos; ouvintes curiosos sobre a monitoria.",
+  "tamanho": "Um terapeuta monitorado e quatro a seis ouvintes que comentam pelo chat.",
+  "duracao": "Cerca de 1h10.",
+  "estrutura_padrao": "Explicação da monitoria → conceito do dia → relato do caso → ciclos de análise, contra-análise pela abordagem do supervisor, tradução e aplicação → comentários do chat → avaliação do formato.",
+  "papel_facilitador": "Representa outra abordagem, faz perguntas honestas, exige precisão conceitual, liga teoria a resultados, integra o chat e avalia o formato.",
+  "regras_combinados": "O foco é o terapeuta do dia; ouvintes comentam principalmente pelo chat; caso pode ser real, fictício ou estudo de caso; formato testado com autorização de Alan."
+ },
+ "reflexoes_do_facilitador": [
+  "Reconhece que o exercício gerou poucos insights novos e que talvez funcione melhor quando a compreensão do caso ainda não está montada.",
+  "Pede desculpas por demorar a ler o chat e admite ter se desconcentrado ao ler um comentário.",
+  "Reconhece ter feito muitas perguntas de uma vez.",
+  "Admite não conhecer bem conceitos gestálticos (figura e fundo) e não saber aplicá-los clinicamente.",
+  "Diz que queria testar esse formato e que Alan permitiu experimentar; não sabe se a monitoria seguirá nessa linha, pois há outros monitores e o foco atual está em Alan."
+ ],
+ "referencias_a_outros_encontros": [
+  "O monitorado já tinha apresentado o mesmo caso numa apresentação de caso anterior, com Diogo presente.",
+  "Quando Diogo começou a monitoria ninguém atendia a IA; por isso começou com este monitorado e um caso próprio.",
+  "Uma participante esperava uma monitoria de prática deliberada; Diogo diz não saber se a monitoria vai virar PD.",
+  "Referência ao filme de Perls com Gloria como material conhecido do grupo."
+ ],
+ "observacoes": "Caso real trazido pelo monitorado: anonimizado na nota (sem idade exata, ocupação, detalhes familiares ou do episódio escolar). O protótipo de IA é chamado Eco (?) (Diogo não tem certeza do nome atualizado). Transcrição automática confunde Gestalt, ACP e ACT (o monitorado se diz inclinado à Gestalt e usa muita ACP). Alguns comentários do chat são lidos em voz alta e atribuídos a participantes; neste fichamento aparecem como “participante”. Diogo diz que ele e a maioria dos presentes são estudantes."
+}

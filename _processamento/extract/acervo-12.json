@@ -1,0 +1,803 @@
+{
+  "id": "acervo-12",
+  "nota": "Acervo 12 - Funções da metáfora na clínica",
+  "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+  "titulo": "Funções da metáfora na clínica",
+  "serie": "Aprimoramento Clínico (Acervo)",
+  "formato": "Aprimoramento clínico",
+  "facilitadores": [
+    "Diogo"
+  ],
+  "resumo": "Diogo conduz um aprimoramento clínico online sobre o uso de metáforas na clínica, tratado como competência transteórica. O grupo parte de uma definição construída coletivamente (metáfora x analogia), passa por uma rodada de metáforas já usadas ou ouvidas na clínica e, a partir dela, levanta uma lista de funções da metáfora, registrada no chat (transmitir significado sem vocabulário técnico, evocar emoção, concretizar, desidentificar, condensar a experiência, superar resistências). No 'movimento inverso', os participantes aplicam essas funções a uma frase fictícia de paciente ('estou me sentindo um cachorro atrás do caminhão de mudança'), e daí surgem novas funções: aprofundar, ampliar conteúdos, atingir o ponto central da queixa e servir de indicador das fantasias do terapeuta. O encontro fecha com a tese de que as funções agem juntas, mas o terapeuta deve escolher a metáfora conforme o objetivo clínico e a situação.",
+  "em_uma_frase": "A metáfora é um recurso de todas as abordagens com várias funções simultâneas (explicar, emocionar, concretizar, contornar resistências, aprofundar), mas a metáfora do paciente também diz algo das fantasias do terapeuta, e a do terapeuta deve ser escolhida com precisão conforme o objetivo.",
+  "competencias": [
+    "Intervenção",
+    "Psicoeducação",
+    "Aprofundamento",
+    "Escuta clínica",
+    "Interpretação",
+    "Pessoa do terapeuta"
+  ],
+  "abordagens": [
+    "Psicologia analítica junguiana",
+    "Psicanálise freudiana",
+    "Terapia cognitivo-comportamental",
+    "Terapias contextuais",
+    "Análise do comportamento"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:05",
+      "bloco": "Abertura",
+      "descricao": "Diogo explica o objetivo do grupo de aprimoramento (trabalhar competências clínicas universais, não específicas de uma abordagem), nomeia as abordagens presentes entre os participantes, se apresenta, informa a duração (~1h30) e diz que simulações de atendimento ficam para o grupo de Prática Clínica.",
+      "funcao": "Situar o grupo no ecossistema da Allos e legitimar a diversidade de abordagens na sala.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:02:34",
+      "bloco": "Combinados",
+      "descricao": "Pergunta se há dúvidas sobre o funcionamento; combina levantar a mão no Meet ou escrever no chat; câmera e microfone opcionais, sem insistência.",
+      "funcao": "Baixar a barreira de participação no online.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:02:50",
+      "bloco": "Teoria",
+      "descricao": "Anuncia o tema (metáforas) e pede uma definição ao grupo; recolhe respostas (reflexão, algo do dia a dia para explicar o complexo, comparação ilustrativa) e sistematiza: figura de linguagem, 'água mole em pedra dura', diferença entre metáfora e analogia ('é como se').",
+      "funcao": "Construir a definição a partir do grupo (teoria elicitada, não exposta).",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:07:38",
+      "bloco": "Rodada de respostas",
+      "descricao": "Pergunta: 'vocês já ouviram ou usaram alguma metáfora na clínica que foi interessante?'. Surgem o mito de Procusto, os sonhos como metáfora (com a distinção entre método freudiano e junguiano), parábolas, desenhos e objetos concretos, e um filtro de máscara do Meet usado para abrir uma sessão.",
+      "funcao": "Ancorar o tema na experiência dos participantes e recolher matéria-prima para a teorização.",
+      "duracao_min": 10
+    },
+    {
+      "ts": "0:17:13",
+      "bloco": "Discussão",
+      "descricao": "Diogo destaca que a metáfora põe o paciente em contato com a situação, e não só explica. Um participante traz Oliver Sacks (música e Alzheimer); Diogo liga isso à memória de longo prazo e à carga emocional; Vinícius fala do repertório associativo e da psicoeducação.",
+      "funcao": "Dar fundamento (emocional, cognitivo e comunicacional) ao poder da metáfora.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "0:24:30",
+      "bloco": "Dúvidas",
+      "descricao": "Diogo retoma as funções que já emergiram e responde a uma pergunta do chat sobre a TCC clássica: a metáfora é transteórica (cita Steven Hayes), usada tanto em psicoeducação quanto para aprofundar crenças nucleares.",
+      "funcao": "Responder à dúvida e reforçar o caráter transteórico da competência.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:28:13",
+      "bloco": "Dinâmica",
+      "descricao": "Levantamento coletivo das funções da metáfora, anotadas por Diogo no chat: transmitir significado sem vocabulário técnico; evocar conteúdos emocionais; concretizar/esclarecer; abstrair/desidentificar; trazer para linguagem prática; acessar conteúdos difíceis/superar resistências; condensar a experiência; acessar o inconsciente.",
+      "funcao": "Transformar os relatos em categorias (movimento indutivo).",
+      "duracao_min": 11
+    },
+    {
+      "ts": "0:39:41",
+      "bloco": "Dinâmica",
+      "descricao": "'Movimento inverso': Diogo escreve no chat uma frase fictícia de paciente ('estou me sentindo um cachorro atrás do caminhão de mudança') e pede que o grupo aplique as funções. Discutem abandono x 'mendigar amor', estilo linguístico x reforço da resistência e 'às vezes o charuto é só um charuto'. Surge a função de aprofundamento.",
+      "funcao": "Aplicar as categorias a um estímulo concreto (movimento dedutivo).",
+      "duracao_min": 10
+    },
+    {
+      "ts": "0:49:49",
+      "bloco": "Feedback",
+      "descricao": "Uma participante faz uma leitura completa do 'caso' a partir de uma frase; Diogo devolve: 'você percebe quanto material produziu com uma frase?' e ensina que a metáfora também revela as fantasias do terapeuta, que são dado clínico e exigem cautela. Checa a compreensão.",
+      "funcao": "Transformar a resposta de um participante em lição sobre a pessoa do terapeuta.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:54:28",
+      "bloco": "Dinâmica",
+      "descricao": "Nova consigna: escolher uma palavra da metáfora para fazer uma pergunta ao paciente. Surgem 'mudança' (qual processo?) e 'atrás' (a posição do cachorro, que altera o ditado 'cachorro em dia de mudança'). Conversa sobre ditados populares, fábulas de Esopo e contos dos irmãos Grimm.",
+      "funcao": "Treinar a escolha de um foco de aprofundamento.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "1:01:16",
+      "bloco": "Dinâmica",
+      "descricao": "Provocação: 'por que o paciente escolheu um cachorro?'. Identificação com o personagem central; significados positivos, negativos e culturais do cão (leal, submisso, 'cadelinha', guia dos mortos na tradição mexicana do filme 'Viva - A Vida é uma Festa'). Novas funções: ampliar os conteúdos trabalhados e atingir o ponto central da queixa.",
+      "funcao": "Mostrar a polissemia da imagem e evitar a leitura única.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "1:08:43",
+      "bloco": "Comparação de abordagens",
+      "descricao": "Vinícius mostra que o que foi feito corresponde ao método junguiano de amplificação dos sonhos; Diogo diferencia metáfora de vigília e sonho pelo grau de participação da consciência.",
+      "funcao": "Ligar a competência transteórica a um método de escola.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "1:12:25",
+      "bloco": "Teoria",
+      "descricao": "Síntese: todas as funções acontecem ao mesmo tempo, mas o terapeuta escolhe uma como principal e seleciona a metáfora de acordo com ela. Exemplo: 'água mole em pedra dura' serve para persistência, não para luto.",
+      "funcao": "Fechar com um critério de uso (precisão e adequação ao objetivo).",
+      "duracao_min": 4
+    },
+    {
+      "ts": "1:16:11",
+      "bloco": "Fechamento",
+      "descricao": "Checa dúvidas com quem ficou quieto, apresenta o formulário de presença (horas complementares, feedback do encontro, acompanhamento de quem está no processo seletivo de estágio) e encerra a gravação.",
+      "funcao": "Encerrar, coletar feedback e registrar presença.",
+      "duracao_min": 2
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Metáfora",
+      "definicao": "Figura de linguagem que troca um objeto por outro com base em semelhança de significado, de forma figurada. Carrega um significado não óbvio por meio da exposição de um fenômeno que não está literalmente relacionado ao assunto da conversa. Na clínica, é ferramenta com vários potenciais: explicar, emocionar, concretizar, contornar resistências e aprofundar.",
+      "exemplo": "'Água mole em pedra dura tanto bate até que fura' dito a quem estuda para uma prova: a prova não é de física, mas a imagem transmite persistência.",
+      "abordagem": "Transteórico",
+      "ts": "0:05:20"
+    },
+    {
+      "nome": "Analogia",
+      "definicao": "Comparação explícita, em geral construída com 'é como se'. Também traz um significado de modo não literal, mas explicita a comparação, enquanto a metáfora faz a troca direta.",
+      "exemplo": "'O quarto do Diogo é como se fosse uma loja de cacareco' (analogia) x 'fulano é um servo' (metáfora).",
+      "abordagem": "Transteórico",
+      "ts": "0:05:20"
+    },
+    {
+      "nome": "Repertório associativo",
+      "definicao": "Conjunto de imagens e vocabulário familiares a uma pessoa, que ela usa para compreender algo novo. A metáfora funciona porque pega um mecanismo que a pessoa já conhece para transmitir a essência de outro que ela não domina, e evita o vocabulário técnico da psicologia, que o paciente não tem.",
+      "exemplo": "Explicar um motor a quem não entende de mecânica usando o funcionamento de um computador; explicar 'neurose' sem falar em cisão, consciente e inconsciente.",
+      "abordagem": "Transteórico",
+      "ts": "0:20:32"
+    },
+    {
+      "nome": "Resistência",
+      "definicao": "Dificuldade do paciente em tomar consciência de conteúdos duros. A metáfora ajuda a superá-la porque desloca o julgamento para outros personagens e contextos, o que libera a conclusão que estava bloqueada. A metáfora também pode fazer o contrário: ser um reforço (uma readaptação) da resistência, que mantém o conteúdo 'lá dentro' de forma figurada.",
+      "exemplo": "É mais fácil condenar uma ação quando ela é de um personagem de uma história do que quando é do próprio pai ou filho; depois se pergunta: 'não tem semelhança com o que aconteceu com você?'",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:32:19"
+    },
+    {
+      "nome": "Fantasias do terapeuta",
+      "definicao": "Impressões, sentimentos e hipóteses que a fala do paciente desperta no clínico. Diante de uma metáfora, elas surgem de imediato e podem dizer mais do terapeuta do que do paciente, mas também são produto da relação terapêutica e, por isso, dado de formulação de caso. Pedem cautela antes de qualquer certeza. É próximo do que a psicanálise chama de contratransferência, termo não usado no encontro.",
+      "exemplo": "Diante do 'cachorro atrás do caminhão', uma participante produz uma leitura inteira do caso; Diogo pergunta qual movimento a frase provoca no terapeuta: acolher? sentir dó?",
+      "abordagem": "Transteórico",
+      "ts": "0:51:53"
+    },
+    {
+      "nome": "Identificação",
+      "definicao": "Relação, consciente ou inconsciente, entre a pessoa e o personagem central de uma metáfora, analogia ou história que ela conta. Explorar esse personagem é via para entender as características com que o paciente se identifica.",
+      "exemplo": "Por que 'cachorro' e não outra figura?",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:02:36"
+    },
+    {
+      "nome": "Amplificação",
+      "definicao": "Método junguiano de análise de sonhos (chamado de 'ampliação' na fala): tomar o sonho como metáfora e investigar cada imagem (o cachorro, estar atrás, o caminhão, a mudança) para encontrar a essência do que o inconsciente comunica. Parte da ideia de que a imagem escolhida pelo sonho é a mais fiel possível ao que ele quer dizer. Diferencia-se da associação livre porque sempre volta ao sonho, como quem traduz um texto e retorna ao original.",
+      "exemplo": "Aplicada à frase do paciente: ampliar 'mudança', 'cachorro', 'atrás' e 'caminhão'.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:08:56"
+    },
+    {
+      "nome": "Associação livre",
+      "definicao": "Citada por contraste: usar os elementos do sonho como pontos de partida de uma cadeia de associações foi reconhecido por um participante como 'o método freudiano', diferente do método comparativo/amplificador que ele usa.",
+      "exemplo": "",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:10:11"
+    },
+    {
+      "nome": "Condensação da experiência",
+      "definicao": "Função da metáfora que pega uma experiência complexa e cheia de nuances e a sintetiza numa imagem mais clara, o que organiza a vivência do sujeito e permite discuti-la. Pode ser feita pelo terapeuta ou pedida ao paciente.",
+      "exemplo": "'Me dá uma imagem para essa emoção que você está sentindo'; 'dar nome ou imagem aos demônios'.",
+      "abordagem": "Transteórico",
+      "ts": "0:35:38"
+    },
+    {
+      "nome": "Desidentificação",
+      "definicao": "Função da metáfora que ajuda a pessoa a ver a situação de fora, como se falasse de outro, colocando-se como objeto da situação. Isso facilita falar sobre o tema.",
+      "exemplo": "",
+      "abordagem": "Transteórico",
+      "ts": "0:30:43"
+    },
+    {
+      "nome": "Memória emocional",
+      "definicao": "A passagem de uma informação da memória de curto para a de longo prazo envolve vias que dependem de carga emocional. Por isso estímulos com carga afetiva, como a metáfora e a música, são mais retidos do que explicações racionais.",
+      "exemplo": "Oliver Sacks ('Alucinações musicais'): pacientes com Alzheimer grave cantam uma música inteira que já conheciam, mesmo esquecendo as coisas em segundos.",
+      "abordagem": "Transteórico",
+      "ts": "0:19:19"
+    },
+    {
+      "nome": "Leito de Procusto",
+      "definicao": "Mito grego do anfitrião que cortava ou esticava os hóspedes para caberem em sua cama. Usado por uma participante como metáfora clínica de quem se diminui e corta partes de si para caber no mundo dos outros.",
+      "exemplo": "",
+      "abordagem": "Transteórico",
+      "ts": "0:08:00"
+    },
+    {
+      "nome": "Fábula",
+      "definicao": "História construída para transmitir uma moral. Serve de repertório para treinar metáforas, mas a lição fixa pode soar doutrinária. Um participante observa que as fábulas de Esopo circulavam originalmente sem a moral, acrescentada em compilações posteriores. Diogo prefere os contos dos irmãos Grimm, que trazem mensagens sem estrutura de lição.",
+      "exemplo": "O camundongo da cidade e o camundongo do campo.",
+      "abordagem": "Transteórico",
+      "ts": "0:58:56"
+    },
+    {
+      "nome": "Símbolo",
+      "definicao": "Uma mesma imagem carrega significados diferentes conforme a cultura e a história do paciente. Por isso a metáfora amplia os conteúdos em jogo e não autoriza uma leitura única.",
+      "exemplo": "O cão pode ser leal, submisso ('cadelinha', no uso pejorativo brasileiro) ou guia dos mortos na tradição mexicana retratada no filme 'Viva - A Vida é uma Festa'.",
+      "abordagem": "Transteórico",
+      "ts": "1:03:25"
+    },
+    {
+      "nome": "Conteúdo aversivo",
+      "definicao": "Leitura comportamental da função 'superar resistência': a metáfora reduz a aversividade de um tema difícil de conversar, o que permite trabalhar mais em cima dele.",
+      "exemplo": "",
+      "abordagem": "Análise do comportamento",
+      "ts": "1:06:46"
+    },
+    {
+      "nome": "Psicologia transteórica",
+      "definicao": "Premissa do grupo de aprimoramento: trabalhar competências que toda boa prática clínica exige, qualquer que seja a abordagem (escutar, ser empático, usar metáforas). O 'o quê' é global; o 'como' varia por abordagem.",
+      "exemplo": "Não se treina 'escuta flutuante' ou 'análise funcional', e sim a competência comum a todas.",
+      "abordagem": "Transteórico",
+      "ts": "0:00:05"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Das experiências às funções da metáfora",
+      "objetivo": "Construir coletivamente, a partir de experiências reais ou conhecidas, um repertório das funções que uma metáfora pode cumprir na clínica.",
+      "competencias": [
+        "Intervenção",
+        "Psicoeducação",
+        "Articulação teoria-prática"
+      ],
+      "configuracao": "Grupo todo, online (Google Meet), com uso de microfone e chat; cerca de 10 participantes de abordagens diferentes.",
+      "tempo": "Cerca de 30 minutos (rodada de exemplos ~20 min + levantamento das funções ~11 min).",
+      "materiais": "Chat da chamada (ou quadro) para registrar a lista de funções.",
+      "consigna": "Primeiro: 'Vocês já pararam para pensar ou já ouviram alguma metáfora que foi usada na clínica e foi interessante para vocês?'. Depois: 'Quais vocês diriam que são as funcionalidades de uma metáfora na clínica?'",
+      "passos": [
+        "Pedir ao grupo uma definição de metáfora e sistematizar as respostas (figura de linguagem; diferença para a analogia).",
+        "Abrir a rodada: cada um conta uma metáfora que usou ou ouviu na clínica.",
+        "A cada relato, parafrasear ('de maneira resumida, você está me dizendo que...') e extrair a função implícita.",
+        "Propor a retomada ampliada: 'quais são as funções da metáfora?', começando pelas que já apareceram.",
+        "Registrar cada função no chat com uma formulação curta (ex.: 'evocar/trazer conteúdos emocionais'; 'concretizar/esclarecer uma situação').",
+        "Traduzir falas intuitivas em termos técnicos (ex.: 'acessar conteúdos difíceis' = superar resistências)."
+      ],
+      "feedback": "Validação e paráfrase, sem correção dura; o facilitador checa se entendeu ('Você diz tipo pelo conteúdo do sonho?'), aceita correções do participante e traduz em linguagem técnica. Critério implícito: a função deve ser formulável em poucas palavras e distinta das já listadas.",
+      "exemplos_praticos": "Metáforas relatadas: o leito de Procusto para quem se corta para caber no mundo dos outros; sonhos tomados como metáfora (com a distinção entre associação livre freudiana e amplificação junguiana); uma parábola conhecida usada com paciente que se sentia julgado; desenho e carrinho com criança hospitalizada; um copo d'água cheio até a borda para concretizar o transbordamento; um filtro de máscara no Meet para abrir a sessão com uma paciente que 'usava máscara'. Funções listadas: transmitir significado sem vocabulário técnico; evocar emoção; concretizar/esclarecer; abstrair/desidentificar; linguagem prática; superar resistências; condensar a experiência; acessar o inconsciente.",
+      "variacoes": "Pedir que cada participante traga uma metáfora por escrito antes do encontro; organizar as funções por abordagem; pedir um exemplo novo para cada função listada.",
+      "armadilhas": "Relatos de caso clínico real precisam ser anonimizados. A rodada pode se estender em comentários paralelos. Participantes iniciantes podem se inibir ('por favor não me julguem'), e o facilitador precisa acolher.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:07:38"
+    },
+    {
+      "nome": "Dinâmica - Desdobrar a metáfora do paciente",
+      "objetivo": "Aplicar as funções levantadas a uma metáfora fictícia trazida por um 'paciente' e treinar a escolha do elemento a ser aprofundado, sem fechar a leitura cedo demais.",
+      "competencias": [
+        "Escuta clínica",
+        "Aprofundamento",
+        "Interpretação",
+        "Pessoa do terapeuta"
+      ],
+      "configuracao": "Grupo todo, online; o facilitador escreve a frase no chat e os participantes respondem por microfone ou chat.",
+      "tempo": "Cerca de 30 minutos (três rodadas de ~10 min).",
+      "materiais": "Uma frase metafórica curta e fictícia de paciente (no encontro: 'Estou me sentindo um cachorro atrás do caminhão de mudança').",
+      "consigna": "'O paciente traz para a sessão que está se sentindo um cachorro atrás do caminhão de mudança. Como vocês aplicariam as funções que a gente levantou a essa metáfora?' Depois: 'Se fossem fazer uma pergunta ao paciente envolvendo uma das palavras dessa metáfora, qual palavra escolheriam?' E, por fim: 'Alguém se perguntou por que o paciente trouxe o cachorro, e não qualquer outra figura?'",
+      "passos": [
+        "Escrever a frase no chat, repeti-la em voz alta e deixar claro que o contexto é fictício.",
+        "Rodada 1: o grupo liga a metáfora às funções da lista (é conteúdo emocional? comunica sem vocabulário técnico? é resistência?). Fazer perguntas de diferenciação (ex.: 'abandono e mendigar amor são sinônimos?').",
+        "Quando alguém produzir uma leitura completa, devolver: 'percebe quanto material você produziu a partir de uma frase?' e discutir as fantasias do terapeuta e a necessidade de perguntar ao paciente.",
+        "Rodada 2: cada participante escolhe uma palavra (mudança, atrás, cachorro...) e justifica a pergunta que faria.",
+        "Rodada 3 (provocação): por que essa figura? Levantar significados pessoais, pejorativos, positivos e culturais da imagem.",
+        "Registrar as novas funções que emergirem (aprofundamento, indicador de fantasias do terapeuta, ampliar conteúdos, atingir o ponto central).",
+        "Sintetizar: as funções agem juntas, mas o terapeuta escolhe a principal e a metáfora conforme o objetivo."
+      ],
+      "feedback": "Perguntas socráticas em vez de respostas prontas; paráfrase e nomeação técnica da contribuição (ex.: 'isso é uma readaptação da resistência'); uso da própria resposta do participante como material de ensino (a leitura longa vira lição sobre fantasias do terapeuta). Critérios: não psicologizar tudo, não assumir o significado sem perguntar e justificar a escolha do elemento a aprofundar.",
+      "exemplos_praticos": "Uma participante lê 'abandono'; o facilitador pergunta se abandono e 'mendigar amor' são o mesmo. Vinícius separa metáfora como estilo de comunicação de metáfora como defesa e propõe a pergunta 'o que significa esse cachorro?'. Uma participante constrói uma leitura inteira (sente-se à margem, impotente diante das mudanças) e depois conclui que caberia devolver a pergunta ao paciente. Letícia escolhe 'mudança' (qual processo está em curso?); Vinícius escolhe 'atrás', notando que a frase altera o ditado 'cachorro em dia de mudança'. Na provocação, surgem identificação, lealdade x submissão e o cão como guia na cultura mexicana.",
+      "variacoes": "Trocar a frase por outras expressões populares ('cego em tiroteio', 'bala na boca de banguela'); pedir que cada participante formule a pergunta completa ao paciente (o que aproximaria a dinâmica do formato do Alan); fazer em duplas, com um lendo a metáfora e outro aprofundando.",
+      "armadilhas": "Consigna pouco clara: um participante perguntou 'é para fazer o que com essa metáfora?', e foi preciso reformular apontando as funções da lista. Há risco de a discussão virar projeção coletiva; o facilitador precisa nomear que, com uma frase só, 'vai bater muito na nossa fantasia'. Sem a etapa de formular intervenções, a prática fica no nível da hipótese.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:39:41"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Abrir pelo propósito e pela diversidade",
+      "descricao": "Explica para que serve o aprimoramento (competências universais) e nomeia as abordagens das pessoas na sala, sinalizando que todas cabem.",
+      "exemplo": "'Sei que temos pelo menos uma psicanalista aqui... a ideia hoje não é treinar análise funcional nem identificar crença nuclear.'",
+      "ts": "0:00:05"
+    },
+    {
+      "movimento": "Situar o grupo no ecossistema",
+      "descricao": "Diferencia o aprimoramento do grupo de Prática Clínica (onde ficam as simulações e parte do processo seletivo) para ajustar a expectativa de quem chega.",
+      "exemplo": "'Não necessariamente a gente vai fazer aqui uma simulação de atendimento.'",
+      "ts": "0:01:08"
+    },
+    {
+      "movimento": "Combinados de baixa pressão",
+      "descricao": "Oferece vários canais de participação (mão no Meet, chat, câmera) sem obrigar, mas dizendo que prefere a troca.",
+      "exemplo": "'Já passamos a época do EAD de pedir insistentemente pelas câmeras, mas eu acho muito mais legal quando tem a troca.'",
+      "ts": "0:02:50"
+    },
+    {
+      "movimento": "Elicitar antes de expor",
+      "descricao": "Começa pedindo a definição ao grupo e só depois sistematiza, validando o que há de certo em cada resposta.",
+      "exemplo": "'Eu não sei se essa é a exata definição da metáfora, mas acho que ela é uma parte importante.'",
+      "ts": "0:03:56"
+    },
+    {
+      "movimento": "Objeção antecipada em voz alta",
+      "descricao": "Encena a pergunta que o grupo poderia fazer, para justificar o próximo passo com humor.",
+      "exemplo": "'Beleza, Diogo. Mas o grupo aqui era para ser psicologia, não gramática, né?'; 'Ah, Diogo, mas nossas fantasias a gente resolve na nossa clínica...'",
+      "ts": "0:06:35"
+    },
+    {
+      "movimento": "Paráfrase e checagem",
+      "descricao": "Resume a fala do participante e pergunta se entendeu, e aceita ser corrigido.",
+      "exemplo": "Com os sonhos: 'você está me dizendo que...'; o participante corrige ('não é bem assim, você sempre volta pro sonho') e Diogo reformula.",
+      "ts": "0:09:53"
+    },
+    {
+      "movimento": "Tradução técnica",
+      "descricao": "Converte intuições dos participantes em termos técnicos para consolidar o vocabulário.",
+      "exemplo": "'Acessar conteúdos difíceis é uma forma de superar ou lidar com resistências do paciente.'",
+      "ts": "0:34:30"
+    },
+    {
+      "movimento": "Registro visível",
+      "descricao": "Anota no chat cada função levantada, construindo uma lista coletiva que depois orienta a dinâmica.",
+      "exemplo": "'Vou botar aqui: concretizar barra esclarecer uma situação.'",
+      "ts": "0:30:28"
+    },
+    {
+      "movimento": "Movimento inverso",
+      "descricao": "Depois de ir dos exemplos às categorias, faz o caminho contrário: aplica as categorias a um estímulo novo.",
+      "exemplo": "'Eu queria fazer agora o movimento inverso... Eu trouxe uma metáfora hoje pra gente.'",
+      "ts": "0:39:41"
+    },
+    {
+      "movimento": "Pergunta de diferenciação",
+      "descricao": "Em vez de corrigir uma leitura apressada, pergunta algo que obriga o participante a refinar.",
+      "exemplo": "'Você diria que estar mendigando amor e estar abandonado são emoções sinônimas ou diferentes?'",
+      "ts": "0:42:12"
+    },
+    {
+      "movimento": "Espelhar o processo do participante",
+      "descricao": "Usa a própria produção do participante como material de ensino.",
+      "exemplo": "'Você percebe quanto material você conseguiu produzir de uma leitura do caso só a partir de uma frase do paciente?'",
+      "ts": "0:50:40"
+    },
+    {
+      "movimento": "Checagem de compreensão periódica",
+      "descricao": "Pergunta se faz sentido, lê acenos na câmera e convida quem está sem microfone a usar o chat.",
+      "exemplo": "'Felipe fez que sim, Maria fez que sim. Tem alguém um pouco confuso?'",
+      "ts": "0:53:50"
+    },
+    {
+      "movimento": "Provocação",
+      "descricao": "Lança uma pergunta que ninguém fez para abrir outra camada de análise.",
+      "exemplo": "'Vou provocar vocês: alguém se perguntou por que o paciente trouxe o cachorro e não qualquer outra figura?'",
+      "ts": "1:01:16"
+    },
+    {
+      "movimento": "Leveza com os próprios erros",
+      "descricao": "Admite enganos com humor, o que baixa a tensão e modela a falibilidade.",
+      "exemplo": "'Foi mal, viajei' (ao dar a palavra a quem não tinha levantado a mão); 'Essa frase ficou péssima'.",
+      "ts": "0:43:49"
+    },
+    {
+      "movimento": "Acolher o iniciante",
+      "descricao": "Responde à insegurança de uma estudante ('eu cometi algum erro?') mostrando que a contribuição dela já tinha sido formulada por outro participante.",
+      "exemplo": "'Não, eu acredito que não, até porque foi algo que o Vinícius tinha comentado.'",
+      "ts": "0:38:00"
+    },
+    {
+      "movimento": "Síntese com critério de uso",
+      "descricao": "Fecha integrando as funções e dando uma regra prática de escolha.",
+      "exemplo": "'É interessante filtrar e escolher com precisão, com acurácia, qual metáfora a gente quer utilizar em função do nosso objetivo.'",
+      "ts": "1:12:25"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Pergunte ao paciente o que a metáfora significa para ele antes de interpretá-la.",
+      "justificativa": "Uma frase só não dá acesso ao conteúdo inteiro, e a metáfora ativa de imediato as fantasias do terapeuta; quem dá o significado é o sujeito.",
+      "contexto": "Quando o paciente traz uma imagem figurada ('me sinto um cachorro atrás do caminhão de mudança').",
+      "competencia": "Escuta clínica",
+      "ts": "0:50:53"
+    },
+    {
+      "dica": "Observe qual movimento a metáfora provoca em você (vontade de acolher, dó, irritação) e trate isso como dado.",
+      "justificativa": "As fantasias e sentimentos do terapeuta são produto da relação e entram na formulação de caso; se não forem notados, levam a intervenções equivocadas baseadas na própria emoção.",
+      "contexto": "Sempre que uma imagem do paciente mobilizar afeto no clínico.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:51:53"
+    },
+    {
+      "dica": "Escolha um elemento da metáfora para aprofundar: o personagem, a posição ou o processo.",
+      "justificativa": "Cada elemento abre um caminho diferente (o que é o cachorro, por que atrás, que mudança é essa), e às vezes o central da queixa está justamente num deles.",
+      "contexto": "Na investigação de uma metáfora trazida pelo paciente.",
+      "competencia": "Aprofundamento",
+      "ts": "1:06:14"
+    },
+    {
+      "dica": "Explore o personagem central da metáfora.",
+      "justificativa": "O personagem central de uma metáfora, analogia ou história costuma indicar com o que a pessoa se identifica, consciente ou inconscientemente.",
+      "contexto": "Quando a intenção é entender as identificações do paciente.",
+      "competencia": "Aprofundamento",
+      "ts": "1:02:36"
+    },
+    {
+      "dica": "Investigue o sentido cultural e pessoal da imagem, em vez de assumir o seu.",
+      "justificativa": "A mesma figura pode ser pejorativa num contexto e guia ou proteção em outro; a metáfora amplia os conteúdos em jogo.",
+      "contexto": "Com pacientes de outras culturas, regiões ou gerações.",
+      "competencia": "Interpretação",
+      "ts": "1:03:25"
+    },
+    {
+      "dica": "Repare quando o paciente altera um ditado popular.",
+      "justificativa": "A diferença entre o ditado conhecido ('cachorro em dia de mudança') e a versão dita ('atrás do caminhão') é informativa: aponta a posição que a pessoa se atribui.",
+      "contexto": "Quando a fala usa expressões feitas.",
+      "competencia": "Escuta clínica",
+      "ts": "0:56:41"
+    },
+    {
+      "dica": "Faça a pergunta complementar ('o que significa esse cachorro?') para diferenciar estilo de defesa.",
+      "justificativa": "Há pessoas que simplesmente elaboram emoções por metáforas; em outras, a metáfora mantém o conteúdo inconsciente. A reação à pergunta (destrinchar ou se surpreender) mostra qual é o caso.",
+      "contexto": "Pacientes que falam muito por imagens.",
+      "competencia": "Escuta clínica",
+      "ts": "0:46:38"
+    },
+    {
+      "dica": "Não psicologize toda metáfora.",
+      "justificativa": "'Às vezes o charuto é só um charuto': nem toda metáfora é sobre abandono, e ler tudo como sintoma atropela o paciente.",
+      "contexto": "Quando a leitura do terapeuta ficar rápida e dramática demais.",
+      "competencia": "Interpretação",
+      "ts": "0:47:52"
+    },
+    {
+      "dica": "Na psicoeducação, troque o vocabulário técnico por uma metáfora do repertório do paciente.",
+      "justificativa": "O paciente não tem o repertório associativo da psicologia; imagens familiares transmitem a essência da mensagem e alcançam mais gente.",
+      "contexto": "Ao explicar funcionamento psíquico, diagnóstico ou conceitos (ex.: neurose).",
+      "competencia": "Psicoeducação",
+      "ts": "0:21:56"
+    },
+    {
+      "dica": "Use uma história sobre terceiros para aproximar um conteúdo que o paciente bloqueia e só depois pergunte sobre a semelhança com a vida dele.",
+      "justificativa": "É mais fácil condenar o mal no outro do que em si ou em quem se ama; a metáfora tira os personagens principais de cena e libera a conclusão.",
+      "contexto": "Quando o paciente está perto de reconhecer algo, mas as imagens que usa bloqueiam o julgamento (ex.: sobre um familiar).",
+      "competencia": "Intervenção",
+      "ts": "0:33:13"
+    },
+    {
+      "dica": "Quando a explicação racional não toca, use uma imagem com carga emocional.",
+      "justificativa": "A carga afetiva favorece a fixação na memória de longo prazo; a metáfora põe o paciente em contato com a situação, algo que a explicação teórica não faz.",
+      "contexto": "Quando o paciente entende, mas não sente, o que está sendo trabalhado.",
+      "competencia": "Intervenção",
+      "ts": "0:19:19"
+    },
+    {
+      "dica": "Considere concretizar a metáfora com objetos, desenhos ou recursos da própria sessão.",
+      "justificativa": "Tornar visual e tocável ajuda o paciente a 'sentir frente a frente' o problema e depois abstrair para outras situações.",
+      "contexto": "Com crianças, em contexto hospitalar ou quando a palavra não basta.",
+      "competencia": "Intervenção",
+      "ts": "0:13:54"
+    },
+    {
+      "dica": "Peça ao paciente uma imagem para o que ele sente.",
+      "justificativa": "A metáfora condensa uma experiência complexa numa figura clara, o que organiza a vivência e permite discuti-la.",
+      "contexto": "Emoções difusas ou difíceis de nomear.",
+      "competencia": "Aprofundamento",
+      "ts": "0:36:43"
+    },
+    {
+      "dica": "Escolha a metáfora em função do objetivo clínico do momento.",
+      "justificativa": "Todas as funções agem juntas, mas a figura precisa servir à principal (vencer uma resistência, mobilizar afeto, explicar um conceito) e à situação: 'água mole em pedra dura' combina com persistência, não com luto.",
+      "contexto": "Antes de usar uma metáfora como intervenção.",
+      "competencia": "Intervenção",
+      "ts": "1:13:39"
+    },
+    {
+      "dica": "Devolva ao paciente, com as palavras dele, a metáfora ligada a um valor que ele preza.",
+      "justificativa": "Mesmo sem conteúdo emocional explícito, a imagem que 'bate' com o valor do paciente produz alívio e a sensação de ser entendido.",
+      "contexto": "Quando o paciente fala de algo que valoriza (ex.: persistência).",
+      "competencia": "Acolhimento e validação",
+      "ts": "1:14:38"
+    },
+    {
+      "dica": "Treine seu repertório de metáforas com fábulas e contos.",
+      "justificativa": "Oferecem centenas de histórias prontas; os contos dos irmãos Grimm trazem mensagens sem a moral fixa, o que evita o tom de doutrina.",
+      "contexto": "Estudo e preparação do terapeuta.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:58:56"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "O aprimoramento clínico deve treinar competências universais, não técnicas de uma escola.",
+      "argumento": "Toda boa prática clínica tem escuta e empatia; o 'como' varia entre abordagens, mas o 'o quê' é comum. Por isso o grupo não treina escuta flutuante ou análise funcional, e sim o que atravessa todas.",
+      "contraponto": "Formação centrada em uma abordagem só.",
+      "implicacao": "Grupos mistos, com exemplos de várias escolas e linguagem acessível a todas.",
+      "quem": "Diogo",
+      "ts": "0:00:05"
+    },
+    {
+      "tese": "A metáfora é um recurso transteórico.",
+      "argumento": "Comportamentais, freudianos, junguianos e humanistas-existenciais usam metáforas; Steven Hayes discute muito o tema; a TCC pode usá-la tanto em psicoeducação quanto para aprofundar crenças nucleares e pensamentos automáticos.",
+      "contraponto": "A ideia de que metáfora 'é coisa' de uma abordagem, ou de que a TCC clássica prefere explicação acadêmica (algumas vertentes de fato preferem).",
+      "implicacao": "Qualquer clínico precisa treinar o uso de metáforas.",
+      "quem": "Diogo",
+      "ts": "0:26:07"
+    },
+    {
+      "tese": "A metáfora não é só uma explicação racional: ela coloca o paciente em contato com a experiência.",
+      "argumento": "O exemplo da máscara mostra que a pessoa viveu a dificuldade, em vez de ouvir sobre ela; a carga emocional das imagens (como a da música) ativa outras vias e fixa a memória.",
+      "contraponto": "Uma clínica apenas explicativa e argumentativa.",
+      "implicacao": "Usar metáforas para mobilizar afeto, não só para esclarecer.",
+      "quem": "Diogo e participantes",
+      "ts": "0:17:37"
+    },
+    {
+      "tese": "A metáfora pode servir à resistência, e não só vencê-la.",
+      "argumento": "Ela pode ser um escape do inconsciente e, ao mesmo tempo, uma readaptação da resistência, que mantém o conteúdo lá dentro de forma figurada; ou pode ser apenas o estilo de comunicação da pessoa.",
+      "contraponto": "A visão ingênua de que toda metáfora é uma porta aberta ao inconsciente.",
+      "implicacao": "Testar com perguntas complementares antes de interpretar.",
+      "quem": "Vinícius (participante), sistematizado por Diogo",
+      "ts": "0:48:59"
+    },
+    {
+      "tese": "A metáfora do paciente também fala do terapeuta.",
+      "argumento": "A quantidade de leituras que uma frase gera mostra que a metáfora pega o lado emotivo do clínico; essas fantasias são produto da relação e dado de formulação, mas não podem virar certeza.",
+      "contraponto": "'Nossas fantasias a gente resolve na nossa análise': Diogo concorda que a sessão não é lugar para o terapeuta se analisar, mas diz que as fantasias são dado clínico.",
+      "implicacao": "Separar o que é hipótese do terapeuta do que é fala do paciente; perguntar antes de intervir.",
+      "quem": "Diogo",
+      "ts": "0:51:53"
+    },
+    {
+      "tese": "A escolha da metáfora deve ser precisa e subordinada ao objetivo clínico.",
+      "argumento": "Como as funções agem juntas, o terapeuta precisa eleger a principal e escolher a imagem que a sirva; uma figura adequada para determinação pode ser inadequada para tristeza e luto.",
+      "contraponto": "Uso de metáforas prontas e genéricas.",
+      "implicacao": "Ter repertório e critério; antes de falar, perguntar para que serve a metáfora.",
+      "quem": "Diogo",
+      "ts": "1:13:39"
+    },
+    {
+      "tese": "A metáfora de vigília e o sonho diferem pelo grau de participação da consciência.",
+      "argumento": "O sonho tem presença maior do inconsciente; a metáfora dita acordado passa por mecanismos conscientes que podem bloquear conteúdos, mas ainda tem potencial de acesso por via parecida.",
+      "contraponto": "Tratar toda metáfora como se fosse um sonho.",
+      "implicacao": "Aplicar a amplificação à metáfora com mais cautela e em escala menor.",
+      "quem": "Diogo, com concordância de Vinícius",
+      "ts": "1:11:12"
+    },
+    {
+      "tese": "Os contos dos irmãos Grimm são melhores que as fábulas moralizantes para trabalhar metáforas.",
+      "argumento": "A fábula é construída para uma lição; os contos trazem mensagens e valores sem estrutura de lição, o que deixa o sentido mais aberto.",
+      "contraponto": "Um participante lembra que as fábulas de Esopo circulavam originalmente sem a moral, acrescentada depois.",
+      "implicacao": "Escolher histórias abertas quando o objetivo é que o paciente produza o sentido.",
+      "quem": "Diogo",
+      "ts": "0:58:56"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Que escuta é essa varia pela abordagem. Agora, o fato de a gente ter que escutar é global para todas as abordagens.",
+      "tema": "Competências transteóricas",
+      "ts": "0:01:08"
+    },
+    {
+      "texto": "A metáfora carrega um significado não óbvio por meio da exposição de um fenômeno que não é literalmente relacionado ao que está sendo conversado.",
+      "tema": "Definição de metáfora",
+      "ts": "0:05:20"
+    },
+    {
+      "texto": "Você colocou ela literalmente em contato com a situação, algo que uma explicação teórica não necessariamente consegue fazer.",
+      "tema": "Metáfora e experiência",
+      "ts": "0:17:37"
+    },
+    {
+      "texto": "É muito mais fácil a gente condenar o mal no outro do que o mal na gente.",
+      "tema": "Metáfora e resistência (Vinícius)",
+      "ts": "0:33:13"
+    },
+    {
+      "texto": "A metáfora meio que liberta: alcança uma certa consciência sem que os personagens principais da história precisem estar em jogo.",
+      "tema": "Metáfora e resistência (Vinícius)",
+      "ts": "0:34:30"
+    },
+    {
+      "texto": "Dar nome ou imagem aos demônios.",
+      "tema": "Condensação da experiência (participante)",
+      "ts": "0:37:19"
+    },
+    {
+      "texto": "Nem tudo é sobre o falo, e nem toda metáfora é sobre abandono.",
+      "tema": "Não psicologizar tudo",
+      "ts": "0:47:52"
+    },
+    {
+      "texto": "Você percebe quanto material você conseguiu produzir só a partir de uma frase do paciente?",
+      "tema": "Fantasias do terapeuta",
+      "ts": "0:50:40"
+    },
+    {
+      "texto": "Uma metáfora também pode ser um indicador das próprias fantasias do terapeuta sobre o caso.",
+      "tema": "Fantasias do terapeuta",
+      "ts": "0:51:53"
+    },
+    {
+      "texto": "Só nessa frase a gente já viu três possibilidades diferentes de aprofundamento: o que é o cachorro, por que é atrás e que mudança é essa.",
+      "tema": "Ampliar conteúdos",
+      "ts": "1:06:14"
+    },
+    {
+      "texto": "Às vezes o discurso do paciente é a máscara, é a barreira que está escondendo o ouro. Se a gente quebra a metáfora, pode chegar ao ponto central.",
+      "tema": "Atingir o ponto central",
+      "ts": "1:06:46"
+    },
+    {
+      "texto": "Se o inconsciente decidiu utilizar aquela imagem para se comunicar, é porque ela é a mais fiel possível daquilo que ele quer comunicar.",
+      "tema": "Sonho e amplificação junguiana (Vinícius)",
+      "ts": "1:10:21"
+    },
+    {
+      "texto": "É interessante a gente filtrar e escolher com precisão, com acurácia, qual metáfora quer utilizar em função do nosso objetivo.",
+      "tema": "Escolha da metáfora",
+      "ts": "1:13:39"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "8 coisas que uma metáfora faz na terapia (e você talvez não saiba)",
+      "mensagem": "A metáfora explica sem jargão, mobiliza emoção, concretiza, dá distância, condensa a experiência, contorna resistências, aprofunda e revela o ponto central da queixa.",
+      "roteiro": [
+        "Capa: 'Metáfora não é enfeite: é ferramenta clínica'",
+        "Explicar sem jargão (repertório do paciente)",
+        "Mobilizar emoção (memória e afeto)",
+        "Concretizar e dar distância (ver de fora)",
+        "Condensar: 'me dá uma imagem para o que você sente'",
+        "Contornar resistências: é mais fácil julgar o outro",
+        "Aprofundar e ampliar",
+        "Fechamento: escolha a metáfora pelo objetivo"
+      ],
+      "corte_inicio": "0:28:13",
+      "corte_fim": "0:39:41"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "O paciente diz: 'me sinto um cachorro atrás do caminhão de mudança'. O que você pergunta?",
+      "mensagem": "Frase fictícia de exercício: antes de interpretar, escolha um elemento (o cachorro, o 'atrás', a mudança) e pergunte; a primeira leitura costuma ser sua, não do paciente.",
+      "roteiro": [
+        "Frase na tela",
+        "Três portas: personagem, posição, processo",
+        "'Por que cachorro?': leal, submisso ou guia?",
+        "Alerta: sua leitura pode ser fantasia sua",
+        "CTA: qual palavra você escolheria?"
+      ],
+      "corte_inicio": "0:54:28",
+      "corte_fim": "0:58:25"
+    },
+    {
+      "formato": "post",
+      "pilar": "abordagens-em-dialogo",
+      "gancho": "Freud, Jung, TCC e ACT usam metáforas, mas não do mesmo jeito",
+      "mensagem": "Associação livre x amplificação junguiana dos sonhos; metáfora em psicoeducação e para aprofundar crenças na TCC; Steven Hayes e a tradição contextual; redução da aversividade na leitura comportamental.",
+      "roteiro": [
+        "Psicanálise: elemento do sonho como ponto de partida de associações",
+        "Junguiana: amplificar cada imagem e voltar ao sonho",
+        "TCC: psicoeducação e aprofundamento de crenças",
+        "Comportamental: reduzir a aversividade do tema"
+      ],
+      "corte_inicio": "1:08:56",
+      "corte_fim": "1:12:25"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "A metáfora do seu paciente também fala de você",
+      "mensagem": "A rapidez com que construímos uma história inteira a partir de uma frase mostra nossas fantasias; elas são dado clínico, não verdade sobre o paciente.",
+      "roteiro": [
+        "'Quanto você concluiu a partir de uma frase?'",
+        "Fantasias do terapeuta = produto da relação",
+        "Pergunte antes de interpretar",
+        "Nem toda metáfora é sobre abandono"
+      ],
+      "corte_inicio": "0:50:40",
+      "corte_fim": "0:53:50"
+    },
+    {
+      "formato": "post",
+      "pilar": "clinica-na-pratica",
+      "gancho": "'Água mole em pedra dura' serve para persistência, mas não para o luto",
+      "mensagem": "Escolha a metáfora pelo objetivo clínico (resistência, afeto, explicação) e pela situação emocional do paciente.",
+      "roteiro": [
+        "Toda metáfora faz várias coisas ao mesmo tempo",
+        "Mas você escolhe a principal",
+        "Exemplo certo x exemplo errado"
+      ],
+      "corte_inicio": "1:12:25",
+      "corte_fim": "1:15:53"
+    },
+    {
+      "formato": "reels",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Como é um aprimoramento clínico na Allos: do exemplo à teoria e de volta à prática",
+      "mensagem": "Primeiro o grupo conta metáforas que viveu, depois extrai as funções e, por fim, aplica tudo a uma frase nova (o 'movimento inverso').",
+      "roteiro": [
+        "Pergunta de abertura",
+        "Lista coletiva no chat",
+        "Frase-estímulo",
+        "Síntese final"
+      ],
+      "corte_inicio": "0:39:41",
+      "corte_fim": "0:41:26"
+    },
+    {
+      "formato": "stories",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Esopo ou irmãos Grimm? Onde treinar suas metáforas",
+      "mensagem": "Fábulas e contos são um banco de metáforas; contos sem moral fixa deixam o sentido mais aberto para o paciente.",
+      "roteiro": [
+        "Enquete: fábula ou conto?",
+        "Por que o conto é mais aberto",
+        "Dica de leitura"
+      ],
+      "corte_inicio": "0:58:56",
+      "corte_fim": "1:01:16"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Steven Hayes",
+      "contexto": "Citado por Diogo como autor que discute muito o uso de metáforas (tradição da terapia de aceitação e compromisso), para mostrar que o recurso é transteórico."
+    },
+    {
+      "nome": "Oliver Sacks",
+      "contexto": "Livro 'Alucinações musicais', citado por um participante: pacientes com Alzheimer grave conseguem cantar músicas conhecidas, o que mostra o papel da carga emocional na memória."
+    },
+    {
+      "nome": "Sigmund Freud",
+      "contexto": "'Às vezes o charuto é só um charuto' (frase atribuída), contra a psicologização de tudo; o método de associação a partir de elementos do sonho é chamado de 'método freudiano'."
+    },
+    {
+      "nome": "Carl Jung",
+      "contexto": "Método junguiano de análise de sonhos por amplificação, descrito por Vinícius e comparado ao exercício com a metáfora."
+    },
+    {
+      "nome": "Esopo",
+      "contexto": "Fábulas lembradas como bom treino em metáforas; um participante afirma que a moral foi acrescentada posteriormente."
+    },
+    {
+      "nome": "Irmãos Grimm",
+      "contexto": "Contos preferidos por Diogo por trazerem mensagens sem estrutura de lição de moral."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Aprimoramento clínico (versão reflexiva do Diogo)",
+    "objetivo": "Trabalhar uma competência clínica universal, válida para qualquer abordagem (neste encontro: o uso de metáforas), mais pela reflexão guiada e pela aplicação a estímulos fictícios do que pela simulação de atendimento.",
+    "publico": "Estudantes de psicologia (vários no meio do curso) e psicólogos iniciantes de abordagens variadas (psicanálise, TCC/comportamental, junguiana, humanista); alguns em processo seletivo para estágio na Allos.",
+    "tamanho": "Cerca de 10 a 12 participantes online, parte só no chat.",
+    "duracao": "Cerca de 1h30 prevista (gravação de 1h17).",
+    "estrutura_padrao": "1) Abertura com o propósito do aprimoramento e o lugar do grupo na formação da Allos; 2) combinados de participação; 3) pergunta de definição ao grupo e sistematização breve; 4) rodada de experiências dos participantes; 5) levantamento coletivo de categorias registradas no chat (movimento indutivo); 6) 'movimento inverso': aplicação das categorias a um estímulo fictício, em rodadas com consignas cada vez mais específicas; 7) provocação que abre outra camada; 8) síntese com critério de uso; 9) formulário de presença e feedback.",
+    "papel_facilitador": "Mediador socrático: elicita, parafraseia, traduz em termos técnicos, registra no chat, faz perguntas de diferenciação e provocações e sintetiza no fim. Expõe pouca teoria diretamente, dá pouca correção individual e usa bastante humor e autoironia.",
+    "regras_combinados": "Levantar a mão no Meet ou escrever no chat; câmera e microfone opcionais (sem cobrança); casos da dinâmica são fictícios; formulário de presença vale horas complementares, recolhe feedback e ajuda a acompanhar candidatos ao estágio. Simulações de atendimento ficam para o grupo de Prática Clínica.",
+    "comparacao_formato_alan": "Mantém o espírito do aprimoramento (competência transteórica, participação ativa, síntese final), mas inverte a ordem e o peso do método do Alan (teoria mínima, exercício, feedback). Diogo não expõe a teoria antes: constrói-a com o grupo a partir de experiências (indução) e depois a aplica (dedução). O 'exercício' é uma discussão coletiva de uma frase-estímulo, e não a produção individual de intervenções formuladas palavra por palavra. O feedback é mais validação e tradução técnica do que correção fina da qualidade da resposta. Resultado: mais reflexão conceitual e diversidade de abordagens, menos treino de execução (construção frasal) e menos exigência individual."
+  },
+  "reflexoes_do_facilitador": [
+    "Diz que gosta de fazer o grupo 'sempre mais reflexivo, sempre gente trocando ideia' e de colocar alguma parte prática nos seus grupos, sem necessariamente simular atendimento.",
+    "Sobre câmeras: 'já passamos a época do EAD de pedir insistentemente pelas câmeras', mas acha a troca mais rica com câmera ligada.",
+    "Brinca com os próprios limites: 'não sou o maior neuropsicólogo da história e não sou nem o menor'.",
+    "Admite enganos na gestão de turnos ('foi mal, viajei'; 'não estou alucinando dessa vez') e na formulação ('essa frase ficou péssima').",
+    "Reconhece que a função de psicoeducação 'já veio naturalmente' antes do momento previsto no roteiro ('algo que a gente já estava prescrito pra gente conversar').",
+    "Falha logística no fim: esperava ter o link do formulário de presença e não tinha."
+  ],
+  "referencias_a_outros_encontros": [
+    "Grupo de Prática Clínica: é onde acontecem as simulações de atendimento, como parte do processo seletivo para atender na clínica da Allos.",
+    "Diogo coordena outras atividades da Allos ao longo da semana ('a gente vai se ver ao longo da semana').",
+    "Formulário de presença comum aos grupos: horas complementares, feedback e acompanhamento de candidatos ao estágio.",
+    "Diogo lembra que 'ano passado' conversou sobre a fábula do camundongo da cidade e do campo (contexto não especificado).",
+    "Vinícius e Diogo também participam do encontro anterior do acervo (Acervo 11, sobre trabalho e saúde mental), em que Diogo aparece como participante."
+  ],
+  "observacoes": "Legenda automática com erros de nomes: 'Olive Sex/Alber Sax' = Oliver Sacks; 'Reis/Steven Hees' = Steven Hayes; 'Êxodo' = Esopo; 'proclustro' = Procusto; 'irmãos Green' = irmãos Grimm; 'traumatizações' = dramatizações (provável); 'forgiano/fradiana' = freudiano/freudiana; 'yunguiana' = junguiana; 'ao vivo a vida deu uma festa' = filme 'Viva - A Vida é uma Festa' (Disney/Pixar); o cão da tradição mexicana é o xoloitzcuintle (Diogo não lembra o nome da raça). Nomes de participantes também oscilam (Eline/Elene/Helene/Elane; Ângelo/Angele/Angel). Quem aponta a metáfora como possível reforço da resistência é Vinícius (participante de orientação junguiana, também presente no Acervo 11). Os exemplos clínicos contados pelos participantes (paciente após tentativa de suicídio, criança hospitalizada, paciente 'de máscara') foram mantidos genéricos. Diogo se apresenta como coordenador do grupo; no Acervo 11 ele se identifica como estudante de psicologia. Comparado ao formato do Alan, o encontro tem menos treino de execução e mais construção conceitual coletiva. Curiosamente, no Alan 07 o Alan lembra que na Grécia os caminhões de mudança levam escrito 'metaphorá' (transporte): uma coincidência com a frase-estímulo do exercício."
+}

@@ -28,7 +28,7 @@ transcricoes-allos/
 
 ## 3. O que foi feito e o que falta
 - **Fichados (nota + JSON estruturado):** 18 encontros do Alan, 22 monitorias, 25 encontros do Acervo, 9 de Prática Deliberada, 7 de Prática Clínica e 14 vídeos da playlist "Dicas para a Avaliação Clínica". O [[MOC - Fichamentos]] mostra o estado exato.
-- **Pendentes (49 vídeos, só com transcrição bruta):** Psicologia Geral (7), Psicologia Geral - Allos Formação (11), PBE (8), Psicologia Comparada (4), Como Estudar (6), CumbucaCast (2), Vídeos avulsos (3; o `avulsos-03` é idêntico ao `psigeral-04`).
+- **Pendentes (41 vídeos, só com transcrição bruta):** Psicologia Geral (7), Psicologia Geral - Allos Formação (11), PBE (8), Psicologia Comparada (4), Como Estudar (6), CumbucaCast (2), Vídeos avulsos (3; o `avulsos-03` é idêntico ao `psigeral-04`).
 - **Notas de síntese** (dinâmicas, competências, dicas, teses, conceitos, abordagens, autores, formatos, bancos de conteúdo, apostilas e trilha do Alan): **geradas por script** a partir dos JSONs. Se novos vídeos forem fichados, basta rodar o script de novo (passo 4).
 
 ## 4. Como continuar o processamento (vídeos pendentes)

@@ -1,0 +1,830 @@
+{
+ "id": "mon-10",
+ "nota": "Monitoria 10 - João de Bragança - Dor somática, resistência e hipóteses revisáveis",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Dor somática, resistência e hipóteses revisáveis",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "João de Bragança"
+ ],
+ "resumo": "João de Bragança supervisiona o primeiro atendimento de uma aluna com um paciente homem simulado por IA (ferramenta de pacientes simulados da Allos), escolhido porque atender homens adultos é uma dificuldade pessoal dela. Lendo o log fala a fala, ele pede o raciocínio de cada intervenção, testa se ela 'comprou' hipóteses e oferece leituras alternativas: justificativas como marcadores de afeto, o trabalho como campo de afetividade, a negação do paciente como dialética e histericização. As críticas centrais: não é preciso supor causa psicológica para trabalhar uma dor (trabalhar afetações, não causas); a aluna interpretou rápido demais; e faltou mapear expectativas e visão do paciente sobre a psicoterapia na primeira sessão. Ele também toca a pessoa da terapeuta (o medo de ser violenta). No fechamento, contrapõe a autoexigência da aluna, chama o erro de rota de produtivo e defende que as hipóteses não são absolutas e devem ser corrigíveis junto com o paciente, autor da construção.",
+ "em_uma_frase": "Supervisionando uma primeira sessão com paciente simulado, João ensina a sustentar de onde parte cada pergunta, a usar a negação do paciente, a não comprar a causa psicológica de uma dor e a tratar hipóteses como revisáveis e compartilhadas.",
+ "competencias": [
+  "Intervenção",
+  "Interpretação",
+  "Construção frasal",
+  "Acolhimento e validação",
+  "Aprofundamento",
+  "Formulação de caso",
+  "Primeira sessão e entrevistas iniciais",
+  "Abertura e encerramento de sessão",
+  "Psicoeducação",
+  "Relação terapêutica",
+  "Pessoa do terapeuta",
+  "Articulação teoria-prática",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Terapia cognitivo-comportamental",
+  "Terapias contextuais",
+  "Análise do comportamento",
+  "Psicanálise lacaniana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Abertura",
+   "descricao": "Chegada; João explica o que é a monitoria (discutir casos de quem atende na Allos) e apresenta a ferramenta de pacientes simulados por IA.",
+   "funcao": "Situar recém-chegados no formato e na ferramenta.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:01:50",
+   "bloco": "Teoria",
+   "descricao": "Vantagem da ferramenta sobre o roleplay: rever a objetividade do atendimento; convite à aluna para contextualizar.",
+   "funcao": "Justificar o método e dar a palavra à supervisionanda.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:35",
+   "bloco": "Discussão",
+   "descricao": "A aluna fala da dificuldade de atender homens e de uma abertura 'engessada'; João pede que defina o termo e ressignifica o clichê como protetivo.",
+   "funcao": "Transformar autocrítica vaga em critério.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:05:06",
+   "bloco": "Discussão",
+   "descricao": "Primeiras falas: pergunta de validação; 'você comprou a hipótese de que a dor é mental?'; modelo biopsicossocial; 'justo'.",
+   "funcao": "Checar o raciocínio por trás da pergunta.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:10:26",
+   "bloco": "Discussão",
+   "descricao": "Pergunta curta sobre o que mais ele foi 'levando'; a aluna liga a forma curta ao feedback anterior de Alan; João propõe mapear os dias em que a dor melhora e o automonitoramento.",
+   "funcao": "Ligar forma e intenção; abrir hipóteses de trabalho.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:14:14",
+   "bloco": "Discussão",
+   "descricao": "Como a aluna se sentia diante do paciente; lembrança de um atendimento real anterior com um homem; tema da resistência.",
+   "funcao": "Trazer a pessoa do terapeuta para a análise.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:17:25",
+   "bloco": "Teoria",
+   "descricao": "Evidências de resistência; resistência versus esquiva; desprezo pelas 'coisas da cabeça' como dificuldade de entrar em si.",
+   "funcao": "Diferenciar conceitos e fundamentar hipóteses.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:20:51",
+   "bloco": "Discussão",
+   "descricao": "Intervenção sobre a 'rotina definida'; justificativas como marcadores de valor; a resposta em dois blocos (trabalho e relacional).",
+   "funcao": "Ensinar leitura em camadas da fala do paciente.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:24:15",
+   "bloco": "Feedback",
+   "descricao": "Frustração da aluna; João discorda e oferece dois caminhos: explicitar ao paciente que respondeu parcialmente ou ler o trabalho como campo de afetividade.",
+   "funcao": "Mostrar que a porta não se fechou; treinar o 'malabarismo' entre hipóteses.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:28:41",
+   "bloco": "Discussão",
+   "descricao": "Intervenção longa com as palavras do paciente; 'a voz do Alan parou de falar na sua cabeça'; colocar perguntas diretas em contexto.",
+   "funcao": "Calibrar tamanho e contextualização das falas.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:31:58",
+   "bloco": "Teoria",
+   "descricao": "Negação do paciente: pensar em opostos, dialética, histericização (Lacan), crenças centrais, tese e antítese; risco do paciente sugestionável.",
+   "funcao": "Fundamentar o valor clínico da negação.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:35:41",
+   "bloco": "Discussão",
+   "descricao": "O paciente afirma que seu jeito é o certo; a aluna identifica crenças, critica a noção de distorção como 'pensamento errado' e fala do medo de ser violenta.",
+   "funcao": "Explicitar a tensão entre confrontar e validar.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:39:09",
+   "bloco": "Feedback",
+   "descricao": "Leitura pessoal de João sobre a dificuldade da aluna de ver violência; ela reage, ele pede desculpas, ela reconhece.",
+   "funcao": "Supervisionar a pessoa do terapeuta.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:40:38",
+   "bloco": "Discussão",
+   "descricao": "Validação da história de vida; a dor que 'força a parar'; convite a dar voz à dor; 'como bancar a resposta?'.",
+   "funcao": "Avaliar intervenções vivenciais e suas consequências.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:43:29",
+   "bloco": "Discussão",
+   "descricao": "Limites estruturais (não poder parar de trabalhar), discurso neoliberal, abertura na terapia de aceitação e compromisso, técnicas vivenciais.",
+   "funcao": "Articular clínica e realidade socioeconômica.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:46:35",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "João chama participantes pelo nome para opinar.",
+   "funcao": "Abrir a monitoria ao grupo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:47:12",
+   "bloco": "Teoria",
+   "descricao": "Dor interpretada como alarme; 'pergunta maliciosa' (e se for uma bactéria?); causas versus afetações; encaminhamento médico por exclusão.",
+   "funcao": "Ensinar a não psicologizar a queixa por exclusão.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:53:20",
+   "bloco": "Discussão",
+   "descricao": "O paciente rebate; 'errei o caminho'; qual foi o erro de verdade; a contradição não evidenciada.",
+   "funcao": "Especificar o erro em vez de sofrer com ele.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:57:19",
+   "bloco": "Discussão",
+   "descricao": "Recalculação de rota com recapitulação longa; o paciente aceita tentar escutar a dor; aliança de trabalho.",
+   "funcao": "Examinar o reparo e alternativas (confrontar a contradição).",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:01:25",
+   "bloco": "Feedback",
+   "descricao": "Interpretação rápida demais; faltou mapear expectativas e visão da psicoterapia; resistência especulativa; elogio a 'o que você acha disso?'.",
+   "funcao": "Consolidar as críticas centrais.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:04:27",
+   "bloco": "Discussão",
+   "descricao": "Reforço positivo e fechamento da sessão simulada; a aluna teme não ter assegurado a segunda sessão; João questiona.",
+   "funcao": "Avaliar o encerramento.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:07:44",
+   "bloco": "Rodada de respostas",
+   "descricao": "Participantes comentam a aliança construída, o preconceito masculino com terapia e o fato de ser uma IA programada.",
+   "funcao": "Trazer outras perspectivas e relativizar a autocrítica.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:12:47",
+   "bloco": "Feedback",
+   "descricao": "'Pesando a mão' na autoavaliação; erro produtivo; hipótese não absoluta; paciente como autor da construção.",
+   "funcao": "Síntese e tese central do supervisor.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:16:26",
+   "bloco": "Discussão",
+   "descricao": "A aluna reflete sobre o próprio progresso e a autoexigência; boas-vindas a participante nova.",
+   "funcao": "Metarreflexão sobre desenvolvimento profissional.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:20:06",
+   "bloco": "Fechamento",
+   "descricao": "Encerramento por horário; plano de divulgar a ferramenta para mais alunos; retorno na semana seguinte.",
+   "funcao": "Encerrar e projetar a continuidade.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Paciente simulado por IA",
+   "definicao": "Personagem criado por inteligência artificial na ferramenta da Allos para simular pacientes e treinar habilidades clínicas. Permite rever o atendimento com objetividade e calma, algo que o roleplay não permite, embora tenha limitações (é programado para resistir e para ter continuidade).",
+   "exemplo": "O caso tem um rótulo genérico, não um nome pessoal; o log é lido fala a fala na monitoria.",
+   "abordagem": "",
+   "ts": "0:00:30"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Na leitura da aluna, o comportamento do paciente de manter o discurso de sempre e externalizar responsabilidades, que dificulta a abertura. João lembra que, quando montada a partir de sinais e não declarada, é uma hipótese especulativa.",
+   "exemplo": "'Sempre levei assim' e a descrição padronizada da rotina como sinais.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:17:54"
+  },
+  {
+   "nome": "Esquiva",
+   "definicao": "Conceito da TCC e da análise do comportamento. A aluna distingue: a resistência é o comportamento; a esquiva é sua função.",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:19:09"
+  },
+  {
+   "nome": "Justificativa como marcador de afeto",
+   "definicao": "Quando o paciente acrescenta a um relato uma justificativa que ninguém pediu, o relato deixa de ser 'puro' e indica um lugar de valor ou uma questão; a ausência de justificativa onde se esperaria impacto também informa.",
+   "exemplo": "O relato sobre ver pouco o filho vem seguido de 'mas cada um com a sua vida'.",
+   "abordagem": "",
+   "ts": "0:22:09"
+  },
+  {
+   "nome": "Vocabulário do paciente",
+   "definicao": "Princípio de devolver usando as palavras do próprio paciente. Usar um termo do terapeuta tem o custo de afastar-se da linguagem dele, mas pode provocar uma negação fértil.",
+   "exemplo": "A aluna introduziu a palavra 'peso', que o paciente negou.",
+   "abordagem": "",
+   "ts": "0:31:58"
+  },
+  {
+   "nome": "Negação como material clínico",
+   "definicao": "A recusa do paciente a uma hipótese do terapeuta é frutífera: cria dialética (duas pessoas de fato em contato) e instala dúvida sobre crenças antes inquestionadas, uma tese e uma antítese.",
+   "exemplo": "'Pelo menos agora foi instalada uma dúvida: ele tem algo a negar.'",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:33:06"
+  },
+  {
+   "nome": "Histericização do sujeito",
+   "definicao": "Princípio que João atribui a Lacan: uma das funções da análise é tornar o sujeito 'histérico', isto é, alguém que tem dúvida sobre si. João o combina às crenças centrais da TCC.",
+   "exemplo": "'Frankenstein de abordagem': histericizar é pôr em dúvida as crenças que a pessoa carrega como 'o jeito que é'.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:33:06"
+  },
+  {
+   "nome": "Crença central",
+   "definicao": "Ideias de que a pessoa não duvida e que organizam a vida de forma rígida, sem outras possibilidades; a aluna as chama de 'crenças limitantes' e identifica pelo menos três no caso.",
+   "exemplo": "A crença de que 'ir levando' é o jeito certo de tocar a vida.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:34:21"
+  },
+  {
+   "nome": "Distorção cognitiva",
+   "definicao": "Noção da TCC que a aluna critica quando entendida como 'pensamento errado': para a pessoa, a crença é o certo, a forma de sobrevivência e o modo como aprendeu a existir.",
+   "exemplo": "",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:37:35"
+  },
+  {
+   "nome": "Abertura psicológica",
+   "definicao": "Processo que a aluna quer trabalhar com base na terapia de aceitação e compromisso: permitir-se sentir e se perceber, reconhecendo um espaço interno de escolha mesmo diante de limites externos.",
+   "exemplo": "Dar um 'vislumbre' de que é possível, via metáfora ou técnica vivencial/corporal.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:44:34"
+  },
+  {
+   "nome": "Modelo biopsicossocial",
+   "definicao": "Visão da aluna de que não há separação entre dor física e psicológica; mesmo com causa orgânica, o psicológico age como fator protetivo ou estressor.",
+   "exemplo": "O intestino como 'segundo cérebro'.",
+   "abordagem": "",
+   "ts": "0:07:09"
+  },
+  {
+   "nome": "Afetação e causa",
+   "definicao": "Distinção de João: diante de uma dor, pode-se raciocinar sobre sua causa (supondo-a psicológica) ou trabalhar como ela afeta psicologicamente a pessoa, o que é concomitante, sem teorizar a causa. O segundo caminho é mais seguro.",
+   "exemplo": "E se o médico descobrir depois uma bactéria? Médicos encaminham por exclusão: 'só pode ser coisa da sua cabeça'.",
+   "abordagem": "",
+   "ts": "0:51:52"
+  },
+  {
+   "nome": "Interpretação precoce",
+   "definicao": "Explicar ao paciente como ele funciona antes de haver material e vínculo suficientes.",
+   "exemplo": "'Você tem cinco minutos com a pessoa e magicamente sabe como ela funciona.'",
+   "abordagem": "",
+   "ts": "1:01:25"
+  },
+  {
+   "nome": "Expectativas do paciente",
+   "definicao": "O que o paciente espera da terapia e como a vê. Mapeá-las na primeira sessão faz o paciente refletir sobre preconceitos, favorece a adesão e reduz a especulação sobre resistência.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:02:02"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "Citada pela aluna como 'working alliance', 'aliança colaborativa, não necessariamente terapêutica', ao justificar a recapitulação que fez para propor ao paciente uma tarefa comum.",
+   "exemplo": "Propor 'tentar escutar a dor' e perguntar o que o paciente acha.",
+   "abordagem": "",
+   "ts": "0:59:03"
+  },
+  {
+   "nome": "Reforço positivo",
+   "definicao": "Nome dado por João ao elogio da terapeuta à disposição do paciente em experimentar algo novo; ele o considera importante e não o desmerece.",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "1:04:27"
+  },
+  {
+   "nome": "Hipótese clínica provisória",
+   "definicao": "A hipótese como construção corrigível e compartilhada: deve ficar claro para o terapeuta e para o paciente que o que o terapeuta diz não é absoluto, e o autor da construção é o paciente.",
+   "exemplo": "Combinar com o paciente: 'se não concordar, pode falar; a gente recalcula'.",
+   "abordagem": "",
+   "ts": "1:14:05"
+  },
+  {
+   "nome": "Contratransferência",
+   "definicao": "Termo não usado na monitoria, mas é o conceito mais próximo da dificuldade da aluna com homens e da identificação com um atendimento anterior, que João aponta como o que mais pesa no caso.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:14:05"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Leitura comentada de atendimento simulado",
+   "objetivo": "Examinar fala a fala o raciocínio clínico por trás de cada intervenção de um atendimento registrado e seus efeitos no paciente.",
+   "competencias": [
+    "Intervenção",
+    "Interpretação",
+    "Formulação de caso",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Um supervisionando e um supervisor, grupo como ouvinte convidado a comentar; online com tela compartilhada; log de atendimento com paciente simulado por IA.",
+   "tempo": "Cerca de 1h20 (a monitoria inteira).",
+   "materiais": "Log escrito do atendimento simulado; compartilhamento de tela.",
+   "consigna": "Contextualize por que você quer trazer esse caso; a cada intervenção, conte que raciocínio havia ali.",
+   "passos": [
+    "O supervisionando conta por que escolheu o caso e a dificuldade pessoal em jogo.",
+    "O supervisor lê a fala do paciente e a intervenção.",
+    "Pergunta a intenção ('teve algum raciocínio aqui?', 'qual a intenção desse parágrafo?').",
+    "Testa hipóteses ('você comprou a hipótese?', 'e se descobrirem uma bactéria?').",
+    "Oferece sua leitura da fala do paciente e caminhos alternativos.",
+    "Lê a resposta do paciente como efeito da intervenção.",
+    "Abre ao grupo, chamando pelo nome.",
+    "Fecha com síntese de pontos fortes, críticas e uma tese geral."
+   ],
+   "feedback": "A intervenção é avaliada pela justificativa sustentável, não pela forma ideal; critérios: hipóteses abertas e testáveis, uso do vocabulário do paciente (ou risco assumido), ausência de interpretação precoce, clareza sobre expectativas do paciente. João valida ('justo', 'bela pergunta') e discorda abertamente ('não significa que eu concordo').",
+   "exemplos_praticos": "A aluna justificou quase todas as escolhas; João mostrou uma contradição que ela não evidenciou (o paciente diz não sentir a dor, mas já faltou ao trabalho por causa dela) e propôs ler o trabalho como campo de afetividade em vez de esquiva.",
+   "variacoes": "Comparar com gravações de outros alunos que atenderam personagens parecidos; pedir que o supervisionando diga o que mudou desde o atendimento.",
+   "armadilhas": "O tempo não basta para o log inteiro; o grupo fica em silêncio se não for chamado; a supervisão pode escorregar para interpretação pessoal do supervisionando.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:05:06"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Situar recém-chegados",
+   "descricao": "Explica o formato da monitoria e a ferramenta antes de começar.",
+   "exemplo": "'A monitoria é um espaço para discutir casos de pessoas que atendem na Allos'; apresentação dos pacientes simulados por IA.",
+   "ts": "0:00:30"
+  },
+  {
+   "movimento": "Começar pela motivação do supervisionando",
+   "descricao": "Pede que a aluna diga por que trouxe o caso, trazendo a dificuldade pessoal para o centro.",
+   "exemplo": "'Se você quiser contextualizar por que acha importante trazer esse caso'.",
+   "ts": "0:01:58"
+  },
+  {
+   "movimento": "Pedir definição de termos vagos",
+   "descricao": "Transforma autocrítica difusa em critério discutível e depois a ressignifica.",
+   "exemplo": "'Defina engessado.' Em seguida: o clichê bem feito pode ser protetivo.",
+   "ts": "0:02:35"
+  },
+  {
+   "movimento": "Perguntar o raciocínio antes de avaliar",
+   "descricao": "Para em cada intervenção e pede a intenção.",
+   "exemplo": "'Teve algum raciocínio aqui?', 'Qual a intenção desse parágrafo?', 'Você estava consciente?'",
+   "ts": "0:40:38"
+  },
+  {
+   "movimento": "Testar hipóteses com perguntas de estresse",
+   "descricao": "Força a aluna a sustentar ou revisar o raciocínio.",
+   "exemplo": "'Você comprou a hipótese de que a dor é mental?'; 'pergunta maliciosa': e se for uma bactéria?",
+   "ts": "0:48:28"
+  },
+  {
+   "movimento": "Discordar abertamente e oferecer caminhos",
+   "descricao": "Diz que entende mas não concorda e mostra alternativas concretas.",
+   "exemplo": "'Entendi. Não significa que eu concordo.' Seguem duas saídas para voltar ao ponto desejado.",
+   "ts": "0:26:23"
+  },
+  {
+   "movimento": "Ler o não verbal",
+   "descricao": "Usa a expressão facial da aluna como entrada.",
+   "exemplo": "'Fez uma carinha aí, né?'",
+   "ts": "0:21:03"
+  },
+  {
+   "movimento": "Pontes entre abordagens",
+   "descricao": "Traduz conceitos entre TCC, análise do comportamento, terapia de aceitação e compromisso e psicanálise.",
+   "exemplo": "Resistência versus esquiva; histericização lacaniana + crenças centrais ('Frankenstein de abordagem').",
+   "ts": "0:34:21"
+  },
+  {
+   "movimento": "Supervisionar a pessoa do terapeuta",
+   "descricao": "Arrisca uma leitura pessoal sobre a dificuldade da aluna e pede desculpas quando ela sente o golpe.",
+   "exemplo": "'Te psicologizando rapidamente': é difícil ver violência no outro quando é difícil se ver violento. 'Perdão.'",
+   "ts": "0:39:09"
+  },
+  {
+   "movimento": "Humor para desdramatizar",
+   "descricao": "Usa piadas para baixar a tensão do erro.",
+   "exemplo": "Chapolin ('não criemos pânico'); 'a voz do Alan parou de falar na sua cabeça'; 'carinha chato' sobre o paciente simulado.",
+   "ts": "0:29:05"
+  },
+  {
+   "movimento": "Comparar com outros casos",
+   "descricao": "Remete a gravação de outra monitoria para calibrar o que é falar demais.",
+   "exemplo": "Um terapeuta que fala sete minutos seguidos sem deixar o paciente falar.",
+   "ts": "0:31:22"
+  },
+  {
+   "movimento": "Metacomentário",
+   "descricao": "Nomeia o efeito da própria insistência antes de explicar por que insiste.",
+   "exemplo": "'Tô te neurotizando também'.",
+   "ts": "0:50:35"
+  },
+  {
+   "movimento": "Pedir que o erro seja especificado",
+   "descricao": "Converte a frustração em diagnóstico da intervenção.",
+   "exemplo": "'O que você considera que foi o erro de verdade?'",
+   "ts": "0:54:46"
+  },
+  {
+   "movimento": "Chamar o grupo pelo nome",
+   "descricao": "Abre a palavra quando percebe que está falando sozinho.",
+   "exemplo": "Lista os presentes e convida a opinar.",
+   "ts": "0:46:35"
+  },
+  {
+   "movimento": "Marcar opinião pessoal",
+   "descricao": "Assume posicionamentos como seus.",
+   "exemplo": "'Eu, João, botem na minha conta'.",
+   "ts": "1:02:02"
+  },
+  {
+   "movimento": "Fechar contra a autoexigência",
+   "descricao": "Relativiza a autocrítica, chama o erro de produtivo e termina com uma tese geral.",
+   "exemplo": "'Você está pesando a mão na sua própria avaliação'; hipótese não absoluta.",
+   "ts": "1:12:47"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Tenha uma justificativa para cada pergunta, mesmo a mais protocolar.",
+   "justificativa": "O problema não é o clichê, e sim não saber de onde a pergunta partiu.",
+   "contexto": "Início de sessão, sobretudo com pacientes que mobilizam o terapeuta.",
+   "competencia": "Intervenção",
+   "ts": "0:09:23"
+  },
+  {
+   "dica": "Diante de uma dificuldade pessoal com o tipo de paciente, apoie-se no protocolo.",
+   "justificativa": "O 'estatístico' protege o paciente das questões do terapeuta.",
+   "contexto": "Quando o paciente desperta desconforto pessoal.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:03:49"
+  },
+  {
+   "dica": "Mapeie quando a queixa melhora e quando piora.",
+   "justificativa": "A variação permite investigar a relação com a condição psicológica e ensinar o paciente a se observar no cotidiano.",
+   "contexto": "Queixas somáticas ou oscilantes.",
+   "competencia": "Formulação de caso",
+   "ts": "0:13:19"
+  },
+  {
+   "dica": "Marque as justificativas que o paciente dá sem ser perguntado.",
+   "justificativa": "Indicam um lugar de valor e afeto por onde entrar.",
+   "contexto": "Relatos aparentemente neutros sobre vínculos.",
+   "competencia": "Escuta clínica",
+   "ts": "0:22:09"
+  },
+  {
+   "dica": "Se o paciente respondeu só uma parte da pergunta, diga isso a ele.",
+   "justificativa": "Você pode mostrar seu raciocínio ao paciente e voltar ao ponto que queria.",
+   "contexto": "Quando a resposta foge do que foi perguntado.",
+   "competencia": "Intervenção",
+   "ts": "0:26:46"
+  },
+  {
+   "dica": "Considere que o tema que parece esquiva pode ser o tema do afeto.",
+   "justificativa": "Para alguns pacientes, o trabalho é para onde toda a afetividade está direcionada.",
+   "contexto": "Quando a hipótese inicial não se confirma.",
+   "competencia": "Interpretação",
+   "ts": "0:27:28"
+  },
+  {
+   "dica": "Coloque as perguntas diretas em contexto, retomando as palavras do paciente.",
+   "justificativa": "A pergunta curta impacta, mas pode gerar resposta automática; retomar as falas mostra que você escutou.",
+   "contexto": "Sempre que houver material do paciente para citar.",
+   "competencia": "Construção frasal",
+   "ts": "0:31:22"
+  },
+  {
+   "dica": "Receba a negação do paciente como avanço.",
+   "justificativa": "Ela instala dúvida onde havia crença inquestionada e cria diálogo real.",
+   "contexto": "Ao devolver uma percepção que o paciente não formulou.",
+   "competencia": "Interpretação",
+   "ts": "0:34:59"
+  },
+  {
+   "dica": "Desconfie da concordância fácil.",
+   "justificativa": "O paciente sugestionável concorda sem sentir o que você disse.",
+   "contexto": "Ao propor leituras com palavras suas.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:34:59"
+  },
+  {
+   "dica": "Valide a história de vida antes de questionar crenças rígidas.",
+   "justificativa": "As crenças nascem de um contexto e foram a forma de sobrevivência da pessoa; validar abre espaço para falar de escolhas e arrependimentos.",
+   "contexto": "Pacientes com crenças rígidas ligadas à história de vida.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:41:02"
+  },
+  {
+   "dica": "Antes de propor uma técnica vivencial, pense no que fará com a resposta.",
+   "justificativa": "Muitos pacientes travam, e a resposta pode esbarrar em limites reais (não poder parar de trabalhar).",
+   "contexto": "Metáforas, 'dar voz' ao sintoma, técnicas corporais.",
+   "competencia": "Intervenção",
+   "ts": "0:43:29"
+  },
+  {
+   "dica": "Não assuma que uma dor encaminhada pelo médico tem causa psicológica; trabalhe as afetações.",
+   "justificativa": "Pode ser uma causa ainda não descoberta; trabalhar como a dor afeta a pessoa é mais seguro.",
+   "contexto": "Queixas somáticas sem achado orgânico.",
+   "competencia": "Formulação de caso",
+   "ts": "0:51:52"
+  },
+  {
+   "dica": "Quando o paciente se contradiz na mesma resposta, considere evidenciar a contradição.",
+   "justificativa": "Costuma ser mais potente do que recapitular ou reinterpretar.",
+   "contexto": "Dizer que não sente a dor e, ao mesmo tempo, contar que faltou ao trabalho por causa dela.",
+   "competencia": "Intervenção",
+   "ts": "0:55:59"
+  },
+  {
+   "dica": "Segure a interpretação do funcionamento do paciente na primeira sessão.",
+   "justificativa": "Explicar como alguém funciona com meia hora de contato é precoce e presunçoso.",
+   "contexto": "Primeiras sessões.",
+   "competencia": "Interpretação",
+   "ts": "1:01:25"
+  },
+  {
+   "dica": "Pergunte pelas expectativas e pela visão da psicoterapia logo no início.",
+   "justificativa": "O paciente reflete sobre seus preconceitos, adere mais ao processo e você deixa de supor resistência.",
+   "contexto": "Primeira sessão, especialmente com pacientes encaminhados.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "1:02:02"
+  },
+  {
+   "dica": "Deixe o paciente escolher o caminho perguntando o que ele acha da proposta.",
+   "justificativa": "Fortalece a colaboração e a adesão.",
+   "contexto": "Ao propor uma nova forma de lidar com o problema.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:03:15"
+  },
+  {
+   "dica": "Combine com o paciente que ele pode discordar de você.",
+   "justificativa": "A terapia é um projeto construído; as hipóteses se corrigem juntas.",
+   "contexto": "Desde o início do processo.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:14:05"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O clichê bem feito não é necessariamente um erro.",
+   "argumento": "Muitas vezes é o mais estatístico em psicologia; quando o terapeuta tem uma questão pessoal com o caso, seguir o protocolo protege o paciente.",
+   "contraponto": "A autocrítica da aluna, que via o protocolar como engessado e pouco humano.",
+   "implicacao": "Julgar a intervenção pela justificativa e pelo contexto, não pela originalidade.",
+   "quem": "João de Bragança",
+   "ts": "0:03:49"
+  },
+  {
+   "tese": "As negações dos pacientes às hipóteses do terapeuta são muito frutíferas.",
+   "argumento": "Criam dialética e histericizam o sujeito, instalando dúvida sobre crenças inquestionadas.",
+   "contraponto": "Ler a negação como fracasso; risco inverso do paciente sugestionável que só concorda.",
+   "implicacao": "Devolver percepções que possam ser negadas e trabalhar com a negação.",
+   "quem": "João de Bragança",
+   "ts": "0:33:06"
+  },
+  {
+   "tese": "Trabalhar psicologicamente com uma dor não exige supor que sua causa seja psicológica.",
+   "argumento": "Há uma mentalidade de buscar causas a todo custo; médicos encaminham por exclusão; às vezes a causa só não foi descoberta; é possível trabalhar afetações.",
+   "contraponto": "A interpretação da dor como alarme e o modelo biopsicossocial da aluna ('segundo cérebro').",
+   "implicacao": "Intervir sobre como a dor afeta a vida, sem apostar a sessão numa causalidade psicológica.",
+   "quem": "João de Bragança",
+   "ts": "0:51:52"
+  },
+  {
+   "tese": "Interpretar o funcionamento do paciente muito cedo é um risco.",
+   "argumento": "Em cinco minutos ou meia hora não se sabe como alguém funciona; é 'too much'.",
+   "contraponto": "A postura de 'arriscar tudo' da aluna; comparação com outro atendimento bem pior.",
+   "implicacao": "Dosar interpretações nas primeiras sessões.",
+   "quem": "João de Bragança",
+   "ts": "1:01:25"
+  },
+  {
+   "tese": "Na primeira sessão é muito importante mapear expectativas e visão do paciente sobre a psicoterapia.",
+   "argumento": "Faz o paciente refletir sobre preconceitos que nem sabia ter, suaviza o processo e substitui a especulação sobre resistência.",
+   "contraponto": "A escolha justificada da aluna de validar a dor em vez de psicoeducar.",
+   "implicacao": "Incluir expectativas no roteiro das entrevistas iniciais.",
+   "quem": "João de Bragança",
+   "ts": "1:02:02"
+  },
+  {
+   "tese": "Um grande problema do psicólogo é guardar para si 100% do pensamento sobre o processo.",
+   "argumento": "A terapia é um projeto construído e o autor da construção é o paciente; hipóteses não são absolutas e se corrigem na conversa.",
+   "contraponto": "Tratar a hipótese como incorrigível; uma participante enfatiza o terapeuta como 'canal condutor', não coautor.",
+   "implicacao": "Explicitar o raciocínio, convidar a discordância e recalcular junto.",
+   "quem": "João de Bragança",
+   "ts": "1:14:05"
+  },
+  {
+   "tese": "Distorção cognitiva não deve ser entendida como 'pensamento errado'.",
+   "argumento": "Para a pessoa, a crença é o certo, sua forma de sobrevivência e o modo como aprendeu a existir.",
+   "contraponto": "Uma TCC 'bruta, clássica' que apontaria a distorção.",
+   "implicacao": "Validar a história de vida antes de questionar a crença.",
+   "quem": "A aluna supervisionada",
+   "ts": "0:37:35"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "O clichê bem feito, muitas vezes, é o que há de mais estatístico em psicologia.",
+   "tema": "Protocolo e pessoa do terapeuta",
+   "ts": "0:03:49"
+  },
+  {
+   "texto": "Entendi. Não significa que eu concordo.",
+   "tema": "Supervisão",
+   "ts": "0:26:23"
+  },
+  {
+   "texto": "Não deixa de ser um campo de afetividade; só não é o campo de afetividade da hipótese.",
+   "tema": "Hipóteses alternativas",
+   "ts": "0:27:28"
+  },
+  {
+   "texto": "É bom ter perguntas diretas, mas é bom colocá-las em contexto.",
+   "tema": "Construção frasal",
+   "ts": "0:31:22"
+  },
+  {
+   "texto": "Eu sempre acho as negações dos pacientes às nossas hipóteses muito frutíferas.",
+   "tema": "Negação",
+   "ts": "0:33:06"
+  },
+  {
+   "texto": "Pelo menos agora foi instalada uma dúvida: ele tem algo a negar. Há uma tese e uma antítese sobre o que está vivendo.",
+   "tema": "Negação e crenças",
+   "ts": "0:34:59"
+  },
+  {
+   "texto": "Quando a gente fala de distorção cognitiva, é como se fosse um pensamento errado. Mas, para a pessoa, é o certo: é a forma como ela aprendeu a existir. (a aluna)",
+   "tema": "Crenças",
+   "ts": "0:37:35"
+  },
+  {
+   "texto": "É tão difícil se enxergar como uma pessoa violenta que também é difícil enxergar uma pessoa violenta.",
+   "tema": "Pessoa do terapeuta",
+   "ts": "0:39:44"
+  },
+  {
+   "texto": "Às vezes é só uma causa que não foi descoberta. A gente não precisa sempre trabalhar com causas.",
+   "tema": "Dor e causalidade",
+   "ts": "0:53:08"
+  },
+  {
+   "texto": "Você tem cinco minutos com a pessoa e magicamente sabe como ela funciona? É um ponto para tomar cuidado.",
+   "tema": "Interpretação precoce",
+   "ts": "1:02:02"
+  },
+  {
+   "texto": "Esse erro de rota foi um erro produtivo para recalcular. Isso acontece o tempo todo na clínica.",
+   "tema": "Erro clínico",
+   "ts": "1:14:05"
+  },
+  {
+   "texto": "Um grande problema do psicólogo é querer guardar o pensamento sobre o processo 100% para si, como se não fosse um projeto construído.",
+   "tema": "Colaboração",
+   "ts": "1:14:05"
+  },
+  {
+   "texto": "O que eu falo não é absoluto. Isso tem que ficar claro tanto para você quanto para o paciente.",
+   "tema": "Hipótese provisória",
+   "ts": "1:15:13"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "O médico disse que é 'coisa da sua cabeça'. E agora?",
+   "mensagem": "Uma dor sem achado orgânico não tem, necessariamente, causa psicológica; o psicólogo pode trabalhar como a dor afeta a pessoa sem apostar numa causalidade.",
+   "roteiro": [
+    "O encaminhamento por exclusão: 'só pode ser da sua cabeça'.",
+    "Às vezes é só uma causa ainda não descoberta.",
+    "Dois caminhos: buscar a causa ou trabalhar as afetações.",
+    "Por que o segundo é mais seguro.",
+    "Pergunta para o leitor: como a dor afeta sua vida, e não de onde ela vem?"
+   ],
+   "corte_inicio": "0:51:52",
+   "corte_fim": "0:53:20"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Quando o paciente discorda de você, a terapia começou.",
+   "mensagem": "A negação cria diálogo real e instala dúvida sobre crenças inquestionadas.",
+   "roteiro": [
+    "Cena: terapeuta devolve uma percepção; paciente nega.",
+    "Por que isso é bom: dialética.",
+    "Histericizar: tornar o sujeito alguém que duvida.",
+    "Cuidado com quem só concorda."
+   ],
+   "corte_inicio": "0:33:06",
+   "corte_fim": "0:35:41"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Sua hipótese não é absoluta.",
+   "mensagem": "Combine com o paciente que ele pode discordar: a terapia é um projeto construído a dois, e o autor é o paciente.",
+   "roteiro": [
+    "Frase de abertura: 'se não concordar, pode me falar'.",
+    "O erro de guardar todo o raciocínio para si.",
+    "Recalcular a rota é parte da clínica."
+   ],
+   "corte_inicio": "1:14:05",
+   "corte_fim": "1:16:26"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Treinar com pacientes simulados por IA: o que dá (e o que não dá) para aprender.",
+   "mensagem": "A ferramenta permite rever o raciocínio fala a fala e enxergar a própria confusão, mas tem limites.",
+   "roteiro": [
+    "O problema do roleplay: não dá para rever.",
+    "O log como espelho do raciocínio.",
+    "A ansiedade não some, mas diminui.",
+    "Limites: a IA é programada."
+   ],
+   "corte_inicio": "0:00:30",
+   "corte_fim": "0:02:35"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "5 minutos de sessão e você já sabe como a pessoa funciona?",
+   "mensagem": "Contra a interpretação precoce: antes, pergunte o que a pessoa espera da terapia.",
+   "roteiro": [
+    "O risco de explicar alguém cedo demais.",
+    "A pergunta das expectativas.",
+    "Como ela reduz a 'resistência'."
+   ],
+   "corte_inicio": "1:01:25",
+   "corte_fim": "1:04:27"
+  },
+  {
+   "formato": "post",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Resistência ou esquiva?",
+   "mensagem": "Numa tradução funcional, a resistência é o comportamento e a esquiva é sua função; e às vezes o problema não é com a terapia, mas com entrar em si mesmo.",
+   "roteiro": [
+    "Termo psicanalítico versus termo comportamental.",
+    "Comportamento e função.",
+    "A dificuldade de olhar para dentro."
+   ],
+   "corte_inicio": "0:19:09",
+   "corte_fim": "0:20:51"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Citado por João para a ideia de 'histericização do sujeito' como função da análise, tornar o sujeito alguém que duvida."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria com João de Bragança",
+  "objetivo": "Discutir, orientar e supervisionar casos de quem atende na Allos; aqui, a partir de atendimentos com pacientes simulados por IA.",
+  "publico": "Alunos e estagiários da formação clínica da Allos, incluindo recém-chegados do processo seletivo.",
+  "tamanho": "Uma supervisionanda e cerca de cinco ouvintes, online.",
+  "duracao": "Cerca de 1h20; termina por horário (15h30, ao que parece) por causa de outra reunião.",
+  "estrutura_padrao": "Explicação do formato e da ferramenta; contextualização pelo supervisionando; leitura comentada do log fala a fala; abertura ao grupo; feedback de síntese; reflexão do supervisionando; encerramento com agenda da semana seguinte.",
+  "papel_facilitador": "Ler o log, perguntar o raciocínio, testar hipóteses, oferecer leituras alternativas e pontes entre abordagens, olhar a pessoa do terapeuta e contrabalançar a autoexigência.",
+  "regras_combinados": "Encontros semanais; câmera opcional; o grupo pode comentar à vontade; plano de divulgar a ferramenta para mais alunos terem casos para discutir."
+ },
+ "reflexoes_do_facilitador": [
+  "Reconhece que está 'neurotizando' a aluna ao insistir no tema da causa da dor.",
+  "Pede desculpas depois de uma leitura pessoal sobre a dificuldade da aluna com violência ('te psicologizando rapidamente').",
+  "Marca como opinião pessoal ('botem na minha conta') a importância de mapear expectativas na primeira sessão.",
+  "Admite não ter lido como os outros alunos estão lidando com os pacientes simulados.",
+  "Não consegue terminar a leitura do log por causa do horário."
+ ],
+ "referencias_a_outros_encontros": [
+  "A aluna cita uma monitoria anterior com Alan em que ouviu que usava frases muito longas e que tinha dificuldade de lidar com hipóteses diferentes (provavelmente Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica).",
+  "João remete à gravação da monitoria de sexta-feira, em que outro aluno fala sete minutos seguidos num atendimento simulado.",
+  "O mesmo personagem simulado é atendido por outra aluna em Monitoria 11 - Diogo - Tempo clínico, passado e presente.",
+  "Retorno na semana seguinte; plano de falar com a diretoria para divulgar a ferramenta."
+ ],
+ "observacoes": "Legenda automática com bastante ruído (nomes trocados: a aluna aparece como 'Adrian', 'Iran', 'Idrian' etc.; o caso é rotulado algo como 'Rústico e casual' (?)). O atendimento discutido foi feito algum tempo antes da monitoria; a aluna diz já ter progredido desde então. Caso inteiramente simulado por IA; um atendimento real anterior da aluna é mencionado e foi omitido por privacidade, assim como uma experiência pessoal de esgotamento relatada por ela. Trecho 'bem gastístico' (1:03:15) ininteligível (talvez 'gestáltico' (?)). A expressão 'o gato passando na cama' (1:03:15) não é clara. Parte da condução se perde em conexões instáveis."
+}

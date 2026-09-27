@@ -39,69 +39,69 @@ A tese de fundo aparece no fechamento: comunicação clínica e comunicação co
 
 | Início | Bloco | O que acontece | Função pedagógica |
 |---|---|---|---|
-| {{ts:dicas-04@0:00:00}} | Abertura | Contexto da série; tema: linguagem e comunicação ("performance clínica"); máximas "mentirosas, mas em regra verdadeiras"; convite à avaliação. | Enquadrar as máximas como regras provisórias. |
-| {{ts:dicas-04@0:00:57}} | Teoria | Máximas 1 a 3: não pedir ao paciente que interprete; priorização no dia a dia; "o mestre só fala uma vez" x repetição retórica. | Atacar vícios de execução ligados à escuta. |
-| {{ts:dicas-04@0:05:27}} | Teoria | Máximas 4 a 6: silêncio e intervenções baratas; tonicidade (com exercício); desligar a câmera se não usa o corpo. | Recursos de fala, voz e corpo. |
-| {{ts:dicas-04@0:11:09}} | Teoria | Máximas 7 a 9: não existe intervenção errada; perguntas estranhas; falar a língua do paciente. | Ampliar a coragem e o repertório. |
-| {{ts:dicas-04@0:15:36}} | Teoria | Máximas 10 e 11: completar > elaborar > repetir; nada de perguntas sem hipótese. | Dar intenção à fala. |
-| {{ts:dicas-04@0:18:20}} | Fechamento | Meme "ou não sabe clinicar ou não sabe namorar"; treinar comunicação na vida; convite aos grupos; próximo vídeo. | Transferir para o cotidiano. |
+| [▶ 0:00:00](https://www.youtube.com/watch?v=TkaAFt7menY&t=0s) | Abertura | Contexto da série; tema: linguagem e comunicação ("performance clínica"); máximas "mentirosas, mas em regra verdadeiras"; convite à avaliação. | Enquadrar as máximas como regras provisórias. |
+| [▶ 0:00:57](https://www.youtube.com/watch?v=TkaAFt7menY&t=57s) | Teoria | Máximas 1 a 3: não pedir ao paciente que interprete; priorização no dia a dia; "o mestre só fala uma vez" x repetição retórica. | Atacar vícios de execução ligados à escuta. |
+| [▶ 0:05:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=327s) | Teoria | Máximas 4 a 6: silêncio e intervenções baratas; tonicidade (com exercício); desligar a câmera se não usa o corpo. | Recursos de fala, voz e corpo. |
+| [▶ 0:11:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=669s) | Teoria | Máximas 7 a 9: não existe intervenção errada; perguntas estranhas; falar a língua do paciente. | Ampliar a coragem e o repertório. |
+| [▶ 0:15:36](https://www.youtube.com/watch?v=TkaAFt7menY&t=936s) | Teoria | Máximas 10 e 11: completar > elaborar > repetir; nada de perguntas sem hipótese. | Dar intenção à fala. |
+| [▶ 0:18:20](https://www.youtube.com/watch?v=TkaAFt7menY&t=1100s) | Fechamento | Meme "ou não sabe clinicar ou não sabe namorar"; treinar comunicação na vida; convite aos grupos; próximo vídeo. | Transferir para o cotidiano. |
 
 ## Conteúdo teórico
 
-### As máximas como regras provisórias {{ts:dicas-04@0:00:00}}
-Alan apresenta "máximas que obviamente são mentira, mas que em regra são verdade". Na clínica, cada uma exige contextualização. A lista reúne o que ele costuma dizer a quem tem dificuldade em linguagem e comunicação, critério que a avaliação da Allos chama de [[Performance clínica]]. "Quando você não tem a menor ideia de como clinicar, fica com regras gerais e depois vai desenvolvendo esse senso específico" {{ts:dicas-04@0:11:09}}.
+### As máximas como regras provisórias [▶ 0:00:00](https://www.youtube.com/watch?v=TkaAFt7menY&t=0s)
+Alan apresenta "máximas que obviamente são mentira, mas que em regra são verdade". Na clínica, cada uma exige contextualização. A lista reúne o que ele costuma dizer a quem tem dificuldade em linguagem e comunicação, critério que a avaliação da Allos chama de [[Performance clínica]]. "Quando você não tem a menor ideia de como clinicar, fica com regras gerais e depois vai desenvolvendo esse senso específico" [▶ 0:11:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=669s).
 
-### 1. Pare de pedir ao paciente que interprete {{ts:dicas-04@0:00:57}}
-Perguntas como "como você conecta essas duas informações?" ou "o que você pensa sobre isso?" são quase obrigatórias em algumas escolas. O problema é quem as copia sem que façam sentido na própria construção clínica, porque viu em aula: é "ecletismo de abordagem que no fundo é mistureba" ([[Mistura e mistureba]]). É uma muleta que, a médio prazo, atrapalha, a não ser que a abordagem da pessoa justifique (a legenda traz "eu sou pista" (?)). **O papel de interpretar é seu ou é dialético** {{ts:dicas-04@0:01:51}}. Não terceirize, até porque pode parecer que você não está escutando direito. Fazer isso de vez em quando, para acessar as fantasias do paciente sobre o que ele pensa, não é problema.
+### 1. Pare de pedir ao paciente que interprete [▶ 0:00:57](https://www.youtube.com/watch?v=TkaAFt7menY&t=57s)
+Perguntas como "como você conecta essas duas informações?" ou "o que você pensa sobre isso?" são quase obrigatórias em algumas escolas. O problema é quem as copia sem que façam sentido na própria construção clínica, porque viu em aula: é "ecletismo de abordagem que no fundo é mistureba" ([[Mistura e mistureba]]). É uma muleta que, a médio prazo, atrapalha, a não ser que a abordagem da pessoa justifique (a legenda traz "eu sou pista" (?)). **O papel de interpretar é seu ou é dialético** [▶ 0:01:51](https://www.youtube.com/watch?v=TkaAFt7menY&t=111s). Não terceirize, até porque pode parecer que você não está escutando direito. Fazer isso de vez em quando, para acessar as fantasias do paciente sobre o que ele pensa, não é problema.
 
-### 2. Faça exercícios de priorização no dia a dia {{ts:dicas-04@0:01:51}}
-O paciente fala uma frase relativamente longa e o terapeuta precisa encontrar nela o que é mais importante para a construção clínica, aquilo sobre o que vai aprofundar. Como não fazemos isso formalmente, muita gente intervém sobre **a última coisa que o paciente disse**, e não sobre a mais importante. "Isso é muito pobre" e deixa a clínica menos interessante {{ts:dicas-04@0:02:49}} ([[Vício da última fala]]). O treino é perguntar-se conscientemente, ao ler um texto ou escutar alguém, qual é a ideia central e sobre que parte perguntaria. Num texto, dá para grifar o trecho mais relevante. "Ser natural não é falta de estrutura, é excesso de estrutura": quando se faz vezes suficientes, vira segunda natureza {{ts:dicas-04@0:03:39}}.
+### 2. Faça exercícios de priorização no dia a dia [▶ 0:01:51](https://www.youtube.com/watch?v=TkaAFt7menY&t=111s)
+O paciente fala uma frase relativamente longa e o terapeuta precisa encontrar nela o que é mais importante para a construção clínica, aquilo sobre o que vai aprofundar. Como não fazemos isso formalmente, muita gente intervém sobre **a última coisa que o paciente disse**, e não sobre a mais importante. "Isso é muito pobre" e deixa a clínica menos interessante [▶ 0:02:49](https://www.youtube.com/watch?v=TkaAFt7menY&t=169s) ([[Vício da última fala]]). O treino é perguntar-se conscientemente, ao ler um texto ou escutar alguém, qual é a ideia central e sobre que parte perguntaria. Num texto, dá para grifar o trecho mais relevante. "Ser natural não é falta de estrutura, é excesso de estrutura": quando se faz vezes suficientes, vira segunda natureza [▶ 0:03:39](https://www.youtube.com/watch?v=TkaAFt7menY&t=219s).
 
-### 3. "O mestre só fala uma vez" {{ts:dicas-04@0:03:39}}
-Alan conta que é uma frase com que Jung teria "zoado" Freud, dizendo que está na tradição judaica, no Talmude ([[O mestre só fala uma vez]]). Em geral, **não insista em intervenções ou interpretações**. Se a pessoa não comprou a interpretação, ou ela está errada ou não é o momento de comunicá-la. A insistência tensiona a relação terapêutica "do jeito menos interessante possível". E "tudo que é importante volta a se apresentar na clínica" {{ts:dicas-04@0:04:27}}.
+### 3. "O mestre só fala uma vez" [▶ 0:03:39](https://www.youtube.com/watch?v=TkaAFt7menY&t=219s)
+Alan conta que é uma frase com que Jung teria "zoado" Freud, dizendo que está na tradição judaica, no Talmude ([[O mestre só fala uma vez]]). Em geral, **não insista em intervenções ou interpretações**. Se a pessoa não comprou a interpretação, ou ela está errada ou não é o momento de comunicá-la. A insistência tensiona a relação terapêutica "do jeito menos interessante possível". E "tudo que é importante volta a se apresentar na clínica" [▶ 0:04:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=267s).
 
-Isso não proíbe a **repetição como artifício retórico** ([[Repetição como recurso retórico]]). O exemplo é o do cumprimento seguido de "como foi a sua semana?". A pessoa começa a falar do trabalho, da tia que está no hospital... "Não, fulano, eu te perguntei como foi a **sua** semana." A mesma intervenção feita duas vezes não é insistência numa interpretação. Mostra que o que o terapeuta fala importa (psicoeduca intuitivamente sobre o papel da linguagem na terapia) e, sobretudo, faz a pessoa escutar a pergunta: "eu perguntei como foi a semana *dela*, não dos outros" {{ts:dicas-04@0:05:27}}. É, segundo ele, uma forma elegante de intervir.
+Isso não proíbe a **repetição como artifício retórico** ([[Repetição como recurso retórico]]). O exemplo é o do cumprimento seguido de "como foi a sua semana?". A pessoa começa a falar do trabalho, da tia que está no hospital... "Não, fulano, eu te perguntei como foi a **sua** semana." A mesma intervenção feita duas vezes não é insistência numa interpretação. Mostra que o que o terapeuta fala importa (psicoeduca intuitivamente sobre o papel da linguagem na terapia) e, sobretudo, faz a pessoa escutar a pergunta: "eu perguntei como foi a semana *dela*, não dos outros" [▶ 0:05:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=327s). É, segundo ele, uma forma elegante de intervir.
 
-### 4. Use silêncios e intervenções baratas {{ts:dicas-04@0:05:27}}
-**Silêncio** ([[Silêncio terapêutico]]). Muitos terapeutas enchem a fala por angústia do silêncio. Melhor ficar em silêncio e pensar no que vai dizer. Uma coisa que "arranha o ouvido" de Alan é o iniciante que **troca de intervenção no meio da intervenção**: começa numa direção, percebe que não é boa e muda. Dois segundos de silêncio dariam muito mais potência à fala {{ts:dicas-04@0:06:20}}. É uma regra básica de retórica, e o silêncio também dá espaço para o paciente ir em outra direção. Muitas vezes ele é clinicamente produtivo.
+### 4. Use silêncios e intervenções baratas [▶ 0:05:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=327s)
+**Silêncio** ([[Silêncio terapêutico]]). Muitos terapeutas enchem a fala por angústia do silêncio. Melhor ficar em silêncio e pensar no que vai dizer. Uma coisa que "arranha o ouvido" de Alan é o iniciante que **troca de intervenção no meio da intervenção**: começa numa direção, percebe que não é boa e muda. Dois segundos de silêncio dariam muito mais potência à fala [▶ 0:06:20](https://www.youtube.com/watch?v=TkaAFt7menY&t=380s). É uma regra básica de retórica, e o silêncio também dá espaço para o paciente ir em outra direção. Muitas vezes ele é clinicamente produtivo.
 
-**Intervenções baratas** ([[Intervenção barata]]). Se não quiser ficar em silêncio, use intervenções que quase nunca estão erradas e cujo custo quase nunca é alto. Exemplo: repetir a última palavra que a pessoa disse, com um tom um pouco diferente "e cara de esperto". O paciente diz que a relação com os colegas da escola é complicada, que ninguém o escuta, "ninguém"; o terapeuta repete "ninguém". "Não existe erro clínico" nisso, e serve para ganhar tempo para pensar. Em excesso fica estranho, como pedir ao paciente que interprete {{ts:dicas-04@0:07:09}}. Essas intervenções são inócuas nos dois sentidos: pouco potentes e pouco problemáticas. São **definitivamente preferíveis** aos vícios de linguagem e à função fática ([[Função fática do discurso]]): "aham, hum, entendi, entendi", quando você não entendeu nada. "Substitua a função fática por intervenção barata" {{ts:dicas-04@0:07:54}}.
+**Intervenções baratas** ([[Intervenção barata]]). Se não quiser ficar em silêncio, use intervenções que quase nunca estão erradas e cujo custo quase nunca é alto. Exemplo: repetir a última palavra que a pessoa disse, com um tom um pouco diferente "e cara de esperto". O paciente diz que a relação com os colegas da escola é complicada, que ninguém o escuta, "ninguém"; o terapeuta repete "ninguém". "Não existe erro clínico" nisso, e serve para ganhar tempo para pensar. Em excesso fica estranho, como pedir ao paciente que interprete [▶ 0:07:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=429s). Essas intervenções são inócuas nos dois sentidos: pouco potentes e pouco problemáticas. São **definitivamente preferíveis** aos vícios de linguagem e à função fática ([[Função fática do discurso]]): "aham, hum, entendi, entendi", quando você não entendeu nada. "Substitua a função fática por intervenção barata" [▶ 0:07:54](https://www.youtube.com/watch?v=TkaAFt7menY&t=474s).
 
-### 5. Trabalhe com tonicidade {{ts:dicas-04@0:07:54}}
+### 5. Trabalhe com tonicidade [▶ 0:07:54](https://www.youtube.com/watch?v=TkaAFt7menY&t=474s)
 A tonicidade pode ser corporal, mas também da fala ([[Entonação e pausa]]). É um exercício que ele costuma fazer: repetir as intervenções da pessoa avaliada (com a gravação, se o *play* foi gravado, ou com anotações) e **refazer a mesma intervenção pondo o acento em outra palavra**. Com "como foi sua semana?":
-- "Mas me conta um pouquinho como é que foi **essa** semana": útil quando a pessoa está presa demais ao passado e você quer trazê-la para a semana {{ts:dicas-04@0:08:45}};
+- "Mas me conta um pouquinho como é que foi **essa** semana": útil quando a pessoa está presa demais ao passado e você quer trazê-la para a semana [▶ 0:08:45](https://www.youtube.com/watch?v=TkaAFt7menY&t=525s);
 - "Mas **como** foi essa semana?";
 - se a pessoa responder listando o que aconteceu: "eu perguntei como foi essa semana, como foi ela **para você**?", acrescentando palavras ou mudando o acento.
 
-"Se você muda a entonação, você muda a intervenção." Quem fala de modo robótico, sem entonação, faz um atendimento menos potente e cria menos possibilidades na linguagem, "que é basicamente uma das poucas ferramentas que a gente tem para trabalhar na psicologia" {{ts:dicas-04@0:08:45}}.
+"Se você muda a entonação, você muda a intervenção." Quem fala de modo robótico, sem entonação, faz um atendimento menos potente e cria menos possibilidades na linguagem, "que é basicamente uma das poucas ferramentas que a gente tem para trabalhar na psicologia" [▶ 0:08:45](https://www.youtube.com/watch?v=TkaAFt7menY&t=525s).
 
-### 6. Se você não usa o corpo, desligue a câmera {{ts:dicas-04@0:09:41}}
-Dica mais voltada ao atendimento online, mas que vale em geral ([[Comunicação não verbal]]). Alan viu muitos atendimentos em que o terapeuta não reparou em nada do corpo do paciente: movimentos que poderiam ensejar "baitas" intervenções e interpretações passaram em branco, e o terapeuta tinha zero consciência corporal do que ele próprio fazia. No online é comum o terapeuta olhar para a própria imagem e ajeitar o cabelo enquanto o paciente fala de algo tenso para ele {{ts:dicas-04@0:10:29}}. Ele cita uma pesquisa "famosa", com muitos participantes, feita durante a pandemia, que comparou atendimentos com e sem câmera: os pacientes teriam preferido sem câmera, só com a voz (citação sem referência; conferir). E há um preciosismo: quem insiste que é fundamental ver o corpo do paciente muitas vezes nunca usa o corpo quando atende {{ts:dicas-04@0:11:09}}. Todos sabem disso intuitivamente: podendo escolher, vamos às reuniões com a câmera desligada. Se não consegue usar a câmera de modo potente, não use.
+### 6. Se você não usa o corpo, desligue a câmera [▶ 0:09:41](https://www.youtube.com/watch?v=TkaAFt7menY&t=581s)
+Dica mais voltada ao atendimento online, mas que vale em geral ([[Comunicação não verbal]]). Alan viu muitos atendimentos em que o terapeuta não reparou em nada do corpo do paciente: movimentos que poderiam ensejar "baitas" intervenções e interpretações passaram em branco, e o terapeuta tinha zero consciência corporal do que ele próprio fazia. No online é comum o terapeuta olhar para a própria imagem e ajeitar o cabelo enquanto o paciente fala de algo tenso para ele [▶ 0:10:29](https://www.youtube.com/watch?v=TkaAFt7menY&t=629s). Ele cita uma pesquisa "famosa", com muitos participantes, feita durante a pandemia, que comparou atendimentos com e sem câmera: os pacientes teriam preferido sem câmera, só com a voz (citação sem referência; conferir). E há um preciosismo: quem insiste que é fundamental ver o corpo do paciente muitas vezes nunca usa o corpo quando atende [▶ 0:11:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=669s). Todos sabem disso intuitivamente: podendo escolher, vamos às reuniões com a câmera desligada. Se não consegue usar a câmera de modo potente, não use.
 
-### 7. Não existe intervenção errada, existe não saber lidar com as consequências {{ts:dicas-04@0:11:09}}
-Ele mesmo a chama de máxima "muito criticável". "E se eu falar uma coisa que não tem nada a ver com o que a pessoa está dizendo?" Ótimo: o novo tema da terapia é como é não ser escutado, fazer terapia com alguém que não te escuta ou é incompetente. É só trazer para a relação terapêutica, e isso pode render muita coisa interessante {{ts:dicas-04@0:12:02}}. A qualidade da intervenção depende menos do que o paciente está apto a ouvir. **Traga a leitura contextual menos para o sujeito e mais para você**: o que você consegue bancar? E vá conseguindo bancar progressivamente mais.
+### 7. Não existe intervenção errada, existe não saber lidar com as consequências [▶ 0:11:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=669s)
+Ele mesmo a chama de máxima "muito criticável". "E se eu falar uma coisa que não tem nada a ver com o que a pessoa está dizendo?" Ótimo: o novo tema da terapia é como é não ser escutado, fazer terapia com alguém que não te escuta ou é incompetente. É só trazer para a relação terapêutica, e isso pode render muita coisa interessante [▶ 0:12:02](https://www.youtube.com/watch?v=TkaAFt7menY&t=722s). A qualidade da intervenção depende menos do que o paciente está apto a ouvir. **Traga a leitura contextual menos para o sujeito e mais para você**: o que você consegue bancar? E vá conseguindo bancar progressivamente mais.
 
-### 8. Faça perguntas estranhas {{ts:dicas-04@0:12:02}}
+### 8. Faça perguntas estranhas [▶ 0:12:02](https://www.youtube.com/watch?v=TkaAFt7menY&t=722s)
 Mudar o registro da fala é muitas vezes fundamental. No quadro, ele chama isso de **pergunta de segunda ordem** ([[Pergunta de segunda ordem]]). Diante de uma angústia que a pessoa não sabe nomear, há uma gradação:
-- "Onde, no seu corpo, você sente essa angústia?" Provavelmente ela não tinha pensado nisso; já é mais estranho que "o que você sente?" ou "de onde isso veio?" {{ts:dicas-04@0:12:52}};
+- "Onde, no seu corpo, você sente essa angústia?" Provavelmente ela não tinha pensado nisso; já é mais estranho que "o que você sente?" ou "de onde isso veio?" [▶ 0:12:52](https://www.youtube.com/watch?v=TkaAFt7menY&t=772s);
 - "Qual é a cor dessa sensação?" Registro mais estranho ainda;
 - "Fecha os olhos, lembra da última vez que sentiu essa angústia. Consegue dar um nome próprio para ela?" "Alberto." "E quem é Alberto?" E aí investiga-se quem é Alberto, o que ele significa.
 
-Quanto mais se sai do registro óbvio, melhor. O contraponto são atendimentos que parecem "uma afronta à inteligência" do paciente {{ts:dicas-04@0:13:43}}: ele conta que tem dificuldade de estudar e o terapeuta pergunta se está dormindo direito. A pessoa tem o problema há anos, e o terapeuta, em cinco minutos, oferece a solução mais óbvia possível. Isso é lido como desrespeito e pode quebrar o vínculo. O óbvio às vezes precisa ser perguntado, mas depende do modo.
+Quanto mais se sai do registro óbvio, melhor. O contraponto são atendimentos que parecem "uma afronta à inteligência" do paciente [▶ 0:13:43](https://www.youtube.com/watch?v=TkaAFt7menY&t=823s): ele conta que tem dificuldade de estudar e o terapeuta pergunta se está dormindo direito. A pessoa tem o problema há anos, e o terapeuta, em cinco minutos, oferece a solução mais óbvia possível. Isso é lido como desrespeito e pode quebrar o vínculo. O óbvio às vezes precisa ser perguntado, mas depende do modo.
 
-As perguntas estranhas servem especialmente para o **discurso pronto** ([[Discurso pronto]]). Quando alguém conta um término dos 15 anos, a história provavelmente já passou tantas vezes pela cabeça dela e foi contada a tantas pessoas que não há mais apego emocional: "ela não está te contando a história, está te contando como conta essa história para os outros". Uma pergunta estranha tira a pessoa desse personagem pré-pronto {{ts:dicas-04@0:14:43}}.
+As perguntas estranhas servem especialmente para o **discurso pronto** ([[Discurso pronto]]). Quando alguém conta um término dos 15 anos, a história provavelmente já passou tantas vezes pela cabeça dela e foi contada a tantas pessoas que não há mais apego emocional: "ela não está te contando a história, está te contando como conta essa história para os outros". Uma pergunta estranha tira a pessoa desse personagem pré-pronto [▶ 0:14:43](https://www.youtube.com/watch?v=TkaAFt7menY&t=883s).
 
-### 9. Fale a língua do paciente ou apresente o seu dialeto {{ts:dicas-04@0:14:43}}
-Com um paciente profundamente religioso, cristão, uma metáfora bíblica é obviamente potente. Falar na língua do sujeito é sempre mais potente ([[Linguagem do paciente]]). A alternativa é **ensinar ao paciente o seu dialeto**, e aí entra a psicoeducação. Para muitas escolas, um dos objetivos (senão o objetivo) da clínica é a independência do sujeito, que ele seja terapeuta de si ([[Autonomia do paciente]]), e isso inclui ensinar como a terapia funciona {{ts:dicas-04@0:15:36}}. Isso pode ser explícito (falar o conceito) ou implícito (mostrar como acontece). Por exemplo, não é preciso dizer que "uma vida com mais contato com as coisas, menos fusionada com as próprias ideias, é mais saudável"; dá para demonstrar isso ao longo da clínica ([[Psicoeducação implícita e explícita]]). Só que falar é mais fácil. Ele remete ao vídeo anterior; a legenda diz "se você está começando a clinicar, menos normalmente é mais" (?), trecho ambíguo diante do "na dúvida, explicite" de [[YT Avaliação Clínica 03 - Comecei na clínica, e agora]].
+### 9. Fale a língua do paciente ou apresente o seu dialeto [▶ 0:14:43](https://www.youtube.com/watch?v=TkaAFt7menY&t=883s)
+Com um paciente profundamente religioso, cristão, uma metáfora bíblica é obviamente potente. Falar na língua do sujeito é sempre mais potente ([[Linguagem do paciente]]). A alternativa é **ensinar ao paciente o seu dialeto**, e aí entra a psicoeducação. Para muitas escolas, um dos objetivos (senão o objetivo) da clínica é a independência do sujeito, que ele seja terapeuta de si ([[Autonomia do paciente]]), e isso inclui ensinar como a terapia funciona [▶ 0:15:36](https://www.youtube.com/watch?v=TkaAFt7menY&t=936s). Isso pode ser explícito (falar o conceito) ou implícito (mostrar como acontece). Por exemplo, não é preciso dizer que "uma vida com mais contato com as coisas, menos fusionada com as próprias ideias, é mais saudável"; dá para demonstrar isso ao longo da clínica ([[Psicoeducação implícita e explícita]]). Só que falar é mais fácil. Ele remete ao vídeo anterior; a legenda diz "se você está começando a clinicar, menos normalmente é mais" (?), trecho ambíguo diante do "na dúvida, explicite" de [[YT Avaliação Clínica 03 - Comecei na clínica, e agora]].
 
-### 10. Repetir < elaborar < completar {{ts:dicas-04@0:15:36}}
-Vale sobretudo ao interromper o paciente. O espelhamento como devolução literal ([[Espelhamento]]) não é um problema e entra como intervenção barata, embora em excesso fique rígido. Mas a pessoa se sente **muito mais ouvida quando você sintetiza** o que ela acabou de dizer, isto é, acrescenta algo, e **ainda mais quando você completa o pensamento** dela {{ts:dicas-04@0:16:27}}. "Não tem nada que crie uma sintonia maior entre dois sujeitos do que ser interrompido de maneira educada por alguém que completa o que você ia dizer": é sinal de que o outro está ouvindo e em sintonia. É escuta ativa e ajuda a construir a relação. Objeção prevista: "no meu referencial, só o paciente tem a posição epistêmica de dizer da própria vida e é ele que precisa interpretar e significar". Resposta: "aí a sua abordagem é a exceção; esta é a regra geral" {{ts:dicas-04@0:17:29}}.
+### 10. Repetir < elaborar < completar [▶ 0:15:36](https://www.youtube.com/watch?v=TkaAFt7menY&t=936s)
+Vale sobretudo ao interromper o paciente. O espelhamento como devolução literal ([[Espelhamento]]) não é um problema e entra como intervenção barata, embora em excesso fique rígido. Mas a pessoa se sente **muito mais ouvida quando você sintetiza** o que ela acabou de dizer, isto é, acrescenta algo, e **ainda mais quando você completa o pensamento** dela [▶ 0:16:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=987s). "Não tem nada que crie uma sintonia maior entre dois sujeitos do que ser interrompido de maneira educada por alguém que completa o que você ia dizer": é sinal de que o outro está ouvindo e em sintonia. É escuta ativa e ajuda a construir a relação. Objeção prevista: "no meu referencial, só o paciente tem a posição epistêmica de dizer da própria vida e é ele que precisa interpretar e significar". Resposta: "aí a sua abordagem é a exceção; esta é a regra geral" [▶ 0:17:29](https://www.youtube.com/watch?v=TkaAFt7menY&t=1049s).
 
-### 11. Pare de falar coisas sem sentido {{ts:dicas-04@0:17:29}}
-Parece contradizer as perguntas estranhas, mas "sem sentido" aqui quer dizer **sem objetivo**. Quem domina a técnica fala muita coisa sem um sentido específico porque está executando a técnica. Quem está começando deve ter **uma hipótese lastreando cada pergunta** ([[Hipótese clínica]]). Evite perguntas só para saber mais do caso ("e como é que foi?"). Se a pergunta não traz informação adicional e não há hipótese a testar, pergunte outra coisa. É uma dica concreta para a interpretação, tema do próximo vídeo {{ts:dicas-04@0:18:20}}.
+### 11. Pare de falar coisas sem sentido [▶ 0:17:29](https://www.youtube.com/watch?v=TkaAFt7menY&t=1049s)
+Parece contradizer as perguntas estranhas, mas "sem sentido" aqui quer dizer **sem objetivo**. Quem domina a técnica fala muita coisa sem um sentido específico porque está executando a técnica. Quem está começando deve ter **uma hipótese lastreando cada pergunta** ([[Hipótese clínica]]). Evite perguntas só para saber mais do caso ("e como é que foi?"). Se a pergunta não traz informação adicional e não há hipótese a testar, pergunte outra coisa. É uma dica concreta para a interpretação, tema do próximo vídeo [▶ 0:18:20](https://www.youtube.com/watch?v=TkaAFt7menY&t=1100s).
 
-### 12. "Ou você não sabe clinicar, ou não sabe namorar" {{ts:dicas-04@0:18:20}}
-Um meme interno da Allos, dos tempos de faculdade de Alan. Num grupo de estudos, um colega contou que a namorada sentia que ele "a atendia" enquanto namoravam. A resposta: "de duas uma: ou você não sabe clinicar, ou não sabe namorar, porque as duas coisas são muito parecidas". É piada, mas tem um ponto: tudo o que está na lista pode ser treinado na vida e é útil fora da clínica. Torna a pessoa mais interessante para conversar e para se relacionar, e melhor professora {{ts:dicas-04@0:19:11}}. A comunicação tem "mais ou menos a mesma estrutura". As especificidades da clínica existem, "mas são muito menores do que a gente tende a imaginar".
+### 12. "Ou você não sabe clinicar, ou não sabe namorar" [▶ 0:18:20](https://www.youtube.com/watch?v=TkaAFt7menY&t=1100s)
+Um meme interno da Allos, dos tempos de faculdade de Alan. Num grupo de estudos, um colega contou que a namorada sentia que ele "a atendia" enquanto namoravam. A resposta: "de duas uma: ou você não sabe clinicar, ou não sabe namorar, porque as duas coisas são muito parecidas". É piada, mas tem um ponto: tudo o que está na lista pode ser treinado na vida e é útil fora da clínica. Torna a pessoa mais interessante para conversar e para se relacionar, e melhor professora [▶ 0:19:11](https://www.youtube.com/watch?v=TkaAFt7menY&t=1151s). A comunicação tem "mais ou menos a mesma estrutura". As especificidades da clínica existem, "mas são muito menores do que a gente tende a imaginar".
 
 ## Dinâmica(s)
 
@@ -112,8 +112,8 @@ Um meme interno da Allos, dos tempos de faculdade de Alan. Num grupo de estudos,
 - **Tempo aproximado:** alguns minutos, durante os comentários pós-avaliação.
 - **Consigna:** "Vamos refazer a mesma intervenção que você fez, só que colocando o acento em outra palavra."
 - **Passo a passo:** 1. Retomar a intervenção feita (pela gravação ou pela anotação do avaliador). 2. Repeti-la com o acento em outra palavra. 3. Comparar o efeito de cada versão. 4. Opcional: acrescentar palavras ("como foi ela *para você*?").
-- **Como o facilitador dá feedback:** mostrando as versões lado a lado e o que cada uma produz. Exemplo: "como foi *essa* semana?" puxa para o presente quem está preso no passado {{ts:dicas-04@0:07:54}}.
-- **Variações e armadilhas:** a tonicidade também pode ser corporal. Falar rápido demais apaga a diferença (o próprio Alan reconhece que o exemplo não ficou claro porque estava falando rápido) {{ts:dicas-04@0:08:45}}.
+- **Como o facilitador dá feedback:** mostrando as versões lado a lado e o que cada uma produz. Exemplo: "como foi *essa* semana?" puxa para o presente quem está preso no passado [▶ 0:07:54](https://www.youtube.com/watch?v=TkaAFt7menY&t=474s).
+- **Variações e armadilhas:** a tonicidade também pode ser corporal. Falar rápido demais apaga a diferença (o próprio Alan reconhece que o exemplo não ficou claro porque estava falando rápido) [▶ 0:08:45](https://www.youtube.com/watch?v=TkaAFt7menY&t=525s).
 
 ### [[Dinâmica - Priorização no dia a dia]]
 - **Objetivo:** treinar a identificação do núcleo de uma fala longa, para não intervir sobre a última coisa dita.
@@ -123,26 +123,26 @@ Um meme interno da Allos, dos tempos de faculdade de Alan. Num grupo de estudos,
 - **Consigna:** "Quando estiver lendo um texto ou escutando alguém, pergunte: qual é a ideia central aqui? Sobre qual parte do que a pessoa falou eu teria que perguntar?"
 - **Passo a passo:** 1. Ler ou escutar. 2. Identificar a ideia central. 3. Num texto, grifar a parte mais relevante. 4. Escolher sobre o que perguntaria. 5. Repetir até virar segunda natureza.
 - **Critérios de qualidade:** intervir sobre o mais importante para a construção clínica, e não sobre o último item.
-- **Variações e armadilhas:** o treino formal pode parecer artificial, mas "não precisa ter medo de treinar isso muito concretamente" {{ts:dicas-04@0:03:39}}.
+- **Variações e armadilhas:** o treino formal pode parecer artificial, mas "não precisa ter medo de treinar isso muito concretamente" [▶ 0:03:39](https://www.youtube.com/watch?v=TkaAFt7menY&t=219s).
 
 ## Dicas clínicas
 
-- **Pare de pedir ao paciente que interprete ("como você conecta isso?").** *Por quê:* é uma muleta copiada sem sentido na própria clínica e pode parecer que você não está escutando; interpretar é papel seu ou dialético. *Quando:* regra geral, salvo abordagens que o justifiquem ou para acessar fantasias de vez em quando. {{ts:dicas-04@0:00:57}}
-- **Intervenha sobre o mais importante, não sobre a última coisa dita.** *Por quê:* seguir a última fala é pobre e empobrece a clínica. *Quando:* diante de falas longas. {{ts:dicas-04@0:02:49}}
-- **Não insista numa interpretação que o paciente não comprou.** *Por quê:* ou ela está errada ou não é o momento; insistir tensiona a relação do pior jeito, e o que é importante volta. *Quando:* após uma interpretação recusada. {{ts:dicas-04@0:03:39}}
-- **Use a repetição como recurso retórico, não como insistência ("perguntei como foi a *sua* semana").** *Por quê:* faz o paciente escutar a pergunta e psicoeduca sobre o peso da linguagem. *Quando:* quando o paciente fala dos outros em vez de si. {{ts:dicas-04@0:04:27}}
-- **Fique dois segundos em silêncio antes de intervir, em vez de trocar de intervenção no meio da frase.** *Por quê:* ganha potência e dá espaço para o paciente ir para outra direção. *Quando:* sempre que hesitar. {{ts:dicas-04@0:05:27}}
-- **Se precisar ganhar tempo, use uma intervenção barata (repetir a última palavra com outro tom).** *Por quê:* quase nunca é errada e custa pouco. *Quando:* no lugar de "aham, entendi"; sem exagerar. {{ts:dicas-04@0:06:20}}
-- **Substitua a função fática por intervenção barata.** *Por quê:* "entendi" sem ter entendido é pior que uma devolução simples; a clínica fica mais agradável. *Quando:* sempre. {{ts:dicas-04@0:07:09}}
-- **Mude o acento para mudar a intervenção ("como foi *essa* semana?").** *Por quê:* entonação é uma das poucas ferramentas da psicologia; fala robótica tira potência. *Quando:* perguntas-padrão, pacientes presos ao passado. {{ts:dicas-04@0:07:54}}
-- **Se você não usa o corpo, desligue a câmera.** *Por quê:* câmera ligada sem consciência corporal só atrapalha (olhar a própria imagem, ajeitar o cabelo), e segundo a pesquisa citada os pacientes preferem só a voz. *Quando:* atendimento online. {{ts:dicas-04@0:09:41}}
-- **Diante de uma intervenção "errada", traga o erro para a relação.** *Por quê:* como é ser atendido por alguém que não escuta vira tema produtivo; a questão é o que você consegue bancar. *Quando:* depois de uma intervenção que não encaixou. {{ts:dicas-04@0:11:09}}
-- **Faça perguntas de segunda ordem ("onde no corpo?", "qual a cor?", "que nome daria?").** *Por quê:* mudar de registro tira o paciente do óbvio e do discurso pronto. *Quando:* emoções difíceis de nomear, histórias muito repetidas. {{ts:dicas-04@0:12:02}}
-- **Evite a solução óbvia nos primeiros minutos ("você está dormindo direito?").** *Por quê:* é lida como afronta à inteligência de quem tem o problema há anos e pode quebrar o vínculo. *Quando:* queixas antigas. {{ts:dicas-04@0:13:43}}
-- **Use a língua do paciente (por exemplo, uma metáfora bíblica com um cristão) ou ensine a ele o seu dialeto.** *Por quê:* falar a língua do sujeito é mais potente; ensinar o seu dialeto favorece a autonomia. *Quando:* sempre que houver um vocabulário forte do paciente. {{ts:dicas-04@0:14:43}}
-- **Ao interromper, complete o pensamento do paciente em vez de repeti-lo.** *Por quê:* completar gera mais sintonia que elaborar, que gera mais que repetir. *Quando:* escuta ativa, construção do vínculo. {{ts:dicas-04@0:16:27}}
-- **Tenha uma hipótese por trás de cada pergunta.** *Por quê:* perguntas "só para saber mais" não trazem informação; sem hipótese, pergunte outra coisa. *Quando:* sobretudo no começo da formação. {{ts:dicas-04@0:17:29}}
-- **Treine tudo isso nas conversas da vida.** *Por quê:* a comunicação clínica e a cotidiana têm quase a mesma estrutura. *Quando:* sempre. {{ts:dicas-04@0:19:11}}
+- **Pare de pedir ao paciente que interprete ("como você conecta isso?").** *Por quê:* é uma muleta copiada sem sentido na própria clínica e pode parecer que você não está escutando; interpretar é papel seu ou dialético. *Quando:* regra geral, salvo abordagens que o justifiquem ou para acessar fantasias de vez em quando. [▶ 0:00:57](https://www.youtube.com/watch?v=TkaAFt7menY&t=57s)
+- **Intervenha sobre o mais importante, não sobre a última coisa dita.** *Por quê:* seguir a última fala é pobre e empobrece a clínica. *Quando:* diante de falas longas. [▶ 0:02:49](https://www.youtube.com/watch?v=TkaAFt7menY&t=169s)
+- **Não insista numa interpretação que o paciente não comprou.** *Por quê:* ou ela está errada ou não é o momento; insistir tensiona a relação do pior jeito, e o que é importante volta. *Quando:* após uma interpretação recusada. [▶ 0:03:39](https://www.youtube.com/watch?v=TkaAFt7menY&t=219s)
+- **Use a repetição como recurso retórico, não como insistência ("perguntei como foi a *sua* semana").** *Por quê:* faz o paciente escutar a pergunta e psicoeduca sobre o peso da linguagem. *Quando:* quando o paciente fala dos outros em vez de si. [▶ 0:04:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=267s)
+- **Fique dois segundos em silêncio antes de intervir, em vez de trocar de intervenção no meio da frase.** *Por quê:* ganha potência e dá espaço para o paciente ir para outra direção. *Quando:* sempre que hesitar. [▶ 0:05:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=327s)
+- **Se precisar ganhar tempo, use uma intervenção barata (repetir a última palavra com outro tom).** *Por quê:* quase nunca é errada e custa pouco. *Quando:* no lugar de "aham, entendi"; sem exagerar. [▶ 0:06:20](https://www.youtube.com/watch?v=TkaAFt7menY&t=380s)
+- **Substitua a função fática por intervenção barata.** *Por quê:* "entendi" sem ter entendido é pior que uma devolução simples; a clínica fica mais agradável. *Quando:* sempre. [▶ 0:07:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=429s)
+- **Mude o acento para mudar a intervenção ("como foi *essa* semana?").** *Por quê:* entonação é uma das poucas ferramentas da psicologia; fala robótica tira potência. *Quando:* perguntas-padrão, pacientes presos ao passado. [▶ 0:07:54](https://www.youtube.com/watch?v=TkaAFt7menY&t=474s)
+- **Se você não usa o corpo, desligue a câmera.** *Por quê:* câmera ligada sem consciência corporal só atrapalha (olhar a própria imagem, ajeitar o cabelo), e segundo a pesquisa citada os pacientes preferem só a voz. *Quando:* atendimento online. [▶ 0:09:41](https://www.youtube.com/watch?v=TkaAFt7menY&t=581s)
+- **Diante de uma intervenção "errada", traga o erro para a relação.** *Por quê:* como é ser atendido por alguém que não escuta vira tema produtivo; a questão é o que você consegue bancar. *Quando:* depois de uma intervenção que não encaixou. [▶ 0:11:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=669s)
+- **Faça perguntas de segunda ordem ("onde no corpo?", "qual a cor?", "que nome daria?").** *Por quê:* mudar de registro tira o paciente do óbvio e do discurso pronto. *Quando:* emoções difíceis de nomear, histórias muito repetidas. [▶ 0:12:02](https://www.youtube.com/watch?v=TkaAFt7menY&t=722s)
+- **Evite a solução óbvia nos primeiros minutos ("você está dormindo direito?").** *Por quê:* é lida como afronta à inteligência de quem tem o problema há anos e pode quebrar o vínculo. *Quando:* queixas antigas. [▶ 0:13:43](https://www.youtube.com/watch?v=TkaAFt7menY&t=823s)
+- **Use a língua do paciente (por exemplo, uma metáfora bíblica com um cristão) ou ensine a ele o seu dialeto.** *Por quê:* falar a língua do sujeito é mais potente; ensinar o seu dialeto favorece a autonomia. *Quando:* sempre que houver um vocabulário forte do paciente. [▶ 0:14:43](https://www.youtube.com/watch?v=TkaAFt7menY&t=883s)
+- **Ao interromper, complete o pensamento do paciente em vez de repeti-lo.** *Por quê:* completar gera mais sintonia que elaborar, que gera mais que repetir. *Quando:* escuta ativa, construção do vínculo. [▶ 0:16:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=987s)
+- **Tenha uma hipótese por trás de cada pergunta.** *Por quê:* perguntas "só para saber mais" não trazem informação; sem hipótese, pergunte outra coisa. *Quando:* sobretudo no começo da formação. [▶ 0:17:29](https://www.youtube.com/watch?v=TkaAFt7menY&t=1049s)
+- **Treine tudo isso nas conversas da vida.** *Por quê:* a comunicação clínica e a cotidiana têm quase a mesma estrutura. *Quando:* sempre. [▶ 0:19:11](https://www.youtube.com/watch?v=TkaAFt7menY&t=1151s)
 
 ## Teses e posicionamentos
 
@@ -150,57 +150,57 @@ Um meme interno da Allos, dos tempos de faculdade de Alan. Num grupo de estudos,
   - *Argumento:* quem não sabe clinicar precisa de regras gerais para depois desenvolver o senso específico.
   - *Contraponto:* a recusa de qualquer regra geral em nome da singularidade.
   - *Implicação prática:* usar listas de máximas no início da formação e depois contextualizá-las.
-  - {{ts:dicas-04@0:00:00}}
+  - [▶ 0:00:00](https://www.youtube.com/watch?v=TkaAFt7menY&t=0s)
 - **Tese:** Interpretar é papel do terapeuta ou da dialética, não do paciente.
   - *Argumento:* pedir ao paciente que conecte as informações é uma muleta, e muitas vezes ecletismo mal feito ("mistureba").
   - *Contraponto:* abordagens em que só o paciente tem posição epistêmica para significar a própria vida (tratadas como exceção).
   - *Implicação prática:* assumir a interpretação e oferecê-la.
-  - {{ts:dicas-04@0:00:57}}
+  - [▶ 0:00:57](https://www.youtube.com/watch?v=TkaAFt7menY&t=57s)
 - **Tese:** Insistir numa interpretação é o pior jeito de tensionar a relação.
   - *Argumento:* se não foi aceita, está errada ou fora de hora; o que importa volta ("o mestre só fala uma vez").
   - *Contraponto:* a repetição retórica, que é legítima e diferente da insistência.
   - *Implicação prática:* soltar a interpretação e esperar o tema retornar.
-  - {{ts:dicas-04@0:03:39}}
+  - [▶ 0:03:39](https://www.youtube.com/watch?v=TkaAFt7menY&t=219s)
 - **Tese:** Intervenção barata é sempre preferível à função fática.
   - *Argumento:* repetir uma palavra com outro tom quase nunca erra; "aham, entendi" sem entender afasta.
   - *Contraponto:* o uso excessivo da intervenção barata também fica estranho.
   - *Implicação prática:* trocar vícios de linguagem por devoluções simples.
-  - {{ts:dicas-04@0:07:09}}
+  - [▶ 0:07:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=429s)
 - **Tese:** A linguagem (incluindo a entonação) é uma das poucas ferramentas da psicologia.
   - *Argumento:* mudar o acento muda a intervenção; fala robótica reduz potência e possibilidades.
   - *Contraponto:* nenhum explícito.
   - *Implicação prática:* treinar entonação de forma deliberada.
-  - {{ts:dicas-04@0:08:45}}
+  - [▶ 0:08:45](https://www.youtube.com/watch?v=TkaAFt7menY&t=525s)
 - **Tese:** A câmera ligada só vale se o terapeuta usa o corpo; caso contrário, é melhor desligá-la.
   - *Argumento:* muitos não reparam no corpo do paciente e não têm consciência do próprio; pesquisa citada indica preferência dos pacientes pelo áudio.
   - *Contraponto:* o "preciosismo" de quem diz que ver o corpo é fundamental, mas nunca o usa.
   - *Implicação prática:* decidir conscientemente sobre a câmera no online.
-  - {{ts:dicas-04@0:10:29}}
+  - [▶ 0:10:29](https://www.youtube.com/watch?v=TkaAFt7menY&t=629s)
 - **Tese:** Não existe intervenção errada, existe não saber lidar com as consequências.
   - *Argumento:* até uma intervenção desencaixada vira tema produtivo quando é trazida para a relação.
   - *Contraponto:* o próprio Alan diz que a máxima é "muito criticável".
   - *Implicação prática:* deslocar a leitura contextual do paciente ("ele aguenta?") para o terapeuta ("eu consigo bancar?").
-  - {{ts:dicas-04@0:11:09}}
+  - [▶ 0:11:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=669s)
 - **Tese:** Quanto mais se sai do registro óbvio, melhor; o óbvio pode soar como afronta.
   - *Argumento:* perguntas estranhas furam o discurso pronto; soluções óbvias em cinco minutos desrespeitam quem sofre há anos.
   - *Contraponto:* às vezes o óbvio precisa ser perguntado, dependendo do modo.
   - *Implicação prática:* preferir perguntas de segunda ordem.
-  - {{ts:dicas-04@0:13:43}}
+  - [▶ 0:13:43](https://www.youtube.com/watch?v=TkaAFt7menY&t=823s)
 - **Tese:** Completar o pensamento do paciente gera mais sintonia do que repeti-lo.
   - *Argumento:* ser interrompido educadamente por quem completa o que você ia dizer é o maior sinal de escuta.
   - *Contraponto:* referenciais em que só o paciente pode significar a própria vida.
   - *Implicação prática:* espelhar com síntese e completude.
-  - {{ts:dicas-04@0:16:27}}
+  - [▶ 0:16:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=987s)
 - **Tese:** Para o iniciante, toda pergunta deve ter uma hipótese por trás.
   - *Argumento:* perguntas sem objetivo não geram informação; só quem domina a técnica pode falar "sem sentido específico".
   - *Contraponto:* a aparente contradição com "faça perguntas estranhas" (estranho não é sem objetivo).
   - *Implicação prática:* checar a hipótese antes de perguntar.
-  - {{ts:dicas-04@0:17:29}}
+  - [▶ 0:17:29](https://www.youtube.com/watch?v=TkaAFt7menY&t=1049s)
 - **Tese:** Comunicação clínica e comunicação cotidiana têm quase a mesma estrutura.
   - *Argumento:* as especificidades da clínica são menores do que se imagina ("ou você não sabe clinicar, ou não sabe namorar").
   - *Contraponto:* a ideia de que a clínica é um registro totalmente à parte.
   - *Implicação prática:* treinar comunicação clínica na vida.
-  - {{ts:dicas-04@0:18:20}}
+  - [▶ 0:18:20](https://www.youtube.com/watch?v=TkaAFt7menY&t=1100s)
 
 ## Conceitos-chave
 
@@ -226,44 +226,44 @@ Um meme interno da Allos, dos tempos de faculdade de Alan. Num grupo de estudos,
 
 ## Frases para guardar
 
-> "São máximas que obviamente são mentira, mas que em regra são verdade." {{ts:dicas-04@0:00:00}}
+> "São máximas que obviamente são mentira, mas que em regra são verdade." [▶ 0:00:00](https://www.youtube.com/watch?v=TkaAFt7menY&t=0s)
 
-> "O papel de interpretar é seu ou é dialético. Não terceirize isso para o paciente." {{ts:dicas-04@0:01:51}}
+> "O papel de interpretar é seu ou é dialético. Não terceirize isso para o paciente." [▶ 0:01:51](https://www.youtube.com/watch?v=TkaAFt7menY&t=111s)
 
-> "Ser natural não é falta de estrutura, é excesso de estrutura." {{ts:dicas-04@0:02:49}}
+> "Ser natural não é falta de estrutura, é excesso de estrutura." [▶ 0:02:49](https://www.youtube.com/watch?v=TkaAFt7menY&t=169s)
 
-> "O mestre só fala uma vez. Se a pessoa não comprou a interpretação, ou ela está errada, ou não é o momento." {{ts:dicas-04@0:03:39}}
+> "O mestre só fala uma vez. Se a pessoa não comprou a interpretação, ou ela está errada, ou não é o momento." [▶ 0:03:39](https://www.youtube.com/watch?v=TkaAFt7menY&t=219s)
 
-> "Tudo que é importante volta a se apresentar na clínica." {{ts:dicas-04@0:04:27}}
+> "Tudo que é importante volta a se apresentar na clínica." [▶ 0:04:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=267s)
 
-> "Substitua a função fática por intervenção barata." {{ts:dicas-04@0:07:09}}
+> "Substitua a função fática por intervenção barata." [▶ 0:07:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=429s)
 
-> "Se você muda a entonação, você muda a intervenção." {{ts:dicas-04@0:08:45}}
+> "Se você muda a entonação, você muda a intervenção." [▶ 0:08:45](https://www.youtube.com/watch?v=TkaAFt7menY&t=525s)
 
-> "A linguagem é basicamente uma das poucas ferramentas que a gente tem para trabalhar na psicologia." {{ts:dicas-04@0:08:45}}
+> "A linguagem é basicamente uma das poucas ferramentas que a gente tem para trabalhar na psicologia." [▶ 0:08:45](https://www.youtube.com/watch?v=TkaAFt7menY&t=525s)
 
-> "Não existe intervenção errada, existe não saber lidar com as consequências." {{ts:dicas-04@0:11:09}}
+> "Não existe intervenção errada, existe não saber lidar com as consequências." [▶ 0:11:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=669s)
 
-> "Traga a sua leitura contextual menos para o sujeito e mais para você: o que você consegue bancar?" {{ts:dicas-04@0:12:02}}
+> "Traga a sua leitura contextual menos para o sujeito e mais para você: o que você consegue bancar?" [▶ 0:12:02](https://www.youtube.com/watch?v=TkaAFt7menY&t=722s)
 
-> "Ela não está te contando a história; está te contando como conta essa história para os outros." {{ts:dicas-04@0:13:43}}
+> "Ela não está te contando a história; está te contando como conta essa história para os outros." [▶ 0:13:43](https://www.youtube.com/watch?v=TkaAFt7menY&t=823s)
 
-> "Não há nada que crie uma sintonia maior entre duas pessoas do que ser interrompido, de maneira educada, por alguém que completa o que você ia dizer." {{ts:dicas-04@0:16:27}}
+> "Não há nada que crie uma sintonia maior entre duas pessoas do que ser interrompido, de maneira educada, por alguém que completa o que você ia dizer." [▶ 0:16:27](https://www.youtube.com/watch?v=TkaAFt7menY&t=987s)
 
-> "Se a sua namorada sente que você está atendendo ela, de duas uma: ou você não sabe clinicar, ou você não sabe namorar." {{ts:dicas-04@0:18:20}}
+> "Se a sua namorada sente que você está atendendo ela, de duas uma: ou você não sabe clinicar, ou você não sabe namorar." [▶ 0:18:20](https://www.youtube.com/watch?v=TkaAFt7menY&t=1100s)
 
-> "Existem especificidades da clínica, mas elas são muito menores do que a gente tende a imaginar." {{ts:dicas-04@0:19:11}}
+> "Existem especificidades da clínica, mas elas são muito menores do que a gente tende a imaginar." [▶ 0:19:11](https://www.youtube.com/watch?v=TkaAFt7menY&t=1151s)
 
 ## Ideias de conteúdo
 
-- **[Reels] · maximas-e-reflexoes:** "O mestre só fala uma vez" → não insista em interpretações; o que importa volta. Corte sugerido: {{ts:dicas-04@0:03:47}}–{{ts:dicas-04@0:04:38}}
-- **[Reels] · clinica-na-pratica:** "Pare de dizer 'aham, entendi'" → silêncio e intervenções baratas no lugar da função fática. Corte sugerido: {{ts:dicas-04@0:05:42}}–{{ts:dicas-04@0:07:09}}
-- **[Reels] · ciencia-e-mitos:** "Atendimento online: e se você desligasse a câmera?" → se não usa o corpo, a câmera só atrapalha. Corte sugerido: {{ts:dicas-04@0:09:43}}–{{ts:dicas-04@0:11:09}} (conferir a pesquisa citada antes de publicar)
-- **[Reels] · clinica-na-pratica:** "Qual é a cor da sua angústia?" → perguntas de segunda ordem e o risco das perguntas óbvias. Corte sugerido: {{ts:dicas-04@0:12:24}}–{{ts:dicas-04@0:13:37}}
-- **[Post] · maximas-e-reflexoes:** "Não existe intervenção errada, existe não saber lidar com as consequências" → a questão é o que você consegue bancar. Corte sugerido: {{ts:dicas-04@0:11:42}}–{{ts:dicas-04@0:12:24}}
-- **[Carrossel] · clinica-na-pratica:** "12 máximas para falar melhor na sessão" → uma máxima por slide, com o porquê. Corte sugerido: {{ts:dicas-04@0:00:57}}–{{ts:dicas-04@0:02:23}}
-- **[Reels] · maximas-e-reflexoes:** "Ou você não sabe clinicar, ou não sabe namorar" → comunicação clínica e cotidiana têm a mesma estrutura. Corte sugerido: {{ts:dicas-04@0:18:28}}–{{ts:dicas-04@0:19:40}}
-- **[Reels] · clinica-na-pratica:** "Repetir < elaborar < completar" → como fazer o paciente se sentir ouvido. Corte sugerido: {{ts:dicas-04@0:16:10}}–{{ts:dicas-04@0:17:10}}
+- **[Reels] · maximas-e-reflexoes:** "O mestre só fala uma vez" → não insista em interpretações; o que importa volta. Corte sugerido: [▶ 0:03:47](https://www.youtube.com/watch?v=TkaAFt7menY&t=227s)–[▶ 0:04:38](https://www.youtube.com/watch?v=TkaAFt7menY&t=278s)
+- **[Reels] · clinica-na-pratica:** "Pare de dizer 'aham, entendi'" → silêncio e intervenções baratas no lugar da função fática. Corte sugerido: [▶ 0:05:42](https://www.youtube.com/watch?v=TkaAFt7menY&t=342s)–[▶ 0:07:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=429s)
+- **[Reels] · ciencia-e-mitos:** "Atendimento online: e se você desligasse a câmera?" → se não usa o corpo, a câmera só atrapalha. Corte sugerido: [▶ 0:09:43](https://www.youtube.com/watch?v=TkaAFt7menY&t=583s)–[▶ 0:11:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=669s) (conferir a pesquisa citada antes de publicar)
+- **[Reels] · clinica-na-pratica:** "Qual é a cor da sua angústia?" → perguntas de segunda ordem e o risco das perguntas óbvias. Corte sugerido: [▶ 0:12:24](https://www.youtube.com/watch?v=TkaAFt7menY&t=744s)–[▶ 0:13:37](https://www.youtube.com/watch?v=TkaAFt7menY&t=817s)
+- **[Post] · maximas-e-reflexoes:** "Não existe intervenção errada, existe não saber lidar com as consequências" → a questão é o que você consegue bancar. Corte sugerido: [▶ 0:11:42](https://www.youtube.com/watch?v=TkaAFt7menY&t=702s)–[▶ 0:12:24](https://www.youtube.com/watch?v=TkaAFt7menY&t=744s)
+- **[Carrossel] · clinica-na-pratica:** "12 máximas para falar melhor na sessão" → uma máxima por slide, com o porquê. Corte sugerido: [▶ 0:00:57](https://www.youtube.com/watch?v=TkaAFt7menY&t=57s)–[▶ 0:02:23](https://www.youtube.com/watch?v=TkaAFt7menY&t=143s)
+- **[Reels] · maximas-e-reflexoes:** "Ou você não sabe clinicar, ou não sabe namorar" → comunicação clínica e cotidiana têm a mesma estrutura. Corte sugerido: [▶ 0:18:28](https://www.youtube.com/watch?v=TkaAFt7menY&t=1108s)–[▶ 0:19:40](https://www.youtube.com/watch?v=TkaAFt7menY&t=1180s)
+- **[Reels] · clinica-na-pratica:** "Repetir < elaborar < completar" → como fazer o paciente se sentir ouvido. Corte sugerido: [▶ 0:16:10](https://www.youtube.com/watch?v=TkaAFt7menY&t=970s)–[▶ 0:17:10](https://www.youtube.com/watch?v=TkaAFt7menY&t=1030s)
 - **[Vídeo longo] · clinica-na-pratica:** "Máximas de comunicação clínica comentadas" → série de episódios curtos (uma máxima por episódio, 3 a 5 min), cada um com exemplo e contraexemplo; ou uma aula única de 20 min seguindo a ordem do quadro.
 
 ## Perguntas para aprofundar

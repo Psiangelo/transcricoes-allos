@@ -1,0 +1,746 @@
+{
+  "id": "acervo-11",
+  "nota": "Acervo 11 - Vício em trabalho, precarização e saúde mental",
+  "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+  "titulo": "Vício em trabalho, precarização e saúde mental",
+  "serie": "Aprimoramento Clínico (Acervo)",
+  "formato": "Mesa de estudos",
+  "facilitadores": [
+    "Cindy (?)"
+  ],
+  "resumo": "Roda de conversa temática, no formato de mesa de estudos, sobre trabalho e saúde mental. A condutora, provavelmente Cindy (?), abre com um tema que diz ser pessoal: a cultura de metas inatingíveis e o vício em trabalho ('workaholic'), a partir de artigos que leu, e pergunta em que momento o trabalho deixa de ser prazeroso e vira vício. Seguem depoimentos (incluindo o de Adria (?), colega plantonista da Allos, que se diz 'workaholic certificada') e uma discussão livre, que vai do plano individual ao social e político: energia psíquica e burnout como 'represa que estoura' (leitura junguiana), trabalho interior como trabalho, individualização do sofrimento e neoliberalismo, precarização (aplicativos, psicólogos autônomos), a fragilidade do argumento de que saúde mental dá lucro, trabalho alienado, saúde social e agência coletiva. O último terço trata do papel do psicólogo nas organizações: evitar a posição de salvador, sigilo no plantão psicológico em empresas, usar dados agregados para propor mudanças. O encontro termina com a votação do tema da semana seguinte (trauma, com sugestão de incluir o TEPT complexo da CID-11).",
+  "em_uma_frase": "O vício em trabalho não é só um problema individual: é produzido por uma cultura de metas e por um trabalho precarizado e sem sentido, e o psicólogo, que também é trabalhador, precisa cuidar de si e atuar sem se pôr como salvador nem como delator nas organizações.",
+  "competencias": [
+    "Pessoa do terapeuta",
+    "Desenvolvimento profissional",
+    "Relação terapêutica",
+    "Articulação teoria-prática"
+  ],
+  "abordagens": [
+    "Psicologia analítica junguiana"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:02",
+      "bloco": "Abertura",
+      "descricao": "Cindy (?), que traz o tema, diz que ele é pessoal (a terapeuta lhe pede 'vai com calma'), cita artigos sobre a 'epidemia do novo século' (uma geração que só dá sentido à vida pela meta atingida, que sempre se renova) e o termo workaholic, e lança a pergunta: em que momento o trabalho deixa de ser prazeroso e vira vício?",
+      "funcao": "Disparar a conversa com autorrevelação e uma pergunta aberta.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:02:10",
+      "bloco": "Discussão",
+      "descricao": "Depoimento de Adria (?): 'workaholic certificada', 'abstinência' quando precisou parar por uma lesão, valor pessoal ligado a entregar resultados, contagem diária de horas para se permitir descansar, dificuldade de 'fazer nada'.",
+      "funcao": "Modelar a autorrevelação e legitimar o tema como vivência dos próprios psicólogos.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:06:40",
+      "bloco": "Discussão",
+      "descricao": "Uma participante liga o tema a utilidade, a preencher espaços e a não lidar consigo; lembra a cultura do mercado financeiro (sair às 18h é malvisto) e diz que a correria faz perder a sensibilidade e a capacidade de escutar.",
+      "funcao": "Ampliar do caso pessoal para padrões culturais.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:11:16",
+      "bloco": "Discussão",
+      "descricao": "Cindy (?) sintetiza: parar é uma construção pessoal e também social (a sociedade cobra urgência) e pergunta quando isso vai esbarrar no nosso limite e como vamos reagir.",
+      "funcao": "Síntese e relançamento da pergunta.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:13:01",
+      "bloco": "Discussão",
+      "descricao": "Vinícius (leitura junguiana): 'parar' não existe psiquicamente, pois a energia psíquica sempre busca direção; o burnout é a represa que estoura; o trabalho interior não é reconhecido como trabalho (metáfora do afiador de machado).",
+      "funcao": "Oferecer um referencial teórico ao fenômeno.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:16:59",
+      "bloco": "Discussão",
+      "descricao": "Diogo (aqui participante): nas organizações, parar para pensar e planejar deveria ser valorizado, mas as pessoas são pagas para apagar incêndios.",
+      "funcao": "Levar a discussão ao plano pragmático do que se reconhece como trabalho.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:18:53",
+      "bloco": "Discussão",
+      "descricao": "Uma participante critica: a psicologia fala muito de aceleração, mas pratica pouco; desacelerar exige sustentar desconforto físico, psicológico e moral, e o psicólogo precisa viver isso para ajudar.",
+      "funcao": "Introduzir a discordância e a coerência entre discurso e prática.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:21:37",
+      "bloco": "Discussão",
+      "descricao": "Adria (?): psicólogos também são classe trabalhadora (NR-1, burnout, afastamentos); precarização do psicólogo autônomo; articulação em rede quando um paciente precisa de afastamento; isolamento no trabalho online; o caso de uma cidade que vive de costurar jeans o ano todo.",
+      "funcao": "Conectar o tema à posição profissional do psicólogo e ao trabalho em rede.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "0:29:19",
+      "bloco": "Discussão",
+      "descricao": "Diogo: a lógica da responsabilidade individual (da abolição ao neoliberalismo, 'sou meu próprio chefe' nos aplicativos, crítica ao termo 'autodidata') e a tendência de ver o sofrimento como problema só do indivíduo ('me conserta'). Uma participante conta que uma empresa ignorou uma pesquisa interna sobre saúde mental.",
+      "funcao": "Desnaturalizar a individualização do sofrimento.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:35:32",
+      "bloco": "Discussão",
+      "descricao": "Desesperança como prelúdio de depressão; Adria (?): níveis de privilégio, fim da escala 6x1, a saúde mental como questão política, saúde social e agência coletiva (o exemplo de um aposentado italiano que reuniu a vizinhança em jantares e mobilizou melhorias no bairro).",
+      "funcao": "Passar da denúncia à ação coletiva.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "0:42:14",
+      "bloco": "Discussão",
+      "descricao": "Vinícius: o argumento 'cuidar da saúde mental aumenta o lucro' é fácil de derrubar; a luta é contra a simbologia do progresso; trabalho e tempo alienados; o dinheiro como símbolo vazio; o burnout vem da falta de sentido.",
+      "funcao": "Criticar a estratégia argumentativa do psicólogo nas empresas.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:47:46",
+      "bloco": "Discussão",
+      "descricao": "Cindy (?): a exaustão vem da tentativa impossível de preencher um vazio que é para ser acompanhado. Diogo: o psicólogo fica entre a cruz e a espada (abrir mão do lucro x reproduzir a lógica); às vezes é preciso 'dar o peixe'; pouca ação da categoria (conselhos, sindicato).",
+      "funcao": "Explicitar o dilema ético e profissional.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:52:31",
+      "bloco": "Discussão",
+      "descricao": "Cindy (?) distingue os dois lados (quem quer lucrar e quem precisa trabalhar) e devolve ao grupo: o que estamos fazendo com a nossa própria saúde mental para não ocupar nenhum dos dois lugares?",
+      "funcao": "Relançar a pergunta para a pessoa do terapeuta.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:54:36",
+      "bloco": "Discussão",
+      "descricao": "Adria (?): afastar-se da posição de heroína/salvadora; trabalho para além do individual (trabalho invisível das mulheres); redesenhar sistemas com as pessoas; plantão psicológico num hospital público, com estigma, dados agregados, etarismo e valorização do saber das trabalhadoras mais velhas.",
+      "funcao": "Mostrar uma prática institucional concreta e seus limites.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "1:02:12",
+      "bloco": "Discussão",
+      "descricao": "Vinícius: intervenção institucional numa grande empresa (discurso de cuidado da direção x sofrimento dos funcionários); o psicólogo como 'agente infiltrado' e 'exército invisível'. Adria (?) relata seu primeiro plantão no estágio: pessoas atendidas pediram demissão, a dona da clínica a chamou, ela defendeu a autonomia dos trabalhadores e propôs mudanças (três de cinco implementadas).",
+      "funcao": "Relatos de experiência sobre o manejo institucional.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "1:09:59",
+      "bloco": "Discussão",
+      "descricao": "Cindy (?) conta sua experiência de plantão online em parceria com uma empresa: pacientes pedem que ela 'fale bem' deles ao chefe e só se abrem depois de 20–30 minutos. Ela não reporta nada aos gestores e considera antiético quantificar a estabilidade emocional de alguém para o trabalho.",
+      "funcao": "Estabelecer um limite ético para a atuação em organizações.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "1:13:09",
+      "bloco": "Fechamento",
+      "descricao": "'Alguém mais quer comentar?'; um participante novo avalia o grupo como produtivo e profundo e agradece à Allos e à condução.",
+      "funcao": "Abrir espaço final e recolher avaliação espontânea.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "1:13:16",
+      "bloco": "Tarefa",
+      "descricao": "Cindy (?) apresenta dois temas possíveis para a semana seguinte (trauma e adicção, em 'paradigmas contemporâneos'); o grupo vota por trauma, com adicção na sequência; uma participante sugere abordar o TEPT complexo da CID-11. Cindy (?) promete preparar o material.",
+      "funcao": "Decidir o próximo tema de forma participativa e dar continuidade ao ciclo.",
+      "duracao_min": 4
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Vício em trabalho",
+      "definicao": "Workaholismo: o momento em que o trabalho deixa de ser prazeroso e vira algo que a pessoa precisa fazer, com 'abstinência' quando é obrigada a parar. Ligado a uma cultura em que o único sentido da vida é a meta atingida, que se renova sem fim e nunca satisfaz.",
+      "exemplo": "Contar mentalmente as horas trabalhadas para se permitir descansar; não conseguir 'fazer nada'; analisar personagens até no lazer.",
+      "abordagem": "",
+      "ts": "0:00:02"
+    },
+    {
+      "nome": "Burnout",
+      "definicao": "Na leitura junguiana de Vinícius, é a represa que estoura: a energia psíquica, barrada por um obstáculo intransponível, muda de direção de forma abrupta e descontrolada. Em outra fala, surge da falta de sentido do trabalho alienado.",
+      "exemplo": "Metáfora da água represada.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "0:13:14"
+    },
+    {
+      "nome": "Energia psíquica",
+      "definicao": "A psique é viva e sua energia sempre busca direção; por isso 'parar' não existe de fato. Quando encontra barreira, ela muda de rumo, e pode encontrar outra vazão ou estourar.",
+      "exemplo": "A água que busca outro caminho ou rompe a represa.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "0:13:14"
+    },
+    {
+      "nome": "Mundo interno",
+      "definicao": "Campo psíquico com conteúdos e 'personalidades próprias' (referência a Jung) cujo trabalho de elaboração não é reconhecido culturalmente como trabalho. Quem não está produzindo para fora sente que está parado, quando na verdade está fazendo uma adaptação interna.",
+      "exemplo": "O lenhador que não está cortando a árvore está afiando o machado.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "0:14:35"
+    },
+    {
+      "nome": "Individualização do sofrimento",
+      "definicao": "Lógica social (associada ao neoliberalismo, ao discurso da autonomia e ao 'sou meu próprio chefe') que torna o indivíduo o único responsável pelo que lhe acontece. Na saúde mental, faz a pessoa chegar à terapia pedindo 'me conserta' e perder de vista o contexto e as pessoas que determinam o sofrimento.",
+      "exemplo": "O entregador de aplicativo que acredita trabalhar quando quer; a crítica ao termo 'autodidata' (o livro foi escrito por alguém).",
+      "abordagem": "",
+      "ts": "0:29:19"
+    },
+    {
+      "nome": "Precarização do trabalho",
+      "definicao": "Formas flexíveis, informais e mal protegidas de trabalho (aplicativos, autônomos, trabalho em casa) que aumentam a autocobrança e o isolamento. Atinge também o psicólogo autônomo, que acumula taxas e funções.",
+      "exemplo": "Uma cidade inteira que costura jeans o ano todo, com as crianças sendo preparadas para a mesma função, e se endivida para tirar férias no carnaval.",
+      "abordagem": "",
+      "ts": "0:22:43"
+    },
+    {
+      "nome": "Trabalho alienado",
+      "definicao": "Trabalho sem sentido para quem o executa, orientado por um símbolo vazio (dinheiro, 'prosperidade') que não produz a transformação prometida. A falta de sentido estaria na raiz de depressão e burnout. Articula-se com a alienação do tempo.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:45:00"
+    },
+    {
+      "nome": "Tempo orgânico",
+      "definicao": "O tempo ligado à experiência natural (começa com a luz do sol e termina quando ela vai embora), em contraste com o tempo abstrato e alienado do Ocidente, em que 16 horas 'é a mesma coisa' que 24.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:45:00"
+    },
+    {
+      "nome": "Vazio",
+      "definicao": "Espaço inconsciente do ser que se tenta preencher com trabalho, comida, bebida, saídas e relações. A tese de Cindy (?) é que o vazio não é para ser preenchido, e sim para ser acompanhado: ele vai conosco aonde formos, e a exaustão vem da tentativa impossível de preenchê-lo.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:47:46"
+    },
+    {
+      "nome": "Saúde social",
+      "definicao": "Dimensão da saúde que vem da comunidade e do senso de pertencimento. Promovê-la significa estimular a agência coletiva, o que, além de gerar saúde, produz mudanças políticas.",
+      "exemplo": "Um aposentado de uma vila italiana convida os vizinhos para jantar; o encontro vira rotina e o grupo passa a reivindicar melhorias à prefeitura.",
+      "abordagem": "",
+      "ts": "0:38:13"
+    },
+    {
+      "nome": "Agência coletiva",
+      "definicao": "Capacidade de mobilização conjunta das pessoas, para além das necessidades básicas, para mudar condições que as afetam. 'A nossa saúde mental não é só nossa, é de todos nós.'",
+      "exemplo": "Mobilização pelo fim da escala 6x1.",
+      "abordagem": "",
+      "ts": "0:38:13"
+    },
+    {
+      "nome": "Plantão psicológico",
+      "definicao": "Atendimento pontual oferecido em instituições (hospitais, prefeituras, empresas). Ajuda o indivíduo, mas, se a cultura estigmatiza quem procura ajuda, tem utilidade limitada. Pode servir para identificar padrões coletivos (em dados agregados) e propor mudanças à liderança.",
+      "exemplo": "Num hospital público, só técnicas de enfermagem procuravam o plantão; outros setores diziam 'estar bem' por medo de parecerem 'doidos'.",
+      "abordagem": "",
+      "ts": "0:57:39"
+    },
+    {
+      "nome": "Riscos psicossociais no trabalho",
+      "definicao": "Tema que ganhou força com a atualização da Norma Regulamentadora 1 (NR-1). Para Adria (?), uma avaliação isolada feita por uma psicóloga muda pouco; mudança real exige pactuar com os trabalhadores jornada, rotatividade e forma de feedback da liderança.",
+      "exemplo": "'A gente não quer plantão psicológico, a gente quer mudar a hora de trabalho.'",
+      "abordagem": "",
+      "ts": "0:56:30"
+    },
+    {
+      "nome": "Trabalho invisível",
+      "definicao": "Trabalho não reconhecido como trabalho, como o de cuidado feito por mulheres (tema de redação do Enem citado). Reconhecê-lo muda o que uma sociedade considera e valoriza como trabalho.",
+      "exemplo": "A costureira de jeans que também cuida da casa e dos filhos.",
+      "abordagem": "",
+      "ts": "0:55:31"
+    },
+    {
+      "nome": "Posição de salvador",
+      "definicao": "Lugar em que a organização (e às vezes o próprio psicólogo) coloca o profissional que chega: 'a psicóloga entrou, vai mudar tudo'. Deve ser evitado porque adoece o profissional e ignora que a mudança é coletiva e de longo prazo.",
+      "exemplo": "Funcionários que dizem 'graças a Deus alguém vai me ouvir' enquanto a direção limita até onde o psicólogo pode ir.",
+      "abordagem": "",
+      "ts": "0:54:42"
+    },
+    {
+      "nome": "Sigilo profissional",
+      "definicao": "No plantão em empresas, o psicólogo não reporta casos aos gestores e não deve ocupar o lugar de 'delator' da estabilidade emocional dos funcionários. Deixar isso claro para pacientes e gestoras é condição para que as pessoas falem.",
+      "exemplo": "Pacientes pedem que a psicóloga 'fale bem' deles ao chefe; só depois de 20–30 minutos contam o que as incomoda.",
+      "abordagem": "",
+      "ts": "1:11:25"
+    },
+    {
+      "nome": "Trabalho em rede",
+      "definicao": "Articulação do atendimento clínico com outros pontos (RH, psiquiatra, médico) quando o sofrimento envolve o trabalho, como no caso de um paciente que precisa pedir afastamento.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:23:39"
+    },
+    {
+      "nome": "Etarismo",
+      "definicao": "Discriminação por idade no trabalho. No relato do plantão hospitalar, trabalhadoras mais velhas, mais lentas mas com saberes práticos valiosos, eram desqualificadas por colegas mais novas com o aval da liderança. A proposta é valorizar e repassar esse saber.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:59:41"
+    },
+    {
+      "nome": "Transtorno de estresse pós-traumático complexo",
+      "definicao": "Diagnóstico presente na CID-11 e ausente na CID-10, descrito por uma participante como bem diferente do TEPT tradicional e pouco ensinado nos cursos. Foi sugerido como eixo do encontro seguinte, sobre trauma.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "1:16:32"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Roda temática com disparador pessoal",
+      "objetivo": "Discutir em profundidade um tema de estudo que atravessa pacientes e terapeutas, partindo de leituras e da vivência de quem apresenta, e chegar a implicações para a prática profissional.",
+      "competencias": [
+        "Pessoa do terapeuta",
+        "Desenvolvimento profissional",
+        "Articulação teoria-prática"
+      ],
+      "configuracao": "Grupo todo (cerca de 8 pessoas), online, com fala por inscrição (mão levantada) e chat; uma pessoa apresenta o tema e uma ou duas moderam.",
+      "tempo": "Cerca de 75 minutos: ~2 min de disparador, ~65 min de discussão livre, ~5 min de fechamento e escolha do próximo tema.",
+      "materiais": "Leituras prévias de quem apresenta (artigos sobre o tema); opcionalmente, um documentário ou reportagem de referência.",
+      "consigna": "'O tema de hoje é um pouco pessoal... Em que momento o trabalho deixa de ser prazeroso para se tornar um vício, para se tornar algo que eu preciso fazer? O que vocês acham?'",
+      "passos": [
+        "Antes do encontro, quem apresenta lê alguns artigos sobre o tema escolhido pelo grupo.",
+        "Abrir com a ligação pessoal com o tema, dois ou três achados das leituras e uma única pergunta aberta.",
+        "Dar a palavra por ordem de mão levantada, nomeando quem fala ('Carla, fala'; 'Quem levanta primeiro?').",
+        "Os facilitadores podem dar depoimentos e participar como membros, sem monopolizar.",
+        "De tempos em tempos, a moderação liga as falas ('liguei o que o Vinícius falou com a fala da Carla') e relança uma pergunta nova (limites, o que fazemos com a nossa própria saúde mental).",
+        "Acolher críticas e discordâncias como parte do método.",
+        "Perto do fim, abrir espaço final ('Alguém mais quer comentar?').",
+        "Propor dois temas para o próximo encontro, votar, acolher sugestões de recorte e anunciar quem vai preparar o material."
+      ],
+      "feedback": "Não há feedback de desempenho. A moderação valida, conecta e relança. O critério implícito de qualidade é a profundidade da reflexão e a ligação com a prática profissional; o participante novo avalia o grupo como 'produtivo', com 'reflexões embasadas e profundas'.",
+      "exemplos_praticos": "A discussão foi do depoimento pessoal ('workaholic certificada') para leituras junguianas (energia psíquica, mundo interno), sociológicas (individualização, trabalho alienado) e políticas (escala 6x1, saúde social), e depois para relatos de atuação institucional (plantão em hospital, empresa e clínica-escola). Uma participante discordou do tom ('a psicologia fala muito e pratica pouco') e a discordância foi incorporada.",
+      "variacoes": "Transformar em mesa de estudos com apresentação curta mais estruturada (10–15 min) antes da roda; pedir um caso fictício para aplicar as ideias à clínica; fechar com uma pergunta 'o que levo para a minha prática?'; alternar quem apresenta a cada semana.",
+      "armadilhas": "Falas longas e monólogos; deriva para desabafo coletivo ou militância sem retorno à clínica; pouca gestão do tempo; exposição de histórias pessoais e institucionais sensíveis (pactuar sigilo); ausência de síntese final do que foi aprendido.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:00:02"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Abrir com autorrevelação e uma pergunta",
+      "descricao": "Cindy (?) conta por que o tema é pessoal, cita as leituras e termina com uma única pergunta aberta, o que legitima a vulnerabilidade e dá um foco.",
+      "exemplo": "'O tema de hoje ele é um pouco pessoal, porque a minha terapeuta fala muito para mim: vai com calma... O que que vocês acham?'",
+      "ts": "0:00:02"
+    },
+    {
+      "movimento": "Depoimento logo após a abertura",
+      "descricao": "Logo depois da pergunta disparadora, uma colega experiente (Adria (?), plantonista da Allos) dá seu depoimento com humor, o que modela a autorrevelação para o resto do grupo.",
+      "exemplo": "'Eu sou workaholic certificada... É, o meu depoimento é esse, gente. Vai ser testemunho hoje.'",
+      "ts": "0:02:10"
+    },
+    {
+      "movimento": "Turnos por inscrição",
+      "descricao": "Distribui a palavra pela ordem das mãos levantadas no Meet, nomeando a pessoa.",
+      "exemplo": "'Vinícius, pode falar.'; 'Quem levanta primeiro? Acho que o Diogo.'",
+      "ts": "0:16:59"
+    },
+    {
+      "movimento": "Síntese que liga falas",
+      "descricao": "A moderação conecta contribuições de pessoas diferentes para construir um fio comum.",
+      "exemplo": "'Uma coisa que o Vinícius falou eu liguei com a fala da Carla: preencher o vazio.'",
+      "ts": "0:47:46"
+    },
+    {
+      "movimento": "Relançar para a pessoa do terapeuta",
+      "descricao": "Transforma o debate sobre 'os outros' numa pergunta sobre os próprios participantes.",
+      "exemplo": "'O que nós estamos fazendo com a nossa própria saúde mental para evitar cair nessa posição, de qualquer um dos dois lados?'",
+      "ts": "0:52:31"
+    },
+    {
+      "movimento": "Pergunta sobre limites",
+      "descricao": "Depois de uma síntese, lança uma pergunta que projeta o tema no futuro de cada um.",
+      "exemplo": "'Quando que isso vai esbarrar no nosso limite? E como vamos reagir no momento em que não aguentarmos mais?'",
+      "ts": "0:12:35"
+    },
+    {
+      "movimento": "Acolher a crítica",
+      "descricao": "Uma participante critica o próprio discurso da psicologia; a resposta que vem (de Adria (?)) valoriza a problematização em vez de se defender, e a crítica passa a fazer parte do debate.",
+      "exemplo": "'Achei muito legal que você trouxe, porque justamente problematiza tudo isso.'",
+      "ts": "0:21:37"
+    },
+    {
+      "movimento": "Espaço final aberto",
+      "descricao": "Antes de fechar, pergunta se alguém ainda quer falar, o que dá voz a quem ficou quieto.",
+      "exemplo": "'Alguém mais quer comentar?'",
+      "ts": "1:13:09"
+    },
+    {
+      "movimento": "Votação do próximo tema",
+      "descricao": "Cindy (?) expõe seu dilema entre dois temas e deixa o grupo decidir; conta votos, define uma sequência e acolhe uma sugestão de recorte (CID-11).",
+      "exemplo": "'Dois votos para trauma... Vamos fazer a sequência. Vai ser primeiro trauma.' / 'Pronto, então tá decidido. Bati o martelo.'",
+      "ts": "1:14:28"
+    },
+    {
+      "movimento": "Humor e humanização",
+      "descricao": "Cindy (?) admite ansiedade e indecisão, o que reduz a hierarquia e aproxima o grupo.",
+      "exemplo": "'Acho que eu brisei muito aqui agora, mas estou com uma ansiedade patológica hoje'; 'Eu tava três semanas assim: nossa, ainda não decidi.'",
+      "ts": "0:49:10"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "No plantão em empresas, diga claramente ao paciente e aos gestores que nada do que for dito será reportado ao chefe.",
+      "justificativa": "As pessoas chegam com medo de ser avaliadas e pedindo que o psicólogo 'fale bem' delas; sem essa garantia, não falam. Além disso, quantificar a estabilidade emocional de alguém para o empregador não é ético.",
+      "contexto": "Plantão psicológico ou atendimento vinculado a empresas parceiras.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:09:59"
+    },
+    {
+      "dica": "Não tome o 'está tudo bem' do início como a demanda; sustente a escuta até o fim.",
+      "justificativa": "No contexto organizacional, a pessoa costuma levar 20–30 minutos (ou até o último minuto) para trazer o que a incomoda.",
+      "contexto": "Plantão em ambiente de trabalho.",
+      "competencia": "Escuta clínica",
+      "ts": "1:11:25"
+    },
+    {
+      "dica": "Garanta um local discreto para o plantão.",
+      "justificativa": "Uma sala muito visível permitiu à dona de uma clínica deduzir quem tinha sido atendido, sem que houvesse qualquer vazamento por parte da psicóloga.",
+      "contexto": "Plantão dentro da própria instituição empregadora.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:05:46"
+    },
+    {
+      "dica": "Quando o sofrimento envolve o trabalho, articule a rede: RH, psiquiatra, médico.",
+      "justificativa": "O atendimento clínico sozinho não dá conta de decisões como o afastamento, e a falta de articulação em rede sustenta o isolamento do trabalhador.",
+      "contexto": "Paciente com dificuldade de pedir afastamento ou em adoecimento ligado ao trabalho.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:23:39"
+    },
+    {
+      "dica": "Evite a posição de salvador ao entrar numa organização.",
+      "justificativa": "A expectativa de que 'a psicóloga vai mudar tudo' adoece o profissional e ignora que as mudanças são coletivas e de longo prazo.",
+      "contexto": "Atuação em empresas, hospitais e instituições públicas.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:54:42"
+    },
+    {
+      "dica": "Use dados agregados do plantão para propor mudanças à liderança.",
+      "justificativa": "Dizer que 'de tantas pessoas atendidas, todas trouxeram esta questão' mostra padrões estruturais sem expor ninguém e abre espaço para redesenhar processos.",
+      "contexto": "Relatórios e devolutivas institucionais.",
+      "competencia": "Articulação teoria-prática",
+      "ts": "0:58:43"
+    },
+    {
+      "dica": "Não baseie toda a defesa da saúde mental no argumento do lucro.",
+      "justificativa": "'Cuidar dos funcionários aumenta o lucro' é fácil de derrubar ('vou faturar o dobro se reduzir a jornada pela metade?') e reproduz a lógica que se quer criticar. Em momentos críticos, porém, pode ser preciso usá-lo para resolver o imediato ('dar o peixe').",
+      "contexto": "Negociação com gestores e empresários.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:42:19"
+    },
+    {
+      "dica": "Quando o paciente chega pedindo 'me conserta', ajude-o a olhar também o contexto que produz o sofrimento.",
+      "justificativa": "A lógica da responsabilidade individual faz a pessoa ver a própria tristeza como defeito seu e perder de vista as relações e condições que a determinam.",
+      "contexto": "Queixas ligadas a trabalho, desempenho e autocobrança.",
+      "competencia": "Formulação de caso",
+      "ts": "0:31:40"
+    },
+    {
+      "dica": "Com pacientes que não conseguem parar, reenquadre o descanso e a reflexão como trabalho interno.",
+      "justificativa": "Quem só reconhece como trabalho a adaptação ao mundo externo sente que está parado quando elabora o mundo interno; 'afiar o machado' também é trabalho.",
+      "contexto": "Pacientes workaholics, com culpa ao descansar.",
+      "competencia": "Intervenção",
+      "ts": "0:15:58"
+    },
+    {
+      "dica": "Cuide das suas próprias horas de trabalho e proteja o lazer do 'modo psicólogo'.",
+      "justificativa": "O psicólogo também é trabalhador precarizado e sujeito a burnout; desacelerar exige sustentar desconforto, e viver isso ajuda a acompanhar pacientes com o mesmo sofrimento.",
+      "contexto": "Autocuidado do terapeuta.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:23:39"
+    },
+    {
+      "dica": "Considere o estigma ao oferecer plantão numa instituição.",
+      "justificativa": "Se procurar o plantão significa 'ser visto como doido', só os setores mais precarizados aparecem, e o plantão perde utilidade.",
+      "contexto": "Implantação de serviços de escuta em organizações.",
+      "competencia": "Articulação teoria-prática",
+      "ts": "0:57:39"
+    },
+    {
+      "dica": "Em intervenções institucionais, valorize o saber prático dos trabalhadores mais velhos.",
+      "justificativa": "Ritmo mais lento não é incompetência; esse saber pode ser repassado aos novos, e desqualificá-lo é etarismo.",
+      "contexto": "Equipes com conflitos intergeracionais.",
+      "competencia": "Articulação teoria-prática",
+      "ts": "0:59:41"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Vivemos uma epidemia de vício em trabalho produzida por uma cultura de metas.",
+      "argumento": "O único sentido da vida vira a meta atingida, que sempre se renova e nunca satisfaz; os artigos lidos falam em 'epidemia do novo século'.",
+      "contraponto": "Ver o workaholismo como traço individual.",
+      "implicacao": "Ler a autocobrança dos pacientes (e a própria) também como produto cultural.",
+      "quem": "Cindy (?)",
+      "ts": "0:00:02"
+    },
+    {
+      "tese": "'Parar' não existe psiquicamente; o que falta é reconhecer o trabalho interior como trabalho.",
+      "argumento": "A energia psíquica sempre busca direção; barrada, estoura (burnout) ou encontra outra vazão; o mundo interno é tratado como inexistente por certa visão cultural e científica.",
+      "contraponto": "A visão que só valoriza a adaptação ao mundo externo.",
+      "implicacao": "Reenquadrar pausas como trabalho de elaboração.",
+      "quem": "Vinícius (participante)",
+      "ts": "0:13:14"
+    },
+    {
+      "tese": "A psicologia fala muito da aceleração, mas os psicólogos praticam pouco a desaceleração.",
+      "argumento": "Há 'milhões de monografias' sobre o tema, mas desacelerar exige sustentar desconforto físico, psicológico e moral, e o julgamento dos outros; é preciso viver isso para ajudar os pacientes.",
+      "contraponto": "O discurso acadêmico que não vira prática.",
+      "implicacao": "Coerência entre o que o psicólogo recomenda e o que vive.",
+      "quem": "Marina (participante)",
+      "ts": "0:18:55"
+    },
+    {
+      "tese": "A lógica da responsabilidade individual serve a alguém e produz a individualização do sofrimento.",
+      "argumento": "Da abolição ao neoliberalismo, o trabalhador passou a arcar sozinho com a própria saúde; o 'sou meu próprio chefe' dos aplicativos é ilusório (não se trabalha quando se quer); nem o 'autodidata' aprende sozinho.",
+      "contraponto": "O discurso da autonomia e do empreendedorismo de si.",
+      "implicacao": "Na clínica, ajudar a pessoa a ver os determinantes do sofrimento para além de si.",
+      "quem": "Diogo (participante)",
+      "ts": "0:29:19"
+    },
+    {
+      "tese": "O argumento 'saúde mental dá lucro' é uma armadilha.",
+      "argumento": "É facilmente derrubado ('vou faturar o dobro?') e aceita a premissa do lucro como critério; a luta é contra a simbologia do progresso e pela justiça, não pela produtividade.",
+      "contraponto": "Adria (?) defende mostrar gráficos e avaliações de risco às empresas; Diogo lembra que às vezes é preciso 'dar o peixe' e usar a lógica do lucro para resolver o imediato.",
+      "implicacao": "Argumentar com sentido e justiça, usando a linguagem do lucro só taticamente.",
+      "quem": "Vinícius (participante)",
+      "ts": "0:42:19"
+    },
+    {
+      "tese": "O burnout nasce da falta de sentido do trabalho alienado.",
+      "argumento": "O dinheiro e a prosperidade são símbolos vazios; o trabalho, como o tempo, foi abstraído da experiência; sem sentido, surgem depressão e burnout.",
+      "contraponto": "Explicações só por excesso de carga.",
+      "implicacao": "O papel do psicólogo é apontar o significado por trás de um mundo que só vê o concreto.",
+      "quem": "Vinícius (participante)",
+      "ts": "0:45:00"
+    },
+    {
+      "tese": "A saúde mental é coletiva e política.",
+      "argumento": "O que se discute ultrapassa o mundo interno: envolve o que o país considera trabalho, privilégios e mobilizações como o fim da escala 6x1; saúde social e agência coletiva produzem pertencimento e mudanças.",
+      "contraponto": "A clínica exclusivamente individual.",
+      "implicacao": "Conectar-se a outros profissionais e movimentos; olhar também para a própria categoria.",
+      "quem": "Adria (?)",
+      "ts": "0:37:04"
+    },
+    {
+      "tese": "O psicólogo não deve ocupar a posição de salvador nas organizações.",
+      "argumento": "Essa expectativa adoece o profissional; mudanças reais vêm de redesenhar sistemas com as pessoas, e com visão de longo prazo.",
+      "contraponto": "A expectativa da empresa (e dos funcionários) de que 'a psicóloga vai mudar tudo'.",
+      "implicacao": "Trabalhar com a cultura e a liderança, não só com o indivíduo; aceitar ganhos parciais.",
+      "quem": "Adria (?)",
+      "ts": "0:54:42"
+    },
+    {
+      "tese": "É antiético o psicólogo ser delator da estabilidade emocional do trabalhador.",
+      "argumento": "Quantificar se alguém está apto emocionalmente para o empregador trai a confiança e não é o trabalho a que o psicólogo se propõe.",
+      "contraponto": "A demanda de gestores por relatórios detalhados sobre os atendidos.",
+      "implicacao": "Pactuar sigilo com gestoras desde o início e observar os vieses da própria prática em contexto organizacional.",
+      "quem": "Cindy (?)",
+      "ts": "1:11:25"
+    },
+    {
+      "tese": "O psicólogo, entre a cruz e a espada, às vezes precisa dar um passo atrás para dar um à frente.",
+      "argumento": "Pedir ao empresário que abra mão do lucro faz com que ele pare de ouvir; usar o discurso do lucro reproduz a lógica criticada; como na psicologia social, se a pessoa está morrendo de fome, primeiro se dá o peixe.",
+      "contraponto": "Posições puristas de um lado ou de outro.",
+      "implicacao": "Resolver o imediato dentro da lógica vigente e combatê-la por fora, também como categoria organizada.",
+      "quem": "Diogo (participante)",
+      "ts": "0:49:10"
+    },
+    {
+      "tese": "A categoria (conselhos e entidades) olha pouco para a precarização dos próprios psicólogos.",
+      "argumento": "O Conselho Federal pouco fala do cuidado com os psicólogos; faltam estratégias coletivas; estudantes nem conseguem acessar certos canais do conselho regional.",
+      "contraponto": "",
+      "implicacao": "Organização coletiva da classe profissional.",
+      "quem": "Adria (?) e Diogo",
+      "ts": "0:38:13"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Nossa única função no mundo, o único sentido que damos à vida, é uma meta atingida, e essa meta vai se renovando. Nunca ficamos satisfeitos.",
+      "tema": "Cultura de metas",
+      "ts": "0:00:02"
+    },
+    {
+      "texto": "O burnout é a represa que estoura.",
+      "tema": "Burnout (Vinícius)",
+      "ts": "0:13:14"
+    },
+    {
+      "texto": "Quando não está cortando a árvore, está afiando o machado. O afiar do machado psicológico é o trabalho do mundo interno.",
+      "tema": "Trabalho interior (Vinícius)",
+      "ts": "0:15:58"
+    },
+    {
+      "texto": "Eu preciso parar tanto quanto eu preciso trabalhar.",
+      "tema": "Autocuidado do terapeuta (Adria)",
+      "ts": "0:23:39"
+    },
+    {
+      "texto": "Essa lógica de que é tudo responsabilidade do sujeito: a quem será que ela está servindo, e que consequências está produzindo?",
+      "tema": "Individualização (Diogo)",
+      "ts": "0:30:40"
+    },
+    {
+      "texto": "O que a gente está discutindo aqui vai além do mundo interno da pessoa. É uma posição política.",
+      "tema": "Saúde mental e política (Adria)",
+      "ts": "0:37:04"
+    },
+    {
+      "texto": "A nossa saúde mental não é só nossa, é de todos nós.",
+      "tema": "Saúde social (Adria)",
+      "ts": "0:40:23"
+    },
+    {
+      "texto": "Se eu coloco o meu argumento no lucro, na prosperidade da empresa, o meu argumento vai por terra.",
+      "tema": "Argumento do lucro (Vinícius)",
+      "ts": "0:42:19"
+    },
+    {
+      "texto": "O trabalho só me causa burnout porque não tem sentido eu estar lá.",
+      "tema": "Trabalho alienado (Vinícius)",
+      "ts": "0:45:00"
+    },
+    {
+      "texto": "O vazio não é algo a ser preenchido; é algo a se ter com você.",
+      "tema": "Vazio (Cindy?)",
+      "ts": "0:47:46"
+    },
+    {
+      "texto": "Se a pessoa está morrendo de fome, você tem que dar o peixe naquele momento.",
+      "tema": "Dilema do psicólogo (Diogo, citando uma professora)",
+      "ts": "0:50:24"
+    },
+    {
+      "texto": "Eu tento me afastar da posição de heroína, de salvadora. Isso também adoece a gente.",
+      "tema": "Posição de salvador (Adria)",
+      "ts": "0:54:42"
+    },
+    {
+      "texto": "A gente é meio que um exército invisível na conscientização dessas coisas.",
+      "tema": "Papel do psicólogo (Vinícius)",
+      "ts": "1:04:38"
+    },
+    {
+      "texto": "Não é um trabalho ético quantificar o quanto uma pessoa está estável ou não para trabalhar.",
+      "tema": "Sigilo no plantão (Cindy?)",
+      "ts": "1:11:25"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Descansar também é trabalho (e a psicologia explica por quê)",
+      "mensagem": "A energia psíquica não para: represada, estoura (burnout) ou encontra outra vazão. Elaborar o mundo interno é 'afiar o machado'.",
+      "roteiro": [
+        "Capa: 'Você sente culpa quando para?'",
+        "A energia psíquica sempre busca direção",
+        "Burnout = represa que estoura",
+        "O trabalho invisível do mundo interno",
+        "Afiar o machado também é trabalho",
+        "Pergunta final: o que é pausa para você?"
+      ],
+      "corte_inicio": "0:13:01",
+      "corte_fim": "0:16:59"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Psicólogo workaholic: quem cuida de quem cuida?",
+      "mensagem": "Psicólogos também são trabalhadores precarizados; recomendar descanso sem praticá-lo não se sustenta. Desacelerar exige sustentar desconforto.",
+      "roteiro": [
+        "'A psicologia fala muito e pratica pouco'",
+        "Precarização do psicólogo autônomo",
+        "'Preciso parar tanto quanto preciso trabalhar'",
+        "CTA: como você protege suas pausas?"
+      ],
+      "corte_inicio": "0:18:55",
+      "corte_fim": "0:24:41"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Por que 'saúde mental dá lucro' é um argumento fraco",
+      "mensagem": "Quem argumenta só pelo lucro aceita a premissa do adversário; a questão é de sentido e de justiça. Às vezes é preciso usar a lógica do lucro taticamente ('dar o peixe').",
+      "roteiro": [
+        "O argumento que o gestor derruba rindo",
+        "A simbologia do progresso",
+        "Trabalho sem sentido = burnout",
+        "O dilema: cruz ou espada?",
+        "Dar o peixe hoje, mudar a lógica amanhã"
+      ],
+      "corte_inicio": "0:42:19",
+      "corte_fim": "0:51:23"
+    },
+    {
+      "formato": "post",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Plantão psicológico em empresa: 4 cuidados éticos",
+      "mensagem": "Deixe o sigilo explícito para pacientes e gestores; não seja delator da estabilidade emocional; use sala discreta; devolva dados só agregados e com propostas estruturais.",
+      "roteiro": [
+        "Sigilo dito em voz alta",
+        "Não quantificar 'aptidão emocional'",
+        "Local discreto",
+        "Dados agregados e redesign"
+      ],
+      "corte_inicio": "1:09:59",
+      "corte_fim": "1:13:09"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Burnout não é fraqueza individual",
+      "mensagem": "A lógica de que tudo é responsabilidade do sujeito individualiza um sofrimento produzido também por condições de trabalho, precarização e cultura de metas.",
+      "roteiro": [
+        "'Me conserta': o pedido comum",
+        "Da abolição ao 'sou meu próprio chefe'",
+        "Aplicativos e a ilusão da autonomia",
+        "Olhar o contexto também é clínica"
+      ],
+      "corte_inicio": "0:29:19",
+      "corte_fim": "0:32:13"
+    },
+    {
+      "formato": "stories",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Na mesa de estudos da Allos, o grupo vota o próximo tema",
+      "mensagem": "Mostrar a roda de conversa e a votação democrática do próximo tema (trauma x adicção) como convite para participar.",
+      "roteiro": [
+        "Enquete: trauma ou adicção?",
+        "Como funciona a roda",
+        "Convite para o próximo encontro"
+      ],
+      "corte_inicio": "1:13:16",
+      "corte_fim": "1:17:19"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Carl Jung",
+      "contexto": "Referência implícita de Vinícius para energia psíquica e para o mundo interno com 'personalidades próprias', 'como diria o Jung'."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Mesa de estudos (roda de conversa temática)",
+    "objetivo": "Discutir coletivamente um tema de estudo trazido por uma pessoa a partir de leituras e da própria vivência (neste encontro: trabalho, vício em trabalho e saúde mental), relacionando-o à vida dos participantes e à atuação profissional.",
+    "publico": "Estudantes de psicologia em fim de graduação e psicólogos recém-formados, vários atuando em plantão psicológico (inclusive pela Allos), de diferentes regiões do país.",
+    "tamanho": "Cerca de 7 a 9 participantes ativos, online.",
+    "duracao": "Cerca de 1h15 a 1h20.",
+    "estrutura_padrao": "1) Disparador curto: Cindy (?) conta por que o tema a atravessa, cita as leituras e faz uma pergunta aberta; 2) depoimentos e discussão livre por inscrição, sem blocos teóricos formais; 3) intervenções periódicas da moderação para ligar falas e relançar perguntas; 4) espaço final ('alguém mais?'); 5) votação do tema do próximo encontro e definição de quem prepara o material.",
+    "papel_facilitador": "Apresentadora e moderadora leve: traz a leitura, abre com autorrevelação, distribui a palavra, sintetiza, relança e conduz a escolha do próximo tema. Também participa como membro, com relatos profissionais; colegas mais experientes da Allos (como Adria (?)) fazem contribuições longas e às vezes passam a palavra. Não há exercício nem feedback de desempenho.",
+    "regras_combinados": "Mão levantada no Meet para falar; espaço para discordar e criticar; autorrevelação bem-vinda; tema do encontro seguinte escolhido por votação entre opções trazidas pela condutora; cada encontro dialoga com os anteriores (antes se discutiu o tempo).",
+    "comparacao_formato_alan": "É quase o oposto do aprimoramento do Alan (teoria mínima, exercício, feedback). Não há teoria sistematizada (os referenciais aparecem espontaneamente nas falas: Jung, sociologia do trabalho, psicologia social), não há exercício de habilidade clínica e não há correção de respostas. O foco não é uma competência de sessão, mas a pessoa do terapeuta e o contexto social e político do sofrimento. A condução é horizontal: a condutora e colegas da Allos dão depoimento como qualquer participante. Ganha em pertencimento, elaboração coletiva e pensamento crítico; perde em transferência para a técnica clínica, controle de tempo (falas de 5 a 8 minutos) e síntese final do aprendizado."
+  },
+  "reflexoes_do_facilitador": [
+    "Cindy (?) declara o tema como pessoal e ligado à sua própria terapia ('é uma vivência que eu tô passando').",
+    "Cindy (?) admite estar com 'ansiedade patológica hoje' e que talvez tenha 'brisado' na fala.",
+    "Cindy (?) conta que passou três semanas indecisa entre dois temas para o próximo encontro, entrega a decisão ao grupo ('eu não decido mais nada') e promete 'preparar o material máximo'."
+  ],
+  "referencias_a_outros_encontros": [
+    "Encontro anterior sobre o tempo (aceleração, tempo ocidental abstrato), retomado por Adria (?) e por Vinícius.",
+    "Próximo encontro: trauma, escolhido por votação, possivelmente incluindo o TEPT complexo da CID-11; adicção (vício em substâncias, alcoolismo) fica para depois, 'na sequência'.",
+    "Adria (?) menciona conduzir grupos (inclusive presenciais) e o plantão psicológico ligado à Allos; Cindy (?) faz plantão online pela Allos em parceria com uma empresa.",
+    "Um participante novo diz que só agora conseguiu vir, porque estava no estágio, e pretende participar mais em dezembro.",
+    "Diogo, que coordena o Acervo 12, participa aqui como membro e se identifica como estudante de psicologia.",
+    "Outras mesas de estudos no acervo: Acervo 07 (violência e plantão psicológico, com Malu e Cindy) e Acervo 20 (plantão psicológico, com Cindy, Malu e participação de Adria)."
+  ],
+  "observacoes": "IDENTIFICAÇÃO DA CONDUÇÃO (provável, não confirmada): a gravação começa no meio da abertura e ninguém se apresenta. (1) Condutora = provavelmente Cindy (?). Ela abre com o tema e as leituras, distribui turnos, sintetiza, relata plantão online pela Allos em parceria com uma empresa e, no fim, responde ao agradecimento de um participante novo anunciando o tema da semana seguinte e prometendo preparar o material. Indícios: o agradecimento ininteligível 'associação Alos Cider e a Cuz Grupo' parece ser 'Allos, [a] Cindy, que conduz o grupo há um tempo já'; Vinícius parece dirigir-se a ela ('Acho que, Cindy...', transcrito 'a Cíndica', 1:03:21); e o fichamento do Acervo 20 identifica Cindy como condutora da Mesa de estudos e plantonista online. (2) Adria (?), grafia usada no fichamento do Acervo 20 para a mesma pessoa (a legenda escreve Adrian, Hidra, Hidran, Eidra, Idr, Iria, Aira, Ara): plantonista da Allos, de Fortaleza, que dá o depoimento de 'workaholic certificada' e faz as falas longas sobre precarização, saúde social e plantão hospitalar. Carla distingue as duas ('no que você trouxe e no que a Adrian trouxe'). Marcas regionais ('meu povo', 'pronto') no fechamento deixam alguma dúvida se quem anuncia o próximo tema é Cindy ou Adria. Diogo aparece como participante (estudante de psicologia). FORMATO: o nome 'Mesa de estudos' não é dito na gravação; foi inferido pela estrutura (uma pessoa traz um tema que estudou para discussão, como Cindy descreve no Acervo 20) e pela ausência de exercício clínico. Os Acervos 07 e 20 dizem que a Mesa de estudos de dezembro foi dedicada ao plantão psicológico, enquanto aqui (início de dezembro ou fim de novembro) o tema é trabalho e o seguinte será trauma; pode ser outro ciclo ou outro grupo de discussão da mesma condutora. Transcrição: 'morolic/workoric' = workaholic; 'CF Pelho' = CFP; 'AR1/NR1' = NR-1; 'bornal/bornout' = burnout; 'Ium' = Jung; trecho incompreensível 'já faria Limer'. A 'capital do jeans' não é nomeada; provavelmente é Toritama (PE), retratada no documentário 'Estou me guardando para quando o carnaval chegar' (inferência do fichamento, não dita na fala). Privacidade: depoimentos pessoais de saúde de participantes foram generalizados; o relato de uma profissional com uso de álcool numa clínica de estágio foi omitido; o hospital citado aparece apenas como 'hospital público'."
+}

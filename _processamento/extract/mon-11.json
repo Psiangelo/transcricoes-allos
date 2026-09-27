@@ -1,0 +1,785 @@
+{
+ "id": "mon-11",
+ "nota": "Monitoria 11 - Diogo - Tempo clínico, passado e presente",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Tempo clínico, passado e presente",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo propõe o tema 'tempo clínico', relativizando o estereótipo de que a psicanálise investiga o passado e a TCC o presente, e afirma que todo clínico tem uma preferência não necessariamente ligada à abordagem. A partir do atendimento de uma aluna com um paciente simulado por IA (lido de forma dramatizada: ela lê suas falas, Diogo lê o paciente), cada participante formula três perguntas que precisaria responder para conduzir o caso, não perguntas ao paciente. Em seguida, cada um classifica as próprias perguntas como voltadas à origem ou ao presente/prognóstico; o debate opõe a posição psicanalítica de que o passado deve surgir naturalmente à tese de Diogo de que os tempos só se separam no papel, pois todo relato do passado é presente, e produz a distinção entre nível imediato e função clínica da intervenção, ilustrada pela metáfora dos dois engenheiros diante de um rio que enche. No fechamento, Diogo mostra que a pergunta não se escolhe só pelo conteúdo, mas pela dinâmica da sessão, e revela que reduziu o exercício de cinco a nove para três perguntas para expor o viés de cada um, a ser usado a favor e com mais consciência.",
+ "em_uma_frase": "Com três perguntas norteadoras sobre um caso simulado, Diogo faz cada participante descobrir sua preferência por investigar passado ou presente e mostra que os tempos se misturam na clínica, cabendo ao terapeuta usar o próprio viés com consciência.",
+ "competencias": [
+  "Formulação de caso",
+  "Direção do tratamento",
+  "Priorização clínica",
+  "Escuta clínica",
+  "Primeira sessão e entrevistas iniciais",
+  "Intervenção",
+  "Aprofundamento",
+  "Relação terapêutica",
+  "Pessoa do terapeuta",
+  "Articulação teoria-prática",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicanálise freudiana",
+  "Psicanálise lacaniana",
+  "Terapia cognitivo-comportamental",
+  "Gestalt-terapia",
+  "Psicologia analítica junguiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:05",
+   "bloco": "Abertura",
+   "descricao": "Boas-vindas; tema 'tempo clínico'; estereótipos (psicanálise = passado, TCC = presente) relativizados.",
+   "funcao": "Enquadrar o tema desfazendo o clichê.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:01:37",
+   "bloco": "Teoria",
+   "descricao": "Preferências do clínico independentes da abordagem; objetivo do exercício; recurso de IA do grupo de sexta; crédito a quem propôs a atividade.",
+   "funcao": "Dar sentido ao exercício e reconhecer autoria.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:03:14",
+   "bloco": "Combinados",
+   "descricao": "Consigna: três perguntas cruciais para a evolução do caso, para si e não para o paciente; checagem de dúvidas.",
+   "funcao": "Garantir que todos façam a mesma tarefa.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:04:31",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Aviso de vagas na clínica-escola (mensalidade social) e brincadeiras.",
+   "funcao": "Recado institucional e clima leve.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:06:07",
+   "bloco": "Demonstração",
+   "descricao": "Leitura dramatizada do atendimento simulado: a aluna lê suas falas, Diogo lê o paciente.",
+   "funcao": "Oferecer o material do exercício com a entonação da terapeuta.",
+   "duracao_min": 16
+  },
+  {
+   "ts": "0:21:55",
+   "bloco": "Rodada de respostas",
+   "descricao": "Leitura das perguntas dos participantes no chat e por voz (muitas voltadas ao passado); correção da consigna.",
+   "funcao": "Tornar visíveis as escolhas de cada um.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:26:46",
+   "bloco": "Discussão",
+   "descricao": "A aluna comenta seu atendimento: palavra 'automático', hipótese filhos-dor, cadeira vazia, frustração e identificação pessoal.",
+   "funcao": "Trazer o raciocínio de quem atendeu.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:31:01",
+   "bloco": "Discussão",
+   "descricao": "Diogo pede as três perguntas que nortearam a sessão da aluna.",
+   "funcao": "Síntese do raciocínio clínico.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:32:40",
+   "bloco": "Rodada de respostas",
+   "descricao": "Mais perguntas do chat; o grupo pergunta à aluna sobre a identificação; Diogo redireciona ('mudamos de paciente muito rápido').",
+   "funcao": "Coletivizar e proteger o foco no caso.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:38:33",
+   "bloco": "Dinâmica",
+   "descricao": "Segundo passo: cada um classifica as próprias perguntas como voltadas à origem ou ao prognóstico/presente.",
+   "funcao": "Autoavaliação do viés.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:42:22",
+   "bloco": "Teoria",
+   "descricao": "Tendências só se separam no papel; relato do passado é presente; trauma significado a posteriori.",
+   "funcao": "Problematizar a dicotomia.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:44:12",
+   "bloco": "Discussão",
+   "descricao": "'O passado precisa surgir naturalmente'; metáfora arqueológica; debate socrático entre Diogo e uma participante psicanalista.",
+   "funcao": "Confrontar autodescrição com lógica clínica.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:50:30",
+   "bloco": "Teoria",
+   "descricao": "Nível imediato versus função clínica da intervenção; metáfora dos dois engenheiros diante da enchente.",
+   "funcao": "Oferecer ferramenta conceitual e imagem.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:54:35",
+   "bloco": "Discussão",
+   "descricao": "Participante psicanalista: pergunta breve sobre vínculos com mãe e pai quando há brecha; personagem sem travas (gamificação).",
+   "funcao": "Mostrar variações dentro da mesma abordagem.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:57:07",
+   "bloco": "Discussão",
+   "descricao": "Outra participante reconhece tendência ao passado; ressalva de Diogo sobre a TCC.",
+   "funcao": "Nuançar estereótipos.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:59:56",
+   "bloco": "Discussão",
+   "descricao": "Participante que trabalha com sonhos: presente primeiro, afeto que não passa pela fala, nível de consciência.",
+   "funcao": "Explorar o raciocínio por trás das perguntas.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:09:04",
+   "bloco": "Discussão",
+   "descricao": "Rodada de reconsideração: quem mudaria as perguntas; conteúdo versus dinâmica da sessão.",
+   "funcao": "Integrar o debate às escolhas individuais.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:11:38",
+   "bloco": "Feedback",
+   "descricao": "A aluna revê seu atendimento; limite da IA (não lembra da sessão anterior); colega não viu resistência.",
+   "funcao": "Fechar o caso e relativizar a autocrítica.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:16:06",
+   "bloco": "Fechamento",
+   "descricao": "Revelação do design (três em vez de cinco a nove perguntas); objetivo do exercício; opinião de Diogo; comentário final de uma participante.",
+   "funcao": "Explicitar a intenção pedagógica.",
+   "duracao_min": 4
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Tempo clínico",
+   "definicao": "Orientação temporal da investigação e da intervenção clínica: passado/origem, presente, prognóstico. Os tempos são caminhos úteis conforme o momento do caso e, na prática, se misturam dentro de uma sessão ou ao longo do processo.",
+   "exemplo": "Perguntar sobre a separação (passado) ou sobre como o paciente demonstra afeto hoje (presente).",
+   "abordagem": "",
+   "ts": "0:00:05"
+  },
+  {
+   "nome": "Preferência clínica do terapeuta",
+   "definicao": "Tendência de cada clínico a privilegiar um tempo ou caminho de investigação, não necessariamente ligada à abordagem. Deve ser conhecida não para ser eliminada, mas para ser usada a favor e para checar o que se deixa de investigar.",
+   "exemplo": "Uma participante percebe que suas três perguntas giravam em torno da separação.",
+   "abordagem": "",
+   "ts": "0:01:37"
+  },
+  {
+   "nome": "Perguntas norteadoras",
+   "definicao": "Perguntas que o terapeuta precisa responder para si para orientar a condução do caso, distintas das perguntas feitas ao paciente.",
+   "exemplo": "Quem é ele como pessoa? O que são relações para ele? O que significa esse 'automático'?",
+   "abordagem": "",
+   "ts": "0:03:14"
+  },
+  {
+   "nome": "Função clínica da intervenção",
+   "definicao": "O direcionamento a que uma intervenção serve, distinto de seu nível imediato ou tempo gramatical. Perguntar sobre o discurso presente pode ter a função de permitir que o paciente chegue sozinho à origem.",
+   "exemplo": "'Nas intervenções imediatas você prioriza o presente; mas com qual função clínica?'",
+   "abordagem": "",
+   "ts": "0:51:39"
+  },
+  {
+   "nome": "Significação a posteriori do trauma",
+   "definicao": "Ideia, atribuída por Diogo a Lacan com hesitação, de que o trauma não se constitui no momento do ato, mas quando o ato é significado no aparelho psíquico, o que pode ocorrer anos depois; por isso o relato do passado é sempre presente.",
+   "exemplo": "Depois de brigas, o relato sobre a relação com o pai muda.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:43:01"
+  },
+  {
+   "nome": "Associação livre",
+   "definicao": "Na posição de uma participante psicanalista, o passado deve surgir por si na fala do paciente; perguntar por ele fugindo do discurso presente é conduzir a associação livre e torná-la artificial.",
+   "exemplo": "Trabalho de arqueólogo: cavar, achar o fóssil, raspar, limpar o pó.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:45:24"
+  },
+  {
+   "nome": "Atenção flutuante",
+   "definicao": "Citada por Diogo como 'escuta flutuante': posição que permite ao paciente elaborar a partir de perguntas sobre o discurso presente.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:50:30"
+  },
+  {
+   "nome": "Real, simbólico e imaginário",
+   "definicao": "Distinção lacaniana evocada por Diogo para checar se o termo 'real' num comentário do chat estava em sentido técnico; a autora esclarece que não.",
+   "exemplo": "'O traumático real é tudo aquilo que foge da palavra.'",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:44:12"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Um colega sugere que o paciente resistente tende a repetir as mesmas coisas; a sensação de resistência pode ser insegurança do terapeuta. Diogo lembra que não adianta insistir contra a resistência.",
+   "exemplo": "A aluna sentiu que tirava 'água de pedra'; o colega não viu resistência.",
+   "abordagem": "",
+   "ts": "1:13:03"
+  },
+  {
+   "nome": "Fluxo da sessão",
+   "definicao": "Dinâmica de conforto e produtividade do paciente na sessão, que deve pesar na escolha das perguntas junto com o conteúdo.",
+   "exemplo": "Mesclar perguntas sobre a separação com perguntas do presente para 'trazer mais vida' à sessão.",
+   "abordagem": "",
+   "ts": "1:10:42"
+  },
+  {
+   "nome": "Vocabulário do paciente",
+   "definicao": "Aqui aparece o fenômeno inverso: o paciente adota uma palavra introduzida pela terapeuta e passa a repeti-la.",
+   "exemplo": "A palavra 'automático'.",
+   "abordagem": "",
+   "ts": "0:26:46"
+  },
+  {
+   "nome": "Cadeira vazia",
+   "definicao": "Técnica da Gestalt usada pela aluna para que o paciente falasse aos filhos e, depois, respondesse como eles; segundo ela, o paciente relatou sentir-se mais leve.",
+   "exemplo": "",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:27:58"
+  },
+  {
+   "nome": "Gamificação na clínica",
+   "definicao": "Recurso de um participante: pedir ao paciente que construa, no presente, um personagem sem suas travas e medos, como num RPG dentro da sessão, para entender como ele se vê.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:55:41"
+  },
+  {
+   "nome": "Amplificação",
+   "definicao": "Ampliação das imagens trazidas em sonhos, pela qual um participante chega ao passado quando o próprio material onírico remete a relações antigas.",
+   "exemplo": "",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:02:49"
+  },
+  {
+   "nome": "Expectativas do paciente",
+   "definicao": "O que o paciente espera da terapia; quando ela é a 'última opção' para resolver um sintoma, investigar isso orienta as próximas intervenções e ajuda a avaliar o trabalho de curto prazo.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:40:44"
+  },
+  {
+   "nome": "Contratransferência",
+   "definicao": "Cogitada por uma participante para explicar por que todas as suas perguntas giraram em torno da separação; também ecoa na identificação da aluna com o paciente.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:18:43"
+  },
+  {
+   "nome": "Paciente simulado por IA",
+   "definicao": "Personagem criado por IA na ferramenta da Allos, usado no grupo de sexta e nesta monitoria; permite continuar o atendimento, mas o personagem não lembra da sessão anterior.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:13:03"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Três perguntas norteadoras",
+   "objetivo": "Fazer cada terapeuta identificar sua preferência temporal ao investigar um caso (passado/origem ou presente/prognóstico) e usá-la com consciência.",
+   "competencias": [
+    "Formulação de caso",
+    "Direção do tratamento",
+    "Priorização clínica",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Grupo todo online (cerca de dez pessoas); uma aluna traz um atendimento com paciente simulado por IA; respostas pelo chat e por voz.",
+   "tempo": "Cerca de 75 minutos (leitura ~15, compartilhamento ~15, análise e debate ~30, reconsideração e fechamento ~10).",
+   "materiais": "Log do atendimento simulado com tela compartilhada; chat.",
+   "consigna": "A partir do que vai ser exposto, elaborem três perguntas que vocês consideram cruciais para a evolução desse caso. Não são perguntas para fazer ao paciente, mas perguntas que vocês precisam responder para orientar a condução do caso.",
+   "passos": [
+    "Apresentar o tema (tempo clínico) e relativizar os estereótipos das abordagens.",
+    "Dar a consigna e checar dúvidas.",
+    "Leitura dramatizada: a terapeuta lê suas falas; o facilitador lê o paciente.",
+    "Cada participante escreve suas três perguntas durante a leitura.",
+    "Compartilhar; a terapeuta do caso resume em três as perguntas que nortearam sua sessão.",
+    "Análise crítica: as perguntas miram a origem ou o prognóstico?",
+    "Debater a partir das divergências.",
+    "Reconsiderar: após a discussão, manteria, mesclaria ou mudaria de tendência?",
+    "Revelar o design (por que só três) e o objetivo."
+   ],
+   "feedback": "Diogo não julga o conteúdo das perguntas; checa a consigna, pede o processo de escolha, confronta autodescrições inconsistentes devolvendo a lógica da pessoa e oferece distinções conceituais (nível imediato versus função clínica). Critério: consciência da própria tendência e capacidade de justificá-la.",
+   "exemplos_praticos": "A maioria das perguntas foi ao passado (separação, luto, vínculos com mãe e pai, origem do 'comodismo'); uma participante notou que todas giravam em torno da separação e cogitou contratransferência; a psicanálise apareceu dividida entre deixar o passado surgir e perguntar brevemente pelo vínculo; outros privilegiaram o presente (expectativas, satisfação atual, formas de demonstrar afeto).",
+   "variacoes": "Versão original com cinco a nove perguntas (proposta por uma participante); reduzida a três pelo tamanho do grupo e para forçar escolha; variante espontânea: escrever seis e circular três. Pode ser usada com qualquer atendimento registrado.",
+   "armadilhas": "Escrever perguntas para o paciente; passar de três; o grupo 'mudar de paciente' e analisar a terapeuta; a discussão conceitual 'origem versus presente' ficar confusa (a metáfora dos engenheiros e a distinção nível/função ajudam).",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:03:14"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Enquadrar desfazendo o clichê",
+   "descricao": "Abre com o estereótipo das abordagens e o relativiza na mesma fala, explicando o objetivo do exercício.",
+   "exemplo": "'Psicanálise conversa no presente; a boa TCC investiga o passado também.'",
+   "ts": "0:00:05"
+  },
+  {
+   "movimento": "Reconhecer a autoria",
+   "descricao": "Credita publicamente a participante que propôs a atividade e pede ao grupo que a celebre no chat.",
+   "exemplo": "'Quem propôs essa atividade foi...'",
+   "ts": "0:02:52"
+  },
+  {
+   "movimento": "Consigna precisa e checada",
+   "descricao": "Antecipa a dúvida provável, responde e pergunta se alguém ficou com dúvida; repete quando um participante reformula.",
+   "exemplo": "'Ah, Diogo, mas são perguntas de que tipo? Não são perguntas para o paciente...'",
+   "ts": "0:03:14"
+  },
+  {
+   "movimento": "Humor e recado institucional",
+   "descricao": "Anuncia vagas da clínica-escola e brinca para manter o clima leve.",
+   "exemplo": "Piadas de anúncio ('compre a nova máquina...').",
+   "ts": "0:06:07"
+  },
+  {
+   "movimento": "Leitura dramatizada",
+   "descricao": "A terapeuta lê suas falas para mostrar a entonação; o facilitador lê o paciente e amplia a tela.",
+   "exemplo": "'Acho melhor, né, pra gente ver a entonação.'",
+   "ts": "0:06:42"
+  },
+  {
+   "movimento": "Chat como canal principal",
+   "descricao": "Lê em voz alta as contribuições e registra no chat a síntese da terapeuta.",
+   "exemplo": "'Coloquei no chat suas três perguntas.'",
+   "ts": "0:32:31"
+  },
+  {
+   "movimento": "Corrigir sem expor",
+   "descricao": "Aponta que a participante fez perguntas ao paciente e, em seguida, aproveita o que havia de útil.",
+   "exemplo": "'A ideia é que você faça três perguntas que te ajudam a investigar o caso.'",
+   "ts": "0:26:13"
+  },
+  {
+   "movimento": "Pedir síntese",
+   "descricao": "Pede que a terapeuta condense sua investigação em três perguntas.",
+   "exemplo": "'Se você tivesse que resumir três perguntas que nortearam toda essa investigação, quais seriam?'",
+   "ts": "0:31:01"
+  },
+  {
+   "movimento": "Proteger o foco no caso",
+   "descricao": "Quando o grupo começa a interpretar a terapeuta, redireciona com humor.",
+   "exemplo": "'A gente mudou de paciente muito rápido.'",
+   "ts": "0:38:08"
+  },
+  {
+   "movimento": "Pergunta que muda de nível",
+   "descricao": "Leva o grupo do caso para a autopercepção pedindo que classifiquem as próprias perguntas.",
+   "exemplo": "'Essas perguntas estão mais voltadas à origem ou ao prognóstico?'",
+   "ts": "0:38:33"
+  },
+  {
+   "movimento": "Debate socrático",
+   "descricao": "Devolve à participante a lógica dela, sustenta a divergência e fecha com uma distinção conceitual em vez de declarar vencedor.",
+   "exemplo": "'Pelo que você me falou, me deu a impressão que o seu foco é a origem.'",
+   "ts": "0:47:31"
+  },
+  {
+   "movimento": "Metáfora para descomplicar",
+   "descricao": "Introduz uma imagem quando a discussão abstrata fica confusa.",
+   "exemplo": "Dois engenheiros e o rio que enche.",
+   "ts": "0:52:16"
+  },
+  {
+   "movimento": "Ressalvas contra a caricatura",
+   "descricao": "Nuança afirmações sobre abordagens.",
+   "exemplo": "'Não é todo psicólogo de TCC; é uma visão dentro da TCC.'",
+   "ts": "0:58:49"
+  },
+  {
+   "movimento": "Perguntar pelo processo",
+   "descricao": "Interessa-se por como a pessoa chegou às perguntas, não só pelo resultado.",
+   "exemplo": "'Como foi o processo de reflexão que fez você elencar essas três?'",
+   "ts": "1:00:12"
+  },
+  {
+   "movimento": "Rodada de reconsideração",
+   "descricao": "Após o debate, pergunta quem mudaria as perguntas e pede à terapeuta que diga o que mudaria no atendimento.",
+   "exemplo": "'Vocês fariam como a colega, que mescla, ou mudariam de tendência?'",
+   "ts": "1:09:04"
+  },
+  {
+   "movimento": "Revelar o design no fim",
+   "descricao": "Conta que reduziu o exercício para forçar a escolha, dando sentido retrospectivo à restrição.",
+   "exemplo": "'A estrutura original não era só três perguntas, era de cinco a nove.'",
+   "ts": "1:16:06"
+  },
+  {
+   "movimento": "Opinião marcada e objetivo explícito",
+   "descricao": "Encerra com a própria opinião identificada como tal e o objetivo pedagógico.",
+   "exemplo": "'Vou falar um pouco na minha opinião...'; 'agir com mais consciência e ampliar as possibilidades de atuação.'",
+   "ts": "1:17:10"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Antes da próxima sessão, escreva as três perguntas que você precisa responder sobre o caso.",
+   "justificativa": "Orientam a condução e revelam para onde você tende a olhar.",
+   "contexto": "Após as primeiras sessões ou quando o caso parece parado.",
+   "competencia": "Formulação de caso",
+   "ts": "0:03:14"
+  },
+  {
+   "dica": "Quando a sessão empacar, cheque se você está ignorando o outro tempo.",
+   "justificativa": "O viés de preferência pode deixar de fora o que falta investigar.",
+   "contexto": "Impasse ou dúvida sobre o caso.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:17:10"
+  },
+  {
+   "dica": "Comece pelo tempo em que se sente confortável e depois traga o outro.",
+   "justificativa": "Usa a preferência a favor sem se aprisionar nela.",
+   "contexto": "Planejamento da sessão.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:17:10"
+  },
+  {
+   "dica": "Pergunte-se qual é a função clínica de sua pergunta, não só seu tempo gramatical.",
+   "justificativa": "Uma pergunta sobre o presente pode servir para chegar à origem, e vice-versa.",
+   "contexto": "Revisão da própria condução.",
+   "competencia": "Intervenção",
+   "ts": "0:51:39"
+  },
+  {
+   "dica": "Não decida a próxima pergunta só pelo conteúdo; leia a dinâmica da sessão.",
+   "justificativa": "Forçar um tema contra a resistência pode piorar o processo e quebrar o vínculo.",
+   "contexto": "Paciente pouco disponível para o tema que você quer.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:10:42"
+  },
+  {
+   "dica": "Com paciente encaminhado e sintomático, investigue suas expectativas sobre a terapia.",
+   "justificativa": "Se a terapia é a 'última opção' para aliviar o sintoma, isso orienta as intervenções e permite avaliar o trabalho de curto prazo.",
+   "contexto": "Primeira sessão.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:40:44"
+  },
+  {
+   "dica": "Deixe o passado surgir a partir do discurso presente.",
+   "justificativa": "Perguntar pelo passado fora do que o paciente traz conduz sua associação livre.",
+   "contexto": "Escuta psicanalítica, sobretudo no início.",
+   "competencia": "Escuta clínica",
+   "ts": "0:45:24"
+  },
+  {
+   "dica": "Se for perguntar por um vínculo, faça-o quando o paciente abrir a brecha e contextualize o porquê.",
+   "justificativa": "É breve, respeita o fluxo e explica ao paciente a intenção da pergunta.",
+   "contexto": "Quando o paciente menciona mãe, pai ou outra relação importante.",
+   "competencia": "Intervenção",
+   "ts": "0:54:47"
+  },
+  {
+   "dica": "Investigue o que o comportamento 'óbvio' significa para o paciente antes de propor outro.",
+   "justificativa": "Prover pode ser obrigação vazia ou forma plena de amor; falar pode não ser a única forma de afeto; o que importa é o que funciona.",
+   "contexto": "Quando o paciente descreve algo com naturalidade e você é tentado a prescrever outra conduta.",
+   "competencia": "Aprofundamento",
+   "ts": "1:07:10"
+  },
+  {
+   "dica": "Cuidado ao nomear a experiência do paciente com palavras suas.",
+   "justificativa": "O paciente pode adotar seu vocabulário e passar a falar na sua língua.",
+   "contexto": "Ao propor uma palavra-síntese ('automático').",
+   "competencia": "Construção frasal",
+   "ts": "0:26:46"
+  },
+  {
+   "dica": "Não pergunte o que o paciente já respondeu.",
+   "justificativa": "Sinaliza desatenção; foi o único ponto que a aluna mudaria.",
+   "contexto": "Atendimentos com muita informação, especialmente escritos.",
+   "competencia": "Escuta clínica",
+   "ts": "1:11:45"
+  },
+  {
+   "dica": "Antes de concluir que há resistência, veja se o paciente está repetindo as mesmas coisas.",
+   "justificativa": "A sensação de 'tirar água de pedra' pode ser insegurança do terapeuta; a repetição é um sinal mais objetivo.",
+   "contexto": "Pacientes lacônicos ou encaminhados.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:13:03"
+  },
+  {
+   "dica": "Para despertar insight, evoque às vezes um momento em que 'não era assim'.",
+   "justificativa": "O contraste ajuda a encontrar um ponto de ruptura no padrão.",
+   "contexto": "Padrões cristalizados vividos como 'sempre foi assim'.",
+   "competencia": "Aprofundamento",
+   "ts": "1:14:14"
+  },
+  {
+   "dica": "Perceba quando o paciente lembra alguém de sua vida e nomeie isso para si.",
+   "justificativa": "A identificação pode gerar frustração ou pressa; nomeá-la ajuda a separá-la do caso.",
+   "contexto": "Sensação forte e recorrente diante de um paciente.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:36:12"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Passado e presente só se separam no papel; na clínica real as intervenções se misturam o tempo todo.",
+   "argumento": "Todo relato sobre o passado é relato presente, atravessado pelas percepções de hoje; o trauma é significado depois do ato.",
+   "contraponto": "O estereótipo 'psicanálise = passado, TCC = presente'.",
+   "implicacao": "Não se prender à dicotomia, mas saber a que tempo a intervenção serve.",
+   "quem": "Diogo",
+   "ts": "0:42:22"
+  },
+  {
+   "tese": "Todo clínico tem uma preferência temporal, que não se reduz à abordagem, e conhecê-la amplia a atuação.",
+   "argumento": "Filtrando o essencial (poucas perguntas), a tendência aparece; sabendo dela, pode-se usá-la a favor.",
+   "contraponto": "A ideia de que a abordagem determina tudo ou de que o viés deve ser eliminado.",
+   "implicacao": "Treinar a autopercepção das próprias escolhas, muitas vezes feitas 'na intuição'.",
+   "quem": "Diogo",
+   "ts": "1:17:10"
+  },
+  {
+   "tese": "A preferência se define pela função clínica da intervenção, não pelo tempo gramatical da pergunta.",
+   "argumento": "Quem pergunta sobre o presente para que o paciente chegue sozinho à origem tem, funcionalmente, preferência pela origem.",
+   "contraponto": "A participante que se via como mesclando os tempos.",
+   "implicacao": "Avaliar intervenções pelo direcionamento, não pela superfície.",
+   "quem": "Diogo",
+   "ts": "0:51:39"
+  },
+  {
+   "tese": "O passado precisa surgir naturalmente; ir ao passado como intervenção não faz sentido.",
+   "argumento": "Perguntar pelo passado fora do discurso presente conduz a associação livre; o sintoma é o que não ganhou palavra; o trabalho é arqueológico.",
+   "contraponto": "O estigma de que o psicanalista só quer saber do passado; um colega psicanalista pergunta brevemente pelos vínculos quando há brecha.",
+   "implicacao": "Escuta flutuante e perguntas sobre o discurso atual.",
+   "quem": "Uma participante psicanalista",
+   "ts": "0:45:24"
+  },
+  {
+   "tese": "A escolha da pergunta deve considerar a dinâmica da sessão, não só o conteúdo.",
+   "argumento": "Diante da resistência, insistir é 'dar murro em ponta de faca' e pode quebrar o vínculo; a sessão precisa ser confortável e produtiva para o paciente.",
+   "contraponto": "Formular perguntas guiadas só pela hipótese de conteúdo.",
+   "implicacao": "Ler o fluxo e a disponibilidade do paciente antes de escolher o tema.",
+   "quem": "Diogo",
+   "ts": "1:10:42"
+  },
+  {
+   "tese": "Os estereótipos das abordagens são parciais; nem toda TCC dispensa o passado.",
+   "argumento": "A boa TCC investiga o passado; a dispensa é uma visão dentro da TCC; clínicos de todas as abordagens podem preferir o presente primeiro.",
+   "contraponto": "Leituras caricatas das abordagens.",
+   "implicacao": "Comparar abordagens sem caricaturá-las.",
+   "quem": "Diogo",
+   "ts": "0:58:49"
+  },
+  {
+   "tese": "A fala não é a única forma de demonstrar afeto; o que importa é o que funciona, não o ideal.",
+   "argumento": "Prover pode ser forma simbólica plena de amor; tomar consciência disso pode ser mais útil do que prescrever 'falar com os filhos'.",
+   "contraponto": "A direção implícita do atendimento, que buscava a expressão verbal do afeto.",
+   "implicacao": "Investigar o nível de consciência e o sentido que o paciente dá a seus atos.",
+   "quem": "Um participante",
+   "ts": "1:07:10"
+  },
+  {
+   "tese": "Limitar a quantidade de respostas é um recurso didático para expor o viés.",
+   "argumento": "Com muitas perguntas tudo se mistura; com três, é preciso escolher a essência.",
+   "contraponto": "Exercícios abertos demais.",
+   "implicacao": "Em formação, restringir para revelar.",
+   "quem": "Diogo (endossado por uma participante)",
+   "ts": "1:16:06"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Psicanálise conversa no presente, e a boa TCC investiga o passado também.",
+   "tema": "Abordagens e tempo",
+   "ts": "0:00:05"
+  },
+  {
+   "texto": "Mesmo com essa flexibilidade, nós, enquanto clínicos, assumimos uma preferência por algum desses caminhos, e ela não está necessariamente associada a uma abordagem.",
+   "tema": "Preferência clínica",
+   "ts": "0:01:37"
+  },
+  {
+   "texto": "Não são perguntas para fazer ao paciente, mas perguntas que vocês precisam se responder para orientar a condução do caso.",
+   "tema": "Perguntas norteadoras",
+   "ts": "0:03:14"
+  },
+  {
+   "texto": "Elas só se separam no papel. No mundo real, as intervenções se misturam o tempo todo.",
+   "tema": "Tempo clínico",
+   "ts": "0:42:22"
+  },
+  {
+   "texto": "Quando eu pergunto como foi a sua infância, estou trabalhando com o relato presente do paciente.",
+   "tema": "Relato do passado",
+   "ts": "0:43:01"
+  },
+  {
+   "texto": "O passado é precioso na medida em que o próprio paciente o traz para a sessão. Perguntar por ele fugindo do discurso presente é conduzir a associação livre. (uma participante)",
+   "tema": "Associação livre",
+   "ts": "0:45:24"
+  },
+  {
+   "texto": "É um trabalho de arqueólogo: cavar, achar o fóssil, raspar com o martelinho, limpar o pozinho. (uma participante)",
+   "tema": "Psicanálise",
+   "ts": "0:45:24"
+  },
+  {
+   "texto": "Nas intervenções imediatas, você prioriza o presente. Mas com qual função clínica? Qual é o direcionamento?",
+   "tema": "Função da intervenção",
+   "ts": "0:51:39"
+  },
+  {
+   "texto": "O que importa é o que funciona, não o ideal. (um participante)",
+   "tema": "Afeto e pragmatismo",
+   "ts": "1:07:10"
+  },
+  {
+   "texto": "Na hora de fazer as perguntas, a gente não pode se deixar decidir puramente pelo conteúdo; tem que considerar a dinâmica da sessão.",
+   "tema": "Fluxo da sessão",
+   "ts": "1:10:42"
+  },
+  {
+   "texto": "Na Gestalt a gente não deixa de olhar o passado, mas olha o passado com as influências do agora. (a aluna)",
+   "tema": "Gestalt",
+   "ts": "1:11:45"
+  },
+  {
+   "texto": "Entender qual é o nosso viés não é para necessariamente mudá-lo, mas para jogar com ele a nosso favor.",
+   "tema": "Preferência clínica",
+   "ts": "1:17:10"
+  },
+  {
+   "texto": "O exercício é para visualizar como a gente funciona e, a partir disso, agir com mais consciência e ampliar nossas possibilidades de atuação.",
+   "tema": "Formação",
+   "ts": "1:18:07"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Psicanálise olha o passado, TCC olha o presente. Será?",
+   "mensagem": "Os estereótipos são parciais: todo relato do passado é presente, e a boa TCC também investiga a história.",
+   "roteiro": [
+    "O clichê.",
+    "Por que o relato do passado é sempre presente.",
+    "A boa TCC também pergunta pela história.",
+    "O que muda: a função da pergunta."
+   ],
+   "corte_inicio": "0:42:22",
+   "corte_fim": "0:44:12"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "A enchente e os dois engenheiros.",
+   "mensagem": "Um reconstrói a história do rio para achar o erro, o outro abre um canal e escoa a água: duas lógicas clínicas.",
+   "roteiro": [
+    "A cidade que sempre alaga.",
+    "Engenheiro 1: volta à origem.",
+    "Engenheiro 2: resolve o agora.",
+    "Na clínica, os dois se misturam."
+   ],
+   "corte_inicio": "0:52:16",
+   "corte_fim": "0:54:23"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Descubra seu viés clínico com três perguntas.",
+   "mensagem": "Escreva só três perguntas que você precisa responder sobre um caso e veja para que tempo elas apontam.",
+   "roteiro": [
+    "Pegue um caso.",
+    "Três perguntas, não dez.",
+    "Passado ou presente?",
+    "Use o viés a seu favor."
+   ],
+   "corte_inicio": "1:16:06",
+   "corte_fim": "1:18:43"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Perguntas para você, não para o paciente.",
+   "mensagem": "Antes de intervir, formule o que você precisa compreender do caso.",
+   "roteiro": [
+    "Diferença entre perguntar ao paciente e perguntar a si.",
+    "Exemplos de perguntas norteadoras."
+   ],
+   "corte_inicio": "0:03:14",
+   "corte_fim": "0:04:31"
+  },
+  {
+   "formato": "stories",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Não dê murro em ponta de faca.",
+   "mensagem": "A próxima pergunta depende também da dinâmica da sessão e da resistência, não só da sua hipótese.",
+   "roteiro": [
+    "Enquete: você escolhe a pergunta pelo conteúdo ou pelo clima da sessão?",
+    "Resposta: pelos dois."
+   ],
+   "corte_inicio": "1:10:42",
+   "corte_fim": "1:11:29"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "O passado é sempre contado no presente.",
+   "mensagem": "O trauma se constitui quando é significado, e isso pode acontecer anos depois.",
+   "roteiro": [
+    "Pergunta: como foi sua infância?",
+    "A resposta muda conforme o hoje.",
+    "Implicação clínica."
+   ],
+   "corte_inicio": "0:42:22",
+   "corte_fim": "0:44:12"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como treinamos a autopercepção clínica.",
+   "mensagem": "Leitura dramatizada de um atendimento simulado, três perguntas por pessoa, classificação e debate.",
+   "roteiro": [
+    "O caso simulado.",
+    "A consigna das três perguntas.",
+    "Origem ou prognóstico?",
+    "O que cada um descobriu de si."
+   ],
+   "corte_inicio": "0:03:14",
+   "corte_fim": "0:06:42"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Citado por Diogo, com hesitação, para a ideia de que o trauma se constitui quando é significado, e para a distinção real, simbólico e imaginário."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria em grupo com Diogo (exercício coletivo sobre atendimento simulado)",
+  "objetivo": "Usar o atendimento de uma aluna com paciente simulado por IA como material para um exercício de todos; neste encontro, investigar a preferência de cada clínico por passado ou presente.",
+  "publico": "Participantes da formação clínica da Allos (estagiários e alunos de várias abordagens: psicanálise, Gestalt, TCC, trabalho com sonhos).",
+  "tamanho": "Cerca de dez participantes online.",
+  "duracao": "Cerca de 1h20.",
+  "estrutura_padrao": "Tema e enquadre; consigna; leitura dramatizada do atendimento; produção individual (chat); compartilhamento; análise crítica; debate; reconsideração; revelação do design e fechamento.",
+  "papel_facilitador": "Propor e explicar o exercício, ler o paciente, organizar o chat, pedir sínteses, confrontar socraticamente, oferecer distinções e metáforas, proteger o foco no caso e explicitar a intenção pedagógica.",
+  "regras_combinados": "Participação por chat e voz; lista de presença no chat; perguntas para si e não para o paciente; aviso institucional da clínica-escola; gravação interrompida ao final."
+ },
+ "reflexoes_do_facilitador": [
+  "Revela que reduziu deliberadamente o exercício de cinco a nove para três perguntas, pelo tamanho do grupo e para forçar a escolha.",
+  "Diz estar 'experimentando' trazer para esta monitoria o recurso de IA usado no grupo de sexta.",
+  "Credita a ideia do exercício a uma participante.",
+  "Evita chamar a preferência apenas de 'viés' para não usar só termo cognitivo.",
+  "Admite não saber o que está acontecendo 'psicanaliticamente' quando o grupo passa a interpretar a aluna, e redireciona."
+ ],
+ "referencias_a_outros_encontros": [
+  "Recurso de pacientes simulados por IA muito usado no grupo de sexta-feira às 14h.",
+  "O mesmo personagem simulado é atendido por outra aluna em Monitoria 10 - João de Bragança - Dor somática, resistência e hipóteses revisáveis.",
+  "A aluna descobre que pode continuar o atendimento simulado (segunda sessão), mas o personagem não lembra da primeira.",
+  "Diogo abre dizendo que todos conhecem o 'grupo de aprimoramento' e seu funcionamento."
+ ],
+ "observacoes": "Legenda automática com ruído (a aluna aparece como 'Carla'/'Karla'; 'gramáfica' = gamificação; trecho do chat 'se o R tiver coberto de resistência trace' (0:58:18) ininteligível). A leitura do atendimento para antes do fim; a técnica de cadeira vazia é só relatada pela aluna. Caso inteiramente simulado por IA; detalhes pessoais da aluna (identificação do paciente com figuras familiares) foram mantidos genéricos. A ampliação de imagens de sonhos citada por um participante foi associada à amplificação junguiana por inferência (ele não nomeia a abordagem). A mesma aluna aparece nos títulos de mon-07 e mon-17 (não verificado)."
+}

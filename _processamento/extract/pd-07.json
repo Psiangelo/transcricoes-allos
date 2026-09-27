@@ -1,0 +1,726 @@
+{
+  "id": "pd-07",
+  "nota": "PD 07 - Caso Eta e o modo de aplicar escalas",
+  "pasta": "10 - Fichamentos/Prática Deliberada",
+  "titulo": "Caso Eta e o modo de aplicar escalas",
+  "serie": "Introdução à Prática Deliberada",
+  "formato": "Curso de PD",
+  "facilitadores": [
+    "Bernardo"
+  ],
+  "resumo": "O facilitador volta ao slide panorâmico da PD e propõe ver todo o processo num caso. Abre com duas frases-guia: transformar dados em informação e informação em insight; é um erro capital teorizar antes de ter dados, como na teoria de que o insucesso se deve à não implicação do paciente. Lê em forma de diálogo o caso fictício de Eta, terapeuta de transtornos alimentares com boa eficácia, mas abandono (28% contra 20%) e deterioração (15% contra 5–10%) acima da média, a quem a supervisão tradicional disse 'pare de se culpar'. O desenvolvedor das escalas pede os dados sem interpretação, encontra a pista (SRS inicial média de 40, 'boa demais') e pede gravações da introdução da escala. A causa é a gentileza de Eta ao apresentar a escala, que induz retribuição (o grupo lembra o 'paciente bonzinho' e o facilitador nomeia o efeito Hawthorne). Com um roteiro direto memorizado e ajustes de uma palavra, as notas ficam honestas, a retenção melhora e em cinco meses abandono e deterioração caem para 15% e 13%. O encontro fecha defendendo gravação e transcrição como mudança de cultura (com consentimento, tema levantado por um participante) e objetivos de aprendizagem móveis.",
+  "em_uma_frase": "A supervisão em prática deliberada cruza métricas e gravações até achar um comportamento concreto do terapeuta (aqui, a gentileza que inflava as notas de aliança) e o corrige com roteiros e ajustes mínimos; o problema pode estar no terapeuta, não na resistência do paciente.",
+  "competencias": [
+    "Feedback clínico",
+    "Desenvolvimento profissional",
+    "Relação terapêutica",
+    "Construção frasal",
+    "Pessoa do terapeuta"
+  ],
+  "abordagens": [],
+  "estrutura": [
+    {
+      "ts": "0:00:01",
+      "bloco": "Retomada",
+      "descricao": "Volta ao slide panorâmico; até agora só o quadrado da mensuração; PD é muito mais.",
+      "funcao": "Ritual de localização no curso.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:01:09",
+      "bloco": "Abertura",
+      "descricao": "Anuncia um caso prático para ver o processo todo ao mesmo tempo.",
+      "funcao": "Passar da teoria à prática.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:02:18",
+      "bloco": "Teoria",
+      "descricao": "Frases-guia: dados → informação → insight; erro capital teorizar antes de ter dados; exemplo da teoria da não implicação do paciente.",
+      "funcao": "Instalar a postura empírica.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:05:40",
+      "bloco": "Demonstração",
+      "descricao": "Apresenta Eta e seus dados; combina que será mais leitura do que comentário.",
+      "funcao": "Dar o material e o formato.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:09:39",
+      "bloco": "Demonstração",
+      "descricao": "Resposta tradicional (literatura e supervisor culpam a condição); Eta procura o desenvolvedor das escalas.",
+      "funcao": "Contrastar supervisão tradicional e PD.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:11:57",
+      "bloco": "Demonstração",
+      "descricao": "Supervisor pede captura de tela das métricas e nenhuma interpretação prévia.",
+      "funcao": "Modelar o 'a priori, nenhuma teoria'.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:13:46",
+      "bloco": "Demonstração",
+      "descricao": "Tabela de métricas de Eta.",
+      "funcao": "Ligar às métricas já vistas.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:14:38",
+      "bloco": "Discussão",
+      "descricao": "Sessão 1: 'começo pelo número de casos; menos de 60 não há motivo'; crítica da Allos; caverna; grupos de aprimoramento treinam abrir, encerrar, ruptura, hostilidade; repete a pedido.",
+      "funcao": "Reforçar a posição institucional.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "0:21:44",
+      "bloco": "Demonstração",
+      "descricao": "Resultados bons, abandono e deterioração altos; pista da SRS inicial 40; SRS que sobe associada a resultados quase 50% melhores.",
+      "funcao": "Mostrar a leitura métrica por métrica.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:25:48",
+      "bloco": "Demonstração",
+      "descricao": "'Receber feedback negativo é uma habilidade'; pedido de gravar e transcrever a introdução da SRS; volta ao slide (quadrado da direita).",
+      "funcao": "Passar dos números à performance.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:28:55",
+      "bloco": "Demonstração",
+      "descricao": "Sessão 2: elogios do supervisor; a gentileza de Eta ao introduzir a escala e a reciprocidade.",
+      "funcao": "Chegar ao comportamento concreto.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:30:00",
+      "bloco": "Rodada de respostas",
+      "descricao": "'O que vem para vocês?': escala não verdadeira, paciente bonzinho; o facilitador nomeia o efeito Hawthorne.",
+      "funcao": "Grupo infere antes da resposta do livro.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:32:03",
+      "bloco": "Demonstração",
+      "descricao": "Roteiro alternativo modelado pelo supervisor; Eta vai escrever e memorizar o seu.",
+      "funcao": "Mostrar a alternativa concreta.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:34:08",
+      "bloco": "Demonstração",
+      "descricao": "Sessão 3: nenhum 40, dois abaixo de 36, todos retornam; 'os dados são sempre amigáveis'; segundo ajuste: responder aos murmúrios durante o preenchimento.",
+      "funcao": "Mostrar o efeito do ajuste mínimo e a iteração.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:38:32",
+      "bloco": "Teoria",
+      "descricao": "Escala de feedback não é teste psicológico; mensuração não é burocracia; os dois participam.",
+      "funcao": "Generalizar o princípio.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:39:36",
+      "bloco": "Demonstração",
+      "descricao": "Supervisão mensal com ajustes de uma palavra; em cinco meses 15% e 13%; retorno seis meses depois.",
+      "funcao": "Mostrar o ciclo e deixar gancho.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:41:50",
+      "bloco": "Discussão",
+      "descricao": "Síntese: dados + performance na supervisão; o objetivo poderia ser outro (encerramento); relato de caso não é confiável.",
+      "funcao": "Extrair o método.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:44:36",
+      "bloco": "Discussão",
+      "descricao": "Dificuldade de achar quem grave; gravação como mudança de cultura em qualquer abordagem.",
+      "funcao": "Posicionamento sobre gravação.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:46:08",
+      "bloco": "Discussão",
+      "descricao": "Recém-chegado relata gravação sem consentimento na clínica-escola; facilitador aponta termo de consentimento e limites institucionais.",
+      "funcao": "Tratar ética sem expor.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:50:50",
+      "bloco": "Dúvidas",
+      "descricao": "E se o objetivo mudar? Muda a rota.",
+      "funcao": "Fixar o caráter cíclico.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:52:09",
+      "bloco": "Fechamento",
+      "descricao": "Despedida e gancho para a continuação do caso.",
+      "funcao": "Criar expectativa.",
+      "duracao_min": 1
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Dados, informação e insight",
+      "definicao": "Sequência de trabalho da PD: os números só servem quando lapidados em informação sobre a performance clínica, e a informação só serve quando vira insight e direção para agir.",
+      "exemplo": "Saber o tamanho de efeito não diz o que fazer; é preciso ligá-lo ao que o terapeuta faz em sessão.",
+      "abordagem": "",
+      "ts": "0:02:18"
+    },
+    {
+      "nome": "Responsabilização do terapeuta",
+      "definicao": "Trocar a explicação do insucesso pela resistência ou não implicação do paciente pela pergunta sobre a própria participação, guiada pelos dados. A teoria da não implicação pode terceirizar a responsabilidade.",
+      "exemplo": "Eta ouviu 'pare de se culpar'; os dados mostraram que o modo como ela aplicava a escala contribuía.",
+      "abordagem": "",
+      "ts": "0:04:27"
+    },
+    {
+      "nome": "Session Rating Scale",
+      "definicao": "Escala de qualidade da aliança aplicada na sessão. Escores que melhoram ao longo do tempo associam-se a resultados quase 50% melhores; por isso uma média inicial no teto é suspeita. O corte clínico citado é 36.",
+      "exemplo": "Eta tinha média inicial de 40 em atuais e concluídos: 'boa, talvez boa demais'.",
+      "abordagem": "",
+      "ts": "0:22:48"
+    },
+    {
+      "nome": "Paciente bonzinho",
+      "definicao": "Paciente que relata melhora ou avalia bem a sessão para agradar o terapeuta, sobretudo quando se preocupa muito com a opinião alheia.",
+      "exemplo": "Participante lembra que pessoas ansiosas, preocupadas com a opinião alheia, tendem a dizer que melhoraram.",
+      "abordagem": "",
+      "ts": "0:30:22"
+    },
+    {
+      "nome": "Efeito Hawthorne",
+      "definicao": "Tendência de alguém mudar o próprio comportamento na presença de outra pessoa; usado no curso para explicar notas de feedback infladas.",
+      "exemplo": "A gentileza de Eta ao introduzir a escala 'preparava o terreno' para notas altas.",
+      "abordagem": "",
+      "ts": "0:30:22"
+    },
+    {
+      "nome": "Administração colaborativa de escalas",
+      "definicao": "Ao contrário do teste psicológico, em que se minimiza a influência do aplicador, na escala de feedback o terapeuta participa e ajuda o paciente a expressar o que pensou da sessão, especialmente o negativo. Tratá-la como burocracia esvazia a medida.",
+      "exemplo": "Responder ao murmúrio da cliente durante o preenchimento perguntando o que ela estava pensando.",
+      "abordagem": "",
+      "ts": "0:38:32"
+    },
+    {
+      "nome": "Feedback negativo do paciente",
+      "definicao": "Crítica do paciente sobre a sessão ou o terapeuta; recebê-la é uma habilidade não ensinada na graduação e que vale adquirir.",
+      "exemplo": "Eta passa a obter notas abaixo do corte e as trata como dado útil.",
+      "abordagem": "",
+      "ts": "0:25:48"
+    },
+    {
+      "nome": "Supervisão clínica",
+      "definicao": "Na PD, o supervisor lê métrica por métrica até algo chamar atenção, pede gravação do trecho relevante, identifica o comportamento, modela uma alternativa, combina um roteiro e revisa periodicamente.",
+      "exemplo": "Encontros mensais revisando transcrições e testando mudanças de uma palavra.",
+      "abordagem": "",
+      "ts": "0:25:48"
+    },
+    {
+      "nome": "Gravação de sessão",
+      "definicao": "Acesso direto ao que o terapeuta fez, sem o filtro do relato. Permite orientações mais assertivas mesmo sem mensuração; o facilitador a defende como mudança de cultura em qualquer abordagem.",
+      "exemplo": "Gravar e transcrever só a introdução da SRS com clientes novos.",
+      "abordagem": "",
+      "ts": "0:27:06"
+    },
+    {
+      "nome": "Consentimento para gravação de sessão",
+      "definicao": "Termo em que o paciente autoriza a gravação sabendo onde ela vai parar e com quem; condição inegociável mesmo com boa intenção. Na graduação depende também de autorização institucional.",
+      "exemplo": "Participante que gravou escondido para estudar: intenção louvável, mas 'um salto que não deveria ter dado'.",
+      "abordagem": "",
+      "ts": "0:47:36"
+    },
+    {
+      "nome": "Objetivo de aprendizagem",
+      "definicao": "Alvo único e revisável, definido na supervisão a partir de dados e performance; muda de rota quando os dados indicam outra causa.",
+      "exemplo": "O modo de aplicar a escala; poderia ser o encerramento das sessões.",
+      "abordagem": "",
+      "ts": "0:50:50"
+    },
+    {
+      "nome": "Taxa de desistência",
+      "definicao": "Proporção de clientes que encerram sem aviso antes de obter melhora mensurável.",
+      "exemplo": "Eta: 28% contra média internacional de 20%; cai para 15% após cinco meses.",
+      "abordagem": "",
+      "ts": "0:07:58"
+    },
+    {
+      "nome": "Taxa de deterioração",
+      "definicao": "Proporção de clientes que pioram durante o tratamento.",
+      "exemplo": "Eta: 15% contra parâmetro de 5 a 10%; 13% ao fim do trabalho de supervisão.",
+      "abordagem": "",
+      "ts": "0:07:58"
+    },
+    {
+      "nome": "Metáfora da tocha na caverna",
+      "definicao": "Retomada para sustentar que os fundamentos clínicos (o caminhar) se treinam sem dados estatísticos (a tocha).",
+      "exemplo": "Nos grupos de aprimoramento treinam-se abrir, encerrar, ruptura e hostilidade sem casos mensurados.",
+      "abordagem": "",
+      "ts": "0:16:00"
+    },
+    {
+      "nome": "Terceirização da responsabilidade",
+      "definicao": "Pôr o insucesso da terapia nas costas do paciente (não implicação, resistência, gravidade do quadro), como fez a supervisão tradicional de Eta; os dados podem mostrar a parte do terapeuta.",
+      "exemplo": "'Pare de se culpar, não é sua culpa: pessoas com transtornos alimentares são resistentes à mudança.'",
+      "abordagem": "",
+      "ts": "0:09:39"
+    },
+    {
+      "nome": "Primazia do fenômeno clínico",
+      "definicao": "Primeiro os fatos, depois a teoria: é um erro capital teorizar antes de ter dados, porque se passa a distorcer os fatos para caberem na teoria.",
+      "exemplo": "O supervisor pede os dados sem nenhuma interpretação prévia da terapeuta.",
+      "abordagem": "",
+      "ts": "0:03:26"
+    },
+    {
+      "nome": "Dados amigáveis",
+      "definicao": "Todo dado honesto, mesmo desprazeroso, é útil porque mostra o que mudar.",
+      "exemplo": "As notas mais baixas de Eta depois da mudança de roteiro foram boa notícia.",
+      "abordagem": "",
+      "ts": "0:35:17"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Leitura comentada de caso de supervisão",
+      "objetivo": "Mostrar a prática deliberada na prática: como dados e gravação se juntam na supervisão e viram um objetivo de aprendizagem concreto.",
+      "competencias": [
+        "Feedback clínico",
+        "Desenvolvimento profissional"
+      ],
+      "configuracao": "Grupo todo, online, facilitador lendo slides em forma de diálogo; comentários por microfone e chat; cerca de 5 a 6 pessoas.",
+      "tempo": "Cerca de 35 minutos de caso, mais discussão.",
+      "materiais": "Slides com frases-guia, tabela de métricas, sessões de supervisão em diálogo, roteiro de introdução da escala; slide panorâmico da PD.",
+      "consigna": "'Hoje vai ser muito mais leitura do que comentário, por ser um caso.' Nas pausas: 'Quando eu leio isso, o que vem para vocês?'",
+      "passos": [
+        "Abrir com frases-guia (dados antes de teoria).",
+        "Apresentar a terapeuta e a tabela de métricas.",
+        "Ler as sessões de supervisão em forma de diálogo.",
+        "Pausar em pontos-chave e perguntar ao grupo antes de revelar a conclusão.",
+        "Voltar ao slide panorâmico para localizar a etapa do ciclo.",
+        "Sintetizar o método e deixar o caso em aberto para o encontro seguinte."
+      ],
+      "feedback": "Valida ('ok, perfeito'), pede mais ('mas que mais?'), puxa conceito de encontro anterior e dá o nome técnico (efeito Hawthorne).",
+      "exemplos_praticos": "A primeira resposta é que a escala 'não estava sendo verdadeira'; vem então a lembrança do 'paciente bonzinho', e uma participante explica que quem se preocupa com a opinião alheia tende a dizer que melhorou para agradar.",
+      "variacoes": "Pedir hipóteses do grupo antes de mostrar a leitura do supervisor; sugestão (não feita): cada participante reescreve e lê em voz alta seu roteiro de introdução da escala.",
+      "armadilhas": "Virar monólogo de leitura; participantes passivos se não houver pausas com pergunta.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:05:40"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Ritual de abertura com o mapa",
+      "descricao": "Anuncia que sempre começará pelo slide panorâmico para localizar o grupo.",
+      "exemplo": "'Eu sempre vou iniciar as aulas agora retornando a esse slide.'",
+      "ts": "0:00:01"
+    },
+    {
+      "movimento": "Combinar o formato do dia",
+      "descricao": "Avisa que será mais leitura do que comentário, ajustando a expectativa de participação.",
+      "exemplo": "'Hoje vai ser muito mais nessa vibe de leitura, justamente por ser um caso clínico.'",
+      "ts": "0:06:54"
+    },
+    {
+      "movimento": "Caso em forma de diálogo",
+      "descricao": "Transforma o texto do livro em falas de supervisor e terapeuta e interrompe para comentar.",
+      "exemplo": "'Coloquei em formato de diálogo mesmo para facilitar.'",
+      "ts": "0:14:42"
+    },
+    {
+      "movimento": "Voltar ao modelo no meio da narrativa",
+      "descricao": "Mostra no slide panorâmico que o pedido de gravação leva o caso ao quadrado da direita.",
+      "exemplo": "'A gente já está entrando aqui, nesse retângulo da direita.'",
+      "ts": "0:27:43"
+    },
+    {
+      "movimento": "Perguntar antes de revelar",
+      "descricao": "Pede inferências do grupo, insiste ('mas que mais?') puxando conceito anterior e só então nomeia o termo técnico.",
+      "exemplo": "'Quando eu leio isso, o que vem para vocês?'",
+      "ts": "0:30:00"
+    },
+    {
+      "movimento": "Reexplicar com outras palavras",
+      "descricao": "Atende ao pedido de repetição reformulando a crítica dos 60 casos e checa com quem pediu.",
+      "exemplo": "'Posso repetir? Então vamos lá...' / 'Deu para entender agora?'",
+      "ts": "0:18:40"
+    },
+    {
+      "movimento": "Checar o canal",
+      "descricao": "Pede sinal de áudio quando não vê o grupo.",
+      "exemplo": "'Me dê um sinal de áudio, que eu não estou conseguindo ver vocês.'",
+      "ts": "0:28:45"
+    },
+    {
+      "movimento": "Corrigir sem humilhar",
+      "descricao": "Diante de relato de gravação sem consentimento, valida a intenção, nomeia o erro, explica o porquê e reconhece limites institucionais.",
+      "exemplo": "'Eu entendi, mas você deu um salto que não deveria ter dado.'",
+      "ts": "0:47:36"
+    },
+    {
+      "movimento": "Acolher recém-chegado",
+      "descricao": "Recebe com simpatia quem entra atrasado pela primeira vez e o convida a participar das atividades.",
+      "exemplo": "'Que ótimo. Ficamos felizes.'",
+      "ts": "0:46:08"
+    },
+    {
+      "movimento": "Responder com exemplo",
+      "descricao": "À pergunta sobre objetivos que mudam, dá o exemplo do encerramento de sessão.",
+      "exemplo": "'Aí a gente muda a rota.'",
+      "ts": "0:50:50"
+    },
+    {
+      "movimento": "Controle de duração",
+      "descricao": "Mira 50 minutos para não cansar o grupo.",
+      "exemplo": "'Eu queria fazer em 50 minutos, porque fica muito cansativo se passa disso.'",
+      "ts": "0:45:51"
+    },
+    {
+      "movimento": "Gancho de continuação",
+      "descricao": "Encerra com o caso em aberto para gerar expectativa.",
+      "exemplo": "'Só para vocês sentirem o gostinho da prática deliberada na prática.'",
+      "ts": "0:52:09"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Ao introduzir a escala de aliança, não elogie nem diga o quanto gostou do encontro.",
+      "justificativa": "As pessoas tendem a retribuir gentilezas, e a nota infla.",
+      "contexto": "Todo pedido de avaliação da sessão.",
+      "competencia": "Feedback clínico",
+      "ts": "0:28:55"
+    },
+    {
+      "dica": "Peça feedback de forma direta: diga que não busca notas altas e que quer saber até de coisas pequenas.",
+      "justificativa": "Legitimar a crítica aumenta a chance de resposta honesta.",
+      "contexto": "Apresentação da SRS ou de qualquer pedido de feedback.",
+      "competencia": "Feedback clínico",
+      "ts": "0:32:03"
+    },
+    {
+      "dica": "Escreva e memorize um roteiro, com suas próprias palavras, para apresentar a escala.",
+      "justificativa": "Garante consistência e permite testar e ajustar a introdução.",
+      "contexto": "Ao adotar ou corrigir o uso de uma medida.",
+      "competencia": "Construção frasal",
+      "ts": "0:34:08"
+    },
+    {
+      "dica": "Desconfie de aliança com nota máxima logo na primeira sessão.",
+      "justificativa": "Sem espaço para subir, perde-se o sinal associado a melhores resultados (SRS que melhora com o tempo).",
+      "contexto": "Leitura da SRS inicial.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:22:48"
+    },
+    {
+      "dica": "Responda a qualquer reação do paciente durante o preenchimento da escala.",
+      "justificativa": "Murmúrios e comentários são feedback bruto; perguntar o que ele está pensando ajuda a expressá-lo.",
+      "contexto": "Durante o preenchimento.",
+      "competencia": "Feedback clínico",
+      "ts": "0:37:23"
+    },
+    {
+      "dica": "Participe do momento da escala, em vez de minimizar sua influência como num teste.",
+      "justificativa": "O objetivo é ajudar o paciente a dizer o que pensou da sessão, sobretudo o negativo; a burocracia esvazia a medida.",
+      "contexto": "Toda aplicação de medida de feedback.",
+      "competencia": "Feedback clínico",
+      "ts": "0:38:32"
+    },
+    {
+      "dica": "Antes de atribuir o insucesso à resistência do paciente, examine sua parte.",
+      "justificativa": "A teoria da não implicação pode terceirizar a responsabilidade; os dados podem apontar para o terapeuta.",
+      "contexto": "Abandono ou piora acima do esperado.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:04:27"
+    },
+    {
+      "dica": "Leve os dados à supervisão sem interpretação prévia.",
+      "justificativa": "A interpretação antecipada distorce a leitura; primeiro olhar os fatos.",
+      "contexto": "Pedido de supervisão sobre resultados.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:11:57"
+    },
+    {
+      "dica": "Grave e transcreva o trecho específico em questão.",
+      "justificativa": "O supervisor precisa ver o comportamento exato para achar o ajuste.",
+      "contexto": "Quando há hipótese sobre um momento da sessão.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:27:06"
+    },
+    {
+      "dica": "Faça ajustes mínimos, palavra a palavra, e observe o efeito.",
+      "justificativa": "Mudanças pequenas produzem diferenças grandes, como no caso Eta.",
+      "contexto": "Cada ciclo de supervisão.",
+      "competencia": "Construção frasal",
+      "ts": "0:40:42"
+    },
+    {
+      "dica": "Receba a nota mais baixa como boa notícia.",
+      "justificativa": "Os dados são sempre amigáveis, mesmo que desprazerosos; a nota honesta permite agir.",
+      "contexto": "Após mudar a forma de pedir feedback.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:35:17"
+    },
+    {
+      "dica": "Espere a mudança se repetir antes de concluir.",
+      "justificativa": "Poucos casos não bastam; o supervisor pede para ver se o padrão continua.",
+      "contexto": "Depois de um primeiro resultado positivo.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:36:17"
+    },
+    {
+      "dica": "Nunca grave sem termo de consentimento; na clínica-escola, siga as regras institucionais.",
+      "justificativa": "O paciente precisa saber onde a gravação vai parar e com quem; o sigilo tem de ser protegido.",
+      "contexto": "Antes de qualquer gravação.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:47:36"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Teorizar antes de ter dados distorce os fatos; a PD existe para combater isso.",
+      "argumento": "Sem dados, ajustamos os fatos às teorias; com dados, as teorias aos fatos.",
+      "contraponto": "Clínica guiada por convicções teóricas prévias.",
+      "implicacao": "Medir, gravar e olhar os fatos antes de interpretar.",
+      "quem": "Bernardo",
+      "ts": "0:03:26"
+    },
+    {
+      "tese": "A explicação do insucesso pela resistência ou não implicação do paciente muitas vezes terceiriza a responsabilidade do terapeuta.",
+      "argumento": "No caso Eta, literatura e supervisor tradicional culparam a condição; dados e gravação mostraram um comportamento da terapeuta.",
+      "contraponto": "A supervisão que diz 'pare de se culpar, não é sua culpa'.",
+      "implicacao": "Diante de maus resultados, investigar primeiro a própria performance.",
+      "quem": "Bernardo (a partir do livro)",
+      "ts": "0:09:39"
+    },
+    {
+      "tese": "Não é preciso ter 60 casos mensurados para treinar fundamentos clínicos.",
+      "argumento": "A tocha ilumina mas não ensina a caminhar; os grupos de aprimoramento treinam abrir, encerrar, ruptura e hostilidade sem dados estatísticos.",
+      "contraponto": "Autores de Better Results: abaixo de 60 casos os dados enganam.",
+      "implicacao": "Começar já o treino de habilidades, em grupo.",
+      "quem": "Bernardo (posição da Allos)",
+      "ts": "0:19:04"
+    },
+    {
+      "tese": "Aliança alta demais no início não é boa notícia.",
+      "argumento": "Sem espaço para subir, perde-se o sinal que mais se associa a bons resultados; a nota alta pode refletir a forma de aplicar.",
+      "contraponto": "A intuição de que nota máxima é mérito.",
+      "implicacao": "Buscar escores honestos, ainda que mais baixos.",
+      "quem": "Supervisor do caso, endossado pelo Bernardo",
+      "ts": "0:22:48"
+    },
+    {
+      "tese": "Receber feedback negativo é uma habilidade que a graduação não ensina.",
+      "argumento": "Eta só avança quando aceita que o problema pode estar nela.",
+      "contraponto": "Formação que não treina essa competência.",
+      "implicacao": "Incluir o treino de pedir e receber crítica na formação.",
+      "quem": "Supervisor do caso, endossado pelo Bernardo",
+      "ts": "0:25:48"
+    },
+    {
+      "tese": "Administrar escala de feedback é o contrário de aplicar teste psicológico.",
+      "argumento": "No teste se minimiza a influência; aqui se ajuda o paciente a expressar o que pensou, especialmente o ruim.",
+      "contraponto": "Mensuração tratada como burocracia.",
+      "implicacao": "Estar presente e responsivo durante o preenchimento.",
+      "quem": "Supervisor do caso e Bernardo",
+      "ts": "0:38:32"
+    },
+    {
+      "tese": "O relato de caso não basta; gravar e transcrever deveria virar cultura em qualquer abordagem.",
+      "argumento": "O relato vem filtrado por percepções e vieses; com gravação o supervisor orienta com muito mais precisão, mesmo sem mensuração.",
+      "contraponto": "Supervisão tradicional por relato; raridade da gravação na prática brasileira.",
+      "implicacao": "Gravar com consentimento e levar trechos à supervisão.",
+      "quem": "Bernardo",
+      "ts": "0:43:10"
+    },
+    {
+      "tese": "Boa intenção não dispensa consentimento na gravação.",
+      "argumento": "O paciente precisa saber onde a gravação vai parar; ela pode vazar; há regras institucionais na graduação.",
+      "contraponto": "Gravação escondida 'por desespero', para estudar.",
+      "implicacao": "Termo de consentimento sempre; autorização institucional na clínica-escola.",
+      "quem": "Bernardo",
+      "ts": "0:47:36"
+    },
+    {
+      "tese": "O objetivo de aprendizagem é móvel e segue os dados.",
+      "argumento": "Se a hipótese muda (ex.: encerramento de sessão), muda o que se treina.",
+      "contraponto": "Planos de formação fixos.",
+      "implicacao": "Revisar objetivos a cada ciclo de supervisão.",
+      "quem": "Bernardo",
+      "ts": "0:50:50"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "O objetivo é transformar dados em informação e informação em insight.",
+      "tema": "método da PD",
+      "ts": "0:02:18"
+    },
+    {
+      "texto": "É um erro capital teorizar antes de ter dados: começa-se a distorcer os fatos para caberem nas teorias, em vez de ajustar as teorias aos fatos.",
+      "tema": "postura empírica",
+      "ts": "0:03:26"
+    },
+    {
+      "texto": "A priori, a gente não tem que ter nenhuma concepção sólida sobre o que causa sucesso ou insucesso na terapia.",
+      "tema": "postura empírica",
+      "ts": "0:05:40"
+    },
+    {
+      "texto": "A tocha ilumina o caminho, mas não ensina a caminhar.",
+      "tema": "metáfora da caverna",
+      "ts": "0:19:04"
+    },
+    {
+      "texto": "Pontuações altas podem ter menos a ver com seus clientes do que com você.",
+      "tema": "responsabilização do terapeuta",
+      "ts": "0:25:48"
+    },
+    {
+      "texto": "Receber feedback negativo é uma habilidade que não é ensinada na graduação, mas que vale muito a pena adquirir.",
+      "tema": "feedback negativo",
+      "ts": "0:25:48"
+    },
+    {
+      "texto": "A vida não é perfeita, e eu também não sou. Não estou buscando notas altas.",
+      "tema": "roteiro de introdução da escala",
+      "ts": "0:32:03"
+    },
+    {
+      "texto": "É realmente incrível a diferença que uma mudança tão pequena pode fazer.",
+      "tema": "ajustes mínimos",
+      "ts": "0:34:08"
+    },
+    {
+      "texto": "Os dados são sempre amigáveis, mesmo que sejam desprazerosos.",
+      "tema": "mensuração",
+      "ts": "0:35:17"
+    },
+    {
+      "texto": "Ao contrário dos testes psicológicos, aqui você quer ajudar o cliente a expressar o que pensa da sessão, especialmente o que foi ruim.",
+      "tema": "administração de escalas",
+      "ts": "0:38:32"
+    },
+    {
+      "texto": "O relato de caso que a gente leva à supervisão já está filtrado com todas as nossas percepções e vieses.",
+      "tema": "supervisão",
+      "ts": "0:43:10"
+    },
+    {
+      "texto": "Se o objetivo muda, a gente muda a rota.",
+      "tema": "objetivo de aprendizagem",
+      "ts": "0:50:50"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Como pedir avaliação da sessão sem inflar a nota.",
+      "mensagem": "Evite elogios antes da escala, diga que não busca nota alta, convide críticas pequenas e grandes e responda aos comentários durante o preenchimento.",
+      "roteiro": [
+        "Capa: 'Seu paciente sempre te dá nota máxima?'",
+        "O erro gentil: 'adorei te conhecer' antes da escala.",
+        "As pessoas retribuem gentilezas.",
+        "Diga: 'não estou buscando notas altas'.",
+        "Convide o pequeno: 'seja pequeno ou grande, me interessa'.",
+        "Durante o preenchimento, responda ao que ele comenta."
+      ],
+      "corte_inicio": "0:32:03",
+      "corte_fim": "0:34:08"
+    },
+    {
+      "formato": "reels",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Nota máxima na primeira sessão pode ser um mau sinal.",
+      "mensagem": "Aliança que sobe ao longo do tempo se associa a resultados melhores; começar no teto tira esse sinal e pode refletir a forma de aplicar a escala.",
+      "roteiro": [
+        "Pergunta: aliança nota 10 logo de cara é bom?",
+        "Dado: escores que sobem se associam a resultados melhores.",
+        "No teto não há para onde subir.",
+        "Talvez o problema seja como você pede a nota."
+      ],
+      "corte_inicio": "0:22:48",
+      "corte_fim": "0:25:09"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "'O paciente resiste' ou 'eu tenho algo a ver com isso'?",
+      "mensagem": "É um erro teorizar antes de ter dados; a explicação pela resistência pode terceirizar a responsabilidade do terapeuta.",
+      "roteiro": [
+        "Frase: 'É um erro capital teorizar antes de ter dados.'",
+        "Legenda: a teoria da não implicação e o que os dados podem mostrar."
+      ],
+      "corte_inicio": "0:03:26",
+      "corte_fim": "0:05:40"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Por que o relato de caso não basta na supervisão.",
+      "mensagem": "O relato vem filtrado; gravação e transcrição mostram o que você fez; é uma mudança de cultura que vale em qualquer abordagem.",
+      "roteiro": [
+        "Capa: 'Seu supervisor conhece o seu relato, não a sua sessão.'",
+        "O filtro das percepções e vieses.",
+        "O que a gravação permite ver.",
+        "Com consentimento, sempre.",
+        "Uma mudança de cultura, em qualquer abordagem."
+      ],
+      "corte_inicio": "0:41:50",
+      "corte_fim": "0:45:51"
+    },
+    {
+      "formato": "stories",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Vai gravar uma sessão para estudar? Três cuidados.",
+      "mensagem": "Termo de consentimento, clareza sobre o destino da gravação e regras da instituição (clínica-escola).",
+      "roteiro": [
+        "1. Termo de consentimento.",
+        "2. O paciente sabe onde a gravação vai parar e com quem.",
+        "3. Na graduação, autorização da instituição."
+      ],
+      "corte_inicio": "0:47:36",
+      "corte_fim": "0:49:42"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Scott D. Miller",
+      "contexto": "Autor (com colegas) de Better Results, de onde vem o caso Eta e a exigência de 60 casos criticada pela Allos; o 'desenvolvedor dos instrumentos' do caso não é nomeado na aula."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Curso Introdução à Prática Deliberada (Allos) — encontro de leitura comentada de caso",
+    "objetivo": "Mostrar a prática deliberada funcionando numa supervisão: como métricas e gravação/transcrição se cruzam para gerar um objetivo de aprendizagem concreto, a partir de um caso fictício do livro Better Results.",
+    "publico": "Estudantes de psicologia (inclusive em clínica-escola) e psicólogos iniciantes ligados à Allos; recém-chegados entram no meio do curso.",
+    "tamanho": "Pequeno: cerca de 5 a 6 participantes online.",
+    "duracao": "Cerca de 50 minutos (o facilitador mira 50 minutos para não cansar); encontros semanais.",
+    "estrutura_padrao": "Retomada com o slide panorâmico → frases-guia → leitura do caso em forma de diálogo com pausas para perguntas ao grupo e retorno ao slide → síntese do método → dúvidas → gancho para a continuação.",
+    "papel_facilitador": "Leitor e comentador do caso; faz perguntas antes de revelar a conclusão; nomeia conceitos técnicos; reafirma a posição crítica da Allos; trata questões éticas levantadas pelos participantes.",
+    "regras_combinados": "Encontro anunciado como 'mais leitura do que comentário'; gravado; câmera e microfone livres; participantes podem perguntar pelo chat."
+  },
+  "reflexoes_do_facilitador": [
+    "Explica que o encontro será mais de leitura do que de comentário por se tratar de um caso.",
+    "Diz que queria fazer o encontro em 50 minutos porque passar disso fica cansativo.",
+    "Admite que nunca viu alguém próximo gravar sessões para supervisão, embora defenda a prática.",
+    "Anuncia que passará a abrir todas as aulas pelo slide panorâmico porque ele dá uma noção mais concreta da PD."
+  ],
+  "referencias_a_outros_encontros": [
+    "Retoma as métricas dos encontros anteriores (tamanho de efeito, efeito relativo, deterioração, desistência).",
+    "Retoma a aula de 'duas semanas atrás' sobre como a forma de aplicar uma escala influencia os resultados e sobre o 'paciente bonzinho' (PD 05).",
+    "Retoma a crítica da Allos à exigência de 40 a 60 casos (PD 06) e a metáfora da caverna.",
+    "Menciona os grupos de aprimoramento clínico da Allos como lugar de treino de fundamentos (abrir, encerrar, ruptura, hostilidade).",
+    "Anuncia a continuação do caso Eta, que ocorre no PD 08.",
+    "PD 05 trata dos mesmos temas retomados aqui (aplicação de escalas, paciente bonzinho, efeito Hawthorne, dados amigáveis)."
+  ],
+  "observacoes": "Facilitador: Bernardo (Núcleo de Prática Deliberada da Allos); ele diz o próprio nome ao recém-chegado em 0:48:36 e explica que aparece como 'Allos' na chamada porque usa a conta da instituição. Legenda automática com ruído; o nome da terapeuta aparece como 'ETA' (grafia incerta); o caso é fictício/ilustrativo, tirado do livro Better Results (o facilitador o chama de 'caso fictício' no PD 08). Em 0:07:58 o facilitador chama os 28% de 'taxa de deterioração', mas o número se refere ao abandono. A frase 'é um erro capital teorizar antes de ter dados' é de Sherlock Holmes (Conan Doyle), não atribuída na aula; 'os dados são sempre amigáveis' ecoa Carl Rogers, também sem atribuição. 'Efeito rotorn' corrigido para efeito Hawthorne. Um participante recém-chegado relata ter gravado uma sessão sem consentimento na clínica-escola: registrado de forma anonimizada, sem detalhes do paciente. Participantes citados por nome foram anonimizados."
+}

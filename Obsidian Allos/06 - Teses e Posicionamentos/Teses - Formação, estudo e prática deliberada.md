@@ -1,0 +1,674 @@
+---
+tipo: "tese"
+tema: "Formação, estudo e prática deliberada"
+n_teses: 134
+tags: ["tese"]
+---
+
+# Teses — Formação, estudo e prática deliberada
+
+> [!abstract] 134 pontos de vista defendidos nos grupos e vídeos, cada um com o argumento, o contraponto e a implicação prática.
+> Ótimo ponto de partida para posts de opinião, debates em grupo e roteiros de vídeo.
+
+## Alan
+- **O objetivo não é o conforto do paciente, e sim o máximo desconforto que não rompa; o mesmo vale para grupos de formação.**
+  - *Argumento:* Antifragilidade e zona ótima de desenvolvimento: abaixo do limite é chato, acima é insuportável. No grupo, é bom se acostumar a falar da própria vida e a receber feedback crítico.
+  - *Contra quem / contraponto:* Uma participante que não tolera silêncio e prefere perguntas.
+  - *Implicação prática:* Calibrar a tensão em vez de evitá-la; justifica usar casos pessoais e dar feedback direto.
+  - [[Alan 01 - Relação terapêutica tensionada]] [▶ 1:40:25](https://www.youtube.com/watch?v=EesAwF0Ee9E&t=6025s)
+- **Uma intervenção pode falhar em cinco lugares distintos, e o treino deve isolá-los.**
+  - *Argumento:* Leitura, priorização, escolha da ferramenta, execução e manejo das consequências são habilidades diferentes; misturadas, a discussão escorrega para o nível mais fácil.
+  - *Contra quem / contraponto:* O próprio Alan diz que a divisão é improvisada e não canônica.
+  - *Implicação prática:* Fixar nos exercícios os níveis que não estão em treino.
+  - [[Alan 02 - Construção frasal]] [▶ 0:03:09](https://www.youtube.com/watch?v=npsx_ip98fw&t=189s)
+- **Forma/conteúdo é o eixo mais subutilizado na clínica real e deveria ser muito usado.**
+  - *Argumento:* Em cerca de dez anos de roleplays, as pessoas modulam muito a intensidade e quase nunca a forma/conteúdo, que é a saída mais simples quando se está perdido.
+  - *Implicação prática:* Treino deliberado da passagem específico ↔ geral.
+  - [[Alan 03 - Distância, intensidade, forma e conteúdo]] [▶ 1:28:21](https://www.youtube.com/watch?v=IZspYGtcvaE&t=5301s)
+- **As pessoas tendem a atribuir causas próximas e únicas, raramente formulações estruturais sobre si.**
+  - *Argumento:* Exemplos cotidianos: culpar o parceiro, 'o cara da festa é babaca', 'fui mal porque não estudei'.
+  - *Implicação prática:* O terapeuta constrói a forma a partir de vários conteúdos, sem esperar que o paciente a traga pronta.
+  - [[Alan 03 - Distância, intensidade, forma e conteúdo]] [▶ 1:09:27](https://www.youtube.com/watch?v=IZspYGtcvaE&t=4167s)
+- **O 'como perguntar' é central e quase não é teorizado.**
+  - *Argumento:* Autores e faculdade focam no 'o quê' (dado fundamental, raciocínio); a estrutura do processo dialético fica implícita e deriva da filosofia.
+  - *Contra quem / contraponto:* Manuais que só ensinam o conteúdo a buscar.
+  - *Implicação prática:* Treinar explicitamente os esquemas de aprofundamento.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 0:01:10](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=70s)
+- **O que torna a técnica fluida é excesso de estrutura, não falta.**
+  - *Argumento:* Só quando se domina a técnica é que se deixa de ser robótico ao usá-la.
+  - *Contra quem / contraponto:* O receio de que estruturar deixe a clínica mecânica.
+  - *Implicação prática:* Treinar de forma caricata e unilateral, 'forçando a barra'.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:19:25](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=4765s)
+- **Ouvir a aula não ensina; esquema de aprofundamento se aprende com treino.**
+  - *Argumento:* É uma habilidade, não uma informação.
+  - *Implicação prática:* Treino deliberado, inclusive na vida pessoal.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:18:21](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=4701s)
+- **No treino, isole variáveis; na clínica, busque resultado.**
+  - *Argumento:* O que acontece no atendimento depende da resposta do paciente; para aprender é preciso saber o que teve a ver com você.
+  - *Contra quem / contraponto:* Avaliar a própria técnica só pelo 'deu certo'.
+  - *Implicação prática:* Analisar a intenção e a forma das intervenções.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 0:51:27](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=3087s)
+- **Treinar escuta melhora a vida, não só a clínica.**
+  - *Argumento:* Aprofundar melhor torna a pessoa mais interessante, melhor professor, ouvinte e parceiro; o raio é o modelo de conversa que as pessoas mais acham agradável.
+  - *Implicação prática:* Usar a vida cotidiana como campo de treino.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:19:25](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=4765s)
+- **Ser menos robótico é excesso de técnica, não falta dela.**
+  - *Argumento:* Como a marcha do carro, a técnica repetida à exaustão deixa de ser uma questão; só quem a domina pode descartá-la e desenvolver um estilo.
+  - *Contra quem / contraponto:* A ideia de que técnica robotiza a clínica e de que humanização dispensa treino.
+  - *Implicação prática:* Treinar técnicas de forma deliberada e repetitiva, inclusive fora da clínica.
+  - [[Alan 08 - Escuta em fenomenologia]] [▶ 0:13:40](https://www.youtube.com/watch?v=iYbN23HFjAo&t=820s)
+- **O objetivo da formação é abandonar técnicas e estilo e fazer interpretação de verdade.**
+  - *Argumento:* A técnica é treino de sombra e o estilo é inclinação muitas vezes inconsciente; só a interpretação responde ao caso real.
+  - *Contra quem / contraponto:* Sem passar pelas técnicas não se chega lá ('se você não entendeu como faz um dó, não produz arte').
+  - *Implicação prática:* Estudar técnicas sem se apegar nem hierarquizá-las cedo demais.
+  - [[Alan 08 - Escuta em fenomenologia]] [▶ 0:10:19](https://www.youtube.com/watch?v=iYbN23HFjAo&t=619s)
+- **No treino, o que importa é o raciocínio, não o acerto do gabarito.**
+  - *Argumento:* Uma resposta 'errada' (histriônica) veio acompanhada de um raciocínio que se aproximava do diagnóstico.
+  - *Implicação prática:* O feedback em grupos de formação deve avaliar o processo de pensamento.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 0:58:03](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=3483s)
+- **Para ensinar supervisão e intervisão é preciso demonstrar, não só abrir espaço.**
+  - *Argumento:* Deixada livre, a discussão repetiu 'o processo natural da faculdade'.
+  - *Contra quem / contraponto:* Participante sugere que o exemplo venha antes da estrutura, mostrando o efeito de interpretações certas e erradas na sessão.
+  - *Implicação prática:* Grupos de intervisão com casos reais e condução ativa (formação de supervisores).
+  - [[Alan 12 - Formulação de caso 1]] [▶ 1:56:22](https://www.youtube.com/watch?v=VRappbW9ZNU&t=6982s)
+- **Tornar-se um bom clínico é deixar de ser unilateral: aprender psicologia é aprender a escala; o fazer é jazz.**
+  - *Argumento:* Os mestres não seguem o próprio livro-texto (Rogers interpreta e se põe no centro nos vídeos).
+  - *Contra quem / contraponto:* Formação só pelo livro-texto, estruturada e 'certinha'.
+  - *Implicação prática:* Estudar a estrutura para improvisar; assistir a atendimentos reais.
+  - [[Alan 13 - Formulação de caso 2]] [▶ 1:23:31](https://www.youtube.com/watch?v=jVNAVbIyPmA&t=5011s)
+- **É excesso de estrutura que gera fluidez; evitar estruturas raramente ajuda.**
+  - *Argumento:* Forçar-se a não usar uma estrutura deixa o atendimento menos fluido; dominar é aplicá-la sem que o outro perceba.
+  - *Contra quem / contraponto:* A tentativa da participante de quebrar seu hábito com finais 'secos'.
+  - *Implicação prática:* Treinar a estrutura até ela deixar de ser caricata, inclusive em conversas cotidianas.
+  - [[Alan 16 - Intervenção]] [▶ 2:03:03](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=7383s)
+- **Não se testam técnicas novas com pacientes.**
+  - *Argumento:* Existem lugares próprios para teste: roleplay, decano, vida pessoal.
+  - *Contra quem / contraponto:* A participante reproduzia um hábito vindo da própria análise.
+  - *Implicação prática:* Levar mudanças de estilo primeiro para o treino.
+  - [[Alan 16 - Intervenção]] [▶ 2:02:06](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=7326s)
+- **Supervisão de habilidades (PD) é diferente da supervisão de caso e é a que os decanos deveriam dominar.**
+  - *Argumento:* Abstrair a deficiência da fala do terapeuta numa regra geral e treiná-la desenvolve habilidade; ver o caso do outro ensina a construir caso na teoria.
+  - *Contra quem / contraponto:* Há espaço para a supervisão de caso usual.
+  - *Implicação prática:* Gravar 4-8 encontros nesse formato como referência para decanos.
+  - [[Alan 16 - Intervenção]] [▶ 2:10:43](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=7843s)
+- **Algumas máximas clínicas operam independentemente do conteúdo do caso.**
+  - *Argumento:* 'Se tudo é dúvida, comece por uma certeza' vale para qualquer tema e pode ser invertida.
+  - *Implicação prática:* Estudar máximas dá movimentos portáteis entre casos.
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 0:34:54](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=2094s)
+- **O aprimoramento serve para apresentar exercícios; o treino de verdade acontece fora dele.**
+  - *Argumento:* 'O objetivo do aprimoramento é apresentar exercícios para vocês treinarem em casa; eu só dou o gostinho', com colegas de faculdade ou pessoas mais experientes.
+  - *Implicação prática:* Cada encontro deve deixar uma dinâmica replicável.
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 1:21:56](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=4916s)
+- **A formação costuma parar nos níveis mais baixos de compreensão.**
+  - *Argumento:* Na faculdade e no estudo por conta própria, a gente se satisfaz em entender o autor; os saltos para variar e para avaliar raramente são treinados.
+  - *Contra quem / contraponto:* O estudo 'para a prova' e a memorização comparativa de definições.
+  - *Implicação prática:* A monitoria deve fazer o supervisionando saltar níveis.
+  - [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] [▶ 1:13:02](https://www.youtube.com/watch?v=fRkymivFF9s&t=4382s)
+- **A monitoria individual e detalhada tem um valor que outros formatos não oferecem.**
+  - *Argumento:* É uma 'concessão' de ir bem no detalhe, algo que não cabe em outros momentos.
+  - *Contra quem / contraponto:* A possível impressão de que o formato é cansativo para quem só observa.
+  - *Implicação prática:* Manter momentos de supervisão aprofundada de uma pessoa só.
+  - [[Monitoria 03 - Alan - Análise da linguagem do paciente]] [▶ 0:42:58](https://www.youtube.com/watch?v=-e15B6p1EMo&t=2578s)
+- **Em regra, explicar é melhor do que demonstrar.**
+  - *Argumento:* O 'passe de mágica' é elegante para o supervisor, mas é complexo de fazer e de entender e rouba a presença do terapeuta; nada indica que seja mais útil ao paciente.
+  - *Contra quem / contraponto:* Um participante diz que depende do paciente; Alan admite que 'no detalhe corta para todos os lados'.
+  - *Implicação prática:* Na dúvida, explicitar o raciocínio ao paciente.
+  - [[Monitoria 04 - Alan - Relação terapêutica além do vínculo]] [▶ 0:53:27](https://www.youtube.com/watch?v=n81lyvBHys0&t=3207s)
+- **A complexidade clínica, que é verdadeira, pode ser usada como escudo.**
+  - *Argumento:* 'Depende, é complexo' impede a crítica e a revisão.
+  - *Contra quem / contraponto:* A complexidade e a flexibilidade são reais e necessárias.
+  - *Implicação prática:* O supervisor não aceita vagueza e pede estrutura.
+  - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] [▶ 1:26:17](https://www.youtube.com/watch?v=r4Q-Xi6Gntk&t=5177s)
+- **Somar informações não é produzir conhecimento.**
+  - *Argumento:* Exceções acumuladas aumentam a desorientação; regras gerais formam um mapa.
+  - *Implicação prática:* Estudar e supervisionar buscando princípios, não listas.
+  - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] [▶ 1:00:29](https://www.youtube.com/watch?v=r4Q-Xi6Gntk&t=3629s)
+- **A supervisão tradicional, em que se conta o caso, é praticamente inútil; a supervisão deve ser treino de habilidade.**
+  - *Argumento:* Ela só ensina sobre aquele caso (um pouco de interpretação e formulação). A dificuldade do caso deve virar exercício da habilidade em falta e uma regra geral.
+  - *Contra quem / contraponto:* A maioria de quem decide na Allos discorda, e por isso a supervisão da casa ainda se parece com a da faculdade.
+  - *Implicação prática:* Supervisores devem propor exercícios, idealmente a partir de gravações.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 0:42:48](https://www.youtube.com/watch?v=nf32eXLKUrs&t=2568s)
+- **A faculdade e a experiência, do jeito atual, não formam clínicos melhores.**
+  - *Argumento:* No gráfico atribuído a Wampold, terapeutas levemente pioram com o tempo; no estudo de Miller, calouros e formados atendem praticamente igual. Há três explicações: treino às cegas, cristalização de preconceitos, ensino errado.
+  - *Contra quem / contraponto:* A crença de que experiência e diploma garantem qualidade.
+  - *Implicação prática:* A formação precisa de feedback, treino e medida, não só de horas de atendimento ou de aula.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 0:54:52](https://www.youtube.com/watch?v=nf32eXLKUrs&t=3292s)
+- **Exercícios de treino clínico não devem ter gabarito.**
+  - *Argumento:* Refletir sobre a resposta ideal faz parte do treino. As intervenções possíveis são indeterminadas (a ironia às vezes funciona, às vezes não). O gabarito se constrói de forma coletiva e retroativa, a partir das consequências no roleplay.
+  - *Contra quem / contraponto:* Os exercícios com gabarito do Field Guide; Alan diz ter convencido Miller.
+  - *Implicação prática:* Fechar cada exercício com uma discussão sobre o que funcionou e uma regra geral.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 1:18:35](https://www.youtube.com/watch?v=nf32eXLKUrs&t=4715s)
+- **Terapeutas muito ruins não compensam o investimento institucional, mas de médio a excelente é treinável, dependendo de onde está o erro.**
+  - *Argumento:* Erros de primeira sessão, interpretação e construção de caso melhoram rápido com feedback; vícios de linguagem e problemas de interação, muito pouco.
+  - *Contra quem / contraponto:* A seleção atual pela nota geral, e a crença do próprio Alan de que 'gente animada sempre dá para consertar'.
+  - *Implicação prática:* Selecionar e formar pelo tipo de erro; dar feedback e reavaliar para descobrir se o erro é fácil.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 1:53:25](https://www.youtube.com/watch?v=nf32eXLKUrs&t=6805s)
+- **Sem incentivo econômico, poucos treinam: melhorar como clínico não traz clientes.**
+  - *Argumento:* É mais racional investir em Instagram ou em contatos; o próprio Miller atrelaria remuneração à PD se pudesse refazer.
+  - *Contra quem / contraponto:* A dificuldade prática de remunerar pesquisa; a Allos abandonou a ideia por ora.
+  - *Implicação prática:* Pensar incentivos (remuneração, seleção, certificação) para sustentar a adesão aos treinos.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 1:26:08](https://www.youtube.com/watch?v=nf32eXLKUrs&t=5168s)
+- **Gravar sessões deveria ser norma na formação clínica.**
+  - *Argumento:* É obrigatório em muitos serviços baseados em evidências, ajuda o terapeuta a melhorar e dá ao paciente acesso ao material.
+  - *Contra quem / contraponto:* A norma social brasileira, que acha isso bizarro; por isso Alan não o torna regra na Allos.
+  - *Implicação prática:* Incentivar a gravação consentida para supervisão.
+  - [[PD 09 - Como a Allos chegou à prática deliberada]] [▶ 1:22:38](https://www.youtube.com/watch?v=nf32eXLKUrs&t=4958s)
+- **A faculdade de psicologia ensina a falar sobre clínica, e não a fazer clínica.**
+  - *Argumento:* Qualquer habilidade se aprende com prática e treino de partes. O currículo parece uma aula de natação que começa pela história da natação, e os egressos chegam despreparados.
+  - *Contra quem / contraponto:* Um participante lembra o foco das universidades em pesquisa; Alan concorda que a psicologia é ampla e que a faculdade serve para outras coisas.
+  - *Implicação prática:* Formação clínica centrada em treino de habilidades com feedback.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 0:06:00](https://www.youtube.com/watch?v=oeCymlAmai4&t=360s)
+- **Performance não é prática; anos de atendimento não produzem competência por si.**
+  - *Argumento:* Quem atende há dez anos sem refletir, sem nomear seus movimentos e sem feedback específico só 'jogou pelada'.
+  - *Contra quem / contraponto:* A ideia de que a experiência acumulada basta.
+  - *Implicação prática:* Exercícios de habilidades específicas, revisão de atendimentos, observação externa.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 0:12:25](https://www.youtube.com/watch?v=oeCymlAmai4&t=745s)
+- **A prática é escassa nas faculdades por razão econômica, e não didática.**
+  - *Argumento:* Um professor para 70 alunos, um supervisor para três; nenhuma faculdade acha, de verdade, que menos prática é melhor.
+  - *Contra quem / contraponto:* Justificativas pedagógicas do currículo.
+  - *Implicação prática:* Modelos em que o incentivo depende da qualidade prática, como na Allos, onde bons alunos trazem pacientes.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 0:19:39](https://www.youtube.com/watch?v=oeCymlAmai4&t=1179s)
+- **Paciente e aluno, em regra, não sabem o que é melhor para eles.**
+  - *Argumento:* Tendem ao agradável, e não ao desafiador; aprender exige estresse, como um músculo.
+  - *Contra quem / contraponto:* 'O cliente sabe o que quer'. Alan admite exagerar e mantém que escutar o pedido é boa escuta.
+  - *Implicação prática:* Não entregar a direção a quem está sendo ajudado.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 0:23:30](https://www.youtube.com/watch?v=oeCymlAmai4&t=1410s)
+- **Dificuldades concretas de um atendimento devem virar exercícios específicos.**
+  - *Argumento:* Discutir o caso não basta; a dificuldade observada define a habilidade a treinar na semana seguinte.
+  - *Contra quem / contraponto:* Supervisão que só comenta o caso.
+  - *Implicação prática:* A discussão termina com 'qual foi o erro principal?'.
+  - [[Prática Clínica 02 - Atendimento ao vivo e ecos da palavra]] [▶ 0:01:50](https://www.youtube.com/watch?v=1vq-Uefyf1w&t=110s)
+- **Atender não é tão diferente de conversar, mas o treino exige tornar consciente o que é intuitivo na conversa.**
+  - *Argumento:* Aprendemos a conversar e intervimos sem saber por quê; quem atende bem costuma ter um papo interessante; no desenvolvimento é preciso saber a função de cada escolha.
+  - *Contra quem / contraponto:* A ideia de que boa intervenção é só intuição ou talento.
+  - *Implicação prática:* Dissecar frases, variar estrutura e entonação deliberadamente.
+  - [[Prática Clínica 03 - Atenção flutuante, construção frasal e entonação]] [▶ 0:18:44](https://www.youtube.com/watch?v=m4vr6-_WOus&t=1124s)
+- **Errar faz parte do método: se você acertar de primeira, não tem graça.**
+  - *Argumento:* O aprendizado vem justamente de onde se erra.
+  - *Contra quem / contraponto:* A vergonha que leva o participante a querer passar a vez.
+  - *Implicação prática:* Manter a pessoa no exercício com mais pistas, em vez de liberá-la.
+  - [[Prática Clínica 03 - Atenção flutuante, construção frasal e entonação]] [▶ 0:16:50](https://www.youtube.com/watch?v=m4vr6-_WOus&t=1010s)
+- **'Tentar até acertar' não é treino estruturado; visualizar alguém competente é um passo necessário.**
+  - *Argumento:* Na metáfora do saque no vôlei, ver, decompor, treinar especificamente e tentar são coisas diferentes; o encontro ficou só na tentativa.
+  - *Contra quem / contraponto:* Formações que se apoiam apenas em atender e discutir.
+  - *Implicação prática:* O facilitador também atende o caso e expõe seu log.
+  - [[Prática Clínica 03 - Atenção flutuante, construção frasal e entonação]] [▶ 0:28:28](https://www.youtube.com/watch?v=m4vr6-_WOus&t=1708s)
+- **Assumir que qualidade clínica também é decisão econômica aumenta a motivação para estudar.**
+  - *Argumento:* A parte mais difícil do estudo é a motivação, e somos movidos a incentivos ('cãezinhos de Pavlov'); quase sempre dá para alinhar atender bem e ganhar mais.
+  - *Contra quem / contraponto:* O pudor de falar de dinheiro na formação.
+  - *Implicação prática:* Usar o argumento de negócio para sustentar o esforço de treino.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:50:10](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=3010s)
+- **Atender direito não tem mistério; o que falta é trabalho.**
+  - *Argumento:* Com abertura e vontade, 'em duas semanas' de intensivo se atende direito; mesmo com acompanhamento gratuito disponível, poucos o fazem porque dá trabalho.
+  - *Contra quem / contraponto:* A mística da clínica como dom ou coisa de muitos anos.
+  - *Implicação prática:* Formação baseada em treino e revisão, não em talento.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:50:10](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=3010s)
+- **Taxonomias de habilidades clínicas devem ser fluidas, nunca canônicas.**
+  - *Argumento:* Cristalizar categorias faz olhar para os subcomponentes e perder de vista atender bem a pessoa.
+  - *Contra quem / contraponto:* Grades de avaliação com subcritérios; por isso o simulador da Allos só dá nota geral.
+  - *Implicação prática:* Usar categorias como lentes de reflexão e feedback, não como checklist.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 0:06:08](https://www.youtube.com/watch?v=do6RPg_flrg&t=368s)
+- **Na psicoterapia, especialização é mais veneno que solução, e experiência e formação não garantem melhora.**
+  - *Argumento:* Ausência de correlação entre experiência ou formação e resultado; estudo americano sobre terapias de gênero e raça; explicações: treino às cegas (Hayes?) e cristalização de modelos (Jung).
+  - *Contra quem / contraponto:* Pós-graduações e anos de prática como garantia; Alan admite possíveis vieses do estudo e da psicoterapia americana.
+  - *Implicação prática:* Buscar feedback sobre resultados e combater ativamente os modelos prontos.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 1:20:57](https://www.youtube.com/watch?v=do6RPg_flrg&t=4857s)
+- **Explicar ao paciente o processo clínico aumenta o engajamento.**
+  - *Argumento:* A clínica não é truque de mágica nem fábrica de salsicha; estudantes de psicologia, que sabem como funciona, estão entre os que mais gostam de terapia.
+  - *Contra quem / contraponto:* A condução oculta, possível mas mais difícil e 'mais mágica'.
+  - *Implicação prática:* Metacomunicar intenções e treinos ao paciente.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 0:47:44](https://www.youtube.com/watch?v=do6RPg_flrg&t=2864s)
+- **A conscientização é a primeira etapa da mudança, também na formação clínica.**
+  - *Argumento:* Não se treina o que não se consegue nomear; uma taxonomia dá vocabulário e permite correção na prática.
+  - *Implicação prática:* Grupos de formação devem começar por categorias antes de exercitar.
+  - [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]] [▶ 0:01:59](https://www.youtube.com/watch?v=d8jUUFt9yT0&t=119s)
+- **Um estilo clínico funciona como uma ética: comprime a complexidade do mundo em poucos princípios.**
+  - *Argumento:* É o que Kant e Aristóteles fazem em filosofia e o que as respostas convergentes dos participantes revelaram; a psicologia comparada estuda esses conjuntos de princípios.
+  - *Contra quem / contraponto:* O próprio Alan: é aí que mora o risco de forçar tudo a ser sobre contato ou consciência.
+  - *Implicação prática:* Identificar o próprio 'martelo'.
+  - [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]] [▶ 0:47:11](https://www.youtube.com/watch?v=d8jUUFt9yT0&t=2831s)
+- **Dos cinco elementos da interpretação, só priorização, reconstrução do contexto e conferência são realmente treináveis.**
+  - *Argumento:* A escuta sensorial 'simplesmente acontece'; a deliberação não tem marcadores concretos de acerto, porque a escolha vira certa por retroação.
+  - *Implicação prática:* Concentrar o treino nesses três e, na deliberação, treinar a consciência.
+  - [[Prática Clínica 07 - Como treinar cada elemento da interpretação]] [▶ 0:31:57](https://www.youtube.com/watch?v=0cTyM1BH_Yc&t=1917s)
+- **As supervisões coletivas são passivas porque os supervisores permitem.**
+  - *Argumento:* O participante só espera sua vez de apresentar o caso.
+  - *Implicação prática:* Estruturar a supervisão como jogo de apostas.
+  - [[Prática Clínica 07 - Como treinar cada elemento da interpretação]] [▶ 0:22:12](https://www.youtube.com/watch?v=0cTyM1BH_Yc&t=1332s)
+- **Naturalidade vem do excesso de estrutura, não da falta dela.**
+  - *Argumento:* Como a troca de marcha ao aprender a dirigir, a estrutura praticada vira fundo.
+  - *Contra quem / contraponto:* O medo de que técnicas e roteiros tornem o atendimento robótico.
+  - *Implicação prática:* Treinar estruturas explicitamente até que desapareçam da consciência.
+  - [[YT Avaliação Clínica 01 - Meu paciente está pronto - Estágios de mudança]] [▶ 0:18:02](https://www.youtube.com/watch?v=NJBRCNbPc3Q&t=1082s)
+- **Aprende-se a intervir melhor com acompanhamento, exercícios e feedback em grupo do que só com teoria.**
+  - *Argumento:* Ter alguém propondo exercícios e avaliando se você está indo bem é 'a melhor intervenção' para aprender.
+  - *Contra quem / contraponto:* Uma formação apenas teórica.
+  - *Implicação prática:* Montar ou procurar grupos de treino.
+  - [[YT Avaliação Clínica 02 - Como fazer intervenções clínicas mais potentes]] [▶ 0:19:20](https://www.youtube.com/watch?v=u1uOyDlyjUU&t=1160s)
+- **Empatia clinicamente relevante é a percebida pelo paciente, não a sentida pelo terapeuta.**
+  - *Argumento:* Segundo Alan, a correlação entre autopercepção de empatia e desfecho é zero.
+  - *Contra quem / contraponto:* A empatia entendida como sentimento interno.
+  - *Implicação prática:* Buscar feedback sobre o que o paciente percebe.
+  - [[YT Avaliação Clínica 03 - Comecei na clínica, e agora]] [▶ 0:13:31](https://www.youtube.com/watch?v=JTso5qJYMNU&t=811s)
+- **As máximas clínicas são 'mentiras que em regra são verdade', úteis enquanto não se tem senso contextual.**
+  - *Argumento:* Quem não sabe clinicar precisa de regras gerais para depois desenvolver o senso específico.
+  - *Contra quem / contraponto:* A recusa de qualquer regra geral em nome da singularidade.
+  - *Implicação prática:* Usar listas de máximas no início da formação e depois contextualizá-las.
+  - [[YT Avaliação Clínica 04 - Máximas para a performance clínica]] [▶ 0:00:00](https://www.youtube.com/watch?v=TkaAFt7menY&t=0s)
+- **Naturalidade vem do excesso de estrutura.**
+  - *Argumento:* A estrutura dominada vira segunda natureza.
+  - *Contra quem / contraponto:* O medo de soar robótico com perguntas binárias.
+  - *Implicação prática:* Treinar esquemas estruturados sem culpa.
+  - [[YT Avaliação Clínica 05 - Como treinar sua escuta clínica - Um guia aprofundado]] [▶ 0:09:48](https://www.youtube.com/watch?v=pbCStH1GWgY&t=588s)
+- **Veteranos e supervisores são, estatisticamente, clínicos piores do que o iniciante.**
+  - *Argumento:* A experiência clínica e o conhecimento teórico não predizem bom desfecho e seriam até preditores negativos; o sujeito médio atinge o pico ao sair da faculdade.
+  - *Contra quem / contraponto:* Existem, sim, pessoas profundamente mais competentes; é uma questão de média.
+  - *Implicação prática:* Escolher com critério quem escutar.
+  - [[YT Avaliação Clínica 06 - Dicas para quem está inseguro em começar a atender]] [▶ 0:03:22](https://www.youtube.com/watch?v=RPVjdqdzcMY&t=202s)
+- **Aprender psicologia sem prática até ser jogado nela é um absurdo pedagógico.**
+  - *Argumento:* Nada se aprende assim (natação, xadrez); a psicologia nasceu da experimentação coletiva e individual.
+  - *Contra quem / contraponto:* O modelo de formação que só apresenta a prática no estágio.
+  - *Implicação prática:* Criar uma cultura de treino e risco entre colegas.
+  - [[YT Avaliação Clínica 06 - Dicas para quem está inseguro em começar a atender]] [▶ 0:11:25](https://www.youtube.com/watch?v=RPVjdqdzcMY&t=685s)
+- **A supervisão acadêmica não se baseia no erro e por isso não incentiva a melhora.**
+  - *Argumento:* Quem supervisiona também dá a nota, então o aluno não tem incentivo para contar as dificuldades reais.
+  - *Contra quem / contraponto:* O modelo de supervisão da graduação.
+  - *Implicação prática:* Buscar espaços de feedback sem punição, como os grupos da Allos.
+  - [[YT Avaliação Clínica 06 - Dicas para quem está inseguro em começar a atender]] [▶ 0:16:45](https://www.youtube.com/watch?v=RPVjdqdzcMY&t=1005s)
+- **Ser natural não é falta de estrutura, é excesso de estrutura.**
+  - *Argumento:* Como dirigir, a estrutura repetida vira segunda natureza.
+  - *Contra quem / contraponto:* O medo de soar robótico e a recusa dos protocolos.
+  - *Implicação prática:* Treinar a estrutura exaustivamente.
+  - [[YT Avaliação Clínica 10 - Primeira sessão em TCC - o que evitar]] [▶ 0:30:52](https://www.youtube.com/watch?v=zG7e2OoxWXU&t=1852s)
+- **Avaliar a clínica vendo a pessoa clinicar é o óbvio, e é bizarro que faculdades, estágios e clínicas não façam isso.**
+  - *Argumento:* Vestibular, currículo e cadastro medem coisas alheias à clínica; ninguém entra num time de vôlei mandando currículo.
+  - *Contra quem / contraponto:* Processos seletivos por prova teórica, dinâmica de grupo ou cadastro em plataformas (uberização).
+  - *Implicação prática:* Selecionar por amostra de trabalho: roleplay observado.
+  - [[YT Avaliação Clínica 11 - Como entrar na Allos]] [▶ 0:05:24](https://www.youtube.com/watch?v=HlYGLPwRMFc&t=324s)
+- **É mais fácil selecionar do que formar; por isso a seleção deve pesar mais.**
+  - *Argumento:* Estudos que mediram o impacto da educação sobre o resultado clínico encontraram efeito pequeno.
+  - *Contra quem / contraponto:* Seleção e formação andam juntas; a Allos está entrando numa 'era da formação'.
+  - *Implicação prática:* Investir num bom filtro de entrada e em feedback baseado em dados.
+  - [[YT Avaliação Clínica 11 - Como entrar na Allos]] [▶ 0:09:13](https://www.youtube.com/watch?v=HlYGLPwRMFc&t=553s)
+- **A escola ensinou a ver a avaliação como inimiga, e isso é um desserviço.**
+  - *Argumento:* Em qualquer área de alto desempenho é preciso querer ser avaliado para melhorar; supervisão não deve ser baseada em erro.
+  - *Contra quem / contraponto:* Cultura escolar da prova como ameaça.
+  - *Implicação prática:* Apresentar a avaliação como oportunidade de feedback estruturado.
+  - [[YT Avaliação Clínica 11 - Como entrar na Allos]] [▶ 0:15:18](https://www.youtube.com/watch?v=HlYGLPwRMFc&t=918s)
+- **A pouca prática na graduação em psicologia se deve ao modelo de negócio das faculdades, não à didática.**
+  - *Argumento:* Apenas enunciada, deixada para outro vídeo.
+  - *Implicação prática:* Buscar formação prática fora da graduação.
+  - [[YT Avaliação Clínica 11 - Como entrar na Allos]] [▶ 0:35:15](https://www.youtube.com/watch?v=HlYGLPwRMFc&t=2115s)
+- **Esforço bate talento no médio e no longo prazo.**
+  - *Argumento:* Pessoas melhoram 'da água pro vinho' com boa infraestrutura de feedback.
+  - *Contra quem / contraponto:* Notas muito baixas sugerem que talvez clinicar não seja o caminho.
+  - *Implicação prática:* Manter as portas abertas e oferecer reavaliação ilimitada.
+  - [[YT Avaliação Clínica 12 - Como funciona o instrumento de avaliação]] [▶ 0:32:28](https://www.youtube.com/watch?v=jYbUiWwmF2I&t=1948s)
+- **Precisão não é agressividade, e linguagem imprecisa não é doçura.**
+  - *Argumento:* O feedback vago é o que gera revolta com a nota; o preciso orienta e é mais respeitoso.
+  - *Contra quem / contraponto:* Avaliadores que suavizam até ficar vagos e avaliadores que imitam o estilo agressivo de Alan.
+  - *Implicação prática:* Treinar feedback específico, ancorado e sem adjetivação forte.
+  - [[YT Avaliação Clínica 13 - Como estruturar o feedback clínico]] [▶ 0:24:35](https://www.youtube.com/watch?v=08PygIYaAP4&t=1475s)
+- **Feedback abstrato sobre o que é boa psicologia é inútil; o feedback deve ser aterrado no caso.**
+  - *Argumento:* Há cem anos de discussão sem solução (antinomia); no abstrato a pessoa se defende com a própria abordagem ou confia mais no próprio professor.
+  - *Contra quem / contraponto:* Comentários do tipo 'deveria ter investigado mais X'.
+  - *Implicação prática:* Anotar aspas e usá-las como prova de cada comentário.
+  - [[YT Avaliação Clínica 13 - Como estruturar o feedback clínico]] [▶ 0:15:34](https://www.youtube.com/watch?v=08PygIYaAP4&t=934s)
+- **Sem feedback de resultados, a experiência clínica não melhora o terapeuta e pode piorá-lo.**
+  - *Argumento:* Correlações levemente negativas entre tempo de prática ou conhecimento teórico e resultados; o experiente cristaliza preconceitos e troca a escuta por modelos.
+  - *Contra quem / contraponto:* A crença de que anos de clínica e estudo garantem competência.
+  - *Implicação prática:* Monitorar resultados; prática deliberada.
+  - [[YT Avaliação Clínica 14 - Bacon causa câncer - O padrão-ouro da psicologia]] [▶ 0:19:58](https://www.youtube.com/watch?v=3rJ2OGfqYkQ&t=1198s)
+
+## Diogo
+- **O feedback do paciente é hoje a principal métrica de resultado em psicologia.**
+  - *Argumento:* O terapeuta só vê uma hora da semana; o paciente relata o resto. A prática deliberada usa esse feedback para melhorar o terapeuta.
+  - *Contra quem / contraponto:* Há resultados visíveis na sessão, mas são parciais.
+  - *Implicação prática:* Acreditar no relato do paciente e rever a prática a partir dele.
+  - [[Acervo 09 - Como receber feedback negativo do paciente]] [▶ 0:01:59](https://www.youtube.com/watch?v=21EgJMdAfLk&t=119s)
+- **O quanto uma crítica machuca diz mais da história do terapeuta do que do paciente, e entender isso muda a resposta.**
+  - *Argumento:* Críticas diferentes têm núcleos biográficos parecidos, como o descrédito. Separar 'o paciente' de 'meus pais' libera o terapeuta para investigar outros motivos da crítica.
+  - *Contra quem / contraponto:* Reagir só ao conteúdo literal do feedback.
+  - *Implicação prática:* Autoconhecimento e terapia pessoal como parte da formação.
+  - [[Acervo 09 - Como receber feedback negativo do paciente]] [▶ 0:28:02](https://www.youtube.com/watch?v=21EgJMdAfLk&t=1682s)
+- **Nem toda insegurança é biográfica: às vezes a crítica aponta uma lacuna técnica real.**
+  - *Argumento:* O terapeuta pode comunicar bem e dominar pouco a teoria, ficando sem base para justificar a análise do caso.
+  - *Contra quem / contraponto:* Psicologizar toda dificuldade e mandar tudo para a terapia.
+  - *Implicação prática:* Combinar terapia e estudo, com estratégias de aprendizagem adequadas a cada um.
+  - [[Acervo 09 - Como receber feedback negativo do paciente]] [▶ 0:30:44](https://www.youtube.com/watch?v=21EgJMdAfLk&t=1844s)
+- **Não existe um único jeito legítimo de estudar.**
+  - *Argumento:* Vídeos, áudios e análises podem ser mais ricos que certos livros; Diogo, pessoalmente, prefere o original para formar a própria crítica.
+  - *Contra quem / contraponto:* 'A única forma de aprender é sentar e ler.'
+  - *Implicação prática:* Diagnosticar o próprio modo de aprender.
+  - [[Acervo 09 - Como receber feedback negativo do paciente]] [▶ 0:30:44](https://www.youtube.com/watch?v=21EgJMdAfLk&t=1844s)
+- **Ensaiar o desconforto num ambiente seguro melhora a resposta no ambiente real.**
+  - *Argumento:* Vivendo a posição de vulnerabilidade, o terapeuta testa respostas e recebe feedback sem risco para pacientes.
+  - *Contra quem / contraponto:* Aprender só na hora, com o paciente real.
+  - *Implicação prática:* Incluir roleplays de situações temidas na formação.
+  - [[Acervo 09 - Como receber feedback negativo do paciente]] [▶ 1:10:40](https://www.youtube.com/watch?v=21EgJMdAfLk&t=4240s)
+- **A lógica da responsabilidade individual serve a alguém e produz a individualização do sofrimento.**
+  - *Argumento:* Da abolição ao neoliberalismo, o trabalhador passou a arcar sozinho com a própria saúde; o 'sou meu próprio chefe' dos aplicativos é ilusório (não se trabalha quando se quer); nem o 'autodidata' aprende sozinho.
+  - *Contra quem / contraponto:* O discurso da autonomia e do empreendedorismo de si.
+  - *Implicação prática:* Na clínica, ajudar a pessoa a ver os determinantes do sofrimento para além de si.
+  - [[Acervo 11 - Vício em trabalho, precarização e saúde mental]] [▶ 0:29:19](https://www.youtube.com/watch?v=ieKRsSAxIPg&t=1759s)
+- **A categoria (conselhos e entidades) olha pouco para a precarização dos próprios psicólogos.**
+  - *Argumento:* O Conselho Federal pouco fala do cuidado com os psicólogos; faltam estratégias coletivas; estudantes nem conseguem acessar certos canais do conselho regional.
+  - *Implicação prática:* Organização coletiva da classe profissional.
+  - [[Acervo 11 - Vício em trabalho, precarização e saúde mental]] [▶ 0:38:13](https://www.youtube.com/watch?v=ieKRsSAxIPg&t=2293s)
+- **Não cabe ao psicólogo pedir que o paciente mostre sua casa, embora isso seja rica fonte de dados quando espontâneo.**
+  - *Argumento:* A iniciativa em si é dado clínico; o pedido altera a natureza da informação e pode ser invasivo.
+  - *Contra quem / contraponto:* Sugestão de participante de que isso seria útil em geral.
+  - *Implicação prática:* Acolher, não solicitar.
+  - [[Acervo 23 - Comunicação não verbal na clínica]] [▶ 0:28:37](https://www.youtube.com/watch?v=MHBD5THDIXE&t=1717s)
+- **Em encontros abertos não se discutem casos reais; o paciente simulado viabiliza a supervisão fina.**
+  - *Argumento:* Há pessoas de fora e quem ainda não é terapeuta; a IA com história própria permite discutir fala e escuta no detalhe.
+  - *Implicação prática:* Usar simuladores para treino e supervisão aberta, preservando o sigilo.
+  - [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] [▶ 0:01:46](https://www.youtube.com/watch?v=zwWy-So8fk8&t=106s)
+- **No início do tratamento, a terapia pode funcionar como muleta, e isso é legítimo.**
+  - *Argumento:* Muita gente precisa primeiro de suporte e depois aprende a andar sem ele.
+  - *Contra quem / contraponto:* A ideia de que depender da terapia é sempre um problema.
+  - *Implicação prática:* Aceitar a função de suporte e planejar a autonomia.
+  - [[Monitoria 15 - Diogo - Responsabilização e vínculo na primeira sessão]] [▶ 0:55:19](https://www.youtube.com/watch?v=hoph0oBm7iU&t=3319s)
+- **A investigação aberta é, em regra, melhor que a diretiva.**
+  - *Argumento:* Não delimita o escopo, não perde informação e deixa o paciente trazer o relevante do momento.
+  - *Contra quem / contraponto:* Visões diretivas, como o mapeamento da queixa na TCC.
+  - *Implicação prática:* Começar amplo.
+  - [[Monitoria 17 - Diogo - Perguntas abertas, hipótese e movimento clínico]] [▶ 0:16:45](https://www.youtube.com/watch?v=4I-WY_26yuw&t=1005s)
+- **Empatia é compreensão, não sentir o que o outro sente.**
+  - *Argumento:* É impossível pôr-se completamente no lugar do outro e, mesmo que fosse possível, não sentiríamos igual.
+  - *Contra quem / contraponto:* A noção de senso comum de empatia como sentir junto.
+  - *Implicação prática:* Treinar a compreensão do discurso e da posição do paciente.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 0:22:41](https://www.youtube.com/watch?v=ju1ShOijRrg&t=1361s)
+- **A monitoria é o lugar certo para errar e deve incluir quem ainda não atende.**
+  - *Argumento:* Ali se pode propor uma intervenção que talvez não faça sentido e receber feedback imediato.
+  - *Contra quem / contraponto:* A insegurança dos participantes sem experiência.
+  - *Implicação prática:* Convidar estudantes sem estágio a assumir o papel central.
+  - [[Monitoria 20 - Diogo - Aprofundamento na análise de atendimento simulado]] [▶ 0:04:39](https://www.youtube.com/watch?v=92xFTaRaDYg&t=279s)
+- **O supervisor ensina mais explicitando o processo de decisão do que julgando a decisão.**
+  - *Argumento:* Diogo declara que não vai avaliar se a ordem foi a melhor, e sim ajudar a entender o processo.
+  - *Contra quem / contraponto:* Supervisões que dão um veredito sobre a escolha (como Alan faz com frequência na mon-02).
+  - *Implicação prática:* Devolver ao terapeuta um método, não um veredito.
+  - [[Monitoria 21 - Diogo - Sete passos da tomada de decisão clínica]] [▶ 0:35:18](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2118s)
+- **Coisas específicas escondem semelhanças profundas; a não literalidade dos conceitos revela profundidade e complexidade comuns.**
+  - *Argumento:* Sexualidade infantil, lente e discriminação condicional parecem incomparáveis, mas nenhuma é literal e todas exigem estudo aprofundado.
+  - *Implicação prática:* Estudar a fundo antes de julgar uma abordagem pela definição de manual.
+  - [[Monitoria 22 - Diogo - Confluências e diferenças entre abordagens]] [▶ 1:10:15](https://www.youtube.com/watch?v=_g1ASJmgi2g&t=4215s)
+
+## João de Bragança
+- **Um psicólogo ruim é, antes de tudo, o que não sabe receber feedback, crítico ou elogioso.**
+  - *Argumento:* A crítica recusada impede a correção; o elogio 'abraçado com tudo' gera a certeza de que não há nada errado.
+  - *Contra quem / contraponto:* Critérios baseados só em estilo (falar muito ou pouco) variam entre pacientes e dentro das abordagens.
+  - *Implicação prática:* Abrir espaço explícito para o feedback do paciente e desconfiar do próprio conforto.
+  - [[Monitoria 06 - João de Bragança - Critérios de uma terapia ruim]] [▶ 0:01:01](https://www.youtube.com/watch?v=9QbVz3nle0E&t=61s)
+- **Há algo aproveitável até numa sessão ruim: é preciso separar embalagem e conteúdo.**
+  - *Argumento:* A noção de crenças absolutas e conclusões em salto permanece útil; o problema está no modo de aplicar.
+  - *Contra quem / contraponto:* A rejeição total da sessão pelo grupo.
+  - *Implicação prática:* Estudar autores e demonstrações criticamente, extraindo a técnica sem copiar a postura.
+  - [[Monitoria 06 - João de Bragança - Critérios de uma terapia ruim]] [▶ 0:26:16](https://www.youtube.com/watch?v=9QbVz3nle0E&t=1576s)
+- **Os limites do terapeuta são o lugar onde ele precisa se desenvolver, não fronteiras fixas.**
+  - *Argumento:* Na psicoterapia, o que capacita para casos complexos é o desenvolvimento pessoal, não só o acúmulo técnico; o risco é a resignação.
+  - *Contra quem / contraponto:* A postura 'isso é moralmente inaceitável para mim e pronto'.
+  - *Implicação prática:* Terapia pessoal e supervisão como parte do trabalho clínico.
+  - [[Monitoria 07 - João de Bragança - Limites do terapeuta e confronto]] [▶ 0:07:45](https://www.youtube.com/watch?v=zsZasKwhGLI&t=465s)
+- **O critério mais importante para saber se um psicólogo é bom é a capacidade de receber feedback, bom e ruim.**
+  - *Argumento:* Na psicologia a relação é o que mais importa; quem não ouve 'isso me incomodou' não lida com afetos alheios; quem abraça elogios sem questioná-los também erra.
+  - *Contra quem / contraponto:* Critérios de estilo (falar pouco, ser calmo) e a crítica a Perls por ser agressivo.
+  - *Implicação prática:* Pedir e acolher feedback como parte do manejo clínico.
+  - [[Monitoria 09 - João de Bragança - Critérios do bom psicólogo e acolhimento]] [▶ 0:49:45](https://www.youtube.com/watch?v=5F6Lw10ZfPk&t=2985s)
+- **Acolhimento é uma recepção que permite a transformação, não concordância.**
+  - *Argumento:* Concordar com tudo, como um chat de IA, não acolhe; sem crítica sensível e empática não há psicoterapia.
+  - *Contra quem / contraponto:* O acolhimento 'almofadado' do senso comum.
+  - *Implicação prática:* Acolher o sentimento e devolver o conteúdo de modo que possa mudar.
+  - [[Monitoria 09 - João de Bragança - Critérios do bom psicólogo e acolhimento]] [▶ 0:36:00](https://www.youtube.com/watch?v=5F6Lw10ZfPk&t=2160s)
+- **O terapeuta não melhora com o tempo, ele piora, se cristalizar a sua forma de trabalhar.**
+  - *Argumento:* A mesma abertura para todos faz de todo caso o mesmo caso.
+  - *Contra quem / contraponto:* A crença de que experiência acumulada garante qualidade.
+  - *Implicação prática:* Manter a prática deliberada e variar as entradas.
+  - [[Monitoria 09 - João de Bragança - Critérios do bom psicólogo e acolhimento]] [▶ 1:15:58](https://www.youtube.com/watch?v=5F6Lw10ZfPk&t=4558s)
+
+## Rodolfo
+- **Não existe regra em psicoterapia; as relações entre forma e agressividade são tendências.**
+  - *Argumento:* Tudo depende do caso, do tom e da leitura do campo.
+  - *Contra quem / contraponto:* Manuais de 'frases certas'.
+  - *Implicação prática:* Treinar a flexibilidade (subir e descer) em vez de decorar fórmulas.
+  - [[Acervo 02 - Intensidade e agressividade da intervenção]] [▶ 0:01:12](https://www.youtube.com/watch?v=SJwjDymDP7c&t=72s)
+- **Em terapia não existe regra geral nem receita de bolo.**
+  - *Argumento:* Tudo depende do caso e do paciente específico.
+  - *Contra quem / contraponto:* A demanda por regras como 'frase curta é melhor'.
+  - *Implicação prática:* Treinar critérios de decisão, não fórmulas.
+  - [[Acervo 04 - Construção frasal em roleplay com pausas]] [▶ 1:08:34](https://www.youtube.com/watch?v=GCM5FpoEXXk&t=4114s)
+
+## Gabriel
+- **No treino de ruptura, a situação tem de ser difícil, e saídas externas estão proibidas.**
+  - *Argumento:* Se a terapeuta pudesse remover o problema, já o teria feito; o que se treina é resolver na relação. Uma participante completa: 'na prática é difícil, tem que ser o máximo de difícil possível'.
+  - *Contra quem / contraponto:* Soluções logísticas ou encaminhamento, possíveis na vida real mas fora do exercício.
+  - *Implicação prática:* Regras explícitas que impeçam alterar a realidade da cena.
+  - [[Acervo 10 - Qualidade da intervenção e ruptura do vínculo]] [▶ 0:32:32](https://www.youtube.com/watch?v=uM6cQavLzeg&t=1952s)
+- **O aprimoramento é o lugar para errar que a graduação não oferece.**
+  - *Argumento:* 'A gente está aqui para errar'; o feedback é baseado 'naquilo que a gente deixou de ver'.
+  - *Contra quem / contraponto:* Formação sem espaço de prática segura.
+  - *Implicação prática:* Participar mesmo sem experiência.
+  - [[Acervo 10 - Qualidade da intervenção e ruptura do vínculo]] [▶ 0:19:57](https://www.youtube.com/watch?v=uM6cQavLzeg&t=1197s)
+- **Incisividade e criatividade clínica vêm da prática, não da leitura.**
+  - *Argumento:* O que falta é repertório exercitado; a consciência dos vícios só vira mudança com treino.
+  - *Contra quem / contraponto:* O pedido de 'material para afiar as intervenções'.
+  - *Implicação prática:* Treinar variações no cotidiano e em grupos de prática.
+  - [[Acervo 18 - Hipótese clínica e intervenção]] [▶ 1:47:34](https://www.youtube.com/watch?v=9Wb-L6AAZYQ&t=6454s)
+
+## Outros facilitadores e participantes
+- **A psicologia historicamente patologizou expressões saudáveis que fugiam da branquitude.**
+  - *Argumento:* Construiu-se na mesma epistemologia que definiu saúde e progresso e herdou da psiquiatria a patologização.
+  - *Contra quem / contraponto:* A ideia de uma psicologia neutra e universal.
+  - *Implicação prática:* Revisar critérios de patologia e a formação dos profissionais.
+  - Malu · [[Acervo 07 - Violência estrutural e plantão psicológico]] [▶ 0:28:46](https://www.youtube.com/watch?v=sbQJy1e4wwY&t=1726s)
+- **A prática clínica adoece e também promove saúde no terapeuta, e a profissão estuda pouco isso.**
+  - *Argumento:* Os atendimentos remexem a vida pessoal; há poucos estudos sobre a saúde mental dos psicólogos.
+  - *Contra quem / contraponto:* A imagem do psicólogo que aguenta ouvir problemas sem ser afetado.
+  - *Implicação prática:* Criar espaços formativos que foquem o terapeuta.
+  - Tainá · [[Acervo 08 - Como a clínica atravessa o terapeuta]] [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s)
+- **Semelhança de tema entre terapeuta e paciente não obriga a encaminhar.**
+  - *Argumento:* Temas muito comuns podem ser atendidos com cuidado, análise pessoal e supervisão.
+  - *Contra quem / contraponto:* Regra difundida na faculdade de encaminhar sempre.
+  - *Implicação prática:* Encaminhar só quando a ferida for profunda demais.
+  - Participante de orientação psicanalítica · [[Acervo 08 - Como a clínica atravessa o terapeuta]] [▶ 0:48:31](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2911s)
+- **Quase sempre a resistência é do terapeuta.**
+  - *Argumento:* No incômodo por crença, religião ou política, o terapeuta se faz surdo ao que o paciente diz por trás do discurso.
+  - *Implicação prática:* Os incômodos 'unicamente meus' vão para a análise e a supervisão, e não para a sessão.
+  - Participante (psicanálise) · [[Acervo 14 - Crenças e valores divergentes entre paciente e terapeuta]] [▶ 0:34:17](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2057s)
+- **O terapeuta pode entrar na neurose do paciente, e seu trabalho é ser o menos louco da sala.**
+  - *Argumento:* O paciente confuso deixa o terapeuta confuso; perceber isso já transforma a situação e permite nomeá-la.
+  - *Contra quem / contraponto:* A ideia de um terapeuta imune ao que o paciente mobiliza.
+  - *Implicação prática:* Monitorar o próprio estado na sessão e usá-lo como informação.
+  - Participante · [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 1:36:33](https://www.youtube.com/watch?v=n1iu-W8ujac&t=5793s)
+- **O psicólogo deve ficar de câmera ligada no atendimento online, mesmo que o paciente não ligue.**
+  - *Argumento:* A presença do terapeuta faz parte do enquadre; ficar com a câmera desligada 'é forte'.
+  - *Contra quem / contraponto:* A informalidade dos encontros online.
+  - *Implicação prática:* Regra de enquadre para atendimento e treino online.
+  - Facilitadores (fala coletiva na abertura) · [[Acervo 19 - Dinâmica de troca - roleplay em revezamento]] [▶ 0:00:00](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=0s)
+- **Se cada caso exige uma psicologia feita e refeita, cada plantão é isso ao extremo.**
+  - *Argumento:* O plantão exige criatividade e expertise sobre contexto, setting e pessoa, e chega com expectativas transferenciais próprias.
+  - *Contra quem / contraponto:* Protocolos rígidos de plantão.
+  - *Implicação prática:* Formação contínua e troca de experiências entre plantonistas.
+  - Malu · [[Acervo 20 - Mesa de estudos sobre plantão psicológico]] [▶ 0:31:23](https://www.youtube.com/watch?v=PmJtmPKYBSY&t=1883s)
+- **Linguagem clínica se melhora com treino e estudo.**
+  - *Argumento:* Auto-observação, gravação das próprias intervenções e estudo de formas de dizer sem dar conselho rígido.
+  - *Contra quem / contraponto:* Diogo concorda e acrescenta que o como também depende da função.
+  - *Implicação prática:* Prática deliberada de construção frasal.
+  - participante · [[Acervo 25 - Linguagem clínica e função da intervenção]] [▶ 0:18:34](https://www.youtube.com/watch?v=gVE5nBobukU&t=1114s)
+- **Distorção cognitiva não deve ser entendida como 'pensamento errado'.**
+  - *Argumento:* Para a pessoa, a crença é o certo, sua forma de sobrevivência e o modo como aprendeu a existir.
+  - *Contra quem / contraponto:* Uma TCC 'bruta, clássica' que apontaria a distorção.
+  - *Implicação prática:* Validar a história de vida antes de questionar a crença.
+  - A aluna supervisionada · [[Monitoria 10 - João de Bragança - Dor somática, resistência e hipóteses revisáveis]] [▶ 0:37:35](https://www.youtube.com/watch?v=8Ii4P31GGsU&t=2255s)
+- **A psicoterapia funciona, mas não melhorou em 40 anos.**
+  - *Argumento:* As metanálises mostram um efeito comparável ao da revascularização do miocárdio, mas mais de 800 mil publicações não produziram ganho de eficácia na área.
+  - *Contra quem / contraponto:* A suposição de que o progresso científico se traduz automaticamente em melhores resultados clínicos.
+  - *Implicação prática:* O gargalo não é falta de conhecimento, é a forma como os terapeutas treinam.
+  - Bernardo · [[PD 01 - Estagnação da psicoterapia e limites da experiência]] [▶ 0:15:23](https://www.youtube.com/watch?v=rPXu2D7MkAc&t=923s)
+- **Os terapeutas não podem saber se são eficazes nem se estão melhorando.**
+  - *Argumento:* Só dispõem de impressões pessoais e de feedback informal, ambos enviesados. Sem avaliação válida do desempenho, também não sabem que instrução os ajudaria.
+  - *Contra quem / contraponto:* A crença de que supervisão, cursos, leituras, experiência e 'os clientes como melhores professores' garantem a melhora.
+  - *Implicação prática:* O desenvolvimento profissional precisa de medida e de feedback sobre o desempenho real.
+  - Bernardo · [[PD 01 - Estagnação da psicoterapia e limites da experiência]] [▶ 0:33:41](https://www.youtube.com/watch?v=rPXu2D7MkAc&t=2021s)
+- **A insegurança é a salvação do terapeuta.**
+  - *Argumento:* É desprazerosa, mas é o que tira o profissional do automatismo e o coloca em deliberação.
+  - *Contra quem / contraponto:* A busca por eliminar a insegurança como meta da formação.
+  - *Implicação prática:* Grupos de formação devem cultivar a dúvida em vez de puni-la.
+  - Bernardo · [[PD 01 - Estagnação da psicoterapia e limites da experiência]] [▶ 0:50:26](https://www.youtube.com/watch?v=rPXu2D7MkAc&t=3026s)
+- **A prática deliberada é a promessa mais confiável de melhora contínua, embora modesta.**
+  - *Argumento:* Num estudo com 153 terapeutas numa instituição comunitária, a melhora foi contínua durante 7 anos.
+  - *Contra quem / contraponto:* O próprio facilitador ressalva que é uma 'possível promessa', que não se sabe se ela se sustenta a longo prazo e que a melhora é leve.
+  - *Implicação prática:* Expectativas realistas: ganhos pequenos, graduais e cumulativos.
+  - Bernardo · [[PD 01 - Estagnação da psicoterapia e limites da experiência]] [▶ 0:53:36](https://www.youtube.com/watch?v=rPXu2D7MkAc&t=3216s)
+- **Especialistas nascem e são construídos, mas o que interessa à formação é o trabalho duro.**
+  - *Argumento:* O talento tem base multifatorial, mas vem cru e precisa ser polido. A genética não está sob nosso controle, o trabalho está.
+  - *Contra quem / contraponto:* A visão puramente inatista e, do lado do grupo, a crítica ao 'duro' do trabalho duro (burnout).
+  - *Implicação prática:* Concentrar a formação no que pode ser treinado.
+  - Bernardo · [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] [▶ 0:15:15](https://www.youtube.com/watch?v=CJcmtL3mNy4&t=915s)
+- **Como se pratica importa mais do que quanto se pratica.**
+  - *Argumento:* Ericsson (1993): os melhores músicos praticavam com metas, concentração, feedback e treinadores, e descansavam mais.
+  - *Contra quem / contraponto:* O senso comum de que 'a prática leva à perfeição' por mera repetição.
+  - *Implicação prática:* Planejar o treino pela qualidade, não pelas horas.
+  - Bernardo · [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] [▶ 0:18:48](https://www.youtube.com/watch?v=CJcmtL3mNy4&t=1128s)
+- **Atender muitos pacientes não torna ninguém um terapeuta melhor.**
+  - *Argumento:* O volume sem deliberação gera vícios, dessensibilização e esgotamento; o achado de Ericsson sobre qualidade e descanso vale para a clínica.
+  - *Contra quem / contraponto:* Quem acredita que é preciso atender 20 pacientes por dia para se desenvolver.
+  - *Implicação prática:* Uma agenda sustentável e prática deliberada fora da sessão.
+  - Bernardo e participantes · [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] [▶ 0:19:55](https://www.youtube.com/watch?v=CJcmtL3mNy4&t=1195s)
+- **A prática deliberada é o método mais eficaz baseado em evidências para melhorar o desempenho, e está subinvestida.**
+  - *Argumento:* Metanálise de 2014 com r = 0,35, maior que as correlações de obesidade, álcool e tabagismo com mortalidade, que recebem enormes investimentos.
+  - *Contra quem / contraponto:* Uma participante lembra que a mortalidade é mais grave que o desempenho; o facilitador concede, mas defende o desempenho clínico diante da estagnação.
+  - *Implicação prática:* Levar o treino de desempenho tão a sério quanto o estudo teórico.
+  - Bernardo · [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] [▶ 0:29:13](https://www.youtube.com/watch?v=CJcmtL3mNy4&t=1753s)
+- **Pedir e receber feedback sobre a própria condução já é prática deliberada.**
+  - *Argumento:* O feedback é um dos princípios da PD, a ser apresentado na aula seguinte.
+  - *Implicação prática:* Quem conduz grupos de treino deve modelar a busca de feedback.
+  - Bernardo · [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] [▶ 0:59:49](https://www.youtube.com/watch?v=CJcmtL3mNy4&t=3589s)
+- **Atender não é treinar; experiência de atendimento não é prática.**
+  - *Argumento:* Na literatura de PD, performance é o ato de atender e prática é o momento de treino (analogia da pelada).
+  - *Contra quem / contraponto:* O sentido comum de prática clínica como atuação.
+  - *Implicação prática:* É preciso reservar tempo e estrutura de treino; acumular horas de clínica não basta.
+  - Bernardo · [[PD 03 - Os quatro pilares da prática deliberada]] [▶ 0:03:54](https://www.youtube.com/watch?v=demM9dPaAdg&t=234s)
+- **A supervisão baseada apenas em relato de caso é insuficiente e até irresponsável.**
+  - *Argumento:* O relato é filtrado pela percepção de quem atende; o estagiário pode inventar ou distorcer; o supervisor responde legalmente sem saber o que ocorreu.
+  - *Contra quem / contraponto:* A cultura brasileira de sacralidade da sessão; outros países já gravam sessões com consentimento.
+  - *Implicação prática:* Incluir observação direta (gravação, roleplay) na supervisão.
+  - Bernardo (a partir da fala de um participante) · [[PD 03 - Os quatro pilares da prática deliberada]] [▶ 0:22:56](https://www.youtube.com/watch?v=demM9dPaAdg&t=1376s)
+- **A mera repetição não leva à excelência; só torna permanente o que é repetido.**
+  - *Argumento:* Sem objetivos na zona proximal, sem um treinador que isole erros e sem feedback contínuo, a repetição apenas automatiza.
+  - *Implicação prática:* Todo treino precisa de objetivo, plano e retorno.
+  - Bernardo, a partir do Better Results · [[PD 03 - Os quatro pilares da prática deliberada]] [▶ 0:44:10](https://www.youtube.com/watch?v=demM9dPaAdg&t=2650s)
+- **Existem habilidades fundamentais comuns a todas as abordagens, que devem ser treinadas como fundamentos.**
+  - *Argumento:* Analogia do técnico que só treinava fundamentos; exemplos: primeira sessão, ruptura, relação, alta.
+  - *Implicação prática:* Montar treinos por habilidade, não por abordagem.
+  - Bernardo · [[PD 03 - Os quatro pilares da prática deliberada]] [▶ 0:30:59](https://www.youtube.com/watch?v=demM9dPaAdg&t=1859s)
+- **A motivação é o gargalo da prática deliberada.**
+  - *Argumento:* Objetivos fora da zona proximal desmotivam; praticar é chato, exige desconstruir-se e combater automaticidades; nem os autores do livro resolveram a adesão.
+  - *Implicação prática:* Quem desenha grupos de treino precisa calibrar a dificuldade e tornar a prática mais leve ou divertida (a Allos teria formas alternativas).
+  - Bernardo · [[PD 03 - Os quatro pilares da prática deliberada]] [▶ 0:45:21](https://www.youtube.com/watch?v=demM9dPaAdg&t=2721s)
+- **O terapeuta deveria se mostrar curioso sobre o que o paciente acha da terapia.**
+  - *Argumento:* Pedir feedback abre conversa e transparência; os estudos de monitoramento mostram menos evasão.
+  - *Contra quem / contraponto:* Não há regra; é caso a caso.
+  - *Implicação prática:* Incluir momentos de pedido de feedback no processo.
+  - Bernardo · [[PD 03 - Os quatro pilares da prática deliberada]] [▶ 0:32:04](https://www.youtube.com/watch?v=demM9dPaAdg&t=1924s)
+- **Não dá para confiar só no próprio julgamento para saber se somos bons terapeutas.**
+  - *Argumento:* Estudos sobre o viés de superioridade ilusória: superestimam acertos, subestimam pioras, não se corrigem com a experiência.
+  - *Implicação prática:* Adotar mensuração e feedback externo.
+  - Bernardo, a partir do Better Results · [[PD 04 - Linha de base e medidas de resultado]] [▶ 0:05:48](https://www.youtube.com/watch?v=Bfbrb4bujbo&t=348s)
+- **Não há consenso sobre o que é melhora em psicoterapia, e isso é um obstáculo para a prática deliberada.**
+  - *Argumento:* Múltiplos referenciais; falta até um estudo sobre o consenso entre terapeutas.
+  - *Implicação prática:* Para a PD entrar no mainstream é preciso construir consensos.
+  - Bernardo · [[PD 04 - Linha de base e medidas de resultado]] [▶ 0:16:31](https://www.youtube.com/watch?v=Bfbrb4bujbo&t=991s)
+- **A resistência a medir na psicologia é cultural.**
+  - *Argumento:* Medir é incomum e malvisto, mas é a única alternativa ao juízo enviesado.
+  - *Contra quem / contraponto:* A preocupação com quantificar pessoas.
+  - *Implicação prática:* Medir com propósito e transformar números em informação.
+  - Bernardo · [[PD 04 - Linha de base e medidas de resultado]] [▶ 0:10:50](https://www.youtube.com/watch?v=Bfbrb4bujbo&t=650s)
+- **O feedback não é conhecimento generalizável; a experiência não garante aprendizado transferível.**
+  - *Argumento:* Nos estudos de Lambert, só melhoraram os casos com feedback; o feedback é uma fotografia de uma relação.
+  - *Contra quem / contraponto:* A ideia de que o terapeuta experiente acumula saber aplicável a qualquer paciente; a participante que sugeriu um meio-termo.
+  - *Implicação prática:* Monitorar continuamente cada caso.
+  - Bernardo · [[PD 05 - Problemas da mensuração, aliança e auto-observação]] [▶ 0:35:46](https://www.youtube.com/watch?v=7aHutJ-HDWk&t=2146s)
+- **Prática deliberada é muito mais do que mensuração.**
+  - *Argumento:* A mensuração é só um quadrado do ciclo; entram também supervisão, mapa de competências, formulação de caso, gravação, objetivos, exercícios e aplicação.
+  - *Contra quem / contraponto:* Leitura que reduz a PD a escalas e escores.
+  - *Implicação prática:* Não confundir medir com praticar deliberadamente.
+  - Bernardo · [[PD 06 - Métricas de resultado e a tocha na caverna]] [▶ 0:03:24](https://www.youtube.com/watch?v=MHDlojceuEk&t=204s)
+- **A supervisão baseada só em relato de caso é pouco confiável.**
+  - *Argumento:* O relato chega filtrado pelas percepções do terapeuta, e o feedback recai sobre o que foi escrito, não sobre o que aconteceu.
+  - *Contra quem / contraponto:* Modelo tradicional de supervisão.
+  - *Implicação prática:* Levar dados, gravações e mapa à supervisão.
+  - Bernardo · [[PD 06 - Métricas de resultado e a tocha na caverna]] [▶ 0:02:09](https://www.youtube.com/watch?v=MHDlojceuEk&t=129s)
+- **Exigir 40 a 60 casos para começar a PD é inviável; fundamentos podem ser treinados sem dados.**
+  - *Argumento:* Muitos terapeutas levariam anos para chegar a esse número; a exigência é estatística, mas saber caminhar não depende da tocha (exemplo do jogador de futebol).
+  - *Contra quem / contraponto:* Autores de Better Results (Scott Miller e colegas); a crítica foi levada a Miller pelo Alan.
+  - *Implicação prática:* Os grupos de aprimoramento da Allos treinam fundamentos independentemente de mensuração.
+  - Bernardo (posição da Allos) · [[PD 06 - Métricas de resultado e a tocha na caverna]] [▶ 0:13:45](https://www.youtube.com/watch?v=MHDlojceuEk&t=825s)
+- **Estar na média em psicoterapia já é bom, mas há terapeutas fora da curva, e por isso vale treinar.**
+  - *Argumento:* A psicoterapia tem efeito comparável ou superior a muitos procedimentos de saúde; se não houvesse terapeutas superiores haveria um teto intransponível.
+  - *Contra quem / contraponto:* Desânimo de quem tira zero no efeito relativo; acomodação.
+  - *Implicação prática:* Buscar melhora sem catastrofizar a média.
+  - Bernardo (a partir do livro) · [[PD 06 - Métricas de resultado e a tocha na caverna]] [▶ 0:31:58](https://www.youtube.com/watch?v=MHDlojceuEk&t=1918s)
+- **A mensuração ajuda, mas não é obrigatória para fazer PD, e as escalas atuais não são absolutas.**
+  - *Argumento:* Há críticas às escalas; a Allos pretende propor uma nova escala; sem tocha ainda há supervisor, mapa e gravação.
+  - *Contra quem / contraponto:* PD centrada nos dados.
+  - *Implicação prática:* Começar pela supervisão e pelo treino de competências mesmo sem sistema de medida.
+  - Bernardo (posição da Allos) · [[PD 06 - Métricas de resultado e a tocha na caverna]] [▶ 0:54:14](https://www.youtube.com/watch?v=MHDlojceuEk&t=3254s)
+- **Não é preciso ter 60 casos mensurados para treinar fundamentos clínicos.**
+  - *Argumento:* A tocha ilumina mas não ensina a caminhar; os grupos de aprimoramento treinam abrir, encerrar, ruptura e hostilidade sem dados estatísticos.
+  - *Contra quem / contraponto:* Autores de Better Results: abaixo de 60 casos os dados enganam.
+  - *Implicação prática:* Começar já o treino de habilidades, em grupo.
+  - Bernardo (posição da Allos) · [[PD 07 - Caso Eta e o modo de aplicar escalas]] [▶ 0:19:04](https://www.youtube.com/watch?v=CgJ7V3S3CT0&t=1144s)
+- **Receber feedback negativo é uma habilidade que a graduação não ensina.**
+  - *Argumento:* Eta só avança quando aceita que o problema pode estar nela.
+  - *Contra quem / contraponto:* Formação que não treina essa competência.
+  - *Implicação prática:* Incluir o treino de pedir e receber crítica na formação.
+  - Supervisor do caso, endossado pelo Bernardo · [[PD 07 - Caso Eta e o modo de aplicar escalas]] [▶ 0:25:48](https://www.youtube.com/watch?v=CgJ7V3S3CT0&t=1548s)
+- **Administrar escala de feedback é o contrário de aplicar teste psicológico.**
+  - *Argumento:* No teste se minimiza a influência; aqui se ajuda o paciente a expressar o que pensou, especialmente o ruim.
+  - *Contra quem / contraponto:* Mensuração tratada como burocracia.
+  - *Implicação prática:* Estar presente e responsivo durante o preenchimento.
+  - Supervisor do caso e Bernardo · [[PD 07 - Caso Eta e o modo de aplicar escalas]] [▶ 0:38:32](https://www.youtube.com/watch?v=CgJ7V3S3CT0&t=2312s)
+- **O relato de caso não basta; gravar e transcrever deveria virar cultura em qualquer abordagem.**
+  - *Argumento:* O relato vem filtrado por percepções e vieses; com gravação o supervisor orienta com muito mais precisão, mesmo sem mensuração.
+  - *Contra quem / contraponto:* Supervisão tradicional por relato; raridade da gravação na prática brasileira.
+  - *Implicação prática:* Gravar com consentimento e levar trechos à supervisão.
+  - Bernardo · [[PD 07 - Caso Eta e o modo de aplicar escalas]] [▶ 0:43:10](https://www.youtube.com/watch?v=CgJ7V3S3CT0&t=2590s)
+- **O objetivo de aprendizagem é móvel e segue os dados.**
+  - *Argumento:* Se a hipótese muda (ex.: encerramento de sessão), muda o que se treina.
+  - *Contra quem / contraponto:* Planos de formação fixos.
+  - *Implicação prática:* Revisar objetivos a cada ciclo de supervisão.
+  - Bernardo · [[PD 07 - Caso Eta e o modo de aplicar escalas]] [▶ 0:50:50](https://www.youtube.com/watch?v=CgJ7V3S3CT0&t=3050s)
+- **A variação de eficácia entre e dentro dos terapeutas é enorme.**
+  - *Argumento:* Saxon e Barkham: recuperação de 23,5% a 95,6%; variação de hora em hora e de cliente para cliente.
+  - *Contra quem / contraponto:* A ideia de que terapeutas formados entregam resultados parecidos.
+  - *Implicação prática:* Justifica monitoramento e treino individual.
+  - Bernardo (a partir do livro) · [[PD 08 - Monitoramento rotineiro e como pedir feedback]] [▶ 0:14:00](https://www.youtube.com/watch?v=14Zp9T2ptSA&t=840s)
+- **O monitoramento rotineiro é armadura e alarme, mas não prescreve.**
+  - *Argumento:* Os escores sinalizam o risco, mas não dizem o que fazer nem distinguem evento aleatório de erro recorrente.
+  - *Contra quem / contraponto:* A crença de que medir basta.
+  - *Implicação prática:* Sempre cruzar medida, gravação e supervisão.
+  - Bernardo (a partir do livro) · [[PD 08 - Monitoramento rotineiro e como pedir feedback]] [▶ 0:22:27](https://www.youtube.com/watch?v=14Zp9T2ptSA&t=1347s)
+- **A forma da pergunta de feedback determina se o feedback vem.**
+  - *Argumento:* A pergunta vaga, avaliativa e pessoal de Eta rendeu 'foi tudo bem' com nota baixa; perguntas descritivas, diretas, orientadas à tarefa e impessoais geram feedback acionável.
+  - *Contra quem / contraponto:* A pergunta acolhedora e genérica.
+  - *Implicação prática:* Treinar e roteirizar o pedido de feedback.
+  - Supervisor do caso, endossado pelo Bernardo · [[PD 08 - Monitoramento rotineiro e como pedir feedback]] [▶ 0:30:13](https://www.youtube.com/watch?v=14Zp9T2ptSA&t=1813s)
+- **Pronomes pessoais reduzem a chance de feedback.**
+  - *Argumento:* Colocam o cliente na posição de criticar o terapeuta e escancaram a presença (efeito Hawthorne; criança e pote de doces).
+  - *Contra quem / contraponto:* A intuição de que personalizar a pergunta aproxima.
+  - *Implicação prática:* Impessoalidade no momento do feedback.
+  - Supervisor do caso e Bernardo · [[PD 08 - Monitoramento rotineiro e como pedir feedback]] [▶ 0:36:39](https://www.youtube.com/watch?v=14Zp9T2ptSA&t=2199s)
+- **O platô é normal na prática deliberada, e parar nele leva a declínio.**
+  - *Argumento:* Progresso alterna com estabilização e rendimentos decrescentes; quem continua volta a subir levemente.
+  - *Contra quem / contraponto:* 'Só dá para espremer uma laranja até certo ponto.'
+  - *Implicação prática:* Manter o ciclo mesmo quando os ganhos parecem esgotados.
+  - Supervisor do caso e Bernardo · [[PD 08 - Monitoramento rotineiro e como pedir feedback]] [▶ 0:27:24](https://www.youtube.com/watch?v=14Zp9T2ptSA&t=1644s)
+- **A prática deliberada é lenta e desconfortável por natureza.**
+  - *Argumento:* Focar nos erros e reverter o automático dá sensação de incompetência; 'isto é a essência da PD'.
+  - *Contra quem / contraponto:* Expectativa de melhora rápida e agradável.
+  - *Implicação prática:* Preparar quem treina para o desconforto.
+  - Supervisor do caso · [[PD 08 - Monitoramento rotineiro e como pedir feedback]] [▶ 0:33:17](https://www.youtube.com/watch?v=14Zp9T2ptSA&t=1997s)
+
+## Relacionados
+- [[MOC - Teses e posicionamentos]]

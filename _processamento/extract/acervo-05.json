@@ -1,0 +1,725 @@
+{
+ "id": "acervo-05",
+ "nota": "Acervo 05 - O corpo na clínica e a discrepância fala-corpo",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "O corpo na clínica e a discrepância fala-corpo",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Aprimoramento clínico (roleplay com observadores)",
+ "facilitadores": [
+  "Rodolfo"
+ ],
+ "resumo": "Rodolfo, substituindo o facilitador habitual (Diogo), abre explicando que o aprimoramento treina fatores comuns, habilidades transteóricas úteis a qualquer abordagem. O tema é o uso do corpo na clínica, sobretudo a discrepância entre o que o paciente diz e o que o corpo expressa. Depois de uma pergunta de ativação ao grupo e de uma contextualização curta (o corpo revela o que a fala oculta; o online limita, mas não impede), uma colaboradora faz uma paciente simulada que 'joga com o corpo' e uma participante voluntária atende por 15 minutos, observada pelo grupo. No debriefing, o facilitador liga a devolução descritiva do sorriso incongruente à redução fenomenológica, revela um gesto repetido que ninguém comentou e lembra que o corpo do terapeuta também intervém. A segunda metade vira discussão sobre vínculo, invasividade e medo de confrontar, fechando nas teses 'não existe intervenção errada, existe não saber bancar as consequências' e 'a diretividade deve seguir o estágio de mudança'.",
+ "em_uma_frase": "Muitas vezes a boca diz uma coisa e o corpo outra. O terapeuta pode perceber essa discrepância e devolvê-la de forma descritiva, e o encontro treina isso com um roleplay observado, terminando numa tese sobre coragem clínica: não existe intervenção errada, existe não saber bancar as consequências dela.",
+ "competencias": [
+  "Escuta clínica",
+  "Intervenção",
+  "Relação terapêutica",
+  "Pessoa do terapeuta",
+  "Direção do tratamento"
+ ],
+ "abordagens": [
+  "Fenomenologia e existencialismo"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Abertura",
+   "descricao": "Duração prevista e explicação do que é o aprimoramento: fatores específicos x fatores comuns, habilidades transteóricas (abertura/fechamento, construção de frase, empatia).",
+   "funcao": "Situar o grupo e legitimar a presença de todas as abordagens.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:01:57",
+   "bloco": "Teoria",
+   "descricao": "Apresenta o tema (corpo na clínica, discrepância fala-corpo) e a colaboradora. Exemplo do paciente que desvia o olhar e baixa a voz ao surgir um assunto delicado.",
+   "funcao": "Dar a imagem-guia antes de qualquer conceito.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:04:10",
+   "bloco": "Discussão",
+   "descricao": "Pergunta de ativação: 'dá para usar o corpo na clínica? Por quê?' Respostas por voz e chat (terapias integrativas, psicossomática, cautela).",
+   "funcao": "Ativar o repertório prévio e medir o grupo.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:08:16",
+   "bloco": "Teoria",
+   "descricao": "O corpo revela o que a fala oculta ou minimiza. Postura, expressões faciais, psicossomática (exemplo pessoal), limites do atendimento online.",
+   "funcao": "Teoria mínima e concreta que justifica o exercício.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:12:05",
+   "bloco": "Combinados",
+   "descricao": "Consigna do roleplay (15 min), foco exclusivo em intervenções sobre o corpo, diferença em relação ao grupo de prática, recrutamento da terapeuta voluntária, cronômetro e sinal de mão levantada, enquadre de sessão de continuidade.",
+   "funcao": "Dar tarefa clara aos papéis e proteger o foco.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:17:15",
+   "bloco": "Dinâmica",
+   "descricao": "Atendimento simulado. A terapeuta aponta o sorriso e a gesticulação diante de um relato de crise, a voz mais aguda e depois a mudança de ritmo, intercalando normalização e síntese.",
+   "funcao": "Prática ao vivo com a plateia observando o corpo.",
+   "duracao_min": 16
+  },
+  {
+   "ts": "0:33:29",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Descompressão: 'como vocês estão?'. A paciente comenta que a história tinha base real.",
+   "funcao": "Desfazer o papel antes da análise.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:35:25",
+   "bloco": "Feedback",
+   "descricao": "Observadores primeiro (sorriso incongruente, gestos de externalização e internalização), depois a terapeuta ('como foi para você?'). O facilitador nomeia a redução fenomenológica.",
+   "funcao": "Análise centrada no tema, do grupo para o facilitador.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:43:47",
+   "bloco": "Feedback",
+   "descricao": "O facilitador acrescenta o corpo do terapeuta (câmera, gestos), o gesto repetido da mão no peito que ninguém comentou, o tom de voz e a amplificação do fenômeno. A terapeuta e outros participantes respondem.",
+   "funcao": "Mostrar o que passou despercebido e ampliar o conceito.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:49:10",
+   "bloco": "Dúvidas",
+   "descricao": "Corpo e mente. 'Onde a fala não alcança, vem o corpo.' Como apontar sem ser invasivo? E sem vínculo? O facilitador responde e dá o exemplo de uma intervenção sobre a relação ('estamos mais distantes hoje').",
+   "funcao": "Levar a técnica para o manejo da relação.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:55:21",
+   "bloco": "Discussão",
+   "descricao": "'Não existe intervenção errada.' Relatos de participantes sobre apontamentos de aparência que feriram ou ajudaram. Bancar a intervenção.",
+   "funcao": "Tirar o medo de intervir sem perder o cuidado.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:02:54",
+   "bloco": "Dúvidas",
+   "descricao": "'Até que ponto segurar uma intervenção necessária?' O terapeuta como conservador por medo. Estágios de mudança (paciente que nega problema com álcool).",
+   "funcao": "Critério para calibrar a diretividade.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:05:57",
+   "bloco": "Fechamento",
+   "descricao": "Conta que substitui o Diogo, passa o formulário de presença (horas complementares e avaliação) e para a gravação para ouvir opiniões sobre o grupo.",
+   "funcao": "Coletar feedback e encerrar.",
+   "duracao_min": 2
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Fatores comuns",
+   "definicao": "Elementos compartilhados por todas as psicoterapias que, para um dos grupos do debate, explicam a eficácia da terapia. São o objeto do aprimoramento clínico.",
+   "exemplo": "Abertura e fechamento de sessão, construção de frase, empatia.",
+   "abordagem": "",
+   "ts": "0:01:02"
+  },
+  {
+   "nome": "Fatores específicos",
+   "definicao": "Elementos próprios de cada abordagem. Para o outro grupo do debate, são eles que fazem a terapia funcionar.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:00:00"
+  },
+  {
+   "nome": "Psicologia transteórica",
+   "definicao": "Aqui, a ideia de que as habilidades treinadas no aprimoramento atravessam as abordagens e servem a clínicos de TCC, psicanálise ou humanista.",
+   "exemplo": "'Tem espaço aqui para todo mundo.'",
+   "abordagem": "",
+   "ts": "0:01:02"
+  },
+  {
+   "nome": "Comunicação não verbal",
+   "definicao": "Postura, expressões faciais, olhar, gestos e voz, pelos quais o paciente comunica o que não verbaliza ou tenta minimizar.",
+   "exemplo": "Paciente que chega com o peito estufado. Olhar que desvia num tema delicado.",
+   "abordagem": "",
+   "ts": "0:08:16"
+  },
+  {
+   "nome": "Discrepância entre fala e corpo",
+   "definicao": "Quando o conteúdo do discurso aponta numa direção e o corpo expressa outra. É frequente e pode ser usada como gancho de intervenção.",
+   "exemplo": "Relatar uma crise de choro sorrindo e gesticulando.",
+   "abordagem": "",
+   "ts": "0:01:57"
+  },
+  {
+   "nome": "Redução fenomenológica",
+   "definicao": "Suspender os próprios juízos e, ao constatar um fenômeno, comunicá-lo ao paciente. É a lógica da devolução descritiva de um sinal corporal.",
+   "exemplo": "'Você fala disso sorrindo, gesticulando bastante. É isso mesmo?'",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "0:36:46"
+  },
+  {
+   "nome": "Psicossomática",
+   "definicao": "Manifestação corporal do que está retido psiquicamente, citada como evidência de que o corpo 'não esconde nada'.",
+   "exemplo": "O facilitador conta uma reação de pele intensa numa fase difícil, sem sentir tanto sofrimento internamente.",
+   "abordagem": "",
+   "ts": "0:09:17"
+  },
+  {
+   "nome": "Amplificação do fenômeno",
+   "definicao": "Devolver um sinal do paciente intensificando-o no próprio corpo do terapeuta, para torná-lo perceptível.",
+   "exemplo": "Quando o cliente engrossou a voz, o terapeuta engrossou junto.",
+   "abordagem": "",
+   "ts": "0:44:48"
+  },
+  {
+   "nome": "Uso do corpo pelo terapeuta",
+   "definicao": "Gestos, voz, olhar e distância da câmera como instrumentos deliberados de intervenção e também como sinais involuntários que o terapeuta precisa monitorar.",
+   "exemplo": "Gesticular para 'destrinchar' um problema. Afastar-se e reaproximar-se da câmera. O 'olhar de volta' que o paciente aprende a ler.",
+   "abordagem": "",
+   "ts": "0:43:47"
+  },
+  {
+   "nome": "Intervenção sobre a relação",
+   "definicao": "Falar da relação terapêutica no aqui e agora. Terapeutas evitam mesmo percebendo, e ela exige coragem.",
+   "exemplo": "'Estou percebendo que a gente está mais distante hoje. Você está percebendo isso também?'",
+   "abordagem": "",
+   "ts": "0:54:20"
+  },
+  {
+   "nome": "Confronto clínico",
+   "definicao": "Apontar ao paciente algo que ele não vê ou evita. É temido pelos iniciantes e adiado com a justificativa do vínculo, mas às vezes necessário para 'sair do lugar'.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:53:12"
+  },
+  {
+   "nome": "Bancar a intervenção",
+   "definicao": "Responsabilizar-se pelas consequências de uma intervenção e trabalhá-las com o paciente. Daí a máxima 'não existe intervenção errada, existe não saber lidar com as consequências'.",
+   "exemplo": "Um apontamento sobre a roupa da paciente pode traumatizar se o desconforto não for conversado, ou ajudar se for.",
+   "abordagem": "",
+   "ts": "1:02:01"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "Chamada aqui de 'vínculo'. O medo de rompê-la torna o terapeuta conservador, mas o desconforto gerado por uma intervenção pode ser trabalhado nela.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:52:16"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "Modelo usado na Allos para alinhar a intervenção ao estágio do processo de transformação do paciente. Com quem está em negação, intervenções diretivas tendem a não funcionar.",
+   "exemplo": "Paciente que diz não ter problema com álcool enquanto o processo mostra dificuldade.",
+   "abordagem": "",
+   "ts": "1:04:16"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Roleplay com foco no corpo",
+   "objetivo": "Tornar visível e treinável a leitura de sinais corporais no atendimento, sobretudo a discrepância entre fala e corpo, e praticar intervenções que toquem nesse aspecto.",
+   "competencias": [
+    "Escuta clínica",
+    "Intervenção",
+    "Relação terapêutica"
+   ],
+   "configuracao": "Grupo online pequeno (~8 pessoas). Uma colaboradora combinada antes faz a paciente simulada e é instruída a 'jogar muito com o corpo'. Uma voluntária faz a terapeuta, de preferência alguém que ainda não atende. Os demais observam com a tarefa de prestar atenção no corpo da paciente e participam por microfone ou chat. As câmeras da paciente e da terapeuta ficam fixadas.",
+   "tempo": "~5 min de consigna, 15 min de roleplay, 2 min de descompressão, ~13 min de debriefing, 15-20 min de discussão",
+   "materiais": "Cronômetro, sinal combinado de encerramento (mão levantada no Meet), história da paciente (real ou inventada) com incongruências corporais.",
+   "consigna": "Vamos simular um atendimento de 15 minutos. Ela vai trazer uma história e vai jogar muito com o corpo. Quem fizer o terapeuta, procure, em certos momentos, fazer intervenções que toquem nesse aspecto do corpo, do jeito que fizer sentido para você. Quem está assistindo, preste atenção no corpo dela. Hoje não vamos discutir o atendimento em geral, como no grupo de prática, só as intervenções relacionadas ao corpo.",
+   "passos": [
+    "Antes do grupo, combinar com a colaboradora o papel de paciente e a ênfase corporal.",
+    "Fazer a contextualização teórica curta e a pergunta de ativação.",
+    "Explicar a consigna, os papéis e o foco do debriefing.",
+    "Recrutar a terapeuta, com prioridade a quem ainda não atende (sorteio se houver mais interessados). Opção: duas rodadas de 10 min, uma com alguém experiente e outra com um iniciante.",
+    "Combinar o enquadre: pode ser sessão de continuidade.",
+    "Rodar 15 min cronometrados e levantar a mão para sinalizar o encerramento.",
+    "Descompressão: 'como vocês estão?'.",
+    "Debriefing na ordem observadores → terapeuta → facilitador, sempre pelo recorte do corpo.",
+    "Abrir para dúvidas e discussão sobre outras intervenções possíveis e suas consequências."
+   ],
+   "feedback": "Sem nota nem regras formais. O critério implícito é descrever o fenômeno sem julgá-lo e devolvê-lo ao paciente, depois observar o efeito. O facilitador reforça os acertos nomeando o princípio (redução fenomenológica), revela o que ninguém viu (gesto repetido) e amplia para o corpo do terapeuta (câmera, gestos, voz, amplificação).",
+   "exemplos_praticos": "A terapeuta questionou a ideia de que algo 'invisível' tivesse causado a crise, apontou o sorriso e a gesticulação diante de um relato de sofrimento, a voz mais aguda e depois a mudança de ritmo, intercalou normalização e fechou com síntese e sugestão. Avaliou que 'podia ter finalizado melhor'. Os observadores notaram primeiro o sorriso e depois os gestos de externalização e internalização. O gesto repetido da mão no peito só apareceu quando o facilitador o revelou. A 'paciente' contou depois que a história tinha base real.",
+   "variacoes": "Duas rodadas curtas com terapeutas diferentes e a mesma paciente, comparando as versões. Planejar incongruências corporais específicas no roteiro da paciente. Versão presencial com corpo inteiro visível.",
+   "armadilhas": "Só uma pessoa pratica. Voluntário entrando num 'recorte' de processo sem história prévia ('trocar o pneu com o carro andando'). Silêncio dos observadores no debriefing (contornar perguntando primeiro ao terapeuta). Material pessoal real da colaboradora (cuidar da exposição e da descompressão). Terapeuta derivando para psicoeducação em vez de intervir sobre o corpo.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:12:05"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Contextualizar o formato antes do tema",
+   "descricao": "Explica fatores comuns x específicos para justificar por que o grupo é transteórico.",
+   "exemplo": "'Eu acho que o pessoal geralmente não faz isso nos grupos, mas acho legal dar esse contexto.'",
+   "ts": "0:00:00"
+  },
+  {
+   "movimento": "Pergunta de ativação antes da teoria",
+   "descricao": "Pergunta ao grupo se dá para usar o corpo na clínica e pede justificativa. Só depois completa a teoria, retomando as falas.",
+   "exemplo": "'Vocês acham que dá para usar o corpo na clínica? Se sim, por quê? Quero que justifiquem.'",
+   "ts": "0:04:10"
+  },
+  {
+   "movimento": "Declarar segurança psicológica",
+   "descricao": "Autoriza o erro e o chute para destravar a participação.",
+   "exemplo": "'Fiquem à vontade para errar, para chutar; não existe exatamente resposta certa.' 'Ninguém morde aqui.'",
+   "ts": "0:07:22"
+  },
+  {
+   "movimento": "Integrar o chat",
+   "descricao": "Lê comentários em voz alta, valida e convida a pessoa a desenvolver por voz ou por escrito.",
+   "exemplo": "'Você quer comentar mais? O que você acha que é importante analisar?'",
+   "ts": "0:06:49"
+  },
+  {
+   "movimento": "Autorrevelação como exemplo",
+   "descricao": "Usa experiências próprias (reação psicossomática, intervenção feita no mesmo dia, medo de confrontar no começo da carreira) para ilustrar e normalizar.",
+   "exemplo": "'Eu fui atender um paciente hoje mais cedo... falei: estou percebendo que a gente está mais distante hoje.'",
+   "ts": "0:53:12"
+  },
+  {
+   "movimento": "Paciente simulada preparada com ênfase",
+   "descricao": "Combina antes com uma colaboradora que exagere o corpo, garantindo material observável.",
+   "exemplo": "'Ela vai trazer uma história... e ela vai jogar muito com o corpo.'",
+   "ts": "0:12:05"
+  },
+  {
+   "movimento": "Tarefa de atenção para os observadores e proteção do foco",
+   "descricao": "Diz o que observar e restringe a discussão ao tema. Chega a interromper o início do roleplay para lembrar o chat.",
+   "exemplo": "'Prestem atenção no corpo... diferentemente do grupo de prática, hoje vamos discutir especificamente as intervenções relacionadas ao corpo.'",
+   "ts": "0:13:12"
+  },
+  {
+   "movimento": "Recrutar com cuidado",
+   "descricao": "Acolhe a sugestão de dar vez a quem ainda não atende, oferece sorteio e propõe dividir o tempo entre dois voluntários.",
+   "exemplo": "'A gente pode fazer 10 minutos com ela e depois 10 minutos com alguém que não atende.'",
+   "ts": "0:15:23"
+  },
+  {
+   "movimento": "Controle de tempo com sinal não verbal",
+   "descricao": "Cronômetro e mão levantada para o terapeuta encaminhar o encerramento.",
+   "exemplo": "'Quando acabar o tempo, eu vou levantar a mãozinha aqui do Meet.'",
+   "ts": "0:15:23"
+  },
+  {
+   "movimento": "Debriefing em que o grupo fala primeiro",
+   "descricao": "Segura os próprios comentários para ouvir os observadores. Diante do silêncio, passa ao terapeuta.",
+   "exemplo": "'Eu tenho alguns comentários, claro, mas queria muito ouvir vocês.' / 'Cri, cri, cri... como é que foi para você?'",
+   "ts": "0:35:48"
+  },
+  {
+   "movimento": "Nomear teoricamente o acerto",
+   "descricao": "Transforma a intervenção da participante em princípio geral.",
+   "exemplo": "'Você pegou o fenômeno, descreveu e trouxe para ela: é mais ou menos a ideia da redução fenomenológica.'",
+   "ts": "0:36:46"
+  },
+  {
+   "movimento": "Segurar uma observação para testar o grupo",
+   "descricao": "Guarda um sinal que percebeu (gesto repetido) para ver se alguém notaria e só depois o revela.",
+   "exemplo": "'Queria abrir com vocês para saber se alguém ia perceber: ela colocava a mão aqui.'",
+   "ts": "0:43:47"
+  },
+  {
+   "movimento": "Parafrasear a dúvida antes de responder",
+   "descricao": "Confere o entendimento da pergunta antes de responder.",
+   "exemplo": "'Você tem receio de fazer uma intervenção voltada para o corpo sem vínculo... seria isso?'",
+   "ts": "0:51:08"
+  },
+  {
+   "movimento": "Transformar relato pessoal em princípio sem expor",
+   "descricao": "Acolhe um relato doloroso de participante e o generaliza numa tese clínica.",
+   "exemplo": "'Sinto muito, espero que você esteja conseguindo ressignificar... por isso falamos em bancar a intervenção.'",
+   "ts": "1:02:01"
+  },
+  {
+   "movimento": "Fechamento administrativo e feedback fora da gravação",
+   "descricao": "Formulário de presença (horas complementares e avaliação) e pedido de opinião depois de parar a gravação.",
+   "exemplo": "'Vou parar a gravação e pedir a opinião de vocês sobre o grupo de hoje.'",
+   "ts": "1:07:04"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Quando surgir um tema delicado, observe o corpo (olhar que desvia, voz que baixa) e não descarte a mudança como coincidência.",
+   "justificativa": "Pode sinalizar o que a fala evita.",
+   "contexto": "Ao entrar em assuntos importantes para o paciente.",
+   "competencia": "Escuta clínica",
+   "ts": "0:03:01"
+  },
+  {
+   "dica": "Escute o conteúdo e também a discrepância entre conteúdo e expressão corporal.",
+   "justificativa": "O corpo revela o que as palavras tentam ocultar ou minimizar e dá acesso a camadas mais profundas de emoção.",
+   "contexto": "Sobretudo diante de relatos de sofrimento feitos com leveza.",
+   "competencia": "Escuta clínica",
+   "ts": "0:11:07"
+  },
+  {
+   "dica": "Devolva o sinal de forma descritiva, sem interpretar ('você fala disso sorrindo, é isso mesmo?').",
+   "justificativa": "Suspende o juízo do terapeuta e deixa o paciente dar sentido ao fenômeno (redução fenomenológica).",
+   "contexto": "Ao notar uma incongruência clara.",
+   "competencia": "Intervenção",
+   "ts": "0:36:46"
+  },
+  {
+   "dica": "Aponte mudanças de tom e de ritmo da voz em tempo real.",
+   "justificativa": "Marcam oscilações afetivas e ajudam o paciente a perceber o próprio estado.",
+   "contexto": "Quando a voz muda ao tocar num tema ou ao conseguir verbalizá-lo.",
+   "competencia": "Intervenção",
+   "ts": "0:45:49"
+  },
+  {
+   "dica": "Explore gestos repetitivos perguntando o que significam.",
+   "justificativa": "A repetição sugere algo relevante, e trazê-la à consciência ajuda o paciente a se observar enquanto fala.",
+   "contexto": "Depois de notar o padrão, não na primeira ocorrência.",
+   "competencia": "Intervenção",
+   "ts": "0:43:47"
+  },
+  {
+   "dica": "Considere amplificar o fenômeno (engrossar a voz quando o paciente engrossa).",
+   "justificativa": "Devolve ao paciente, de forma vivencial, o que ele está fazendo.",
+   "contexto": "Com vínculo suficiente e sinal marcante.",
+   "competencia": "Intervenção",
+   "ts": "0:44:48"
+  },
+  {
+   "dica": "Antes de ler um sinal, considere a idiossincrasia do paciente (tiques, jeito habitual).",
+   "justificativa": "Nem todo movimento é mensagem. O sentido depende da linha de base individual.",
+   "contexto": "No início do processo.",
+   "competencia": "Escuta clínica",
+   "ts": "0:06:49"
+  },
+  {
+   "dica": "No online, trabalhe o corpo com o que a tela permite: rosto, mãos, olhar, voz, distância da câmera.",
+   "justificativa": "O campo é menor (em geral do peito para cima), mas ainda permite muita coisa.",
+   "contexto": "Atendimentos remotos, inclusive com pacientes deitados ou com câmera mal posicionada.",
+   "competencia": "Escuta clínica",
+   "ts": "0:10:12"
+  },
+  {
+   "dica": "Use seu corpo como recurso: gesticule para separar partes de um problema, aproxime-se ou afaste-se da câmera em momentos-chave.",
+   "justificativa": "Mais canais de comunicação facilitam a compreensão e marcam momentos da sessão.",
+   "contexto": "Ao pedir que o paciente destrinche algo ou ao querer dar ênfase.",
+   "competencia": "Intervenção",
+   "ts": "0:43:47"
+  },
+  {
+   "dica": "Tome consciência dos seus próprios sinais não verbais.",
+   "justificativa": "O terapeuta comunica sem perceber (olhares, rosto virado), e os pacientes aprendem a ler esses sinais.",
+   "contexto": "Em supervisão ou revendo gravações próprias.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:47:06"
+  },
+  {
+   "dica": "Se você trabalha muito com o corpo, avise o paciente disso já na primeira sessão.",
+   "justificativa": "O apontamento corporal soa menos invasivo quando o paciente conhece o estilo do terapeuta.",
+   "contexto": "Contrato inicial.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:52:16"
+  },
+  {
+   "dica": "Se o paciente se incomodar com a intervenção, explore o incômodo na relação ('como é para você fazer terapia com alguém que nota o que você faz?').",
+   "justificativa": "O desconforto é conteúdo clínico e pode ser levado a outras áreas da vida.",
+   "contexto": "Logo após uma reação defensiva.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:55:21"
+  },
+  {
+   "dica": "Nomeie a distância na relação no aqui e agora ('estou percebendo que a gente está mais distante hoje, você percebe também?').",
+   "justificativa": "Terapeutas evitam esse tema mesmo percebendo, e trazê-lo abre o trabalho relacional.",
+   "contexto": "Quando o paciente chega com energia ou voz mais baixa e a conexão parece menor.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:53:12"
+  },
+  {
+   "dica": "Depois de uma intervenção desconfortável, converse sobre o desconforto.",
+   "justificativa": "É isso que separa uma intervenção traumatizante de uma potente.",
+   "contexto": "Na mesma sessão ou na seguinte.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:02:01"
+  },
+  {
+   "dica": "Ao comentar a aparência, parta de uma potencialidade, não de uma falha.",
+   "justificativa": "Críticas à roupa ou ao cuidado pessoal podem ferir a autoestima, enquanto reconhecer um pequeno passo reforça a mudança (dica trazida por participantes e acolhida pelo facilitador).",
+   "contexto": "Pacientes com baixa autoestima ou vergonha do corpo.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:59:44"
+  },
+  {
+   "dica": "Guarde uma observação até que ela possa estar 'a serviço' do paciente.",
+   "justificativa": "Dita de qualquer jeito, pode ofender. No momento certo, pode ter grande efeito (ideia trazida pela colaboradora).",
+   "contexto": "Observações delicadas que ainda não encontram lugar na sessão.",
+   "competencia": "Intervenção",
+   "ts": "0:57:32"
+  },
+  {
+   "dica": "Calibre a diretividade pelo estágio de mudança do paciente.",
+   "justificativa": "Intervenção diretiva com quem ainda nega o problema tende a não funcionar.",
+   "contexto": "Negação ou ambivalência, por exemplo no uso de álcool.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:05:06"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O aprimoramento clínico treina fatores comuns, habilidades transteóricas úteis a qualquer abordagem.",
+   "argumento": "No debate sobre o que faz a terapia funcionar, uma parte está nos fatores comuns (abertura, fechamento, construção de frase, empatia), que não pertencem a nenhuma escola.",
+   "contraponto": "A visão de que o que funciona são os fatores específicos de cada abordagem.",
+   "implicacao": "O grupo recebe participantes de TCC, psicanálise e humanista sem conflito de linguagem.",
+   "quem": "Rodolfo",
+   "ts": "0:00:00"
+  },
+  {
+   "tese": "O corpo revela o que as palavras tentam ocultar ou minimizar.",
+   "argumento": "O que o paciente verbaliza nem sempre reflete o que sente. A psicossomática mostra o corpo manifestando o que está retido.",
+   "contraponto": "A máxima 'o corpo mente', contestada por uma participante. Ressalva do facilitador: considerar a individualidade (tiques).",
+   "implicacao": "Observar e usar clinicamente as discrepâncias entre fala e corpo.",
+   "quem": "Rodolfo",
+   "ts": "0:08:16"
+  },
+  {
+   "tese": "Não existe intervenção errada, existe não saber lidar com as consequências dela.",
+   "argumento": "A mesma intervenção pode traumatizar ou transformar. Decide o manejo posterior, sobretudo conversar sobre o desconforto.",
+   "contraponto": "A ideia de que intervenções corporais ou confrontos são errados em si ou só permitidos com vínculo consolidado.",
+   "implicacao": "Arriscar mais e se preparar para trabalhar a reação do paciente.",
+   "quem": "Rodolfo",
+   "ts": "0:55:21"
+  },
+  {
+   "tese": "O terapeuta costuma ser conservador demais, e o motivo é medo, não prudência.",
+   "argumento": "Temos medo de confrontar e de romper vínculos. Intervenções sobre a relação e sobre o corpo exigem coragem. O facilitador usa a própria trajetória como exemplo.",
+   "contraponto": "A participante para quem intervenções corporais 'são mais fáceis com vínculo'.",
+   "implicacao": "A cautela já está presente por padrão. O treino deve empurrar para intervir, com o estágio de mudança como freio.",
+   "quem": "Rodolfo",
+   "ts": "1:04:16"
+  },
+  {
+   "tese": "O desconforto do paciente diante de uma intervenção é material clínico, não fracasso.",
+   "argumento": "Pode ser explorado na relação e ligado a outras áreas da vida do paciente.",
+   "contraponto": "O receio de que o paciente se sinta vigiado ou mal.",
+   "implicacao": "Em vez de evitar a intervenção, prepare a pergunta que vem depois dela.",
+   "quem": "Rodolfo",
+   "ts": "0:54:34"
+  },
+  {
+   "tese": "A diretividade deve acompanhar o estágio de mudança do paciente.",
+   "argumento": "Quem nega a demanda não está pronto para sugestões diretivas.",
+   "contraponto": "Terapeutas 'muito diretivos' em qualquer momento.",
+   "implicacao": "Avaliar o estágio antes de escolher entre confrontar, sugerir ou explorar.",
+   "quem": "Rodolfo",
+   "ts": "1:05:06"
+  },
+  {
+   "tese": "Trabalhar o corpo inclui o corpo do terapeuta.",
+   "argumento": "Gestos, voz, olhar e distância da câmera comunicam e intervêm, e o terapeuta também emite sinais involuntários.",
+   "contraponto": "A leitura só do corpo do paciente e o ideal de neutralidade total.",
+   "implicacao": "Usar o corpo de forma deliberada e observar os próprios sinais.",
+   "quem": "Rodolfo",
+   "ts": "0:43:47"
+  },
+  {
+   "tese": "O que se traz à sessão deve estar 'a serviço' do paciente, e o como importa mais que o quê.",
+   "argumento": "Uma observação correta dita de qualquer jeito pode ofender. Guardada até o momento certo, pode ter grande efeito.",
+   "contraponto": "Apontamentos imediatos e literais sobre aparência.",
+   "implicacao": "Escolher o momento e a forma do apontamento corporal.",
+   "quem": "Colaboradora (participante)",
+   "ts": "0:57:32"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "A boca fala uma coisa, mas o corpo fala outra.",
+   "tema": "discrepância fala-corpo",
+   "ts": "0:01:57"
+  },
+  {
+   "texto": "Muitas vezes o corpo revela o que as palavras tentam ocultar, ou minimizar.",
+   "tema": "comunicação não verbal",
+   "ts": "0:08:16"
+  },
+  {
+   "texto": "A mente é que mente. Mas o corpo, será que mente tanto assim? (participante)",
+   "tema": "corpo",
+   "ts": "0:05:51"
+  },
+  {
+   "texto": "Onde a fala não alcança, vem o corpo; e onde o corpo não alcança, vem a fala. (participante)",
+   "tema": "corpo e fala",
+   "ts": "0:50:09"
+  },
+  {
+   "texto": "Quando a gente fala da importância do corpo, não está falando só do corpo do paciente, mas de como o terapeuta pode usar o corpo dele durante a sessão.",
+   "tema": "corpo do terapeuta",
+   "ts": "0:43:47"
+  },
+  {
+   "texto": "Estou percebendo que a gente está mais distante hoje. Você está percebendo isso também?",
+   "tema": "intervenção sobre a relação",
+   "ts": "0:54:20"
+  },
+  {
+   "texto": "Se o paciente se sentir desconfortável, isso certamente é um ponto interessante para se tratar na relação terapêutica.",
+   "tema": "desconforto como material",
+   "ts": "0:54:34"
+  },
+  {
+   "texto": "Não existe intervenção errada. Existe a gente não saber lidar com as consequências da nossa intervenção.",
+   "tema": "bancar a intervenção",
+   "ts": "0:55:21"
+  },
+  {
+   "texto": "A mesma intervenção que pode ser traumatizante pode ser muito potente. Depende de como a gente lida com isso depois.",
+   "tema": "bancar a intervenção",
+   "ts": "1:02:01"
+  },
+  {
+   "texto": "De modo geral, a gente é muito, muito conservador quando está atendendo: tem muito medo de romper vínculos, de fazer intervenções.",
+   "tema": "coragem clínica",
+   "ts": "1:04:16"
+  },
+  {
+   "texto": "Não é o quê, mas o como. (colaboradora)",
+   "tema": "forma da intervenção",
+   "ts": "0:55:21"
+  },
+  {
+   "texto": "O espaço aqui é de aprendizado: fiquem à vontade para errar, para chutar.",
+   "tema": "facilitação",
+   "ts": "0:07:22"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Quando a boca diz uma coisa e o corpo diz outra",
+   "mensagem": "Quatro sinais para observar (olhar que desvia, voz que muda, sorriso incongruente, gesto repetido) e como devolvê-los sem interpretar.",
+   "roteiro": [
+    "Capa: 'A boca fala uma coisa, o corpo fala outra'",
+    "Sinal 1: o olhar que desvia no tema delicado",
+    "Sinal 2: a voz que baixa, acelera ou fica aguda",
+    "Sinal 3: o sorriso ao relatar sofrimento",
+    "Sinal 4: o gesto que se repete",
+    "Como devolver: descreva, não interprete ('você fala disso sorrindo, é isso mesmo?')",
+    "Cuidado: considere o jeito habitual da pessoa"
+   ],
+   "corte_inicio": "0:01:57",
+   "corte_fim": "0:04:10"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Dá para trabalhar o corpo no atendimento online?",
+   "mensagem": "Você vê do peito para cima, mas rosto, mãos, voz e distância da câmera bastam para muita coisa.",
+   "roteiro": [
+    "Pergunta na tela",
+    "O que se perde no online",
+    "O que ainda dá para ver e ouvir",
+    "Uma intervenção possível"
+   ],
+   "corte_inicio": "0:10:12",
+   "corte_fim": "0:11:07"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Não existe intervenção errada",
+   "mensagem": "Existe não saber bancar as consequências, e o que decide é a conversa depois.",
+   "roteiro": [
+    "Frase-título",
+    "Legenda: a mesma intervenção pode ferir ou transformar, e a diferença está em conversar sobre o desconforto"
+   ],
+   "corte_inicio": "0:55:21",
+   "corte_fim": "0:56:36"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Por que temos tanto medo de confrontar?",
+   "mensagem": "O iniciante é conservador por medo de romper o vínculo. Intervenções sobre a relação exigem coragem, e o estágio de mudança é o freio legítimo.",
+   "roteiro": [
+    "Capa",
+    "O medo de romper o vínculo",
+    "A cautela já é o padrão",
+    "Exemplo de intervenção relacional",
+    "Quando segurar: estágio de mudança",
+    "Fechamento"
+   ],
+   "corte_inicio": "1:04:16",
+   "corte_fim": "1:05:57"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Seu corpo também intervém",
+   "mensagem": "Gesticular para destrinchar, aproximar-se da câmera e amplificar a voz do paciente são intervenções.",
+   "roteiro": [
+    "Gancho",
+    "Três usos do corpo do terapeuta",
+    "Cuidado com os sinais involuntários"
+   ],
+   "corte_inicio": "0:43:47",
+   "corte_fim": "0:44:48"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como treinamos a leitura do corpo em grupo",
+   "mensagem": "Paciente simulada que exagera o corpo, 15 minutos de atendimento, plateia com tarefa de observação e debriefing.",
+   "roteiro": [
+    "Story 1: o tema",
+    "Story 2: os papéis",
+    "Story 3: o que o grupo percebeu",
+    "Story 4: convite para o próximo grupo"
+   ],
+   "corte_inicio": "0:12:05",
+   "corte_fim": "0:13:12"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Uma frase para falar da relação no aqui e agora",
+   "mensagem": "'Estou percebendo que a gente está mais distante hoje, você percebe também?' e por que evitamos dizê-la.",
+   "roteiro": [
+    "Frase em destaque",
+    "Legenda: quando usar e por que exige coragem"
+   ],
+   "corte_inicio": "0:53:12",
+   "corte_fim": "0:55:21"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "James Prochaska",
+   "contexto": "Autor do modelo dos estágios de mudança, usado na Allos para calibrar a diretividade. O facilitador cita a teoria sem nomear o autor."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento clínico — roleplay com paciente simulada e plateia observadora (variante 'aquário', facilitador substituto)",
+  "objetivo": "Treinar uma habilidade transteórica específica (aqui, perceber sinais corporais e intervir sobre a discrepância fala-corpo) por meio de um atendimento simulado observado pelo grupo e discutido em seguida.",
+  "publico": "Estudantes de psicologia e psicólogos iniciantes de qualquer abordagem, com parte do grupo já atendendo e parte não. Alguns participam por horas complementares.",
+  "tamanho": "~8 pessoas online: facilitador, colaboradora-paciente, 1 terapeuta voluntária e ~5 observadores.",
+  "duracao": "~1h07 gravada (previsto 'uma horinha, uma horinha e meia'), mais alguns minutos sem gravação para avaliação.",
+  "estrutura_padrao": "Contextualização do que é o aprimoramento (fatores comuns) → tema e pergunta de ativação ao grupo → teoria mínima (~4 min) → consigna e recrutamento do voluntário → roleplay cronometrado de 15 min com paciente preparada → descompressão → debriefing (observadores → terapeuta → facilitador) → discussão aberta de dúvidas → formulário de presença e avaliação fora da gravação.",
+  "papel_facilitador": "Contextualiza, prepara com antecedência a paciente simulada, recruta e protege o voluntário, cronometra, direciona a atenção dos observadores, conduz o debriefing ouvindo primeiro o grupo, nomeia teoricamente os acertos, revela o que o grupo não viu e responde dúvidas com exemplos da própria clínica.",
+  "regras_combinados": "Foco restrito ao tema (intervenções sobre o corpo, não o atendimento em geral, que é assunto do grupo de prática). Participação por microfone, câmera ou chat. 'Espaço de aprendizado: pode errar e chutar.' Roleplay de 15 min encerrado por sinal de mão levantada. Paciente pode trazer história real ou inventada. Pode ser sessão de continuidade. Prioridade a quem ainda não atende. Formulário de presença ao fim.",
+  "comparacao_com_alan": "Mantém o esqueleto teoria mínima → exercício → feedback (cerca de 12 min de contextualização antes da prática). O exercício, porém, é um único roleplay longo em que só uma pessoa pratica e os demais observam, sem rodadas curtas em que várias pessoas respondem ou refazem a mesma situação. O feedback é descritivo e liderado pelo grupo, sem nota, sem a 'paciente' dizer se a intervenção funcionaria e sem extrair regras gerais além de 'descrever o fenômeno'. A segunda metade vira discussão de dúvidas respondidas com exemplos da clínica do facilitador. A novidade replicável é a paciente simulada preparada para exagerar o corpo."
+ },
+ "reflexoes_do_facilitador": [
+  "Diz que costuma contextualizar o formato (fatores comuns) mesmo que 'o pessoal geralmente não faça isso nos grupos'.",
+  "Conta que, no começo da carreira, tinha muito medo de confrontar e não faria a intervenção sobre a relação que fez naquele dia.",
+  "Admite ter esquecido o que ia comentar ('deu um branco') e diz que também não tinha notado certos gestos apontados pelo grupo.",
+  "Reconhece que sempre esquece de passar o formulário de presença.",
+  "Explica que não é o facilitador habitual do grupo: estava substituindo o Diogo.",
+  "Pede avaliação do grupo fora da gravação."
+ ],
+ "referencias_a_outros_encontros": [
+  "Rodolfo substitui o Diogo, facilitador habitual deste grupo de aprimoramento, e diz facilitar grupos na 'Allos Recife' (?).",
+  "Distingue o aprimoramento do 'grupo de prática', em que se discute o atendimento de modo geral.",
+  "Cita o instrumento de avaliação da Allos, cujos critérios incluem abertura e fechamento de sessão, construção de frase e empatia.",
+  "Os estágios de mudança são tema de outro aprimoramento clínico.",
+  "Uma participante menciona ter falado 'num outro encontro' sobre a ideia de que 'o corpo mente'.",
+  "Menção a uma mentoria em que a terapeuta voluntária conheceu a colaboradora.",
+  "O roleplay de 15 min é apresentado como 'mesmo esquema' de encontros anteriores."
+ ],
+ "observacoes": "O título original ('Encontro 9 e Encontro 10') não corresponde a dois encontros: é um único encontro de ~1h07. O facilitador se identifica como Rodolfo ('meu nome não é Associação Allos, é Rodolfo'). A paciente simulada é uma colaboradora da Allos, e sua história, segundo ela, tinha base real, por isso foi registrada de forma genérica (crise de ansiedade após um evento muito intenso), sem detalhes identificáveis. Relatos pessoais de participantes (experiência com uma psicóloga na adolescência) foram anonimizados. Legenda automática com ruído: 'ALOS'/'AS' = Allos; 'ocor' = o corpo; 'ala Recife' provavelmente 'Allos Recife' (?). Na fala da terapeuta, a legenda diz 'tom de voz acelerou', mas o facilitador descreve depois como 'desacelerou'. Registrado como 'mudança de ritmo'. A gravação termina antes da avaliação oral pedida pelo facilitador."
+}

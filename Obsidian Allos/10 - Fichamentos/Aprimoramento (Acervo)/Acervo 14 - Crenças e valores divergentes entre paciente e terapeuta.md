@@ -28,7 +28,7 @@ aliases: ["Encontro 27 e Encontro 28", "Valores do paciente diferentes dos nosso
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=bXV1SNFM4zc) · **Transcrição:** [[14 - Encontro 27 e Encontro 28]]
 
 > [!note] Identificação dos facilitadores
-> O condutor apresenta Diogo como quem "vai estar me ajudando nessa condução" {{ts:acervo-14@0:00:00}}. Ele próprio não diz o nome, mas é chamado de Rodolfo por participantes {{ts:acervo-14@0:02:50}} {{ts:acervo-14@1:19:12}}. Diz também que é de Recife e da Gestalt, e fecha com o mesmo aviso sobre formulário de presença e horas complementares que Rodolfo usa em outros encontros do Acervo. Diogo se declara analista do comportamento {{ts:acervo-14@0:39:42}}. Em {{ts:acervo-14@0:59:35}} alguém chama o condutor de "João" (?), provavelmente erro da legenda.
+> O condutor apresenta Diogo como quem "vai estar me ajudando nessa condução" [▶ 0:00:00](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=0s). Ele próprio não diz o nome, mas é chamado de Rodolfo por participantes [▶ 0:02:50](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=170s) [▶ 1:19:12](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4752s). Diz também que é de Recife e da Gestalt, e fecha com o mesmo aviso sobre formulário de presença e horas complementares que Rodolfo usa em outros encontros do Acervo. Diogo se declara analista do comportamento [▶ 0:39:42](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2382s). Em [▶ 0:59:35](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3575s) alguém chama o condutor de "João" (?), provavelmente erro da legenda.
 
 ## Resumo
 
@@ -42,29 +42,29 @@ Com o grupo já reduzido, Rodolfo negocia um **roleplay de 7 minutos**. Um parti
 
 | Início | Bloco | O que acontece | Função pedagógica |
 |---|---|---|---|
-| {{ts:acervo-14@0:00:00}} | Abertura | Diz que prefere grupos de 1h10 a 1h20, apresenta Diogo como cofacilitador e anuncia o tema: valores do paciente em tensão com os nossos. | Enquadrar o tema e normalizá-lo ("acontece com qualquer pessoa"). |
-| {{ts:acervo-14@0:01:56}} | Dinâmica | Aquecimento: um minuto para anotar de três a cinco temas sensíveis. Esclarece que o foco são crenças e valores, e não atos graves como crimes {{ts:acervo-14@0:02:50}}. | Tornar pessoal e concreto; gerar material para o roleplay. |
-| {{ts:acervo-14@0:04:02}} | Rodada de respostas | Temas ditos e do chat. Um participante diz que na clínica a teoria ajuda a manter distância. Diogo fala de autocentramento e imposição. | Mapear os "espinhos" do grupo. |
-| {{ts:acervo-14@0:09:14}} | Combinados | Contextualiza quem chega e anuncia a segunda parte: uma simulação de atendimento. | Situar o grupo no percurso. |
-| {{ts:acervo-14@0:12:05}} | Teoria | Respeitar os valores do paciente; o risco de impor ou projetar; a **introjeção** na Gestalt; exemplo de terapeuta religioso com paciente ateu; os dois objetivos do encontro (como me sinto, como manejo). | Dar uma moldura conceitual mínima. |
-| {{ts:acervo-14@0:14:29}} | Discussão | Uma participante traz um caso real (anonimizado): preceito religioso contra a necessidade de trabalhar. O facilitador valida a flexibilização construída em conjunto. | Ancorar o tema na prática. |
-| {{ts:acervo-14@0:19:01}} | Discussão | Um participante cita Jung: o núcleo da neurose é um conflito moral, e o choque com a moral do terapeuta abre uma terceira via. O facilitador levanta a questão do lugar da moral na clínica {{ts:acervo-14@0:21:48}}. | Ampliar e problematizar. |
-| {{ts:acervo-14@0:22:59}} | Comparação de abordagens | Diogo: o sentimento como **termômetro clínico**, que perde validade se contaminado; contratransferência; "é arriscado". O facilitador parafraseia por causa do áudio ruim {{ts:acervo-14@0:25:32}}. | Introduzir o critério "é meu ou é da relação?". |
-| {{ts:acervo-14@0:27:43}} | Discussão | Que métrica usar para o valor? Diogo: não medir o bem moral; seguir o código de ética; falar das consequências respeitando a autonomia. O participante responde que o incômodo detecta o que importa e que "o ponto está na diferença". | Tensionar posições. |
-| {{ts:acervo-14@0:34:17}} | Comparação de abordagens | Participante da psicanálise: há tipos de incômodo; os "unicamente meus" vão para a análise e a supervisão; "a resistência é quase sempre do terapeuta". | Terceira perspectiva teórica. |
-| {{ts:acervo-14@0:37:28}} | Discussão | O facilitador faz um recap das posições. | Consolidar antes de seguir. |
-| {{ts:acervo-14@0:38:37}} | Comparação de abordagens | Diogo: na sessão tudo está integrado; a **função** da intervenção; o poder do terapeuta sobre o discurso; a metáfora do restaurante; pautas sociais e rede de apoio. | Levar a discussão à ética e à política. |
-| {{ts:acervo-14@0:43:05}} | Discussão | Lê comentários antigos do chat que já perderam o contexto. | Incluir quem só usa o chat (sem sucesso). |
-| {{ts:acervo-14@0:44:58}} | Combinados | Diante de saídas de participantes, negocia se ainda dá para fazer o exercício e explica o roleplay de 5 a 7 minutos. | Adaptar o plano ao grupo. |
-| {{ts:acervo-14@0:47:28}} | Teoria | Enquanto uma participante se prepara: diante da introjeção, convidar a pessoa a avaliar o valor "engolido". | Aproveitar o tempo morto com conteúdo. |
-| {{ts:acervo-14@0:48:49}} | Combinados | Sete minutos no cronômetro, meio de sessão; a "paciente" deve tocar um tema que incomoda o "terapeuta" (religião); "não é avaliação". | Criar segurança e foco no sentimento. |
-| {{ts:acervo-14@0:51:42}} | Dinâmica | Roleplay com paciente simulada e participante-terapeuta. | Viver o incômodo em vez de só falar dele. |
-| {{ts:acervo-14@0:59:35}} | Feedback | Debriefing. "Jamais encerraria depois de uma fala dessa". O terapeuta explica a intenção e nota o riso da atriz. Pergunta: como você se sentiu? (preocupado) {{ts:acervo-14@1:00:40}}. | Nomear o afeto do terapeuta. |
-| {{ts:acervo-14@1:04:40}} | Discussão | Usar esse sentimento como intervenção seria interessante? Resposta: "todo sentimento é próprio", elaborado ou mal elaborado; o sentimento é a bússola. | Retomar a questão teórica à luz da experiência. |
-| {{ts:acervo-14@1:09:11}} | Feedback | Qual foi a parte mais difícil? Estimular o senso crítico sem condenar a instituição; não tirar abruptamente o que sustenta a paciente; a "atitude afobada". | Extrair lições de manejo. |
-| {{ts:acervo-14@1:13:04}} | Fechamento | Síntese: mapear o que nos incomoda, pensar como interviríamos e tomar consciência do próprio afeto. | Consolidar. |
-| {{ts:acervo-14@1:14:35}} | Fechamento | Formulário de presença; todos os grupos da Allos contam horas complementares. | Administrativo e avaliação do grupo. |
-| {{ts:acervo-14@1:15:27}} | Bate-papo/Outro | Indicação do filme *O Milagre* e do livro *A vegetariana*; despedidas. | Vínculo e repertório cultural. |
+| [▶ 0:00:00](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=0s) | Abertura | Diz que prefere grupos de 1h10 a 1h20, apresenta Diogo como cofacilitador e anuncia o tema: valores do paciente em tensão com os nossos. | Enquadrar o tema e normalizá-lo ("acontece com qualquer pessoa"). |
+| [▶ 0:01:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=116s) | Dinâmica | Aquecimento: um minuto para anotar de três a cinco temas sensíveis. Esclarece que o foco são crenças e valores, e não atos graves como crimes [▶ 0:02:50](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=170s). | Tornar pessoal e concreto; gerar material para o roleplay. |
+| [▶ 0:04:02](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=242s) | Rodada de respostas | Temas ditos e do chat. Um participante diz que na clínica a teoria ajuda a manter distância. Diogo fala de autocentramento e imposição. | Mapear os "espinhos" do grupo. |
+| [▶ 0:09:14](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=554s) | Combinados | Contextualiza quem chega e anuncia a segunda parte: uma simulação de atendimento. | Situar o grupo no percurso. |
+| [▶ 0:12:05](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=725s) | Teoria | Respeitar os valores do paciente; o risco de impor ou projetar; a **introjeção** na Gestalt; exemplo de terapeuta religioso com paciente ateu; os dois objetivos do encontro (como me sinto, como manejo). | Dar uma moldura conceitual mínima. |
+| [▶ 0:14:29](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=869s) | Discussão | Uma participante traz um caso real (anonimizado): preceito religioso contra a necessidade de trabalhar. O facilitador valida a flexibilização construída em conjunto. | Ancorar o tema na prática. |
+| [▶ 0:19:01](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1141s) | Discussão | Um participante cita Jung: o núcleo da neurose é um conflito moral, e o choque com a moral do terapeuta abre uma terceira via. O facilitador levanta a questão do lugar da moral na clínica [▶ 0:21:48](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1308s). | Ampliar e problematizar. |
+| [▶ 0:22:59](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1379s) | Comparação de abordagens | Diogo: o sentimento como **termômetro clínico**, que perde validade se contaminado; contratransferência; "é arriscado". O facilitador parafraseia por causa do áudio ruim [▶ 0:25:32](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1532s). | Introduzir o critério "é meu ou é da relação?". |
+| [▶ 0:27:43](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1663s) | Discussão | Que métrica usar para o valor? Diogo: não medir o bem moral; seguir o código de ética; falar das consequências respeitando a autonomia. O participante responde que o incômodo detecta o que importa e que "o ponto está na diferença". | Tensionar posições. |
+| [▶ 0:34:17](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2057s) | Comparação de abordagens | Participante da psicanálise: há tipos de incômodo; os "unicamente meus" vão para a análise e a supervisão; "a resistência é quase sempre do terapeuta". | Terceira perspectiva teórica. |
+| [▶ 0:37:28](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2248s) | Discussão | O facilitador faz um recap das posições. | Consolidar antes de seguir. |
+| [▶ 0:38:37](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2317s) | Comparação de abordagens | Diogo: na sessão tudo está integrado; a **função** da intervenção; o poder do terapeuta sobre o discurso; a metáfora do restaurante; pautas sociais e rede de apoio. | Levar a discussão à ética e à política. |
+| [▶ 0:43:05](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2585s) | Discussão | Lê comentários antigos do chat que já perderam o contexto. | Incluir quem só usa o chat (sem sucesso). |
+| [▶ 0:44:58](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2698s) | Combinados | Diante de saídas de participantes, negocia se ainda dá para fazer o exercício e explica o roleplay de 5 a 7 minutos. | Adaptar o plano ao grupo. |
+| [▶ 0:47:28](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2848s) | Teoria | Enquanto uma participante se prepara: diante da introjeção, convidar a pessoa a avaliar o valor "engolido". | Aproveitar o tempo morto com conteúdo. |
+| [▶ 0:48:49](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2929s) | Combinados | Sete minutos no cronômetro, meio de sessão; a "paciente" deve tocar um tema que incomoda o "terapeuta" (religião); "não é avaliação". | Criar segurança e foco no sentimento. |
+| [▶ 0:51:42](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3102s) | Dinâmica | Roleplay com paciente simulada e participante-terapeuta. | Viver o incômodo em vez de só falar dele. |
+| [▶ 0:59:35](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3575s) | Feedback | Debriefing. "Jamais encerraria depois de uma fala dessa". O terapeuta explica a intenção e nota o riso da atriz. Pergunta: como você se sentiu? (preocupado) [▶ 1:00:40](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3640s). | Nomear o afeto do terapeuta. |
+| [▶ 1:04:40](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3880s) | Discussão | Usar esse sentimento como intervenção seria interessante? Resposta: "todo sentimento é próprio", elaborado ou mal elaborado; o sentimento é a bússola. | Retomar a questão teórica à luz da experiência. |
+| [▶ 1:09:11](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4151s) | Feedback | Qual foi a parte mais difícil? Estimular o senso crítico sem condenar a instituição; não tirar abruptamente o que sustenta a paciente; a "atitude afobada". | Extrair lições de manejo. |
+| [▶ 1:13:04](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4384s) | Fechamento | Síntese: mapear o que nos incomoda, pensar como interviríamos e tomar consciência do próprio afeto. | Consolidar. |
+| [▶ 1:14:35](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4475s) | Fechamento | Formulário de presença; todos os grupos da Allos contam horas complementares. | Administrativo e avaliação do grupo. |
+| [▶ 1:15:27](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4527s) | Bate-papo/Outro | Indicação do filme *O Milagre* e do livro *A vegetariana*; despedidas. | Vínculo e repertório cultural. |
 
 ### Formato deste encontro e comparação com o modelo do Alan
 - **Formato real:** o nome é "Aprimoramento clínico", mas na prática foi uma **roda de discussão temática com cofacilitação multiabordagem**. O facilitador é da Gestalt e o cofacilitador, da análise do comportamento, e os participantes falam da psicanálise e da psicologia junguiana. Um **roleplay curto e não avaliativo** fecha o encontro. O plano previa duas metades equilibradas (discussão, depois exercício), mas a discussão ocupou cerca de 45 minutos e o exercício foi comprimido e feito com três pessoas.
@@ -72,55 +72,55 @@ Com o grupo já reduzido, Rodolfo negocia um **roleplay de 7 minutos**. Um parti
 
 ## Conteúdo teórico
 
-### O problema: valores do paciente em tensão com os do terapeuta {{ts:acervo-14@0:12:26}}
+### O problema: valores do paciente em tensão com os do terapeuta [▶ 0:12:26](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=746s)
 - Na clínica é comum reconhecer que o paciente vive "de uma forma que a gente não gostaria de viver". É aí que o terapeuta percebe que seus valores não estão em consonância com os do paciente ([[Cosmovisão]]).
 - Princípio: **compreender e respeitar** os valores e crenças do paciente. O erro comum é **impor ou projetar** os próprios valores na sessão, apontando qual seria "a maneira correta de viver" ([[Projeção]], [[Imparcialidade clínica]]).
-- Exemplo do facilitador: um terapeuta muito religioso diante de um paciente ateu que fala do próprio ateísmo, e isso o incomoda {{ts:acervo-14@0:13:29}}.
-- Os dois objetivos do encontro: (1) entender **como você se sente** diante de um paciente com crenças diferentes; (2) entender **como você costuma manejar** isso {{ts:acervo-14@0:14:29}}.
+- Exemplo do facilitador: um terapeuta muito religioso diante de um paciente ateu que fala do próprio ateísmo, e isso o incomoda [▶ 0:13:29](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=809s).
+- Os dois objetivos do encontro: (1) entender **como você se sente** diante de um paciente com crenças diferentes; (2) entender **como você costuma manejar** isso [▶ 0:14:29](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=869s).
 
-### Introjeção (Gestalt) {{ts:acervo-14@0:13:29}}
+### Introjeção (Gestalt) [▶ 0:13:29](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=809s)
 - **Introjeção** é "engolir" um valor pronto, sem que a pessoa avalie de verdade se ele faz sentido para ela ([[Introjeção]]).
-- Tem duas faces clínicas. (a) O terapeuta pode induzir introjeções ao impor valores. (b) Quando o paciente sofre por um valor engolido (algo que "o pai acreditava" e virou verdade absoluta), uma alternativa é **convidá-lo cuidadosamente a avaliar** esse valor, individualizando e trazendo à reflexão o que era tido como inegável {{ts:acervo-14@0:47:42}}.
+- Tem duas faces clínicas. (a) O terapeuta pode induzir introjeções ao impor valores. (b) Quando o paciente sofre por um valor engolido (algo que "o pai acreditava" e virou verdade absoluta), uma alternativa é **convidá-lo cuidadosamente a avaliar** esse valor, individualizando e trazendo à reflexão o que era tido como inegável [▶ 0:47:42](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2862s).
 
-### O conflito moral como motor da terapia (leitura junguiana) {{ts:acervo-14@0:19:01}}
+### O conflito moral como motor da terapia (leitura junguiana) [▶ 0:19:01](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1141s)
 - Um participante cita Jung: no fundo de toda neurose há um **conflito moral** ([[Conflito moral]]). Quando a moral do neurótico **ressoa** com a do terapeuta, a situação fica inconsciente para os dois.
-- O conflito de valores é, portanto, "incômodo e necessário". Ele afeta os dois lados e abre a possibilidade de uma **terceira via**, que não é nem a solução do terapeuta nem a do paciente {{ts:acervo-14@0:19:14}}.
-- O que é "moralmente normal" para ambos passa em branco e deixa de ser problema {{ts:acervo-14@0:20:52}}.
-- O facilitador acrescenta que, se o terapeuta suspeita que um valor moral do paciente contribui direta ou indiretamente para o sofrimento, **inevitavelmente terá de tocar no conteúdo delicado** {{ts:acervo-14@0:22:03}}.
+- O conflito de valores é, portanto, "incômodo e necessário". Ele afeta os dois lados e abre a possibilidade de uma **terceira via**, que não é nem a solução do terapeuta nem a do paciente [▶ 0:19:14](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1154s).
+- O que é "moralmente normal" para ambos passa em branco e deixa de ser problema [▶ 0:20:52](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1252s).
+- O facilitador acrescenta que, se o terapeuta suspeita que um valor moral do paciente contribui direta ou indiretamente para o sofrimento, **inevitavelmente terá de tocar no conteúdo delicado** [▶ 0:22:03](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1323s).
 
-### O sentimento do terapeuta como termômetro (Diogo) {{ts:acervo-14@0:22:59}}
+### O sentimento do terapeuta como termômetro (Diogo) [▶ 0:22:59](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1379s)
 - Os sentimentos que o paciente desperta (irritação, tristeza, alegria, conforto) são um **termômetro clínico**. O terapeuta não é chefe nem mãe do paciente, mas é provável que o **modo relacional** que aparece ali se reproduza fora ([[Sentimento do terapeuta como termômetro clínico]]).
-- **Condição de validade:** se o termômetro está "bagunçado" por processos internos do terapeuta, ele perde a validade. Quem se irrita com um dogmatismo por motivos próprios perde o dado de "como as pessoas de fora reagem a isso" {{ts:acervo-14@0:24:38}}.
-- Saber que sentido se perde por conta dos próprios processos ajuda a decidir quando o sentimento é **ferramenta de intervenção** e quando deve ser **guardado e analisado na própria terapia** {{ts:acervo-14@0:25:05}}. Na linguagem psicanalítica, é o uso da [[Contratransferência]] {{ts:acervo-14@0:26:33}}.
-- Usar o afeto marcado pela própria história "é arriscado" {{ts:acervo-14@0:27:04}}. Uma participante escreve no chat: "acho perigoso, não usaria".
+- **Condição de validade:** se o termômetro está "bagunçado" por processos internos do terapeuta, ele perde a validade. Quem se irrita com um dogmatismo por motivos próprios perde o dado de "como as pessoas de fora reagem a isso" [▶ 0:24:38](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1478s).
+- Saber que sentido se perde por conta dos próprios processos ajuda a decidir quando o sentimento é **ferramenta de intervenção** e quando deve ser **guardado e analisado na própria terapia** [▶ 0:25:05](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1505s). Na linguagem psicanalítica, é o uso da [[Contratransferência]] [▶ 0:26:33](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1593s).
+- Usar o afeto marcado pela própria história "é arriscado" [▶ 0:27:04](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1624s). Uma participante escreve no chat: "acho perigoso, não usaria".
 
-### Que métrica, se não o sentimento? {{ts:acervo-14@0:27:43}}
+### Que métrica, se não o sentimento? [▶ 0:27:43](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1663s)
 - O participante junguiano objeta: todo valor exige comparação. Se não é pelo que sentimos, por qual métrica perceberíamos a diferença de valor?
-- Resposta de Diogo {{ts:acervo-14@0:28:23}}: não se trata de medir o que é moralmente bom, porque há muito de subjetivo na moral, e o [[Código de ética do psicólogo]] veda impor uma visão. O sentimento diz outra coisa: "isso me deixa ansioso; se ele se comunica assim com os outros, provavelmente tem dificuldade de se comunicar". A intervenção não é "fale mais manso", e sim **conversar sobre as consequências, respeitando a autonomia** ([[Autonomia do paciente]]). O único caso em que se barra é o **risco de vida para si ou para outros**, porque aí o código obriga {{ts:acervo-14@0:29:27}}.
-- Quando o incômodo é "mais meu" (no caso dele, a imposição), Diogo não acha seguro usá-lo para dizer "provavelmente os outros também se incomodam" {{ts:acervo-14@0:29:27}}.
-- Réplica do participante {{ts:acervo-14@0:30:23}}: ele está num momento anterior, o da **detecção**. Perceber que algo incomoda é perceber que algo é importante. Sem usar o incômodo para marcar a diferença, o terapeuta vira "só um espelho" em que o paciente se vê sem contestação. É preciso levar o próprio afeto à terapia, mas **nunca abrir mão do choque**, que é o "ponto de exclamação". "O ponto está sempre na diferença, e quem aponta essa diferença é o seu sentimento" {{ts:acervo-14@0:33:47}}.
+- Resposta de Diogo [▶ 0:28:23](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1703s): não se trata de medir o que é moralmente bom, porque há muito de subjetivo na moral, e o [[Código de ética do psicólogo]] veda impor uma visão. O sentimento diz outra coisa: "isso me deixa ansioso; se ele se comunica assim com os outros, provavelmente tem dificuldade de se comunicar". A intervenção não é "fale mais manso", e sim **conversar sobre as consequências, respeitando a autonomia** ([[Autonomia do paciente]]). O único caso em que se barra é o **risco de vida para si ou para outros**, porque aí o código obriga [▶ 0:29:27](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1767s).
+- Quando o incômodo é "mais meu" (no caso dele, a imposição), Diogo não acha seguro usá-lo para dizer "provavelmente os outros também se incomodam" [▶ 0:29:27](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1767s).
+- Réplica do participante [▶ 0:30:23](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1823s): ele está num momento anterior, o da **detecção**. Perceber que algo incomoda é perceber que algo é importante. Sem usar o incômodo para marcar a diferença, o terapeuta vira "só um espelho" em que o paciente se vê sem contestação. É preciso levar o próprio afeto à terapia, mas **nunca abrir mão do choque**, que é o "ponto de exclamação". "O ponto está sempre na diferença, e quem aponta essa diferença é o seu sentimento" [▶ 0:33:47](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2027s).
 
-### Tipos de incômodo e a resistência do analista (leitura psicanalítica) {{ts:acervo-14@0:34:17}}
+### Tipos de incômodo e a resistência do analista (leitura psicanalítica) [▶ 0:34:17](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2057s)
 - Há incômodos que vale a pena usar no setting e outros não. O que toca intimamente uma experiência pessoal é "unicamente meu": cuida-se dele na supervisão e na análise, e não se devolve na sessão.
 - Cuidado redobrado com o incômodo **por crença, religião ou política**. Na psicanálise se diz que "quase sempre a resistência é do terapeuta": no incômodo, ele "se faz surdo" ao que o paciente tenta dizer por trás do discurso ([[Resistência do analista]]).
-- O corpo do terapeuta é "palco de afeto", mas é preciso distinguir o que vem **do vínculo** do que é **meu** e se interpõe. Quando o meu incômodo se sobressai, "estou me colocando acima do paciente" e cria-se uma barreira entre o eu e o outro {{ts:acervo-14@0:35:54}}.
+- O corpo do terapeuta é "palco de afeto", mas é preciso distinguir o que vem **do vínculo** do que é **meu** e se interpõe. Quando o meu incômodo se sobressai, "estou me colocando acima do paciente" e cria-se uma barreira entre o eu e o outro [▶ 0:35:54](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2154s).
 
-### Função da intervenção e compromisso social (análise do comportamento) {{ts:acervo-14@0:38:37}}
+### Função da intervenção e compromisso social (análise do comportamento) [▶ 0:38:37](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2317s)
 - Em debate é fácil separar sentimento, impressão, interpretação, gatilho e sinal de alerta. **Na hora da sessão, está tudo integrado.**
-- Toda intervenção tem um objetivo. Na análise do comportamento, pergunta-se pela **função** ([[Análise funcional]]). O perigo é a intervenção não estar sob controle do caso, e sim da vontade de **parar o discurso** que dói no terapeuta. Se o analista "se faz surdo", o analista do comportamento pode "se fazer controlador" {{ts:acervo-14@0:39:42}}.
-- O terapeuta tem **muito poder sobre o discurso** do paciente, porque valida, escuta ou não. Isso não significa elogiar tudo: às vezes provocar dá gás ao próprio paciente {{ts:acervo-14@0:40:50}}.
-- **Metáfora do restaurante:** se sinto o cheiro de uma comida que me incomoda, vou para o outro lado do bufê; se sinto um cheiro que se destaca e me provoca a explorar, vou investigar. Há pontos do discurso que "se ressaltam" sem ser incômodos {{ts:acervo-14@0:40:50}}.
-- **Pautas sociais** {{ts:acervo-14@0:41:44}}: racismo, sexismo e misoginia envolvem a pergunta "que psicologia queremos construir?". Não é o caso de fazer psicoeducação antirracista para um racista, porque "ele já ouviu esse tipo de correção". Mas, com uma paciente em risco de violência doméstica, o trabalho inclui informar sobre instituições de apoio próximas e ferramentas concretas: "permitir que a paciente atue politicamente na própria realidade" ([[Compromisso social da psicologia]]).
+- Toda intervenção tem um objetivo. Na análise do comportamento, pergunta-se pela **função** ([[Análise funcional]]). O perigo é a intervenção não estar sob controle do caso, e sim da vontade de **parar o discurso** que dói no terapeuta. Se o analista "se faz surdo", o analista do comportamento pode "se fazer controlador" [▶ 0:39:42](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2382s).
+- O terapeuta tem **muito poder sobre o discurso** do paciente, porque valida, escuta ou não. Isso não significa elogiar tudo: às vezes provocar dá gás ao próprio paciente [▶ 0:40:50](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2450s).
+- **Metáfora do restaurante:** se sinto o cheiro de uma comida que me incomoda, vou para o outro lado do bufê; se sinto um cheiro que se destaca e me provoca a explorar, vou investigar. Há pontos do discurso que "se ressaltam" sem ser incômodos [▶ 0:40:50](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2450s).
+- **Pautas sociais** [▶ 0:41:44](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2504s): racismo, sexismo e misoginia envolvem a pergunta "que psicologia queremos construir?". Não é o caso de fazer psicoeducação antirracista para um racista, porque "ele já ouviu esse tipo de correção". Mas, com uma paciente em risco de violência doméstica, o trabalho inclui informar sobre instituições de apoio próximas e ferramentas concretas: "permitir que a paciente atue politicamente na própria realidade" ([[Compromisso social da psicologia]]).
 
-### O sentimento é sempre próprio: elaborado ou mal elaborado {{ts:acervo-14@1:04:57}}
+### O sentimento é sempre próprio: elaborado ou mal elaborado [▶ 1:04:57](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3897s)
 - Depois do roleplay, o participante-terapeuta reformula: não consegue separar "sentimentos meus" de "sentimentos da relação". **Todo sentimento é próprio**; o que varia é se está **bem ou mal elaborado** ([[Sentimento elaborado e mal elaborado]]).
-- **Bem elaborado** (já olhado, nomeado, com origem e destino conhecidos), ele é útil e faz enxergar pontos que de outro modo passariam. **Mal elaborado**, gera preconceito e reação exagerada. Exemplo hipotético: um terapeuta que viveu uma traição envolvendo um líder religioso e nunca tratou disso "contamina" a sessão tentando fazer a paciente odiar o líder {{ts:acervo-14@1:06:04}}.
-- Um terapeuta que não sentisse nada diante do relato perderia a percepção do problema moral da relação de poder e trataria tudo como "ciúme". O refinamento do sentimento passa pela terapia pessoal, mas o sentimento continua sendo "a bússola que te alerta" {{ts:acervo-14@1:08:24}} ([[Bússola moral]]).
+- **Bem elaborado** (já olhado, nomeado, com origem e destino conhecidos), ele é útil e faz enxergar pontos que de outro modo passariam. **Mal elaborado**, gera preconceito e reação exagerada. Exemplo hipotético: um terapeuta que viveu uma traição envolvendo um líder religioso e nunca tratou disso "contamina" a sessão tentando fazer a paciente odiar o líder [▶ 1:06:04](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3964s).
+- Um terapeuta que não sentisse nada diante do relato perderia a percepção do problema moral da relação de poder e trataria tudo como "ciúme". O refinamento do sentimento passa pela terapia pessoal, mas o sentimento continua sendo "a bússola que te alerta" [▶ 1:08:24](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4104s) ([[Bússola moral]]).
 
-### Não retirar abruptamente o que sustenta o paciente {{ts:acervo-14@1:10:53}}
+### Não retirar abruptamente o que sustenta o paciente [▶ 1:10:53](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4253s)
 - A tentação de dizer "está óbvio que ele faz isso com todas" precisa ser contida. É preciso investigar antes e verificar se não é uma preconcepção.
-- Hipótese clínica levantada: não se sabe quanto **sentir-se amada** sustenta a paciente e mantém as fantasias hostis apenas no campo da imaginação. Retirar isso de forma brusca poderia ter efeitos imprevisíveis {{ts:acervo-14@1:11:56}}.
-- O facilitador nomeia a lição: evitar uma **atitude afobada**, imediatista, que tire da pessoa "uma estrutura que a sustentava e que você nem sabia" {{ts:acervo-14@1:11:56}}.
+- Hipótese clínica levantada: não se sabe quanto **sentir-se amada** sustenta a paciente e mantém as fantasias hostis apenas no campo da imaginação. Retirar isso de forma brusca poderia ter efeitos imprevisíveis [▶ 1:11:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4316s).
+- O facilitador nomeia a lição: evitar uma **atitude afobada**, imediatista, que tire da pessoa "uma estrutura que a sustentava e que você nem sabia" [▶ 1:11:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4316s).
 
 ## Dinâmica(s)
 
@@ -133,7 +133,7 @@ Com o grupo já reduzido, Rodolfo negocia um **roleplay de 7 minutos**. Um parti
 - **Consigna (adaptada):** "Anotem de três a cinco tópicos que vocês consideram sensíveis, que seria difícil lidar com uma pessoa que pensa assim. Pode ser um pouco menos ou um pouco mais. O foco é tensão de crenças e valores, e não atos graves."
 - **Passo a passo:** 1. Enquadrar o tema como algo que acontece em qualquer relação, não só na clínica. 2. Dar um minuto para anotar. 3. Esclarecer o grau de "sensível" se alguém perguntar (valores e crenças, não crimes). 4. Abrir a rodada e ler as respostas do chat. 5. Pedir que "segurem" esses temas para usar depois.
 - **Como o facilitador dá feedback:** acolhe e registra sem julgar ("dá uma segurada aí nessas coisas"), às vezes com identificação pessoal ("eu te entendo muito").
-- **O que aconteceu na prática:** surgiram política, preconceito de gênero e sexualidade, violência de gênero e contra crianças, dogmatismo religioso, gordofobia, machismo, misoginia, racismo, homofobia, bullying, autocentramento e imposição {{ts:acervo-14@0:04:02}}.
+- **O que aconteceu na prática:** surgiram política, preconceito de gênero e sexualidade, violência de gênero e contra crianças, dogmatismo religioso, gordofobia, machismo, misoginia, racismo, homofobia, bullying, autocentramento e imposição [▶ 0:04:02](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=242s).
 - **Variações e armadilhas:** a lista pode alimentar vinhetas para vários roleplays. Armadilha: sem retomada, a lista fica solta. Aqui ela foi usada só em parte, porque o exercício ficou comprimido.
 
 ### [[Dinâmica - Roleplay de valores em conflito]]
@@ -151,80 +151,80 @@ Com o grupo já reduzido, Rodolfo negocia um **roleplay de 7 minutos**. Um parti
   5. Debriefing em três perguntas: o que você pretendia com suas intervenções? Como se sentiu? Usaria esse sentimento como intervenção?
   6. Encerrar com "qual foi a parte mais difícil?".
 - **Como o facilitador dá feedback / critérios de qualidade:** não há correção técnica. O foco está em **identificar o afeto** (preocupação, raiva), em **distinguir o que é do terapeuta e o que é da relação** e em **reconhecer o impulso de condenar** e o risco de uma atitude afobada.
-- **O que aconteceu na prática:** a paciente simulada trouxe atração por um líder religioso, culpa, hostilidade à esposa dele e, no fim, uma história traumática de infância que muda o sentido da aproximação do líder. O terapeuta explorou a função do ódio ("ele tem a função de não atrapalhar seu caminho"), o que a atraía e se o líder agia assim com outras mulheres. Tentava diferenciar os tipos de relação e "tirar o poder mágico" do líder {{ts:acervo-14@0:59:35}}. No debriefing, ele disse que se sentiu **preocupado** e que precisou resistir à vontade de "encontrar maldade no cara" e condenar a instituição {{ts:acervo-14@1:02:59}}. Notou também que a atriz ria ao contar a história e, embora tenha pensado em usar isso, concluiu que o riso era dela e não da personagem {{ts:acervo-14@1:00:40}}.
+- **O que aconteceu na prática:** a paciente simulada trouxe atração por um líder religioso, culpa, hostilidade à esposa dele e, no fim, uma história traumática de infância que muda o sentido da aproximação do líder. O terapeuta explorou a função do ódio ("ele tem a função de não atrapalhar seu caminho"), o que a atraía e se o líder agia assim com outras mulheres. Tentava diferenciar os tipos de relação e "tirar o poder mágico" do líder [▶ 0:59:35](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3575s). No debriefing, ele disse que se sentiu **preocupado** e que precisou resistir à vontade de "encontrar maldade no cara" e condenar a instituição [▶ 1:02:59](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3779s). Notou também que a atriz ria ao contar a história e, embora tenha pensado em usar isso, concluiu que o riso era dela e não da personagem [▶ 1:00:40](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3640s).
 - **Variações e armadilhas:** fazer rodadas trocando os temas da lista; incluir um observador que anote as intervenções movidas pelo incômodo. Armadilhas: a vinheta pode escalar para temas graves (abuso, fantasias violentas) em poucos minutos, e o tempo termina num ponto em que "jamais se encerraria" uma sessão. Vale combinar um tempo extra ou um fechamento simbólico. Com poucos presentes, o roleplay perde observadores para o debriefing.
 
 ## Dicas clínicas
-- **Mapeie antes quais crenças e valores te tiram do eixo** — *Por quê:* reconhecer o próprio "espinho" é pré-condição para não agir movido por ele. *Quando:* formação e supervisão. {{ts:acervo-14@0:01:56}}
-- **Não imponha a sua "maneira correta de viver"; convide o paciente a avaliar os valores que engoliu prontos** — *Por quê:* impor gera nova introjeção; avaliar permite apropriação. *Quando:* sofrimento ligado a valores rígidos. {{ts:acervo-14@0:47:42}}
-- **Construa as flexibilizações junto com o paciente, dentro do sistema de valores dele** — *Por quê:* a solução encontrada em conjunto respeita o valor e reduz o sofrimento. *Quando:* conflito entre preceito e necessidade concreta. {{ts:acervo-14@0:17:49}}
-- **Use o seu afeto como termômetro do modo relacional do paciente, desde que ele não esteja contaminado pela sua história** — *Por quê:* o que o paciente desperta em você tende a se repetir fora. *Quando:* ao sentir irritação, ansiedade ou conforto marcantes. {{ts:acervo-14@0:22:59}}
-- **Se o incômodo toca uma experiência sua, leve-o para a sua terapia ou supervisão antes de usá-lo na sessão** — *Por quê:* afeto não elaborado vira viés e reação exagerada. *Quando:* temas ligados à própria biografia. {{ts:acervo-14@0:34:17}}
-- **Pergunte-se qual é a função da sua intervenção: explorar o caso ou calar o que te dói?** — *Por quê:* o terapeuta pode, sem perceber, controlar o discurso do paciente. *Quando:* intervenções feitas "no calor" do incômodo. {{ts:acervo-14@0:39:42}}
-- **Fale das consequências do comportamento, respeitando a autonomia, em vez de prescrever como o paciente deve ser** — *Por quê:* o código de ética veda impor visões; a autonomia é do paciente. *Quando:* comportamentos que afastam os outros. {{ts:acervo-14@0:28:23}}
-- **Só barre diretamente quando houver risco de vida para o paciente ou para outros** — *Por quê:* é o limite em que o código de ética obriga a agir. *Quando:* risco iminente. {{ts:acervo-14@0:29:27}}
-- **Não faça psicoeducação do óbvio para quem já ouviu a correção** — *Por quê:* o racista já ouviu que racismo é errado; repetir não muda nada. *Quando:* pautas sociais no discurso do paciente. {{ts:acervo-14@0:41:44}}
-- **Em situações de violência, ofereça informação concreta sobre a rede de apoio** — *Por quê:* permite à paciente agir politicamente na própria realidade, além de acolher e investigar. *Quando:* risco de violência doméstica. {{ts:acervo-14@0:41:44}}
-- **Nunca encerre a sessão logo após uma revelação grave** — *Por quê:* deixa o paciente desamparado no ponto de maior vulnerabilidade. *Quando:* revelações de trauma ou abuso. {{ts:acervo-14@0:59:35}}
-- **Investigue antes de concluir; teste a sua preconcepção** — *Por quê:* a hipótese movida pelo incômodo ("ele faz isso com todas") pode ser o seu viés. *Quando:* relatos que despertam indignação. {{ts:acervo-14@1:10:53}}
-- **Não retire de forma afobada algo que pode estar sustentando o paciente** — *Por quê:* pode ser o que mantém impulsos no campo da fantasia. *Quando:* crenças ou vínculos que parecem nocivos. {{ts:acervo-14@1:11:56}}
-- **Estimule o senso crítico sem condenar em bloco a instituição, a pessoa ou o terceiro** — *Por quê:* a condenação generalizada é percebida como ataque ao mundo do paciente. *Quando:* relações de poder em contextos religiosos, familiares ou institucionais. {{ts:acervo-14@1:09:37}}
-- **Diferencie pontos do discurso que "se ressaltam" daqueles que apenas te incomodam** — *Por quê:* o que se destaca pede exploração; o que só incomoda pode levar à esquiva. *Quando:* ao escolher o que explorar. {{ts:acervo-14@0:40:50}}
-- **Observe incongruências entre afeto e conteúdo, como rir ao contar algo doloroso** — *Por quê:* podem ser material clínico; no roleplay, distinguir se é da pessoa ou da personagem. *Quando:* relatos de sofrimento com afeto dissonante. {{ts:acervo-14@1:00:40}}
+- **Mapeie antes quais crenças e valores te tiram do eixo** — *Por quê:* reconhecer o próprio "espinho" é pré-condição para não agir movido por ele. *Quando:* formação e supervisão. [▶ 0:01:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=116s)
+- **Não imponha a sua "maneira correta de viver"; convide o paciente a avaliar os valores que engoliu prontos** — *Por quê:* impor gera nova introjeção; avaliar permite apropriação. *Quando:* sofrimento ligado a valores rígidos. [▶ 0:47:42](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2862s)
+- **Construa as flexibilizações junto com o paciente, dentro do sistema de valores dele** — *Por quê:* a solução encontrada em conjunto respeita o valor e reduz o sofrimento. *Quando:* conflito entre preceito e necessidade concreta. [▶ 0:17:49](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1069s)
+- **Use o seu afeto como termômetro do modo relacional do paciente, desde que ele não esteja contaminado pela sua história** — *Por quê:* o que o paciente desperta em você tende a se repetir fora. *Quando:* ao sentir irritação, ansiedade ou conforto marcantes. [▶ 0:22:59](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1379s)
+- **Se o incômodo toca uma experiência sua, leve-o para a sua terapia ou supervisão antes de usá-lo na sessão** — *Por quê:* afeto não elaborado vira viés e reação exagerada. *Quando:* temas ligados à própria biografia. [▶ 0:34:17](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2057s)
+- **Pergunte-se qual é a função da sua intervenção: explorar o caso ou calar o que te dói?** — *Por quê:* o terapeuta pode, sem perceber, controlar o discurso do paciente. *Quando:* intervenções feitas "no calor" do incômodo. [▶ 0:39:42](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2382s)
+- **Fale das consequências do comportamento, respeitando a autonomia, em vez de prescrever como o paciente deve ser** — *Por quê:* o código de ética veda impor visões; a autonomia é do paciente. *Quando:* comportamentos que afastam os outros. [▶ 0:28:23](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1703s)
+- **Só barre diretamente quando houver risco de vida para o paciente ou para outros** — *Por quê:* é o limite em que o código de ética obriga a agir. *Quando:* risco iminente. [▶ 0:29:27](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1767s)
+- **Não faça psicoeducação do óbvio para quem já ouviu a correção** — *Por quê:* o racista já ouviu que racismo é errado; repetir não muda nada. *Quando:* pautas sociais no discurso do paciente. [▶ 0:41:44](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2504s)
+- **Em situações de violência, ofereça informação concreta sobre a rede de apoio** — *Por quê:* permite à paciente agir politicamente na própria realidade, além de acolher e investigar. *Quando:* risco de violência doméstica. [▶ 0:41:44](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2504s)
+- **Nunca encerre a sessão logo após uma revelação grave** — *Por quê:* deixa o paciente desamparado no ponto de maior vulnerabilidade. *Quando:* revelações de trauma ou abuso. [▶ 0:59:35](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3575s)
+- **Investigue antes de concluir; teste a sua preconcepção** — *Por quê:* a hipótese movida pelo incômodo ("ele faz isso com todas") pode ser o seu viés. *Quando:* relatos que despertam indignação. [▶ 1:10:53](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4253s)
+- **Não retire de forma afobada algo que pode estar sustentando o paciente** — *Por quê:* pode ser o que mantém impulsos no campo da fantasia. *Quando:* crenças ou vínculos que parecem nocivos. [▶ 1:11:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4316s)
+- **Estimule o senso crítico sem condenar em bloco a instituição, a pessoa ou o terceiro** — *Por quê:* a condenação generalizada é percebida como ataque ao mundo do paciente. *Quando:* relações de poder em contextos religiosos, familiares ou institucionais. [▶ 1:09:37](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4177s)
+- **Diferencie pontos do discurso que "se ressaltam" daqueles que apenas te incomodam** — *Por quê:* o que se destaca pede exploração; o que só incomoda pode levar à esquiva. *Quando:* ao escolher o que explorar. [▶ 0:40:50](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2450s)
+- **Observe incongruências entre afeto e conteúdo, como rir ao contar algo doloroso** — *Por quê:* podem ser material clínico; no roleplay, distinguir se é da pessoa ou da personagem. *Quando:* relatos de sofrimento com afeto dissonante. [▶ 1:00:40](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3640s)
 
 ## Teses e posicionamentos
 - **Tese:** impor ou projetar os próprios valores é um erro comum e induz introjeção.
   - *Argumento:* o paciente "engole" o valor pronto sem avaliá-lo; o papel clínico é convidar à avaliação.
   - *Implicação prática:* respeitar e explorar, e não prescrever modos de viver.
-  - *Quem:* Rodolfo · {{ts:acervo-14@0:12:26}}
+  - *Quem:* Rodolfo · [▶ 0:12:26](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=746s)
 - **Tese:** o conflito de valores entre paciente e terapeuta é incômodo, mas necessário.
   - *Argumento:* com Jung, toda neurose tem um núcleo de conflito moral; o que é "normal" para os dois passa em branco; o choque abre uma terceira via.
   - *Contraponto:* Alice e Diogo alertam que o afeto marcado pela história do terapeuta distorce.
   - *Implicação prática:* não suprimir o choque; usá-lo como sinal.
-  - *Quem:* participante junguiano · {{ts:acervo-14@0:19:01}}
+  - *Quem:* participante junguiano · [▶ 0:19:01](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1141s)
 - **Tese:** o sentimento do terapeuta é um termômetro clínico, mas perde validade quando contaminado por processos internos.
   - *Argumento:* o modo relacional do paciente se reproduz na sessão; se o termômetro está "bagunçado", perde-se o dado.
   - *Implicação prática:* usar o afeto como ferramenta apenas quando se sabe o que é seu.
-  - *Quem:* Diogo · {{ts:acervo-14@0:22:59}}
+  - *Quem:* Diogo · [▶ 0:22:59](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1379s)
 - **Tese:** quase sempre a resistência é do terapeuta.
   - *Argumento:* no incômodo por crença, religião ou política, o terapeuta se faz surdo ao que o paciente diz por trás do discurso.
   - *Implicação prática:* os incômodos "unicamente meus" vão para a análise e a supervisão, e não para a sessão.
-  - *Quem:* participante psicanalista · {{ts:acervo-14@0:34:17}}
+  - *Quem:* participante psicanalista · [▶ 0:34:17](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2057s)
 - **Tese:** a intervenção movida pelo incômodo pode ter a função de calar o paciente.
   - *Argumento:* o terapeuta tem poder sobre o discurso ao validar ou não; sob incômodo, pode virar "controlador".
   - *Implicação prática:* perguntar-se pela função de cada intervenção.
-  - *Quem:* Diogo · {{ts:acervo-14@0:39:42}}
+  - *Quem:* Diogo · [▶ 0:39:42](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2382s)
 - **Tese:** a psicologia deve ajudar o paciente a atuar politicamente na própria realidade em pautas sociais.
   - *Argumento:* acolher e investigar não bastam em casos de violência; informar sobre a rede de apoio é parte do trabalho.
   - *Contraponto:* isso não significa psicoeducar moralmente o paciente (o racista já ouviu a correção).
   - *Implicação prática:* incluir recursos concretos quando o sofrimento passa por pautas sociais.
-  - *Quem:* Diogo · {{ts:acervo-14@0:41:44}}
+  - *Quem:* Diogo · [▶ 0:41:44](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2504s)
 - **Tese:** todo sentimento do terapeuta é próprio; o que muda é o grau de elaboração.
   - *Argumento:* não é possível separar "o que é meu" do "que é da relação"; o sentimento elaborado vira bússola e o mal elaborado, preconceito.
   - *Contraponto:* diverge da distinção meu/nosso proposta pela participante psicanalista.
   - *Implicação prática:* terapia pessoal como refinamento do instrumento, e não como anestesia.
-  - *Quem:* participante junguiano · {{ts:acervo-14@1:04:57}}
+  - *Quem:* participante junguiano · [▶ 1:04:57](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3897s)
 - **Tese:** na discussão é fácil separar; na sessão está tudo integrado.
   - *Argumento:* sentimento, impressão, interpretação e alerta aparecem juntos na hora do atendimento.
   - *Implicação prática:* treinar com simulações, e não só debater.
-  - *Quem:* Diogo · {{ts:acervo-14@0:38:37}}
+  - *Quem:* Diogo · [▶ 0:38:37](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2317s)
 
 ## Como o facilitador conduz
-- **Abre normalizando o tema:** o choque de valores "não é exclusivo da clínica", acontece com qualquer pessoa na rua. Isso reduz a vergonha de admitir incômodos. {{ts:acervo-14@0:01:56}}
-- **Aquecimento curto, individual e reaproveitável:** um minuto para listar temas, material que depois alimenta o roleplay. {{ts:acervo-14@0:01:56}} {{ts:acervo-14@0:45:02}}
-- **Delimita a consigna quando perguntado:** esclarece que "sensível" se refere a crenças e valores, e não a crimes. {{ts:acervo-14@0:02:50}}
-- **Parafraseia para checar a compreensão:** "então você acha que a teoria te ajuda a lidar com essa divergência...". Faz o mesmo com Diogo, cujo áudio estava ruim. {{ts:acervo-14@0:07:57}} {{ts:acervo-14@0:25:32}}
-- **Puxa o gancho de uma fala para inserir um conceito da própria abordagem:** parte da "imposição" citada por Diogo para introduzir a introjeção. {{ts:acervo-14@0:12:05}}
-- **Valida quem expõe a própria prática:** diante da dúvida "não sei se fiz certo", responde "não vejo por que isso seria errado" e destaca a flexibilização feita em conjunto. {{ts:acervo-14@0:17:49}}
-- **Cofacilitação como voz de outra abordagem:** "Diogo, manda ver". O cofacilitador entra quase como um participante qualificado, e isso amplia a comparação entre abordagens. {{ts:acervo-14@0:10:05}} {{ts:acervo-14@0:38:37}}
-- **Recap das posições:** sintetiza as teses de dois participantes antes de seguir. {{ts:acervo-14@0:37:28}}
-- **Inclui o chat, com dificuldade de timing:** lê comentários que já perderam o contexto e se desculpa: "vou tentar ser mais ágil da próxima vez". {{ts:acervo-14@0:44:08}}
-- **Negocia o plano com o grupo:** quando participantes começam a sair, pergunta se ainda querem o exercício e reduz o roleplay para 7 minutos. {{ts:acervo-14@0:45:02}} {{ts:acervo-14@0:46:10}}
-- **Preenche o tempo morto com conteúdo:** enquanto a participante liga a câmera, "enrola" retomando a introjeção. {{ts:acervo-14@0:47:28}}
-- **Cria segurança para o roleplay:** "não é avaliação, é entender como você se sentiu"; o tema é escolhido a partir do que incomoda o terapeuta. {{ts:acervo-14@0:50:37}}
-- **Debriefing centrado no afeto:** "como é que foi para você?", "você usaria esse sentimento como intervenção?", "qual foi a parte mais difícil?". {{ts:acervo-14@1:00:40}} {{ts:acervo-14@1:04:40}} {{ts:acervo-14@1:09:11}}
-- **Nomeia a lição com uma palavra de efeito:** "atitude afobada", termo de Recife. {{ts:acervo-14@1:11:56}}
-- **Fecha com síntese, formulário de presença e repertório cultural:** reforça que todos os grupos da Allos dão horas complementares e abre espaço para indicações (filme e livro). {{ts:acervo-14@1:13:04}} {{ts:acervo-14@1:14:35}}
+- **Abre normalizando o tema:** o choque de valores "não é exclusivo da clínica", acontece com qualquer pessoa na rua. Isso reduz a vergonha de admitir incômodos. [▶ 0:01:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=116s)
+- **Aquecimento curto, individual e reaproveitável:** um minuto para listar temas, material que depois alimenta o roleplay. [▶ 0:01:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=116s) [▶ 0:45:02](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2702s)
+- **Delimita a consigna quando perguntado:** esclarece que "sensível" se refere a crenças e valores, e não a crimes. [▶ 0:02:50](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=170s)
+- **Parafraseia para checar a compreensão:** "então você acha que a teoria te ajuda a lidar com essa divergência...". Faz o mesmo com Diogo, cujo áudio estava ruim. [▶ 0:07:57](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=477s) [▶ 0:25:32](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1532s)
+- **Puxa o gancho de uma fala para inserir um conceito da própria abordagem:** parte da "imposição" citada por Diogo para introduzir a introjeção. [▶ 0:12:05](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=725s)
+- **Valida quem expõe a própria prática:** diante da dúvida "não sei se fiz certo", responde "não vejo por que isso seria errado" e destaca a flexibilização feita em conjunto. [▶ 0:17:49](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1069s)
+- **Cofacilitação como voz de outra abordagem:** "Diogo, manda ver". O cofacilitador entra quase como um participante qualificado, e isso amplia a comparação entre abordagens. [▶ 0:10:05](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=605s) [▶ 0:38:37](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2317s)
+- **Recap das posições:** sintetiza as teses de dois participantes antes de seguir. [▶ 0:37:28](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2248s)
+- **Inclui o chat, com dificuldade de timing:** lê comentários que já perderam o contexto e se desculpa: "vou tentar ser mais ágil da próxima vez". [▶ 0:44:08](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2648s)
+- **Negocia o plano com o grupo:** quando participantes começam a sair, pergunta se ainda querem o exercício e reduz o roleplay para 7 minutos. [▶ 0:45:02](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2702s) [▶ 0:46:10](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2770s)
+- **Preenche o tempo morto com conteúdo:** enquanto a participante liga a câmera, "enrola" retomando a introjeção. [▶ 0:47:28](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2848s)
+- **Cria segurança para o roleplay:** "não é avaliação, é entender como você se sentiu"; o tema é escolhido a partir do que incomoda o terapeuta. [▶ 0:50:37](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3037s)
+- **Debriefing centrado no afeto:** "como é que foi para você?", "você usaria esse sentimento como intervenção?", "qual foi a parte mais difícil?". [▶ 1:00:40](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3640s) [▶ 1:04:40](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3880s) [▶ 1:09:11](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4151s)
+- **Nomeia a lição com uma palavra de efeito:** "atitude afobada", termo de Recife. [▶ 1:11:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4316s)
+- **Fecha com síntese, formulário de presença e repertório cultural:** reforça que todos os grupos da Allos dão horas complementares e abre espaço para indicações (filme e livro). [▶ 1:13:04](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4384s) [▶ 1:14:35](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4475s)
 
 ## Conceitos-chave
 - [[Introjeção]] — na Gestalt, assimilar um valor pronto sem avaliá-lo. O terapeuta pode induzi-la ao impor valores, ou ajudar o paciente a revisar as que já tem.
@@ -243,37 +243,37 @@ Com o grupo já reduzido, Rodolfo negocia um **roleplay de 7 minutos**. Um parti
 - [[Autonomia do paciente]] — falar das consequências sem prescrever como o paciente deve ser.
 
 ## Frases para guardar
-> "Introjeção é engolir um valor pronto, sem avaliar se de verdade aquilo faz sentido para você." — Rodolfo {{ts:acervo-14@0:13:29}}
+> "Introjeção é engolir um valor pronto, sem avaliar se de verdade aquilo faz sentido para você." — Rodolfo [▶ 0:13:29](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=809s)
 
-> "No fundo de toda neurose há um conflito moral." — participante, citando Jung {{ts:acervo-14@0:19:01}}
+> "No fundo de toda neurose há um conflito moral." — participante, citando Jung [▶ 0:19:01](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1141s)
 
-> "Os sentimentos são um termômetro clínico muito importante, mas, se esse termômetro está bagunçado pelos nossos processos internos, ele perde a validade." — Diogo {{ts:acervo-14@0:24:13}}
+> "Os sentimentos são um termômetro clínico muito importante, mas, se esse termômetro está bagunçado pelos nossos processos internos, ele perde a validade." — Diogo [▶ 0:24:13](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1453s)
 
-> "O ponto está sempre na diferença, e quem aponta essa diferença é o seu sentimento." — participante {{ts:acervo-14@0:33:47}}
+> "O ponto está sempre na diferença, e quem aponta essa diferença é o seu sentimento." — participante [▶ 0:33:47](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2027s)
 
-> "Quase sempre a resistência é do terapeuta." — participante, sobre um dito da psicanálise {{ts:acervo-14@0:34:17}}
+> "Quase sempre a resistência é do terapeuta." — participante, sobre um dito da psicanálise [▶ 0:34:17](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2057s)
 
-> "Em debate é muito fácil separar as coisas. Na hora do vamos ver, está tudo integrado." — Diogo {{ts:acervo-14@0:38:37}}
+> "Em debate é muito fácil separar as coisas. Na hora do vamos ver, está tudo integrado." — Diogo [▶ 0:38:37](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2317s)
 
-> "Nós, terapeutas, temos muito poder sobre o discurso do paciente, na medida em que validamos, escutamos ou não." — Diogo {{ts:acervo-14@0:39:42}}
+> "Nós, terapeutas, temos muito poder sobre o discurso do paciente, na medida em que validamos, escutamos ou não." — Diogo [▶ 0:39:42](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2382s)
 
-> "Só porque a pessoa foi racista, tenho de fazer psicoeducação sobre não ser racista? Não: ela já ouviu esse tipo de correção." — Diogo {{ts:acervo-14@0:41:44}}
+> "Só porque a pessoa foi racista, tenho de fazer psicoeducação sobre não ser racista? Não: ela já ouviu esse tipo de correção." — Diogo [▶ 0:41:44](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2504s)
 
-> "Eu jamais encerraria depois de uma fala dessa." — participante-terapeuta {{ts:acervo-14@0:59:35}}
+> "Eu jamais encerraria depois de uma fala dessa." — participante-terapeuta [▶ 0:59:35](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3575s)
 
-> "Todo sentimento é próprio: ou ele é bem elaborado, ou é mal elaborado." — participante {{ts:acervo-14@1:04:57}}
+> "Todo sentimento é próprio: ou ele é bem elaborado, ou é mal elaborado." — participante [▶ 1:04:57](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3897s)
 
-> "O sentimento é a bússola que vai te alertar para todos os lugares." — participante {{ts:acervo-14@1:08:24}}
+> "O sentimento é a bússola que vai te alertar para todos os lugares." — participante [▶ 1:08:24](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4104s)
 
-> "Por uma atitude afobada, você pode tirar da pessoa, de forma abrupta, uma estrutura que a sustentava e que você nem sabia." — Rodolfo {{ts:acervo-14@1:11:56}}
+> "Por uma atitude afobada, você pode tirar da pessoa, de forma abrupta, uma estrutura que a sustentava e que você nem sabia." — Rodolfo [▶ 1:11:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4316s)
 
 ## Ideias de conteúdo
-- **Carrossel · clinica-na-pratica:** "Quando os valores do paciente te incomodam: quatro perguntas antes de intervir" → é meu ou é da relação? Qual é a função da minha intervenção? Estou impondo? Isso sustenta algo no paciente? Corte sugerido: {{ts:acervo-14@0:22:59}}–{{ts:acervo-14@0:25:32}}
-- **Reels · abordagens-em-dialogo:** "Gestalt, psicanálise, análise do comportamento e Jung diante do incômodo do terapeuta" → introjeção, resistência do analista, função da intervenção e conflito moral. Corte sugerido: {{ts:acervo-14@0:34:17}}–{{ts:acervo-14@0:35:51}}
-- **Post · maximas-e-reflexoes:** "Todo sentimento do terapeuta é dele. A questão é se está elaborado." → terapia pessoal como afinação do instrumento. Corte sugerido: {{ts:acervo-14@1:04:57}}–{{ts:acervo-14@1:06:04}}
-- **Stories · bastidores-dos-grupos:** "Liste em um minuto três temas que te tiram do eixo" → caixinha de respostas e convite para o grupo. Corte sugerido: {{ts:acervo-14@0:01:56}}–{{ts:acervo-14@0:02:50}}
-- **Carrossel · formacao-do-psicologo:** "Por que não fazer psicoeducação do óbvio" → o racista já ouviu a correção; o que muda é ajudar a agir na própria realidade. Corte sugerido: {{ts:acervo-14@0:41:44}}–{{ts:acervo-14@0:42:50}}
-- **Reels · clinica-na-pratica:** "A atitude afobada" → não tire abruptamente o que sustenta o paciente. Corte sugerido: {{ts:acervo-14@1:10:53}}–{{ts:acervo-14@1:13:04}}
+- **Carrossel · clinica-na-pratica:** "Quando os valores do paciente te incomodam: quatro perguntas antes de intervir" → é meu ou é da relação? Qual é a função da minha intervenção? Estou impondo? Isso sustenta algo no paciente? Corte sugerido: [▶ 0:22:59](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1379s)–[▶ 0:25:32](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=1532s)
+- **Reels · abordagens-em-dialogo:** "Gestalt, psicanálise, análise do comportamento e Jung diante do incômodo do terapeuta" → introjeção, resistência do analista, função da intervenção e conflito moral. Corte sugerido: [▶ 0:34:17](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2057s)–[▶ 0:35:51](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2151s)
+- **Post · maximas-e-reflexoes:** "Todo sentimento do terapeuta é dele. A questão é se está elaborado." → terapia pessoal como afinação do instrumento. Corte sugerido: [▶ 1:04:57](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3897s)–[▶ 1:06:04](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=3964s)
+- **Stories · bastidores-dos-grupos:** "Liste em um minuto três temas que te tiram do eixo" → caixinha de respostas e convite para o grupo. Corte sugerido: [▶ 0:01:56](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=116s)–[▶ 0:02:50](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=170s)
+- **Carrossel · formacao-do-psicologo:** "Por que não fazer psicoeducação do óbvio" → o racista já ouviu a correção; o que muda é ajudar a agir na própria realidade. Corte sugerido: [▶ 0:41:44](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2504s)–[▶ 0:42:50](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2570s)
+- **Reels · clinica-na-pratica:** "A atitude afobada" → não tire abruptamente o que sustenta o paciente. Corte sugerido: [▶ 1:10:53](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4253s)–[▶ 1:13:04](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=4384s)
 
 ## Para replicar este encontro
 **Preparação:** um facilitador e, de preferência, um cofacilitador de outra abordagem; grupo de 6 a 10 pessoas; cronômetro; um conceito-âncora curto (a introjeção, ou equivalente na sua abordagem). Planeje **reservar metade do tempo para o exercício**, que foi o ponto fraco aqui.

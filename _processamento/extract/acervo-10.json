@@ -1,0 +1,783 @@
+{
+  "id": "acervo-10",
+  "nota": "Acervo 10 - Qualidade da intervenção e ruptura do vínculo",
+  "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+  "titulo": "Qualidade da intervenção e ruptura do vínculo",
+  "serie": "Aprimoramento Clínico (Acervo)",
+  "formato": "Aprimoramento clínico",
+  "facilitadores": [
+    "Gabriel"
+  ],
+  "resumo": "Retomando o encontro anterior sobre priorização, o facilitador pergunta o que caracteriza uma boa intervenção além de ler o caso e priorizar (que ainda é interpretação). O grupo monta cinco critérios: leitura do caso, tomada de decisão, ferramentário, manejo do ferramentário (construção frasal, voz, corpo; entrega mais agressiva ou mais suave, mais abstrata ou mais corporal) e manejo das consequências. Surgem ainda a supervisão como apoio e a pergunta aberta sobre a coconstrução da intervenção. O último critério leva ao tema do dia, a quebra de vínculo: o problema da relação também é problema terapêutico, e a relação terapêutica é antifrágil (analogia do sistema imunológico). No único roleplay, uma participante encena a própria saída de uma terapia online por falta de privacidade; a 'terapeuta' resolve alterando a situação e 'foge do exercício', apesar da regra dada antes. O feedback valoriza a responsabilização e propõe especificar e validar, tratar como questão clínica, deixar o desejo de continuar para o fim, oferecer um contrato possível e uma saída sem custo. O encontro fecha com a máxima 'não existe intervenção errada; existe não saber lidar com as consequências'.",
+  "em_uma_frase": "Uma boa intervenção inclui manejar as consequências do que se disse; como a relação terapêutica é antifrágil, uma ruptura reparada na própria relação, sem mudar os fatos, a fortalece.",
+  "competencias": [
+    "Intervenção",
+    "Relação terapêutica",
+    "Acolhimento e validação",
+    "Construção frasal",
+    "Interpretação",
+    "Priorização clínica"
+  ],
+  "abordagens": [
+    "Psicanálise freudiana"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:00",
+      "bloco": "Retomada",
+      "descricao": "A gravação começa com o encontro em andamento: referência à semana anterior (priorização) e ao 'jabá' já feito.",
+      "funcao": "Ligar ao ciclo (priorização → qualidade da intervenção).",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:00:20",
+      "bloco": "Discussão",
+      "descricao": "Pergunta: o que caracteriza uma boa intervenção além da leitura correta do caso e da priorização?",
+      "funcao": "Ativar conhecimento prévio; mostrar que ler e priorizar ainda é interpretação.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:00:56",
+      "bloco": "Rodada de respostas",
+      "descricao": "Aparecem escuta (entra na interpretação), confronto (é ferramenta) e clareza, desdobrada em construção frasal e formas de entrega (agressiva, explicativa ou suave; abstrata ou específica e corporal).",
+      "funcao": "Refinar respostas vagas em critérios.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:03:07",
+      "bloco": "Teoria",
+      "descricao": "Síntese: manejo da fala (voz, corpo, construção frasal); lista com leitura, decisão, ferramentário e manejo. Meta: 'pelo menos cinco coisas'.",
+      "funcao": "Organizar e subir a exigência.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:05:06",
+      "bloco": "Discussão",
+      "descricao": "Supervisão proposta como ferramenta; o facilitador aprofunda até chegar a 'apoio para ler o caso e escolher ferramentas'.",
+      "funcao": "Aprofundar uma resposta periférica.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:07:26",
+      "bloco": "Discussão",
+      "descricao": "Pergunta aberta: a intervenção é só do terapeuta, dentro da sessão? Participante conta como, sendo paciente, inspirou a própria terapeuta.",
+      "funcao": "Abrir a ideia de coconstrução.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:10:12",
+      "bloco": "Teoria",
+      "descricao": "Uma colega sai; o facilitador acrescenta o critério 'manejo das consequências da intervenção'.",
+      "funcao": "Fazer a ponte para o tema do dia.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:11:34",
+      "bloco": "Dinâmica",
+      "descricao": "Anuncia que trocou o tema três vezes; hoje é quebra de vínculo. Primeira explicação da dinâmica. Problema na relação também é problema terapêutico.",
+      "funcao": "Apresentar o exercício.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:13:45",
+      "bloco": "Teoria",
+      "descricao": "Antifragilidade (papel, concreto, maleável, antifrágil); sistema imunológico; relação reparada volta mais forte; menção à transferência.",
+      "funcao": "Dar a razão para não temer a ruptura.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:16:48",
+      "bloco": "Dinâmica",
+      "descricao": "Segunda explicação, com exemplos de ruptura (terapeuta preconceituoso, robótico, violento, passivo demais).",
+      "funcao": "Concretizar a consigna.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:17:52",
+      "bloco": "Dúvidas",
+      "descricao": "Participante acha abstrato; o facilitador reexplica encenando a fala de um paciente magoado.",
+      "funcao": "Garantir o entendimento.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:19:38",
+      "bloco": "Combinados",
+      "descricao": "Recém-chegada hesita; 'a gente está aqui para errar'; convite nominal.",
+      "funcao": "Reduzir o medo de exposição.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:20:29",
+      "bloco": "Dinâmica",
+      "descricao": "Uma participante conta primeiro, fora do papel, a própria saída de uma terapia online por falta de privacidade.",
+      "funcao": "Dar contexto e evitar 'receber a bomba na cara'.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:22:49",
+      "bloco": "Combinados",
+      "descricao": "Regras: se o paciente diz que você fez, você fez; sem desculpinha; a terapeuta não tem outra opção.",
+      "funcao": "Impedir a fuga pela alteração dos fatos.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:23:41",
+      "bloco": "Dinâmica",
+      "descricao": "Escolha da terapeuta com brincadeira (moeda, pedra-papel-tesoura); instrução para fazer só a vinheta, sem abrir sessão.",
+      "funcao": "Pôr o roleplay em marcha.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:25:45",
+      "bloco": "Demonstração",
+      "descricao": "Roleplay: a paciente comunica o encerramento; a terapeuta se desculpa, diz querer que continue e promete alguém para cuidar da criança.",
+      "funcao": "Gerar material para o feedback.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:28:32",
+      "bloco": "Feedback",
+      "descricao": "'Você fugiu do exercício.' Retorno da paciente-atriz e de um observador (encaminhar). A terapeuta explica a inspiração pessoal. Novas fugas barradas: 'tem que ser difícil'.",
+      "funcao": "Reforçar a regra e ouvir os papéis.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:33:34",
+      "bloco": "Feedback",
+      "descricao": "Facilitador: positivo (desculpar-se e responsabilizar-se); ajustes (dizer pelo quê e validar, questão clínica, desejo no fim, contrato alternativo, saída sem custo); parêntese sobre câmera desligada e divã.",
+      "funcao": "Modelar falas de reparo.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:38:57",
+      "bloco": "Feedback",
+      "descricao": "Pergunta à terapeuta como foi a experiência.",
+      "funcao": "Fechar a rodada pelo vivido.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:39:26",
+      "bloco": "Discussão",
+      "descricao": "Avaliação do encontro; máxima 'não existe intervenção errada...'; medo de intervenções agressivas; participantes: mesmo um término seria mais consciente.",
+      "funcao": "Generalizar a lição.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:43:05",
+      "bloco": "Fechamento",
+      "descricao": "'Menos medo de atuar'; formulário de presença; pedido de feedback (inclusive anônimo); divulgação da clínica social da Allos; fim da gravação.",
+      "funcao": "Fechar e manter o vínculo com a instituição.",
+      "duracao_min": 2
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Qualidade da intervenção",
+      "definicao": "Conjunto de critérios de uma boa intervenção que vão além da interpretação: leitura adequada do caso, tomada de decisão sobre ela, uso de um ferramentário, manejo desse ferramentário e manejo das consequências.",
+      "exemplo": "Lista construída pelo grupo com a meta de 'pelo menos cinco coisas'.",
+      "abordagem": "Transteórico",
+      "ts": "0:03:37"
+    },
+    {
+      "nome": "Ferramentário clínico",
+      "definicao": "Recursos que o terapeuta usa para intervir: técnicas no sentido estrito, aprofundar, questionar e confrontar, e a própria fala, voz e corpo.",
+      "exemplo": "'A ferramenta que você está utilizando é a sua fala.'",
+      "abordagem": "Transteórico",
+      "ts": "0:03:37"
+    },
+    {
+      "nome": "Confronto terapêutico",
+      "definicao": "Aparece como ferramenta do ferramentário, não como critério de qualidade em si.",
+      "exemplo": "'Confronto é uma ferramenta que você usa, mas tá certo.'",
+      "abordagem": "Transteórico",
+      "ts": "0:01:37"
+    },
+    {
+      "nome": "Parâmetros da intervenção (distância, intensidade, forma e conteúdo)",
+      "definicao": "Sem usar os nomes, o facilitador descreve eixos de entrega: mais agressiva, explicativa ou suave; mais abstrata e aberta ou mais específica, voltada ao corpo e à vivência prática do paciente.",
+      "exemplo": "Entregar algo 'para ele pensar de maneira geral' versus 'puxando mais para o corpo'.",
+      "abordagem": "Transteórico",
+      "ts": "0:01:37"
+    },
+    {
+      "nome": "Manejo das consequências da intervenção",
+      "definicao": "Saber agir diante do efeito do que se disse (incômodo, ofensa, ameaça de abandono). É critério de qualidade e núcleo da máxima do dia.",
+      "exemplo": "Intervenção 'agressiva para caramba' com o paciente saindo incomodado.",
+      "abordagem": "Transteórico",
+      "ts": "0:11:20"
+    },
+    {
+      "nome": "Supervisão clínica",
+      "definicao": "Apoio para ler melhor o caso e escolher e usar corretamente as ferramentas de intervenção.",
+      "exemplo": "Supervisão que sugeriu usar temas de interesse de um paciente jovem como analogias.",
+      "abordagem": "Transteórico",
+      "ts": "0:06:57"
+    },
+    {
+      "nome": "Coconstrução da intervenção",
+      "definicao": "Hipótese, lançada como pergunta aberta, de que a intervenção não é só do terapeuta dentro da sessão: a sessão é construída a dois, e o paciente também pode 'devolver uma intervenção' e transformar o terapeuta.",
+      "exemplo": "Participante que, sendo paciente, inspirou a própria terapeuta a enfrentar um medo.",
+      "abordagem": "Transteórico",
+      "ts": "0:07:32"
+    },
+    {
+      "nome": "Ruptura e reparo da aliança",
+      "definicao": "Quebra de vínculo por uma conduta do terapeuta e trabalho de restaurá-lo na própria relação, tratando o problema da relação como problema terapêutico.",
+      "exemplo": "Paciente que decide encerrar por falta de privacidade no setting online.",
+      "abordagem": "Transteórico",
+      "ts": "0:12:49"
+    },
+    {
+      "nome": "Antifragilidade",
+      "definicao": "Propriedade do que fica mais forte com o golpe, diferente do frágil (papel), do duro mas frágil (concreto) e do maleável. Segundo o facilitador, a pesquisa mostra que a relação terapêutica é antifrágil.",
+      "exemplo": "Sistema imunológico: abala-se com a gripe, adapta-se e volta mais forte.",
+      "abordagem": "Transteórico",
+      "ts": "0:13:45"
+    },
+    {
+      "nome": "Responsabilização do terapeuta",
+      "definicao": "Pedir desculpas e assumir a própria parcela como primeiro passo do reparo, especificando pelo que se desculpa e validando o incômodo do paciente.",
+      "exemplo": "'Eu tenho a minha parcela de culpa.'",
+      "abordagem": "Transteórico",
+      "ts": "0:33:34"
+    },
+    {
+      "nome": "Contrato terapêutico",
+      "definicao": "Combinação explícita de um novo arranjo possível dentro das limitações reais do terapeuta, submetida à aceitação do paciente.",
+      "exemplo": "'Você topa esse contrato?', com uma alternativa de canal para os assuntos mais delicados.",
+      "abordagem": "Transteórico",
+      "ts": "0:36:04"
+    },
+    {
+      "nome": "Sigilo clínico",
+      "definicao": "A falta de privacidade no setting online (outra pessoa no ambiente do terapeuta) foi o motivo da ruptura na cena.",
+      "exemplo": "",
+      "abordagem": "Transteórico",
+      "ts": "0:27:48"
+    },
+    {
+      "nome": "Encaminhamento",
+      "definicao": "Saída legítima na vida real quando o terapeuta não consegue sustentar o atendimento, mas fora do objetivo do exercício, que é resolver na relação.",
+      "exemplo": "",
+      "abordagem": "Transteórico",
+      "ts": "0:30:36"
+    },
+    {
+      "nome": "Associação livre",
+      "definicao": "Citada no parêntese sobre psicanalistas que atendem online com a câmera desligada, o 'equivalente a levar o paciente para o divã'.",
+      "exemplo": "",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:37:17"
+    },
+    {
+      "nome": "Transferência",
+      "definicao": "Mencionada pelo facilitador como dimensão do fortalecimento da relação depois do reparo ('tem uma questão de transferência também').",
+      "exemplo": "",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:15:51"
+    },
+    {
+      "nome": "Contratransferência",
+      "definicao": "Mencionada por uma participante como questão central da intervenção, junto com a transferência.",
+      "exemplo": "",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:41:41"
+    },
+    {
+      "nome": "Máximas clínicas",
+      "definicao": "Máxima atribuída à Allos: 'não existe intervenção errada; existe não saber lidar com as consequências da sua intervenção'.",
+      "exemplo": "",
+      "abordagem": "Transteórico",
+      "ts": "0:39:34"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Critérios de uma boa intervenção",
+      "objetivo": "Construir com o grupo uma lista de critérios de qualidade da intervenção que vá além da interpretação (leitura e priorização).",
+      "competencias": [
+        "Intervenção",
+        "Construção frasal",
+        "Interpretação"
+      ],
+      "configuracao": "Grupo todo, online, por voz; grupo pequeno (4 a 5 pessoas).",
+      "tempo": "Cerca de 11 minutos.",
+      "materiais": "Nenhum; o facilitador pode registrar a lista.",
+      "consigna": "O que caracteriza uma boa intervenção, para além de uma leitura correta do caso e da decisão sobre o que priorizar? Quais critérios vocês conseguem imaginar, mesmo de maneira abstrata?",
+      "passos": [
+        "Lançar a pergunta descontando o que já foi trabalhado (leitura e priorização).",
+        "Receber cada resposta e reclassificá-la ('escuta entra em interpretação', 'confronto é uma ferramenta').",
+        "Desdobrar respostas vagas ('clareza') em subcritérios (formas de entrega, voz, corpo, construção frasal).",
+        "Resumir a lista em voz alta.",
+        "Subir a meta: 'quero sair daqui com pelo menos cinco coisas'.",
+        "Aprofundar respostas periféricas ('como a supervisão te ajuda a intervir melhor?').",
+        "Completar com o critério que servirá de ponte para o exercício seguinte (manejo das consequências)."
+      ],
+      "feedback": "Aceita as respostas, mas as reposiciona na taxonomia; pede generalidade; insiste quando o grupo acha que esgotou ('sempre tem mais coisa').",
+      "exemplos_praticos": "Saíram escuta, confronto, clareza/construção frasal, supervisão e a pergunta sobre coconstrução; o grupo esgotou as ideias no quarto item e o facilitador segurou a pressão.",
+      "variacoes": "Variante enxuta da 'Lista de critérios de priorização' do Alan, aplicada à qualidade da intervenção; pode servir de aquecimento para qualquer roleplay.",
+      "armadilhas": "Respostas que são ferramentas específicas (confronto) ou recursos externos (supervisão), e não critérios: reclassificar em vez de descartar.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:00:20"
+    },
+    {
+      "nome": "Dinâmica - Roleplay de ruptura terapêutica",
+      "objetivo": "Treinar o reparo da relação terapêutica depois de uma conduta ou intervenção que a rompeu, usando o problema da relação como problema clínico.",
+      "competencias": [
+        "Relação terapêutica",
+        "Acolhimento e validação",
+        "Intervenção",
+        "Construção frasal"
+      ],
+      "configuracao": "Online. Uma participante faz a paciente (situação real de ruptura, própria ou de alguém próximo), uma voluntária faz a terapeuta, e os demais observam com a câmera fechada; 3 participantes no momento.",
+      "tempo": "Cerca de 27 min: 10 de explicação e escolha, 3 de roleplay, 10 de feedback, mais o fechamento.",
+      "materiais": "Situações reais de ruptura trazidas pela turma; exemplos-gatilho (terapeuta preconceituoso, robótico, violento, passivo; 'você disse que eu não estou me esforçando').",
+      "consigna": "Tragam uma situação que tirou vocês (ou um amigo) da terapia. Quem trouxe encarna o paciente e diz ao terapeuta o que o magoou e que vai sair; quem faz o terapeuta lida com isso na relação, depois da intervenção desastrosa que 'fez'. Regra: se o paciente disse que você fez, você fez; não adianta dar desculpinha; você não tem outra opção.",
+      "passos": [
+        "Teoria mínima: problema da relação é problema terapêutico; relação terapêutica antifrágil.",
+        "Explicar a dinâmica duas vezes; na segunda, encenar a fala de um paciente magoado.",
+        "Pedir situações reais; a dona da história conta primeiro, fora do papel.",
+        "Enunciar as regras: não alterar a realidade, sem alternativas externas.",
+        "Escolher a terapeuta com leveza (moeda, pedra-papel-tesoura).",
+        "Roleplay só da vinheta: a paciente abre dizendo que vai encerrar e por quê; a terapeuta responde; sem abrir sessão.",
+        "Feedback: sinalizar se a regra foi quebrada; ouvir a paciente ('funcionaria?'); ouvir o observador; o facilitador fecha com positivo e ajustes, com falas-modelo.",
+        "Perguntar à terapeuta como foi e generalizar no fechamento."
+      ],
+      "feedback": "Primeiro critério: respeitar a realidade da ruptura e resolvê-la na relação. Depois: responsabilizar-se; dizer pelo que se desculpa e validar o incômodo; eventualmente tratar o incômodo como questão clínica; deixar o desejo de continuar para o fim; propor um contrato possível e perguntar se o paciente topa; oferecer uma saída sem custo. Começa pelo positivo.",
+      "exemplos_praticos": "A terapeuta (que ainda só fazia triagens) pediu desculpas e ofereceu arranjar quem cuidasse da criança, resolvendo pela alteração da situação: 'você fugiu do exercício'. A paciente-atriz disse que no roleplay aceitaria, mas na vida real já tinha deixado de gostar da terapeuta. Um observador sugeriu encaminhar; outra saída (trocar de horário) foi barrada.",
+      "variacoes": "Versão do Acervo da dinâmica do Alan 01, com a regra anti-fuga dada antes do roleplay e a história contada fora do papel antes da cena. Recomenda-se repetir com outra voluntária aplicando o feedback.",
+      "armadilhas": "Mesmo com a regra dada antes, terapeuta e observadores fugiram (solução logística, encaminhamento, troca de horário): repetir a regra e explicar por que a restrição existe. Grupo pequeno e esvaziamento limitaram a uma rodada. Usar uma ruptura real com a própria terapeuta mobiliza afeto: acolher e manter o foco.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:11:34"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Pergunta ancorada no ciclo",
+      "descricao": "Abre com uma pergunta que desconta o que já foi trabalhado nos encontros anteriores.",
+      "exemplo": "'O que caracteriza uma boa intervenção para além de uma leitura correta do caso e da tomada de decisão sobre o que priorizar?'",
+      "ts": "0:00:20"
+    },
+    {
+      "movimento": "Pressionar além do óbvio",
+      "descricao": "Pede mais do que o grupo oferece e fixa uma meta concreta quando as ideias acabam.",
+      "exemplo": "'Eu vou forçar um pouquinho mais.' / 'Sempre tem mais coisa pra gente construir. Quero sair daqui com pelo menos cinco coisas.'",
+      "ts": "0:04:49"
+    },
+    {
+      "movimento": "Reclassificar em vez de rejeitar",
+      "descricao": "Aceita a resposta e a reposiciona na taxonomia em construção.",
+      "exemplo": "'Confronto é uma ferramenta que você usa, mas tá certo.'",
+      "ts": "0:01:37"
+    },
+    {
+      "movimento": "Aprofundar a resposta periférica",
+      "descricao": "Pergunta pela relação entre a resposta e o critério em discussão até extrair o ponto útil.",
+      "exemplo": "'Como é que a supervisão te ajuda a intervir melhor? Qual a relação dela com a intervenção?'",
+      "ts": "0:05:06"
+    },
+    {
+      "movimento": "Pergunta genuinamente aberta",
+      "descricao": "Lança uma pergunta que declara não saber responder e pede a opinião do grupo.",
+      "exemplo": "'Será que a intervenção é só do terapeuta dentro da sessão? Se vocês souberem responder, eu agradeceria.'",
+      "ts": "0:07:32"
+    },
+    {
+      "movimento": "Reexplicar encenando",
+      "descricao": "Quando a consigna parece abstrata, reexplica fazendo a fala do paciente em primeira pessoa.",
+      "exemplo": "'Olha, uma coisa que você fez me deixou muito chateado: você disse que eu não estou me esforçando.'",
+      "ts": "0:17:52"
+    },
+    {
+      "movimento": "Normalizar o erro e convidar nominalmente",
+      "descricao": "Diz que ninguém precisa de experiência e pergunta a cada um se topa participar.",
+      "exemplo": "'É justamente aqui que você aprende; a gente está aqui para errar.'",
+      "ts": "0:19:57"
+    },
+    {
+      "movimento": "Reduzir a exposição",
+      "descricao": "Pede que a dona da história conte antes, fora do papel, para a colega não receber a situação de surpresa.",
+      "exemplo": "'Me conta primeiro. Vamos tornar o exercício um pouco mais simples, mais de boa do que só receber a bomba na cara.'",
+      "ts": "0:20:29"
+    },
+    {
+      "movimento": "Regras explícitas contra a fuga",
+      "descricao": "Enuncia antes do roleplay que os fatos narrados pelo paciente são inegociáveis e as repete no feedback.",
+      "exemplo": "'Se o paciente disse que você fez X, você fez X. Não adianta dar desculpinha.' / 'Vocês estão fugindo do exercício.'",
+      "ts": "0:22:49"
+    },
+    {
+      "movimento": "Leveza na escolha do voluntário",
+      "descricao": "Transforma a escolha em brincadeira para baixar a tensão.",
+      "exemplo": "Moeda, pedra-papel-tesoura.",
+      "ts": "0:23:55"
+    },
+    {
+      "movimento": "Feedback em camadas, começando pelo positivo",
+      "descricao": "Sinaliza a regra, ouve a paciente-atriz, o observador e a terapeuta, e então dá o seu retorno, começando pelo que funcionou.",
+      "exemplo": "'Primeiro, você pediu desculpas. Se responsabilizar é da hora.'",
+      "ts": "0:33:34"
+    },
+    {
+      "movimento": "Acolher o desvio sem ceder",
+      "descricao": "Aceita que a participante respondeu a partir da própria história, mas mantém o foco do exercício.",
+      "exemplo": "'Não tem problema não. A gente lida com o material que a gente tem.'",
+      "ts": "0:31:34"
+    },
+    {
+      "movimento": "Modelar e admitir o próprio limite",
+      "descricao": "Dá falas-modelo de reparo e reconhece a própria dificuldade com elas.",
+      "exemplo": "'Eu não faço isso muito bem, mas é essa ideia que eu quis passar.'",
+      "ts": "0:34:12"
+    },
+    {
+      "movimento": "Fechar com uma máxima",
+      "descricao": "Pede a avaliação do encontro e generaliza a lição do dia numa frase citável.",
+      "exemplo": "'Não existe intervenção errada; existe não saber lidar com as consequências da sua intervenção.'",
+      "ts": "0:39:34"
+    },
+    {
+      "movimento": "Cuidar da institucionalidade",
+      "descricao": "Formulário de presença, pedido de feedback (inclusive anônimo), divulgação da clínica social; tira da gravação o que não quer registrar.",
+      "exemplo": "'Vou parar a gravação para falar sobre isso, não acho bom comentar aqui.'",
+      "ts": "0:43:05"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Avalie suas intervenções em camadas: leitura do caso, decisão, ferramenta, manejo da ferramenta e consequências.",
+      "justificativa": "Acertar a leitura e a priorização ainda é só interpretação; a intervenção pode falhar na entrega ou no depois.",
+      "contexto": "Revisão de sessões e supervisão.",
+      "competencia": "Intervenção",
+      "ts": "0:03:37"
+    },
+    {
+      "dica": "Escolha conscientemente a forma de entrega: mais agressiva, explicativa ou suave; mais aberta e abstrata ou mais específica e corporal.",
+      "justificativa": "O mesmo conteúdo produz efeitos diferentes conforme a entrega.",
+      "contexto": "Antes de falar, sobretudo em intervenções difíceis.",
+      "competencia": "Construção frasal",
+      "ts": "0:01:37"
+    },
+    {
+      "dica": "Trate voz, corpo e construção frasal como ferramentas.",
+      "justificativa": "'A ferramenta que você está utilizando é a sua fala.'",
+      "contexto": "Sempre, especialmente em confrontos.",
+      "competencia": "Construção frasal",
+      "ts": "0:03:07"
+    },
+    {
+      "dica": "Use a supervisão para ler melhor o caso e escolher ferramentas, como recursos ligados aos interesses do paciente.",
+      "justificativa": "A supervisão amplia o que se enxerga de dentro da relação.",
+      "contexto": "Casos em que a via verbal direta não funciona.",
+      "competencia": "Intervenção",
+      "ts": "0:06:57"
+    },
+    {
+      "dica": "Depois de uma intervenção dura, acompanhe e maneje as consequências, na mesma sessão e na seguinte.",
+      "justificativa": "A intervenção não termina quando se fala; o incômodo do paciente precisa de resposta.",
+      "contexto": "Depois de confrontos e intervenções agressivas.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:11:20"
+    },
+    {
+      "dica": "Quando surgir um problema na relação, traga-o para a conversa.",
+      "justificativa": "O problema da relação também é problema terapêutico e, resolvido, fortalece a aliança.",
+      "contexto": "Diante de queixa, incômodo ou ameaça de abandono.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:12:49"
+    },
+    {
+      "dica": "Não se defenda negando os fatos que o paciente relata.",
+      "justificativa": "'Não adianta dar desculpinha': o trabalho parte do que o paciente viveu.",
+      "contexto": "Quando o paciente acusa o terapeuta de algo.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:22:49"
+    },
+    {
+      "dica": "Peça desculpas e diga pelo que está se desculpando, validando o incômodo.",
+      "justificativa": "A responsabilização abre o reparo; especificar mostra que o terapeuta entendeu o que doeu.",
+      "contexto": "Quando uma falha do terapeuta causou a ruptura.",
+      "competencia": "Acolhimento e validação",
+      "ts": "0:34:12"
+    },
+    {
+      "dica": "Considere tratar o incômodo como questão clínica (por exemplo, perguntar se o paciente sente vergonha quando outros o ouvem).",
+      "justificativa": "Transforma a ruptura em material de trabalho.",
+      "contexto": "Quando fizer sentido no caso; apresentado como possibilidade, não regra.",
+      "competencia": "Interpretação",
+      "ts": "0:35:34"
+    },
+    {
+      "dica": "Deixe o 'eu gostaria que você continuasse' para o final.",
+      "justificativa": "Dito no começo, soa como pedido antes de entender e reparar.",
+      "contexto": "Conversas de possível encerramento.",
+      "competencia": "Construção frasal",
+      "ts": "0:36:04"
+    },
+    {
+      "dica": "Proponha um contrato alternativo dentro das suas possibilidades reais e pergunte se o paciente topa.",
+      "justificativa": "Mostra esforço sem prometer o que não se pode cumprir.",
+      "contexto": "Quando a restrição do terapeuta não pode ser removida.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:36:04"
+    },
+    {
+      "dica": "Ofereça uma saída sem custo: se não se sentir confortável com o novo arranjo, o paciente pode encerrar sem pagar a próxima sessão.",
+      "justificativa": "Devolve o controle ao paciente e abre espaço para ele ficar.",
+      "contexto": "Ao propor um novo arranjo depois de uma ruptura.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:38:14"
+    },
+    {
+      "dica": "Não evite intervenções mais agressivas só por medo da reação do paciente.",
+      "justificativa": "A reação pode ser usada clinicamente, para entender o caso e para fortalecer a relação.",
+      "contexto": "Quando você sabe manejar as consequências.",
+      "competencia": "Intervenção",
+      "ts": "0:40:26"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "A qualidade da intervenção vai além da interpretação.",
+      "argumento": "Ler e priorizar corretamente 'tem muito mais a ver com interpretação'; uma boa intervenção inclui ferramentário, manejo dele e manejo das consequências.",
+      "contraponto": "A ideia de que basta acertar a leitura do caso.",
+      "implicacao": "Treinar a entrega e o pós-intervenção, não só o raciocínio.",
+      "quem": "Gabriel",
+      "ts": "0:00:56"
+    },
+    {
+      "tese": "O problema na relação terapêutica também é um problema terapêutico.",
+      "argumento": "Discuti-lo com o paciente é produtivo e permite o reparo.",
+      "contraponto": "Tratar a ruptura como falha a esconder ou como fim do processo.",
+      "implicacao": "Levantar a tensão na sessão.",
+      "quem": "Gabriel",
+      "ts": "0:12:49"
+    },
+    {
+      "tese": "A relação terapêutica é antifrágil.",
+      "argumento": "Analogia do sistema imunológico e, segundo o facilitador, 'um monte de pesquisa'; a relação reparada deixa o paciente mais engajado.",
+      "contraponto": "Ver a relação como frágil (evitar qualquer tensão) ou rígida.",
+      "implicacao": "Não temer rupturas, e sim aprender a repará-las.",
+      "quem": "Gabriel",
+      "ts": "0:15:06"
+    },
+    {
+      "tese": "Não existe intervenção errada; existe não saber lidar com as consequências da sua intervenção.",
+      "argumento": "A reação do paciente, mesmo negativa, é material clínico e oportunidade de fortalecer a relação.",
+      "contraponto": "O medo paralisante de intervir e a busca da intervenção 'certa'.",
+      "implicacao": "Mais coragem para intervenções intensas e treino do manejo do depois.",
+      "quem": "Gabriel, atribuindo à Allos",
+      "ts": "0:39:34"
+    },
+    {
+      "tese": "No treino de ruptura, a situação tem de ser difícil, e saídas externas estão proibidas.",
+      "argumento": "Se a terapeuta pudesse remover o problema, já o teria feito; o que se treina é resolver na relação. Uma participante completa: 'na prática é difícil, tem que ser o máximo de difícil possível'.",
+      "contraponto": "Soluções logísticas ou encaminhamento, possíveis na vida real mas fora do exercício.",
+      "implicacao": "Regras explícitas que impeçam alterar a realidade da cena.",
+      "quem": "Gabriel",
+      "ts": "0:32:32"
+    },
+    {
+      "tese": "Talvez a intervenção não seja só do terapeuta, e sim uma coconstrução com o paciente.",
+      "argumento": "A sessão é construída a dois; o paciente pode 'devolver uma intervenção' e transformar o terapeuta (pergunta aberta do facilitador, defendida pelas participantes).",
+      "contraponto": "A intervenção como ato unilateral do terapeuta.",
+      "implicacao": "Abertura do terapeuta para ser afetado.",
+      "quem": "Gabriel e participantes",
+      "ts": "0:07:32"
+    },
+    {
+      "tese": "O aprimoramento é o lugar para errar que a graduação não oferece.",
+      "argumento": "'A gente está aqui para errar'; o feedback é baseado 'naquilo que a gente deixou de ver'.",
+      "contraponto": "Formação sem espaço de prática segura.",
+      "implicacao": "Participar mesmo sem experiência.",
+      "quem": "Gabriel",
+      "ts": "0:19:57"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Ler corretamente o caso e priorizar corretamente tem muito mais a ver com interpretação.",
+      "tema": "qualidade da intervenção",
+      "ts": "0:00:56"
+    },
+    {
+      "texto": "Sempre tem mais coisa pra gente construir.",
+      "tema": "facilitação",
+      "ts": "0:04:49"
+    },
+    {
+      "texto": "Será que a intervenção é só do terapeuta, dentro da sessão?",
+      "tema": "coconstrução",
+      "ts": "0:07:32"
+    },
+    {
+      "texto": "Para além da intervenção, depois da intervenção, tem as consequências disso.",
+      "tema": "manejo das consequências",
+      "ts": "0:11:20"
+    },
+    {
+      "texto": "Mesmo quando surge um problema na relação terapêutica, o problema que surge também é um problema terapêutico.",
+      "tema": "relação terapêutica",
+      "ts": "0:12:49"
+    },
+    {
+      "texto": "Se vocês conseguem distensionar a relação, o sistema imunológico da relação terapêutica volta ainda mais forte.",
+      "tema": "antifragilidade",
+      "ts": "0:15:51"
+    },
+    {
+      "texto": "A gente está aqui para errar. O feedback é baseado principalmente naquilo que a gente deixou de ver.",
+      "tema": "formação",
+      "ts": "0:19:57"
+    },
+    {
+      "texto": "Se o paciente disse que você fez, você fez. Não adianta dar desculpinha. Aceite e lide com as consequências.",
+      "tema": "regra do roleplay",
+      "ts": "0:22:49"
+    },
+    {
+      "texto": "Se desculpar e se responsabilizar é o primeiro passo.",
+      "tema": "reparo",
+      "ts": "0:33:34"
+    },
+    {
+      "texto": "Não existe intervenção errada; existe não saber lidar com as consequências da sua intervenção.",
+      "tema": "máxima clínica",
+      "ts": "0:39:34"
+    },
+    {
+      "texto": "A forma como o paciente reage, a gente pode usar clinicamente.",
+      "tema": "manejo das consequências",
+      "ts": "0:40:26"
+    },
+    {
+      "texto": "Esse aqui é literalmente o lugar para isso que a gente não teve na graduação.",
+      "tema": "formação",
+      "ts": "0:44:11"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "5 critérios de uma boa intervenção (e acertar a leitura do caso é só o primeiro)",
+      "mensagem": "Leitura, decisão, ferramentário, manejo (voz, corpo, frase) e consequências.",
+      "roteiro": [
+        "Capa: 'Você leu o caso certo. A intervenção ainda pode dar errado.'",
+        "1. Leitura do caso.",
+        "2. Decisão: aprofundar, questionar ou confrontar.",
+        "3. Ferramentário: técnicas, confronto.",
+        "4. Manejo: voz, corpo, construção frasal; suave ou agressiva; abstrata ou corporal.",
+        "5. Manejo das consequências."
+      ],
+      "corte_inicio": "0:00:20",
+      "corte_fim": "0:04:49"
+    },
+    {
+      "formato": "reels",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Não existe intervenção errada",
+      "mensagem": "O que existe é não saber lidar com as consequências; a reação do paciente é material clínico.",
+      "roteiro": [
+        "Frase de impacto.",
+        "O medo de intervenções mais agressivas.",
+        "A reação do paciente como informação.",
+        "Manejar o depois reduz o medo de atuar."
+      ],
+      "corte_inicio": "0:39:26",
+      "corte_fim": "0:40:26"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Sua relação com o paciente é antifrágil",
+      "mensagem": "Papel, concreto, massinha, sistema imunológico: a relação reparada fica mais forte que antes.",
+      "roteiro": [
+        "Frágil: papel.",
+        "Duro, mas frágil: concreto.",
+        "Maleável não é forte.",
+        "Antifrágil: sistema imunológico depois da gripe.",
+        "Relação tensionada e reparada = paciente mais engajado."
+      ],
+      "corte_inicio": "0:13:45",
+      "corte_fim": "0:16:48"
+    },
+    {
+      "formato": "post",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Como pedir desculpas a um paciente",
+      "mensagem": "Responsabilize-se, diga pelo quê, valide, proponha um arranjo possível, deixe o 'quero que você fique' para o fim e ofereça uma saída sem custo.",
+      "roteiro": [
+        "Passo 1: desculpe-se e assuma sua parte.",
+        "Passo 2: diga pelo que está se desculpando.",
+        "Passo 3: valide o incômodo.",
+        "Passo 4: proponha um contrato possível.",
+        "Passo 5: só no final, diga que quer continuar."
+      ],
+      "corte_inicio": "0:33:34",
+      "corte_fim": "0:38:57"
+    },
+    {
+      "formato": "stories",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "No nosso treino de ruptura, a regra é: não vale mudar a realidade",
+      "mensagem": "Como funciona o roleplay de quebra de vínculo nos grupos de aprimoramento.",
+      "roteiro": [
+        "Enquete: você já largou uma terapia?",
+        "A dinâmica: um conta, outro repara.",
+        "A regra: se o paciente disse que você fez, você fez.",
+        "Convite para o grupo."
+      ],
+      "corte_inicio": "0:22:49",
+      "corte_fim": "0:23:41"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "A intervenção é só do terapeuta?",
+      "mensagem": "Pergunta aberta sobre coconstrução: o paciente também transforma o terapeuta.",
+      "roteiro": [
+        "A pergunta.",
+        "A sessão é construída a dois.",
+        "O paciente também 'devolve' intervenções.",
+        "Estar aberto a ser afetado."
+      ],
+      "corte_inicio": "0:07:26",
+      "corte_fim": "0:08:49"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Nassim Nicholas Taleb",
+      "contexto": "Autor do conceito de antifragilidade, usado para a relação terapêutica. Não é citado pelo nome: o facilitador atribui o conceito vagamente 'à antropologia ou à filosofia'."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Aprimoramento Clínico (Acervo) — versão Gabriel: aquecimento de critérios + teoria mínima + roleplay de vinheta",
+    "objetivo": "Treinar uma competência transteórica por encontro (aqui: qualidade da intervenção e reparo de ruptura), em sequência de ciclo (priorização → qualidade da intervenção → relação).",
+    "publico": "Estudantes de psicologia, alguns ainda só em triagem, e psicólogos iniciantes; recém-chegados convidados a participar mesmo sem experiência.",
+    "tamanho": "Muito pequeno, online: cerca de 5 no início, 3 no roleplay (saídas para atender).",
+    "duracao": "Cerca de 45 min gravados (a gravação começa com o encontro em andamento; o facilitador chama de 'aprimoramento muito curtinho').",
+    "estrutura_padrao": "Retomada do encontro anterior, depois aquecimento dialogado (lista de critérios com meta numérica), depois ponte para o tema, depois teoria mínima (antifragilidade), depois consigna explicada duas vezes (a segunda encenada), depois combinados anti-fuga, depois um roleplay curto de vinheta, depois feedback em camadas (regra, paciente, observador, terapeuta, facilitador), depois rodada de avaliação com uma máxima, depois avisos institucionais (presença, feedback anônimo, clínica social). Comparado ao Alan (teoria mínima, exercício, feedback), é uma replicação quase direta do Alan 01, com aquecimento à maneira do Alan 15 e 17, regra anti-fuga dada antes e uma única rodada, sem refazer o caso nem nomear regras gerais.",
+    "papel_facilitador": "Pergunta e reclassifica respostas, sobe a exigência, expõe a teoria mínima, explica e encena a consigna, protege iniciantes da exposição, faz cumprir a regra de não alterar a realidade, dá feedback começando pelo positivo com falas-modelo, fecha com uma máxima e cuida dos avisos institucionais.",
+    "regras_combinados": "Participar é incentivado mesmo sem experiência ('a gente está aqui para errar'). No roleplay: o que o paciente diz que aconteceu, aconteceu; sem desculpinha; sem saídas externas (encaminhar, trocar de horário, mudar as condições); só a vinheta, sem abrir sessão; observadores com câmera fechada. Ao fim: formulário de presença e feedback (pode ser anônimo)."
+  },
+  "reflexoes_do_facilitador": [
+    "'Eu já troquei o aprimoramento aqui três vezes': o tema do dia foi decidido tardiamente.",
+    "Chama o encontro de 'um aprimoramento muito curtinho' e nota que 'o pessoal acabou saindo'.",
+    "Admite a própria dificuldade com as falas-modelo de validação: 'eu não faço isso muito bem, mas é essa ideia'.",
+    "Declara não saber responder à pergunta sobre coconstrução e pede a opinião do grupo.",
+    "Pede ao grupo feedback sobre o encontro, inclusive anônimo e por escrito."
+  ],
+  "referencias_a_outros_encontros": [
+    "'Como vocês viram na semana passada, a priorização é completamente variada': o encontro anterior foi sobre priorização clínica.",
+    "Provável continuidade de 'Acervo 01 - Critérios de priorização na escuta' (também de Gabriel, sobre priorização, com o mesmo estilo de lista de critérios).",
+    "'Já fiz o jabá': menção a uma divulgação feita antes da gravação.",
+    "O facilitador diz haver 'muitos outros encontros' e recomenda que participem.",
+    "A clínica social da Allos financia os encontros; o critério de entrada de terapeutas é 'bem alto'.",
+    "A dinâmica e a teoria reproduzem o Alan 01 (Relação terapêutica tensionada); o aquecimento lembra o Alan 15 (lista de critérios) e o tema do Alan 17 (Qualidade da intervenção)."
+  ],
+  "observacoes": "Facilitador identificado como Gabriel porque uma participante o chama assim (0:01:35) e pela continuidade com o encontro sobre priorização que ele conduziu (Acervo 01); ele não se apresenta. Rodolfo (facilitador de outros encontros do Acervo) é mencionado como tendo saído. Uma segunda pessoa, aparentemente colega da equipe, participa dos primeiros ~12 min e sai para atender, sem identificação. A gravação começa com o encontro em andamento. O título do vídeo ('Encontro 19 e Encontro 20') não reflete o conteúdo. A ruptura usada no roleplay é experiência real de uma participante com a própria terapeuta (terapia online, criança no ambiente); registrada de forma genérica, sem cidade nem detalhes. Um caso clínico infantil citado de passagem por uma participante (supervisão) foi anonimizado. Legenda com ruído moderado; nomes de participantes omitidos."
+}

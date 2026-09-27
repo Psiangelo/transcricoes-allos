@@ -1,0 +1,944 @@
+{
+  "id": "pc-07",
+  "nota": "Prática Clínica 07 - Como treinar cada elemento da interpretação",
+  "pasta": "10 - Fichamentos/Prática Clínica",
+  "titulo": "Como treinar cada elemento da interpretação",
+  "serie": "Prática clínica",
+  "formato": "Prática clínica",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Encontro de tirar dúvidas que fecha a série online. Respondendo como treinar interpretação, Alan percorre a taxonomia que tinha acabado de montar (antes do trecho gravado): sensorial, priorização, reconstrução do contexto, deliberação e conferência. Escuta sensorial e deliberação são pouco treináveis; priorizar, reconstruir e conferir são treináveis, e para cada um ele dá exercícios de clínica, supervisão e cotidiano (espelhamento, grifar o essencial, escala de ancoragem da priorização, criatividade clínica com track record, apostas na supervisão coletiva, a dinâmica de sair da sala, filmes e trailers, critérios de conferência a priori e a posteriori). Resume o treino em três princípios: repertório, consciência e track record. Numa segunda dúvida, sobre usar técnicas de outra abordagem diante de demandas urgentes, critica duas colonizações: a ideológica (técnicas não têm dono; os clássicos já faziam tudo) e a da medicina (sem fator patognomônico, a psicoterapia é sobretudo execução). Dá o exemplo do 'secretariar' nas entrevistas preliminares psicanalíticas. No fim, recomenda leituras (incluindo Scott D. Miller) e grupos da Allos.",
+  "em_uma_frase": "A interpretação tem cinco elementos (sensorial, priorização, reconstrução do contexto, deliberação e conferência); três deles se treinam com repertório, consciência e track record, e na psicoterapia, ao contrário da medicina, a execução pesa mais que o diagnóstico.",
+  "competencias": [
+    "Interpretação",
+    "Priorização clínica",
+    "Escuta clínica",
+    "Desenvolvimento profissional",
+    "Direção do tratamento",
+    "Articulação teoria-prática",
+    "Feedback clínico",
+    "Intervenção",
+    "Formulação de caso"
+  ],
+  "abordagens": [
+    "Psicanálise freudiana",
+    "Psicanálise lacaniana",
+    "Gestalt-terapia",
+    "Terapia sistêmica",
+    "Psicologia analítica junguiana",
+    "Terapia cognitivo-comportamental",
+    "Análise do comportamento",
+    "Terapias contextuais",
+    "Psicodrama"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:08",
+      "bloco": "Dúvidas",
+      "descricao": "Retoma a dúvida 'como treinar interpretação' e a taxonomia montada antes do trecho gravado. Trata da etapa sensorial, pouco treinável (analogia do queixo no MMA).",
+      "funcao": "Enquadrar a resposta como percurso pela taxonomia.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:01:58",
+      "bloco": "Teoria",
+      "descricao": "Priorização: nichar, treino social e espelhamento. Objeção 'central para quem?' respondida com 'a verdade gera reação'. Grifar o essencial. Casos chatos como sinal de erro. Priorizar é achar gancho.",
+      "funcao": "Exercícios concretos e marcadores de acerto e erro.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "0:09:47",
+      "bloco": "Teoria",
+      "descricao": "Repertório e teoria como lente (ideologia no sentido marxista), com exemplos da música e da clínica; cada escola indica o que priorizar; subtexto econômico e racial.",
+      "funcao": "Mostrar que o conhecimento amplia o que se enxerga.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:13:50",
+      "bloco": "Teoria",
+      "descricao": "Ancoragem da priorização: ética, teórica, leitura do caso e metodologia, como progressão de sofisticação, com exemplos psicanalíticos.",
+      "funcao": "Oferecer um mapa de desenvolvimento.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:19:24",
+      "bloco": "Teoria",
+      "descricao": "Reconstrução do contexto: repertório como rei, intuição versus explicitação, criatividade clínica, apostas na supervisão coletiva e track record.",
+      "funcao": "Exercícios e justificativa do registro.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:24:03",
+      "bloco": "Dinâmica",
+      "descricao": "Descreve a dinâmica de sair da sala assim que se forma opinião sobre um caso narrado, já feita no presencial.",
+      "funcao": "Oferecer uma dinâmica replicável com estrutura de jogo.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:26:00",
+      "bloco": "Teoria",
+      "descricao": "Treino da reconstrução fora da clínica (filmes, séries, literatura); marcador de expertise: hipóteses em segundos.",
+      "funcao": "Levar o treino para o cotidiano.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:28:35",
+      "bloco": "Teoria",
+      "descricao": "Deliberação como decisão ética; pouco treinável por retroação; treino da consciência das escolhas (não ação e priorização também são escolhas éticas).",
+      "funcao": "Nomear escolhas invisíveis.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:31:57",
+      "bloco": "Teoria",
+      "descricao": "Conferência: critérios (reação emocional, transparência, completude, predição, concordância com a teoria), a priori e a posteriori, jogo do trailer com decomposição do raciocínio.",
+      "funcao": "Oferecer uma lista de verificação da interpretação.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:36:19",
+      "bloco": "Fechamento",
+      "descricao": "Três princípios gerais (repertório, consciência, track record) e consciência taxonômica; confere se a resposta foi satisfatória.",
+      "funcao": "Consolidar a resposta.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:40:23",
+      "bloco": "Combinados",
+      "descricao": "Anuncia que este deve ser o último encontro online e que haverá grupo presencial nas férias; abre para qualquer pergunta.",
+      "funcao": "Organizar a transição e abrir espaço.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:41:18",
+      "bloco": "Dúvidas",
+      "descricao": "Pergunta sobre usar técnica de outra abordagem diante de demanda urgente. Resposta: colonização ideológica e da medicina, fator patognomônico, psicoterapia como execução, 'secretariar' nas entrevistas preliminares.",
+      "funcao": "Posicionamento transteórico e articulação entre teoria e demanda.",
+      "duracao_min": 14
+    },
+    {
+      "ts": "0:55:38",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Pedido de material: um livro de prática transteórica (PDF enviado ao grupo) e um de Scott D. Miller. Orientação de percurso para uma estudante (grupos síncronos de prática e de construção de casos; plataforma).",
+      "funcao": "Encaminhamento de estudos.",
+      "duracao_min": 6
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Elementos da interpretação",
+      "definicao": "Taxonomia de Alan para o processo interpretativo, em cinco etapas: (1) sensorial (escutar, ver, ler); (2) priorização; (3) reconstrução do contexto; (4) deliberação (decisão ética); (5) conferência. Escuta sensorial e deliberação são pouco treináveis; priorizar, reconstruir e conferir são treináveis.",
+      "exemplo": "'Priorizar, reconstruir e conferir são as três coisas que dá para treinar. Deliberar e escuta, não tanto.'",
+      "abordagem": "Transteórico",
+      "ts": "0:31:57"
+    },
+    {
+      "nome": "Priorização clínica",
+      "definicao": "O que normalmente se chama de 'escuta de qualidade': identificar o elemento mais central ou relevante do discurso. O marcador de acerto é a reação do outro, inclusive a discordância frontal. 'No fundo, é achar gancho.'",
+      "exemplo": "Conversar com uma pessoa chata e achar um gancho interessante no discurso dela.",
+      "abordagem": "Transteórico",
+      "ts": "0:01:58"
+    },
+    {
+      "nome": "Ancoragem da priorização",
+      "definicao": "Aquilo em que se apoia a decisão sobre o que priorizar, em ordem de sofisticação: ética (o socialmente mais tenso, típico de iniciantes), teórica (o elemento que a teoria destaca), leitura do caso e metodologia (associação livre, aqui e agora). O ideal é a metodologia guiar a priorização durante o atendimento.",
+      "exemplo": "O psicanalista abre mão de um elemento que lhe chamou a atenção na leitura do caso em nome da associação livre.",
+      "abordagem": "Transteórico",
+      "ts": "0:13:50"
+    },
+    {
+      "nome": "Reconstrução do contexto",
+      "definicao": "Dar sentido a um fato reconstruindo o contexto em que ele faz sentido. É o elemento mais treinável da interpretação, e o repertório é o seu 'rei'. Treina-se gerando leituras múltiplas, estimando probabilidades e registrando acertos.",
+      "exemplo": "Paciente que começa a faltar: pode ser algo dito na sessão, um acontecimento externo, a relação com o dinheiro...",
+      "abordagem": "Transteórico",
+      "ts": "0:19:24"
+    },
+    {
+      "nome": "Decisão ética",
+      "definicao": "A deliberação: decidir o que fazer diante do que se interpretou. Pode ser terceirizada ao paciente, conjunta ou guiada pelo terapeuta. Sua qualidade é pouco treinável, porque o caminho escolhido tende a virar o certo por retroação, mas a consciência de que se está deliberando é treinável.",
+      "exemplo": "Terminar ou não um relacionamento: 'do ponto de vista de Deus', as duas escolhas poderiam parecer certas cinco anos depois.",
+      "abordagem": "Transteórico",
+      "ts": "0:28:35"
+    },
+    {
+      "nome": "Conferência da interpretação",
+      "definicao": "Verificar se uma interpretação está adequada. Exige mapear os próprios critérios (a lista de Alan chegou a cerca de 50) e distinguir critérios a priori (antes de comunicar, como a concordância com a teoria) e a posteriori (depois, como a reação do paciente e a confirmação de predições).",
+      "exemplo": "Critérios citados: reação emocional, transparência, completude, predição, concordância com a teoria ou a literatura.",
+      "abordagem": "Transteórico",
+      "ts": "0:31:57"
+    },
+    {
+      "nome": "Repertório clínico",
+      "definicao": "O conjunto de teorias, conhecimentos de outras áreas, pessoas e obras que amplia as priorizações e reconstruções possíveis. É o primeiro princípio geral do treino da interpretação.",
+      "exemplo": "Sem repertório, é fácil não perceber o subtexto econômico ou racial de um caso.",
+      "abordagem": "Transteórico",
+      "ts": "0:36:19"
+    },
+    {
+      "nome": "Track record",
+      "definicao": "Registro sistemático de previsões, acertos e resultados (pacientes perdidos, hipóteses confirmadas, avaliação do paciente sessão a sessão). Corrige a distância entre a fantasia sobre a própria competência e a realidade. É condição de qualquer treino.",
+      "exemplo": "Lembrar quantos pacientes você perdeu é diferente de ter anotado quantos perdeu.",
+      "abordagem": "Transteórico",
+      "ts": "0:38:21"
+    },
+    {
+      "nome": "Consciência taxonômica",
+      "definicao": "Ter categorias para o que se faz. Ao importar as categorias de outra pessoa (por exemplo, formas de conferir), o clínico amplia o próprio repertório.",
+      "exemplo": "Ao discutir caso com Alan, a pessoa passa a usar as categorias de conferência dele.",
+      "abordagem": "Transteórico",
+      "ts": "0:39:17"
+    },
+    {
+      "nome": "Teoria como lente",
+      "definicao": "A teoria funciona como uma ideologia, no sentido marxista: em parte cega para o que não encaixa, em parte revela o que seria pouco óbvio sem ela. Ter várias lentes torna a realidade 'mais colorida'. 'A lente é o viés.'",
+      "exemplo": "Quem sabe teoria musical acessa numa ópera uma camada de significado inacessível ao leigo; um desvio de linguagem só significa algo para quem conhece psicanálise.",
+      "abordagem": "Transteórico",
+      "ts": "0:09:47"
+    },
+    {
+      "nome": "Interpretação intuitiva",
+      "definicao": "Processo inconsciente que entrega a resposta pronta. Existe em quem 'tem o dom', mas não é treinável nem corrigível; por isso Alan recomenda explicitar o raciocínio.",
+      "exemplo": "Atravessar a rua de madrugada porque vem alguém 'esquisito' é interpretar intuitivamente.",
+      "abordagem": "Transteórico",
+      "ts": "0:20:00"
+    },
+    {
+      "nome": "Espelhamento",
+      "definicao": "Devolver o que se ouviu ('o que eu te ouvi falar foi isso?'). É técnica clínica e também treino de escuta e priorização, porque confere se o que se considerou central é mesmo o central.",
+      "exemplo": "",
+      "abordagem": "Transteórico",
+      "ts": "0:03:31"
+    },
+    {
+      "nome": "Intervisão",
+      "definicao": "Supervisão ou discussão de casos entre pares. É o espaço proposto para fazer apostas sobre os casos e decompor o próprio raciocínio.",
+      "exemplo": "Apostar para onde vai o caso do colega e conferir depois.",
+      "abordagem": "Transteórico",
+      "ts": "0:22:12"
+    },
+    {
+      "nome": "Colonização ideológica",
+      "definicao": "Duas formas criticadas por Alan: (1) tratar técnicas genéricas como propriedade de uma abordagem, esquecendo que os clássicos já faziam quase tudo; (2) importar da medicina a ideia de que a natureza da demanda determina a intervenção.",
+      "exemplo": "'Pedir para a pessoa se organizar não é técnica de TCC; teu pai te ajuda a se organizar e não sabe nada de TCC.'",
+      "abordagem": "Transteórico",
+      "ts": "0:42:39"
+    },
+    {
+      "nome": "Fator patognomônico",
+      "definicao": "Na medicina, o sinal que liga com segurança o diagnóstico ao que fazer, restringindo o tratamento a poucas opções. Na psicologia, praticamente não existe, ou é muito difícil de encontrar.",
+      "exemplo": "Perceber que a acne vem de um problema hormonal causado por um medicamento define o tratamento.",
+      "abordagem": "Transteórico",
+      "ts": "0:46:41"
+    },
+    {
+      "nome": "Execução clínica",
+      "definicao": "O como intervir. Como há centenas de intervenções razoáveis para cada problema psicológico, a psicoterapia é menos sobre interpretação e mais sobre execução do que a medicina.",
+      "exemplo": "Para humor deprimido: de medicação a correr, de exegese da infância a trabalho com valores.",
+      "abordagem": "Transteórico",
+      "ts": "0:49:41"
+    },
+    {
+      "nome": "Entrevistas preliminares",
+      "definicao": "Na psicanálise, a fase frente a frente, antes do divã e do 'corte da visão', em que organizar a vida do paciente é natural.",
+      "exemplo": "",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:53:52"
+    },
+    {
+      "nome": "Secretariar o paciente",
+      "definicao": "Ajudar o paciente a se organizar, na posição de 'secretário'. Na psicose, na clínica lacaniana, pode ser o tratamento inteiro; deve acontecer em função do processo analítico.",
+      "exemplo": "O psicanalista que ajudou a paciente a se organizar não errou na ação, errou por não inscrevê-la num frame psicanalítico.",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:53:52"
+    },
+    {
+      "nome": "Cadeira vazia",
+      "definicao": "Citada como técnica reivindicada por Gestalt e por manuais de TCC, mas que, segundo Alan, é anterior a Aaron Beck e até a Moreno.",
+      "exemplo": "",
+      "abordagem": "Psicodrama",
+      "ts": "0:43:47"
+    },
+    {
+      "nome": "Dessensibilização sistemática",
+      "definicao": "Técnica associada à terapia comportamental que, segundo Alan ('até onde eu sei'), foi usada primeiro por Jung, na década de 1910. Afirmação histórica a verificar.",
+      "exemplo": "",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:44:41"
+    },
+    {
+      "nome": "Complexo de Édipo",
+      "definicao": "Exemplo de priorização ancorada na teoria: o psicanalista ouve algo que lembra o complexo de Édipo e toma essa verdade teórica como prioridade.",
+      "exemplo": "",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:14:49"
+    },
+    {
+      "nome": "Associação livre",
+      "definicao": "Exemplo de metodologia que deve guiar a priorização no atendimento psicanalítico, mesmo contra o que a leitura do caso destaca.",
+      "exemplo": "",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:17:51"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Sair da sala ao formar opinião",
+      "objetivo": "Treinar a reconstrução do contexto com pouca informação e comparar hipóteses formadas com mais ou menos informação.",
+      "competencias": [
+        "Interpretação",
+        "Formulação de caso"
+      ],
+      "configuracao": "Grupo de cerca de 8 ouvintes (melhor com menos; 15 já é muito) e uma pessoa que narra. Presencial (online: sair da chamada).",
+      "tempo": "Não informado: o tempo de uma vinheta mais a rodada de apresentações.",
+      "materiais": "Um caso real anonimizado ou uma situação da vida contada como vinheta clínica.",
+      "consigna": "Alguém vai contar um caso. Assim que você tiver uma opinião formada sobre ele, saia da sala e pare de ouvir. Quando todos tiverem saído, voltamos. Quem saiu primeiro apresenta primeiro.",
+      "passos": [
+        "Uma pessoa começa a narrar a vinheta.",
+        "Cada ouvinte sai assim que forma opinião, às vezes depois de 10 segundos.",
+        "Quando todos saíram, todos voltam.",
+        "O primeiro a sair apresenta a sua reconstrução do caso.",
+        "Os demais apresentam na ordem de saída, cada um com mais informação.",
+        "O grupo discute qual reconstrução é mais adequada."
+      ],
+      "feedback": "Discussão coletiva, comparando as reconstruções com o restante do caso. A rapidez e a qualidade das hipóteses com pouca informação são o marcador de expertise.",
+      "exemplos_praticos": "Não foi feita neste encontro; Alan diz tê-la conduzido umas duas vezes no presencial da Allos, com participação de uma colega facilitadora.",
+      "variacoes": "Online, saindo da chamada; pode ser usada em supervisão coletiva.",
+      "armadilhas": "Confirmar a primeira impressão em vez de afinar os preconceitos; grupos grandes demais; casos reais sem anonimização.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:24:03"
+    },
+    {
+      "nome": "Dinâmica - Criatividade clínica",
+      "objetivo": "Gerar vários significados para um mesmo fato clínico, estimar a probabilidade de cada um e calibrar o julgamento com registro de acertos.",
+      "competencias": [
+        "Interpretação",
+        "Formulação de caso"
+      ],
+      "configuracao": "Individual, sobre os próprios casos; também serve em supervisão.",
+      "tempo": "Contínuo, ao longo do acompanhamento do caso.",
+      "materiais": "Registro escrito (track record).",
+      "consigna": "Pegue um fato que aconteceu na clínica e tente significá-lo de várias maneiras diferentes. Depois avalie quais são mais prováveis e acompanhe.",
+      "passos": [
+        "Escolher um fato (por exemplo, o paciente começou a faltar).",
+        "Listar interpretações diferentes.",
+        "Estimar a probabilidade de cada uma.",
+        "Acompanhar o caso e registrar quais se confirmaram.",
+        "Rever os padrões de erro."
+      ],
+      "feedback": "O próprio track record revela modos intuitivos de reconstruir que erram a marca com frequência.",
+      "exemplos_praticos": "Exemplo dado: faltas podem ter a ver com algo dito numa sessão, com um acontecimento externo ou com a relação do paciente com o dinheiro.",
+      "variacoes": "Fazer em grupo, com cada pessoa propondo uma leitura.",
+      "armadilhas": "Gerar hipóteses sem registrar os acertos.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:21:02"
+    },
+    {
+      "nome": "Dinâmica - Apostas na supervisão coletiva",
+      "objetivo": "Tornar ativa a participação em supervisão ou intervisão coletiva e treinar a reconstrução do contexto com informação parcial.",
+      "competencias": [
+        "Interpretação",
+        "Desenvolvimento profissional"
+      ],
+      "configuracao": "Participantes de supervisão coletiva ou intervisão; jogo interno ou compartilhado.",
+      "tempo": "Durante a apresentação dos casos.",
+      "materiais": "Registro das apostas.",
+      "consigna": "Enquanto o colega conta o caso, faça sua aposta: o caso é sobre o quê, e para onde vai? Sustente a hipótese e veja depois se acertou.",
+      "passos": [
+        "Ouvir o caso com o acesso parcial que se tem.",
+        "Formular hipóteses sobre o que o caso é e para onde vai.",
+        "Registrar as apostas.",
+        "Acompanhar as supervisões seguintes.",
+        "Reavaliar os próprios preconceitos quando errar sistematicamente."
+      ],
+      "feedback": "Track record ao longo do tempo; 'a lente é o viés'.",
+      "exemplos_praticos": "Não realizada no encontro; proposta como forma de combater a passividade na supervisão coletiva.",
+      "variacoes": "O supervisor pode tornar as apostas explícitas e abertas no grupo.",
+      "armadilhas": "Passividade: 'esperar o outro parar de falar para apresentar o seu caso'.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:22:12"
+    },
+    {
+      "nome": "Dinâmica - Grifar o essencial",
+      "objetivo": "Treinar a priorização identificando o elemento central de cada frase de um texto.",
+      "competencias": [
+        "Priorização clínica"
+      ],
+      "configuracao": "Individual.",
+      "tempo": "Livre.",
+      "materiais": "Qualquer texto e marcador.",
+      "consigna": "Em cada frase, marque o elemento mais central. No fim, leia só o que grifou e veja se o texto faz sentido.",
+      "passos": [
+        "Escolher um texto.",
+        "Grifar uma parte central por frase ou argumento.",
+        "Ler só os grifos.",
+        "Se fizer sentido, a priorização foi correta; se não, rever o que ficou de fora."
+      ],
+      "feedback": "O critério é o texto grifado fazer sentido sozinho.",
+      "exemplos_praticos": "Um participante comenta que já lê assim.",
+      "variacoes": "Fazer com a transcrição de uma sessão.",
+      "armadilhas": "Fazer no automático, como técnica de estudo, sem consciência de que é treino de priorização.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:06:45"
+    },
+    {
+      "nome": "Dinâmica - Adivinhar pelo trailer",
+      "objetivo": "Treinar a reconstrução do contexto (intuir a história) e, na segunda etapa, a conferência (decompor por que se intuiu aquilo).",
+      "competencias": [
+        "Interpretação"
+      ],
+      "configuracao": "Duplas, grupo de intervisão ou parceiro, fora da clínica.",
+      "tempo": "O de um trailer mais a discussão; a conferência vem depois de ver o filme.",
+      "materiais": "Lista de filmes, trailers.",
+      "consigna": "Peguem a lista de filmes que vocês querem ver, vejam o trailer e tentem adivinhar a história. Depois decomponham como e por que cada um foi numa direção e não em outra.",
+      "passos": [
+        "Ver o trailer.",
+        "Cada um registra sua intuição.",
+        "Ver o filme e conferir.",
+        "Decompor os 'comos' e os 'porquês' do raciocínio.",
+        "Discutir com o grupo de intervisão."
+      ],
+      "feedback": "Acerto da previsão e qualidade da explicitação do raciocínio.",
+      "exemplos_praticos": "Proposta, não realizada no encontro.",
+      "variacoes": "Séries (intuir o próximo episódio), livros, literatura policial.",
+      "armadilhas": "Sem a decomposição, o exercício treina só a reconstrução e não a conferência.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:34:56"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Responder a uma dúvida com uma aula estruturada por taxonomia",
+      "descricao": "Transforma a pergunta de um participante num percurso ordenado pelos elementos, dizendo para cada um se é treinável e como.",
+      "exemplo": "'A primeira coisa que eu fiz foi montar uma taxonomia; agora vou falar como treinar cada elemento.'",
+      "ts": "0:00:08"
+    },
+    {
+      "movimento": "Analogias do cotidiano e do esporte",
+      "descricao": "Ancora conceitos abstratos em imagens familiares.",
+      "exemplo": "Não se treina o queixo no MMA; teoria musical na ópera; a tia preocupada; o detetive de Agatha Christie.",
+      "ts": "0:01:04"
+    },
+    {
+      "movimento": "Acolher a objeção e usá-la como ponte",
+      "descricao": "Diante de 'central para quem?', concorda ('perfeito') e antecipa a parte da conferência para responder.",
+      "exemplo": "Introduz o critério da reação emocional como resposta à objeção.",
+      "ts": "0:03:31"
+    },
+    {
+      "movimento": "Amenizar a crítica delimitando sua validade",
+      "descricao": "Reconhece a parte correta da crítica e mostra onde ela vale.",
+      "exemplo": "'Sua crítica está correta', mas vale sobretudo para pacientes com consciência muito baixa.",
+      "ts": "0:05:40"
+    },
+    {
+      "movimento": "Normalizar o que o grupo já faz",
+      "descricao": "Mostra que muitos exercícios já são feitos intuitivamente; o ganho está em fazê-los de forma consciente.",
+      "exemplo": "'Quem sabe interpretar razoavelmente bem já faz isso; só não chama de treino.'",
+      "ts": "0:06:45"
+    },
+    {
+      "movimento": "Admitir o esquecimento e improvisar",
+      "descricao": "Assume em público que esqueceu um ponto, recusa a sugestão do participante e oferece outra construção.",
+      "exemplo": "Ao ouvir 'equação pessoal', diz que não era isso e propõe a ancoragem da priorização.",
+      "ts": "0:13:50"
+    },
+    {
+      "movimento": "Checar o fechamento de cada parte",
+      "descricao": "Pergunta se a parte está resolvida para quem perguntou e para os demais antes de avançar.",
+      "exemplo": "'Tá fechado para você, Gabriel, ou para outras pessoas que estão engajando com a resposta?'",
+      "ts": "0:19:15"
+    },
+    {
+      "movimento": "Relatar dinâmicas já conduzidas e convocar uma colega",
+      "descricao": "Descreve uma dinâmica que fez presencialmente, pergunta a uma colega presente se participou e sugere que ela a use.",
+      "exemplo": "Pergunta à Laura se ela já fez a dinâmica de sair da sala e recomenda que ela a leve para o grupo dela.",
+      "ts": "0:28:06"
+    },
+    {
+      "movimento": "Conferir a satisfação com a resposta",
+      "descricao": "Antes de seguir, pergunta se a resposta foi satisfatória e se a pessoa quer especificar algo.",
+      "exemplo": "'Tá satisfatória? Quer especificar alguma coisa ou bola pra próxima?'",
+      "ts": "0:40:12"
+    },
+    {
+      "movimento": "Abrir o espaço sem restrição",
+      "descricao": "Explicita que qualquer tipo de pergunta é bem-vindo no último encontro.",
+      "exemplo": "'Pode ser um tópico que passou, algo que não deu tempo, um conselho, um caso.'",
+      "ts": "0:40:23"
+    },
+    {
+      "movimento": "Responder por camadas numeradas e sintetizar",
+      "descricao": "Organiza respostas longas em 'primeira coisa' e 'segunda parte' e fecha com uma síntese.",
+      "exemplo": "'Fazendo uma síntese: dois problemas, os dois têm a ver com colonização.'",
+      "ts": "0:50:52"
+    },
+    {
+      "movimento": "Simplificar na réplica e exemplificar na abordagem de quem pergunta",
+      "descricao": "Quando a participante reformula, reduz a resposta a duas partes e dá um exemplo dentro da psicanálise.",
+      "exemplo": "O 'secretariar' nas entrevistas preliminares e na psicose.",
+      "ts": "0:53:15"
+    },
+    {
+      "movimento": "Pedir contexto antes de orientar",
+      "descricao": "Antes de recomendar um percurso, pergunta a formação, a experiência e a abordagem preferida.",
+      "exemplo": "'Me conta um pouquinho, que aí eu te direciono.'",
+      "ts": "0:58:41"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Quando uma interpretação acerta, espere reação, não necessariamente concordância.",
+      "justificativa": "A verdade costuma causar emoção; uma discordância frontal pode indicar que se tocou no ponto.",
+      "contexto": "Ao avaliar uma priorização ou interpretação. Exceção: pacientes com consciência muito baixa do tema, cujas consequências aparecem nas sessões seguintes.",
+      "competencia": "Interpretação",
+      "ts": "0:04:46"
+    },
+    {
+      "dica": "Se seus casos estão chatos ou travados, suspeite de erro de priorização.",
+      "justificativa": "Atender costuma ser estimulante; quando nem terapeuta nem paciente engajam, provavelmente se estão pegando elementos não centrais.",
+      "contexto": "Casos que 'não vão para a frente'.",
+      "competencia": "Priorização clínica",
+      "ts": "0:07:44"
+    },
+    {
+      "dica": "Ao fim de uma fala, devolva 'o que ouvi foi isso?'.",
+      "justificativa": "O espelhamento é técnica clínica e treino de priorização, porque confere se o que você achou central é o central.",
+      "contexto": "Na clínica e em conversas cotidianas.",
+      "competencia": "Escuta clínica",
+      "ts": "0:03:31"
+    },
+    {
+      "dica": "Amplie o repertório para além da psicologia.",
+      "justificativa": "Cada teoria é uma lente que revela o invisível, como o subtexto econômico ou racial de um caso.",
+      "contexto": "Estudo contínuo: sociologia, antropologia, economia, arte.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:12:57"
+    },
+    {
+      "dica": "Deixe a metodologia guiar a priorização durante o atendimento.",
+      "justificativa": "É o nível mais sofisticado de ancoragem: mesmo que algo chame sua atenção, prioriza-se segundo o método (associação livre, aqui e agora).",
+      "contexto": "Sobretudo para quem tem uma abordagem mais forte.",
+      "competencia": "Priorização clínica",
+      "ts": "0:14:49"
+    },
+    {
+      "dica": "Desconfie de priorizar o que é socialmente mais tenso só porque indigna você.",
+      "justificativa": "A priorização puramente ética 'cheira a amadorismo' e parece mais conversa de parente preocupado do que clínica.",
+      "contexto": "Relatos de violência, conflitos morais.",
+      "competencia": "Priorização clínica",
+      "ts": "0:15:47"
+    },
+    {
+      "dica": "Faça a intuição virar raciocínio explícito.",
+      "justificativa": "A intuição não é treinável nem corrigível; o raciocínio explícito é.",
+      "contexto": "Sempre que você 'simplesmente sabe' para onde ir.",
+      "competencia": "Interpretação",
+      "ts": "0:20:00"
+    },
+    {
+      "dica": "Para cada fato clínico, gere várias leituras e estime a probabilidade de cada uma.",
+      "justificativa": "Evita fixar a primeira hipótese e permite calibrar o julgamento pelo registro de acertos.",
+      "contexto": "Faltas, atrasos, mudanças de comportamento do paciente.",
+      "competencia": "Formulação de caso",
+      "ts": "0:21:02"
+    },
+    {
+      "dica": "Na supervisão coletiva, aposte em vez de esperar sua vez.",
+      "justificativa": "Torna a experiência ativa e, com registro, revela seus vieses de reconstrução.",
+      "contexto": "Intervisão e supervisão em grupo.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:22:12"
+    },
+    {
+      "dica": "Treine a reconstrução com filmes, séries e literatura.",
+      "justificativa": "Intuir consequências e finais é o mesmo exercício da reconstrução do contexto clínico.",
+      "contexto": "Fora da clínica, no cotidiano.",
+      "competencia": "Interpretação",
+      "ts": "0:26:00"
+    },
+    {
+      "dica": "Conte as escolhas éticas que você fez sem perceber.",
+      "justificativa": "A não ação e a escolha de um tema em vez de outro também são decisões éticas; iniciantes decidem pelo paciente sem notar.",
+      "contexto": "Ao revisar o registro de um atendimento.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:31:05"
+    },
+    {
+      "dica": "Confira a interpretação pela transparência, pela completude e pela predição.",
+      "justificativa": "Uma boa interpretação parece óbvia, não deixa ponta solta e prevê o que vem a seguir.",
+      "contexto": "Antes de comunicar (a priori) e depois (a posteriori).",
+      "competencia": "Interpretação",
+      "ts": "0:32:53"
+    },
+    {
+      "dica": "Anote sua clínica: pacientes perdidos, previsões, avaliação do paciente sessão a sessão.",
+      "justificativa": "A fantasia sobre as próprias capacidades é muito diferente da realidade; sem registro não há treino.",
+      "contexto": "Sempre. Se estranhar isso na clínica, faça com filmes e livros.",
+      "competencia": "Feedback clínico",
+      "ts": "0:38:21"
+    },
+    {
+      "dica": "Não abandone sua abordagem por causa de uma técnica 'emprestada': pergunte como ela cabe no seu frame.",
+      "justificativa": "Técnicas são genéricas e os clássicos já faziam quase tudo; o problema não é a ação, é não inscrevê-la no processo da própria abordagem.",
+      "contexto": "Demandas urgentes e práticas (organização, crise).",
+      "competencia": "Articulação teoria-prática",
+      "ts": "0:53:52"
+    },
+    {
+      "dica": "Na psicanálise, use as entrevistas preliminares para secretariar quando for preciso.",
+      "justificativa": "Antes do divã, organizar a vida do paciente é natural, e na psicose pode ser o tratamento todo, desde que em função do processo analítico.",
+      "contexto": "Início do tratamento, pacientes desorganizados, psicose.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:53:52"
+    },
+    {
+      "dica": "Não escolha a intervenção só pela natureza do problema.",
+      "justificativa": "Na psicologia não há fator patognomônico, e para um mesmo quadro há centenas de intervenções razoáveis.",
+      "contexto": "Ao planejar um tratamento.",
+      "competencia": "Intervenção",
+      "ts": "0:53:36"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Dos cinco elementos da interpretação, só priorização, reconstrução do contexto e conferência são realmente treináveis.",
+      "argumento": "A escuta sensorial 'simplesmente acontece'; a deliberação não tem marcadores concretos de acerto, porque a escolha vira certa por retroação.",
+      "contraponto": "",
+      "implicacao": "Concentrar o treino nesses três e, na deliberação, treinar a consciência.",
+      "quem": "Alan",
+      "ts": "0:31:57"
+    },
+    {
+      "tese": "A intuição não é treinável; por isso vale explicitar o raciocínio.",
+      "argumento": "A intuição é um processo inconsciente que entrega a resposta pronta; o que não é consciente não se corrige.",
+      "contraponto": "'Quem tem o dom, tem o dom': Alan não nega o talento.",
+      "implicacao": "Formular hipóteses de forma explícita e registrá-las.",
+      "quem": "Alan",
+      "ts": "0:20:00"
+    },
+    {
+      "tese": "A teoria funciona como uma lente, ou uma ideologia no sentido marxista: cega em parte e revela em parte.",
+      "argumento": "Exemplos da teoria musical na ópera e do desvio de linguagem, que só significa algo para quem conhece psicanálise.",
+      "contraponto": "",
+      "implicacao": "Ter várias lentes e consciência de que 'a lente é o viés'.",
+      "quem": "Alan",
+      "ts": "0:09:47"
+    },
+    {
+      "tese": "A priorização tem níveis de sofisticação: ética < teórica < leitura do caso < metodologia.",
+      "argumento": "A priorização ética é a do parente preocupado; a teórica gera clínica burocrática; a leitura do caso é específica; o método é o que deveria guiar o atendimento.",
+      "contraponto": "Mesmo a priorização teórica e 'calcificada' atende, na média, melhor que a ética.",
+      "implicacao": "Observar em que nível se está e experimentar os níveis 'mais elegantes'.",
+      "quem": "Alan",
+      "ts": "0:15:47"
+    },
+    {
+      "tese": "Repertório, consciência e track record são os três princípios gerais de qualquer treino de interpretação.",
+      "argumento": "O repertório amplia as reconstruções possíveis; a consciência permite ver erros sistemáticos; o registro corrige a fantasia sobre a própria competência.",
+      "contraponto": "Resistência de psicanalistas e humanistas a medir a clínica, contornada fazendo track record na arte.",
+      "implicacao": "Estudar amplamente, explicitar o raciocínio e anotar a própria clínica.",
+      "quem": "Alan",
+      "ts": "0:36:19"
+    },
+    {
+      "tese": "As supervisões coletivas são passivas porque os supervisores permitem.",
+      "argumento": "O participante só espera sua vez de apresentar o caso.",
+      "contraponto": "",
+      "implicacao": "Estruturar a supervisão como jogo de apostas.",
+      "quem": "Alan",
+      "ts": "0:22:12"
+    },
+    {
+      "tese": "Ninguém é dono de técnica; a divisão das técnicas por abordagem é muito frouxa.",
+      "argumento": "A cadeira vazia é anterior a Beck e a Moreno; Jung teria feito dessensibilização nos anos 1910 ('até onde sei'); os clássicos (Freud, Adler, Ferenczi (?)) já faziam quase tudo o que hoje se atribui a TCC, ACT e FAP.",
+      "contraponto": "A 'colonização ideológica barata' de manuais e escolas que se apropriam das técnicas.",
+      "implicacao": "Não abandonar a própria abordagem por causa de uma técnica, e sim entender como ela cabe no próprio frame.",
+      "quem": "Alan",
+      "ts": "0:42:39"
+    },
+    {
+      "tese": "A medicina é sobretudo interpretação; a psicoterapia é sobretudo execução.",
+      "argumento": "Na medicina, o fator patognomônico liga diagnóstico e tratamento, com poucas opções; na psicologia não há essa ponte, e há centenas de intervenções razoáveis por problema.",
+      "contraponto": "A importação do modelo médico 'demanda X → intervenção Y' (por exemplo, 'psicanálise não serve para demanda urgente').",
+      "implicacao": "A decisão clínica passa por muitas outras coisas além da natureza do problema; o como executar ganha peso.",
+      "quem": "Alan",
+      "ts": "0:49:41"
+    },
+    {
+      "tese": "Quem troca de abordagem diante da demanda tem uma relação primária com a teoria.",
+      "argumento": "Não consegue articular o conhecimento teórico com a demanda específica.",
+      "contraponto": "",
+      "implicacao": "Formar para articular teoria e demanda, e não para aplicar receitas.",
+      "quem": "Alan",
+      "ts": "0:54:59"
+    },
+    {
+      "tese": "Livros de prática clínica costumam ser intra-abordagem, e isso limita a transposição.",
+      "argumento": "Sem boa criatividade, é difícil transpor a prática de uma abordagem para outra; por isso ele prefere um livro que olha a literatura sem priorizar nenhuma abordagem.",
+      "contraponto": "",
+      "implicacao": "Buscar literatura prática transteórica.",
+      "quem": "Alan",
+      "ts": "0:57:07"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Priorizar, reconstruir e conferir são as três coisas que dá para treinar. Deliberar e escutar, eu não acho que dá para treinar tanto assim.",
+      "tema": "Elementos da interpretação",
+      "ts": "0:31:57"
+    },
+    {
+      "texto": "Uma discordância frontal pode ser evidência de que você fez uma boa priorização.",
+      "tema": "Priorização",
+      "ts": "0:04:46"
+    },
+    {
+      "texto": "Em regra, atender é estimulante, atender é divertido.",
+      "tema": "Priorização",
+      "ts": "0:07:44"
+    },
+    {
+      "texto": "Priorizar, no fundo, é achar gancho.",
+      "tema": "Priorização",
+      "ts": "0:08:44"
+    },
+    {
+      "texto": "A teoria cega a gente para elementos da realidade, mas permite observar elementos que seriam muito pouco óbvios sem aquela lente.",
+      "tema": "Teoria como lente",
+      "ts": "0:09:47"
+    },
+    {
+      "texto": "Repertório é o rei de todas as coisas.",
+      "tema": "Reconstrução do contexto",
+      "ts": "0:19:24"
+    },
+    {
+      "texto": "Quem tem o dom, tem o dom. Mas se você está na dúvida se tem o dom, faça de maneira explícita.",
+      "tema": "Intuição",
+      "ts": "0:20:00"
+    },
+    {
+      "texto": "A lente é o viés.",
+      "tema": "Viés",
+      "ts": "0:23:06"
+    },
+    {
+      "texto": "A informação sempre vai ser pouca.",
+      "tema": "Reconstrução do contexto",
+      "ts": "0:24:58"
+    },
+    {
+      "texto": "A maior parte das pessoas não chama de escolha ética a não ação.",
+      "tema": "Deliberação",
+      "ts": "0:31:05"
+    },
+    {
+      "texto": "Uma interpretação adequada não parece uma interpretação psicanalítica; parece simplesmente óbvia.",
+      "tema": "Conferência",
+      "ts": "0:32:53"
+    },
+    {
+      "texto": "Tire a interpretação do campo intuitivo e leve-a para o campo deliberado.",
+      "tema": "Consciência",
+      "ts": "0:36:19"
+    },
+    {
+      "texto": "Você vai se assustar quando começar a anotar coisas sobre a sua clínica.",
+      "tema": "Track record",
+      "ts": "0:37:32"
+    },
+    {
+      "texto": "Pedir para a pessoa se organizar não é técnica de TCC. Teu pai te ajuda a se organizar e não sabe nada de TCC.",
+      "tema": "Colonização ideológica",
+      "ts": "0:42:39"
+    },
+    {
+      "texto": "Na medicina, o difícil é interpretar. Psicoterapia tem muito mais a ver com execução.",
+      "tema": "Medicina e psicoterapia",
+      "ts": "0:49:41"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Interpretação se treina? Três partes sim, duas não.",
+      "mensagem": "Os cinco elementos da interpretação e como treinar os três treináveis.",
+      "roteiro": [
+        "1. Sensorial: acontece",
+        "2. Priorização: achar o gancho",
+        "3. Reconstrução: repertório e apostas",
+        "4. Deliberação: consciência das escolhas",
+        "5. Conferência: critérios a priori e a posteriori",
+        "Repertório, consciência, track record"
+      ],
+      "corte_inicio": "0:31:57",
+      "corte_fim": "0:32:53"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Como saber se sua interpretação está certa.",
+      "mensagem": "Reação emocional, transparência, completude, predição, concordância com a teoria; critérios a priori e a posteriori.",
+      "roteiro": [
+        "A pessoa reagiu? (discordar também conta)",
+        "Parece óbvia?",
+        "Não deixa ponta solta?",
+        "Previu o que veio depois?",
+        "Tem paralelo na literatura?",
+        "Antes e depois de falar"
+      ],
+      "corte_inicio": "0:31:57",
+      "corte_fim": "0:34:53"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Seus atendimentos estão chatos? Pode ser erro de priorização.",
+      "mensagem": "Atender costuma ser estimulante; se ninguém engaja, você está pegando o elemento errado. Priorizar é achar gancho.",
+      "roteiro": [
+        "Atender é divertido",
+        "Quando não é, suspeite da priorização",
+        "Desafio: conversar com uma pessoa chata"
+      ],
+      "corte_inicio": "0:07:44",
+      "corte_fim": "0:09:47"
+    },
+    {
+      "formato": "reels",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "A dinâmica em que você sai da sala assim que forma opinião.",
+      "mensagem": "Treinar hipóteses com pouca informação num formato de jogo.",
+      "roteiro": [
+        "Alguém conta um caso",
+        "Formou opinião? Sai da sala",
+        "Quem saiu primeiro apresenta primeiro",
+        "A informação sempre vai ser pouca"
+      ],
+      "corte_inicio": "0:24:03",
+      "corte_fim": "0:26:00"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "abordagens-em-dialogo",
+      "gancho": "Organizar a agenda do paciente não é técnica da TCC.",
+      "mensagem": "Ninguém é dono de técnica: a cadeira vazia, a dessensibilização e os clássicos que já faziam tudo.",
+      "roteiro": [
+        "O exemplo do 'empréstimo' de técnica",
+        "Teu pai também te ajuda a se organizar",
+        "Cadeira vazia: de quem é?",
+        "Os clássicos já faziam quase tudo",
+        "Pergunte como cabe no seu frame"
+      ],
+      "corte_inicio": "0:42:39",
+      "corte_fim": "0:45:43"
+    },
+    {
+      "formato": "post",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Por que a psicologia não funciona como a medicina.",
+      "mensagem": "Sem fator patognomônico e com centenas de intervenções razoáveis por problema, a psicoterapia é sobretudo execução.",
+      "roteiro": [
+        "Na medicina: diagnóstico → poucas opções",
+        "Na psicologia: humor deprimido → cem intervenções",
+        "Por isso a execução pesa mais"
+      ],
+      "corte_inicio": "0:45:43",
+      "corte_fim": "0:49:41"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Repertório, consciência e track record.",
+      "mensagem": "Os três princípios de qualquer treino de interpretação; 'você vai se assustar quando começar a anotar sua clínica'.",
+      "roteiro": [
+        "Repertório",
+        "Consciência: do intuitivo ao deliberado",
+        "Track record: fantasia versus realidade"
+      ],
+      "corte_inicio": "0:36:19",
+      "corte_fim": "0:39:17"
+    },
+    {
+      "formato": "stories",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Treine interpretação assistindo série.",
+      "mensagem": "Adivinhe o final, veja o trailer, decomponha por que chutou aquilo.",
+      "roteiro": [
+        "Enquete: você adivinha finais?",
+        "Isso é reconstruir contexto",
+        "Decompor o chute é conferência"
+      ],
+      "corte_inicio": "0:26:00",
+      "corte_fim": "0:27:03"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Karl Marx",
+      "contexto": "Conceito de ideologia usado para descrever a teoria como lente que cega e revela."
+    },
+    {
+      "nome": "Agatha Christie",
+      "contexto": "Romance policial como exemplo do critério de completude (nenhuma evidência pode ficar de fora)."
+    },
+    {
+      "nome": "Sigmund Freud",
+      "contexto": "Concordância com casos de Freud como critério a priori; seu atendimento real 'não tem nada a ver' com a psicanálise de hoje; os clássicos já faziam técnicas atribuídas a outras abordagens."
+    },
+    {
+      "nome": "Carl Jung",
+      "contexto": "Segundo Alan, primeiro a usar a dessensibilização sistemática, nos anos 1910; seus atendimentos incluem o que hoje se chamaria de outras abordagens."
+    },
+    {
+      "nome": "Alfred Adler",
+      "contexto": "Citado entre os clássicos da primeira geração que já faziam quase tudo."
+    },
+    {
+      "nome": "Aaron Beck",
+      "contexto": "A cadeira vazia já existia décadas antes de Beck."
+    },
+    {
+      "nome": "Jacob Levy Moreno",
+      "contexto": "A cadeira vazia seria anterior até a Moreno."
+    },
+    {
+      "nome": "Scott D. Miller",
+      "contexto": "Autor de um livro recomendado sobre como melhorar na clínica; Alan diz tê-lo contatado e o considera bom em síntese prática, apesar de críticas."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Prática clínica (série de 6 encontros semanais conduzida por Alan na formação online da Allos); este é o 'encontro de tirar dúvidas'",
+    "objetivo": "Responder às dúvidas acumuladas na série. Neste encontro, como treinar a interpretação, organizada em cinco elementos, com exercícios para cada um. Em seguida, perguntas abertas sobre abordagens e percurso de estudo.",
+    "publico": "Estudantes de psicologia e psicólogos iniciantes de abordagens variadas (psicanálise, Gestalt, análise do comportamento/DBT), incluindo participantes de primeira vez e uma estudante vinda da psicologia organizacional.",
+    "tamanho": "Grupo online pequeno. Três ou quatro pessoas falam ao microfone (estimativa); há também uma colega facilitadora de outro grupo presente.",
+    "duracao": "Cerca de 1h gravada. Encontros semanais; provavelmente o último online antes de uma pausa de um a dois meses, com a proposta de grupos presenciais nas férias.",
+    "estrutura_padrao": "Encontro de dúvidas: retomada da pergunta de um participante → taxonomia dos elementos da interpretação (montada antes do trecho gravado) → para cada elemento, se é treinável e como treinar (clínica, supervisão, cotidiano) → princípios gerais → checagem de satisfação com a resposta → espaço aberto para qualquer pergunta → recomendações de material e de grupos.",
+    "papel_facilitador": "Responde às dúvidas como uma aula estruturada, com taxonomia, analogias e exemplos; acolhe objeções, confere se a resposta satisfez, orienta percursos individuais de estudo e explica a lógica dos grupos da Allos.",
+    "regras_combinados": "Perguntas abertas sobre qualquer tema (tópicos passados, conselhos, casos); participação por microfone; materiais enviados no grupo de mensagens da prática; gravações e outros grupos disponíveis na plataforma da Allos (buscar 'aprimoramento clínico'); este grupo foi 'mais teórico', e o grupo de prática da noite, conduzido por outras pessoas, será 'prática de verdade'."
+  },
+  "reflexoes_do_facilitador": [
+    "Esquece uma segunda parte da resposta sobre conhecimento teórico e a substitui, em público, por outra construção (a ancoragem da priorização).",
+    "Diz que não faz papel de supervisor neste grupo, mas que, ao ouvir casos, sente com frequência 'cheiro de erro de priorização'.",
+    "Critica supervisores que permitem a passividade em supervisões coletivas.",
+    "Afirma que, se estivesse mais na posição de supervisor, 'martelaria infinitamente' a importância do track record.",
+    "Avalia que este grupo 'foi um pouco mais teórico' e que o grupo de prática da noite será 'prática de verdade'.",
+    "Reconhece ser 'meio ruim em história da psicologia' ao dar o exemplo de Jung e da dessensibilização.",
+    "Diz ter várias críticas ao livro recomendado, com uma versão comentada, e críticas também ao trabalho de Scott D. Miller."
+  ],
+  "referencias_a_outros_encontros": [
+    "Continua a construção do 5º encontro (pc-06) sobre raciocínio clínico e interpretação; retoma a participante cuja priorização 'tinha muito a ver com contato' e que o grupo intuiu ser da Gestalt.",
+    "A taxonomia dos elementos da interpretação foi montada antes do trecho gravado (a gravação começa com 'vamos prosseguir').",
+    "Anuncia que este é possivelmente o último encontro online; o pessoal quer grupo presencial nas férias, com um 'cronograma especial presencial', e ele deve sair do online por um ou dois meses.",
+    "Menciona a dinâmica de sair da sala, feita 'umas duas vezes' no presencial da Allos.",
+    "Menciona os grupos de prática (o da noite, conduzido por outras pessoas), o grupo de construção de casos da Laura e a plataforma da Allos (buscar 'aprimoramento clínico').",
+    "Refere-se ao que viu 'semana passada' e aos grupos de prática em que uma participante observou pessoas usando técnicas de outras abordagens."
+  ],
+  "observacoes": "A gravação começa no meio do encontro: a construção da taxonomia dos elementos da interpretação não aparece, só o percurso de como treinar cada elemento. A lista acima reconstrói a taxonomia pela ordem em que Alan a percorre. Legenda automática com ruído: 'aula' costuma ser 'Allos'; 'Fornou Asiaa' foi interpretado como Ferenczi (?); 'log de um atendimento no Éxil' ficou ininteligível (talvez uma ferramenta de registro); 'definição menos milp' foi parafraseado como 'menos restrita'. Os nomes dos participantes oscilam (o mesmo participante parece ser chamado de Gabriel e de Ângelo). Os títulos dos dois livros recomendados não são ditos. As afirmações históricas (Jung e a dessensibilização; a origem da cadeira vazia) são de Alan, com ressalva, e merecem verificação. Nenhum caso clínico real é discutido em detalhe."
+}

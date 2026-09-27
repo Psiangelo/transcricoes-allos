@@ -1,0 +1,250 @@
+---
+tipo: "tese"
+tema: "Diagnóstico e formulação de caso"
+n_teses: 45
+tags: ["tese"]
+---
+
+# Teses — Diagnóstico e formulação de caso
+
+> [!abstract] 45 pontos de vista defendidos nos grupos e vídeos, cada um com o argumento, o contraponto e a implicação prática.
+> Ótimo ponto de partida para posts de opinião, debates em grupo e roteiros de vídeo.
+
+## Alan
+- **Quase sempre que alguém pede um tempo, o correto seria ter encerrado.**
+  - *Argumento:* Analogia com o namoro: na prática, o pedido de tempo costuma esconder fuga ou fim.
+  - *Contra quem / contraponto:* Em abstrato, pausas podem fortalecer a relação.
+  - *Implicação prática:* Checar a hipótese clínica antes de conceder uma pausa.
+  - [[Alan 01 - Relação terapêutica tensionada]] [▶ 0:54:01](https://www.youtube.com/watch?v=EesAwF0Ee9E&t=3241s)
+- **Em psicologia, raramente se sabe o que se trata antes da metade do processo.**
+  - *Argumento:* É comum perceber anos depois 'é sobre isso o tratamento'; decidir de antemão (DSM, nichos) é jogar com um braço a menos.
+  - *Contra quem / contraponto:* Modelos que fixam o foco desde o diagnóstico.
+  - *Implicação prática:* Manter o centro provisório e alternar esquemas.
+  - [[Alan 06 - Esquemas de aprofundamento]] [▶ 1:14:18](https://www.youtube.com/watch?v=R13SPxOxLxQ&t=4458s)
+- **A psicologia convida o terapeuta a viver uma vida mais rica.**
+  - *Argumento:* Quem vive de modo muito disfuncional tem um problema como clínico; ler os clássicos pensando psicologicamente melhora a formulação.
+  - *Contra quem / contraponto:* A formação puramente técnica.
+  - *Implicação prática:* Trabalhar a espontaneidade e ler alta cultura 'da pele para dentro'.
+  - [[Alan 07 - Psicoeducação]] [▶ 1:34:58](https://www.youtube.com/watch?v=a7aECd72834&t=5698s)
+- **'O todo é maior que a soma das partes' é uma formulação imprecisa da sistêmica.**
+  - *Argumento:* A formulação precisa localiza a novidade: na interação entre as partes emergem propriedades não óbvias nas partes.
+  - *Contra quem / contraponto:* O jargão corrente das aulas de sistêmica.
+  - *Implicação prática:* Escutar interações, não somar descrições de indivíduos.
+  - [[Alan 10 - Escuta em sistêmica]] [▶ 0:15:50](https://www.youtube.com/watch?v=DPPCBauRuAo&t=950s)
+- **Em regra, hipótese aberta é melhor do que hipótese oculta.**
+  - *Argumento:* Facilita o teste de hipótese, permite o confronto do paciente e evita o 'atendimento duplo'.
+  - *Contra quem / contraponto:* Terapeutas de abordagens colaborativas (ex.: TCC) que anotam escondido — 'isso me incomoda muito'; exceção legítima na psicanálise.
+  - *Implicação prática:* Responder quando o paciente pergunta; anotar à vista.
+  - [[Alan 10 - Escuta em sistêmica]] [▶ 1:19:56](https://www.youtube.com/watch?v=DPPCBauRuAo&t=4796s)
+- **O diagnóstico nosológico-fenomenológico (DSM) tem pouca utilidade clínica, pelo menos a princípio.**
+  - *Argumento:* Por ser ateórico, descreve só a superfície; não diz mecanismo nem etiologia. Quatro casos de 'depressão' exigiriam tratamentos profundamente diferentes.
+  - *Contra quem / contraponto:* Alan reconhece as vantagens: serve a várias teorias e culturas e facilita a pesquisa, porque é mais fácil concordar sobre a superfície.
+  - *Implicação prática:* O rótulo é ponto de partida, não formulação clínica.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 0:02:30](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=150s)
+- **O diagnóstico propriamente psicológico não precisa preceder o tratamento.**
+  - *Argumento:* É comum que seja uma das últimas coisas descobertas; às vezes se age antes de entender.
+  - *Contra quem / contraponto:* Diagnóstico médico e estrutural psicanalítico (entrevistas preliminares), que precisam vir antes.
+  - *Implicação prática:* Tolerar não saber no início e seguir refinando a leitura.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 0:09:04](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=544s)
+- **No caso do poema 1, 'disforia de gênero' é um erro clínico, não político.**
+  - *Argumento:* Os critérios do manual (desconforto com o corpo, imagem corporal distorcida) não aparecem; o eu lírico está tranquilo com o corpo. É um diagnóstico impreciso e genérico.
+  - *Contra quem / contraponto:* A discussão que reduz o problema a ser 'politicamente incorreto'.
+  - *Implicação prática:* Avaliar rótulos pela precisão clínica.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 0:24:00](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=1440s)
+- **Gerar hipóteses e testar hipóteses são duas técnicas e dois modos de pensar diferentes.**
+  - *Argumento:* Gerar exige fluência verbal e ousadia ('maldade'); testar exige mais dados e conversa. Misturar os dois leva ao medo de formular.
+  - *Contra quem / contraponto:* O clínico que só formula o que já pode provar, ou que crava hipóteses sem testar.
+  - *Implicação prática:* Praticar a geração (exercício das 20 hipóteses) e testar depois na sessão.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 1:31:35](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=5495s)
+- **O objeto da psicologia se conforma às hipóteses do observador; as hipóteses não são inócuas.**
+  - *Argumento:* Estudo com sobreviventes do 11 de setembro (visão de mundo determinou a cena lembrada); 'pacientes freudianos têm sonhos freudianos'; a atenção seletiva do terapeuta ensina o paciente o que dizer.
+  - *Contra quem / contraponto:* A crença de que o encaixe perfeito de uma formulação comprova a abordagem.
+  - *Implicação prática:* Desconfiar do encaixe perfeito e vigiar o que se sinaliza ao paciente.
+  - [[Alan 13 - Formulação de caso 2]] [▶ 1:16:43](https://www.youtube.com/watch?v=jVNAVbIyPmA&t=4603s)
+- **O fenômeno clínico é plástico e confirma até hipóteses unilaterais.**
+  - *Argumento:* Dá para 'forçar a barra' com qualquer esquema: o primeiro Freud (tudo é sexualidade), o estoicismo (não há problemas reais), o analista do 'eureca, papai e mamãe'.
+  - *Contra quem / contraponto:* A maioria das pessoas acha que há 'muito mais cor' no fenômeno humano.
+  - *Implicação prática:* É vantagem (poucos esquemas já dão uma clínica razoável) e problema (pouco feedback para refinar): variedade de ferramentas + julgamento intuitivo.
+  - [[Alan 14 - Priorização clínica 1]] [▶ 2:08:24](https://www.youtube.com/watch?v=bhMBmA7D57s&t=7704s)
+- **Nunca acreditem em pessoas que dão dicas sobre clínica (tese irônica).**
+  - *Argumento:* Não existem regras gerais em psicologia; toda dica depende do contexto.
+  - *Contra quem / contraponto:* Alan dá a dica mesmo assim, avisando dos limites.
+  - *Implicação prática:* Tomar dicas como hipóteses a testar.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 0:56:49](https://www.youtube.com/watch?v=5S1N66EW-7w&t=3409s)
+- **Toda intervenção deve estar ligada a uma hipótese — ou, no mínimo, é muito mais fácil trabalhar assim.**
+  - *Argumento:* Sem hipótese a intervenção não tem objetivo nem critério de sucesso; com ela, cada fala é um teste.
+  - *Contra quem / contraponto:* Intervenções 'porque faz sentido' ou 'para a pessoa falar mais'; Alan admite que existem outras formas de clinicar.
+  - *Implicação prática:* Nomear a hipótese antes de intervir; treinar derivando intervenções de hipóteses alheias.
+  - [[Alan 16 - Intervenção]] [▶ 0:04:18](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=258s)
+- **Tornar o processo menos intuitivo — intervir a partir da hipótese de outra pessoa — é o melhor treino.**
+  - *Argumento:* Com a própria hipótese, hipótese e intervenção se misturam; com a alheia, é preciso ouvir, co-visualizar e derivar conscientemente.
+  - *Contra quem / contraponto:* O ideal é que o processo se torne automático.
+  - *Implicação prática:* Desenhar exercícios que separem artificialmente etapas do raciocínio clínico.
+  - [[Alan 16 - Intervenção]] [▶ 0:42:26](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=2546s)
+- **Imputar uma hipótese é violento, mas isso não é problema em si — é um fato a administrar.**
+  - *Argumento:* Afirmar aumenta a intensidade e a chance de soar violento; a reação do paciente vira dado clínico.
+  - *Contra quem / contraponto:* Objeção de um participante de que a intervenção imputava algo que a paciente não disse.
+  - *Implicação prática:* Ter tranquilidade com consequências e saber reduzir a intensidade.
+  - [[Alan 16 - Intervenção]] [▶ 1:50:15](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=6615s)
+- **Não vale a pena mudar o estilo conservador de um terapeuta, vale potencializá-lo.**
+  - *Argumento:* O estilo combina com personalidade e escolhas teóricas; conectar hipóteses dá potência sem forçar diretividade.
+  - *Contra quem / contraponto:* A ideia de que é preciso ficar mais agressivo ou levar tudo para a relação (FAP).
+  - *Implicação prática:* Treinar hipóteses simultâneas e retomadas.
+  - [[Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica]] [▶ 1:07:42](https://www.youtube.com/watch?v=VCS9TBtwiMY&t=4062s)
+- **Até a clínica mais dialógica precisa da habilidade de antecipar consequências.**
+  - *Argumento:* Intuir as direções possíveis continua útil mesmo numa clínica do aqui e agora.
+  - *Contra quem / contraponto:* 'Minha clínica é dialética' ou 'é do aqui e agora'.
+  - *Implicação prática:* Exercícios ex cathedra de vislumbre de hipóteses.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 1:22:00](https://www.youtube.com/watch?v=oeCymlAmai4&t=4920s)
+- **A intuição não é treinável; por isso vale explicitar o raciocínio.**
+  - *Argumento:* A intuição é um processo inconsciente que entrega a resposta pronta; o que não é consciente não se corrige.
+  - *Contra quem / contraponto:* 'Quem tem o dom, tem o dom': Alan não nega o talento.
+  - *Implicação prática:* Formular hipóteses de forma explícita e registrá-las.
+  - [[Prática Clínica 07 - Como treinar cada elemento da interpretação]] [▶ 0:20:00](https://www.youtube.com/watch?v=0cTyM1BH_Yc&t=1200s)
+
+## Diogo
+- **Fantasias sobre o paciente são inevitáveis e utilizáveis. A questão é como e quando.**
+  - *Argumento:* O mesmo mecanismo opera com colegas, pacientes, filmes e pessoas na rua, e algumas fantasias são oportunidades clínicas.
+  - *Contra quem / contraponto:* O ideal de neutralidade da formação ('evitar seus atravessamentos').
+  - *Implicação prática:* Avaliar a origem de cada fantasia e escolher o destino dela (sessão, hipótese, supervisão).
+  - [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]] [▶ 1:16:52](https://www.youtube.com/watch?v=LnSuu9hHx0Q&t=4612s)
+- **Numa comparação de terapeutas, o critério deve ser a formulação, não a abordagem nem o caminho clínico.**
+  - *Argumento:* Os dois caminhos eram interessantes; o que diferenciou os terapeutas foi a habilidade de formular e de levar ao aprofundamento.
+  - *Contra quem / contraponto:* A plateia tende a preferir o terapeuta da própria abordagem.
+  - *Implicação prática:* Dar feedback técnico sobre a fala, não sobre a escola.
+  - [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 1:18:17](https://www.youtube.com/watch?v=n1iu-W8ujac&t=4697s)
+- **Criatividade clínica diz respeito sobretudo à compreensão do caso, não à invenção de recursos.**
+  - *Argumento:* Vieses e aspectos gritantes do caso cegam para outros aspectos; criar leituras novas amplia a compreensão.
+  - *Contra quem / contraponto:* A ideia corrente de clínico criativo como quem inventa técnicas.
+  - *Implicação prática:* Treinar a geração de hipóteses alternativas.
+  - [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] [▶ 0:02:06](https://www.youtube.com/watch?v=rFd2HjdymmM&t=126s)
+- **O exercício de tradução entre abordagens rende mais quando a compreensão do caso ainda não está montada.**
+  - *Argumento:* Com um caso muito pensado, a leitura do terapeuta tende a ficar enrijecida e os insights novos rareiam.
+  - *Implicação prática:* Usar o formato no início da formulação ou em casos travados.
+  - [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] [▶ 1:07:45](https://www.youtube.com/watch?v=rFd2HjdymmM&t=4065s)
+- **O terapeuta não deve adotar a forma com que o paciente desqualifica o que faz.**
+  - *Argumento:* Ao aceitar a hipótese do paciente, o terapeuta perde o elemento que destoa e pode ser central.
+  - *Contra quem / contraponto:* A escuta que segue literalmente o valor que o paciente atribui às coisas.
+  - *Implicação prática:* Marcar os detalhes desqualificados para investigar.
+  - [[Monitoria 15 - Diogo - Responsabilização e vínculo na primeira sessão]] [▶ 0:07:07](https://www.youtube.com/watch?v=hoph0oBm7iU&t=427s)
+- **Duas formulações diferentes podem ser igualmente plausíveis, e o supervisor deve dizer a sua sem invalidar a do monitorado.**
+  - *Argumento:* 'São duas posições bem plausíveis em termos de formulação de caso'; Diogo explicita a dele e o que mudaria na clínica.
+  - *Contra quem / contraponto:* A supervisão que corrige para uma única leitura certa.
+  - *Implicação prática:* Treinar hipóteses concorrentes e testá-las nas sessões seguintes.
+  - [[Monitoria 15 - Diogo - Responsabilização e vínculo na primeira sessão]] [▶ 0:47:49](https://www.youtube.com/watch?v=hoph0oBm7iU&t=2869s)
+- **Uma boa hipótese clínica aponta para uma intervenção.**
+  - *Argumento:* Diogo elogia a hipótese de uma participante porque 'aponta para um caminho clínico' e explica que confundiu hipótese com intervenção por isso.
+  - *Contra quem / contraponto:* A participante distingue hipótese de intervenção, e Diogo aceita.
+  - *Implicação prática:* Avaliar hipóteses também pelo que permitem fazer.
+  - [[Monitoria 16 - Diogo - Autenticidade e ser verdadeiro na clínica]] [▶ 1:00:11](https://www.youtube.com/watch?v=LSaS_1EaQzY&t=3611s)
+- **Quando a hipótese está forte, é melhor perguntá-la diretamente ('tirar o elefante da sala').**
+  - *Argumento:* Rodear a hipótese gasta sessão; confirmada, aprofunda; refutada, obriga a reconstruir.
+  - *Contra quem / contraponto:* A estratégia indireta de montar perguntas em função de uma hipótese não dita.
+  - *Implicação prática:* Nomear a hipótese na língua do paciente.
+  - [[Monitoria 17 - Diogo - Perguntas abertas, hipótese e movimento clínico]] [▶ 0:20:44](https://www.youtube.com/watch?v=4I-WY_26yuw&t=1244s)
+- **A hipótese confirmada tende a cegar o terapeuta.**
+  - *Argumento:* Pode-se, sem querer, confirmar o que já se pensava e perder o fundamental, como no erro do próprio Diogo diante de uma crise.
+  - *Contra quem / contraponto:* Confiança excessiva na formulação inicial.
+  - *Implicação prática:* Buscar ativamente o que a hipótese não explica.
+  - [[Monitoria 17 - Diogo - Perguntas abertas, hipótese e movimento clínico]] [▶ 0:47:16](https://www.youtube.com/watch?v=4I-WY_26yuw&t=2836s)
+
+## João de Bragança
+- **As negações dos pacientes às hipóteses do terapeuta são muito frutíferas.**
+  - *Argumento:* Criam dialética e histericizam o sujeito, instalando dúvida sobre crenças inquestionadas.
+  - *Contra quem / contraponto:* Ler a negação como fracasso; risco inverso do paciente sugestionável que só concorda.
+  - *Implicação prática:* Devolver percepções que possam ser negadas e trabalhar com a negação.
+  - [[Monitoria 10 - João de Bragança - Dor somática, resistência e hipóteses revisáveis]] [▶ 0:33:06](https://www.youtube.com/watch?v=8Ii4P31GGsU&t=1986s)
+- **Um grande problema do psicólogo é guardar para si 100% do pensamento sobre o processo.**
+  - *Argumento:* A terapia é um projeto construído e o autor da construção é o paciente; hipóteses não são absolutas e se corrigem na conversa.
+  - *Contra quem / contraponto:* Tratar a hipótese como incorrigível; uma participante enfatiza o terapeuta como 'canal condutor', não coautor.
+  - *Implicação prática:* Explicitar o raciocínio, convidar a discordância e recalcular junto.
+  - [[Monitoria 10 - João de Bragança - Dor somática, resistência e hipóteses revisáveis]] [▶ 1:14:05](https://www.youtube.com/watch?v=8Ii4P31GGsU&t=4445s)
+
+## Rodolfo
+- **A habilidade central é variar sem desviar a hipótese clínica.**
+  - *Argumento:* Muitas vezes a hipótese está certa e o momento pede outra intensidade; sem essa habilidade, o terapeuta abandona a direção para não tensionar.
+  - *Contra quem / contraponto:* Trocar de assunto para evitar desconforto.
+  - *Implicação prática:* Separar a decisão de priorização da decisão de construção frasal.
+  - [[Acervo 02 - Intensidade e agressividade da intervenção]] [▶ 0:40:21](https://www.youtube.com/watch?v=SJwjDymDP7c&t=2421s)
+- **A forma da frase importa tanto quanto a interpretação.**
+  - *Argumento:* Uma leitura correta pode sair mais agressiva ou menos agressiva do que se queria, ou perder potência, conforme a formulação.
+  - *Contra quem / contraponto:* A atenção exclusiva ao 'o que interpretar'.
+  - *Implicação prática:* Treinar a formulação separadamente da decisão clínica.
+  - [[Acervo 04 - Construção frasal em roleplay com pausas]] [▶ 0:01:23](https://www.youtube.com/watch?v=GCM5FpoEXXk&t=83s)
+
+## Gabriel
+- **Hipótese e intervenção são distintas; pode-se pensar uma coisa e intervir outra.**
+  - *Argumento:* A hipótese é a interpretação; a intervenção é o meio de expô-la ou testá-la, e várias intervenções servem a uma mesma hipótese.
+  - *Contra quem / contraponto:* Um participante pergunta se não seriam indissociáveis.
+  - *Implicação prática:* Treinar a passagem hipótese → fala como habilidade própria.
+  - [[Acervo 18 - Hipótese clínica e intervenção]] [▶ 0:14:35](https://www.youtube.com/watch?v=9Wb-L6AAZYQ&t=875s)
+- **Uma 'hipótese' que só descreve não é hipótese.**
+  - *Argumento:* Sem o porquê ou o para quê não há explicação nem ligação entre elementos; a lacuna é preenchida na intervenção.
+  - *Contra quem / contraponto:* Uma participante acha interessante uma 'hipótese descritiva'; Gabriel responde que não é fraca, apenas não explica.
+  - *Implicação prática:* Checar se a formulação do caso explica ou só narra.
+  - [[Acervo 18 - Hipótese clínica e intervenção]] [▶ 0:55:49](https://www.youtube.com/watch?v=9Wb-L6AAZYQ&t=3349s)
+- **No exercício, não importa se a hipótese está certa; importa a coerência entre intervenção e hipótese.**
+  - *Argumento:* Sem o caso completo não há como saber se a hipótese é verdadeira; o que se treina é a construção.
+  - *Contra quem / contraponto:* Participantes que tentam 'acertar' o caso.
+  - *Implicação prática:* Avaliar intervenções pelo alinhamento, não pela verdade da leitura.
+  - [[Acervo 18 - Hipótese clínica e intervenção]] [▶ 1:37:54](https://www.youtube.com/watch?v=9Wb-L6AAZYQ&t=5874s)
+- **Atender em revezamento, seguindo a hipótese do colega, é um bom treino de escuta.**
+  - *Argumento:* Obriga a prestar atenção ao mesmo tempo na linha de raciocínio do outro terapeuta e na fala do paciente, e puxa para o momento presente.
+  - *Contra quem / contraponto:* O terapeuta que escuta só o paciente e retoma temas antigos por conta própria.
+  - *Implicação prática:* Na clínica, acompanhar a hipótese em curso antes de mudar de rumo.
+  - [[Acervo 19 - Dinâmica de troca - roleplay em revezamento]] [▶ 0:00:53](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=53s)
+
+## Outros facilitadores e participantes
+- **Não há diretriz geral para autorrevelação; decide-se pela função na relação.**
+  - *Argumento:* Na FAP a relação é material clínico; 'não é sobre mim'.
+  - *Contra quem / contraponto:* Artur aponta aparente contradição com 'guardar a cosmovisão na caixinha'.
+  - *Implicação prática:* Formular hipótese e supervisionar antes de se revelar.
+  - Participante (análise do comportamento/FAP) · [[Alan 04 - Cosmovisão e clínica 1]] [▶ 0:10:13](https://www.youtube.com/watch?v=jCe-4OOwuxA&t=613s)
+- **O diagnóstico é ferramenta, não sentença; negá-lo pode ser tão violento quanto impô-lo.**
+  - *Argumento:* O nome orienta pesquisa e possibilidades e alivia ao mostrar que outros sentem algo parecido.
+  - *Contra quem / contraponto:* Artur: risco de reduzir a experiência ao nome; outra participante: o paciente pode não estar preparado.
+  - *Implicação prática:* Conceitualizar, explicar a função e perguntar como a pessoa recebe o diagnóstico.
+  - Participante (TCC/PBE) · [[Alan 04 - Cosmovisão e clínica 1]] [▶ 0:55:45](https://www.youtube.com/watch?v=jCe-4OOwuxA&t=3345s)
+- **A fantasia fala mais da lente do terapeuta do que do paciente.**
+  - *Argumento:* Ela mostra 'o que está poluindo a lente'. Hipóteses se confirmam melhor eliciando comportamentos do que pedindo concordância.
+  - *Contra quem / contraponto:* O uso da fantasia como intervenção direta, defendido por outro participante.
+  - *Implicação prática:* Usar a fantasia sobretudo na construção do caso e na supervisão.
+  - Participante (orientação comportamental) · [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]] [▶ 1:01:13](https://www.youtube.com/watch?v=LnSuu9hHx0Q&t=3673s)
+- **Hipóteses atravessadas por valores pessoais devem ser avaliadas com cautela antes de serem defendidas.**
+  - *Argumento:* Há um atravessamento enquanto pessoa na sessão que pode levar a uma leitura moral.
+  - *Contra quem / contraponto:* Hipóteses rápidas com viés moral.
+  - *Implicação prática:* Separar a reação pessoal da formulação clínica.
+  - Participante · [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 0:37:42](https://www.youtube.com/watch?v=n1iu-W8ujac&t=2262s)
+- **A dinâmica serve para treinar a fidelidade às próprias hipóteses clínicas.**
+  - *Argumento:* Ao trocar de hipótese a cada rodada, fica visível quando a intervenção escorrega para outra leitura.
+  - *Contra quem / contraponto:* Intervenções boas, mas baseadas em outra hipótese.
+  - *Implicação prática:* Explicitar a regra da dinâmica antes de avaliar.
+  - Participante · [[Acervo 18 - Hipótese clínica e intervenção]] [▶ 1:12:56](https://www.youtube.com/watch?v=9Wb-L6AAZYQ&t=4376s)
+- **Perguntar para compreender não substitui arriscar uma hipótese.**
+  - *Argumento:* O 'jogo' é trazer hipóteses por meio da interpretação; a falta de arriscar é o principal ponto a melhorar nos iniciantes.
+  - *Contra quem / contraponto:* A timidez interpretativa de quem ainda não atendeu.
+  - *Implicação prática:* No feedback a iniciantes, pedir uma hipótese explícita por turno.
+  - Mateus · [[Acervo 19 - Dinâmica de troca - roleplay em revezamento]] [▶ 0:44:30](https://www.youtube.com/watch?v=L6TAGKM_GEc&t=2670s)
+- **Quem procura terapia falha em relacionar causa e efeito; sua interpretação não deve ser tomada como verdade.**
+  - *Argumento:* Se o paciente estivesse certo sobre a causa do sofrimento, talvez não precisasse de terapia; aceitar a hipótese dele é 'entrar na vibe dele'.
+  - *Contra quem / contraponto:* O terapeuta que adota a explicação do paciente como ponto de partida inquestionável.
+  - *Implicação prática:* Tratar a hipótese do paciente como material, não como diagnóstico.
+  - Participante (acolhido pelo facilitador) · [[Acervo 21 - Critérios para priorizar o discurso do paciente]] [▶ 0:21:31](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1291s)
+- **O desencaixe com a teoria é mais valioso que o encaixe.**
+  - *Argumento:* O que contradiz sua leitura revela onde você está clinicando ou entendendo errado.
+  - *Contra quem / contraponto:* A busca de confirmação teórica ('encaixa perfeitamente na histeria').
+  - *Implicação prática:* Dar prioridade aos dados que desmentem a formulação.
+  - Facilitador · [[Acervo 21 - Critérios para priorizar o discurso do paciente]] [▶ 0:35:03](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2103s)
+- **A hipótese de que a paciente 'não se suporta' (cobrada a vida toda, repete 'ruído' como pedido de socorro) é plausível.**
+  - *Argumento:* Todos os recursos que ela tem não resolveram, o que sugere que o problema não está onde ela procura.
+  - *Contra quem / contraponto:* Diogo: boa hipótese, mas é preciso primeiro falar a língua da paciente, que negou sentir 'peso'.
+  - *Implicação prática:* Guardar a hipótese para quando o vínculo permitir espelhá-la.
+  - Participante · [[Monitoria 16 - Diogo - Autenticidade e ser verdadeiro na clínica]] [▶ 0:52:02](https://www.youtube.com/watch?v=LSaS_1EaQzY&t=3122s)
+- **A redução de sintomas é um critério de melhora reducionista.**
+  - *Argumento:* Comorbidade como regra indica fronteiras mal traçadas; sintomas são transdiagnósticos; o paciente pode melhorar sem que o sintoma mude; saúde não é ausência de doença (OMS).
+  - *Contra quem / contraponto:* O modelo médico adotado depois de Eysenck e do DSM.
+  - *Implicação prática:* Usar critérios mais amplos e específicos ao caso.
+  - Bernardo e participantes · [[PD 04 - Linha de base e medidas de resultado]] [▶ 0:23:30](https://www.youtube.com/watch?v=Bfbrb4bujbo&t=1410s)
+
+## Relacionados
+- [[MOC - Teses e posicionamentos]]

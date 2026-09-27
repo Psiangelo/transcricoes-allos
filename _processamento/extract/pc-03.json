@@ -1,0 +1,679 @@
+{
+  "id": "pc-03",
+  "nota": "Prática Clínica 03 - Atenção flutuante, construção frasal e entonação",
+  "pasta": "10 - Fichamentos/Prática Clínica",
+  "titulo": "Atenção flutuante, construção frasal e entonação",
+  "serie": "Prática Clínica - Alan",
+  "formato": "Prática clínica",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Segunda metade do 2º encontro. Alan fecha o feedback do role-play: a terapeuta conduzia presa às próprias hipóteses, e não à fala da paciente; para a escuta psicanalítica isso é antinatural, já que a atenção uniformemente suspensa de Freud é flutuar, e até um lapso poderia ter sido seguido ('todo erro é um acerto secreto'). Explica que busca o 'erro principal' porque ele vira o exercício da semana e reconstrói o modelo da paciente (ciclo angústia–controle, duas angústias) para mostrar onde a imagem da 'tela em branco' poderia reentrar. O centro é um exercício improvisado de construção frasal: uma participante fala 'como se fosse a clínica', Alan anota a frase, pergunta a função da abertura 'é algo que você costuma fazer…?' e apresenta versões cada vez mais agressivas (pergunta, padrão percebido, padrão objetivo, deontologia irônica) até ficar claro que ela servia para suavizar; depois trabalha a tonicidade (ênfase em 'costuma', 'seu', 'controle'). No fechamento, cobra pontualidade, comenta a saída de pessoas e a preferência pela teoria, e define a próxima semana como treino de visualização com o caso 'Enzo' no simulador de IA.",
+  "em_uma_frase": "Flutuar em vez de perseguir hipóteses e saber a função de cada pedaço da frase e de cada ênfase: a segunda metade do encontro transforma o feedback de um atendimento num treino de construção frasal e entonação e prepara a visualização da semana seguinte.",
+  "competencias": [
+    "Construção frasal",
+    "Intervenção",
+    "Escuta clínica",
+    "Aprofundamento",
+    "Interpretação",
+    "Desenvolvimento profissional"
+  ],
+  "abordagens": [
+    "Psicanálise freudiana",
+    "Psicanálise lacaniana"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:00",
+      "bloco": "Feedback",
+      "descricao": "Continuação do feedback à terapeuta: padrão de ficar presa às próprias hipóteses; os 'dois atendimentos'; atenção uniformemente suspensa × aprofundar; o erro como acerto secreto.",
+      "funcao": "Nomear um padrão (não um erro isolado) e ancorá-lo no método da própria abordagem da terapeuta.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:03:12",
+      "bloco": "Discussão",
+      "descricao": "Síntese (tensionar a palavra, aproveitar imagens, diminuir o gap); convocação ao grupo; explica que o erro principal definirá o exercício com o simulador.",
+      "funcao": "Tornar transparente o porquê da pergunta.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:04:41",
+      "bloco": "Discussão",
+      "descricao": "Reconstrução do modelo da paciente (ciclo angústia–controle; angústia de estar bem × de chegar à morte) e da dificuldade do 'aqui e agora'; ligação com a 'tela em branco' e o 'sair por cima'.",
+      "funcao": "Mostrar como usar o modelo do próprio paciente como ponto de entrada.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:08:34",
+      "bloco": "Rodada de respostas",
+      "descricao": "A terapeuta nomeia o que mais a incomodou (não explorar as imagens); Alan propõe transpor o gancho para outra área da vida; uma participante sugere um gancho.",
+      "funcao": "Passar da crítica à alternativa.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:11:07",
+      "bloco": "Dinâmica",
+      "descricao": "'Fala como se você fosse a clínica': a intervenção é anotada; pergunta sobre a função da abertura; versões do facilitador com agressividade crescente; síntese do eixo.",
+      "funcao": "Treinar construção frasal consciente; transformar opinião em performance.",
+      "duracao_min": 9
+    },
+    {
+      "ts": "0:20:33",
+      "bloco": "Dinâmica",
+      "descricao": "Tonicidade: onde colocar a ênfase; efeitos de sublinhar 'costuma', 'seu' e 'controle'.",
+      "funcao": "Mostrar que, com a frase pronta, a entonação ainda decide o alvo da intervenção.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:25:20",
+      "bloco": "Feedback",
+      "descricao": "À terapeuta: trabalha mais o que diz do que o jeito de dizer; exemplo positivo (repetir só a palavra da paciente).",
+      "funcao": "Fechar o feedback individual com um ponto de desenvolvimento e um acerto.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:26:33",
+      "bloco": "Fechamento",
+      "descricao": "Atrasos, saídas antecipadas, tensão entre entusiasmo teórico e prática concreta.",
+      "funcao": "Regular o contrato do grupo.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:27:24",
+      "bloco": "Tarefa",
+      "descricao": "Plano da próxima semana: linguagem e recursos linguísticos pouco óbvios; visualização com o caso 'Enzo' no simulador e o log do atendimento de Alan.",
+      "funcao": "Encadear o encontro seguinte a partir do erro principal.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:30:16",
+      "bloco": "Dúvidas",
+      "descricao": "Abre para dúvidas e pede para encerrar a gravação antes delas.",
+      "funcao": "Proteger quem não quer a dúvida registrada.",
+      "duracao_min": 1
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Atenção flutuante",
+      "definicao": "Metade do método psicanalítico; Alan lembra que Freud também a chama de atenção uniformemente dividida/suspensa: prestar atenção de modo uniforme ao que acontece. Por isso, perseguir e aprofundar uma hipótese é antinatural para a escuta psicanalítica: flutuar é não se deixar capturar pelas próprias hipóteses.",
+      "exemplo": "'Troquei controle por angústia? Ótimo, agora é angústia' — em vez de se corrigir e voltar ao tema planejado.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:01:07"
+    },
+    {
+      "nome": "Ato falho",
+      "definicao": "A palavra trocada pelo terapeuta pode ser 'um acerto secreto' (atribuído a Lacan); em vez de se retificar, pode-se seguir o lapso e até tomá-lo como material ('será que eu falei angústia?').",
+      "exemplo": "A terapeuta disse 'angústia' sem querer quando ia perguntar sobre controle.",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:00:07"
+    },
+    {
+      "nome": "Parâmetros da intervenção (distância, intensidade, forma e conteúdo)",
+      "definicao": "Aqui aparece como o eixo da agressividade: a mesma intervenção pode ser formulada como pergunta, como padrão que o terapeuta percebeu, como padrão objetivo ou como dever-ser (deontologia) irônico, aumentando o impacto sem mudar o conteúdo.",
+      "exemplo": "'É algo que você costuma fazer…?' → 'Eu notei que você fica esperando…' → 'Você está só esperando…, certo?' → 'Então o que a gente tem que fazer é esperar até…'.",
+      "abordagem": "",
+      "ts": "0:17:47"
+    },
+    {
+      "nome": "Suavizador",
+      "definicao": "Elemento da frase cuja função é amortecer o que vem depois. Diminui a agressividade, mas deixa margem à resistência. Em geral é usado sem consciência, porque vem da conversa cotidiana.",
+      "exemplo": "A abertura 'é algo que você costuma fazer…?'.",
+      "abordagem": "",
+      "ts": "0:18:44"
+    },
+    {
+      "nome": "Entonação da intervenção",
+      "definicao": "Tonicidade/ênfase dada a uma palavra de uma frase já montada, como numa 'matriz' que indica onde ler com mais intensidade ou ironia. A ênfase decide o alvo da intervenção e depende do que se pretende fazer depois.",
+      "exemplo": "Ênfase em 'costuma' (margem para resistência ou, repetida nas sessões, faz o padrão aparecer), em 'seu' (de quem é o controle: seu ou do olhar do outro?) ou em 'controle' (concordar com a formulação do paciente).",
+      "abordagem": "",
+      "ts": "0:20:33"
+    },
+    {
+      "nome": "Transposição de contexto",
+      "definicao": "Forma de tensionar a linguagem (chamada por Alan de exercício 'arqueológico (?)'): pegar a forma geral de algo dito num contexto específico e perguntar sobre ela em outro elemento da vida do paciente.",
+      "exemplo": "Da vigilância sobre o animal para 'será que você costuma esperar o momento em que as coisas vão sair do controle?'.",
+      "abordagem": "",
+      "ts": "0:09:06"
+    },
+    {
+      "nome": "Resistência",
+      "definicao": "Usada aqui como a margem que a formulação deixa para o paciente não reconhecer o que é dito; a ênfase em 'costuma' dá ao paciente uma 'saidinha'.",
+      "exemplo": "'Eu costumo, mas não faço sempre.'",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:22:13"
+    },
+    {
+      "nome": "Performance não estruturada",
+      "definicao": "Atender ou tentar 'até acertar', sem treino dirigido. O encontro foi 'o mais parecido com pegar e fazer até acertar'; falta um treino estruturado.",
+      "exemplo": "Metáfora do saque no vôlei.",
+      "abordagem": "",
+      "ts": "0:28:28"
+    },
+    {
+      "nome": "Aprendizagem por visualização",
+      "definicao": "Ver alguém competente executando a habilidade, como etapa do aprendizado ao lado de decompor o movimento, fazer treino específico e tentar até acertar. Ganha força quando o aprendiz já tentou o mesmo caso antes.",
+      "exemplo": "Todos atendem o caso 'Enzo' no simulador e depois analisam o log do atendimento de Alan.",
+      "abordagem": "",
+      "ts": "0:28:28"
+    },
+    {
+      "nome": "Simulador de paciente com IA",
+      "definicao": "Ferramenta usada no grupo, em que os participantes atendem casos simulados e geram logs (histórico) do atendimento; o facilitador pode construir casos que exigem uma habilidade específica para avançar.",
+      "exemplo": "Caso 'Enzo'; ideia de um caso que só anda se a linguagem for bem trabalhada.",
+      "abordagem": "",
+      "ts": "0:29:20"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Construção frasal",
+      "objetivo": "Tornar consciente a função de cada elemento de uma intervenção e o efeito de variar sua estrutura (eixo da agressividade) e sua entonação (tonicidade).",
+      "competencias": [
+        "Construção frasal",
+        "Intervenção"
+      ],
+      "configuracao": "Grupo online; um participante no spotlight respondendo e o facilitador conduzindo; o restante observa. Pode ser feito sobre qualquer gancho saído de um atendimento assistido.",
+      "tempo": "Cerca de 15 min (≈10 min de estrutura/agressividade + ≈5 min de tonicidade).",
+      "materiais": "Lugar para anotar a frase literal do participante.",
+      "consigna": "Me fala como se você fosse a terapeuta: como você exploraria esse gancho? Como você constrói a frase? (…) Qual é a função disso dentro da sua intervenção? (…) Vou te dar uma construção alternativa e você me diz qual é a diferença.",
+      "passos": [
+        "Um participante propõe um gancho; o facilitador exige a frase literal, 'como se fosse o clínico'.",
+        "Anotar a frase por escrito para referência.",
+        "Pedir contexto e hipótese: a frase está alinhada com o que se quer causar?",
+        "Isolar um trecho e perguntar sua função.",
+        "O facilitador apresenta versões alternativas, cada uma um degrau mais agressiva, e pergunta a diferença a cada vez.",
+        "Nomear o eixo percorrido (pergunta → padrão percebido → padrão objetivo → deontologia) e responder à pergunta inicial (função = suavizar).",
+        "Tonicidade: dizer a mesma frase destacando uma palavra por vez e perguntar o que muda.",
+        "Síntese: estrutura sintático-semântica + entonação, sempre em função do que se fará depois."
+      ],
+      "feedback": "Corrige leituras imprecisas ('a diferença não é potencial de interpretação: nas duas só há um jeito de interpretar'); valida e completa respostas certas com uma segunda camada; critério: saber por que cada elemento está na frase e qual efeito se busca, em relação à hipótese clínica.",
+      "exemplos_praticos": "A participante teve dificuldade em nomear as diferenças e pediu para passar a vez; Alan normalizou ('se você acertar de primeira, não tem graça') e exagerou as versões até ela nomear 'mais agressivo'. Na tonicidade, ao perceber o desconforto dela, passou a pergunta para a terapeuta do role-play, que identificou o efeito de destacar 'costuma' (dá uma 'saidinha' ao paciente) e 'seu' (desloca para o controle dela).",
+      "variacoes": "Variar outros eixos (intensidade, distância, forma e conteúdo — ver Dinâmica - Variação de intervenção); fazer com a frase escrita no chat; pedir que o próprio participante produza as versões.",
+      "armadilhas": "Manter a mesma pessoa tempo demais no spotlight (Alan troca de interlocutor ao notar o incômodo); discutir a frase sem conferir se ela serve à hipótese clínica; ignorar a entonação em contexto escrito.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:11:07"
+    },
+    {
+      "nome": "Dinâmica - Visualização com log do simulador",
+      "objetivo": "Treinar o trabalho com linguagem pouco óbvia pela visualização: ver o atendimento de alguém experiente no mesmo caso que você atendeu e contrastar os jeitos.",
+      "competencias": [
+        "Escuta clínica",
+        "Construção frasal",
+        "Intervenção"
+      ],
+      "configuracao": "Individual (atendimento no simulador de paciente com IA durante a semana) + grupo (discussão do log do facilitador); online.",
+      "tempo": "Atendimento durante a semana; discussão no encontro seguinte.",
+      "materiais": "Simulador de paciente com IA (caso 'Enzo'); logs dos participantes e do facilitador, possivelmente comentados.",
+      "consigna": "Atendam o caso Enzo no simulador; quem tem acesso à conta traz o log. Eu vou atender o mesmo caso e trazer o log do meu atendimento.",
+      "passos": [
+        "Cada participante atende o caso no simulador.",
+        "O facilitador atende o mesmo caso, 'exagerando' no trabalho com as palavras.",
+        "No encontro, o grupo discute o log do facilitador (com comentários).",
+        "Contrastar o jeito intuitivo de cada um com o jeito apresentado."
+      ],
+      "feedback": "A ser descrito no encontro seguinte (proposta anunciada no fechamento).",
+      "exemplos_praticos": "Apenas anunciada; realizada no 3º encontro (pc-04).",
+      "variacoes": "Alternativa cogitada: construir um caso em que a simulação só avança se a linguagem for bem trabalhada.",
+      "armadilhas": "Sem ter atendido antes, a visualização perde o contraste; exagero deliberado do facilitador precisa ser apresentado como exagero didático.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:27:24"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Nomeia padrões, não erros soltos",
+      "descricao": "Agrupa erros pontuais sob um padrão explicativo e dá dois exemplos da sessão.",
+      "exemplo": "'Existe um padrão claro: você está presa nos seus próprios raciocínios e menos no que o paciente está falando.'",
+      "ts": "0:00:07"
+    },
+    {
+      "movimento": "Critica por dentro da abordagem da pessoa",
+      "descricao": "Usa Freud e Lacan para mostrar à terapeuta psicanalítica o que o próprio método pede, sem impor outra abordagem.",
+      "exemplo": "'Já que foi isso que você aprendeu e é isso que você gosta de fazer, abraça as dificuldades envolvidas.'",
+      "ts": "0:02:04"
+    },
+    {
+      "movimento": "Convoca com humor e insistência",
+      "descricao": "Nomeia a baixa participação com autoironia para puxar o grupo.",
+      "exemplo": "'Ninguém quer brincar comigo, então minha vida é triste… juro que é mais legal quando vocês participam.'",
+      "ts": "0:03:12"
+    },
+    {
+      "movimento": "Explica o porquê da pergunta",
+      "descricao": "Torna transparente que a busca do erro principal vai virar o exercício da semana.",
+      "exemplo": "'O caso que eu vou passar no simulador vai ser construído com base nessa dificuldade clínica.'",
+      "ts": "0:04:06"
+    },
+    {
+      "movimento": "Ancora na fala literal",
+      "descricao": "Traz de volta as palavras exatas da paciente para sustentar o raciocínio.",
+      "exemplo": "'Vou trazer a fala da paciente, porque a fala mostra o raciocínio dela.'",
+      "ts": "0:05:38"
+    },
+    {
+      "movimento": "Converte opinião em performance",
+      "descricao": "Quando o participante descreve o que perguntaria, exige a frase literal.",
+      "exemplo": "'Tá, mas fala como se você fosse a clínica.'",
+      "ts": "0:11:07"
+    },
+    {
+      "movimento": "Registra a intervenção por escrito",
+      "descricao": "Anota a frase do aluno para servir de referência na análise.",
+      "exemplo": "'Anotei aqui pra gente ter como referência.'",
+      "ts": "0:11:53"
+    },
+    {
+      "movimento": "Ensina por contraste exagerado",
+      "descricao": "Produz versões progressivamente mais agressivas até a diferença ficar óbvia, sem entregar a resposta antes.",
+      "exemplo": "'Vou dar mais um passo e fazer mais uma versão para ver se, quando eu exagero, a diferença fica clara.'",
+      "ts": "0:16:22"
+    },
+    {
+      "movimento": "Explicita o contrato de exigência",
+      "descricao": "Pede desculpa pelo aperto, mas lembra que é para isso que o grupo existe.",
+      "exemplo": "'Desculpa, vou pegar um pouquinho do seu pé, mas é para isso que a gente está aqui.'",
+      "ts": "0:15:44"
+    },
+    {
+      "movimento": "Normaliza o erro quando o aluno quer desistir",
+      "descricao": "Mantém a pessoa no exercício e reenquadra o erro como fonte de aprendizado.",
+      "exemplo": "'Se você acertar de primeira, não tem graça, não tem grupo.'",
+      "ts": "0:16:50"
+    },
+    {
+      "movimento": "Justifica o parêntese",
+      "descricao": "Meta-comentário sobre por que parou para trabalhar uma frase: sem isso, não percebemos por que fazemos o que fazemos.",
+      "exemplo": "'Eu sei que eu fiz um parêntese longo, mas por que eu acho que ele é cabido?'",
+      "ts": "0:18:44"
+    },
+    {
+      "movimento": "Lê o desconforto e troca de interlocutor",
+      "descricao": "Percebe que a participante está incomodada no spotlight e passa a pergunta para outra pessoa.",
+      "exemplo": "'Vi que te incomoda estar tanto tempo assim; vou jogar um pouco com a terapeuta.'",
+      "ts": "0:21:26"
+    },
+    {
+      "movimento": "Completa a resposta certa",
+      "descricao": "Valida e acrescenta uma segunda camada à resposta do participante.",
+      "exemplo": "'Você deixa mais margem para a resistência… vou acrescentar mais uma coisa que acontece.'",
+      "ts": "0:22:13"
+    },
+    {
+      "movimento": "Termina o feedback com um acerto",
+      "descricao": "Aponta um momento em que a terapeuta acertou no 'como dizer'.",
+      "exemplo": "Repetir só a palavra 'curvada' funcionou.",
+      "ts": "0:25:20"
+    },
+    {
+      "movimento": "Diagnóstico público do grupo",
+      "descricao": "Comenta atrasos, saídas antecipadas e a preferência pela teoria, reafirmando o contrato de grupo prático.",
+      "exemplo": "'A princípio o convite foi para um grupo prático.'",
+      "ts": "0:26:33"
+    },
+    {
+      "movimento": "Ajusta o plano em tempo real",
+      "descricao": "Troca o exercício planejado pelo de visualização, a partir do que viu no encontro.",
+      "exemplo": "'Eu ia criar um caso específico… mas acho que vou trabalhar mais com visualização.'",
+      "ts": "0:27:24"
+    },
+    {
+      "movimento": "Protege a privacidade nas dúvidas",
+      "descricao": "Pede para encerrar a gravação antes das perguntas finais.",
+      "exemplo": "'Vai que a pessoa quer tirar uma dúvida e não quer ela registrada.'",
+      "ts": "0:30:16"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Responda ao que o paciente acabou de dizer, não à hipótese que você está perseguindo.",
+      "justificativa": "Há dois atendimentos (o da sala e o da sua cabeça) e o trabalho é aproximá-los.",
+      "contexto": "Quando você nota que está conduzindo para 'chegar' a um tema.",
+      "competencia": "Escuta clínica",
+      "ts": "0:00:07"
+    },
+    {
+      "dica": "Se você trocou uma palavra sem querer, considere seguir o lapso em vez de se corrigir.",
+      "justificativa": "'Todo erro é um acerto secreto': a palavra trocada pode ser a que precisava ser perguntada.",
+      "contexto": "Sobretudo em escuta psicanalítica.",
+      "competencia": "Escuta clínica",
+      "ts": "0:00:07"
+    },
+    {
+      "dica": "Na escuta psicanalítica, flutue: distribua a atenção por igual e não se deixe capturar por suas hipóteses.",
+      "justificativa": "Aprofundar uma hipótese é antinatural para o método da atenção uniformemente suspensa.",
+      "contexto": "Entrevistas preliminares e sessões de associação livre.",
+      "competencia": "Escuta clínica",
+      "ts": "0:02:04"
+    },
+    {
+      "dica": "Use o modelo que o próprio paciente constrói como porta de entrada.",
+      "justificativa": "As tensões internas do modelo dele (ex.: duas angústias) são o material a aproveitar.",
+      "contexto": "Quando o paciente sistematiza a própria questão.",
+      "competencia": "Interpretação",
+      "ts": "0:05:38"
+    },
+    {
+      "dica": "Quando o paciente propõe uma solução abstrata, investigue por que ela é difícil de praticar.",
+      "justificativa": "A dificuldade costuma apontar para a angústia não dita (aqui, a de 'estar bem').",
+      "contexto": "'É só viver o presente', 'é só não pensar nisso'.",
+      "competencia": "Aprofundamento",
+      "ts": "0:06:49"
+    },
+    {
+      "dica": "Transponha a forma geral de uma fala para outra área da vida do paciente.",
+      "justificativa": "Testa se o padrão é local ou geral e amplia o gancho.",
+      "contexto": "Quando o paciente afirma que 'o resto está tudo bem'.",
+      "competencia": "Aprofundamento",
+      "ts": "0:09:06"
+    },
+    {
+      "dica": "Antes de intervir, confira se a frase está alinhada com sua hipótese e com o efeito que quer causar.",
+      "justificativa": "A forma pode trair a intenção.",
+      "contexto": "Sempre; no treino, em voz alta.",
+      "competencia": "Intervenção",
+      "ts": "0:11:53"
+    },
+    {
+      "dica": "Identifique e use de propósito os suavizadores ('é algo que você costuma…?').",
+      "justificativa": "Reduzem a agressividade, mas abrem margem à resistência.",
+      "contexto": "Com pacientes sensíveis ou no início da aliança; evite-os quando precisar de impacto.",
+      "competencia": "Construção frasal",
+      "ts": "0:18:44"
+    },
+    {
+      "dica": "Gradue a agressividade conscientemente: pergunta, padrão percebido, padrão objetivo, dever-ser irônico.",
+      "justificativa": "Cada degrau muda o impacto sem mudar o conteúdo.",
+      "contexto": "Ao calibrar uma confrontação.",
+      "competencia": "Construção frasal",
+      "ts": "0:17:47"
+    },
+    {
+      "dica": "Escolha onde colocar a ênfase na frase.",
+      "justificativa": "A tonicidade muda o alvo da intervenção.",
+      "contexto": "Depois de decidir o conteúdo, antes de falar.",
+      "competencia": "Construção frasal",
+      "ts": "0:20:33"
+    },
+    {
+      "dica": "Para um padrão aparecer, sublinhe o mesmo elemento sempre que ele voltar nas sessões seguintes.",
+      "justificativa": "A repetição do destaque faz o paciente reconhecer que 'costuma, sim'.",
+      "contexto": "Padrões que o paciente minimiza.",
+      "competencia": "Intervenção",
+      "ts": "0:22:13"
+    },
+    {
+      "dica": "Não enfatize a palavra que confirma a formulação do paciente se você não concorda com ela.",
+      "justificativa": "Destacar 'controle' é concordar que 'tudo é sobre controle'.",
+      "contexto": "Quando sua hipótese difere da do paciente.",
+      "competencia": "Construção frasal",
+      "ts": "0:24:07"
+    },
+    {
+      "dica": "Às vezes basta repetir a palavra do paciente com a entonação certa.",
+      "justificativa": "Intervenção mínima que abre a imagem sem conduzir.",
+      "contexto": "Diante de uma palavra ou imagem forte.",
+      "competencia": "Intervenção",
+      "ts": "0:25:20"
+    },
+    {
+      "dica": "No treino, exija a frase ('fale como se fosse o clínico'), não a opinião sobre o caso.",
+      "justificativa": "Transforma performance em exercício de uma habilidade específica (fraseamento).",
+      "contexto": "Supervisão, grupos de prática, autoestudo.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:19:35"
+    },
+    {
+      "dica": "Atenda um caso antes de ver como alguém experiente o atende.",
+      "justificativa": "A experiência prévia dá contraste à visualização.",
+      "contexto": "Treinos com simulador ou gravações.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:29:20"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Aprofundar hipóteses é antinatural para a escuta psicanalítica, embora seja mais fácil atender assim.",
+      "argumento": "Freud descreve a atenção como uniformemente suspensa; flutuar é não se deixar capturar por hipóteses.",
+      "contraponto": "Alan concede que aprofundar não é clinicamente errado e é o modo natural de ouvir um colega.",
+      "implicacao": "Quem escolhe a psicanálise deve abraçar as dificuldades do método, não misturá-lo com uma escuta de aprofundamento.",
+      "quem": "Alan",
+      "ts": "0:02:04"
+    },
+    {
+      "tese": "Atender não é tão diferente de conversar, mas o treino exige tornar consciente o que é intuitivo na conversa.",
+      "argumento": "Aprendemos a conversar e intervimos sem saber por quê; quem atende bem costuma ter um papo interessante; no desenvolvimento é preciso saber a função de cada escolha.",
+      "contraponto": "A ideia de que boa intervenção é só intuição ou talento.",
+      "implicacao": "Dissecar frases, variar estrutura e entonação deliberadamente.",
+      "quem": "Alan",
+      "ts": "0:18:44"
+    },
+    {
+      "tese": "Pedir 'fale como se fosse o clínico' transforma performance em exercício.",
+      "argumento": "Opinar sobre o caso não exige a habilidade de fraseamento; construir a frase exige.",
+      "contraponto": "Supervisões e aulas baseadas em 'o que você acha do caso?'.",
+      "implicacao": "Em grupo, cobrar intervenções literais.",
+      "quem": "Alan",
+      "ts": "0:19:35"
+    },
+    {
+      "tese": "Errar faz parte do método: se você acertar de primeira, não tem graça.",
+      "argumento": "O aprendizado vem justamente de onde se erra.",
+      "contraponto": "A vergonha que leva o participante a querer passar a vez.",
+      "implicacao": "Manter a pessoa no exercício com mais pistas, em vez de liberá-la.",
+      "quem": "Alan",
+      "ts": "0:16:50"
+    },
+    {
+      "tese": "Num grupo prático, pontualidade é inegociável: sair mais cedo é mais aceitável do que chegar atrasado.",
+      "argumento": "(Implícito) o trabalho se faz sobre o material produzido ao vivo, que quem chega atrasado perde.",
+      "contraponto": "A flexibilidade habitual de grupos online.",
+      "implicacao": "Combinar e cobrar pontualidade.",
+      "quem": "Alan",
+      "ts": "0:26:33"
+    },
+    {
+      "tese": "Há uma tensão entre o entusiasmo com a teoria sobre aprendizagem e o engajamento na prática concreta, e um grupo prático precisa resolvê-la.",
+      "argumento": "No 1º encontro, mais teórico, as pessoas ficaram 40 minutos além do horário; no 2º, prático, saíram antes.",
+      "contraponto": "A expectativa dos participantes de um grupo mais expositivo.",
+      "implicacao": "Explicitar o contrato e ajustar o desenho (entrar com visualização).",
+      "quem": "Alan",
+      "ts": "0:27:24"
+    },
+    {
+      "tese": "'Tentar até acertar' não é treino estruturado; visualizar alguém competente é um passo necessário.",
+      "argumento": "Na metáfora do saque no vôlei, ver, decompor, treinar especificamente e tentar são coisas diferentes; o encontro ficou só na tentativa.",
+      "contraponto": "Formações que se apoiam apenas em atender e discutir.",
+      "implicacao": "O facilitador também atende o caso e expõe seu log.",
+      "quem": "Alan",
+      "ts": "0:28:28"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Imagina que tem dois atendimentos acontecendo: o que de fato está ocorrendo e as hipóteses que vêm na sua cabeça. Você precisa aproximar essas duas coisas.",
+      "tema": "escuta",
+      "ts": "0:01:07"
+    },
+    {
+      "texto": "Flutuar é justamente não aprofundar: é não se deixar capturar pelas suas hipóteses.",
+      "tema": "atenção flutuante",
+      "ts": "0:02:04"
+    },
+    {
+      "texto": "Dar uma de Lacan: pensar que todo erro seu é um acerto secreto.",
+      "tema": "ato falho",
+      "ts": "0:00:07"
+    },
+    {
+      "texto": "Se você acertar de primeira, não tem graça. O ponto todo, de onde o aprendizado vem, é esse.",
+      "tema": "aprendizagem",
+      "ts": "0:16:50"
+    },
+    {
+      "texto": "A cada versão eu deslizei a estrutura da frase no eixo da agressividade.",
+      "tema": "construção frasal",
+      "ts": "0:17:47"
+    },
+    {
+      "texto": "Atender não é tão diferente assim de conversar: pessoas que atendem bem normalmente também têm um papo interessante.",
+      "tema": "formação",
+      "ts": "0:18:44"
+    },
+    {
+      "texto": "Uma coisa é perguntar o que você pensou sobre o caso; outra é pedir para você falar como se fosse a clínica — aí eu estou exigindo uma habilidade específica.",
+      "tema": "prática deliberada",
+      "ts": "0:19:35"
+    },
+    {
+      "texto": "A frase isolada pesa menos: tudo tem a ver com o que você vai fazer depois.",
+      "tema": "entonação",
+      "ts": "0:23:07"
+    },
+    {
+      "texto": "Uma parte é o que você vai dizer; outra parte é como você vai dizer.",
+      "tema": "construção frasal",
+      "ts": "0:25:20"
+    },
+    {
+      "texto": "Esse é um grupo prático: sair mais cedo é mais aceitável do que chegar atrasado.",
+      "tema": "combinados",
+      "ts": "0:26:33"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "4 jeitos de dizer a mesma coisa — da pergunta à ironia.",
+      "mensagem": "Pergunta, padrão percebido, padrão objetivo e dever-ser irônico: cada degrau aumenta a agressividade sem mudar o conteúdo (usar exemplo genérico, ex.: evitar conflitos).",
+      "roteiro": [
+        "Capa: a mesma intervenção em 4 volumes",
+        "1. Pergunta: 'É algo que você costuma fazer…?'",
+        "2. Padrão percebido: 'Eu notei que…'",
+        "3. Padrão objetivo: 'Você…, certo?'",
+        "4. Dever-ser irônico: 'Então o certo é…'",
+        "Qual usar e quando"
+      ],
+      "corte_inicio": "0:17:47",
+      "corte_fim": "0:18:44"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Onde você coloca a ênfase muda a intervenção.",
+      "mensagem": "A mesma frase com destaque em palavras diferentes tem alvos diferentes; enfatizar a palavra do paciente pode ser concordar com a formulação dele.",
+      "roteiro": [
+        "Frase neutra",
+        "Mesma frase, ênfase 1",
+        "Mesma frase, ênfase 2",
+        "Mesma frase, ênfase 3",
+        "Moral: decida o alvo antes de falar"
+      ],
+      "corte_inicio": "0:20:33",
+      "corte_fim": "0:21:26"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "abordagens-em-dialogo",
+      "gancho": "Atenção flutuante não é aprofundar.",
+      "mensagem": "A atenção uniformemente suspensa de Freud; por que perseguir hipóteses é antinatural para a psicanálise e mais natural em outras escutas.",
+      "roteiro": [
+        "Capa",
+        "O que Freud chamou de atenção uniformemente suspensa",
+        "Aprofundar × flutuar",
+        "O lapso como acerto secreto",
+        "E nas outras abordagens?"
+      ],
+      "corte_inicio": "0:01:07",
+      "corte_fim": "0:03:12"
+    },
+    {
+      "formato": "post",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Pare de opinar sobre o caso: fale como o terapeuta.",
+      "mensagem": "Transformar performance em exercício exige a frase literal; atender não é tão diferente de conversar, mas o treino exige consciência de cada escolha.",
+      "roteiro": [
+        "Frase de impacto",
+        "Legenda com o exemplo de pedir a frase literal"
+      ],
+      "corte_inicio": "0:18:44",
+      "corte_fim": "0:20:33"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Como se aprende a sacar no vôlei (e a atender).",
+      "mensagem": "Ver, decompor, treinar específico e tentar até acertar; por que só atender e discutir não basta.",
+      "roteiro": [
+        "Metáfora do saque",
+        "Os quatro modos",
+        "Onde a formação em psicologia costuma parar",
+        "Visualização como próximo passo"
+      ],
+      "corte_inicio": "0:28:28",
+      "corte_fim": "0:29:20"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Se você acertar de primeira, não tem graça.",
+      "mensagem": "Num grupo de prática, o erro é o lugar do aprendizado.",
+      "roteiro": [
+        "Frase",
+        "Legenda curta sobre o medo de errar na frente dos colegas"
+      ],
+      "corte_inicio": "0:16:50",
+      "corte_fim": "0:17:47"
+    },
+    {
+      "formato": "stories",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Por que no grupo de prática a gente caça o erro principal.",
+      "mensagem": "O erro principal de um atendimento vira o exercício da semana seguinte (simulador, visualização).",
+      "roteiro": [
+        "Pergunta: qual foi o erro principal?",
+        "Resposta: ele vira o treino da semana",
+        "Convite para o grupo"
+      ],
+      "corte_inicio": "0:04:06",
+      "corte_fim": "0:04:41"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Sigmund Freud",
+      "contexto": "Atenção livre/flutuante, também chamada por ele de atenção uniformemente dividida/suspensa, como metade do método psicanalítico."
+    },
+    {
+      "nome": "Jacques Lacan",
+      "contexto": "Referência à ideia de que todo erro (lapso) do analista é um acerto secreto."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Prática Clínica (grupo de prática conduzido por Alan)",
+    "objetivo": "Treinar habilidades clínicas concretas a partir de performances reais dos participantes (atendimentos simulados ao vivo e casos no simulador de paciente com IA): identificar a dificuldade principal de um atendimento e transformá-la num exercício específico para a semana seguinte.",
+    "publico": "Estudantes de psicologia e psicólogos iniciantes, em boa parte no primeiro contato com a Allos; abordagens variadas (neste encontro, a terapeuta do role-play é de repertório psicanalítico).",
+    "tamanho": "Grupo online; cerca de 6 a 8 participantes falam na discussão (voz e chat), outros acompanham de câmera fechada.",
+    "duracao": "Série de 6 encontros semanais; o 2º encontro tem cerca de 1h40 gravada em duas partes (1:11 + 0:31), com dúvidas finais fora da gravação.",
+    "estrutura_padrao": "1) Facilitador explica a estrutura; 2) atendimento ao vivo entre dois participantes (role-play, 20–35 min, sem tempo fixo; facilitador levanta a mão quando há material); 3) discussão crítica focada nos observadores: 'o que faltou? que habilidade vamos treinar?'; 4) aprofundamento de uma crítica com reconstrução ao vivo (ex.: caça aos ecos, construção frasal); 5) feedback a quem atendeu, perguntando o raciocínio por trás das intervenções; 6) definição do 'erro principal' e do exercício da semana seguinte (ex.: caso no simulador de IA, visualização do log do facilitador); 7) dúvidas fora da gravação.",
+    "papel_facilitador": "Define a estrutura e o foco, decide quando parar o atendimento, convoca e pressiona os observadores, proíbe elogios e conduz a crítica, reformula as contribuições em categorias clínicas, dá pistas graduais, modela intervenções alternativas (inclusive versões exageradas), protege quem faz o papel de paciente, escolhe o erro principal e desenha o treino seguinte; também atende casos no simulador para servir de modelo (visualização).",
+    "regras_combinados": "Pontualidade obrigatória ('grupo prático'; sair mais cedo é mais aceitável que chegar atrasado); participação ativa não negociável, com câmera aberta preferida; observadores anotam com papel e caneta; a construção é crítica ('não é para elogiar o coleguinha'); foco na condução, não na vida de quem faz a paciente; quem atende pode encerrar com calma após o sinal da mão; dúvidas finais podem ser feitas com a gravação encerrada."
+  },
+  "reflexoes_do_facilitador": [
+    "Registra que o trabalho coletivo 'acabou ficando mais nas minhas costas' por falta de participação (0:28:28).",
+    "Admite um problema de logística com o link da reunião, que atrapalhou (0:26:33).",
+    "Nota que no 1º encontro, mais abstrato, as pessoas estavam animadas e ficaram 40 minutos além do horário, e que neste, prático, saíram antes; vê uma tensão a resolver e cogita comentar isso no grupo de mensagens (0:27:24; 0:30:16).",
+    "Muda o plano da semana seguinte em tempo real: em vez de criar um caso que só avança com boa linguagem, decide começar por visualização (0:27:24).",
+    "Justifica o 'parêntese longo' de construção frasal como necessário para tornar consciente o que fazemos ao intervir (0:18:44)."
+  ],
+  "referencias_a_outros_encontros": [
+    "Continuação de pc-02 (2º encontro, parte 1).",
+    "Retoma o 1º encontro (pc-01): transformar performance em exercício; visualização; metáfora esportiva; participantes que ficaram 40 minutos depois do fim.",
+    "Anuncia o 3º encontro (pc-04): todos atendem o caso 'Enzo' no simulador e Alan traz o log do próprio atendimento para trabalhar a visualização com foco em linguagem."
+  ],
+  "observacoes": "A gravação começa no meio de uma frase (continuação direta de pc-02). Legenda automática com nomes truncados ('Isador', 'Zador', 'Ro'). Termos incertos: 'exercício braqueológico' (provavelmente 'arqueológico'); 'tá se aproximando da 18' (provavelmente o horário). O facilitador não se nomeia nesta parte; a identificação como Alan vem do 1º encontro (pc-01). Participantes anonimizados; o role-play é tratado como material simulado. Nota acima da faixa de tamanho prevista pela densidade do conteúdo."
+}

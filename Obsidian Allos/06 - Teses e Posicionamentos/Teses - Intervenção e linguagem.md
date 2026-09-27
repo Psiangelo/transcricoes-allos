@@ -1,0 +1,1114 @@
+---
+tipo: "tese"
+tema: "Intervenção e linguagem"
+n_teses: 222
+tags: ["tese"]
+---
+
+# Teses — Intervenção e linguagem
+
+> [!abstract] 222 pontos de vista defendidos nos grupos e vídeos, cada um com o argumento, o contraponto e a implicação prática.
+> Ótimo ponto de partida para posts de opinião, debates em grupo e roteiros de vídeo.
+
+## Alan
+- **Não existe intervenção impossível; o que importa é o aquecimento.**
+  - *Argumento:* Tudo, por mais absurdo, já foi proposto por algum clínico; o critério é o timing (Moreno).
+  - *Implicação prática:* Deixar intervenções invasivas, como pedir especificidade, para quando o vínculo estiver formado.
+  - [[Alan 01 - Relação terapêutica tensionada]] [▶ 1:16:52](https://www.youtube.com/watch?v=EesAwF0Ee9E&t=4612s)
+- **A psicoterapia é, num sentido preciso, uma prática 'mágica', e por isso a construção da frase merece treino.**
+  - *Argumento:* Transformar o mundo pelo discurso é a propriedade básica da magia em várias culturas, e a terapia transforma a realidade do sujeito pela palavra.
+  - *Contra quem / contraponto:* Uma formação que não treina o uso potente da palavra.
+  - *Implicação prática:* Incluir exercícios de formulação na formação clínica.
+  - [[Alan 02 - Construção frasal]] [▶ 0:04:13](https://www.youtube.com/watch?v=npsx_ip98fw&t=253s)
+- **A monotonia é deselegante; a fluência em variações é sinal de competência clínica.**
+  - *Argumento:* Quem está ficando bom de clínica faz cinco ou seis variações da mesma intervenção com facilidade.
+  - *Implicação prática:* Medir o progresso pela capacidade de variar.
+  - [[Alan 02 - Construção frasal]] [▶ 0:06:25](https://www.youtube.com/watch?v=npsx_ip98fw&t=385s)
+- **Validar cedo um autodiagnóstico é pior do que um leve incômodo com o tom.**
+  - *Argumento:* Sem informação, a validação é mais agressiva do que o problema que tenta corrigir, como a criança que derrama mais água tentando secar.
+  - *Contra quem / contraponto:* O reflexo de validar para reparar um tom confrontativo.
+  - *Implicação prática:* Consertar o tom pela forma da frase, não pelo conteúdo.
+  - [[Alan 02 - Construção frasal]] [▶ 0:26:16](https://www.youtube.com/watch?v=npsx_ip98fw&t=1576s)
+- **Em psicoterapia não existem regras, e quem vende regrinha é picareta; ainda assim, há heurísticas úteis, como 'intervenção com duas partes nunca funciona'.**
+  - *Argumento:* A clínica é contextual, mas padrões de construção se repetem e viram macetes úteis, sobretudo para iniciantes.
+  - *Contra quem / contraponto:* Regras vendidas como receita.
+  - *Implicação prática:* Ensinar regras como heurísticas, com ressalva explícita.
+  - [[Alan 02 - Construção frasal]] [▶ 1:07:34](https://www.youtube.com/watch?v=npsx_ip98fw&t=4054s)
+- **É mais fácil clarear uma intervenção potente do que dar potência a uma intervenção clara.**
+  - *Argumento:* A potência vem do achado (a inflexão certa); a clareza é trabalho de lapidação.
+  - *Implicação prática:* Ao escolher entre variações, preservar a mais potente e simplificá-la.
+  - [[Alan 02 - Construção frasal]] [▶ 1:04:28](https://www.youtube.com/watch?v=npsx_ip98fw&t=3868s)
+- **Palavras pequenas mudam a estrutura da pergunta, não só o grau de diretividade; é preciso pensar a língua no contexto.**
+  - *Argumento:* 'Você acha' desloca o objeto da pergunta do fato para a função da crença, o que muda a direção da intervenção.
+  - *Contra quem / contraponto:* A leitura genérica do grupo de que a expressão só abre espaço ou deixa a frase menos diretiva.
+  - *Implicação prática:* Avaliar cada palavra à luz da hipótese que se quer testar.
+  - [[Alan 02 - Construção frasal]] [▶ 0:58:22](https://www.youtube.com/watch?v=npsx_ip98fw&t=3502s)
+- **Exercícios de construção frasal não podem ser feitos por chat.**
+  - *Argumento:* A frase é inseparável da entonação e da cadência; o texto não mostra o problema.
+  - *Implicação prática:* Exigir microfone nessas dinâmicas online.
+  - [[Alan 02 - Construção frasal]] [▶ 0:32:54](https://www.youtube.com/watch?v=npsx_ip98fw&t=1974s)
+- **A inação também é uma intervenção, às vezes a mais agressiva, e é uma escolha moral.**
+  - *Argumento:* Em situações que acionam o fator moral da clínica, não agir comunica e produz efeito.
+  - *Contra quem / contraponto:* A ideia de que calar é neutro.
+  - *Implicação prática:* Intensidade não se mede só pelo que se diz; calar também tem dose.
+  - [[Alan 03 - Distância, intensidade, forma e conteúdo]] [▶ 0:01:48](https://www.youtube.com/watch?v=IZspYGtcvaE&t=108s)
+- **Decidir o que dizer e decidir como dizer são competências separáveis e treináveis isoladamente.**
+  - *Argumento:* Dada uma direção, há infinitas formulações; a intuição de modular a linguagem pode ser construída conscientemente pela estrutura da língua.
+  - *Contra quem / contraponto:* A formulação 'sai naturalmente'.
+  - *Implicação prática:* Exercícios em que erros de direção não são corrigidos.
+  - [[Alan 03 - Distância, intensidade, forma e conteúdo]] [▶ 0:22:11](https://www.youtube.com/watch?v=IZspYGtcvaE&t=1331s)
+- **Validar a dificuldade ('deve ser difícil para você') não é um bom modo de amenizar uma intervenção.**
+  - *Argumento:* Reforça algo sem saber se merece reforço, pode soar irônico, e há alavancas mais simples (generalizar, explicitar, abrir a pergunta).
+  - *Contra quem / contraponto:* Um ensinamento que Alan supõe vir da faculdade ('todo mundo errou na mesma direção'); ele admite que uma versão cuidadosa soou genuína.
+  - *Implicação prática:* Substituir a validação reflexa por alavancas linguísticas.
+  - [[Alan 03 - Distância, intensidade, forma e conteúdo]] [▶ 0:26:51](https://www.youtube.com/watch?v=IZspYGtcvaE&t=1611s)
+- **Regras gerais valem mais do que acumular exemplos.**
+  - *Argumento:* 'Posso encher vocês de exemplos específicos, e isso não ajuda em nada'; dominar uma ou duas regras permite modular qualquer frase.
+  - *Implicação prática:* No treino, nomear a regra por trás de cada acerto.
+  - [[Alan 03 - Distância, intensidade, forma e conteúdo]] [▶ 0:39:38](https://www.youtube.com/watch?v=IZspYGtcvaE&t=2378s)
+- **Não há ranking intrínseco de dificuldade entre os eixos.**
+  - *Argumento:* A dificuldade percebida depende da clareza de quem ensina e do domínio da língua por quem aprende.
+  - *Contra quem / contraponto:* Participantes acharam forma/conteúdo mais fácil que intensidade e distância.
+  - *Implicação prática:* Quando um eixo 'não entra', revisar a explicação.
+  - [[Alan 03 - Distância, intensidade, forma e conteúdo]] [▶ 1:28:21](https://www.youtube.com/watch?v=IZspYGtcvaE&t=5301s)
+- **Distância e forma/conteúdo são eixos distintos, reconhecíveis pelo tipo de erro que produzem.**
+  - *Argumento:* Errar a distância deixa o paciente confuso ou sem material; errar forma/conteúdo faz o paciente aplicar, quebrar a cara e repetir o padrão ('enxugar gelo').
+  - *Contra quem / contraponto:* Uma participante os via como muito ligados.
+  - *Implicação prática:* Diagnosticar a própria intervenção pelo efeito que ela produziu.
+  - [[Alan 03 - Distância, intensidade, forma e conteúdo]] [▶ 1:32:03](https://www.youtube.com/watch?v=IZspYGtcvaE&t=5523s)
+- **A concordância do paciente é fundamental.**
+  - *Argumento:* Se ele não entende ou não concorda com a intervenção, não a implementa; há 'duas vidas', a do caso contado ao supervisor e a real do paciente.
+  - *Contra quem / contraponto:* O terapeuta satisfeito com a elegância da própria formulação.
+  - *Implicação prática:* Adequar a linguagem à do paciente.
+  - [[Alan 05 - Cosmovisão e clínica 2]] [▶ 2:03:35](https://www.youtube.com/watch?v=7cGsqpFnYx0&t=7415s)
+- **O conhecimento é produzido pelo confronto: convidar alguém a falar é colocá-lo contra a parede.**
+  - *Argumento:* É a forma de condução que Alan assume nos grupos que coordena.
+  - *Contra quem / contraponto:* Grupos de exposição passiva ou de concordância.
+  - *Implicação prática:* Formar pela problematização das respostas.
+  - [[Alan 05 - Cosmovisão e clínica 2]] [▶ 0:08:29](https://www.youtube.com/watch?v=7cGsqpFnYx0&t=509s)
+- **Gente competente demonstra mais; gente insegura explica mais.**
+  - *Argumento:* Mesmo nas abordagens explícitas, os competentes psicoeducam implicitamente; a divisão por escola é 'meia verdade'.
+  - *Contra quem / contraponto:* A ideia de que o implícito é só questão de abordagem.
+  - *Implicação prática:* Aprender primeiro o explícito, porque quem não explica não demonstra.
+  - [[Alan 07 - Psicoeducação]] [▶ 0:15:15](https://www.youtube.com/watch?v=a7aECd72834&t=915s)
+- **Em formação, jogue fora a abordagem e faça do jeito fácil (explícito).**
+  - *Argumento:* A meta inicial é não ser um 'clínico horroroso' e sim um clínico acima da média; as sutilezas (posição do analista) vêm depois.
+  - *Contra quem / contraponto:* Iniciantes que imitam a psicoeducação implícita dos mestres sem saber por quê.
+  - *Implicação prática:* Psicoeducação explícita e preparada.
+  - [[Alan 07 - Psicoeducação]] [▶ 0:14:23](https://www.youtube.com/watch?v=a7aECd72834&t=863s)
+- **A psicologia do sujeito moderno racional-científico é raríssima.**
+  - *Argumento:* A maioria das pessoas pensa de forma mágica ou 'medieval', e até os racionais têm superstições.
+  - *Contra quem / contraponto:* Uma psicoeducação pensada para um paciente ideal racional.
+  - *Implicação prática:* Calibrar a explicação para o paciente real.
+  - [[Alan 07 - Psicoeducação]] [▶ 0:48:48](https://www.youtube.com/watch?v=a7aECd72834&t=2928s)
+- **Fluidez vem do excesso de estrutura, não da falta.**
+  - *Argumento:* A falta de estrutura produz pausas, prolixidade e exemplos ruins; o que está fixado (como passar a marcha) libera a atenção.
+  - *Contra quem / contraponto:* A crença de que preparar demais deixa o terapeuta robótico.
+  - *Implicação prática:* Preparar, refinar e decorar as explicações.
+  - [[Alan 07 - Psicoeducação]] [▶ 0:54:24](https://www.youtube.com/watch?v=a7aECd72834&t=3264s)
+- **Terapia que nunca sai da metáfora vira poesia.**
+  - *Argumento:* A explicação técnica dá substância e transmite respeito, até com crianças.
+  - *Contra quem / contraponto:* Junguianos (nas palavras de Alan) que ficam só na metáfora.
+  - *Implicação prática:* Misturar o registro técnico com o metafórico.
+  - [[Alan 07 - Psicoeducação]] [▶ 1:19:04](https://www.youtube.com/watch?v=a7aECd72834&t=4744s)
+- **Toda dica em psicologia é problemática porque não há regras gerais — mas dar dicas é necessário.**
+  - *Argumento:* As dicas funcionam como andaime para iniciantes; a experiência depois autoriza exceções (ex.: metáforas estéticas).
+  - *Contra quem / contraponto:* Dogmatismo técnico, de um lado; o 'cada caso é um caso' que paralisa o ensino, de outro.
+  - *Implicação prática:* Ensinar regras provisórias, dizendo que são provisórias.
+  - [[Alan 10 - Escuta em sistêmica]] [▶ 1:15:13](https://www.youtube.com/watch?v=DPPCBauRuAo&t=4513s)
+- **O diagnóstico comunicado não é diagnóstico, é intervenção.**
+  - *Argumento:* O que importa é a consequência de receber o rótulo (pertencimento e direitos, ou profecia que calcifica), não se ele é verdadeiro.
+  - *Contra quem / contraponto:* O modelo nosológico, em que há obrigação de entregar o diagnóstico.
+  - *Implicação prática:* Decidir se e como comunicar um diagnóstico pelas consequências esperadas.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 0:06:31](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=391s)
+- **É mais importante saber que o paciente é 'filhinho de papai' do que saber que é histérico/depressivo.**
+  - *Argumento:* Paráfrase de Jung (OC 16): o rótulo técnico é restrito e superficial; a imagem em linguagem comum diz o que se vai tratar.
+  - *Contra quem / contraponto:* Diagnóstico por termos técnicos de origem latina.
+  - *Implicação prática:* Formular casos por imagens da língua comum.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 0:10:00](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=600s)
+- **'Construir amor próprio' como objetivo universal é 'ideologia rasa', e aplicá-lo sem que o caso peça é má psicologia.**
+  - *Argumento:* Há pessoas profundamente felizes vivendo em função de outra, sem amor próprio ou em relações que parecem tóxicas de fora; fechar-se a isso por uma visão de mundo limita as ferramentas do terapeuta.
+  - *Contra quem / contraponto:* Uma resposta de participante; Alan ressalva que está 'fantasiando em cima da resposta'.
+  - *Implicação prática:* Perguntar o que o caso convida a construir, em vez de aplicar valores próprios.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 0:48:15](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=2895s)
+- **Toda verdade é óbvia depois que se sabe; uma formulação complexa ainda não terminou.**
+  - *Argumento:* A equação de segundo grau parece complexa até ser entendida; 'casa mal assombrada' foi difícil de achar e ficou evidente depois. Um caso bem interpretado se explica em uma frase.
+  - *Contra quem / contraponto:* A formulação sofisticada e cheia de camadas teóricas.
+  - *Implicação prática:* Simplificar a formulação até caber numa frase ou título.
+  - [[Alan 11 - Psicodiagnóstico]] [▶ 1:50:54](https://www.youtube.com/watch?v=uNy-VCc9xRY&t=6654s)
+- **(No papel) Ou é espontâneo ou é planejado; não existe espontaneamente planejado.**
+  - *Argumento:* Se há intenção prévia de dizer algo, o terapeuta não está concentrado no que acontece ali; se é um tema, precisa pensar como comunicá-lo.
+  - *Contra quem / contraponto:* Participantes: ter a possibilidade em mente e reconhecer o contexto quando surgir; expressar o que se sente no momento não é planejar.
+  - *Implicação prática:* Discutir como preparar temas para a sessão sem perder a presença.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 0:43:21](https://www.youtube.com/watch?v=VRappbW9ZNU&t=2601s)
+- **(No papel) 'Maneirismos de psicologia barata' desengajam pacientes de maior capital cultural ou intelectual.**
+  - *Argumento:* Um paciente que testa o terapeuta tecnicamente iria embora diante de 'como foi a semana?' ou de uma anamnese.
+  - *Contra quem / contraponto:* Participante que sempre pergunta o motivo da busca por terapia; o personagem admite que pode ser preconceito pessoal.
+  - *Implicação prática:* Ajustar linguagem e porta de entrada ao estilo do paciente.
+  - [[Alan 12 - Formulação de caso 1]] [▶ 1:41:02](https://www.youtube.com/watch?v=VRappbW9ZNU&t=6062s)
+- **O fazer terapêutico, inclusive na TCC, é dialético, e não existe uma realidade última do caso.**
+  - *Argumento:* Dialética da pergunta e da resposta: o sentido depende da pergunta, e as 'cores' do caso aparecem conforme ela se aprimora.
+  - *Contra quem / contraponto:* O uso 'jogado' da palavra dialética na TCC; a dialética dos Beck é mais próxima da clássica que da heideggeriana.
+  - *Implicação prática:* Ter várias hipóteses e afiná-las com o paciente.
+  - [[Alan 13 - Formulação de caso 2]] [▶ 0:33:26](https://www.youtube.com/watch?v=jVNAVbIyPmA&t=2006s)
+- **Em regra, esconder as hipóteses do paciente é inviável; a saída mais sólida é não ser unilateral.**
+  - *Argumento:* Terapias psicoeducativas querem tornar o paciente terapeuta de si; mesmo sem explicação, o paciente 'saca' o sistema se o terapeuta faz sempre o mesmo.
+  - *Contra quem / contraponto:* Diogo: comportamentalmente, às vezes é melhor manter o obscuro. Alan concede e diz subscrever essa linha alternativa, mas afirma que não é o que diz o livro-texto (Judith Beck).
+  - *Implicação prática:* Cultivar criatividade clínica e múltiplos referenciais para o paciente não 'ganhar o sistema'.
+  - [[Alan 13 - Formulação de caso 2]] [▶ 1:21:31](https://www.youtube.com/watch?v=jVNAVbIyPmA&t=4891s)
+- **O que funciona na clínica funciona na comunicação humana em geral.**
+  - *Argumento:* A comunicação humana é 'mais ou menos constante'; saber priorizar faz de você um ouvinte mais agradável.
+  - *Implicação prática:* Treinar a competência na vida (com a avó, num namoro).
+  - [[Alan 14 - Priorização clínica 1]] [▶ 2:16:54](https://www.youtube.com/watch?v=bhMBmA7D57s&t=8214s)
+- **Priorizar é a decisão que vem antes de qualquer intervenção, e ela já é uma protointerpretação.**
+  - *Argumento:* Entre vários fenômenos, o terapeuta escolhe o foco antes de falar; cada critério já carrega uma intuição da intervenção razoável.
+  - *Contra quem / contraponto:* Contra a ideia de que a escuta é neutra e só a intervenção é técnica.
+  - *Implicação prática:* Treinar a priorização como competência própria, anterior à intervenção.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 0:27:47](https://www.youtube.com/watch?v=5S1N66EW-7w&t=1667s)
+- **Apontar contradições é um critério barato e muitas vezes clinicamente estéril.**
+  - *Argumento:* É fácil de achar, surpreende o paciente, mas não dá intervenção nem direção de tratamento.
+  - *Contra quem / contraponto:* Bem usado, é uma forma potente; a crítica vale para o hábito da Allos de usá-lo sem utilidade clínica.
+  - *Implicação prática:* Usar com moderação e perguntar o que aquilo abre no tratamento.
+  - [[Alan 15 - Priorização clínica 2]] [▶ 0:19:53](https://www.youtube.com/watch?v=5S1N66EW-7w&t=1193s)
+- **A regra em psicologia é ser conservador: potência 3-5; 7-8 é um vale a evitar.**
+  - *Argumento:* No meio da escala o terapeuta só soa agressivo sem que a intervenção fique clara; no extremo, o exagero é legível.
+  - *Contra quem / contraponto:* O próprio estilo de Alan, muito interventivo e focado em oportunidades perdidas, que ele chama de exceção.
+  - *Implicação prática:* Ou dosar suave, ou provocar com exagero e entonação.
+  - [[Alan 16 - Intervenção]] [▶ 1:07:12](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=4032s)
+- **Pergunta boa independe da resposta; intervenções com mais de uma parte são ruins.**
+  - *Argumento:* Perguntas clínicas são abertas e têm centenas de respostas possíveis; depender de uma é apostar contra a probabilidade.
+  - *Contra quem / contraponto:* 'Não existe regra em psicologia; quem diz que existe é picareta' — mas tome esta como regra.
+  - *Implicação prática:* Avaliar a pergunta pelo que ela informa tanto no 'sim' quanto no 'não'; abandonar a tréplica.
+  - [[Alan 16 - Intervenção]] [▶ 1:46:36](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=6396s)
+- **Tudo que é relevante na clínica volta; erro clínico é mais afobação do que calma.**
+  - *Argumento:* Passadas as primeiras sessões, a terapia é processo; o tema voltará e poderá ser trabalhado melhor.
+  - *Contra quem / contraponto:* Nas primeiras sessões é preciso 'mostrar serviço'.
+  - *Implicação prática:* Às vezes calar agora rende uma intervenção excelente semanas depois.
+  - [[Alan 16 - Intervenção]] [▶ 2:06:05](https://www.youtube.com/watch?v=jUT9-AyGPgM&t=7565s)
+- **A qualidade da intervenção é a síntese de todas as competências clínicas.**
+  - *Argumento:* Para julgar uma única fala é preciso avaliar escuta, priorização, esquema de aprofundamento, construção frasal e timing; por isso o tema fecha o ciclo.
+  - *Implicação prática:* O treino de intervenção deve integrar as dimensões, não isolá-las.
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 0:01:01](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=61s)
+- **Toda intervenção pode subir ou descer de intensidade sem mudar de natureza, e isso deve ser pensado o tempo todo.**
+  - *Argumento:* Cada intervenção-base do encontro recebe versões mais agressivas e mais suaves que continuam sendo a mesma intervenção.
+  - *Contra quem / contraponto:* A ideia de que intensidade é incompatível com empatia: 'dá para fazer isso sendo empático, problema nenhum'.
+  - *Implicação prática:* O terapeuta dispõe de um 'botão de volume' independente do conteúdo.
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 0:24:34](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=1474s)
+- **Toda pergunta pode ser transformada em acusação, e isso está sempre à disposição do terapeuta.**
+  - *Argumento:* Em terapia afirmações funcionam como perguntas; 'as coisas são extremamente mais simples do que parecem'.
+  - *Contra quem / contraponto:* Aumenta a agressividade, o que exige leitura do campo.
+  - *Implicação prática:* Quando não consegue formular a pergunta, diga o que queria dizer.
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 0:48:42](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=2922s)
+- **Temos uma percepção imprecisa do que é acolhimento.**
+  - *Argumento:* Aprendemos acolhimento com um determinado tipo de professor, personalidade e abordagem; mas acolhimento pode ser várias coisas, inclusive uma retificação precisa do que o paciente sente.
+  - *Contra quem / contraponto:* Acolhimento como escuta passiva, repetição e gestos de concordância.
+  - *Implicação prática:* Confrontar com precisão pode ser a forma mais profunda de empatia.
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 1:02:59](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=3779s)
+- **Completar a frase do outro, sem pressa, é sinal de sintonia e não grosseria.**
+  - *Argumento:* Grosseiro é acelerar a pessoa ('tá, entendi, próximo'); antecipar com precisão, como numa cena de comédia romântica, mostra conexão.
+  - *Contra quem / contraponto:* A norma cultural de alternância de turnos aprendida na infância.
+  - *Implicação prática:* O terapeuta pode completar o raciocínio do paciente quando tem precisão e não está com pressa.
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 1:05:12](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=3912s)
+- **Uma intervenção deve ser julgada pela régua do seu próprio objetivo.**
+  - *Argumento:* Se o objetivo era fazer a paciente se sentir compreendida, o critério é a precisão da descrição; criticá-la por não gerar reflexão é trocar a régua.
+  - *Contra quem / contraponto:* Crítica de participante de que a intervenção empática geraria 'resposta rasa'.
+  - *Implicação prática:* Na supervisão, perguntar primeiro 'o que você queria?' e só depois 'era o fenômeno central?'.
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 1:01:37](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=3697s)
+- **Não há intervenção tão absurda que alguma escola de psicoterapia não tenha proposto.**
+  - *Argumento:* A história da psicologia inclui experimentos traumáticos, abusos e escolas agressivas hoje relegadas; a Gestalt choca quem vem de outras clínicas; a hipnose, fundacional, foi empurrada para fora do campo.
+  - *Contra quem / contraponto:* O estranhamento imediato diante de intervenções de outras escolas.
+  - *Implicação prática:* Antes de condenar uma intervenção estranha, entender a escola que a sustenta (ex.: assistir ao Caso Glória).
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 1:40:46](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=6046s)
+- **Quando um conceito não fica claro, a responsabilidade é do didata.**
+  - *Argumento:* Alan avalia que desta vez a dificuldade não era intrínseca ao exercício nem culpa do grupo: ele usou um termo ruim ('distância') e deixou o exercício mais difícil do que precisava.
+  - *Contra quem / contraponto:* Sua tendência habitual, que ele mesmo admite, de atribuir a dificuldade ao grupo.
+  - *Implicação prática:* Conceitos criados ad hoc precisam de definição, exemplos e metáfora testados; apresentar teoria antes de exercícios estruturados.
+  - [[Alan 17 - Qualidade da intervenção]] [▶ 1:55:56](https://www.youtube.com/watch?v=_ywMzhmYdWM&t=6956s)
+- **O amor é estruturalmente um muro: amamos o outro tal como a fantasia de que precisamos para nossa completude.**
+  - *Argumento:* L'amour/le mur; inconsciente e linguagem impedem o acesso ao desejo do outro; Hegel (o amor só existe na impossibilidade de dizê-lo); a piada de Žižek sobre o 'mais'.
+  - *Contra quem / contraponto:* O ideal romântico de comunicação transparente.
+  - *Implicação prática:* Trabalhar fantasias e projeções dos parceiros, não apenas 'melhorar a comunicação'.
+  - [[Alan 18 - Terapia de casal]] [▶ 0:46:26](https://www.youtube.com/watch?v=Yt4_GhU3pqg&t=2786s)
+- **Antinomia não é viés cognitivo.**
+  - *Argumento:* No viés há uma realidade objetiva e uma distorção; na antinomia, dois opostos irreconciliáveis. Chamar a vivência de heurística pressupõe que a realidade coletiva é a realidade em si. O delírio se define por adequação a uma ortodoxia, não por porcentagem.
+  - *Contra quem / contraponto:* Leitura cognitivista trazida por um participante.
+  - *Implicação prática:* Cuidado com intervenções que corrigem o paciente em nome do 'real'.
+  - [[Alan 18 - Terapia de casal]] [▶ 1:21:01](https://www.youtube.com/watch?v=Yt4_GhU3pqg&t=4861s)
+- **A estrutura das perguntas determina a facilidade de obter informação.**
+  - *Argumento:* A mesma sessão rende intervenções muito diferentes conforme a regra imposta a cada dupla.
+  - *Implicação prática:* Treinar os esquemas deliberadamente, e não só confiar na intuição.
+  - [[Acervo 13 - Gincana de esquemas de aprofundamento com paciente simulado]] [▶ 0:04:33](https://www.youtube.com/watch?v=Az-CUC7SzOA&t=273s)
+- **Uma reação negativa a uma intervenção forte não é necessariamente um problema.**
+  - *Argumento:* Com pacientes 'personagem', tirar da zona de conforto é o que permite que a pessoa apareça (Perls com Glória).
+  - *Contra quem / contraponto:* É preciso lidar com as consequências; o estilo de Perls é agressivo demais para ser copiado.
+  - *Implicação prática:* Aplicar a lógica sem o mesmo nível de agressividade.
+  - [[Acervo 13 - Gincana de esquemas de aprofundamento com paciente simulado]] [▶ 0:57:39](https://www.youtube.com/watch?v=Az-CUC7SzOA&t=3459s)
+- **Os melhores clínicos são um pouco conservadores, e o esquema deve combinar com o estilo.**
+  - *Argumento:* O esquema de centro sem intervenções 'perigosas' circunda de longe; ao conservador, o raio serve melhor.
+  - *Implicação prática:* Escolher o esquema segundo o próprio estilo e o tipo de paciente.
+  - [[Acervo 13 - Gincana de esquemas de aprofundamento com paciente simulado]] [▶ 1:11:37](https://www.youtube.com/watch?v=Az-CUC7SzOA&t=4297s)
+- **Treinar 'com uma mão amarrada nas costas' é um bom exercício.**
+  - *Argumento:* Restringir o repertório obriga a trabalhar mais linguagem, corpo e expressividade.
+  - *Contra quem / contraponto:* O próprio facilitador reconhece que a restrição, somada às pausas, dificultou demais o exercício.
+  - *Implicação prática:* Criar exercícios com restrições artificiais, calibrando a dificuldade do caso.
+  - [[Acervo 13 - Gincana de esquemas de aprofundamento com paciente simulado]] [▶ 1:16:54](https://www.youtube.com/watch?v=Az-CUC7SzOA&t=4614s)
+- **A utilidade da teoria é permitir visualizar possibilidades futuras e construir um todo para o caso.**
+  - *Argumento:* De uma só fala derivaram-se psicodinâmica, duas direções clínicas e tom da intervenção, hipóteses a serem confrontadas depois.
+  - *Contra quem / contraponto:* A clínica puramente intuitiva, cujas decisões não se justificam.
+  - *Implicação prática:* Estudar teoria para antecipar e gerar hipóteses, não para rotular.
+  - [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]] [▶ 1:07:10](https://www.youtube.com/watch?v=fRkymivFF9s&t=4030s)
+- **Psicoeducar cedo demais pode ser violento.**
+  - *Argumento:* Impõe uma visão de mundo antes de entender a questão do paciente e pode fechá-lo.
+  - *Contra quem / contraponto:* Feita de certo jeito, funcionaria clinicamente.
+  - *Implicação prática:* Adiar e retomar quando houver contexto.
+  - [[Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica]] [▶ 0:19:37](https://www.youtube.com/watch?v=VCS9TBtwiMY&t=1177s)
+- **A verdade é atópica: não encaixa direito.**
+  - *Argumento:* Histórias de detetive, A carta roubada, o atopon de Aristóteles lido em Gadamer.
+  - *Implicação prática:* Desconfiar de discursos coerentes demais e responder com pergunta inesperada.
+  - [[Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica]] [▶ 0:42:02](https://www.youtube.com/watch?v=VCS9TBtwiMY&t=2522s)
+- **A linguagem não apenas descreve, mas produz a experiência interna.**
+  - *Argumento:* Ao esgarçar a linguagem com distinções, produzimos retroativamente acontecimentos internos.
+  - *Contra quem / contraponto:* Visão da linguagem como mera ferramenta de descrição.
+  - *Implicação prática:* Valorizar distinções vocabulares como intervenção.
+  - [[Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica]] [▶ 1:12:17](https://www.youtube.com/watch?v=VCS9TBtwiMY&t=4337s)
+- **Encerramentos procedimentais são um desperdício quando o terapeuta é talentoso.**
+  - *Argumento:* O fim da sessão é lugar de intervenção: fechar no ponto certo ou salvar uma fala.
+  - *Implicação prática:* Escolher o momento de fechar pela dinâmica da sessão, não pelo protocolo.
+  - [[Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica]] [▶ 1:24:24](https://www.youtube.com/watch?v=VCS9TBtwiMY&t=5064s)
+- **A psicoeducação pontual não é incompatível com a psicanálise.**
+  - *Argumento:* Chamar a atenção para nomes e linguagem é coerente com a própria teoria.
+  - *Contra quem / contraponto:* Uma pureza técnica que proibiria explicar qualquer coisa ao paciente.
+  - *Implicação prática:* Pode-se enquadrar explicitamente o trabalho com a linguagem desde o início.
+  - [[Monitoria 03 - Alan - Análise da linguagem do paciente]] [▶ 0:03:53](https://www.youtube.com/watch?v=-e15B6p1EMo&t=233s)
+- **Não existe intervenção agressiva ou suave; existe contexto agressivo ou suave.**
+  - *Argumento:* A mesma intervenção banal torna-se forte quando contraria a direção que o paciente estava construindo.
+  - *Contra quem / contraponto:* A ideia de que técnicas 'leves' (respiração, atenção ao corpo) são sempre inofensivas.
+  - *Implicação prática:* Calibrar a intensidade pela direção do paciente e suavizar pelo vocabulário dele.
+  - [[Monitoria 04 - Alan - Relação terapêutica além do vínculo]] [▶ 0:10:08](https://www.youtube.com/watch?v=n81lyvBHys0&t=608s)
+- **Faça o razoável na prática, não o bonito na teoria; em regra, seja visto como competente.**
+  - *Argumento:* É possível construir boa relação a partir do lugar de 'nada', mas não há por que fazê-lo se há alternativa; antinomias costumam ser regra e exceção, e não uma escolha 50 a 50.
+  - *Contra quem / contraponto:* Supervisões especulativas que prescrevem sair sempre do lugar de suposto saber; a 'estética de atender de chinelo'.
+  - *Implicação prática:* Guardar intervenções estranhas para quando forem necessárias; 'dá para ser genial com coisas menos estranhas'.
+  - [[Monitoria 04 - Alan - Relação terapêutica além do vínculo]] [▶ 1:12:03](https://www.youtube.com/watch?v=n81lyvBHys0&t=4323s)
+- **Insistir (repetir a intervenção) constrói confiança no terapeuta.**
+  - *Argumento:* Marca que o terapeuta tem método, sabe o que está fazendo e não aceita resposta pro forma.
+  - *Contra quem / contraponto:* Seguir o 'flow natural' da conversa quando ele afasta da hipótese clínica ou do método.
+  - *Implicação prática:* Repetir a pergunta quando a resposta foge dela.
+  - [[Monitoria 04 - Alan - Relação terapêutica além do vínculo]] [▶ 1:16:50](https://www.youtube.com/watch?v=n81lyvBHys0&t=4610s)
+- **Boa supervisão é mergulho profundo num aspecto específico: desvios são atalhos.**
+  - *Argumento:* Ficar na primeira frase de um relatório de sete páginas levou à estrutura da clínica da aluna.
+  - *Contra quem / contraponto:* Supervisão que percorre todo o relatório superficialmente.
+  - *Implicação prática:* Escolher o ponto que incomoda e ir fundo.
+  - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] [▶ 1:26:17](https://www.youtube.com/watch?v=r4Q-Xi6Gntk&t=5177s)
+- **Confrontar é uma forma de acolher.**
+  - *Argumento:* Apontar a contradição prova escuta atenta; há pacientes para quem ser só acolhido é o habitual, e o confronto é o novo.
+  - *Contra quem / contraponto:* Equiparar acolhimento a concordância ou a 'pisar em ovos'.
+  - *Implicação prática:* Planejar confrontos, inclusive combinados abertamente com o paciente.
+  - [[Monitoria 07 - João de Bragança - Limites do terapeuta e confronto]] [▶ 0:36:50](https://www.youtube.com/watch?v=zsZasKwhGLI&t=2210s)
+- **Na supervisão, profundidade vale mais do que extensão.**
+  - *Argumento:* Seguindo um princípio que atribui ao Alan: não importa ficar nas primeiras frases, desde que bem trabalhadas.
+  - *Contra quem / contraponto:* A pressa em ver o atendimento inteiro.
+  - *Implicação prática:* Planejar monitorias que param em poucas trocas e as esgotam.
+  - [[Monitoria 20 - Diogo - Aprofundamento na análise de atendimento simulado]] [▶ 1:12:52](https://www.youtube.com/watch?v=92xFTaRaDYg&t=4372s)
+- **A psicologia precisa de uma arena que meça quão bem cada um atende.**
+  - *Argumento:* Como o UFC com as artes marciais, regras comuns e confronto revelariam o que funciona e o que cada um precisa melhorar.
+  - *Contra quem / contraponto:* A pluralidade de escolas em que cada uma se acha a melhor; montar a arena é difícil.
+  - *Implicação prática:* Simulador com relatórios, ranking e teoria de resposta ao item; uso de dados na clínica ('não gosto muito de PBE, mas gosto de ganhar').
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 0:28:26](https://www.youtube.com/watch?v=oeCymlAmai4&t=1706s)
+- **A execução pesa tanto quanto a direção clínica escolhida.**
+  - *Argumento:* Uma direção imprecisa, bem executada, pode fazer o caso andar, como nos relatórios da clínica-escola.
+  - *Contra quem / contraponto:* A previsão inicial do próprio Alan sobre a condução da participante.
+  - *Implicação prática:* Treinar a entrega (frase, entonação, timing), e não só o raciocínio.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 1:06:51](https://www.youtube.com/watch?v=oeCymlAmai4&t=4011s)
+- **Perguntar às pessoas quais são suas dificuldades não funciona como diagnóstico.**
+  - *Argumento:* Sem categorias, elas não sabem descrever o que lhes falta; vê-las atender é mais preciso.
+  - *Contra quem / contraponto:* A sugestão de uma participante de um questionário de inseguranças.
+  - *Implicação prática:* Avaliação por gravação e simulação, e um Mapa de perguntas estruturais que fornece as categorias.
+  - [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]] [▶ 1:42:56](https://www.youtube.com/watch?v=oeCymlAmai4&t=6176s)
+- **A palavra pode e deve ser tensionada por meio da imagem.**
+  - *Argumento:* Imagens pouco óbvias abrem mais possibilidades de exploração do que palavras abstratas.
+  - *Contra quem / contraponto:* Uma escuta que 'brinca mais com palavras do que com imagens'.
+  - *Implicação prática:* Marcar as imagens do paciente e voltar a elas.
+  - [[Prática Clínica 02 - Atendimento ao vivo e ecos da palavra]] [▶ 1:05:35](https://www.youtube.com/watch?v=1vq-Uefyf1w&t=3935s)
+- **Pedir 'fale como se fosse o clínico' transforma performance em exercício.**
+  - *Argumento:* Opinar sobre o caso não exige a habilidade de fraseamento; construir a frase exige.
+  - *Contra quem / contraponto:* Supervisões e aulas baseadas em 'o que você acha do caso?'.
+  - *Implicação prática:* Em grupo, cobrar intervenções literais.
+  - [[Prática Clínica 03 - Atenção flutuante, construção frasal e entonação]] [▶ 0:19:35](https://www.youtube.com/watch?v=m4vr6-_WOus&t=1175s)
+- **Agressivo é não intervir.**
+  - *Argumento:* Uma intervenção antiga (sugerir em sessão o bloqueio de uma parceira) precipitou um término, e a paciente depois reconheceu que teria ficado anos numa relação ruim.
+  - *Contra quem / contraponto:* Quem acha esse tipo de intervenção agressiva demais.
+  - *Implicação prática:* Temer mais as intervenções não feitas por achar que o paciente não está pronto.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:59:35](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=3575s)
+- **Psicoeducação implícita é mais elegante, mas iniciantes devem explicitar.**
+  - *Argumento:* Mostrar a clínica em ato dispensa o contrato, mas é difícil; explicar é mais fácil e mais seguro.
+  - *Contra quem / contraponto:* Quem acha 'cringe' fazer psicoeducação.
+  - *Implicação prática:* Começar explicitando e migrar para o implícito com a experiência.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:16:29](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=989s)
+- **A clínica inventiva, que sai do discurso corrente, é mais potente.**
+  - *Argumento:* Perguntas já ouvidas produzem histórias ensaiadas; intervenções memoráveis mobilizam e são lembradas.
+  - *Contra quem / contraponto:* A clínica 'dentro da caixa'.
+  - *Implicação prática:* Investir em forma, 'empacotamento' e surpresa.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:48:17](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=2897s)
+- **Conhecer a técnica não impede que ela funcione.**
+  - *Argumento:* Metáfora do mágico que faz mágica para mágicos; a paciente simulada nomeia o silêncio terapêutico e mesmo assim se abre.
+  - *Contra quem / contraponto:* O receio de que o paciente informado desarme a técnica.
+  - *Implicação prática:* Menos cerimônia ao atender pessoas da área psi.
+  - [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] [▶ 0:22:43](https://www.youtube.com/watch?v=q6t2IBeSFTk&t=1363s)
+- **Não existe jeito certo de passar credibilidade ou de se portar; há regras gerais e exceções em três níveis (pessoa, momento, manejo), e o manejo é o mais importante.**
+  - *Argumento:* Exemplos de roupa, aparência, voz, idade e pontualidade; a paciente que desistiu por achar o terapeuta bonito demais.
+  - *Contra quem / contraponto:* Manuais de postura e aparência do terapeuta.
+  - *Implicação prática:* Perguntar o que fazer com o que se é e com o que aconteceu.
+  - [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] [▶ 0:15:54](https://www.youtube.com/watch?v=do6RPg_flrg&t=954s)
+- **Quanto menos informação sobre o caso, mais o clínico usa a ferramenta preferida; essa é a crítica à 'posição ética' universal.**
+  - *Argumento:* Metáfora do carro: sem saber onde está o defeito, qualquer ferramenta parece plausível.
+  - *Contra quem / contraponto:* A objeção de um participante de que as vinhetas vagas forçavam os truísmos, que Alan acolhe como correta.
+  - *Implicação prática:* Buscar especificidade antes de intervir; usar vinhetas vagas para diagnosticar vícios clínicos.
+  - [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]] [▶ 1:05:06](https://www.youtube.com/watch?v=d8jUUFt9yT0&t=3906s)
+- **Uma das maiores causas de quebra de vínculo são intervenções inadequadas, e o problema costuma ser de execução, não de raciocínio.**
+  - *Argumento:* Observação de muitos atendimentos com feedback em cerca de dez anos de ensino prático.
+  - *Contra quem / contraponto:* A ideia de que bom raciocínio clínico basta.
+  - *Implicação prática:* Treinar a execução (linguagem, momento, intensidade) tanto quanto a teoria.
+  - [[YT Avaliação Clínica 01 - Meu paciente está pronto - Estágios de mudança]] [▶ 0:00:00](https://www.youtube.com/watch?v=NJBRCNbPc3Q&t=0s)
+- **O que importa não é o modelo de estágios, mas o princípio de que a intervenção deve corresponder ao momento do paciente.**
+  - *Argumento:* O modelo é estático e pensado para terapias de sugestão, mas o princípio é traduzível até para a psicanálise.
+  - *Contra quem / contraponto:* Quem descarta o modelo por ser comportamental ou baseado em evidências.
+  - *Implicação prática:* Cada clínico monta sua própria tabela com as intervenções da sua escola.
+  - [[YT Avaliação Clínica 01 - Meu paciente está pronto - Estágios de mudança]] [▶ 0:06:47](https://www.youtube.com/watch?v=NJBRCNbPc3Q&t=407s)
+- **O que é inócuo é inócuo para o bem e para o mal.**
+  - *Argumento:* Em toda a saúde a potência corta para os dois lados (o phármakon é remédio e veneno); intervenção pouco arriscada impacta pouco.
+  - *Contra quem / contraponto:* A busca por intervenções 'seguras' que não mexem com o paciente. Alan admite que na psicologia isso é menos verdade que com substâncias químicas.
+  - *Implicação prática:* Aceitar algum risco como preço da eficácia e aprender a dosá-lo.
+  - [[YT Avaliação Clínica 02 - Como fazer intervenções clínicas mais potentes]] [▶ 0:00:00](https://www.youtube.com/watch?v=u1uOyDlyjUU&t=0s)
+- **Intervenções abertas tendem a ser mais potentes que intervenções completas.**
+  - *Argumento:* Deixam o paciente construir e 'a carapuça servir'.
+  - *Contra quem / contraponto:* O próprio Alan admite que a regra talvez tenha mais exceções do que casos.
+  - *Implicação prática:* Em regra, falar menos e deixar a frase aberta.
+  - [[YT Avaliação Clínica 02 - Como fazer intervenções clínicas mais potentes]] [▶ 0:03:37](https://www.youtube.com/watch?v=u1uOyDlyjUU&t=217s)
+- **Uma intervenção que o paciente recusa ou estranha não é um problema clínico, é material para a relação.**
+  - *Argumento:* A discordância traz o paciente para o aqui e agora com o terapeuta.
+  - *Contra quem / contraponto:* O medo de errar a leitura.
+  - *Implicação prática:* Manejar as consequências em vez de evitar intervir.
+  - [[YT Avaliação Clínica 02 - Como fazer intervenções clínicas mais potentes]] [▶ 0:07:17](https://www.youtube.com/watch?v=u1uOyDlyjUU&t=437s)
+- **Nas intervenções agressivas, o risco não é o paciente recusar, é aceitar.**
+  - *Argumento:* Pela assimetria (sujeito suposto saber), o rótulo pode virar nome e profecia autorrealizável.
+  - *Contra quem / contraponto:* A preocupação de 'não parecer babaca'.
+  - *Implicação prática:* Dosar a posição hierárquica ao nomear ou acusar.
+  - [[YT Avaliação Clínica 02 - Como fazer intervenções clínicas mais potentes]] [▶ 0:08:14](https://www.youtube.com/watch?v=u1uOyDlyjUU&t=494s)
+- **A psicoeducação alivia a tensão pelo mesmo motivo que a intervenção aberta a aprofunda.**
+  - *Argumento:* Explicar fecha o sentido; deixar aberto obriga o paciente a construí-lo.
+  - *Implicação prática:* Usar a explicação como botão de desescalada.
+  - [[YT Avaliação Clínica 02 - Como fazer intervenções clínicas mais potentes]] [▶ 0:13:59](https://www.youtube.com/watch?v=u1uOyDlyjUU&t=839s)
+- **Psicanalistas também psicoeducam, só que implicitamente.**
+  - *Argumento:* Intervir sobre uma resposta procedimental ensina ao paciente o registro de linguagem da clínica.
+  - *Contra quem / contraponto:* A ideia implícita de que só faz psicoeducação quem explica o método.
+  - *Implicação prática:* Reconhecer as próprias intervenções como pedagógicas e usá-las deliberadamente.
+  - [[YT Avaliação Clínica 02 - Como fazer intervenções clínicas mais potentes]] [▶ 0:15:56](https://www.youtube.com/watch?v=u1uOyDlyjUU&t=956s)
+- **Os recursos da língua (sintaxe, análise do discurso) são ferramentas clínicas.**
+  - *Argumento:* Trocar ordem, acento e tipo de frase muda a intervenção; dá para teorizar muito sobre isso.
+  - *Contra quem / contraponto:* A clínica vista apenas como aplicação de teoria psicológica.
+  - *Implicação prática:* Estudar a língua como parte da formação clínica.
+  - [[YT Avaliação Clínica 02 - Como fazer intervenções clínicas mais potentes]] [▶ 0:18:32](https://www.youtube.com/watch?v=u1uOyDlyjUU&t=1112s)
+- **Interromper não é rude; rude é desperdiçar o tempo do paciente.**
+  - *Argumento:* Intervenções pontuais e abertas exigem timing acelerado.
+  - *Contra quem / contraponto:* A norma social de nunca interromper.
+  - *Implicação prática:* Interromper para intervir.
+  - [[YT Avaliação Clínica 03 - Comecei na clínica, e agora]] [▶ 0:10:49](https://www.youtube.com/watch?v=JTso5qJYMNU&t=649s)
+- **Há um viés forte para a passividade na clínica; o terapeuta deve ter mais medo de não agir.**
+  - *Argumento:* Lembramos os abandonos causados por intervenções erradas, mas não contabilizamos os mais numerosos, causados pela falta de ação.
+  - *Contra quem / contraponto:* 'O paciente não está pronto para ouvir isso.'
+  - *Implicação prática:* Primeira sessão ativa como regra.
+  - [[YT Avaliação Clínica 03 - Comecei na clínica, e agora]] [▶ 0:12:37](https://www.youtube.com/watch?v=JTso5qJYMNU&t=757s)
+- **Intervenção barata é sempre preferível à função fática.**
+  - *Argumento:* Repetir uma palavra com outro tom quase nunca erra; 'aham, entendi' sem entender afasta.
+  - *Contra quem / contraponto:* O uso excessivo da intervenção barata também fica estranho.
+  - *Implicação prática:* Trocar vícios de linguagem por devoluções simples.
+  - [[YT Avaliação Clínica 04 - Máximas para a performance clínica]] [▶ 0:07:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=429s)
+- **A linguagem, incluindo a entonação, é uma das poucas ferramentas da psicologia.**
+  - *Argumento:* Mudar o acento muda a intervenção; fala robótica reduz potência e possibilidades.
+  - *Implicação prática:* Treinar entonação de forma deliberada.
+  - [[YT Avaliação Clínica 04 - Máximas para a performance clínica]] [▶ 0:08:45](https://www.youtube.com/watch?v=TkaAFt7menY&t=525s)
+- **Não existe intervenção errada, existe não saber lidar com as consequências.**
+  - *Argumento:* Até uma intervenção desencaixada vira tema produtivo quando é trazida para a relação.
+  - *Contra quem / contraponto:* O próprio Alan chama a máxima de 'muito criticável'.
+  - *Implicação prática:* Deslocar a leitura contextual do paciente ('ele aguenta?') para o terapeuta ('eu consigo bancar?').
+  - [[YT Avaliação Clínica 04 - Máximas para a performance clínica]] [▶ 0:11:09](https://www.youtube.com/watch?v=TkaAFt7menY&t=669s)
+- **Quanto mais se sai do registro óbvio, melhor; o óbvio pode soar como afronta.**
+  - *Argumento:* Perguntas estranhas furam o discurso pronto; soluções óbvias em cinco minutos desrespeitam quem sofre há anos.
+  - *Contra quem / contraponto:* Às vezes o óbvio precisa ser perguntado, dependendo do modo.
+  - *Implicação prática:* Preferir perguntas de segunda ordem.
+  - [[YT Avaliação Clínica 04 - Máximas para a performance clínica]] [▶ 0:13:43](https://www.youtube.com/watch?v=TkaAFt7menY&t=823s)
+- **Para o iniciante, toda pergunta deve ter uma hipótese por trás.**
+  - *Argumento:* Perguntas sem objetivo não geram informação; só quem domina a técnica pode falar 'sem sentido específico'.
+  - *Contra quem / contraponto:* A aparente contradição com 'faça perguntas estranhas' (estranho não é sem objetivo).
+  - *Implicação prática:* Checar a hipótese antes de perguntar.
+  - [[YT Avaliação Clínica 04 - Máximas para a performance clínica]] [▶ 0:17:29](https://www.youtube.com/watch?v=TkaAFt7menY&t=1049s)
+- **Comunicação clínica e comunicação cotidiana têm quase a mesma estrutura.**
+  - *Argumento:* As especificidades da clínica são menores do que se imagina ('ou você não sabe clinicar, ou não sabe namorar').
+  - *Contra quem / contraponto:* A ideia de que a clínica é um registro totalmente à parte.
+  - *Implicação prática:* Treinar comunicação clínica na vida.
+  - [[YT Avaliação Clínica 04 - Máximas para a performance clínica]] [▶ 0:18:20](https://www.youtube.com/watch?v=TkaAFt7menY&t=1100s)
+- **Não existe intervenção errada.**
+  - *Argumento:* O valor de uma intervenção depende também do manejo das consequências; um erro bem trabalhado vira acerto retroativamente.
+  - *Contra quem / contraponto:* A obsessão por acertar o timing e a palavra exata.
+  - *Implicação prática:* Treinar o manejo de situações desconfortáveis e se permitir arriscar.
+  - [[YT Avaliação Clínica 06 - Dicas para quem está inseguro em começar a atender]] [▶ 0:02:32](https://www.youtube.com/watch?v=RPVjdqdzcMY&t=152s)
+- **A abertura da sessão precisa de uma teoria de abertura, como no xadrez.**
+  - *Argumento:* Como cada intervenção costuma puxar a seguinte, a primeira cria um efeito dominó.
+  - *Contra quem / contraponto:* O fluxo encadeado não é obrigatório, mas é o padrão.
+  - *Implicação prática:* Escolher conscientemente a primeira frase.
+  - [[YT Avaliação Clínica 07 - Abertura e encerramento de sessão clínica]] [▶ 0:01:07](https://www.youtube.com/watch?v=t1vRYiBKZFY&t=67s)
+- **Não existe resistência, existe apenas falta de aquecimento.**
+  - *Argumento:* Frase de Moreno, endossada por Alan: com um aquecimento suficiente a pessoa se entrega a qualquer proposta, como mostram os fenômenos intensos dos grupos.
+  - *Contra quem / contraponto:* A noção psicanalítica de resistência e a ideia de esquiva experiencial.
+  - *Implicação prática:* Investir em aquecimento e quebra-gelo também no atendimento individual.
+  - [[YT Avaliação Clínica 07 - Abertura e encerramento de sessão clínica]] [▶ 0:09:55](https://www.youtube.com/watch?v=t1vRYiBKZFY&t=595s)
+- **'Te vejo semana que vem' é fechamento de vendedor e 'deu o nosso horário' é um relógio parado.**
+  - *Argumento:* São padrões que não fazem trabalho clínico e diferenciam pouco o terapeuta.
+  - *Contra quem / contraponto:* 'Deu o nosso horário' tem valor para marcar limites com pacientes sem fronteiras (por exemplo, ditos borderline).
+  - *Implicação prática:* Substituir por psicoeducação.
+  - [[YT Avaliação Clínica 07 - Abertura e encerramento de sessão clínica]] [▶ 0:13:19](https://www.youtube.com/watch?v=t1vRYiBKZFY&t=799s)
+- **Perde-se paciente pelo pré-terapia e por uma primeira sessão passiva, não por intervenções agressivas.**
+  - *Argumento:* O paciente raramente sai por se chocar; sai pela demora na resposta, pela imagem inicial ou porque nada aconteceu.
+  - *Contra quem / contraponto:* A anamnese na primeira sessão e o conservadorismo excessivo.
+  - *Implicação prática:* Primeira sessão ativa e cuidado com o contato inicial.
+  - [[YT Avaliação Clínica 07 - Abertura e encerramento de sessão clínica]] [▶ 0:15:01](https://www.youtube.com/watch?v=t1vRYiBKZFY&t=901s)
+- **Perguntas-clichê às vezes ajudam e às vezes atrapalham; o terapeuta deve saber fazer perguntas que ninguém faria.**
+  - *Argumento:* Com discurso pronto, a pergunta óbvia devolve o relato decorado.
+  - *Contra quem / contraponto:* O clichê às vezes é útil.
+  - *Implicação prática:* Treinar variações de segunda ordem.
+  - [[YT Avaliação Clínica 08 - Construção frasal na psicanálise]] [▶ 0:01:37](https://www.youtube.com/watch?v=EQ15ZGuigog&t=97s)
+- **Não é problema o paciente não entender a intervenção; o problema é não saber lidar com isso.**
+  - *Argumento:* A incompreensão abre a discussão sobre a comunicação entre os dois.
+  - *Contra quem / contraponto:* O medo de ser obscuro com elipses.
+  - *Implicação prática:* Arriscar intervenções abertas e manejar o mal-entendido.
+  - [[YT Avaliação Clínica 08 - Construção frasal na psicanálise]] [▶ 0:05:58](https://www.youtube.com/watch?v=EQ15ZGuigog&t=358s)
+- **Em regra, a intervenção composta é ruim.**
+  - *Argumento:* A primeira parte do raciocínio acontece só na cabeça do terapeuta; o paciente fica confuso e sente que não foi ouvido.
+  - *Contra quem / contraponto:* Há situações em que não escutar é uma intenção clínica legítima.
+  - *Implicação prática:* Explicitar a hipótese antes de intervenções que dependem dela.
+  - [[YT Avaliação Clínica 08 - Construção frasal na psicanálise]] [▶ 0:09:44](https://www.youtube.com/watch?v=EQ15ZGuigog&t=584s)
+- **Vícios fáticos são profundamente problemáticos na posição de analista.**
+  - *Argumento:* Comunicam entendimento que não houve e revelam traços do analista, contaminando a projeção.
+  - *Contra quem / contraponto:* São hábitos normais e até úteis na conversa cotidiana.
+  - *Implicação prática:* Vigiar a própria fala automática.
+  - [[YT Avaliação Clínica 08 - Construção frasal na psicanálise]] [▶ 0:11:25](https://www.youtube.com/watch?v=EQ15ZGuigog&t=685s)
+- **Quem aprofunda no conteúdo perde a forma.**
+  - *Argumento:* Preso à história, o analista não percebe as repetições e as trocas de palavra; só com distância se vê a superfície inteira.
+  - *Contra quem / contraponto:* A escuta investigativa centrada no tema mais grave.
+  - *Implicação prática:* Dividir a atenção entre os temas.
+  - [[YT Avaliação Clínica 09 - Entrevistas preliminares - como conduzir a primeira sessão em psicanálise]] [▶ 0:04:24](https://www.youtube.com/watch?v=UygS_g0ipl0&t=264s)
+- **Em análise, não se explica psicanálise nem se faz psicoeducação sobre ela.**
+  - *Argumento:* No discurso do analista o saber ocupa o lugar da verdade, que sustenta o discurso mas nunca é dito.
+  - *Contra quem / contraponto:* Nas entrevistas, perguntas simples sobre o funcionamento podem ser respondidas.
+  - *Implicação prática:* Diferenciar o que se diz antes e depois da entrada em análise.
+  - [[YT Avaliação Clínica 09 - Entrevistas preliminares - como conduzir a primeira sessão em psicanálise]] [▶ 0:14:27](https://www.youtube.com/watch?v=UygS_g0ipl0&t=867s)
+- **Nas entrevistas preliminares, o silêncio rígido é um erro.**
+  - *Argumento:* Ali se circula entre os quatro discursos; o silêncio só começa depois da entrada em análise.
+  - *Contra quem / contraponto:* Isso não autoriza excesso de discurso do mestre, como falar da própria vida.
+  - *Implicação prática:* Responder, com tato, perguntas simples sobre o processo.
+  - [[YT Avaliação Clínica 09 - Entrevistas preliminares - como conduzir a primeira sessão em psicanálise]] [▶ 0:15:21](https://www.youtube.com/watch?v=UygS_g0ipl0&t=921s)
+- **A psicoeducação é o que os iniciantes de TCC fazem pior e é o que faz o paciente comprar o tratamento.**
+  - *Argumento:* Entender o funcionamento aumenta a adesão; é o momento em que o terapeuta de TCC mais fala.
+  - *Contra quem / contraponto:* A psicoeducação vista como formalidade.
+  - *Implicação prática:* Treinar a psicoeducação e ter exemplos prontos.
+  - [[YT Avaliação Clínica 10 - Primeira sessão em TCC - o que evitar]] [▶ 0:13:30](https://www.youtube.com/watch?v=zG7e2OoxWXU&t=810s)
+- **O que torna eficaz um plano de ação é a psicoeducação que o precede, não a ferramenta.**
+  - *Argumento:* Na TCC clássica a ferramenta principal é o convencimento racional; sem explicação, o plano parece aleatório e não é feito.
+  - *Contra quem / contraponto:* O foco em colecionar técnicas para cada problema.
+  - *Implicação prática:* Sempre prefaciar o plano de ação.
+  - [[YT Avaliação Clínica 10 - Primeira sessão em TCC - o que evitar]] [▶ 0:24:37](https://www.youtube.com/watch?v=zG7e2OoxWXU&t=1477s)
+- **As TCCs são equilibradas nos três tempos; peso excessivo no passado é sinal de anamnese.**
+  - *Argumento:* O futuro (valores, objetivos) é necessário ao empirismo colaborativo, às expectativas e ao plano de ação.
+  - *Contra quem / contraponto:* O terapeuta de TCC que só pergunta sobre o passado.
+  - *Implicação prática:* Perguntar pelo que a pessoa quer, e às vezes ajudar a construir isso.
+  - [[YT Avaliação Clínica 10 - Primeira sessão em TCC - o que evitar]] [▶ 0:31:47](https://www.youtube.com/watch?v=zG7e2OoxWXU&t=1907s)
+- **'É a primeira sessão' não justifica intervenção leve: é um erro categorial.**
+  - *Argumento:* O que determina a intensidade adequada é o estágio de mudança do paciente.
+  - *Contra quem / contraponto:* Crença comum, inclusive entre clínicos experientes, de que o início pede cautela por definição.
+  - *Implicação prática:* Avaliar prontidão em vez de contar sessões.
+  - [[YT Avaliação Clínica 12 - Como funciona o instrumento de avaliação]] [▶ 0:08:52](https://www.youtube.com/watch?v=jYbUiWwmF2I&t=532s)
+- **Demonstrar o método é mais elegante do que psicoeducar explicitamente.**
+  - *Argumento:* O paciente que sente segurança não precisa ouvir que o ambiente é seguro.
+  - *Contra quem / contraponto:* Psicoeducação explícita como caminho mais fácil e válido.
+  - *Implicação prática:* Convidar à participação em vez de explicá-la.
+  - [[YT Avaliação Clínica 12 - Como funciona o instrumento de avaliação]] [▶ 0:15:39](https://www.youtube.com/watch?v=jYbUiWwmF2I&t=939s)
+- **Risco relativo sem taxa de base engana.**
+  - *Argumento:* 17% de aumento sobre base baixa continua pequeno em termos absolutos; '1/5 de quê?'.
+  - *Contra quem / contraponto:* Alan admite que a comparação com o raio foi escolhida estrategicamente e sem fonte.
+  - *Implicação prática:* Sempre converter para números absolutos antes de concluir ou comunicar.
+  - [[YT Avaliação Clínica 14 - Bacon causa câncer - O padrão-ouro da psicologia]] [▶ 0:06:52](https://www.youtube.com/watch?v=3rJ2OGfqYkQ&t=412s)
+
+## Diogo
+- **Bem-estar nunca é o objetivo do tratamento; pode ser consequência.**
+  - *Argumento:* É abstrato; muitas mudanças necessárias (comunicação, instalar culpa em organização psicopática) não produzem bem-estar.
+  - *Contra quem / contraponto:* Participante que via o bem-estar como meta; ACP (autenticidade acima do bem-estar); TCC (operacionalizar bem-estar).
+  - *Implicação prática:* Definir metas por mudança funcional ou valor.
+  - [[Alan 04 - Cosmovisão e clínica 1]] [▶ 1:05:24](https://www.youtube.com/watch?v=jCe-4OOwuxA&t=3924s)
+- **Descrever pacientes por variáveis centrais é útil para comunicar, mas produz estereótipos.**
+  - *Argumento:* A descrição rápida leva a suposições erradas ou simplistas (exemplo racial).
+  - *Contra quem / contraponto:* A supervisão que começa pelo rótulo (queixa, transtorno, demografia).
+  - *Implicação prática:* Checar a pertinência de cada variável e individualizar decisões.
+  - [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]] [▶ 0:04:59](https://www.youtube.com/watch?v=LnSuu9hHx0Q&t=299s)
+- **A metáfora não é só uma explicação racional: ela coloca o paciente em contato com a experiência.**
+  - *Argumento:* O exemplo da máscara mostra que a pessoa viveu a dificuldade, em vez de ouvir sobre ela; a carga emocional das imagens (como a da música) ativa outras vias e fixa a memória.
+  - *Contra quem / contraponto:* Uma clínica apenas explicativa e argumentativa.
+  - *Implicação prática:* Usar metáforas para mobilizar afeto, não só para esclarecer.
+  - [[Acervo 12 - Funções da metáfora na clínica]] [▶ 0:17:37](https://www.youtube.com/watch?v=fMgJtaQ_Rqk&t=1057s)
+- **A metáfora pode servir à resistência, e não só vencê-la.**
+  - *Argumento:* Ela pode ser um escape do inconsciente e, ao mesmo tempo, uma readaptação da resistência, que mantém o conteúdo lá dentro de forma figurada; ou pode ser apenas o estilo de comunicação da pessoa.
+  - *Contra quem / contraponto:* A visão ingênua de que toda metáfora é uma porta aberta ao inconsciente.
+  - *Implicação prática:* Testar com perguntas complementares antes de interpretar.
+  - [[Acervo 12 - Funções da metáfora na clínica]] [▶ 0:48:59](https://www.youtube.com/watch?v=fMgJtaQ_Rqk&t=2939s)
+- **A metáfora do paciente também fala do terapeuta.**
+  - *Argumento:* A quantidade de leituras que uma frase gera mostra que a metáfora pega o lado emotivo do clínico; essas fantasias são produto da relação e dado de formulação, mas não podem virar certeza.
+  - *Contra quem / contraponto:* 'Nossas fantasias a gente resolve na nossa análise': Diogo concorda que a sessão não é lugar para o terapeuta se analisar, mas diz que as fantasias são dado clínico.
+  - *Implicação prática:* Separar o que é hipótese do terapeuta do que é fala do paciente; perguntar antes de intervir.
+  - [[Acervo 12 - Funções da metáfora na clínica]] [▶ 0:51:53](https://www.youtube.com/watch?v=fMgJtaQ_Rqk&t=3113s)
+- **A escolha da metáfora deve ser precisa e subordinada ao objetivo clínico.**
+  - *Argumento:* Como as funções agem juntas, o terapeuta precisa eleger a principal e escolher a imagem que a sirva; uma figura adequada para determinação pode ser inadequada para tristeza e luto.
+  - *Contra quem / contraponto:* Uso de metáforas prontas e genéricas.
+  - *Implicação prática:* Ter repertório e critério; antes de falar, perguntar para que serve a metáfora.
+  - [[Acervo 12 - Funções da metáfora na clínica]] [▶ 1:13:39](https://www.youtube.com/watch?v=fMgJtaQ_Rqk&t=4419s)
+- **A metáfora de vigília e o sonho diferem pelo grau de participação da consciência.**
+  - *Argumento:* O sonho tem presença maior do inconsciente; a metáfora dita acordado passa por mecanismos conscientes que podem bloquear conteúdos, mas ainda tem potencial de acesso por via parecida.
+  - *Contra quem / contraponto:* Tratar toda metáfora como se fosse um sonho.
+  - *Implicação prática:* Aplicar a amplificação à metáfora com mais cautela e em escala menor.
+  - [[Acervo 12 - Funções da metáfora na clínica]] [▶ 1:11:12](https://www.youtube.com/watch?v=fMgJtaQ_Rqk&t=4272s)
+- **A intervenção movida pelo incômodo pode ter a função de calar o paciente.**
+  - *Argumento:* O terapeuta tem muito poder sobre o discurso ao validar ou não; sob incômodo, pode virar 'controlador'.
+  - *Contra quem / contraponto:* Às vezes provocar dá gás ao próprio paciente; não se trata de validar tudo.
+  - *Implicação prática:* Perguntar-se pela função de cada intervenção.
+  - [[Acervo 14 - Crenças e valores divergentes entre paciente e terapeuta]] [▶ 0:39:42](https://www.youtube.com/watch?v=bXV1SNFM4zc&t=2382s)
+- **Um duelo de abordagens não é rivalidade, é composição.**
+  - *Argumento:* Como no duelo de violeiros e no carimbó, a disputa entre duas partes produz um movimento maior e mais bonito para quem assiste.
+  - *Contra quem / contraponto:* A leitura competitiva de 'duelo', que de fato levou um terapeuta a não cooperar.
+  - *Implicação prática:* Os terapeutas podem e devem articular as intervenções; o valor está no contraste e na convergência.
+  - [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 0:00:04](https://www.youtube.com/watch?v=n1iu-W8ujac&t=4s)
+- **Poucas intervenções não obrigam a ser diretivo; dá para aprofundar muito com três perguntas.**
+  - *Argumento:* A qualidade da informação (o funcionamento do paciente) supera a quantidade de dados.
+  - *Contra quem / contraponto:* O terapeuta que, com três perguntas, preferiu ser pragmático; Diogo concede que em plantão não se deve abrir o que não se pode fechar.
+  - *Implicação prática:* Em contextos de pouco tempo, priorize perguntas sobre o funcionamento.
+  - [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 0:56:55](https://www.youtube.com/watch?v=n1iu-W8ujac&t=3415s)
+- **Trabalhar expectativas no começo é legítimo; 'presente antes do futuro' não é regra.**
+  - *Argumento:* Com Epicteto, o que nos perturba são as perspectivas sobre as coisas; expectativas revelam a visão de mundo, de si e do contexto.
+  - *Contra quem / contraponto:* A terapeuta de psicanálise, que só perguntaria pelo futuro depois de conhecer o presente; Diogo reconhece que a posição faz sentido por certa ótica.
+  - *Implicação prática:* Usar perguntas sobre o futuro como via de acesso, sobretudo com pacientes presos no sofrimento.
+  - [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 1:01:22](https://www.youtube.com/watch?v=n1iu-W8ujac&t=3682s)
+- **Pergunta aberta nem sempre é melhor; às vezes é preciso estruturar antes de abrir.**
+  - *Argumento:* Um paciente rígido ou perdido precisa de estrutura para responder: um passo para trás para dar dois para frente.
+  - *Contra quem / contraponto:* A preferência usual pela pergunta aberta, para não enviesar o discurso, que Diogo reconhece como válida em geral.
+  - *Implicação prática:* Use uma pergunta fechada seguida de 'quando?' ou 'como?'.
+  - [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 1:11:02](https://www.youtube.com/watch?v=n1iu-W8ujac&t=4262s)
+- **O fim da sessão deve encaminhar para a próxima, não apenas conferir o entendimento.**
+  - *Argumento:* Uma checagem final não dá ênfase; o fechamento deve criar um movimento que continue fora da sessão.
+  - *Contra quem / contraponto:* Encerrar com 'é isso?'.
+  - *Implicação prática:* Encerrar com uma conclusão, uma nomeação ou uma pergunta para levar para a semana.
+  - [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] [▶ 1:19:18](https://www.youtube.com/watch?v=n1iu-W8ujac&t=4758s)
+- **O bom timing inclui o estágio de mudança e nem sempre é agradável.**
+  - *Argumento:* Intervenções necessárias podem ser desconfortáveis; confrontos fora do estágio são inúteis.
+  - *Contra quem / contraponto:* Timing entendido só como o momento do insight prazeroso; Diogo nota que o livro não trata dos estágios de mudança.
+  - *Implicação prática:* Avaliar a prontidão sem evitar o desconforto necessário.
+  - [[Acervo 17 - Fracasso clínico e seus fatores associados]] [▶ 0:33:34](https://www.youtube.com/watch?v=DYU5QdBDs1k&t=2014s)
+- **Entre investigar o concreto e nomear a discrepância, nenhuma intervenção é melhor em si.**
+  - *Argumento:* Partem de pressupostos diferentes sobre o paciente e exigem habilidades diferentes; cada uma tem ganhos e riscos.
+  - *Contra quem / contraponto:* Busca da intervenção certa.
+  - *Implicação prática:* Escolher pelo perfil, pela consciência e pelo estágio do paciente.
+  - [[Acervo 23 - Comunicação não verbal na clínica]] [▶ 0:47:34](https://www.youtube.com/watch?v=MHBD5THDIXE&t=2854s)
+- **A questão não é ser direto ou indireto, mas qual efeito a pergunta produz como estímulo.**
+  - *Argumento:* A pergunta é estímulo antecedente e comunica mais que o conteúdo; em resistência, perguntas diretas não adiantam.
+  - *Contra quem / contraponto:* Medo generalizado de perguntas diretas baseado em experiências pessoais.
+  - *Implicação prática:* Analisar a função da pergunta para aquele paciente.
+  - [[Acervo 23 - Comunicação não verbal na clínica]] [▶ 0:51:36](https://www.youtube.com/watch?v=MHBD5THDIXE&t=3096s)
+- **Comunicação não verbal é muito mais do que sobrancelha ou sorriso: aponta para um momento clínico e para demandas.**
+  - *Argumento:* A discrepância revela processos não manifestos em palavras e pode atravessar outros relatos.
+  - *Contra quem / contraponto:* Leitura pontual e decodificadora de gestos.
+  - *Implicação prática:* Integrar o não verbal à formulação e à priorização.
+  - [[Acervo 23 - Comunicação não verbal na clínica]] [▶ 1:07:53](https://www.youtube.com/watch?v=MHBD5THDIXE&t=4073s)
+- **A linguagem da intervenção deve ser escolhida pela função clínica.**
+  - *Argumento:* Dificuldades aparentemente iguais ('não fui claro') têm naturezas diferentes (vocabulário, clareza, reflexão) e pedem soluções diferentes; a mesma frase pode ser boa para uma função e péssima para outra.
+  - *Contra quem / contraponto:* Melhorar a comunicação como um 'falar melhor' genérico; Diogo reconhece a parte comum (treino, reescolha de palavras).
+  - *Implicação prática:* Antes de treinar a frase, identificar o objetivo da intervenção.
+  - [[Acervo 25 - Linguagem clínica e função da intervenção]] [▶ 0:20:58](https://www.youtube.com/watch?v=gVE5nBobukU&t=1258s)
+- **O terapeuta não precisa sustentar a máscara de quem nunca erra.**
+  - *Argumento:* Corrigir-se mantém a intervenção necessária e oferece um modelo relacional seguro ('errei, corrigi, está tudo bem'), valioso para perfeccionistas.
+  - *Contra quem / contraponto:* Deixar o mal-entendido correr para se proteger (esquiva do terapeuta).
+  - *Implicação prática:* Autocorreção explícita e simples.
+  - [[Acervo 25 - Linguagem clínica e função da intervenção]] [▶ 0:37:46](https://www.youtube.com/watch?v=gVE5nBobukU&t=2266s)
+- **Um mal-entendido do paciente pode ser dado clínico, não só erro de comunicação.**
+  - *Argumento:* Com uma paciente muito falante, entender 'com o corpo' em vez de 'no corpo' pode ser um desvio do contato com o que sente.
+  - *Contra quem / contraponto:* O próprio Diogo pondera: só quatro sessões, é hipótese; e não se deve psicologizar tudo.
+  - *Implicação prática:* Registrar a hipótese e testá-la ao longo das sessões.
+  - [[Acervo 25 - Linguagem clínica e função da intervenção]] [▶ 0:25:01](https://www.youtube.com/watch?v=gVE5nBobukU&t=1501s)
+- **Passado e presente só se separam no papel; na clínica real as intervenções se misturam o tempo todo.**
+  - *Argumento:* Todo relato sobre o passado é relato presente, atravessado pelas percepções de hoje; o trauma é significado depois do ato.
+  - *Contra quem / contraponto:* O estereótipo 'psicanálise = passado, TCC = presente'.
+  - *Implicação prática:* Não se prender à dicotomia, mas saber a que tempo a intervenção serve.
+  - [[Monitoria 11 - Diogo - Tempo clínico, passado e presente]] [▶ 0:42:22](https://www.youtube.com/watch?v=Kh72CJPufBs&t=2542s)
+- **Todo clínico tem uma preferência temporal, que não se reduz à abordagem, e conhecê-la amplia a atuação.**
+  - *Argumento:* Filtrando o essencial (poucas perguntas), a tendência aparece; sabendo dela, pode-se usá-la a favor.
+  - *Contra quem / contraponto:* A ideia de que a abordagem determina tudo ou de que o viés deve ser eliminado.
+  - *Implicação prática:* Treinar a autopercepção das próprias escolhas, muitas vezes feitas 'na intuição'.
+  - [[Monitoria 11 - Diogo - Tempo clínico, passado e presente]] [▶ 1:17:10](https://www.youtube.com/watch?v=Kh72CJPufBs&t=4630s)
+- **A preferência se define pela função clínica da intervenção, não pelo tempo gramatical da pergunta.**
+  - *Argumento:* Quem pergunta sobre o presente para que o paciente chegue sozinho à origem tem, funcionalmente, preferência pela origem.
+  - *Contra quem / contraponto:* A participante que se via como mesclando os tempos.
+  - *Implicação prática:* Avaliar intervenções pelo direcionamento, não pela superfície.
+  - [[Monitoria 11 - Diogo - Tempo clínico, passado e presente]] [▶ 0:51:39](https://www.youtube.com/watch?v=Kh72CJPufBs&t=3099s)
+- **Limitar a quantidade de respostas é um recurso didático para expor o viés.**
+  - *Argumento:* Com muitas perguntas tudo se mistura; com três, é preciso escolher a essência.
+  - *Contra quem / contraponto:* Exercícios abertos demais.
+  - *Implicação prática:* Em formação, restringir para revelar.
+  - [[Monitoria 11 - Diogo - Tempo clínico, passado e presente]] [▶ 1:16:06](https://www.youtube.com/watch?v=Kh72CJPufBs&t=4566s)
+- **Espelho, em geral, é melhor do que psicoeducação.**
+  - *Argumento:* A psicoeducação explica um fenômeno de fora; o espelho devolve ao paciente o que o terapeuta vê e o convida a se olhar.
+  - *Contra quem / contraponto:* A justificativa do monitorado de que cabia psicoeducação sobre a atitude do paciente.
+  - *Implicação prática:* Preferir devolutivas sobre o modo de estar do paciente a explicações genéricas.
+  - [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] [▶ 0:31:01](https://www.youtube.com/watch?v=zwWy-So8fk8&t=1861s)
+- **A força da metáfora está em ampliar o repertório do paciente, não em transmitir a mensagem do terapeuta.**
+  - *Argumento:* A imagem abre associações do paciente; explicada logo em seguida, fecha-se.
+  - *Contra quem / contraponto:* A metáfora explicativa usada pelo monitorado.
+  - *Implicação prática:* Oferecer a metáfora e esperar o que o paciente faz com ela.
+  - [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] [▶ 0:34:21](https://www.youtube.com/watch?v=zwWy-So8fk8&t=2061s)
+- **Intervenções longas com recursos de funções diferentes correm o risco da imprecisão.**
+  - *Argumento:* Metáfora expande, espelho foca; os efeitos podem concorrer e o paciente não segue todos.
+  - *Contra quem / contraponto:* Diogo ressalva que não critica o tamanho genericamente e que na clínica as coisas são mistas.
+  - *Implicação prática:* Intervenções mais curtas para direcionar o foco.
+  - [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] [▶ 0:37:15](https://www.youtube.com/watch?v=zwWy-So8fk8&t=2235s)
+- **Uma intervenção deve ser avaliada pela intenção, não só por produzir algum efeito aproveitável.**
+  - *Argumento:* O paciente pode entrar num jogo diferente do proposto; o resultado não é ruim, mas o objetivo se perde.
+  - *Contra quem / contraponto:* A intervenção coringa, que sempre acerta alguma coisa.
+  - *Implicação prática:* Formular a intenção antes e verificar na resposta seguinte.
+  - [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] [▶ 0:43:37](https://www.youtube.com/watch?v=zwWy-So8fk8&t=2617s)
+- **Quando o paciente demonstra resistência, essa é a primeira hipótese a considerar.**
+  - *Argumento:* Desviar e devolver a pergunta ao terapeuta tem fundamento como sinal de um ponto que ele não quer tocar.
+  - *Contra quem / contraponto:* Continua sendo hipótese, a ser verificada.
+  - *Implicação prática:* Registrar e testar, sem confrontar prematuramente.
+  - [[Monitoria 12 - Diogo - Forma do discurso e intervenções longas]] [▶ 0:27:56](https://www.youtube.com/watch?v=zwWy-So8fk8&t=1676s)
+- **O confronto pode reproduzir a invalidação que o paciente vive fora.**
+  - *Argumento:* Por generalização, o terapeuta é mais uma audiência; se os outros provocam e invalidam, a provocação terapêutica pode ser vivida do mesmo modo.
+  - *Contra quem / contraponto:* A estratégia de encher o saco do paciente para tirá-lo do personagem, que funcionou com outro paciente do monitorado.
+  - *Implicação prática:* Investigar como o paciente vive as provocações dos outros antes de insistir no confronto.
+  - [[Monitoria 13 - Diogo - Criatividade clínica entre abordagens]] [▶ 0:59:15](https://www.youtube.com/watch?v=rFd2HjdymmM&t=3555s)
+- **A terapia ocupa 1 das 168 horas da semana; sem ação do paciente nas outras 167, a intervenção pouco vale.**
+  - *Argumento:* A maior parte da vida do paciente está fora do alcance direto do terapeuta, ao contrário de um acompanhamento terapêutico.
+  - *Contra quem / contraponto:* A ideia de que a mudança se resolve dentro da sessão.
+  - *Implicação prática:* A responsabilização e a implicação do paciente são condição de eficácia.
+  - [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] [▶ 0:11:58](https://www.youtube.com/watch?v=stE9kieufdg&t=718s)
+- **Toda intervenção movimenta algo no paciente, em qualquer abordagem; cada uma lê de um jeito o que é movimentado.**
+  - *Argumento:* A forma da intervenção (fato, pergunta, foco na exceção) tem efeitos próprios, além do conteúdo.
+  - *Contra quem / contraponto:* Avaliar a intervenção só pelo acerto do conteúdo.
+  - *Implicação prática:* Escolher conscientemente o grau de abertura.
+  - [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] [▶ 0:23:17](https://www.youtube.com/watch?v=stE9kieufdg&t=1397s)
+- **O óbvio funciona como espelho: útil, mas entrega a resposta e pode interromper o pensamento do paciente.**
+  - *Argumento:* Ninguém vai ao espelho para refletir, vai para resolver; a intervenção aberta treina o paciente a concluir por si.
+  - *Contra quem / contraponto:* O óbvio tem lugar com pacientes resistentes às próprias emoções.
+  - *Implicação prática:* Dosar: o óbvio é recurso pontual, não postura.
+  - [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] [▶ 0:25:21](https://www.youtube.com/watch?v=stE9kieufdg&t=1521s)
+- **Com pacientes passivos, intervenções abertas e projetivas são preferíveis às óbvias.**
+  - *Argumento:* O paciente coloca o terapeuta no lugar de quem dá respostas; o óbvio confirma esse lugar, ele delega o pensar e depois pode dizer que nem a terapia adiantou.
+  - *Contra quem / contraponto:* O terapeuta 'esclarecedor', que devolve conclusões prontas.
+  - *Implicação prática:* Formular de modo que a conclusão fique com o paciente.
+  - [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] [▶ 0:28:56](https://www.youtube.com/watch?v=stE9kieufdg&t=1736s)
+- **A exceção ao padrão é o ponto mais potente de intervenção quando o paciente repete uma tese sobre si.**
+  - *Argumento:* Intervir no que se repete é 'chover no molhado'; a exceção abre algo fora do campo de visão do paciente e quebra a lógica sem confronto.
+  - *Contra quem / contraponto:* Responder ao conteúdo dominante ou à racionalização.
+  - *Implicação prática:* Procurar ativamente, em cada fala, o momento que foge do padrão.
+  - [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] [▶ 0:18:54](https://www.youtube.com/watch?v=stE9kieufdg&t=1134s)
+- **Se o mesmo padrão aparece em todos os contextos da vida, o denominador comum é o paciente.**
+  - *Argumento:* 'Não é possível que o mundo inteiro esteja errado e você não seja o problema'; Diogo diz que não fala assim com o paciente porque é duro demais, mas é essa lógica que guia a pergunta 'onde mais isso aparece?'.
+  - *Contra quem / contraponto:* O discurso que atribui tudo ao ambiente.
+  - *Implicação prática:* Usar a generalização entre contextos como responsabilização indireta.
+  - [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] [▶ 0:42:54](https://www.youtube.com/watch?v=stE9kieufdg&t=2574s)
+- **A monitoria pode ter tema aberto, que emerge do caso, em vez de tema pré-definido.**
+  - *Argumento:* O tema pode vir das dificuldades trazidas pelo monitorado ou dos pontos fortes e fracos que o monitor observar.
+  - *Contra quem / contraponto:* O formato anterior do próprio Diogo, com um tema por monitoria.
+  - *Implicação prática:* Aqui o tema emergente foi a linguagem (forma e conteúdo), registrado no chat.
+  - [[Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias]] [▶ 0:00:07](https://www.youtube.com/watch?v=stE9kieufdg&t=7s)
+- **Se o problema aparece em todos os ambientes, ele provavelmente está em algo que a pessoa faz ou deixa de fazer.**
+  - *Argumento:* Leitura comportamental da recorrência.
+  - *Contra quem / contraponto:* A explicação da paciente de que os outros é que são incompetentes.
+  - *Implicação prática:* Verificar a generalidade e as exceções antes de uma intervenção forte.
+  - [[Monitoria 16 - Diogo - Autenticidade e ser verdadeiro na clínica]] [▶ 0:18:28](https://www.youtube.com/watch?v=LSaS_1EaQzY&t=1108s)
+- **O argumento da TCC para perguntas diretivas (entender completamente o caso) é 'um pouco raso'.**
+  - *Argumento:* Dá para entender completamente o caso com perguntas abertas, e a construção do paciente é melhor que a direção pela hipótese do terapeuta.
+  - *Contra quem / contraponto:* A TCC; o próprio Diogo reconhece a exceção do risco de suicídio.
+  - *Implicação prática:* Reservar a diretividade para prioridades e hipóteses fortes.
+  - [[Monitoria 17 - Diogo - Perguntas abertas, hipótese e movimento clínico]] [▶ 0:18:39](https://www.youtube.com/watch?v=4I-WY_26yuw&t=1119s)
+- **Na clínica, comunicação não é só transmissão de informação; é construção de contexto.**
+  - *Argumento:* Pela fala, a terapeuta cria um ambiente em que a paciente experimenta emoções de outro modo, e é isso que permite a mudança fora da sessão.
+  - *Contra quem / contraponto:* A definição simplista (informar com um objetivo) dada pelo próprio Diogo no início.
+  - *Implicação prática:* Avaliar cada fala pelo ambiente que ela cria, não só pelo conteúdo.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 0:28:44](https://www.youtube.com/watch?v=spFIOJh7XzE&t=1724s)
+- **Comunicação clínica exige mecanismos de avaliação.**
+  - *Argumento:* A intenção de uma fala nem sempre é atingida; sem critério, não há como revê-la.
+  - *Implicação prática:* Definir de antemão o que indicaria sucesso (CRBs, compreensão firme numa psicoeducação).
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 0:43:27](https://www.youtube.com/watch?v=spFIOJh7XzE&t=2607s)
+- **A retórica aristotélica é uma ferramenta útil para analisar o discurso de paciente e terapeuta.**
+  - *Argumento:* Ambos os discursos são atravessados por ethos, pathos e logos; pensar no efeito principal ajuda a escolher a intervenção.
+  - *Contra quem / contraponto:* Em parte não controlamos essas dimensões, e na prática elas vêm juntas.
+  - *Implicação prática:* Diagnosticar o que falta ao paciente (afeto ou raciocínio) e ajustar o tom.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 0:48:18](https://www.youtube.com/watch?v=spFIOJh7XzE&t=2898s)
+- **Psicoeducação não é só transmissão de informação.**
+  - *Argumento:* Atua no logos, mas também é uma forma de o paciente pensar e analisar a própria vida.
+  - *Implicação prática:* Avaliar a psicoeducação pela apropriação do paciente.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 0:50:39](https://www.youtube.com/watch?v=spFIOJh7XzE&t=3039s)
+- **O terapeuta não deve retomar a sessão anterior na abertura.**
+  - *Argumento:* O paciente traz o que é de hoje; se quiser continuar o tema anterior, decide ele, e o terapeuta não enviesa.
+  - *Contra quem / contraponto:* Terapeutas que abrem retomando a semana passada.
+  - *Implicação prática:* Abrir com uma pergunta aberta sobre o que o paciente traz.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 1:02:06](https://www.youtube.com/watch?v=spFIOJh7XzE&t=3726s)
+- **A mesma frase dita com outra ênfase é outra intervenção.**
+  - *Argumento:* A entonação muda o sentido e, portanto, a direção da resposta.
+  - *Implicação prática:* Escolher conscientemente a palavra acentuada nas perguntas-chave.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 1:03:21](https://www.youtube.com/watch?v=spFIOJh7XzE&t=3801s)
+- **Uma boa pergunta vale por muitas.**
+  - *Argumento:* Além do conteúdo, revela nível de consciência, elaboração, associações e prioridade.
+  - *Implicação prática:* Formular perguntas abertas e curtas e ouvir além do explícito.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 1:11:11](https://www.youtube.com/watch?v=spFIOJh7XzE&t=4271s)
+- **Às vezes não comunicar certas coisas é mais útil do que comunicá-las.**
+  - *Argumento:* Com uma paciente que se molda ao terapeuta, dizer o que seria bom induz a adaptação; calar permite um movimento próprio.
+  - *Implicação prática:* Avaliar a cada momento o que pode e o que não pode ser dito.
+  - [[Monitoria 18 - Diogo - Usos da comunicação na clínica]] [▶ 0:15:25](https://www.youtube.com/watch?v=spFIOJh7XzE&t=925s)
+- **A empatia também se demonstra pela fala, e isso costuma ser esquecido.**
+  - *Argumento:* No atendimento escrito não há feedback visual; a empatia aparece no modo de construir as falas.
+  - *Contra quem / contraponto:* Reduzir empatia a validação emocional.
+  - *Implicação prática:* Avaliar as intervenções pela compreensão que demonstram.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 0:21:47](https://www.youtube.com/watch?v=ju1ShOijRrg&t=1307s)
+- **Confrontar a defesa pode reforçá-la.**
+  - *Argumento:* A defesa é forma de se relacionar que funciona na vida do paciente; tirá-la pode desampará-lo ou fazê-lo se defender mais.
+  - *Contra quem / contraponto:* A lógica de 'se ele chega defendido, preciso quebrar a defesa'.
+  - *Implicação prática:* Buscar outras formas de comunicar que as coisas podem ser diferentes.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 0:53:10](https://www.youtube.com/watch?v=ju1ShOijRrg&t=3190s)
+- **Trabalhar no implícito pode ser melhor do que no explícito.**
+  - *Argumento:* Metacomunicar trabalha com o saber; mudar a forma põe outra maneira em jogo sem dar ao paciente a chance de controlar e resistir.
+  - *Contra quem / contraponto:* Reconhece a via explícita como possibilidade válida.
+  - *Implicação prática:* Variar a forma das intervenções como ferramenta de comunicação.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 1:16:38](https://www.youtube.com/watch?v=ju1ShOijRrg&t=4598s)
+- **O 'caso clínico de livro' não existe na prática.**
+  - *Argumento:* Pacientes raramente chegam com o discurso pronto, e a resistência não se resolve numa intervenção.
+  - *Implicação prática:* Formar expectativas realistas para a chegada dos primeiros pacientes.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 0:10:32](https://www.youtube.com/watch?v=ju1ShOijRrg&t=632s)
+- **Separar demais a terapia do mundo pode impedir a generalização.**
+  - *Argumento:* O paciente pode mudar só na sessão, para agradar, e continuar igual fora.
+  - *Contra quem / contraponto:* Diogo concorda que o ambiente diferente é necessário, mas questiona apontar a diferença como solução (saber não é fazer).
+  - *Implicação prática:* Conectar dentro e fora com perguntas sobre a vida, não com explicações.
+  - [[Monitoria 19 - Diogo - Empatia com paciente resistente]] [▶ 0:57:52](https://www.youtube.com/watch?v=ju1ShOijRrg&t=3472s)
+- **Aprofundar é ir além do literal e construir significados que o discurso não diz explicitamente.**
+  - *Argumento:* O paciente afirma coisas por razões que a afirmação não mostra; perguntar pela necessidade da frase abre várias leituras.
+  - *Contra quem / contraponto:* A leitura rasa, que toma a fala ao pé da letra.
+  - *Implicação prática:* Diante de cada fala, levantar mais de uma leitura antes de intervir.
+  - [[Monitoria 20 - Diogo - Aprofundamento na análise de atendimento simulado]] [▶ 0:10:35](https://www.youtube.com/watch?v=92xFTaRaDYg&t=635s)
+- **No início do atendimento, perguntas abertas e únicas são superiores a perguntas fechadas ou múltiplas.**
+  - *Argumento:* Com pouco material nenhuma hipótese está comprovada; a pergunta aberta traz o previsto e o imprevisto, e a múltipla dispersa a resposta.
+  - *Contra quem / contraponto:* As intervenções da terapeuta do registro, que juntam perguntas ou pressupõem a resposta.
+  - *Implicação prática:* Treinar a formulação de uma única pergunta aberta por vez.
+  - [[Monitoria 20 - Diogo - Aprofundamento na análise de atendimento simulado]] [▶ 0:27:45](https://www.youtube.com/watch?v=92xFTaRaDYg&t=1665s)
+- **Na clínica é melhor falar em 'possibilidades diferentes' do que em certo e errado, mas o resultado precisa ser avaliado.**
+  - *Argumento:* As escolhas dependem do contexto e da preferência do profissional; o critério que resta é se a intervenção produziu bom resultado.
+  - *Contra quem / contraponto:* Avaliação dicotômica das intervenções. A monitorada concorda: 'erro e acerto é muito relativo'.
+  - *Implicação prática:* Na supervisão, avaliar pela consequência e pelo raciocínio, não por um gabarito.
+  - [[Monitoria 20 - Diogo - Aprofundamento na análise de atendimento simulado]] [▶ 0:55:18](https://www.youtube.com/watch?v=92xFTaRaDYg&t=3318s)
+- **Frases que antecipam o estado do paciente funcionam como pseudo-diagnóstico.**
+  - *Argumento:* O paciente pode se pautar na fala do terapeuta ('foi o que a doutora falou') e perder a chance de dizer o que sente.
+  - *Contra quem / contraponto:* Diogo ressalva que o risco depende do paciente.
+  - *Implicação prática:* Evitar comentários como 'às vezes a gente se sente perdido' no início.
+  - [[Monitoria 20 - Diogo - Aprofundamento na análise de atendimento simulado]] [▶ 0:34:51](https://www.youtube.com/watch?v=92xFTaRaDYg&t=2091s)
+- **Toda intervenção deve ter uma função; não há intervenção vazia.**
+  - *Argumento:* Diante de muitas possibilidades, só a intenção permite escolher; sem objetivo, a sessão vira uma conversa qualquer.
+  - *Contra quem / contraponto:* A intervenção por fazer. Diogo afasta o sentido estritamente comportamental de 'função'.
+  - *Implicação prática:* Explicitar o objetivo de cada intervenção na supervisão.
+  - [[Monitoria 21 - Diogo - Sete passos da tomada de decisão clínica]] [▶ 0:08:47](https://www.youtube.com/watch?v=vzdTMHyqipM&t=527s)
+- **Falar em decisão, eficácia e resultado não é 'papo de coach'.**
+  - *Argumento:* Decidir é necessário a vários processos e a toda abordagem.
+  - *Contra quem / contraponto:* A desconfiança de que o vocabulário soe mercadológico; Diogo convida o grupo a sugerir outros nomes.
+  - *Implicação prática:* Adotar a linguagem sem importar a lógica do coaching.
+  - [[Monitoria 21 - Diogo - Sete passos da tomada de decisão clínica]] [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s)
+
+## João de Bragança
+- **Em terapia, pequenas frases importam muito porque dirigem a relação.**
+  - *Argumento:* 'Agora você está chegando perto do que eu digo' põe o paciente a serviço da compreensão do terapeuta e define 'onde é o chão'.
+  - *Contra quem / contraponto:* A objeção de que seria 'tempestade em copo d'água'.
+  - *Implicação prática:* A supervisão deve olhar microfalas, não só grandes intervenções.
+  - [[Monitoria 06 - João de Bragança - Critérios de uma terapia ruim]] [▶ 0:17:26](https://www.youtube.com/watch?v=9QbVz3nle0E&t=1046s)
+- **O terapeuta não controla a sessão: é responsável pelos próprios afetos.**
+  - *Argumento:* Metáfora do xamã que cura a si mesmo; o afeto rebaixa a consciência e leva a reações primitivas.
+  - *Contra quem / contraponto:* A ideia de 'estar no controle da situação'.
+  - *Implicação prática:* Monitorar complexos e afetos em tempo real, inclusive pelo corpo.
+  - [[Monitoria 07 - João de Bragança - Limites do terapeuta e confronto]] [▶ 0:18:44](https://www.youtube.com/watch?v=zsZasKwhGLI&t=1124s)
+- **O diagnóstico psicológico, preconceito do terapeuta, é uma ferramenta a ser explicitada, não suprimida.**
+  - *Argumento:* Revela a postura do terapeuta frente ao caso; suprimido, age 'pelas costas'.
+  - *Contra quem / contraponto:* A ideia de que o terapeuta simplesmente não deve ter preconceitos; a confusão com o diagnóstico nosográfico.
+  - *Implicação prática:* Na supervisão, perguntar 'qual o problema de ele ser isso para você?'.
+  - [[Monitoria 07 - João de Bragança - Limites do terapeuta e confronto]] [▶ 0:26:43](https://www.youtube.com/watch?v=zsZasKwhGLI&t=1603s)
+- **A psicoterapia é o único espaço de saúde em que o pior do paciente vira material de trabalho.**
+  - *Argumento:* No dentista, no médico ou no nutricionista, um gesto invasivo dá 'denúncia na certa'; o psicólogo pode perguntar 'de onde veio isso?'.
+  - *Contra quem / contraponto:* A posição de que o único caminho seria interromper e denunciar.
+  - *Implicação prática:* Considerar transformar o ato em intervenção, sem abrir mão de pôr limite.
+  - [[Monitoria 07 - João de Bragança - Limites do terapeuta e confronto]] [▶ 0:25:29](https://www.youtube.com/watch?v=zsZasKwhGLI&t=1529s)
+- **O bom psicólogo se reconhece pela forma como reage a ser questionado.**
+  - *Argumento:* Quem gosta de confrontar mas não suporta ser confrontado se revela quando o paciente diz que não sabe se ele é bom.
+  - *Contra quem / contraponto:* Avaliar o terapeuta só pelo conforto que proporciona.
+  - *Implicação prática:* Acolher o questionamento como feedback clínico.
+  - [[Monitoria 07 - João de Bragança - Limites do terapeuta e confronto]] [▶ 0:53:58](https://www.youtube.com/watch?v=zsZasKwhGLI&t=3238s)
+- **A teoria é uma forma justa de limitar o próprio terapeuta.**
+  - *Argumento:* A personalidade inclui moral e gostos que podem ser danosos ou inúteis; o método protege o paciente dos desejos do terapeuta.
+  - *Contra quem / contraponto:* O terapeuta que 'tira coisas do próprio rabo'; a valorização de sentimentos e valores na clínica, que é legítima mas precisa de limite.
+  - *Implicação prática:* Diante de um impulso de intervir, perguntar se o próprio referencial o autoriza.
+  - [[Monitoria 08 - João de Bragança - MAPA e o papel do paciente]] [▶ 0:44:58](https://www.youtube.com/watch?v=WDkH3mWKmew&t=2698s)
+- **'Explicar uma intervenção implícita tira sua potência' é uma regra arbitrária.**
+  - *Argumento:* Uma intervenção pode agir no momento e ser retomada depois para ensinar o funcionamento do paciente; só algumas (a ironia) perdem força quando explicadas.
+  - *Contra quem / contraponto:* Uma máxima ouvida em supervisão por um participante.
+  - *Implicação prática:* Decidir caso a caso pelo critério 'explicar melhora ou não?'.
+  - [[Monitoria 08 - João de Bragança - MAPA e o papel do paciente]] [▶ 0:31:11](https://www.youtube.com/watch?v=WDkH3mWKmew&t=1871s)
+- **Cada forma de acolhimento tem seu próprio limite; o bom psicólogo dinamiza entre as formas.**
+  - *Argumento:* O acolhimento caloroso e o confrontativo têm cada um o seu excesso, e o paciente não é constante.
+  - *Contra quem / contraponto:* 'Não há limite, há formas' (uma participante).
+  - *Implicação prática:* Variar a forma de acolher sessão a sessão.
+  - [[Monitoria 09 - João de Bragança - Critérios do bom psicólogo e acolhimento]] [▶ 0:45:25](https://www.youtube.com/watch?v=5F6Lw10ZfPk&t=2725s)
+- **O filme de Perls com Gloria é interessante e não um contraexemplo da Gestalt.**
+  - *Argumento:* A Gestalt não prescreve a personalidade do terapeuta; Perls desenvolveu uma prática intensamente interventiva.
+  - *Contra quem / contraponto:* Uma participante de Gestalt e seus professores, que o consideram encenado e fora do padrão.
+  - *Implicação prática:* Separar a abordagem do estilo pessoal do terapeuta.
+  - [[Monitoria 09 - João de Bragança - Critérios do bom psicólogo e acolhimento]] [▶ 0:49:45](https://www.youtube.com/watch?v=5F6Lw10ZfPk&t=2985s)
+- **O clichê bem feito não é necessariamente um erro.**
+  - *Argumento:* Muitas vezes é o mais estatístico em psicologia; quando o terapeuta tem uma questão pessoal com o caso, seguir o protocolo protege o paciente.
+  - *Contra quem / contraponto:* A autocrítica da aluna, que via o protocolar como engessado e pouco humano.
+  - *Implicação prática:* Julgar a intervenção pela justificativa e pelo contexto, não pela originalidade.
+  - [[Monitoria 10 - João de Bragança - Dor somática, resistência e hipóteses revisáveis]] [▶ 0:03:49](https://www.youtube.com/watch?v=8Ii4P31GGsU&t=229s)
+
+## Rodolfo
+- **Agressividade não é defeito; a tensão na relação pode ser o que movimenta o processo.**
+  - *Argumento:* Intervenções mais agressivas geram mais tensão, e isso pode destravar.
+  - *Contra quem / contraponto:* A ideia de que o bom terapeuta nunca tensiona.
+  - *Implicação prática:* Escolher a intensidade pelo momento, não pelo conforto do terapeuta.
+  - [[Acervo 02 - Intensidade e agressividade da intervenção]] [▶ 0:03:14](https://www.youtube.com/watch?v=SJwjDymDP7c&t=194s)
+- **Não existe intervenção certa ou errada; existe saber lidar com as consequências.**
+  - *Argumento:* Intervenções curtas, interpretativas e com saltos tensionam mais, e isso não é necessariamente ruim; o que importa é o manejo.
+  - *Contra quem / contraponto:* A avaliação de intervenções por acerto e erro.
+  - *Implicação prática:* Treinar o manejo do tensionamento junto com a construção da frase.
+  - [[Acervo 02 - Intensidade e agressividade da intervenção]] [▶ 0:49:30](https://www.youtube.com/watch?v=SJwjDymDP7c&t=2970s)
+- **Em terapia, uma afirmação também funciona como pergunta.**
+  - *Argumento:* O paciente pode discordar, e a terapia segue normalmente.
+  - *Contra quem / contraponto:* O medo de afirmar e errar diante do paciente.
+  - *Implicação prática:* Afirmar quando for útil e acolher a discordância como resposta.
+  - [[Acervo 02 - Intensidade e agressividade da intervenção]] [▶ 0:33:28](https://www.youtube.com/watch?v=SJwjDymDP7c&t=2008s)
+- **Quanto mais contexto, menos margem para interpretações diversas do paciente, e menos agressiva a intervenção.**
+  - *Argumento:* O contexto deixa claro de onde vem a pergunta; a frase curta deixa o paciente preencher o vazio.
+  - *Contra quem / contraponto:* Explicitar a hipótese com um elemento que a sustente pode aumentar a incisividade.
+  - *Implicação prática:* Dosar o contexto conforme a intensidade desejada.
+  - [[Acervo 02 - Intensidade e agressividade da intervenção]] [▶ 0:37:30](https://www.youtube.com/watch?v=SJwjDymDP7c&t=2250s)
+- **Tudo o que o clínico faz é intervenção, inclusive abrir a sessão e ficar em silêncio.**
+  - *Argumento:* A forma de receber já direciona; o silêncio também é um modo de se relacionar.
+  - *Contra quem / contraponto:* A ideia de que 'na primeira sessão não se intervém' e o medo de 'será que é hora de intervir?'.
+  - *Implicação prática:* Toda fala merece atenção, a começar pela primeira.
+  - [[Acervo 04 - Construção frasal em roleplay com pausas]] [▶ 0:13:10](https://www.youtube.com/watch?v=GCM5FpoEXXk&t=790s)
+- **'Tudo bem?' não é uma pergunta neutra.**
+  - *Argumento:* No uso brasileiro, ela já pede a resposta 'tudo bem'.
+  - *Contra quem / contraponto:* O hábito coloquial.
+  - *Implicação prática:* Preferir perguntas abertas na abertura.
+  - [[Acervo 04 - Construção frasal em roleplay com pausas]] [▶ 0:18:44](https://www.youtube.com/watch?v=GCM5FpoEXXk&t=1124s)
+- **Quanto mais potente a intervenção, mais ela tende a ser agressiva e a tensionar a relação.**
+  - *Argumento:* Frases curtas e pontuais atingem o objetivo com mais força; longas e contextualizadas amortecem.
+  - *Contra quem / contraponto:* Rodolfo ressalva que 'não é exatamente assim' sempre.
+  - *Implicação prática:* Escolher a forma conforme o quanto a relação pode ser tensionada.
+  - [[Acervo 04 - Construção frasal em roleplay com pausas]] [▶ 1:09:49](https://www.youtube.com/watch?v=GCM5FpoEXXk&t=4189s)
+- **O exercício de construção frasal é, no fundo, treino de criatividade clínica.**
+  - *Argumento:* Obriga a pensar formulações além da primeira.
+  - *Contra quem / contraponto:* Ficar preso a um repertório fixo de perguntas.
+  - *Implicação prática:* Praticar variações da mesma intervenção.
+  - [[Acervo 04 - Construção frasal em roleplay com pausas]] [▶ 0:37:45](https://www.youtube.com/watch?v=GCM5FpoEXXk&t=2265s)
+- **O corpo revela o que as palavras tentam ocultar ou minimizar.**
+  - *Argumento:* O que o paciente verbaliza nem sempre reflete o que sente. A psicossomática mostra o corpo manifestando o que está retido.
+  - *Contra quem / contraponto:* A máxima 'o corpo mente', contestada por uma participante. Ressalva do facilitador: considerar a individualidade (tiques).
+  - *Implicação prática:* Observar e usar clinicamente as discrepâncias entre fala e corpo.
+  - [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] [▶ 0:08:16](https://www.youtube.com/watch?v=IpexSTnbrGo&t=496s)
+- **Não existe intervenção errada, existe não saber lidar com as consequências dela.**
+  - *Argumento:* A mesma intervenção pode traumatizar ou transformar. Decide o manejo posterior, sobretudo conversar sobre o desconforto.
+  - *Contra quem / contraponto:* A ideia de que intervenções corporais ou confrontos são errados em si ou só permitidos com vínculo consolidado.
+  - *Implicação prática:* Arriscar mais e se preparar para trabalhar a reação do paciente.
+  - [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] [▶ 0:55:21](https://www.youtube.com/watch?v=IpexSTnbrGo&t=3321s)
+- **O terapeuta costuma ser conservador demais, e o motivo é medo, não prudência.**
+  - *Argumento:* Temos medo de confrontar e de romper vínculos. Intervenções sobre a relação e sobre o corpo exigem coragem. O facilitador usa a própria trajetória como exemplo.
+  - *Contra quem / contraponto:* A participante para quem intervenções corporais 'são mais fáceis com vínculo'.
+  - *Implicação prática:* A cautela já está presente por padrão. O treino deve empurrar para intervir, com o estágio de mudança como freio.
+  - [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] [▶ 1:04:16](https://www.youtube.com/watch?v=IpexSTnbrGo&t=3856s)
+- **O desconforto do paciente diante de uma intervenção é material clínico, não fracasso.**
+  - *Argumento:* Pode ser explorado na relação e ligado a outras áreas da vida do paciente.
+  - *Contra quem / contraponto:* O receio de que o paciente se sinta vigiado ou mal.
+  - *Implicação prática:* Em vez de evitar a intervenção, prepare a pergunta que vem depois dela.
+  - [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] [▶ 0:54:34](https://www.youtube.com/watch?v=IpexSTnbrGo&t=3274s)
+- **A diretividade deve acompanhar o estágio de mudança do paciente.**
+  - *Argumento:* Quem nega a demanda não está pronto para sugestões diretivas.
+  - *Contra quem / contraponto:* Terapeutas 'muito diretivos' em qualquer momento.
+  - *Implicação prática:* Avaliar o estágio antes de escolher entre confrontar, sugerir ou explorar.
+  - [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] [▶ 1:05:06](https://www.youtube.com/watch?v=IpexSTnbrGo&t=3906s)
+- **Trabalhar o corpo inclui o corpo do terapeuta.**
+  - *Argumento:* Gestos, voz, olhar e distância da câmera comunicam e intervêm, e o terapeuta também emite sinais involuntários.
+  - *Contra quem / contraponto:* A leitura só do corpo do paciente e o ideal de neutralidade total.
+  - *Implicação prática:* Usar o corpo de forma deliberada e observar os próprios sinais.
+  - [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] [▶ 0:43:47](https://www.youtube.com/watch?v=IpexSTnbrGo&t=2627s)
+- **Não existe intervenção errada; é questão de saber lidar com as consequências.**
+  - *Argumento:* O valor de uma intervenção depende do manejo do que ela provoca (máxima atribuída à Allos).
+  - *Contra quem / contraponto:* Listas de 'nunca faça'; o próprio facilitador admite que algumas escolhas são muito mais arriscadas.
+  - *Implicação prática:* Antes de intervir, prever reações e ter um plano para elas.
+  - [[Acervo 22 - Formas de encerrar a sessão]] [▶ 0:19:22](https://www.youtube.com/watch?v=7zGA_xgbZg8&t=1162s)
+- **Confrontar não é errado, mas com paciente resistente na primeira sessão o caminho do vínculo é muito mais seguro.**
+  - *Argumento:* É difícil confrontar sem soar agressivo e o paciente já sinalizou que romperia.
+  - *Contra quem / contraponto:* A devolutiva impositiva e, no outro extremo, a regra 'nunca confronte'.
+  - *Implicação prática:* Adiar o confronto até haver vínculo.
+  - [[Acervo 22 - Formas de encerrar a sessão]] [▶ 0:57:54](https://www.youtube.com/watch?v=7zGA_xgbZg8&t=3474s)
+
+## Gabriel
+- **A qualidade da intervenção vai além da interpretação.**
+  - *Argumento:* Ler e priorizar corretamente 'tem muito mais a ver com interpretação'; uma boa intervenção inclui ferramentário, manejo dele e manejo das consequências.
+  - *Contra quem / contraponto:* A ideia de que basta acertar a leitura do caso.
+  - *Implicação prática:* Treinar a entrega e o pós-intervenção, não só o raciocínio.
+  - [[Acervo 10 - Qualidade da intervenção e ruptura do vínculo]] [▶ 0:00:56](https://www.youtube.com/watch?v=uM6cQavLzeg&t=56s)
+- **Não existe intervenção errada; existe não saber lidar com as consequências da sua intervenção.**
+  - *Argumento:* A reação do paciente, mesmo negativa, é material clínico e oportunidade de fortalecer a relação.
+  - *Contra quem / contraponto:* O medo paralisante de intervir e a busca da intervenção 'certa'.
+  - *Implicação prática:* Mais coragem para intervenções intensas e treino do manejo do depois.
+  - [[Acervo 10 - Qualidade da intervenção e ruptura do vínculo]] [▶ 0:39:34](https://www.youtube.com/watch?v=uM6cQavLzeg&t=2374s)
+- **Talvez a intervenção não seja só do terapeuta, e sim uma coconstrução com o paciente.**
+  - *Argumento:* A sessão é construída a dois; o paciente pode 'devolver uma intervenção' e transformar o terapeuta (pergunta aberta do facilitador, defendida pelas participantes).
+  - *Contra quem / contraponto:* A intervenção como ato unilateral do terapeuta.
+  - *Implicação prática:* Abertura do terapeuta para ser afetado.
+  - [[Acervo 10 - Qualidade da intervenção e ruptura do vínculo]] [▶ 0:07:32](https://www.youtube.com/watch?v=uM6cQavLzeg&t=452s)
+- **Intervenção muito aberta não testa nada.**
+  - *Argumento:* Deixa o paciente ir para qualquer lugar e não confirma nem refuta a hipótese.
+  - *Contra quem / contraponto:* O próprio Gabriel valoriza aberturas que investigam indiretamente quando se quer ouvir o que o paciente tem de consciente.
+  - *Implicação prática:* Decidir antes de falar se o objetivo é testar ou explorar.
+  - [[Acervo 18 - Hipótese clínica e intervenção]] [▶ 1:00:54](https://www.youtube.com/watch?v=9Wb-L6AAZYQ&t=3654s)
+- **Coisas pequenas (uma palavra) mudam completamente a hipótese de base.**
+  - *Argumento:* Conexão/desconexão e aceita/ouvida levam a caminhos opostos; na clínica isso é intuitivo e o paciente pode entender outra coisa.
+  - *Contra quem / contraponto:* A confiança de que a intenção basta.
+  - *Implicação prática:* Cuidar da construção frasal como parte do raciocínio clínico.
+  - [[Acervo 18 - Hipótese clínica e intervenção]] [▶ 1:44:51](https://www.youtube.com/watch?v=9Wb-L6AAZYQ&t=6291s)
+
+## Outros facilitadores e participantes
+- **Concordar com a conclusão negativa do paciente é mais agressivo do que questioná-la.**
+  - *Argumento:* 'Então você é burro; e o que a gente vai fazer sobre isso?' confronta e força o paciente a se posicionar sobre o que busca na terapia.
+  - *Contra quem / contraponto:* Rodolfo acolhe a ideia, mas acha que naquele contexto talvez nem coubesse.
+  - *Implicação prática:* Ferramenta de alta intensidade para crenças cristalizadas.
+  - participante · [[Acervo 02 - Intensidade e agressividade da intervenção]] [▶ 0:22:29](https://www.youtube.com/watch?v=SJwjDymDP7c&t=1349s)
+- **A intervenção confrontativa é rica e não deve sair do repertório por medo.**
+  - *Argumento:* Em geral ela leva a lugares novos, traz informação nova e revigora o caso; o 'gás' é o acesso a uma camada nova de conhecimento do paciente.
+  - *Contra quem / contraponto:* O receio do grupo de perder o paciente, reconhecido como legítimo.
+  - *Implicação prática:* Treinar o confronto com dosagem, em vez de evitá-lo.
+  - Facilitador (não identificado) · [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] [▶ 0:42:54](https://www.youtube.com/watch?v=Sk5AoNbsnbs&t=2574s)
+- **Repetir a mesma pergunta três vezes não é invasivo por definição.**
+  - *Argumento:* Com pacientes muito resistentes pode ser necessário; ficar sempre dentro do campo da resistência não promove mudança.
+  - *Contra quem / contraponto:* Uma participante achou invasivo e leu a esquiva como falta de preparo do paciente para elaborar.
+  - *Implicação prática:* Avaliar o contexto; a insistência pode ser a intervenção.
+  - Facilitador (não identificado) · [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] [▶ 0:41:39](https://www.youtube.com/watch?v=Sk5AoNbsnbs&t=2499s)
+- **O vínculo é o que sustenta intervenções agressivas.**
+  - *Argumento:* Analogia com a vida: crítica de quem nos conhece é suportável e eficaz; crítica de estranho não pega.
+  - *Contra quem / contraponto:* Implícito: o confronto como técnica independente da relação.
+  - *Implicação prática:* Nada de confronto forte no primeiro encontro.
+  - Facilitador e grupo · [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] [▶ 0:38:19](https://www.youtube.com/watch?v=Sk5AoNbsnbs&t=2299s)
+- **Não é preciso certeza absoluta para confrontar, mas não se confronta por mera suspeita.**
+  - *Argumento:* Na suspeita, uma intervenção aberta dá mais informação e mais segurança.
+  - *Contra quem / contraponto:* Uma participante que confronta 'só quando tenho muita certeza'.
+  - *Implicação prática:* Escalonar: perguntar antes, confrontar depois.
+  - Facilitador (não identificado) · [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] [▶ 0:41:39](https://www.youtube.com/watch?v=Sk5AoNbsnbs&t=2499s)
+- **Não existe manual de intervenção confrontativa.**
+  - *Argumento:* Tudo depende do caso, do vínculo e do funcionamento do paciente; o grupo é espaço de reflexão.
+  - *Contra quem / contraponto:* A expectativa de regras fixas.
+  - *Implicação prática:* Treinar julgamento clínico, não fórmulas.
+  - Facilitador (não identificado) · [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] [▶ 0:40:35](https://www.youtube.com/watch?v=Sk5AoNbsnbs&t=2435s)
+- **O modo como o paciente reage ao desconforto na sessão reflete sua história de vida.**
+  - *Argumento:* Não é à toa que ele desvia, se cala ou devolve ao terapeuta; a relação permite observar isso ao vivo.
+  - *Implicação prática:* Usar a reação ao confronto como dado de formulação.
+  - Facilitador, a partir de uma participante · [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] [▶ 0:34:34](https://www.youtube.com/watch?v=Sk5AoNbsnbs&t=2074s)
+- **Perls é exemplo exagerado e didático, não modelo a copiar.**
+  - *Argumento:* O nível de confronto é muito específico e delicado; mal feito, quebraria a relação.
+  - *Contra quem / contraponto:* A leitura do vídeo como técnica a reproduzir.
+  - *Implicação prática:* Ter o confronto intenso como possibilidade do leque, usado quando necessário.
+  - Facilitador (não identificado) · [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] [▶ 0:45:24](https://www.youtube.com/watch?v=Sk5AoNbsnbs&t=2724s)
+- **Sustentar o confronto se aprende com a prática, mas pode nunca ficar confortável para alguns, e tudo bem.**
+  - *Argumento:* Experiência do próprio facilitador: vai ficando menos desconfortável.
+  - *Contra quem / contraponto:* A ideia de que só pode confrontar quem já se sente seguro.
+  - *Implicação prática:* Praticar quando necessário, sem exigir conforto prévio.
+  - Facilitador (não identificado) · [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] [▶ 0:45:24](https://www.youtube.com/watch?v=Sk5AoNbsnbs&t=2724s)
+- **A definição de violência depende de noções socialmente construídas.**
+  - *Argumento:* Real, potencial, saúde, desenvolvimento e dignidade foram definidos por um mesmo conjunto de normas, frequentemente produtivistas.
+  - *Contra quem / contraponto:* Definições supostamente neutras, como a da OMS.
+  - *Implicação prática:* Perguntar sempre quem definiu o que é saúde e desenvolvimento no caso.
+  - Malu · [[Acervo 07 - Violência estrutural e plantão psicológico]] [▶ 0:07:30](https://www.youtube.com/watch?v=sbQJy1e4wwY&t=450s)
+- **Inação é conivência.**
+  - *Argumento:* Se a bola desce a ladeira e nada se faz, a violência continua; é preciso busca ativa e intervenções além da fala.
+  - *Contra quem / contraponto:* A clínica restrita à elaboração verbal.
+  - *Implicação prática:* Ações ativas em serviços comunitários.
+  - Malu · [[Acervo 07 - Violência estrutural e plantão psicológico]] [▶ 0:33:04](https://www.youtube.com/watch?v=sbQJy1e4wwY&t=1984s)
+- **Naturalizar infância, maternidade ou violência é uma escolha arbitrária de não explicar, com efeitos políticos.**
+  - *Argumento:* Essas categorias mudaram historicamente e sustentam normas materiais, como a criminalização do aborto e a falta de políticas para mães solo.
+  - *Contra quem / contraponto:* Modelos naturalizantes do desenvolvimento.
+  - *Implicação prática:* Evitar explicações por fase ou instinto.
+  - Malu · [[Acervo 07 - Violência estrutural e plantão psicológico]] [▶ 0:49:57](https://www.youtube.com/watch?v=sbQJy1e4wwY&t=2997s)
+- **O erro do psicólogo pode nunca ser conhecido, o que gera pressão constante.**
+  - *Argumento:* Diferente do erro médico, cuja consequência aparece logo, uma intervenção incorreta pode ter efeitos que o psicólogo nunca verá.
+  - *Implicação prática:* Supervisão e cuidado contínuos em vez de autocobrança paralisante.
+  - Tainá · [[Acervo 08 - Como a clínica atravessa o terapeuta]] [▶ 1:21:43](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4903s)
+- **Empatia é se ausentar do lugar do outro, e não se colocar no lugar dele.**
+  - *Argumento:* Se o terapeuta supõe que entende a dor do paciente, o paciente não se coloca nem o questiona; confrontar o analista é sinal de avanço.
+  - *Contra quem / contraponto:* O senso comum de empatia como 'colocar-se no lugar do outro'.
+  - *Implicação prática:* Sair do lugar de suposto saber e montar um setting em que o paciente possa aparecer.
+  - Participante (psicanálise) · [[Acervo 15 - Habilidades terapêuticas e os usos da empatia]] [▶ 0:30:10](https://www.youtube.com/watch?v=eHYies2o_GA&t=1810s)
+- **Terapia não é amizade: sem confronto não há profundidade.**
+  - *Argumento:* Sem confronto só se reforça o viés de confirmação e a conversa vira 'um papo qualquer'.
+  - *Contra quem / contraponto:* O terapeuta que quer ser gostado.
+  - *Implicação prática:* Construir a coragem de tocar nos assuntos.
+  - Participante · [[Acervo 17 - Fracasso clínico e seus fatores associados]] [▶ 0:45:24](https://www.youtube.com/watch?v=DYU5QdBDs1k&t=2724s)
+- **Pensar demais na hipótese durante a sessão pode desconectar do paciente.**
+  - *Argumento:* A intervenção sai intuitiva; o excesso de monitoramento rompe a presença.
+  - *Contra quem / contraponto:* A própria participante reconhece que pensar evita intervenções desalinhadas.
+  - *Implicação prática:* Treinar fora da sessão para que a fidelidade vire automática.
+  - Participante · [[Acervo 18 - Hipótese clínica e intervenção]] [▶ 1:49:28](https://www.youtube.com/watch?v=9Wb-L6AAZYQ&t=6568s)
+- **O encaminhamento é parte da clínica e deve ser territorializado.**
+  - *Argumento:* Encaminhamento solto deixa o paciente desamparado; é preciso conhecer o serviço e o território, incluindo a rede comunitária e as restrições de circulação.
+  - *Contra quem / contraponto:* O encaminhamento genérico ('procure um psicólogo', 'vá ao CAPS').
+  - *Implicação prática:* Mapas regionalizados, manual do plantonista, perguntas sobre o território da pessoa.
+  - Cindy, Adria (?) e Malu · [[Acervo 20 - Mesa de estudos sobre plantão psicológico]] [▶ 0:23:18](https://www.youtube.com/watch?v=PmJtmPKYBSY&t=1398s)
+- **Mães atípicas são cercadas de profissionais que cuidam do filho, mas raramente têm espaço para si.**
+  - *Argumento:* Relato de plantão em que a mãe disse nunca mais ter tido espaço para falar de si depois do nascimento do filho.
+  - *Implicação prática:* Perguntar pela necessidade da própria mãe e pelo que ela tem vontade de falar.
+  - Cindy · [[Acervo 20 - Mesa de estudos sobre plantão psicológico]] [▶ 0:53:11](https://www.youtube.com/watch?v=PmJtmPKYBSY&t=3191s)
+- **Perguntar sobre hábitos pode minimizar o sofrimento e soar culpabilizante; é pergunta de médico.**
+  - *Argumento:* Como paciente de longa data, nunca foi perguntada, e essas informações surgem espontaneamente.
+  - *Contra quem / contraponto:* O grupo responde que o paciente pode se sentir visto e que o problema é usar a pergunta como justificativa causal; Diogo legitima o ponto como decisivo para pensar forma e timing.
+  - *Implicação prática:* Formular perguntas sobre hábitos sem sugerir causalidade.
+  - participante · [[Acervo 24 - Cuidados básicos de saúde na clínica]] [▶ 0:21:33](https://www.youtube.com/watch?v=QKoZq_lBSaw&t=1293s)
+- **O passado precisa surgir naturalmente; ir ao passado como intervenção não faz sentido.**
+  - *Argumento:* Perguntar pelo passado fora do discurso presente conduz a associação livre; o sintoma é o que não ganhou palavra; o trabalho é arqueológico.
+  - *Contra quem / contraponto:* O estigma de que o psicanalista só quer saber do passado; um colega psicanalista pergunta brevemente pelos vínculos quando há brecha.
+  - *Implicação prática:* Escuta flutuante e perguntas sobre o discurso atual.
+  - Uma participante psicanalista · [[Monitoria 11 - Diogo - Tempo clínico, passado e presente]] [▶ 0:45:24](https://www.youtube.com/watch?v=Kh72CJPufBs&t=2724s)
+- **Muitas vezes, atribuir o fracasso ao paciente é terceirizar a responsabilidade.**
+  - *Argumento:* Às vezes o paciente realmente não se implica, mas a explicação também protege o terapeuta da própria ineficácia.
+  - *Contra quem / contraponto:* A explicação automática pela disfuncionalidade ou resistência do paciente.
+  - *Implicação prática:* Diante de casos que não avançam, examinar primeiro a própria atuação.
+  - Bernardo · [[PD 01 - Estagnação da psicoterapia e limites da experiência]] [▶ 0:44:49](https://www.youtube.com/watch?v=rPXu2D7MkAc&t=2689s)
+- **Numa profissão imprevisível, humildade e cautela são condições técnicas.**
+  - *Argumento:* Cada paciente traz o inesperado; os automatismos protegem do desamparo, mas cegam para a especificidade do caso.
+  - *Contra quem / contraponto:* O pedantismo de quem se vê como detentor do saber (contribuição de um participante).
+  - *Implicação prática:* Cultivar uma postura de questionamento contínuo sobre as próprias intervenções.
+  - Bernardo e participante · [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] [▶ 0:55:19](https://www.youtube.com/watch?v=CJcmtL3mNy4&t=3319s)
+- **Slides não são ruins em si; são odiados porque são mal formulados e mal montados.**
+  - *Argumento:* O bom slide é um recurso visual que abre uma pergunta, não um texto para ser lido sem interação.
+  - *Contra quem / contraponto:* Quem rejeita aulas com slides.
+  - *Implicação prática:* Em grupos de formação, usar o slide como disparador de discussão.
+  - Bernardo · [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] [▶ 0:58:26](https://www.youtube.com/watch?v=CJcmtL3mNy4&t=3506s)
+- **A função da metrificação é provocar perguntas, não dar respostas.**
+  - *Argumento:* O número estranho gera a pergunta que vai para a supervisão, onde é cruzado com gravação e mapa.
+  - *Contra quem / contraponto:* Uso das métricas como veredito sobre o terapeuta.
+  - *Implicação prática:* Tratar métricas como disparadores de investigação.
+  - Bernardo · [[PD 06 - Métricas de resultado e a tocha na caverna]] [▶ 0:50:45](https://www.youtube.com/watch?v=MHDlojceuEk&t=3045s)
+- **A explicação do insucesso pela resistência ou não implicação do paciente muitas vezes terceiriza a responsabilidade do terapeuta.**
+  - *Argumento:* No caso Eta, literatura e supervisor tradicional culparam a condição; dados e gravação mostraram um comportamento da terapeuta.
+  - *Contra quem / contraponto:* A supervisão que diz 'pare de se culpar, não é sua culpa'.
+  - *Implicação prática:* Diante de maus resultados, investigar primeiro a própria performance.
+  - Bernardo (a partir do livro) · [[PD 07 - Caso Eta e o modo de aplicar escalas]] [▶ 0:09:39](https://www.youtube.com/watch?v=CgJ7V3S3CT0&t=579s)
+
+## Relacionados
+- [[MOC - Teses e posicionamentos]]

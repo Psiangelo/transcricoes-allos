@@ -1,0 +1,854 @@
+{
+ "id": "alan-03",
+ "nota": "Alan 03 - Distância, intensidade, forma e conteúdo",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Distância, intensidade, forma e conteúdo",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Encontro inteiramente prático que continua o exercício de variação de intervenção. Alan enquadra a dinâmica como treino de comunicação, não de direção: assume que a direção escolhida está correta e trabalha só como formulá-la. Retoma os eixos intensidade e distância do encontro anterior e introduz um terceiro, forma e conteúdo. Com vinhetas curtas de roleplay, ele faz uma intervenção, todos escrevem a sua no chat, e então o grupo varia uma intervenção âncora num eixo sem trocá-la. Das dificuldades do grupo (trocar a intervenção, amenizar por validação) saem regras gerais: hipótese → acusação, singularizar × generalizar, saltar × explicitar o raciocínio, pergunta fechada × aberta. O fechamento distingue distância de forma/conteúdo pelo tipo de erro clínico (confusão × enxugar gelo), apresenta os estratos interpretativos e a transposição, e pede feedback sobre sistematizar ~20 eixos.",
+ "em_uma_frase": "Treino prático para variar a mesma intervenção em três eixos da linguagem (intensidade, distância, forma/conteúdo) sem mudar o que se quer dizer, com regras gerais aplicáveis a qualquer frase.",
+ "competencias": [
+  "Construção frasal",
+  "Intervenção",
+  "Interpretação",
+  "Aprofundamento",
+  "Acolhimento e validação"
+ ],
+ "abordagens": [
+  "Terapias contextuais",
+  "Gestalt-terapia",
+  "Psicanálise lacaniana",
+  "Psicologia analítica junguiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Combinados",
+   "descricao": "Enquadre: a dinâmica é sobre comunicação e linguagem, não sobre priorização, interpretação ou direção. Erros de direção não serão corrigidos.",
+   "funcao": "Isolar a variável treinada para o feedback não virar discussão de caso.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:08",
+   "bloco": "Retomada",
+   "descricao": "Pergunta ao grupo quais eram os dois eixos. Relembra intensidade (a inação como escolha moral) e distância (exemplo da atribuição equivocada da excitação).",
+   "funcao": "Ativar o conteúdo anterior e nivelar quem faltou.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:03:37",
+   "bloco": "Combinados",
+   "descricao": "Explica a estrutura (vinheta de 2–3 min + uma intervenção + variações em eixos) e pede um voluntário. Redesenha na hora: ele mesmo faz a intervenção e todos escrevem a sua no chat. Quem não tem chat fala.",
+   "funcao": "Garantir participação simultânea e material abundante para comparação.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:06:17",
+   "bloco": "Dinâmica",
+   "descricao": "Vinheta 1 (roleplay): culpa por não cumprir um compromisso voluntário assumido no ano anterior. Alan intervém: 'O que você sente quando não faz as coisas pelo outro?'",
+   "funcao": "Gerar o material clínico mínimo.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:09:14",
+   "bloco": "Rodada de respostas",
+   "descricao": "Todos escrevem intervenções no chat. Primeira âncora: 'Qual a importância, para você, de dar conta de tudo?'",
+   "funcao": "Criar um banco de intervenções para variar.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:09:58",
+   "bloco": "Feedback",
+   "descricao": "Pede para intensificar a âncora. O grupo troca a intervenção. Alan explica o critério (sim/não × porquê), comenta variações de distância e dá a regra hipótese → acusação.",
+   "funcao": "Consolidar intensidade e o critério de 'mesma intervenção'.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:19:55",
+   "bloco": "Feedback",
+   "descricao": "Âncora 'Você tem que dar conta de tudo'. Intensificar por singularização. Na hora de amenizar, quase todos validam ('deve ser difícil'); Alan formula uma tese contra e ensina a generalizar com 'a gente'.",
+   "funcao": "Expor e corrigir um erro coletivo de formação.",
+   "duracao_min": 13
+  },
+  {
+   "ts": "0:32:33",
+   "bloco": "Feedback",
+   "descricao": "Âncora 'Você está chateada por não ter tempo ou por não querer fazer?'. Leitura da intenção por outra pessoa; intensificar e amenizar; o 'estou errada?' no final; explicitar × saltar; redução ao absurdo; enquete entre duas versões; pergunta aberta × fechada.",
+   "funcao": "Extrair do grupo as regras canônicas de modulação.",
+   "duracao_min": 21
+  },
+  {
+   "ts": "0:53:31",
+   "bloco": "Teoria",
+   "descricao": "Balanço: intensidade é clara no conceito e difícil de amenizar. Introduz o 3º eixo, forma e conteúdo, com exemplo.",
+   "funcao": "Abrir o eixo novo sobre base consolidada.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:57:05",
+   "bloco": "Dinâmica",
+   "descricao": "Vinheta 2 (roleplay): mãe recente, separada, culpada o tempo todo e sobrecarregada. Alan intervém: 'Você falou que está se sentindo culpada o tempo todo. Pelo que você está se sentindo culpada?'",
+   "funcao": "Material para o eixo novo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:59:27",
+   "bloco": "Feedback",
+   "descricao": "O grupo situa a intervenção de Alan no eixo. Ele mostra a contradição interna (início na forma, final no conteúdo) e pede para trocar só o final rumo à forma. Discute plural, causa única e interpenetração dos eixos.",
+   "funcao": "Ensinar a autocorrigir uma intervenção mexendo o mínimo.",
+   "duracao_min": 14
+  },
+  {
+   "ts": "1:13:46",
+   "bloco": "Feedback",
+   "descricao": "Mesmo início, trocar o final rumo ao conteúdo: inversão da frase, entonação, 'a culpa que você sente agora', qualidades sensoriais. Erro frequente: 'é só pela maternidade?'",
+   "funcao": "Treinar o polo oposto e mostrar que pedir vários conteúdos é trabalhar forma.",
+   "duracao_min": 14
+  },
+  {
+   "ts": "1:27:53",
+   "bloco": "Discussão",
+   "descricao": "Dificuldade relativa dos eixos. Uso prático (perdido na sessão → forma). Forma/conteúdo na ACT, na Gestalt, em Lacan e em Jung; círculo hermenêutico.",
+   "funcao": "Ligar o exercício à clínica real e ao diálogo entre abordagens.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:31:20",
+   "bloco": "Dúvidas",
+   "descricao": "Distinção distância × forma/conteúdo pelo tipo de erro; estratos interpretativos (nota 4 na prova); exemplo hipotético do tapa; transposição como intervenção.",
+   "funcao": "Traçar a fronteira entre os eixos.",
+   "duracao_min": 14
+  },
+  {
+   "ts": "1:45:44",
+   "bloco": "Dúvidas",
+   "descricao": "Um resumo no chat fala em 'três coisas'. Alan corrige: são dois eixos, e o corpo nem sempre é o mais próximo.",
+   "funcao": "Síntese conceitual final.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:48:19",
+   "bloco": "Fechamento",
+   "descricao": "Fecha perto das 2h, para a gravação e pede feedback: fez sentido? Vale sistematizar ~20 eixos em PDF ou série de vídeos?",
+   "funcao": "Avaliar o formato e planejar a continuidade.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Parâmetros da intervenção",
+   "definicao": "Eixos pelos quais a mesma intervenção pode ser modulada na linguagem sem mudar sua direção. Neste encontro: intensidade, distância e forma/conteúdo, 'de uns 200 possíveis'.",
+   "exemplo": "Pegar 'Você tem que dar conta de tudo?' e produzir versões mais intensas, mais brandas, mais próximas, mais formais.",
+   "abordagem": "",
+   "ts": "0:00:00"
+  },
+  {
+   "nome": "Intensidade da intervenção",
+   "definicao": "Grau em que a intervenção é ou parece mais agressiva ou direta. A inação também pode ser a intervenção mais agressiva e é uma escolha moral.",
+   "exemplo": "'É só você que tem que dar conta de tudo?' (↑) × 'A gente precisa dar conta de tudo sempre?' (↓).",
+   "abordagem": "",
+   "ts": "0:01:48"
+  },
+  {
+   "nome": "Distância experiencial",
+   "definicao": "Quão próxima a intervenção está da experiência vivida e acessível ao paciente naquele momento (sensação presente, exemplos concretos), ou quão afastada (causas, reflexões, abstrações sobre si). A proximidade depende do aquecimento e da pessoa: para quem está desconectado do corpo, o corpo pode ser o mais distante.",
+   "exemplo": "'Do que mais você se cobra?' (próximo) × 'Você é uma pessoa que se cobra com frequência?' (distante).",
+   "abordagem": "",
+   "ts": "0:02:30"
+  },
+  {
+   "nome": "Forma e conteúdo",
+   "definicao": "Conteúdo é a situação específica trazida pelo paciente. Forma é o modo de ser da pessoa no mundo (forma de sofrer, posição, atitude). Ir à forma quando o sofrimento parece vir do jeito de ser; checar se o padrão aparece em outros âmbitos.",
+   "exemplo": "'Fora desse assunto, do que mais você está precisando dar conta?' (forma); 'E a culpa que você está sentindo agora, de onde vem?' (conteúdo).",
+   "abordagem": "",
+   "ts": "0:55:31"
+  },
+  {
+   "nome": "Hipótese implícita",
+   "definicao": "A suposição do terapeuta embutida numa pergunta. Transformá-la em afirmação ou acusação aumenta a intensidade sem trocar a intervenção.",
+   "exemplo": "'Qual a importância de dar conta de tudo?' → 'Por que você precisa tanto dar conta de tudo?'",
+   "abordagem": "",
+   "ts": "0:17:40"
+  },
+  {
+   "nome": "Singularização e generalização",
+   "definicao": "Individualizar a questão na pessoa intensifica. Generalizar para 'a gente' ameniza, porque as pessoas tratam o outro melhor que a si mesmas e uma crença negativa sobre si raramente se estende a 'a gente': a pessoa 'é abraçada pela humanidade'.",
+   "exemplo": "'Levam o cachorro ao veterinário, mas não vão ao médico.'",
+   "abordagem": "",
+   "ts": "0:30:39"
+  },
+  {
+   "nome": "Explicitação do raciocínio",
+   "definicao": "Costurar em voz alta os passos que levam à pergunta torna a intervenção mais branda. Saltar etapas a torna agressiva, porque o paciente não acompanha. Explicar demais também tira potência.",
+   "exemplo": "Versão longa ('você me disse X e Y; a maior parte diz respeito a Z; fiquei confuso...') × 'Faz sentido para você continuar nisso?'",
+   "abordagem": "",
+   "ts": "0:43:58"
+  },
+  {
+   "nome": "Pergunta aberta e pergunta fechada",
+   "definicao": "A pergunta aberta dá margem para outras explicações e é mais branda. A fechada (sim/não) 'não tem para onde correr' e é mais intensa.",
+   "exemplo": "'Você realmente está sem tempo?' (mais branda) × 'Você realmente quer fazer?' (mais intensa).",
+   "abordagem": "",
+   "ts": "0:52:12"
+  },
+  {
+   "nome": "Redução ao absurdo",
+   "definicao": "Exagerar o que o paciente diz até o absurdo para provocá-lo e chamar sua atenção. É uma forma extrema de salto, muito agressiva, e depende de bom timing e de trabalhar o efeito depois.",
+   "exemplo": "'Então o que você está me contando é que você é uma vagabunda?' 'Não!' 'E então?'",
+   "abordagem": "",
+   "ts": "0:45:49"
+  },
+  {
+   "nome": "Monocausalidade",
+   "definicao": "Tendência cognitiva humana a eleger uma causa única e próxima para os acontecimentos. Perguntas do tipo 'de onde vem?' tendem a produzir respostas unitárias.",
+   "exemplo": "'Fui mal na prova porque não estudei', ignorando a prova difícil, o cansaço, o mosquito...",
+   "abordagem": "",
+   "ts": "1:12:04"
+  },
+  {
+   "nome": "Estratos interpretativos",
+   "definicao": "Níveis em que um mesmo fato pode ser encaixado, do polo niilista ('nada significa') ao mais abrangente sobre a vida da pessoa (Alan o chama de 'teológico'). O catastrofismo é um caso disso. Errar o estrato é o erro de forma/conteúdo.",
+   "exemplo": "Nota 4 na prova: poeira espacial → passei mal → devia ter estudado → faculdade não é para mim → sou burro → sou um erro biológico.",
+   "abordagem": "",
+   "ts": "1:34:08"
+  },
+  {
+   "nome": "Transposição",
+   "definicao": "Intervenção que leva o mesmo conteúdo para outra cena ou vínculo, onde a pessoa julga de outro modo, revelando uma forma que estava naturalizada.",
+   "exemplo": "Caso hipotético de violência normalizada no namoro: 'Se ele desse um tapa na sua filha, estaria tudo bem?'",
+   "abordagem": "",
+   "ts": "1:44:40"
+  },
+  {
+   "nome": "Círculo hermenêutico",
+   "definicao": "O movimento cíclico do específico ao geral e do geral ao específico, que Alan identifica com o próprio ato de interpretar. Forma/conteúdo é uma versão desse movimento, presente com outros nomes em várias abordagens.",
+   "exemplo": "Jung falaria em 'sístole e diástole' (?) no seminário sobre análise de sonhos.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:30:23"
+  },
+  {
+   "nome": "Atribuição equivocada da excitação",
+   "definicao": "Atribuir uma ativação fisiológica à causa errada. Alan usa o fenômeno, sem nomeá-lo, para mostrar que somos 'muito cegos' às causas do que sentimos, o que justifica o eixo distância.",
+   "exemplo": "Filme de terror, roda-gigante ou academia produzindo sensações que se confundem com paixão.",
+   "abordagem": "",
+   "ts": "0:02:30"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "Citados de passagem: pressionar por planos concretos um paciente que ainda está no plano das abstrações e dos valores pode levar ao abandono. É um erro de distância ligado ao estágio de mudança.",
+   "exemplo": "'Me conta qual é o seu plano para a semana que vem' a quem só fala de valores.",
+   "abordagem": "",
+   "ts": "1:32:48"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Variação de intervenção",
+   "objetivo": "Desenvolver a capacidade de pegar a mesma intervenção (a que geraria fundamentalmente a mesma resposta) e alterá-la na linguagem, ao longo de eixos específicos (intensidade, distância, forma/conteúdo), até que isso seja automático ('dois segundos para pensar').",
+   "competencias": [
+    "Construção frasal",
+    "Intervenção",
+    "Interpretação",
+    "Aprofundamento"
+   ],
+   "configuracao": "Grupo todo, online, com chat (~12 participantes ativos). Um voluntário faz o paciente numa vinheta de 2–3 min (pode ser inventada). O facilitador faz a intervenção âncora. Todos respondem simultaneamente no chat; quem não tem chat responde por voz.",
+   "tempo": "~20 min por intervenção âncora. Nesta sessão, ~45 min de intensidade/distância (três âncoras) e ~30 min de forma/conteúdo (uma âncora, dois sentidos), num encontro de ~1h50.",
+   "materiais": "Chat da chamada; papel para o facilitador anotar; quadro-resumo das alavancas de cada eixo.",
+   "consigna": "'Escolhi uma intervenção de infinitas possíveis. Escrevam no chat a que vocês fariam.' Depois: 'Peguem esta intervenção e deixem-na mais intensa / mais branda / mais próxima / mais distante / mais sobre forma / mais sobre conteúdo. Não vale trocar a intervenção: sigam a mesma linha de raciocínio do colega. Não estou questionando a linha, estou propondo variações em eixos específicos.' Em forma/conteúdo: 'Mantenham o início da frase e troquem só o final.'",
+   "passos": [
+    "Retomar os eixos por pergunta ao grupo e enquadrar: o foco é comunicação; erros de direção não serão corrigidos.",
+    "Um voluntário conta uma situação curta (real ou inventada).",
+    "O facilitador interrompe num ponto razoável e faz uma única intervenção; acabam as informações do caso.",
+    "Todos escrevem no chat a intervenção que fariam.",
+    "O facilitador escolhe uma âncora e pergunta ao autor por que frasou assim, ou pede que outra pessoa infira a intenção do autor.",
+    "Pede variação num eixo e num sentido; lê o chat e chama algumas pessoas para dizer em voz alta (entonação).",
+    "Checa primeiro se é a mesma intervenção (a resposta do paciente mudaria?) e depois se moveu no eixo e no sentido pedidos.",
+    "Nomeia a regra geral por trás dos acertos e pede o inverso (se sabe intensificar, inverta para amenizar).",
+    "Pede o extremo para calibrar o eixo ('dá mais salto do que isso').",
+    "Em caso de disputa, faz uma enquete entre duas versões e pede justificativas.",
+    "Com o eixo consolidado, troca de âncora ou de vinheta e introduz o eixo seguinte com exemplo antes da teoria."
+   ],
+   "feedback": "Critérios, em ordem: (1) mesma intervenção? Teste do tipo de resposta: 'qual a importância' pede causa, 'é importante?' pede sim/não, então são diferentes. (2) Moveu no eixo e no sentido pedidos, ou mexeu em outro eixo? (3) Economia: a melhor resposta muda o mínimo de texto. (4) À parte, a qualidade clínica: 'mudar a intervenção não é erro clínico, é erro para a proposta do exercício'; uma resposta pode cumprir o exercício e piorar a intervenção. Alan nomeia os acertos como 'regra canônica', 'paradigmática', 'elegante'.",
+   "exemplos_praticos": "Vinheta 1 (roleplay, culpa por não cumprir um compromisso voluntário): ao intensificar 'Qual a importância de dar conta de tudo?', o grupo produziu perguntas de sim/não (trocou a intervenção). Modelo de Alan: 'Me conta por que você precisa tanto dar conta de tudo'. Ao amenizar 'Você tem que dar conta de tudo', quase todos validaram ('deve ser difícil para você'), e Alan propôs 'A gente precisa dar conta de tudo sempre?'. Na âncora 'tempo ou vontade?', funcionaram 'Se você realmente quisesse, arranjaria tempo' (↑), uma versão longa que explicita o raciocínio (↓) e 'Você realmente está sem tempo?' (↓). Vinheta 2 (roleplay, mãe recente culpada o tempo todo): rumo à forma, 'Em quais momentos você se sente culpada?' e 'De onde vem essa culpa que te atravessa em todos os lugares?'; rumo ao conteúdo, 'E a culpa que você está sentindo agora, de onde ela vem?' (mudança mínima, elogiada) e 'Qual o tamanho/cor/nome dessa culpa?'. Erro: 'Essa culpa vem só pela maternidade?' (vai para a forma).",
+   "variacoes": "O próprio facilitador faz a intervenção âncora e todos respondem no chat (formato adotado aqui, substituindo o de duplas visto em Alan 02). Variação 'texto mínimo': exigir o menor número de alterações. Variação 'só o final': fixar o início da frase e mexer só no final. Enquete entre duas versões. Possível desdobramento em ~20 eixos (PDF ou vídeos).",
+   "armadilhas": "Participantes trocam a intervenção em vez de modulá-la; amenizam por validação ('deve ser difícil') ou soam condescendentes ao generalizar; o facilitador ensina por exemplos soltos em vez de regras; os eixos se interpenetram (nomear o efeito colateral e seguir); consigna ambígua ('trocar só o final' ficou em elipse); o feedback escorrega para a direção clínica.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:03:37"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Enquadre que isola a variável",
+   "descricao": "Anuncia que não corrigirá a direção clínica, só a comunicação. Isso protege o exercício da discussão de caso e legitima qualquer intervenção inicial.",
+   "exemplo": "'Eu vou assumir que a direção que vocês derem está correta. Essa dinâmica é sobre comunicação.'",
+   "ts": "0:00:00"
+  },
+  {
+   "movimento": "Retomada por pergunta",
+   "descricao": "Pede ao grupo que relembre os conceitos antes de complementá-los e checa quem faltou.",
+   "exemplo": "'Alguém lembra quais são esses eixos?'",
+   "ts": "0:01:08"
+  },
+  {
+   "movimento": "Redesenho ao vivo e inclusão",
+   "descricao": "Muda a estrutura no começo: ele próprio intervém e todos respondem no chat. Inclui por voz quem não tem chat e assume que os confusos entenderão na segunda rodada.",
+   "exemplo": "'Deixa eu fazer na estrutura que eu pensei e não deu tempo da última vez.'",
+   "ts": "0:04:56"
+  },
+  {
+   "movimento": "Intenção antes da correção",
+   "descricao": "Pergunta ao autor por que frasou assim antes de corrigir, e fica mais específico se ele não sabe.",
+   "exemplo": "'Por que você fraseou ela do jeito que fraseou?'",
+   "ts": "0:09:58"
+  },
+  {
+   "movimento": "Leitura da mente do colega",
+   "descricao": "Pede que outra pessoa infira a intenção de quem fez a intervenção e se ela tem uma opinião oculta. Treina a escuta da hipótese implícita.",
+   "exemplo": "'Eu sei qual foi a intenção dela ao fazer essa pergunta... você acha que ela tem uma opinião?'",
+   "ts": "0:32:42"
+  },
+  {
+   "movimento": "Correção por critério objetivo",
+   "descricao": "Aponta que a resposta trocou a intervenção usando o teste do tipo de resposta, sem julgar a qualidade clínica, e separa explicitamente erro de exercício de erro clínico.",
+   "exemplo": "'As duas são possíveis, só que você mudou a intervenção.' / 'Mudar a intervenção não é um erro clínico.'",
+   "ts": "0:11:38"
+  },
+  {
+   "movimento": "Diagnóstico do erro coletivo",
+   "descricao": "Para de coletar exemplos quando identifica um padrão de erro no grupo e o transforma em tese teórica.",
+   "exemplo": "'Vi exemplos suficientes. Vocês não estão sabendo amenizar, e eu tenho uma tese do porquê.'",
+   "ts": "0:26:51"
+  },
+  {
+   "movimento": "Dica antes da resposta; resposta quando trava",
+   "descricao": "Primeiro dá uma pista (inverter a técnica da colega). Se o grupo continua travado, reconhece a pressão e entrega a resposta.",
+   "exemplo": "'Se vocês pegarem o que ela fez e inverterem, conseguem.' / 'Estou pressionando vocês, deixa eu dar uma resposta.'",
+   "ts": "0:24:45"
+  },
+  {
+   "movimento": "Promover respostas a regra canônica",
+   "descricao": "Nomeia respostas dos participantes como paradigmáticas, canônicas ou elegantes e extrai delas a regra geral, o que apresenta o conhecimento como coproduzido.",
+   "exemplo": "'Esse aqui é bem paradigmático, vale até anotar.'",
+   "ts": "0:45:22"
+  },
+  {
+   "movimento": "Pedir o extremo",
+   "descricao": "Pede versões cada vez mais extremas para calibrar o eixo e depois mostra a versão máxima dele.",
+   "exemplo": "'Dá mais salto do que isso. Alguém consegue? Joga mais pro extremo.'",
+   "ts": "0:44:31"
+  },
+  {
+   "movimento": "Enquete com justificativa",
+   "descricao": "Coloca duas versões em votação, pede justificativas, acrescenta a sua e transforma o resultado em regra (aberta × fechada).",
+   "exemplo": "'Qual é a intervenção mais amena? Me justifica.'",
+   "ts": "0:49:59"
+  },
+  {
+   "movimento": "Ouvir em voz alta",
+   "descricao": "Chama pessoas para falar a frase quando suspeita que a entonação muda a leitura do texto frio.",
+   "exemplo": "'Fala pra gente, porque às vezes na entonação você resolve.'",
+   "ts": "0:12:02"
+  },
+  {
+   "movimento": "O próprio erro como material",
+   "descricao": "Usa uma intervenção dele, com contradição interna, como objeto de conserto, de modo que o erro corrigido seja do professor.",
+   "exemplo": "'Tem uma contradição na construção da minha frase... vamos consertar para ela não ser tão esquizofrênica.'",
+   "ts": "1:02:27"
+  },
+  {
+   "movimento": "Exemplo antes da teoria, caricatura avisada",
+   "descricao": "Introduz conceito novo por um exemplo concreto e usa exemplos exagerados, avisando que é para ficar visível.",
+   "exemplo": "'Vou dar um exemplo concreto e depois falo teoricamente.' / 'Vou manter a intensidade alta para ficar caricato.'",
+   "ts": "0:54:59"
+  },
+  {
+   "movimento": "Checagem com quem perguntou e feedback sobre o formato",
+   "descricao": "Volta à pessoa que fez a dúvida para ver se a explicação funcionou e fecha pedindo avaliação do formato e de materiais futuros.",
+   "exemplo": "'Consegui fazer um trabalho melhor ou continua ruim?' / 'Faço um PDF com 20 desses eixos ou uma série de vídeos?'",
+   "ts": "1:40:21"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Para intensificar sem mudar a intervenção, transforme a hipótese implícita da pergunta em afirmação ou acusação.",
+   "justificativa": "A pergunta deixa espaço para a hipótese ser falsa; a afirmação a assume, mantendo o mesmo tipo de resposta (causa).",
+   "contexto": "Quando se quer confrontar ou provocar.",
+   "competencia": "Construção frasal",
+   "ts": "0:17:40"
+  },
+  {
+   "dica": "Para intensificar, singularize ('é só você que...?').",
+   "justificativa": "Isola a pessoa e ironiza a 'especialidade' do seu sofrimento.",
+   "contexto": "Crenças de hiper-responsabilidade.",
+   "competencia": "Construção frasal",
+   "ts": "0:20:16"
+  },
+  {
+   "dica": "Para amenizar, generalize: troque 'você' por 'a gente'.",
+   "justificativa": "As pessoas tratam o outro melhor do que a si mesmas; uma crença negativa sobre si raramente se estende a 'a gente'.",
+   "contexto": "Sempre que a mesma pergunta estiver dura demais.",
+   "competencia": "Construção frasal",
+   "ts": "0:30:39"
+  },
+  {
+   "dica": "Não use 'deve ser difícil para você' como amaciante automático.",
+   "justificativa": "Você não sabe se aquilo é difícil nem se merece reforço, e a estrutura pode soar irônica em contextos de baixa gravidade.",
+   "contexto": "Ao amenizar confrontações.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:27:55"
+  },
+  {
+   "dica": "Para amenizar, explicite o raciocínio passo a passo antes da pergunta; para provocar, salte etapas.",
+   "justificativa": "Com o raciocínio explícito, o paciente acompanha; com saltos, é obrigado a reconstruir o caminho e se sente atropelado.",
+   "contexto": "Hipóteses delicadas (explicitar) ou narrativas cristalizadas (saltar, com timing).",
+   "competencia": "Intervenção",
+   "ts": "0:43:58"
+  },
+  {
+   "dica": "Use a redução ao absurdo só com bom timing e trabalhe o efeito depois.",
+   "justificativa": "É muito agressiva, mas chama a atenção e cutuca quando a pessoa percebe o salto.",
+   "contexto": "Provocar uma narrativa defensiva.",
+   "competencia": "Intervenção",
+   "ts": "0:45:49"
+  },
+  {
+   "dica": "Pergunta aberta ameniza e fechada intensifica; pergunte primeiro a parte menos ameaçadora da hipótese.",
+   "justificativa": "A pergunta aberta deixa margem para outra explicação, e a pessoa pode chegar sozinha ao ponto difícil ao se contradizer.",
+   "contexto": "Hipótese de 'não é falta de tempo, é falta de vontade'.",
+   "competencia": "Construção frasal",
+   "ts": "0:52:12"
+  },
+  {
+   "dica": "Se quer confrontar, não termine com 'estou errada?'; atribua a leitura à fala do paciente.",
+   "justificativa": "O 'estou errado?' é um amaciante que sabota a intenção confrontativa; use-o quando quiser suavizar.",
+   "contexto": "Intervenções confrontativas.",
+   "competencia": "Construção frasal",
+   "ts": "0:37:29"
+  },
+  {
+   "dica": "Use 'então você está me contando que...' sem reproduzir fielmente o que o paciente disse.",
+   "justificativa": "Quebra o vício do espelhamento literal e introduz a sua hipótese implícita.",
+   "contexto": "Quando o terapeuta espelha demais.",
+   "competencia": "Construção frasal",
+   "ts": "0:46:50"
+  },
+  {
+   "dica": "Ao generalizar, vigie o tom para não soar condescendente.",
+   "justificativa": "'A gente às vezes...' pode virar sermão.",
+   "contexto": "Amenizações por generalização.",
+   "competencia": "Construção frasal",
+   "ts": "0:48:16"
+  },
+  {
+   "dica": "Para ir à forma, force a saída do específico ('fora disso, do que mais você está precisando dar conta?') e confira o padrão em outros âmbitos.",
+   "justificativa": "Se o sofrimento é do jeito de ser, ele se repete em outras áreas da vida.",
+   "contexto": "Suspeita de padrão de funcionamento.",
+   "competencia": "Interpretação",
+   "ts": "0:56:04"
+  },
+  {
+   "dica": "Não construa frases que apontem para dois lados (início na forma, final no conteúdo).",
+   "justificativa": "A intervenção fica contraditória e perde direção.",
+   "contexto": "Autorrevisão de intervenções.",
+   "competencia": "Construção frasal",
+   "ts": "1:02:27"
+  },
+  {
+   "dica": "Com pacientes de baixa autorreflexão, peça vários momentos concretos no plural e formule você o padrão; insista 'e qual outro?'.",
+   "justificativa": "Perguntar direto pela forma depende da autorreflexão; o paciente em geral fica preso ao conteúdo.",
+   "contexto": "Construção de formulação a partir de episódios.",
+   "competencia": "Formulação de caso",
+   "ts": "1:05:58"
+  },
+  {
+   "dica": "Ao perguntar pela origem, amplie o alcance ('de onde vem essa culpa que te atravessa em todos os lugares?').",
+   "justificativa": "Perguntas sobre causa produzem uma causa única e próxima; o complemento obriga a resposta a valer para tudo.",
+   "contexto": "Ir à forma a partir de uma pergunta causal.",
+   "competencia": "Construção frasal",
+   "ts": "1:12:59"
+  },
+  {
+   "dica": "Para marcar uma oposição, deixe os termos antitéticos próximos (inverta a ordem da frase).",
+   "justificativa": "A oposição fica sublinhada.",
+   "contexto": "Contrastar 'o tempo todo' com 'agora'.",
+   "competencia": "Construção frasal",
+   "ts": "1:15:17"
+  },
+  {
+   "dica": "Para ir ao conteúdo, ancore no agora ou em qualidades sensoriais (tamanho, cor, nome).",
+   "justificativa": "Com mudança mínima, a pessoa fica na vivência específica.",
+   "contexto": "Aprofundar um sofrimento presente.",
+   "competencia": "Aprofundamento",
+   "ts": "1:26:05"
+  },
+  {
+   "dica": "Evite 'é só por X?' quando quiser aprofundar X.",
+   "justificativa": "A pergunta convida a buscar uma forma secreta por trás de X e afasta a pessoa dele.",
+   "contexto": "Trabalho de conteúdo.",
+   "competencia": "Aprofundamento",
+   "ts": "1:18:46"
+  },
+  {
+   "dica": "Não binarize um 'o tempo todo' em duas opções.",
+   "justificativa": "Reduz o todo a duas polaridades e perde o nexo com o que a própria frase sublinhou.",
+   "contexto": "Perguntas de escolha forçada.",
+   "competencia": "Intervenção",
+   "ts": "1:22:37"
+  },
+  {
+   "dica": "Perdido na sessão? Faça a mesma pergunta que ia fazer, mas mirando a forma ou aumentando a abstração.",
+   "justificativa": "É uma saída simples que quase sempre destrava a direção.",
+   "contexto": "Paciente fala muito e o terapeuta não sabe para onde ir.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:29:27"
+  },
+  {
+   "dica": "Leia 'não sei' e confusão como sinal de erro de distância.",
+   "justificativa": "Você pediu algo longe demais da experiência acessível (ex.: memória infantil cedo demais); no sentido inverso, exigir plano concreto de quem está nas abstrações pode levar ao abandono.",
+   "contexto": "Diagnóstico da própria intervenção.",
+   "competencia": "Aprofundamento",
+   "ts": "1:32:03"
+  },
+  {
+   "dica": "Antes de consolar um fracasso, pergunte-se em que estrato ele deve ser lido.",
+   "justificativa": "Um conteúdo pontual pode sinalizar um problema estrutural; o consolo reflexo pode ser 'enxugar gelo'.",
+   "contexto": "Relatos de fracasso ou incidentes.",
+   "competencia": "Interpretação",
+   "ts": "1:36:16"
+  },
+  {
+   "dica": "Use a transposição: leve o mesmo conteúdo para outra cena em que a pessoa julgue diferente.",
+   "justificativa": "A mudança de cena revela a forma que estava naturalizada.",
+   "contexto": "Padrões normalizados (ex.: violência).",
+   "competencia": "Intervenção",
+   "ts": "1:44:40"
+  },
+  {
+   "dica": "Se alguém não consegue responder 'por quê', peça que reviva a cena (onde, como sentiu).",
+   "justificativa": "Ao reviver, a pessoa pode conseguir nomear; vale especialmente com crianças.",
+   "contexto": "Baixa capacidade de nomear causas.",
+   "competencia": "Aprofundamento",
+   "ts": "1:39:32"
+  },
+  {
+   "dica": "Não presuma que o corpo é sempre o mais próximo; considere o aquecimento da sessão.",
+   "justificativa": "Para pessoas desconectadas do corpo, a sensação corporal pode ser o mais distante.",
+   "contexto": "Intervenções focadas no corpo.",
+   "competencia": "Aprofundamento",
+   "ts": "1:46:08"
+  },
+  {
+   "dica": "Teste a entonação: a mesma frase muda de intensidade (e até de eixo) conforme o tom.",
+   "justificativa": "O texto frio é ambíguo; sublinhar ou inverter pode deslocar a intervenção.",
+   "contexto": "Treino e sessão.",
+   "competencia": "Construção frasal",
+   "ts": "1:17:00"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A inação também é uma intervenção, às vezes a mais agressiva, e é uma escolha moral.",
+   "argumento": "Em situações que acionam o fator moral da clínica, não agir comunica e produz efeito.",
+   "contraponto": "A ideia de que calar é neutro.",
+   "implicacao": "Intensidade não se mede só pelo que se diz; calar também tem dose.",
+   "quem": "Alan",
+   "ts": "0:01:48"
+  },
+  {
+   "tese": "Decidir o que dizer e decidir como dizer são competências separáveis e treináveis isoladamente.",
+   "argumento": "Dada uma direção, há infinitas formulações; a intuição de modular a linguagem pode ser construída conscientemente pela estrutura da língua.",
+   "contraponto": "A formulação 'sai naturalmente'.",
+   "implicacao": "Exercícios em que erros de direção não são corrigidos.",
+   "quem": "Alan",
+   "ts": "0:22:11"
+  },
+  {
+   "tese": "Validar a dificuldade ('deve ser difícil para você') não é um bom modo de amenizar uma intervenção.",
+   "argumento": "Reforça algo sem saber se merece reforço, pode soar irônico, e há alavancas mais simples (generalizar, explicitar, abrir a pergunta).",
+   "contraponto": "Um ensinamento que Alan supõe vir da faculdade ('todo mundo errou na mesma direção'); ele admite que uma versão cuidadosa soou genuína.",
+   "implicacao": "Substituir a validação reflexa por alavancas linguísticas.",
+   "quem": "Alan",
+   "ts": "0:26:51"
+  },
+  {
+   "tese": "O consolo reflexo ('ser carinhoso e legal com o paciente') pode ser um erro clínico.",
+   "argumento": "Um conteúdo (uma nota ruim) pode sinalizar uma forma (talvez a pessoa não devesse estar ali); consolar mantém o erro de nível.",
+   "contraponto": "O que 'se aprende erroneamente na faculdade'.",
+   "implicacao": "Avaliar o estrato interpretativo antes de acolher.",
+   "quem": "Alan",
+   "ts": "1:36:16"
+  },
+  {
+   "tese": "Regras gerais valem mais do que acumular exemplos.",
+   "argumento": "'Posso encher vocês de exemplos específicos, e isso não ajuda em nada'; dominar uma ou duas regras permite modular qualquer frase.",
+   "contraponto": "",
+   "implicacao": "No treino, nomear a regra por trás de cada acerto.",
+   "quem": "Alan",
+   "ts": "0:39:38"
+  },
+  {
+   "tese": "Forma/conteúdo é o eixo mais subutilizado na clínica real e deveria ser muito usado.",
+   "argumento": "Em cerca de dez anos de roleplays, as pessoas modulam muito a intensidade e quase nunca a forma/conteúdo, que é a saída mais simples quando se está perdido.",
+   "contraponto": "",
+   "implicacao": "Treino deliberado da passagem específico ↔ geral.",
+   "quem": "Alan",
+   "ts": "1:28:21"
+  },
+  {
+   "tese": "Forma/conteúdo é transteórico: é o círculo hermenêutico, é interpretar.",
+   "argumento": "Aparece na ACT, na Gestalt, em Lacan e em Jung ('sístole e diástole' (?)), com nomenclaturas diferentes.",
+   "contraponto": "Uma participante associou o conceito só à ACT.",
+   "implicacao": "Vocabulário comum para comparar abordagens.",
+   "quem": "Alan",
+   "ts": "1:30:23"
+  },
+  {
+   "tese": "Não há ranking intrínseco de dificuldade entre os eixos.",
+   "argumento": "A dificuldade percebida depende da clareza de quem ensina e do domínio da língua por quem aprende.",
+   "contraponto": "Participantes acharam forma/conteúdo mais fácil que intensidade e distância.",
+   "implicacao": "Quando um eixo 'não entra', revisar a explicação.",
+   "quem": "Alan",
+   "ts": "1:28:21"
+  },
+  {
+   "tese": "Distância e forma/conteúdo são eixos distintos, reconhecíveis pelo tipo de erro que produzem.",
+   "argumento": "Errar a distância deixa o paciente confuso ou sem material; errar forma/conteúdo faz o paciente aplicar, quebrar a cara e repetir o padrão ('enxugar gelo').",
+   "contraponto": "Uma participante os via como muito ligados.",
+   "implicacao": "Diagnosticar a própria intervenção pelo efeito que ela produziu.",
+   "quem": "Alan",
+   "ts": "1:32:03"
+  },
+  {
+   "tese": "As pessoas tendem a atribuir causas próximas e únicas, raramente formulações estruturais sobre si.",
+   "argumento": "Exemplos cotidianos: culpar o parceiro, 'o cara da festa é babaca', 'fui mal porque não estudei'.",
+   "contraponto": "",
+   "implicacao": "O terapeuta constrói a forma a partir de vários conteúdos, sem esperar que o paciente a traga pronta.",
+   "quem": "Alan",
+   "ts": "1:09:27"
+  },
+  {
+   "tese": "'O corpo é sempre o mais próximo' é uma regra incorreta.",
+   "argumento": "Há pessoas tão desconectadas do corpo que a sensação corporal é o mais exógeno; ainda assim, em regra, é mais rápido desenvolver consciência corporal do que capacidade de atribuir sentido.",
+   "contraponto": "A regra difundida de que o corpo é sempre o mais próximo.",
+   "implicacao": "Calibrar a distância pela pessoa e pelo aquecimento da sessão.",
+   "quem": "Alan",
+   "ts": "1:46:08"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "A escolha de uma inação é também uma escolha moral.",
+   "tema": "intensidade",
+   "ts": "0:01:48"
+  },
+  {
+   "texto": "A gente é um pouco cego para o que está sentindo e muito cego para as causas do que está sentindo.",
+   "tema": "distância",
+   "ts": "0:02:30"
+  },
+  {
+   "texto": "Sempre que você transforma uma hipótese numa acusação, fica mais agressivo. Sempre que, em vez de singularizar, você generaliza, a pessoa é abraçada pela humanidade.",
+   "tema": "intensidade",
+   "ts": "0:31:30"
+  },
+  {
+   "texto": "As pessoas levam o cachorro ao veterinário, mas não vão ao médico.",
+   "tema": "generalização",
+   "ts": "0:30:39"
+  },
+  {
+   "texto": "Falar para a pessoa que a situação é difícil não ameniza uma sentença. Você nem sabe se aquilo merece ser reforçado.",
+   "tema": "validação",
+   "ts": "0:27:55"
+  },
+  {
+   "texto": "Posso encher vocês de exemplos específicos, e isso não ajuda em nada. Quero que dominem uma ou duas regras, para que com qualquer frase sejam dois segundos.",
+   "tema": "formação",
+   "ts": "0:39:38"
+  },
+  {
+   "texto": "Quanto mais você explicita o seu raciocínio, menos intensa é a intervenção. Quanto mais saltos você dá, mais agressiva ela fica.",
+   "tema": "intensidade",
+   "ts": "0:43:58"
+  },
+  {
+   "texto": "Mudar a intervenção não é um erro clínico; é um erro para a proposta do exercício.",
+   "tema": "feedback",
+   "ts": "0:42:04"
+  },
+  {
+   "texto": "A intervenção é mais potente quanto menos você precisa explicá-la enquanto a faz.",
+   "tema": "potência",
+   "ts": "1:04:06"
+  },
+  {
+   "texto": "Quase sempre que você se sente perdido na clínica, fazer a mesma pergunta direcionada para a forma funciona.",
+   "tema": "forma e conteúdo",
+   "ts": "1:29:27"
+  },
+  {
+   "texto": "Ir do específico para o geral e do geral para o específico é rodar no círculo hermenêutico. Isso é interpretar.",
+   "tema": "interpretação",
+   "ts": "1:30:23"
+  },
+  {
+   "texto": "Quando você erra a distância, o paciente fica confuso. Quando você erra forma e conteúdo, você enxuga gelo.",
+   "tema": "erros clínicos",
+   "ts": "1:32:48"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Como deixar uma intervenção mais branda sem mudar o que você quer dizer",
+   "mensagem": "Amenizar não é validar: generalize ('a gente'), explicite o raciocínio, abra a pergunta.",
+   "roteiro": [
+    "Capa: a mesma pergunta pode soar como acusação ou como convite",
+    "Alavanca 1: troque 'você' por 'a gente'",
+    "Alavanca 2: mostre o caminho do seu raciocínio",
+    "Alavanca 3: pergunta aberta em vez de sim/não",
+    "Alavanca 4: pergunte primeiro a parte menos ameaçadora",
+    "Fechamento: o que NÃO ameniza: 'deve ser difícil pra você'"
+   ],
+   "corte_inicio": "0:29:28",
+   "corte_fim": "0:31:30"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "O truque mais simples para uma pergunta ficar mais confrontativa",
+   "mensagem": "Toda pergunta carrega uma hipótese; afirmá-la aumenta a intensidade sem mudar a intervenção.",
+   "roteiro": [
+    "'Qual a importância de dar conta de tudo?'",
+    "vira 'Por que você precisa tanto dar conta de tudo?'",
+    "Mesma pergunta, outra dose"
+   ],
+   "corte_inicio": "0:17:40",
+   "corte_fim": "0:19:14"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "'Deve ser difícil para você' não ameniza nada",
+   "mensagem": "Validar reforça algo que você nem sabe se merece reforço, e pode soar irônico.",
+   "roteiro": [
+    "Frase de impacto",
+    "Legenda com os três motivos"
+   ],
+   "corte_inicio": "0:26:51",
+   "corte_fim": "0:28:59"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Perdido na sessão? Mire a forma",
+   "mensagem": "Conteúdo é a situação; forma é o modo de ser. Refazer a mesma pergunta mirando a forma costuma destravar a direção.",
+   "roteiro": [
+    "O que é conteúdo",
+    "O que é forma",
+    "Exemplo de pergunta nos dois polos",
+    "Quando usar"
+   ],
+   "corte_inicio": "1:28:21",
+   "corte_fim": "1:30:23"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Da ACT a Jung, todo mundo circula entre o específico e o geral",
+   "mensagem": "Forma/conteúdo aparece com outros nomes em várias abordagens; é o círculo hermenêutico.",
+   "roteiro": [
+    "ACT",
+    "Gestalt",
+    "Lacan",
+    "Jung: sístole e diástole",
+    "Círculo hermenêutico"
+   ],
+   "corte_inicio": "1:30:23",
+   "corte_fim": "1:31:20"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Paciente confuso ou paciente que repete o erro? Qual eixo você errou",
+   "mensagem": "Erro de distância gera confusão; erro de forma/conteúdo gera repetição ('enxugar gelo').",
+   "roteiro": [
+    "Sintoma 1: 'não sei' → distância",
+    "Sintoma 2: aplica e quebra a cara → forma/conteúdo"
+   ],
+   "corte_inicio": "1:31:32",
+   "corte_fim": "1:33:53"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Uma vinheta, uma intervenção e o grupo inteiro variando no chat",
+   "mensagem": "Como o Aprimoramento treina construção frasal na prática.",
+   "roteiro": [
+    "Voluntário conta uma situação",
+    "Facilitador intervém",
+    "Chat se enche de variações",
+    "Feedback por eixo"
+   ],
+   "corte_inicio": "0:03:37",
+   "corte_fim": "0:05:43"
+  },
+  {
+   "formato": "stories",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Enquete: qual é mais branda, 'Você realmente está sem tempo?' ou 'Você realmente quer?'",
+   "mensagem": "Pergunta aberta dá margem e é mais branda; fechada confronta.",
+   "roteiro": [
+    "Enquete",
+    "Resposta com a regra"
+   ],
+   "corte_inicio": "0:49:59",
+   "corte_fim": "0:52:51"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Jung",
+   "contexto": "Citado como exemplo de que forma/conteúdo aparece com outra nomenclatura ('sístole e diástole' (?), dois movimentos clínicos alternados), sobretudo no seminário sobre análise de sonhos."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Mencionado entre os autores em quem o movimento forma/conteúdo aparece."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Alan)",
+  "objetivo": "Treinar competências clínicas específicas por meio de dinâmicas práticas com feedback imediato. Neste encontro, a construção frasal da intervenção.",
+  "publico": "Psicólogos e estudantes de psicologia em formação (alguns já atendem).",
+  "tamanho": "~12 participantes ativos",
+  "duracao": "~2 horas (gravação de 1h49)",
+  "estrutura_padrao": "Retomada dos conceitos do encontro anterior → combinados da dinâmica → vinheta de roleplay curta → intervenção âncora → respostas de todos no chat → rodadas de variação com feedback → novo conceito → nova vinheta → discussão e dúvidas → fechamento com pedido de feedback sobre o formato.",
+  "papel_facilitador": "Desenha e redesenha a dinâmica ao vivo, escolhe as âncoras, corrige por critérios objetivos, extrai regras gerais das respostas do grupo, dá a resposta quando o grupo trava, faz parênteses teóricos e checa a compreensão.",
+  "regras_combinados": "Foco só na comunicação; a direção escolhida é assumida como correta; não vale trocar a intervenção; seguir a linha de raciocínio do colega; as vinhetas podem ser inventadas; todos respondem no chat (quem não pode, por voz); o encontro é gravado e a conversa de feedback final ocorre fora da gravação."
+ },
+ "reflexoes_do_facilitador": [
+  "Reconhece ter explicado distância 'de maneira porca' no encontro anterior, embora o grupo a tenha executado bem; intensidade ficou clara no conceito, mas difícil na execução, sobretudo ao amenizar (0:53:31).",
+  "Surpreende-se com a dificuldade do grupo e explica por que está sendo insistente (0:22:11).",
+  "'Talvez seja algo da estrutura do exercício que não consegui deixar claro': seguir sempre a mesma linha de raciocínio do colega (0:36:38).",
+  "'Eu deveria ter reforçado': deixou em elipse a instrução de trocar só o final da frase (1:23:37).",
+  "Queria introduzir o terceiro eixo desde o início, mas ficou preso consolidando intensidade; só coube forma/conteúdo, e avalia que valeu por consolidar os anteriores (0:53:31, 1:14:05).",
+  "Admite não ter respondido uma pergunta a contento e tenta de novo com outras palavras (1:19:32).",
+  "Atribui a diferença de dificuldade entre os eixos à própria clareza ao explicar, não à complexidade intrínseca (1:28:21).",
+  "Para uma próxima vez, quer exigir que as respostas mudem o mínimo possível de texto (1:26:05).",
+  "Começa o encontro aplicando a estrutura que planejara e não coubera no encontro anterior: ele próprio intervém e todos respondem no chat (0:04:56).",
+  "Pergunta ao grupo se deveria sistematizar ~20 eixos em PDF ou série de vídeos (1:48:19)."
+ ],
+ "referencias_a_outros_encontros": [
+  "Retoma o encontro anterior, em que foram apresentados os eixos distância e intensidade e em que não houve tempo para a estrutura da dinâmica usada agora. A apresentação explícita desses eixos não aparece na transcrição de Alan 02 - Construção frasal, então pode ter sido um encontro não gravado ou não incluído na série.",
+  "Alan 02 - Construção frasal termina com Alan propondo dividir o exercício de variação em exercícios menores com vinheta fixa (deixar a intervenção mais e menos agressiva), formato que se realiza aqui.",
+  "Uma participante menciona ter aprendido intensidade e distância 'no outro grupo'.",
+  "Planos futuros: possível PDF ou série de vídeos com ~20 eixos; refazer o exercício exigindo mudanças mínimas no texto.",
+  "Alan menciona a 'história épica' da marca de carro num roleplay de dez anos atrás, 'para um outro momento'."
+ ],
+ "observacoes": "Transcrição automática com ruído, mas compreensível. Termos corrigidos: 'distância experial' → distância experiencial; 'cístol e deoli' → 'sístole e diástole' (?), atribuído a Jung; 'teológico' pode ser 'teleológico' (?). Os nomes dos participantes aparecem com grafias variáveis e foram anonimizados na nota. As duas vinhetas são roleplays feitos por participantes ('não precisa nem ser verdade'), descritos genericamente; os exemplos da nota 4 e do tapa são hipotéticos, construídos por Alan. Alan usa deliberadamente exemplos caricatos e linguagem crua (ex.: 'vagabunda', 'burro') para tornar os eixos visíveis. A conversa final de feedback aconteceu após o fim da gravação."
+}

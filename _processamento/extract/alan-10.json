@@ -1,0 +1,1063 @@
+{
+  "id": "alan-10",
+  "nota": "Alan 10 - Escuta em sistêmica",
+  "pasta": "02 - Encontros do Alan",
+  "titulo": "Escuta em sistêmica",
+  "serie": "Aprimoramento clínico - Alan",
+  "formato": "Aprimoramento clínico",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Alan abre refletindo publicamente sobre como lidou com uma participante que o contestou no encontro anterior: agradece o incômodo, pede mais contestação e faz um disclaimer sobre seu grau de domínio de cada abordagem. Depois recapitula os princípios da escuta na análise do comportamento (parcimônia e razão como divisão) e apresenta a sistêmica como antítese: propriedades emergem da interação, e a escuta deve conectar pontos distantes da narrativa e ter falta de pressa, deixando o problema complexificar-se. Num roleplay em que Alan é o paciente e o grupo inteiro é o terapeuta, os participantes tendem a aprofundar, provocar e metaforizar; o feedback aponta três vícios — o 'então', a provocação sem base e a metáfora sem hipótese — e discute construção frasal ('E B?'), hipótese aberta e atendimento duplo. Na extensão final, Alan apresenta o método filológico de Jung (paralelos que voltam ao texto base com uma inflexão nova), diferencia-o da sistêmica e da associação livre freudiana, e discute critérios de validade da interpretação e a individuação (metáfora da bússola).",
+  "em_uma_frase": "Na escuta sistêmica não se aprofunda nem se flutua: conectam-se pontos distantes da narrativa e deixa-se o problema crescer — e o terapeuta deve deixar o paciente fazer a conexão, em vez de fechá-la com um 'então'.",
+  "competencias": [
+    "Escuta clínica",
+    "Interpretação",
+    "Aprofundamento",
+    "Intervenção",
+    "Construção frasal",
+    "Psicoeducação",
+    "Relação terapêutica",
+    "Direção do tratamento",
+    "Articulação teoria-prática"
+  ],
+  "abordagens": [
+    "Terapia sistêmica",
+    "Análise do comportamento",
+    "Psicologia analítica junguiana",
+    "Psicanálise freudiana",
+    "Psicanálise lacaniana",
+    "Terapia cognitivo-comportamental",
+    "Gestalt-terapia",
+    "Fenomenologia e existencialismo"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:01",
+      "bloco": "Abertura",
+      "descricao": "Reflexão sobre o encontro anterior: Alan agradece o questionamento de uma participante sobre sua apresentação da TCC e pede que o grupo traga seus incômodos.",
+      "funcao": "Legitimar o conflito como motor de aprendizagem e reparar a relação com o grupo antes de seguir.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:02:43",
+      "bloco": "Abertura",
+      "descricao": "Disclaimer: explicita seu estilo de ensino (provocativo, didático, incômodo, didática por antítese) e mapeia seu grau de domínio de cada abordagem (especialista / bom domínio / de orelhada).",
+      "funcao": "Calibrar a autoridade do facilitador; orientar com que cautela ouvir cada tema e quando perguntar.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:07:36",
+      "bloco": "Retomada",
+      "descricao": "Explica a estrutura da 'dinâmica das escutas' (teoria rápida + exercício simples a treinar à exaustão) e recapitula os encontros anteriores (fenomenologia, psicanálise, TCC, análise do comportamento).",
+      "funcao": "Situar o encontro na série.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:09:23",
+      "bloco": "Retomada",
+      "descricao": "Recap por perguntas dos dois princípios da escuta na análise do comportamento: parcimônia (navalha de Ockham) e razão como divisão (Iluminismo).",
+      "funcao": "Montar a 'tese' contra a qual a sistêmica será apresentada como antítese.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:13:50",
+      "bloco": "Teoria",
+      "descricao": "Sistêmica: cibernética, unificação da linguagem da ciência, emergência na interação (exemplo do casal de pessoas tranquilas que gera estresse).",
+      "funcao": "Apresentar o conceito central do dia.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:17:49",
+      "bloco": "Teoria",
+      "descricao": "Passo atrás histórico: alquimia 'do obscuro ao mais obscuro'; o Iluminismo é que foi a novidade.",
+      "funcao": "Desnaturalizar a lógica iluminista que o aluno traz da escola.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:20:38",
+      "bloco": "Comparação de abordagens",
+      "descricao": "Pergunta ao grupo como a análise do comportamento faria terapia de casal; comenta os chutes; apresenta a técnica de registro e aumento de comportamentos positivos.",
+      "funcao": "Mostrar a tese em forma concreta e com participação.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:26:04",
+      "bloco": "Teoria",
+      "descricao": "A escuta sistêmica faz a operação oposta: do obscuro ao mais obscuro; exemplo de sessão que se complexifica e gera autoconhecimento.",
+      "funcao": "Apresentar a antítese de forma concreta.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:29:00",
+      "bloco": "Teoria",
+      "descricao": "'Regrinha' em duas operações: conectar pontos não obviamente conectáveis + falta de pressa (metáfora do bolo).",
+      "funcao": "Operacionalizar a teoria para a prática.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:30:34",
+      "bloco": "Dúvidas",
+      "descricao": "Como complexificar? Como justificar ao paciente? Alan encena um roteiro de psicoeducação.",
+      "funcao": "Consolidar e antecipar obstáculos clínicos.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:35:28",
+      "bloco": "Dinâmica",
+      "descricao": "Montagem: pedido de voluntários, adaptação para 'terapeuta coletivo', consigna (complexificar, não resolver).",
+      "funcao": "Preparar o exercício.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:39:54",
+      "bloco": "Dinâmica",
+      "descricao": "Roleplay: Alan interpreta o paciente de um caso de ensino simulado; participantes fazem perguntas.",
+      "funcao": "Prática da escuta sistêmica.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:41:50",
+      "bloco": "Feedback",
+      "descricao": "Pausa 1: diferença entre aprofundar, flutuar e conectar; Alan não entrega a resposta.",
+      "funcao": "Correção no calor da prática.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "0:48:47",
+      "bloco": "Feedback",
+      "descricao": "Pausa 2: destaca a intervenção que mais se aproximou (conectar o luto da mãe ao término).",
+      "funcao": "Modelar pelo acerto.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:49:33",
+      "bloco": "Dinâmica",
+      "descricao": "Roleplay continua; acumulam-se metáforas, provocações e junções com 'então'.",
+      "funcao": "Prática (e produção de material para o feedback).",
+      "duracao_min": 17
+    },
+    {
+      "ts": "1:06:14",
+      "bloco": "Feedback",
+      "descricao": "Autoavaliação do grupo ('ficou confuso') e feedback em três vícios: 'então', provocação, metáfora.",
+      "funcao": "Feedback estruturado, coletivo e não individualizado.",
+      "duracao_min": 10
+    },
+    {
+      "ts": "1:16:39",
+      "bloco": "Tarefa",
+      "descricao": "Propõe a dinâmica 'intervenção em cadeia' para o próximo aprimoramento.",
+      "funcao": "Exercício complementar para intervenções soltas (metáfora sem hipótese).",
+      "duracao_min": 1
+    },
+    {
+      "ts": "1:17:33",
+      "bloco": "Dúvidas",
+      "descricao": "'Como você junta A e B?' x 'E B?'; responder quando o paciente pergunta; hipótese aberta; anotação aberta; atendimento duplo; cuidado nas fenomenológicas.",
+      "funcao": "Refinar construção frasal e postura relacional.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "1:23:46",
+      "bloco": "Discussão",
+      "descricao": "Balanço: exercícios com vários terapeutas são difíceis; autocrítica sobre a explicação; duração dos grupos; próximos passos (analítica, esquemas de aprofundamento).",
+      "funcao": "Metacomentário e calibragem de expectativas; negociação de tempo.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "1:26:46",
+      "bloco": "Teoria",
+      "descricao": "Psicologia analítica: método filológico (batráquio, aranha; qualquer coisa pode ser paralelo).",
+      "funcao": "Segundo conteúdo, contrastante com a sistêmica.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "1:34:34",
+      "bloco": "Dúvidas",
+      "descricao": "Parêntese: método comparativo como método para falar de estrutura (Darwin, anatomia, linguística, Lévi-Strauss, Nietzsche, Foucault).",
+      "funcao": "Responder dúvida epistemológica.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "1:39:08",
+      "bloco": "Teoria",
+      "descricao": "Propriedades do método comparativo: de um específico a outro específico; toda inflexão deve trazer algo novo e não óbvio ao texto base.",
+      "funcao": "Corrigir a imagem simplificada ('regra geral') dada antes.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "1:42:10",
+      "bloco": "Comparação de abordagens",
+      "descricao": "Sistêmica x psicologia analítica x psicanálise: texto base, peso da conexão, retorno ao fenômeno inicial; Barba Azul x Bela e a Fera; crítica à associação livre.",
+      "funcao": "Diferenciação fina, construída a partir das dúvidas.",
+      "duracao_min": 12
+    },
+    {
+      "ts": "1:54:30",
+      "bloco": "Dúvidas",
+      "descricao": "Quando voltar ao texto base; divergência com um comentador de Jung; critérios de validade da interpretação; individuação e metáfora da bússola.",
+      "funcao": "Aprofundamento livre para quem ficou.",
+      "duracao_min": 15
+    },
+    {
+      "ts": "2:09:15",
+      "bloco": "Fechamento",
+      "descricao": "Encerramento informal, sem síntese nem tarefa formal; conversa sobre parar a gravação.",
+      "funcao": "Encerrar (sem estrutura explícita).",
+      "duracao_min": 1
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Cibernética",
+      "definicao": "Movimento científico do qual nasce o pensamento sistêmico, animado pelo ideal de unificar a linguagem de todas as ciências (física, química, robótica, psicologia) nos mesmos termos.",
+      "exemplo": "Efeito borboleta como exemplo popular.",
+      "abordagem": "Terapia sistêmica",
+      "ts": "0:13:50"
+    },
+    {
+      "nome": "Propriedade emergente",
+      "definicao": "Formulação preferida por Alan para a tese sistêmica: na interação entre as partes emergem propriedades que não eram óbvias no exame das partes em separado. Ele a prefere a 'o todo é maior que a soma das partes', que considera filosoficamente imprecisa.",
+      "exemplo": "Duas pessoas tranquilas que, juntas, produzem estresse no casal.",
+      "abordagem": "Terapia sistêmica",
+      "ts": "0:15:50"
+    },
+    {
+      "nome": "Princípio da parcimônia",
+      "definicao": "Navalha de Ockham: entre duas explicações, escolha a que usa menos entidades. Primeiro princípio filosófico da escuta na análise do comportamento; base da recusa skinneriana do inconsciente como entidade desnecessária.",
+      "exemplo": "Acordei porque o despertador tocou, e não porque Freddie Mercury ressuscitou para sussurrar no meu ouvido.",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:10:30"
+    },
+    {
+      "nome": "Razão como divisão",
+      "definicao": "Princípio iluminista (ratio = dividir): para entender um problema complexo, quebre-o em partes menores até chegar a uma unidade simples a ponto de ser óbvia. Segundo princípio da escuta na análise do comportamento.",
+      "exemplo": "O amor dividido em conquista, estabelecimento e manutenção, até restar 'dar um passo na direção da pessoa amada'.",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:12:30"
+    },
+    {
+      "nome": "Do obscuro ao mais obscuro",
+      "definicao": "Lema alquímico (obscurum per obscurius) usado por Alan para descrever o movimento de conhecimento da sistêmica: explicar um desconhecido por algo ainda mais desconhecido. O paciente sai mais confuso sobre 'como funciona', mas sentindo que se conhece melhor.",
+      "exemplo": "Queixa sobre louça e cumprimentos que termina ligada ao casamento dos pais, ao chefe e ao símbolo do Cristo em peixes.",
+      "abordagem": "Terapia sistêmica",
+      "ts": "0:18:54"
+    },
+    {
+      "nome": "Complexificação do problema",
+      "definicao": "Objetivo da escuta sistêmica: não compreender nem resolver cedo o problema, mas fazê-lo crescer, enriquecer e complexificar-se, porque é nessa complexidade que se trabalha. Duas operações: conectar pontos distantes da narrativa e ter falta de pressa.",
+      "exemplo": "Metáfora do bolo que precisa crescer; resolver cedo é 'enxugar gelo'.",
+      "abordagem": "Terapia sistêmica",
+      "ts": "0:29:30"
+    },
+    {
+      "nome": "Terapia comportamental de casal",
+      "definicao": "Técnica clássica de behavioristas radicais: cada membro do casal registra os comportamentos do outro na semana, classificam-se em bons e ruins, e a meta é aumentar a proporção de comportamentos bons, com gráfico e metas semanais.",
+      "exemplo": "'Me deu oi quando cheguei' (bom) x 'deixou louça para eu lavar' (ruim).",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:22:47"
+    },
+    {
+      "nome": "Aprofundamento",
+      "definicao": "Aqui distinguido de flutuar e de conectar: aprofundar é ficar num elemento e ir mais fundo (pedir definição, especificação, história); flutuar é seguir associações; a escuta sistêmica não faz nenhum dos dois, conecta elementos.",
+      "exemplo": "'O que é cumprir papel de pai para ela?' é aprofundamento, não conexão.",
+      "abordagem": "Terapia sistêmica",
+      "ts": "0:41:50"
+    },
+    {
+      "nome": "Associação livre",
+      "definicao": "Apresentada como o 'flutuar' freudiano: seguir as associações sem retornar ao fenômeno inicial. Para Alan, isso faz o paciente ser arrastado ao complexo mais ativo e aos interesses teóricos do analista.",
+      "exemplo": "O freudiano que interpreta um poema de Drummond, passa ao poema de Poe (?), à avó, ao avô, e nunca interpreta o Drummond.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "1:51:35"
+    },
+    {
+      "nome": "Hipótese aberta",
+      "definicao": "Hipótese clínica explicitada ao paciente, que pode confrontá-la; em regra mais fácil de trabalhar e testar do que a hipótese oculta. Implica responder quando o paciente pergunta o que o terapeuta está pensando e fazer anotações à vista nas abordagens colaborativas.",
+      "exemplo": "Anotar virado para o paciente ou desenhar junto na tela, online; o analista, ao contrário, pode anotar escondido porque a fantasia do paciente é material.",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "1:19:56"
+    },
+    {
+      "nome": "Atendimento duplo",
+      "definicao": "Fenômeno comum entre iniciantes: há um atendimento maravilhoso que acontece só na cabeça do terapeuta (e no relato ao supervisor) e outro, ruim, que acontece de fato na vida do paciente. Hipóteses ocultas favorecem esse descompasso.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "1:22:02"
+    },
+    {
+      "nome": "Provocação clínica",
+      "definicao": "Alfinetada deliberada no paciente; pode ser aberta ou fechada. Funciona bem quando há vínculo e tempo de atendimento, quando o terapeuta tem muita segurança, ou quando o conteúdo está explícito no discurso do paciente; sem isso, soa como implicância.",
+      "exemplo": "No roleplay, o termo 'pau mandado' foi trazido pelos terapeutas, não pelo paciente.",
+      "abordagem": "",
+      "ts": "1:09:39"
+    },
+    {
+      "nome": "Metáfora clínica",
+      "definicao": "Imagem usada na intervenção. É potente, mas deve usar o vocabulário do paciente (mais precisão) e estar atrelada a um raciocínio clínico; metáforas puramente estéticas ficam para quando o terapeuta já sabe construir a hipótese depois.",
+      "exemplo": "Excesso de metáforas futebolísticas (bola pra trás, técnico, treinador) no roleplay.",
+      "abordagem": "",
+      "ts": "1:13:52"
+    },
+    {
+      "nome": "Método filológico",
+      "definicao": "Método que Jung mais utiliza como base da escuta: entender um símbolo emparelhando usos concretos dele (sonhos, mitos, histórias, a vida do paciente, fantasias do terapeuta, outros pacientes). Nada no método obriga a falar de sonhos e mitos.",
+      "exemplo": "Aprender o que é 'batráquio' pelos usos da palavra, como a criança aprende 'au-au' e 'miau'; o símbolo 'aranha' em sonhos, mitos e histórias infantis.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:29:57"
+    },
+    {
+      "nome": "Método comparativo",
+      "definicao": "Método de conhecer estruturas por comparação de casos; para Alan, o método científico usado sempre que se fala de estrutura. Vai de um específico a outro específico, e não a uma regra geral platônica.",
+      "exemplo": "Darwin comparando espécies, anatomia comparada, linguística, Lévi-Strauss, a genealogia de Nietzsche e Foucault.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:35:13"
+    },
+    {
+      "nome": "Inflexão interpretativa",
+      "definicao": "O elemento novo e não óbvio que um paralelo acrescenta ao texto base (o fenômeno que se quer interpretar). Um paralelo só é válido se trouxer uma inflexão; o trabalho nessa fase é enriquecer o texto, não interpretá-lo.",
+      "exemplo": "Barba Azul ('se não há confiança, a fera aparece') x A Bela e a Fera ('se você convive com a fera, ela vira príncipe'): estruturas parecidas, inflexões diferentes.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:40:54"
+    },
+    {
+      "nome": "Critérios de validade da interpretação",
+      "definicao": "Heurísticas para saber se uma interpretação é boa, já que a cadeia significante não tem fim: surpresa e mudança de posição do paciente; simplicidade; o futuro (a próxima sessão, a vida melhorar); e, menos preferido, a adequação à teoria.",
+      "exemplo": "'Como os animais aprendem a verdade? Adoecendo' (Jung): o gatinho que come a folha venenosa.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "2:00:01"
+    },
+    {
+      "nome": "Individuação",
+      "definicao": "Processo natural que a terapia junguiana emula: dialética entre sujeito e realidade — interpretar a própria posição, tomar uma decisão consciente, receber a compensação do mundo, interpretar de novo.",
+      "exemplo": "Metáfora da bússola: ler o norte é interpretar; ir ou não é escolha; ler que o namoro é abusivo e decidir ficar, e a realidade 'comentar' essa posição.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "2:06:09"
+    },
+    {
+      "nome": "Compensação",
+      "definicao": "Hipótese junguiana de que o inconsciente/mundo responde à atitude consciente com uma antítese. Alan sustenta que, no último texto de Jung, nem ela é axioma básico do método.",
+      "exemplo": "",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:57:05"
+    },
+    {
+      "nome": "Significante",
+      "definicao": "Citado via Lacan: não existe final para uma cadeia significante, logo nenhuma interpretação é definitiva — ponto de partida da discussão sobre critérios de validade.",
+      "exemplo": "",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "2:00:01"
+    },
+    {
+      "nome": "Pragmatismo",
+      "definicao": "Tradição de William James à qual Skinner se filiaria para justificar sua posição científica; Alan considera essa filiação 'forçação de barra'.",
+      "exemplo": "",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:11:34"
+    },
+    {
+      "nome": "Cosmovisão",
+      "definicao": "Alan descreve sua didática como confronto de cosmovisões e abordagens (didática por antítese): apresentar um ponto de vista e logo outro que o contradiz.",
+      "exemplo": "Análise do comportamento como tese, sistêmica como antítese.",
+      "abordagem": "",
+      "ts": "0:02:43"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Escuta em sistêmica",
+      "objetivo": "Treinar a escuta própria de uma abordagem — aqui a sistêmica: fazer perguntas que complexifiquem e enriqueçam o caso (não que o resolvam), conectando pontos distantes da narrativa. Se der certo, vê-se como funciona; se der errado, vê-se como não fazer.",
+      "competencias": [
+        "Escuta clínica",
+        "Intervenção",
+        "Construção frasal",
+        "Aprofundamento"
+      ],
+      "configuracao": "Online, grupo todo. O facilitador faz o paciente. Plano original: 1 ou 2 voluntários como terapeuta; adaptado em tempo real para duas pessoas 'principais' e todo o grupo podendo intervir como 'terapeuta coletivo', levantando a mão.",
+      "tempo": "~4 min de montagem + ~26 min de roleplay (com 2 pausas) + ~11 min de feedback + ~6 min de dúvidas",
+      "materiais": "Caso de ensino fictício 'em camadas', desconhecido do grupo (Alan usou um dos casos canônicos da Allos, que diz constar no 'Trello teórico' (?)); papel para o facilitador anotar as intervenções.",
+      "consigna": "Vou contar um caso cheio de meandros e ser o paciente. Me façam perguntas para eu falar mais — não na tentativa de resolver, mas de complexificar e enriquecer o problema. Esse caso é como os ogros e as cebolas: tem camadas. Se tentarem resolver, não tem graça; a graça é complexificar, entender mais. Levanta a mão quem for perguntar; depois analisamos a qualidade das perguntas.",
+      "passos": [
+        "Dar a teoria mínima e a regra operacional (conectar pontos distantes + falta de pressa).",
+        "Pedir voluntários; se houver pouca adesão, abrir para intervenção coletiva mantendo um ou dois 'principais'.",
+        "Escolher um caso que ninguém conheça, dizer a consigna e checar se ficou clara.",
+        "Iniciar a sessão com o facilitador no papel de paciente coerente e um pouco resistente, que só entrega fatos importantes se perguntado.",
+        "Pausar ('pausa na dinâmica') quando surgir um padrão a corrigir, nomear o princípio sem dar a resposta e retomar.",
+        "Pausar também para destacar a intervenção que mais se aproximou do alvo.",
+        "Encerrar e pedir a autoavaliação do grupo ('vocês acham que conseguiram extrair informação do caso?').",
+        "Dar feedback estruturado em poucos itens nomeados, dirigido ao grupo, com exemplos das anotações.",
+        "Abrir dúvidas e refinar (construção frasal, postura)."
+      ],
+      "feedback": "Critério central: a pergunta conecta dois elementos da narrativa (ou um elemento e a fantasia do terapeuta) de modo que emerja algo não óbvio, ou apenas aprofunda um elemento (definição, especificação, história)? Quem faz a junção deve ser o paciente (evitar o 'então'). Provocação só com base explícita no discurso e vínculo. Metáfora com vocabulário do paciente e hipótese clínica. Coletar fatos básicos cedo. Calibragem: 'para a complexidade do exercício não mandaram mal; dado que era sobre escuta em sistêmica, mandaram mal'. Feedback coletivo em três vícios: 'então', provocação, metáfora.",
+      "exemplos_praticos": "Caso simulado (Alan como homem de meia-idade que vem por insistência da ex-esposa, preocupada com a influência dele sobre o filho jovem adulto). Perguntas de aprofundamento ('o que é cumprir papel de pai para ela?', 'o que seria má influência?') foram pausadas e apontadas como aprofundamento. Houve perguntas aleatórias (tem cachorro? planta?). A intervenção elogiada ligou o modo como o paciente lidou com a morte da mãe ('bola pra frente') ao término ('é assim que você está lidando também com o término?'). Depois o grupo acumulou metáforas (técnico, treinador, bola pra trás), provocações não ancoradas no discurso ('pau mandado') e junções com 'então'; um fato central (o filho morando com ele havia pouco tempo) só surgiu após ~30 min. O grupo avaliou que ficou confuso.",
+      "variacoes": "Refazer proibindo o 'então'; refazer usando menos (ou nenhuma) metáfora; o facilitador fazer uma demonstração atendendo pela sistêmica (há pouco material de atendimento sistêmico disponível). A mesma estrutura serve às outras escutas da série (fenomenologia, psicanálise, TCC, análise do comportamento, analítica).",
+      "armadilhas": "Dinâmicas com vários terapeutas são difíceis: as pessoas não seguem a linha de raciocínio do colega, aprofundam pontos aleatórios e perdem o timing clínico. Cada exercício 'é um grupo inteiro' — acelerá-lo num único encontro tem custo. Tendência do grupo a provocar, metaforizar e fechar sentido pelo paciente.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:35:28"
+    },
+    {
+      "nome": "Dinâmica - Intervenção em cadeia",
+      "objetivo": "Acostumar o terapeuta a pensar não em intervenções pontuais, mas em encadeamentos de raciocínio clínico; antídoto para intervenções soltas (como a metáfora sem hipótese).",
+      "competencias": [
+        "Intervenção",
+        "Direção do tratamento"
+      ],
+      "configuracao": "Atendimento simulado (roleplay); Alan diz tê-la feito uma vez com um grupo externo (transcrito como 'pessoal do FMG' — UFMG (?)).",
+      "tempo": "Não informado (proposta para um encontro futuro).",
+      "materiais": "Um caso para roleplay.",
+      "consigna": "Você vai fazer um atendimento, só que, na hora em que fizer uma intervenção, tem de dizer quais serão as próximas duas intervenções que você vai fazer.",
+      "passos": [
+        "Montar um roleplay de atendimento.",
+        "A cada intervenção, o terapeuta anuncia as duas intervenções seguintes e continua o atendimento."
+      ],
+      "feedback": "Não detalhado; o critério implícito é haver direção clínica ('quando você tem uma próxima pergunta').",
+      "exemplos_praticos": "Apenas proposta, oferecida ao grupo para o próximo aprimoramento.",
+      "variacoes": "",
+      "armadilhas": "",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "1:16:39"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Reparação pública de um conflito anterior",
+      "descricao": "Abre o encontro retomando, de forma registrada, a discordância de uma participante no grupo anterior: diz que poderia ter lidado melhor e assume o que foi falha de enquadre (faltou disclaimer), sem ceder no mérito.",
+      "exemplo": "'Ficou rodando na minha cabeça como eu deveria ter lidado... apesar de ter lidado bem, poderia ter sido um pouquinho melhor.'",
+      "ts": "0:00:01"
+    },
+    {
+      "movimento": "Legitimar e pedir o conflito",
+      "descricao": "Transforma a contestação em contribuição e autoriza explicitamente o grupo a discordar, ligando isso a uma teoria de ensino (aprende-se no incômodo).",
+      "exemplo": "Diz que adoraria que todos ficassem incomodados como ela ficou; 'isso faz parte da minha personalidade'.",
+      "ts": "0:00:48"
+    },
+    {
+      "movimento": "Disclaimer de domínio",
+      "descricao": "Mapeia publicamente em que é especialista, em que tem bom domínio e o que conhece 'de orelhada', para o grupo saber com que cautela ouvir e o que perguntar.",
+      "exemplo": "'Se seu professor falou uma coisa diferente [em Gestalt, psicanálise freudiana, ACT], provavelmente seu professor tá certo.'",
+      "ts": "0:03:44"
+    },
+    {
+      "movimento": "Recap por perguntas",
+      "descricao": "Retoma o conteúdo anterior perguntando ao grupo, corrigindo rápido e aceitando respostas aproximadas antes de completar.",
+      "exemplo": "'Não, não é estímulo e resposta'; 'esse aí mais ou menos serve'.",
+      "ts": "0:09:23"
+    },
+    {
+      "movimento": "Exemplos absurdos e memoráveis",
+      "descricao": "Usa exemplos exagerados para fixar princípios abstratos.",
+      "exemplo": "Freddie Mercury ressuscitado sussurrando no ouvido x despertador (navalha de Ockham).",
+      "ts": "0:10:30"
+    },
+    {
+      "movimento": "Vestir o chapéu da abordagem e convocar chutes",
+      "descricao": "Assume a voz de um autor/abordagem e pede palpites ao grupo antes de dar a resposta, comentando os chutes e pedindo mais precisão, com autoironia.",
+      "exemplo": "'Botei meu chapéu do Skinner... pode chutar, gente'; 'pode ser eu que sou burro'.",
+      "ts": "0:21:24"
+    },
+    {
+      "movimento": "Da filosofia à regrinha",
+      "descricao": "Depois da explicação filosófica, traduz em poucas operações concretas para a prática, e checa a compreensão.",
+      "exemplo": "'Primeiro eu expliquei filosoficamente, agora vamos concretamente: duas operações simples.' 'Consegui ser claro?'",
+      "ts": "0:29:00"
+    },
+    {
+      "movimento": "Adaptar o formato da dinâmica em tempo real",
+      "descricao": "Diante de pouca adesão e de um voluntário muito participativo, transforma o exercício em atendimento coletivo com dois terapeutas principais.",
+      "exemplo": "'Vocês todos são meu terapeuta.'",
+      "ts": "0:37:43"
+    },
+    {
+      "movimento": "Pausas didáticas sem dar a resposta",
+      "descricao": "Interrompe o roleplay para nomear o princípio violado, liga a encontros anteriores e devolve o problema ao grupo.",
+      "exemplo": "'Pausa na dinâmica... você está aprofundando'; 'quero deixar vocês tentando'.",
+      "ts": "0:41:50"
+    },
+    {
+      "movimento": "Modelagem pelo acerto",
+      "descricao": "Pausa para mostrar qual intervenção mais se aproximou do alvo e por quê.",
+      "exemplo": "Destaca a pergunta que ligou o luto da mãe ao término.",
+      "ts": "0:48:47"
+    },
+    {
+      "movimento": "Autoavaliação antes do feedback",
+      "descricao": "Pergunta ao grupo como avalia o próprio desempenho antes de devolver o feedback.",
+      "exemplo": "'Vocês acham que conseguiram ou não extrair informação do caso?'",
+      "ts": "1:06:14"
+    },
+    {
+      "movimento": "Feedback coletivo nomeado",
+      "descricao": "Organiza o feedback em três vícios nomeados, atribuídos ao estilo do grupo e não a indivíduos, pedindo 'menos unilateralidade' e não abandono; normaliza o erro sem diluir o critério.",
+      "exemplo": "'O estilo do pessoal da Allos cai nessas três coisas: provocação, metáfora e ligar informações'; 'aqui é o espaço para errar'.",
+      "ts": "1:07:19"
+    },
+    {
+      "movimento": "Relativizar as próprias regras",
+      "descricao": "Dá dicas assumindo que são heurísticas provisórias, não regras gerais.",
+      "exemplo": "'Toda dica em psicologia é um problema, porque não existem regras gerais. Dito isso, é a dica que eu tô dando.'",
+      "ts": "1:15:13"
+    },
+    {
+      "movimento": "Negociar tempo e consentimento",
+      "descricao": "Explicita a duração dos seus grupos, pede consentimento para estender, libera quem precisa sair e reconhece com humor quando estoura o tempo.",
+      "exemplo": "'Vocês topam 15 minutinhos de teoria?'; 'falei que queria acabar em 50, já era'.",
+      "ts": "1:25:44"
+    },
+    {
+      "movimento": "Aceitar e corrigir a metáfora do aluno",
+      "descricao": "Aproveita uma imagem proposta por uma participante e a ajusta para ficar precisa.",
+      "exemplo": "Pesos 2-2 e 2-1 → 'em sistêmica seria 1/4 + 1/4, porque metade está na novidade da interação'.",
+      "ts": "1:49:29"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Na escuta sistêmica, pergunte pela relação entre pontos distantes da narrativa.",
+      "justificativa": "As propriedades relevantes emergem da interação entre as partes, não do exame de cada parte.",
+      "contexto": "Sempre que o objetivo for complexificar o caso.",
+      "competencia": "Escuta clínica",
+      "ts": "0:29:00"
+    },
+    {
+      "dica": "Não resolva cedo: deixe o problema crescer como um bolo.",
+      "justificativa": "Resolvido cedo, o problema não ganha a complexidade necessária e o terapeuta 'enxuga gelo'.",
+      "contexto": "Fases iniciais, antes das técnicas de resolução de problema.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:29:30"
+    },
+    {
+      "dica": "Se o paciente estranhar a complexificação, explique seu raciocínio e faça uma proposta com prazo (primeiro entender, depois resolver).",
+      "justificativa": "Para a maioria é intuitivo (sente o insight), mas quando não é, a psicoeducação sustenta a aliança.",
+      "contexto": "Paciente que cobra solução direta ou fica confuso.",
+      "competencia": "Psicoeducação",
+      "ts": "0:33:38"
+    },
+    {
+      "dica": "Para conectar, não peça definição, especificação ou a história de um único elemento.",
+      "justificativa": "Isso é aprofundar, não conectar; o ouro sistêmico está na teia de relações.",
+      "contexto": "Prática da escuta sistêmica.",
+      "competencia": "Aprofundamento",
+      "ts": "0:41:50"
+    },
+    {
+      "dica": "Troque o 'então' por devolver os dois elementos para o paciente significar.",
+      "justificativa": "Ao juntar, o terapeuta entrega a interseção (a própria hipótese) e reduz; quando o paciente junta, entram suas histórias e fantasias e pode emergir algo não óbvio.",
+      "contexto": "Sempre que se pegar ligando informações pelo paciente.",
+      "competencia": "Intervenção",
+      "ts": "1:08:27"
+    },
+    {
+      "dica": "Quando o paciente estiver falando de A, pergunte apenas 'E B?'.",
+      "justificativa": "'Você me disse A e B, como junta isso?' soa como professor perguntando o que já sabe; 'E B?' é mais natural, menos diretivo e dá mais graus de liberdade.",
+      "contexto": "Para provocar conexões sem induzir a resposta.",
+      "competencia": "Construção frasal",
+      "ts": "1:18:48"
+    },
+    {
+      "dica": "Evite provocações agressivas enquanto faltarem informações básicas da história.",
+      "justificativa": "Parecem implicância, soam como palavras postas na boca do paciente e passam a impressão de que o terapeuta não está ouvindo.",
+      "contexto": "Primeiras sessões, vínculo recente.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:10:43"
+    },
+    {
+      "dica": "Provoque quando houver vínculo e segurança, ou quando a provocação estiver explícita no discurso do paciente.",
+      "justificativa": "A alfinetada funciona com quem se atende há mais tempo ou quando a terapia está parada; forçar termos que o paciente não usou não funciona.",
+      "contexto": "Para destravar processos parados.",
+      "competencia": "Intervenção",
+      "ts": "1:11:44"
+    },
+    {
+      "dica": "Ao usar metáfora, use o vocabulário do paciente.",
+      "justificativa": "Aumenta a precisão da imagem.",
+      "contexto": "Sempre que for trabalhar com imagem clínica.",
+      "competencia": "Intervenção",
+      "ts": "1:14:56"
+    },
+    {
+      "dica": "Se a metáfora for só estética ou não tiver hipótese clínica atrelada, guarde-a para você.",
+      "justificativa": "A metáfora deve servir a um raciocínio com direção; só com experiência vale soltar imagens que 'te assaltam', porque então se sabe construir a hipótese depois.",
+      "contexto": "Especialmente para iniciantes.",
+      "competencia": "Intervenção",
+      "ts": "1:15:13"
+    },
+    {
+      "dica": "Pense em cadeias de intervenções (as próximas duas), não em intervenções soltas.",
+      "justificativa": "A intervenção só tem valor dentro de um raciocínio clínico com direção.",
+      "contexto": "Treino (intervenção em cadeia) e sessão.",
+      "competencia": "Direção do tratamento",
+      "ts": "1:16:39"
+    },
+    {
+      "dica": "Se o paciente perguntar o que você está pensando, responda (em regra).",
+      "justificativa": "Hipótese aberta é mais fácil de trabalhar e de testar; o paciente pode confrontá-la; evita o 'atendimento duplo'.",
+      "contexto": "Abordagens colaborativas; a psicanálise é a exceção típica.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:19:56"
+    },
+    {
+      "dica": "Em abordagens colaborativas, anote de forma aberta: virado para o paciente ou desenhando junto na tela.",
+      "justificativa": "Coerente com a relação colaborativa; permite teste de hipótese e evita o atendimento duplo. No divã analítico, a anotação oculta pode ser deliberada (a fantasia do paciente é material).",
+      "contexto": "TCC, Gestalt, ACT e afins.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:21:01"
+    },
+    {
+      "dica": "Na fenomenologia/Gestalt, ao dar sua opinião, deixe claro que é uma fantasia sua, não verdade nem interpretação.",
+      "justificativa": "Preservar a autoridade do paciente sobre a própria experiência.",
+      "contexto": "Ao responder perguntas ou sugerir o que você faria.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:23:05"
+    },
+    {
+      "dica": "Se estiver perdido atendendo um casal, use o registro semanal de comportamentos bons e ruins e trabalhe para aumentar a proporção de bons.",
+      "justificativa": "É a técnica mais simples concebível (análise do comportamento) e operacionaliza o 'amor' em ações possíveis.",
+      "contexto": "Casais com queixa difusa; terapeuta sem direção.",
+      "competencia": "Intervenção",
+      "ts": "0:23:42"
+    },
+    {
+      "dica": "Colete cedo os fatos básicos do caso antes de interpretar ou provocar.",
+      "justificativa": "No roleplay, um fato central do caso só apareceu após ~30 minutos, enquanto já sobravam provocações.",
+      "contexto": "Início do atendimento.",
+      "competencia": "Escuta clínica",
+      "ts": "1:10:43"
+    },
+    {
+      "dica": "Use paralelos (mito, filme, outro paciente, sua fantasia) só para voltar ao texto base com uma inflexão nova; não conte a história ao paciente.",
+      "justificativa": "O objetivo é enriquecer o fenômeno que se quer interpretar; a história em si 'não importa para nada'.",
+      "contexto": "Interpretação junguiana de símbolos e padrões.",
+      "competencia": "Interpretação",
+      "ts": "1:46:48"
+    },
+    {
+      "dica": "Descarte o paralelo que não acrescenta nada de não óbvio ao texto original.",
+      "justificativa": "A validade do paralelo está na inflexão nova que ele traz.",
+      "contexto": "Amplificação de símbolos.",
+      "competencia": "Interpretação",
+      "ts": "1:41:38"
+    },
+    {
+      "dica": "Não abandone o fenômeno inicial: volte a ele logo ou algumas sessões depois; para mudar de foco, comece uma nova interpretação.",
+      "justificativa": "Senão o terapeuta é arrastado ao complexo mais ativo e nunca interpreta o que queria.",
+      "contexto": "Quando surge material mais 'quente' no meio da interpretação.",
+      "competencia": "Interpretação",
+      "ts": "1:54:30"
+    },
+    {
+      "dica": "Espere precisar de dezenas de paralelos para uma interpretação bem-feita.",
+      "justificativa": "Há infinitos paralelos possíveis; o trabalho interpretativo é laborioso.",
+      "contexto": "Preparação de caso e supervisão.",
+      "competencia": "Interpretação",
+      "ts": "1:55:46"
+    },
+    {
+      "dica": "Avalie sua interpretação pela surpresa e mudança de posição do paciente, pela simplicidade e pelo que acontece nas sessões seguintes.",
+      "justificativa": "A cadeia significante não tem fim, mas a realidade responde; 'é a próxima sessão que te conta'.",
+      "contexto": "Depois de interpretar.",
+      "competencia": "Interpretação",
+      "ts": "2:00:01"
+    },
+    {
+      "dica": "Treine o exercício de escuta à exaustão fora do grupo (com colegas, em casa).",
+      "justificativa": "É um exercício simples, e escuta é o tema mais importante da formação.",
+      "contexto": "Entre encontros.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:07:36"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "O aprendizado acontece no incômodo; contestar o professor é desejável.",
+      "argumento": "O ensino 'serve para alguma coisa quando te incomoda'; por isso Alan provoca e usa exemplos absurdos de propósito.",
+      "contraponto": "A regra social de evitar conflito.",
+      "implicacao": "Criar grupos em que discordar é explicitamente pedido e valorizado.",
+      "quem": "Alan",
+      "ts": "0:01:49"
+    },
+    {
+      "tese": "Quem ensina deve explicitar seu grau de domínio de cada tema.",
+      "argumento": "Ensinando por antítese, ele confronta abordagens que domina em graus muito diferentes; sem disclaimer, o aluno não sabe o que ouvir com cautela.",
+      "contraponto": "A autoridade uniforme do professor; o próprio erro dele no encontro anterior.",
+      "implicacao": "Abrir cursos e grupos com um mapa honesto de especialidade.",
+      "quem": "Alan",
+      "ts": "0:03:44"
+    },
+    {
+      "tese": "'O todo é maior que a soma das partes' é uma formulação imprecisa da sistêmica.",
+      "argumento": "A formulação precisa localiza a novidade: na interação entre as partes emergem propriedades não óbvias nas partes.",
+      "contraponto": "O jargão corrente das aulas de sistêmica.",
+      "implicacao": "Escutar interações, não somar descrições de indivíduos.",
+      "quem": "Alan",
+      "ts": "0:15:50"
+    },
+    {
+      "tese": "A sistêmica não é novidade; a novidade histórica foi o Iluminismo — e a psicologia não funciona só por esclarecimento.",
+      "argumento": "A alquimia já operava do obscuro ao mais obscuro; na terapia, o paciente pode sair mais confuso e ainda assim sentir que se conhece melhor.",
+      "contraponto": "Professores que apresentam a sistêmica como grande novidade; a 'ideologia iluminista' da escola, encarnada na análise do comportamento (elogiada, porém, pela simplicidade terminológica).",
+      "implicacao": "Tolerar a complexidade e a não resolução imediata na clínica.",
+      "quem": "Alan",
+      "ts": "0:17:49"
+    },
+    {
+      "tese": "A sistêmica não é 'terapia de família' e a psicologia analítica não é 'terapia de sonhos e mitos': o método independe do tema.",
+      "argumento": "Sistêmica é aptidão para a complexidade e conexão de pontos (num atendimento sistêmico de Alan, ninguém reconheceu a abordagem); na analítica, qualquer coisa pode ser paralelo.",
+      "contraponto": "A associação automática entre a abordagem e seu vocabulário típico.",
+      "implicacao": "Identificar abordagens pelo modo de escuta, não pelo conteúdo.",
+      "quem": "Alan",
+      "ts": "0:30:51"
+    },
+    {
+      "tese": "Em regra, hipótese aberta é melhor do que hipótese oculta.",
+      "argumento": "Facilita o teste de hipótese, permite o confronto do paciente e evita o 'atendimento duplo'.",
+      "contraponto": "Terapeutas de abordagens colaborativas (ex.: TCC) que anotam escondido — 'isso me incomoda muito'; exceção legítima na psicanálise.",
+      "implicacao": "Responder quando o paciente pergunta; anotar à vista.",
+      "quem": "Alan",
+      "ts": "1:19:56"
+    },
+    {
+      "tese": "Toda dica em psicologia é problemática porque não há regras gerais — mas dar dicas é necessário.",
+      "argumento": "As dicas funcionam como andaime para iniciantes; a experiência depois autoriza exceções (ex.: metáforas estéticas).",
+      "contraponto": "Dogmatismo técnico, de um lado; o 'cada caso é um caso' que paralisa o ensino, de outro.",
+      "implicacao": "Ensinar regras provisórias, dizendo que são provisórias.",
+      "quem": "Alan",
+      "ts": "1:15:13"
+    },
+    {
+      "tese": "O método comparativo é o método científico para falar de estrutura — e é o método da psicologia analítica.",
+      "argumento": "Darwin, a anatomia comparada, a linguística, Lévi-Strauss, a genealogia de Nietzsche (filólogo) e de Foucault chegam à estrutura por comparação.",
+      "contraponto": "A noção sociológica de estrutura (ex.: racismo estrutural), de outra linha epistêmica.",
+      "implicacao": "Entender a amplificação junguiana como comparação rigorosa, não como associação poética.",
+      "quem": "Alan",
+      "ts": "1:35:13"
+    },
+    {
+      "tese": "O grande problema da psicanálise é a associação livre que 'flutua' e não volta, conduzindo o paciente aos interesses teóricos do analista.",
+      "argumento": "Quem flutua é arrastado ao complexo mais ativo; o analista, mais interessado em 'papai e mamãe' do que no que o paciente dizia, condiciona o paciente a falar disso — daí todo analista achar que todo caso é sobre sexo.",
+      "contraponto": "A psicanálise freudiana; a psicologia analítica volta sempre ao texto base.",
+      "implicacao": "Eleger o fenômeno a interpretar e voltar a ele; mudar de foco só iniciando nova interpretação.",
+      "quem": "Alan",
+      "ts": "1:53:22"
+    },
+    {
+      "tese": "A filologia é uma idiossincrasia de Jung, não parte fundamental do método da psicologia analítica.",
+      "argumento": "No último texto de Jung (2ª parte do vol. 18/1), ele corrige o que escreveu antes e afirma que nem a hipótese da compensação é axioma básico; a versão em 'O homem e seus símbolos' teria sido alterada por Marie-Louise von Franz.",
+      "contraponto": "Um comentador transcrito como 'Heráclito' (?), que se apoia nos caps. 9 e 10 do vol. 8/2.",
+      "implicacao": "Não reduzir o trabalho junguiano à amplificação mitológica.",
+      "quem": "Alan",
+      "ts": "1:55:46"
+    },
+    {
+      "tese": "Clínica não é filosofia: na clínica, a realidade responde.",
+      "argumento": "'O filósofo tem a liberdade de inventar qualquer coisa; em última instância, o seu paciente morre.' Há uma dialética entre o fenômeno e o clínico, sobretudo diante de erros grosseiros.",
+      "contraponto": "O relativismo interpretativo ('tudo é subjetivo').",
+      "implicacao": "Usar a evolução do paciente (próximas sessões) como critério de verdade da interpretação, cuidando dos vieses de observação.",
+      "quem": "Alan",
+      "ts": "2:02:50"
+    },
+    {
+      "tese": "Escuta é a competência mais importante da formação clínica.",
+      "argumento": "'Se você não souber escutar, não adiantou nada tudo o que você aprendeu em psicologia.'",
+      "contraponto": "",
+      "implicacao": "Treinar exercícios simples de escuta à exaustão.",
+      "quem": "Alan",
+      "ts": "0:07:36"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "O ensino serve para alguma coisa quando te incomoda.",
+      "tema": "didática / conflito no grupo",
+      "ts": "0:01:49"
+    },
+    {
+      "texto": "Se você não souber escutar, não adiantou nada tudo o que você aprendeu em psicologia.",
+      "tema": "escuta",
+      "ts": "0:07:36"
+    },
+    {
+      "texto": "Na interação entre as partes emergem propriedades que não eram óbvias no exame das partes em separado.",
+      "tema": "sistêmica / emergência",
+      "ts": "0:29:30"
+    },
+    {
+      "texto": "Quase nada é novidade na história da humanidade — tanto as más ideias quanto as boas normalmente já foram pensadas.",
+      "tema": "história das ideias",
+      "ts": "0:17:49"
+    },
+    {
+      "texto": "O nosso trabalho na sistêmica não é compreender o problema; é fazer o problema enriquecer-se, crescer, complexificar-se, porque é nessa complexidade que eu vou trabalhar.",
+      "tema": "escuta sistêmica",
+      "ts": "0:29:30"
+    },
+    {
+      "texto": "O ouro do caso não está no aprofundamento, mas na interconexão entre as partes, na montagem de uma teia complexa de relações.",
+      "tema": "escuta sistêmica",
+      "ts": "0:42:46"
+    },
+    {
+      "texto": "Se você juntar, já deixa clara a sua hipótese. Se deixar a pessoa juntar, pode emergir algo que não era óbvio — e é tudo de que a gente precisa.",
+      "tema": "intervenção / 'então'",
+      "ts": "1:12:45"
+    },
+    {
+      "texto": "Aqui é o espaço para errar. Aqui é o espaço para arriscar.",
+      "tema": "clima do grupo",
+      "ts": "1:11:44"
+    },
+    {
+      "texto": "Se você não tem uma hipótese clínica atrelada à metáfora, guarde-a para você.",
+      "tema": "metáfora clínica",
+      "ts": "1:15:13"
+    },
+    {
+      "texto": "Toda dica em psicologia é um problema, porque não existem regras gerais. Dito isso, é a dica que eu estou dando.",
+      "tema": "ensino de técnica",
+      "ts": "1:15:13"
+    },
+    {
+      "texto": "Tem um atendimento maravilhoso que acontece só na sua cabeça na hora de contar pro supervisor, e tem o atendimento que acontece na vida do paciente.",
+      "tema": "atendimento duplo",
+      "ts": "1:22:02"
+    },
+    {
+      "texto": "Você não está lá para discutir mitologia grega.",
+      "tema": "interpretação junguiana",
+      "ts": "1:55:31"
+    },
+    {
+      "texto": "Pode ser que o paciente tenha um falso insight, mas uma verdade, quando dita, nunca deixa de gerar insight.",
+      "tema": "validade da interpretação",
+      "ts": "2:00:01"
+    },
+    {
+      "texto": "O filósofo tem a liberdade de inventar qualquer coisa. Em última instância, o seu paciente morre.",
+      "tema": "clínica x filosofia",
+      "ts": "2:02:50"
+    },
+    {
+      "texto": "Ler a bússola é interpretar. Se eu vou para o norte ou não, sou eu que escolho.",
+      "tema": "individuação",
+      "ts": "2:06:52"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "abordagens-em-dialogo",
+      "gancho": "Duas terapias de casal opostas",
+      "mensagem": "A análise do comportamento quebra o amor em interações contáveis (do obscuro ao claro); a sistêmica deixa o problema crescer e conecta pontos (do obscuro ao mais obscuro).",
+      "roteiro": [
+        "Slide 1: 'Como fazer um casal voltar a se amar?'",
+        "Slide 2: resposta behaviorista — registrar comportamentos bons/ruins e aumentar a proporção de bons",
+        "Slide 3: a lógica — razão como divisão, do complexo ao simples",
+        "Slide 4: resposta sistêmica — o problema fica mais complexo antes de melhorar",
+        "Slide 5: a lógica — propriedades emergem da interação",
+        "Slide 6: duas operações da escuta sistêmica: conectar pontos distantes + falta de pressa"
+      ],
+      "corte_inicio": "0:20:38",
+      "corte_fim": "0:29:30"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Pare de dizer 'então' na sessão",
+      "mensagem": "Quando você junta A e B pelo paciente, entrega sua hipótese e reduz; troque por 'E B?' e deixe o paciente fazer a conexão.",
+      "roteiro": [
+        "Cena 1: terapeuta diz 'você falou X e Y, então...'",
+        "Cena 2: por que isso reduz (interseção pronta)",
+        "Cena 3: alternativa — quando o paciente fala de A, pergunte só 'E B?'",
+        "Cena 4: o que emerge quando o paciente junta"
+      ],
+      "corte_inicio": "1:07:19",
+      "corte_fim": "1:08:27"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "3 vícios de quem está começando a atender",
+      "mensagem": "O 'então' (juntar pelo paciente), a provocação sem base e a metáfora estética — e como corrigir cada um.",
+      "roteiro": [
+        "Slide 1: gancho",
+        "Slide 2: vício 1 — o 'então'",
+        "Slide 3: vício 2 — provocação fechada sem informação/vínculo",
+        "Slide 4: vício 3 — metáfora sem hipótese clínica",
+        "Slide 5: correções: 'E B?', provocar só com base explícita, usar o vocabulário do paciente",
+        "Slide 6: 'toda dica em psicologia é um problema — mas é um bom começo'"
+      ],
+      "corte_inicio": "1:07:19",
+      "corte_fim": "1:16:39"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "O atendimento duplo",
+      "mensagem": "Existe o atendimento brilhante que só acontece na sua cabeça (e no relato ao supervisor) e o que acontece na vida do paciente; hipóteses abertas e anotação à vista são o antídoto.",
+      "roteiro": [
+        "Cena 1: iniciante contando uma sessão incrível ao supervisor",
+        "Cena 2: o que o paciente de fato viveu",
+        "Cena 3: responder quando o paciente pergunta o que você pensa",
+        "Cena 4: anotar virado para o paciente"
+      ],
+      "corte_inicio": "1:21:01",
+      "corte_fim": "1:22:59"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "abordagens-em-dialogo",
+      "gancho": "Como Jung interpreta um símbolo (e por que não é associação livre)",
+      "mensagem": "O método filológico emparelha usos concretos de um símbolo e volta ao texto base com uma inflexão nova; a associação livre flutua e não volta.",
+      "roteiro": [
+        "Slide 1: gancho",
+        "Slide 2: batráquio — aprender uma palavra pelos usos",
+        "Slide 3: a aranha nos sonhos, mitos e histórias",
+        "Slide 4: Barba Azul x Bela e a Fera — mesma estrutura, inflexões diferentes",
+        "Slide 5: não conte a história ao paciente",
+        "Slide 6: analítica volta ao texto base; psicanálise flutua"
+      ],
+      "corte_inicio": "1:29:57",
+      "corte_fim": "1:47:43"
+    },
+    {
+      "formato": "post",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Como saber se sua interpretação estava certa?",
+      "mensagem": "Surpresa e mudança de posição do paciente, simplicidade, o que acontece nas próximas sessões e, por último, adequação à teoria.",
+      "roteiro": [
+        "Imagem: bússola",
+        "Legenda: os quatro critérios heurísticos + 'o paciente não é um texto de filosofia: a realidade responde'"
+      ],
+      "corte_inicio": "2:00:01",
+      "corte_fim": "2:03:46"
+    },
+    {
+      "formato": "reels",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Por que eu adoro ser contrariado nos meus grupos",
+      "mensagem": "Aprender é se incomodar; e quem ensina deve dizer com honestidade o que domina e o que conhece 'de orelhada'.",
+      "roteiro": [
+        "Cena 1: 'no último grupo, uma participante me questionou...'",
+        "Cena 2: 'o ensino serve quando incomoda'",
+        "Cena 3: o disclaimer de domínio",
+        "Cena 4: convite para discordar"
+      ],
+      "corte_inicio": "0:00:48",
+      "corte_fim": "0:02:43"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "O todo NÃO é maior que a soma das partes",
+      "mensagem": "A formulação precisa: na interação entre as partes emergem propriedades que não eram óbvias nas partes.",
+      "roteiro": [
+        "Frase em destaque",
+        "Legenda: exemplo do casal de pessoas tranquilas que, juntas, geram estresse"
+      ],
+      "corte_inicio": "0:14:52",
+      "corte_fim": "0:17:13"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "B. F. Skinner",
+      "contexto": "Base da análise do comportamento; recusa do inconsciente pela parcimônia; Alan diz que ele não tinha consciência filosófica da própria teoria."
+    },
+    {
+      "nome": "William James",
+      "contexto": "Pragmatismo ao qual Skinner se filiaria ('forçação de barra')."
+    },
+    {
+      "nome": "Guilherme de Ockham",
+      "contexto": "Navalha de Ockham (princípio da parcimônia)."
+    },
+    {
+      "nome": "Carl Jung",
+      "contexto": "Método filológico/comparativo, compensação, individuação, critérios de verdade da interpretação; referências a Obras Completas vols. 8/2, 11/1, 18/1 e ao Seminário sobre análise de sonhos."
+    },
+    {
+      "nome": "Wilhelm Dilthey",
+      "contexto": "Debate entre filologia e história (a história não é só fatos; é preciso o todo para compreender as partes)."
+    },
+    {
+      "nome": "Friedrich Nietzsche",
+      "contexto": "Filólogo; origem do método genealógico usado por Foucault."
+    },
+    {
+      "nome": "Michel Foucault",
+      "contexto": "Método genealógico como método comparativo (História da loucura)."
+    },
+    {
+      "nome": "Émile Durkheim",
+      "contexto": "Exemplo de autor para quem a estrutura é central e que usa comparação."
+    },
+    {
+      "nome": "Charles Darwin",
+      "contexto": "Comparação entre espécies como método para chegar à estrutura."
+    },
+    {
+      "nome": "Claude Lévi-Strauss",
+      "contexto": "Estrutura das culturas por análise comparativa."
+    },
+    {
+      "nome": "Sigmund Freud",
+      "contexto": "Associação livre como 'flutuar' que não volta ao fenômeno inicial; crítica de Alan."
+    },
+    {
+      "nome": "Jacques Lacan",
+      "contexto": "Não existe final para a cadeia significante (ponto de partida sobre quando uma interpretação está pronta); Alan diz dominar bem."
+    },
+    {
+      "nome": "Marie-Louise von Franz",
+      "contexto": "Teria alterado o último texto de Jung na versão de 'O homem e seus símbolos'."
+    },
+    {
+      "nome": "Jacob Levy Moreno",
+      "contexto": "Psicodrama; Alan diz ter lido tudo o que há do autor em português (disclaimer)."
+    },
+    {
+      "nome": "Carlos Drummond de Andrade",
+      "contexto": "Exemplo hipotético de poema interpretado por um freudiano que nunca volta a ele."
+    },
+    {
+      "nome": "Edgar Allan Poe (?)",
+      "contexto": "Poema referido no exemplo do Drummond (nome transcrito como 'Poul')."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Aprimoramento Clínico (Alan) — série 'dinâmica das escutas'",
+    "objetivo": "Treinar a escuta clínica própria de cada abordagem por meio de teoria rápida e grosseira seguida de um exercício simples a ser treinado à exaustão fora do grupo.",
+    "publico": "Psicólogos e estudantes de psicologia em formação clínica (grupo da Allos).",
+    "tamanho": "Não informado; grupo grande o suficiente para 'quase todo mundo' levantar a mão e várias pessoas intervirem no roleplay.",
+    "duracao": "Nominalmente 2 h (Alan diz que seus grupos têm 2 h, contra 1h30 dos demais facilitadores); este encontro durou 2h10, noturno.",
+    "estrutura_padrao": "Abertura/recados → retomada por perguntas → teoria (por antítese entre abordagens) → dúvidas → exercício prático (roleplay com o facilitador como paciente) com pausas → autoavaliação + feedback estruturado → dúvidas → (extensão teórica opcional com consentimento) → fechamento.",
+    "papel_facilitador": "Expositor provocativo, 'ator' do paciente no roleplay, corretor in loco (pausas), fornecedor de feedback coletivo e referência bibliográfica; assume publicamente erros de condução.",
+    "regras_combinados": "Discordar e trazer incômodos é explicitamente bem-vindo; 'aqui é o espaço para errar e arriscar'; voluntariado com levantar de mão; quem precisa sair pode sair durante extensões; encontro gravado para o YouTube."
+  },
+  "reflexoes_do_facilitador": [
+    "Diz que ficou 'rodando na cabeça' como deveria ter lidado com o questionamento de uma participante sobre sua apresentação da TCC no encontro anterior: acha que lidou bem, mas poderia ter sido melhor.",
+    "Reconhece que faltou um disclaimer sobre seu grau de domínio de cada abordagem e o faz publicamente, 'para me arrepender dele no futuro'; admite que devia ter feito uma lista concreta.",
+    "Afirma que saiu animado do encontro anterior por causa da contestação e que gostar de ser contrariado 'faz parte da minha personalidade'.",
+    "Explicita o próprio método de ensino: ser o mais provocativo, didático e incômodo possível; didática por antítese; exemplos absurdos para ser memorável.",
+    "Avalia que, 'na minha explicação, eu não consegui deixar teoricamente claro o suficiente para vocês operacionalizarem na prática' a escuta sistêmica, e sugere refazer com uma demonstração.",
+    "Reconhece que 'cada um desses exercícios é, na verdade, um grupo inteiro' e que está acelerando para caber em um encontro.",
+    "Observa que dinâmicas com vários terapeutas são difíceis (pessoas não seguem o raciocínio do colega, aprofundam pontos aleatórios, perdem o timing) e calibra: 'para a complexidade do exercício não mandaram mal; dado que era sobre sistêmica, mandaram mal'.",
+    "Pondera que seus grupos têm 2 h e que no grupo da noite não é legal segurar tanto; pede consentimento para estender e reconhece o estouro ('falei que queria acabar em 50, já era').",
+    "Sobre a exposição da psicologia analítica: 'tô fazendo um péssimo trabalho' explicando em ~33 minutos; 'fiz um trabalho ruim'.",
+    "Admite que se perdeu nos parênteses e esqueceu o segundo comentário que queria fazer.",
+    "Nota que seus exemplos estão ficando datados ('hoje procura no ChatGPT')."
+  ],
+  "referencias_a_outros_encontros": [
+    "Encontro anterior (provavelmente 'Alan 09 - Escuta em psicanálise'): questionamento de uma participante sobre TCC; na semana anterior foram vistas TCC clássica, psicanálise freudiana e análise do comportamento.",
+    "Série 'dinâmica das escutas': primeiro encontro sobre fenomenologia ('todo mundo mandou mal'), depois psicanálise lacaniana, depois TCC/freudiana/análise do comportamento; este seria o último ('não quero fazer uma parte quatro').",
+    "Grupo de prática recente (1–2 semanas antes) em que Alan atendeu pela abordagem sistêmica e ninguém percebeu.",
+    "Proposta de fazer a 'intervenção em cadeia' no próximo aprimoramento; já feita uma vez com um grupo externo ('pessoal do FMG' — UFMG (?)).",
+    "Encontro futuro, 'daqui a algumas semanas', sobre esquemas visuais de aprofundamento (quadradinho, ziguezague, redemoinho) — ver 'Alan 06 - Esquemas de aprofundamento'; 'quem é do avaliado (?) já deve ter visto'.",
+    "Menção a uma 'dinâmica do filcioso' (?) que treinaria o método filológico e já foi feita com outros grupos.",
+    "Retomada da distinção aprofundar x flutuar do encontro de psicanálise.",
+    "O caso usado no roleplay é um dos casos 'canônicos' da Allos e estaria no 'Trello teórico' (?)."
+  ],
+  "observacoes": "Legenda automática com bastante ruído, mas compreensível; roleplay com falas sobrepostas e parte do áudio dos participantes truncado. Termos incertos marcados com (?): 'Essanálise' (Daseinsanálise ou esquizoanálise), 'neuro' (neuropsicologia), 'Heráclito' (comentador de Jung com quem Alan diverge), 'Poul' (Poe), 'dinâmica do filcioso', 'pessoal do FMG' (UFMG), 'Trello teórico', 'avaliado'. O caso do roleplay é fictício/de ensino (Alan interpreta o paciente) e foi descrito de forma genérica. Participantes citados no áudio foram anonimizados. A dinâmica foi nomeada 'Dinâmica - Escuta em sistêmica' seguindo o padrão de alan-09 ('Dinâmica - Escuta lacaniana', 'Dinâmica - Escuta em TCC'...); Alan chama a série de 'dinâmica das escutas'. Não há fechamento formal nem tarefa explícita além do treino do exercício e da proposta de 'intervenção em cadeia'. Nota com ~8 mil palavras (acima da meta), pela densidade: dois blocos teóricos (sistêmica e psicologia analítica) além da dinâmica."
+}

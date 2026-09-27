@@ -1,0 +1,831 @@
+{
+ "id": "acervo-17",
+ "nota": "Acervo 17 - Fracasso clínico e seus fatores associados",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "Fracasso clínico e seus fatores associados",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Monitoria (convertida em roda de discussão temática)",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo anuncia que o espaço da monitoria, que costuma acompanhar passo a passo um caso atendido pelo sistema de IA da Allos, será usado para uma discussão coletiva, porque parte do grupo ainda não atende por esse sistema. O tema é fracasso clínico. Primeiro o grupo diz o que entende por fracasso (abandono, suicídio, regressão, Caso Dora), e Diogo relativiza: dedicação não garante resultado, só a negligência liga o desfecho ao terapeuta, e cada abordagem dá um sentido diferente ao fracasso. A conversa passa à pessoa do terapeuta: ruptura prevenível, transparência, intervisão, reconhecer as próprias dificuldades sem se responsabilizar pela mudança inteira (argumento das 168 horas). Na segunda parte, Diogo apresenta oralmente os fatores de fracasso de um livro sobre habilidades terapêuticas: responsabilizar-se demais, timing (ao qual acrescenta os estágios de mudança), medo da confrontação, falta e excesso de autoconfiança, falta de habilidades. A cada fator pergunta ao grupo se faz sentido, e o encontro fecha com normalização da insegurança e um alerta contra culpar o paciente.",
+ "em_uma_frase": "Numa roda de discussão, Diogo confronta o que o grupo entende por fracasso clínico com os fatores que um livro de habilidades terapêuticas associa a ele, e defende que fracasso não se mede só pelo resultado: o terapeuta responde por olhar as próprias dificuldades, não pela mudança inteira do paciente.",
+ "competencias": [
+  "Relação terapêutica",
+  "Pessoa do terapeuta",
+  "Intervenção",
+  "Desenvolvimento profissional",
+  "Direção do tratamento",
+  "Acolhimento e validação"
+ ],
+ "abordagens": [
+  "Psicanálise freudiana",
+  "Gestalt-terapia",
+  "Terapias contextuais",
+  "Análise do comportamento",
+  "Terapia cognitivo-comportamental"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:08",
+   "bloco": "Abertura",
+   "descricao": "Diogo explica o espaço da monitoria (caso atendido pelo sistema de IA, visto passo a passo; casos reais só em particular, por sigilo) e por que hoje será uma dinâmica coletiva. Anuncia o tema: fracasso clínico.",
+   "funcao": "Enquadrar a mudança de formato e o tema.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:19",
+   "bloco": "Teoria",
+   "descricao": "Contextualização: cobrança por resultado, autodiagnóstico pela internet, frustração do terapeuta quando o paciente não melhora. Objetivo de discutir o que seria um fracasso 'verdadeiro ou não'.",
+   "funcao": "Dar relevância ao tema.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:03:38",
+   "bloco": "Rodada de respostas",
+   "descricao": "Pergunta 'o que vocês chamam de fracasso clínico?'. Respostas: abandono, suicídio, regressão (chat), Caso Dora.",
+   "funcao": "Levantar concepções prévias antes da teoria.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:07:01",
+   "bloco": "Discussão",
+   "descricao": "Diogo diferencia fracasso de negligência, pergunta o referencial teórico da 'regressão' e aponta o terapeuta que não se avalia (Caso Dora).",
+   "funcao": "Relativizar a noção de fracasso.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:14:01",
+   "bloco": "Discussão",
+   "descricao": "Participantes: ruptura prevenível ao falar do que se sente, humanidade e transparência do terapeuta, intervisão, vulnerabilidade. Diogo: comunicação com função clínica; 'não olhar as dificuldades não faz com que sumam'.",
+   "funcao": "Deslocar o foco para a pessoa do terapeuta.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "0:24:53",
+   "bloco": "Teoria",
+   "descricao": "Síntese em duas funções: reconhecer as próprias dificuldades (exemplo: dificuldade de cortar) e não se responsabilizar demais (168 horas). Apresenta o livro que pauta o encontro.",
+   "funcao": "Fechar o primeiro momento e fazer a ponte para a literatura.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:28:40",
+   "bloco": "Discussão",
+   "descricao": "Fator 'timing': participantes relatam a terapia pessoal; Diogo acrescenta os estágios de mudança, intervenções desconfortáveis necessárias, o tempo como ferramenta (encerrar cedo, falhas de conexão) e 'o que você conclui disso?'.",
+   "funcao": "Confrontar a literatura com a experiência e ampliá-la.",
+   "duracao_min": 15
+  },
+  {
+   "ts": "0:43:35",
+   "bloco": "Discussão",
+   "descricao": "Fator 'medo da confrontação': confronto por silêncio e por acolhimento, aversividade que depende do paciente, Caso Glória (Perls), anedotas de confronto em primeira sessão.",
+   "funcao": "Relativizar a ideia de que confrontar quebra o vínculo.",
+   "duracao_min": 14
+  },
+  {
+   "ts": "0:57:57",
+   "bloco": "Combinados",
+   "descricao": "Formulário de presença enviado no chat.",
+   "funcao": "Administração do grupo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:59:01",
+   "bloco": "Discussão",
+   "descricao": "Fator 'falta e excesso de autoconfiança': ansiedade do primeiro atendimento, primeiro paciente perdido por Diogo, 'não se julgue tanto', 'estrelinha mental'.",
+   "funcao": "Normalizar a insegurança.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:06:53",
+   "bloco": "Teoria",
+   "descricao": "Excesso de confiança ('o paciente não estava pronto' precisa de complemento) e último fator: falta de habilidades técnicas, conceituais, relacionais e culturais.",
+   "funcao": "Equilibrar polos e fechar a lista.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:08:52",
+   "bloco": "Fechamento",
+   "descricao": "Onde encontrar o livro; agradecimento; fim da gravação.",
+   "funcao": "Encerrar.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Fracasso clínico",
+   "definicao": "Resultado terapêutico aquém do esperado: abandono, falta de progresso, desfecho grave. Diogo defende que não se define só pelo resultado. Dedicação não garante resultado, e só a negligência permite atribuir o desfecho ao terapeuta. O que conta como fracasso também depende da abordagem e da situação.",
+   "exemplo": "Suicídio de um paciente em acompanhamento: pode ser considerado fracasso, mas não se o protocolo básico foi seguido com envolvimento.",
+   "abordagem": "",
+   "ts": "0:07:01"
+  },
+  {
+   "nome": "Abandono do tratamento",
+   "definicao": "Desistência do paciente, sobretudo abrupta. Rompe o vínculo e o trabalho feito, pode dificultar a busca por outro terapeuta e diz algo tanto do paciente quanto do terapeuta. Diogo reformula como a 'permanência' ser um fator de sucesso.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:03:50"
+  },
+  {
+   "nome": "Autodiagnóstico",
+   "definicao": "Rótulos diagnósticos que o paciente tira da internet ('não quero ser narcisista, TDAH') e que geram a expectativa de 'deixar de ser assim'. Parte do trabalho é psicoeducar sobre a validade desses rótulos.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:01:19"
+  },
+  {
+   "nome": "Regressão",
+   "definicao": "Na psicanálise, mecanismo psíquico. Pode fazer parte do processo (regredir para construir uma nova experiência) e não ser sinal de fracasso. Serve de exemplo de como abordagens diferentes dão sentidos diferentes ao mesmo fenômeno.",
+   "exemplo": "Comentário de uma participante no chat sobre a regressão como parte frustrante do processo.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:08:56"
+  },
+  {
+   "nome": "Caso Dora",
+   "definicao": "Caso de Freud lido como fracasso: a paciente, inicialmente entusiasmada, abandona depois de Freud insistir em estar certo. Diogo acrescenta que o ponto crucial foi o terapeuta não se avaliar.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:09:57"
+  },
+  {
+   "nome": "Ruptura e reparo da aliança",
+   "definicao": "Rupturas começam quando o terapeuta deixa de trazer para a relação o que sente ou percebe. Algumas poderiam ter sido prevenidas se tivessem sido faladas, e falar das questões da relação fortalece o vínculo.",
+   "exemplo": "Citação de um livro de habilidades terapêuticas: 'terapeutas, sejam corajosos, falem o que estão sentindo'.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:14:01"
+  },
+  {
+   "nome": "Autorrevelação do terapeuta",
+   "definicao": "Comunicar ao paciente sentimentos ou incômodos do terapeuta na relação. Pode estreitar o vínculo e mostrar humanidade, mas deve ter função clínica: não se comunica 'só por comunicar'.",
+   "exemplo": "Terapeuta que diz ao paciente 'não gostei de tal situação', o que estreitou o vínculo (relato de uma participante sobre a própria terapia).",
+   "abordagem": "",
+   "ts": "0:18:50"
+  },
+  {
+   "nome": "Autoavaliação do terapeuta",
+   "definicao": "Olhar os próprios erros, dificuldades e sentimentos. Sem isso, o terapeuta não consegue analisar o caso, porque a dificuldade não vista continua agindo.",
+   "exemplo": "Diogo reconhece a própria dificuldade em cortar a fala do paciente.",
+   "abordagem": "",
+   "ts": "0:19:56"
+  },
+  {
+   "nome": "Intervisão",
+   "definicao": "Discussão de casos entre pares. Só é útil se o terapeuta leva também as sessões ruins, e não apenas 'o bonito'.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:21:33"
+  },
+  {
+   "nome": "Responsabilização excessiva do terapeuta",
+   "definicao": "Primeiro fator de fracasso do livro: o terapeuta se responsabiliza demais pela melhora ou mudança do paciente e mira só no resultado. O terapeuta possibilita mudanças, mas não controla o ambiente em que o paciente vive.",
+   "exemplo": "Argumento das 168 horas: o paciente passa uma hora por semana com o terapeuta; 'sem boa rotina de sono, não há técnica de regulação emocional que aguente'.",
+   "abordagem": "",
+   "ts": "0:26:56"
+  },
+  {
+   "nome": "Timing da intervenção",
+   "definicao": "Momento ideal para intervir: perguntar sobre um tema relevante, dar uma devolutiva, confrontar. Para as participantes, o timing certo demonstra escuta. Para Diogo, depende do paciente e do estágio de mudança, e nem sempre produz uma intervenção prazerosa.",
+   "exemplo": "Encerrar a sessão aos 20 minutos, quando o objetivo foi alcançado; perguntar 'o que você conclui disso?' a quem rumina.",
+   "abordagem": "",
+   "ts": "0:28:40"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "Acréscimo de Diogo ao fator timing (o livro, segundo ele, não trata disso). A prontidão do paciente define que confrontos fazem sentido; fora do estágio, confrontar é 'murro em ponta de faca'.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:35:29"
+  },
+  {
+   "nome": "Corte da sessão",
+   "definicao": "Usar a duração da sessão como ferramenta, encerrando quando o objetivo daquela sessão foi alcançado. Diogo brinca com o uso do corte por uma terapeuta de TCC.",
+   "exemplo": "Participante que encerra a sessão aos 20 minutos quando o paciente diz não conseguir processar mais nada.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:40:19"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Oposição do paciente ao trabalho terapêutico, que pode aparecer por vias não convencionais. Deve ser nomeada quando se repete, sem neurotizar.",
+   "exemplo": "Falhas repetidas de internet; paciente que responde 'não é sobre isso agora' quando perguntado sobre o que sente.",
+   "abordagem": "",
+   "ts": "0:40:19"
+  },
+  {
+   "nome": "Confronto terapêutico",
+   "definicao": "Apontar ao paciente o que ele evita ou sustenta. Pode ser direto, silencioso, por espelhamento ou até por acolhimento. Não é aversivo por definição: depende do paciente, da forma e do timing, e pode fortalecer o vínculo se seguido de acolhimento.",
+   "exemplo": "Perls no Caso Glória 'ataca' e depois escuta e sintetiza; um professor pergunta, na primeira sessão, 'quando é que você vai parar de mentir para mim?'.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:48:37"
+  },
+  {
+   "nome": "Medo da confrontação",
+   "definicao": "Fator de fracasso do livro: por querer ser agradável, manter o vínculo ou ser gostado, o terapeuta evita confrontar e passa a buscar a aprovação do paciente.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:43:35"
+  },
+  {
+   "nome": "Caso Glória",
+   "definicao": "Filmes em que a mesma paciente é atendida por diferentes terapeutas, entre eles Fritz Perls. É citado como exemplo de confronto intenso, exagerado por ser uma demonstração em seminário ('não façam isso em casa').",
+   "exemplo": "Perls ataca repetidamente e depois pergunta 'e agora, como está?', escuta e sintetiza.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:49:40"
+  },
+  {
+   "nome": "Autoconfiança do terapeuta",
+   "definicao": "Fator de fracasso nos dois polos. A falta aparece como insegurança paralisante ('será que fui suficiente?'). O excesso aparece em se achar detentor do saber e culpar o paciente ('ele não estava pronto'). O equilíbrio é confiar na intuição e se permitir a dúvida.",
+   "exemplo": "Diogo perdeu o primeiro paciente na primeira sessão; 'estrelinhas mentais' para reconhecer acertos.",
+   "abordagem": "",
+   "ts": "0:59:01"
+  },
+  {
+   "nome": "Habilidades terapêuticas",
+   "definicao": "Tipologia do livro: habilidades técnicas (aplicar a teoria), conceituais (compreender a teoria), relacionais (interação humana) e culturais (análise crítica do contexto e de fatores culturais). A falta delas é o último fator de fracasso, que Diogo acha genérico.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:08:03"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Roda de discussão sobre fracasso clínico",
+   "objetivo": "Construir com o grupo uma noção crítica de fracasso clínico: levantar as concepções prévias e testá-las contra os fatores que a literatura associa ao fracasso terapêutico.",
+   "competencias": [
+    "Pessoa do terapeuta",
+    "Relação terapêutica",
+    "Desenvolvimento profissional"
+   ],
+   "configuracao": "Grupo todo, online, cerca de 8 participantes ativos; câmeras opcionais; chat aberto, lido pelo facilitador.",
+   "tempo": "Cerca de 65 minutos (25 para as concepções prévias e 40 para os fatores).",
+   "materiais": "Capítulo de livro sobre habilidades terapêuticas com uma lista de fatores de fracasso, apresentada oralmente, sem slides; formulário de presença.",
+   "consigna": "'Na perspectiva de vocês, o que vocês chamam de fracasso clínico?' Depois, fator a fator: 'o livro diz que X está associado ao fracasso; isso faz sentido para vocês?'",
+   "passos": [
+    "Enquadrar o tema com um problema reconhecível (cobrança por resultado, frustração do terapeuta).",
+    "Fazer a pergunta aberta sobre o que é fracasso clínico.",
+    "Reformular cada resposta como critério ('o fator seria a permanência?') e pedir outras perspectivas.",
+    "Problematizar: diferenciar fracasso de negligência; perguntar de que referencial vem cada termo.",
+    "Sintetizar o que surgiu e fazer a ponte para a literatura.",
+    "Apresentar um fator por vez, com definição curta, e perguntar se faz sentido.",
+    "Acolher relatos (terapia pessoal, primeiros atendimentos, histórias de professores).",
+    "Complementar ou corrigir a fonte com a própria leitura e exemplos pessoais.",
+    "Fechar equilibrando polos (falta e excesso de confiança) e indicar a referência."
+   ],
+   "feedback": "Conceitual, não de desempenho: o facilitador reformula, relativiza ('depende da abordagem', 'depende do paciente'), acrescenta o que a fonte não diz (estágios de mudança, forma do confronto) e marca frases de risco ('o paciente não estava pronto' precisa de complemento).",
+   "exemplos_praticos": "As concepções iniciais (abandono, suicídio, regressão, Caso Dora) foram relativizadas; as participantes levaram a conversa para a transparência e a vulnerabilidade do terapeuta, e Diogo reaproveitou isso como primeiro fator do livro. Timing e confrontação renderam relatos de terapia pessoal e anedotas de confronto em primeira sessão; a autoconfiança rendeu o acolhimento de uma participante recém-iniciada nos atendimentos.",
+   "variacoes": "O esqueleto (concepção prévia, fatores da literatura, 'faz sentido?') serve para qualquer tema. Dá para incluir um microexercício por fator, como refazer uma intervenção em outro timing ou treinar um confronto seguido de acolhimento, para aproximar do formato do Alan.",
+   "armadilhas": "Virar troca de depoimentos de terapia pessoal; tema sensível (suicídio) exige resposta direta e cuidadosa; fatores genéricos ('falta de habilidades') não rendem discussão; sem exercício, não há treino de habilidade.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:03:38"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Reenquadrar o formato com transparência",
+   "descricao": "Explica o que a monitoria costuma ser e por que hoje será coletiva, sem expor quem não tem caso.",
+   "exemplo": "'Como tem pessoas que ainda não atendem [pelo sistema], a gente vai fazer uma dinâmica mais coletiva que tem relevância com a clínica.'",
+   "ts": "0:00:08"
+  },
+  {
+   "movimento": "Abrir por concepções prévias",
+   "descricao": "Começa por uma pergunta aberta ao grupo e só depois traz a literatura, para que ela dialogue com o que o grupo pensa.",
+   "exemplo": "'Eu queria entender, na perspectiva de vocês, o que vocês chamam de fracasso clínico.'",
+   "ts": "0:03:38"
+  },
+  {
+   "movimento": "Reformular para extrair o critério",
+   "descricao": "Transforma o relato do participante numa variável discutível.",
+   "exemplo": "'Você está me dizendo que um dos principais fatores tem a ver com a permanência do paciente?'",
+   "ts": "0:04:57"
+  },
+  {
+   "movimento": "Convocar o dissenso",
+   "descricao": "Pede explicitamente outras perspectivas depois de uma resposta.",
+   "exemplo": "'Vocês concordam com essa visão ou têm outra perspectiva sobre fracasso?'",
+   "ts": "0:05:58"
+  },
+  {
+   "movimento": "Responder ele mesmo ao tema sensível",
+   "descricao": "Diante do suicídio, assume a resposta e diferencia fracasso de negligência, sem deixar o tema solto.",
+   "exemplo": "'Vou responder diretamente essa porque é um tema bem delicado.'",
+   "ts": "0:07:01"
+  },
+  {
+   "movimento": "Pedir o referencial dos termos",
+   "descricao": "Pergunta de qual teoria vem um termo trazido no chat e usa a resposta para mostrar a relatividade entre abordagens.",
+   "exemplo": "'Você está falando de regressão partindo de qual referencial teórico?'",
+   "ts": "0:08:35"
+  },
+  {
+   "movimento": "Usar a fala do participante como ponte",
+   "descricao": "Aproveita uma contribuição para introduzir o próprio ponto.",
+   "exemplo": "'Esse ponto que vocês trazem é bem importante e eu vou usar ele para a gente conversar de outra coisa.'",
+   "ts": "0:18:50"
+  },
+  {
+   "movimento": "Autorrevelação didática",
+   "descricao": "Usa as próprias dificuldades, a terapia pessoal, um caso resistente e o primeiro paciente perdido para modelar a autoavaliação que defende.",
+   "exemplo": "'Eu tenho dificuldade em cortar'; 'o meu primeiro paciente aqui eu perdi na primeira sessão'.",
+   "ts": "0:24:53"
+  },
+  {
+   "movimento": "Literatura como pauta a validar",
+   "descricao": "Apresenta os fatores do livro oralmente, sem slides, e pergunta ao grupo se cada um faz sentido.",
+   "exemplo": "'Eu não vou compartilhar a tela porque acho desnecessário... e aí a gente vai discutir se eles fazem sentido ou não.'",
+   "ts": "0:28:40"
+  },
+  {
+   "movimento": "Corrigir e completar a fonte",
+   "descricao": "Diz o que o livro não cobre (estágios de mudança) e descarta o fator genérico demais.",
+   "exemplo": "'Segundo a minha leitura, o livro não fala dessa questão... para mim o timing está muito associado ao tempo de mudança.'",
+   "ts": "0:33:34"
+  },
+  {
+   "movimento": "Oferecer posição contrária sem invalidar",
+   "descricao": "Diante de uma participante que só confronta com vínculo firme, apresenta a própria prática oposta como alternativa.",
+   "exemplo": "'Eu, pelo contrário, se na primeira sessão já consigo uma lapada e acolher depois, sinto que isso fortalece o vínculo.'",
+   "ts": "0:50:42"
+  },
+  {
+   "movimento": "Humor e acolhimento do ambiente online",
+   "descricao": "Convida a ligar a câmera, brinca com pets, barulhos e regionalismos, e mantém o clima leve num tema pesado.",
+   "exemplo": "'Quem quiser ligar a câmera, fique à vontade, inclusive para as participações especiais dos pets.'",
+   "ts": "0:12:42"
+  },
+  {
+   "movimento": "Normalizar para o grupo e para a gravação",
+   "descricao": "Diante da ansiedade de uma iniciante, fala ao grupo e a quem assistir no futuro para reduzir a autocobrança.",
+   "exemplo": "'Galera, se alguém estiver vendo essa gravação no futuro... calma, está tudo bem.'",
+   "ts": "1:02:12"
+  },
+  {
+   "movimento": "Equilibrar polos depois de acolher",
+   "descricao": "Depois de validar a insegurança, alerta para o excesso oposto.",
+   "exemplo": "'Não vamos chegar no outro polo e ter confiança demais.'",
+   "ts": "1:06:53"
+  },
+  {
+   "movimento": "Administrar com leveza",
+   "descricao": "Encaixa o formulário de presença no meio da discussão com uma piada ligada ao tema.",
+   "exemplo": "'Falando de timing, está no timing de vocês responderem o form.'",
+   "ts": "0:57:57"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Antes de chamar um desfecho de fracasso, separe resultado de negligência.",
+   "justificativa": "Dedicação e envolvimento não garantem resultado; o que se pode cobrar é o cuidado mínimo.",
+   "contexto": "Avaliação de abandonos e desfechos graves.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:07:01"
+  },
+  {
+   "dica": "Com paciente em risco de suicídio, siga o protocolo básico: verificar, acompanhar e estar disponível além da sessão.",
+   "justificativa": "É o mínimo razoável de cobrar e o que distingue a atuação cuidadosa da negligente.",
+   "contexto": "Pacientes com ideação suicida.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:07:52"
+  },
+  {
+   "dica": "Pergunte-se de qual referencial você está lendo um fenômeno antes de tratá-lo como fracasso.",
+   "justificativa": "A regressão, por exemplo, é problema numa abordagem e parte esperada do processo em outra.",
+   "contexto": "Interpretação de pioras e recaídas.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:08:56"
+  },
+  {
+   "dica": "Use a psicoeducação para discutir a validade dos rótulos que o paciente traz da internet.",
+   "justificativa": "Muitas expectativas de 'deixar de ser X' vêm de autodiagnósticos e geram frustração com a terapia.",
+   "contexto": "Início do tratamento.",
+   "competencia": "Psicoeducação",
+   "ts": "0:01:19"
+  },
+  {
+   "dica": "Fale do que você sente na relação antes que vire ruptura.",
+   "justificativa": "Rupturas começam quando o terapeuta guarda o que percebe; falar das questões da relação fortalece o vínculo (participante, citando um livro de habilidades terapêuticas).",
+   "contexto": "Incômodo, irritação ou afastamento na relação.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:14:01"
+  },
+  {
+   "dica": "Inclua na formulação do caso como você se sente atendendo aquela pessoa.",
+   "justificativa": "O sentimento do terapeuta é dado clínico e ajuda a comunicar melhor o que acontece.",
+   "contexto": "Construção e revisão do caso.",
+   "competencia": "Formulação de caso",
+   "ts": "0:15:05"
+  },
+  {
+   "dica": "Só comunique ao paciente o que tem função clínica.",
+   "justificativa": "A transparência é importante, mas o terapeuta não fala 'só por falar'.",
+   "contexto": "Antes de revelar um sentimento ou incômodo.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:18:50"
+  },
+  {
+   "dica": "Leve à intervisão também as sessões que não foram boas.",
+   "justificativa": "Mostrar só 'o bonito' blinda o terapeuta contra aprender com os erros.",
+   "contexto": "Supervisão e intervisão.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:21:33"
+  },
+  {
+   "dica": "Identifique uma dificuldade técnica sua (por exemplo, cortar a fala do paciente) e assuma-a como responsabilidade sua.",
+   "justificativa": "A dificuldade não reconhecida piora o atendimento, e o paciente não é responsável pela sua melhora profissional.",
+   "contexto": "Autoavaliação periódica.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:24:53"
+  },
+  {
+   "dica": "Não tome para si a mudança inteira do paciente: lembre das 168 horas.",
+   "justificativa": "O paciente passa uma hora por semana com você e o resto num ambiente que o influencia; cobrar-se só pelo resultado gera frustração.",
+   "contexto": "Casos que não evoluem.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:26:56"
+  },
+  {
+   "dica": "Ajuste o timing ao estágio de mudança e não force o confronto que seria 'murro em ponta de faca'.",
+   "justificativa": "O timing depende também da prontidão do paciente, não só da análise do terapeuta.",
+   "contexto": "Pacientes resistentes.",
+   "competencia": "Intervenção",
+   "ts": "0:35:29"
+  },
+  {
+   "dica": "Sustente, explicando o porquê, a intervenção desconfortável que for necessária.",
+   "justificativa": "Nem todo bom timing é prazeroso, e não há mudança sem angústia.",
+   "contexto": "Paciente que desvia sistematicamente do afeto ('não é sobre isso agora').",
+   "competencia": "Intervenção",
+   "ts": "0:34:23"
+  },
+  {
+   "dica": "Use a duração da sessão como ferramenta: encerre quando o objetivo daquela sessão foi alcançado.",
+   "justificativa": "Prolongar pode atrapalhar a elaboração; no exemplo, o paciente voltou melhor.",
+   "contexto": "Paciente que diz não conseguir processar mais nada.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:40:19"
+  },
+  {
+   "dica": "Se a conexão falha repetidas vezes, nomeie o fato, sem neurotizar.",
+   "justificativa": "Pode ser resistência se manifestando por uma via não convencional.",
+   "contexto": "Atendimento online.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:40:19"
+  },
+  {
+   "dica": "Com pacientes que ruminam, pergunte 'o que você conclui disso?'.",
+   "justificativa": "A conclusão leva à ação; para quem já reflete demais, ajudar a concluir é terapêutico.",
+   "contexto": "Depois de falas longas e circulares.",
+   "competencia": "Intervenção",
+   "ts": "0:41:34"
+  },
+  {
+   "dica": "Varie a forma do confronto: silêncio, espelhamento das palavras do paciente, acolhimento.",
+   "justificativa": "Para quem se julga com dureza, ser acolhido já é confrontador ('por que não faço isso comigo?').",
+   "contexto": "Quando o confronto direto seria prematuro.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:46:52"
+  },
+  {
+   "dica": "Não presuma que o confronto é aversivo; avalie para cada paciente.",
+   "justificativa": "Há pacientes que pedem mais dureza e se incomodam com a validação excessiva.",
+   "contexto": "Decisão sobre o nível de diretividade.",
+   "competencia": "Intervenção",
+   "ts": "0:48:37"
+  },
+  {
+   "dica": "Se confrontar, acolha em seguida ('aqui dói, mas estamos juntos').",
+   "justificativa": "Para Diogo, o confronto seguido de acolhimento fortalece o vínculo, inclusive na primeira sessão.",
+   "contexto": "Momentos marcantes do início do tratamento.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:50:42"
+  },
+  {
+   "dica": "Quando o paciente evita o básico da anamnese e anda em círculos, toque o tema na mesma sessão.",
+   "justificativa": "Se o que precisa ser dito não aparece, a pessoa pode não voltar (participante).",
+   "contexto": "Primeiras sessões com evasão marcante.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:55:40"
+  },
+  {
+   "dica": "Confie na intuição, mas deixe espaço para a dúvida.",
+   "justificativa": "Tanto a falta quanto o excesso de autoconfiança se associam ao fracasso.",
+   "contexto": "Sempre.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:59:01"
+  },
+  {
+   "dica": "Se o paciente quer outra abordagem, pergunte o motivo e mostre como trabalharia aquilo na sua; aceite a decisão.",
+   "justificativa": "É honesto, pode manter o paciente e, se não mantiver, não é necessariamente fracasso seu.",
+   "contexto": "Primeira sessão.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "1:02:12"
+  },
+  {
+   "dica": "Ao rever uma sessão, liste primeiro o que você conseguiu fazer e deixe o que faltou para a próxima.",
+   "justificativa": "O autojulgamento excessivo mina a confiança, que se constrói também reconhecendo acertos.",
+   "contexto": "Depois das sessões, especialmente no início da prática.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:03:14"
+  },
+  {
+   "dica": "Troque 'o paciente não estava pronto' por 'eu errei o timing, porque o paciente não estava pronto'.",
+   "justificativa": "Responsabilizar só o paciente é fácil e esconde o excesso de confiança.",
+   "contexto": "Análise de intervenções que não funcionaram.",
+   "competencia": "Feedback clínico",
+   "ts": "1:06:53"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Fracasso clínico não se define pelo resultado.",
+   "argumento": "Dedicação e envolvimento não produzem resultado necessariamente; só a negligência liga o desfecho ao terapeuta.",
+   "contraponto": "A leitura de que abandono ou suicídio seriam, por si, fracasso do terapeuta.",
+   "implicacao": "Avaliar o processo (protocolo, cuidado, autoavaliação) e não só o desfecho.",
+   "quem": "Diogo",
+   "ts": "0:07:01"
+  },
+  {
+   "tese": "O sentido de 'fracasso' depende da abordagem e da situação.",
+   "argumento": "Na psicanálise a regressão é mecanismo e pode ser parte do processo; o que é problema para uma abordagem é esperado em outra.",
+   "contraponto": "Uma definição única e neutra de piora.",
+   "implicacao": "Explicitar o referencial ao julgar a evolução do caso.",
+   "quem": "Diogo",
+   "ts": "0:08:56"
+  },
+  {
+   "tese": "Quem não olha as próprias dificuldades não consegue analisar o caso.",
+   "argumento": "A dificuldade não vista continua agindo e compromete a compreensão.",
+   "contraponto": "A postura defensiva de mostrar só os acertos (inclusive na intervisão).",
+   "implicacao": "Autoavaliação, intervisão honesta, terapia pessoal.",
+   "quem": "Diogo",
+   "ts": "0:19:56"
+  },
+  {
+   "tese": "O terapeuta não é responsável pela mudança total do paciente.",
+   "argumento": "Uma hora em 168; ambiente e sono pesam; o terapeuta possibilita mudanças, que raramente serão perfeitas.",
+   "contraponto": "O próprio Diogo afirma a responsabilidade pelas dificuldades técnicas. A responsabilidade é pelo trabalho, não pelo resultado inteiro.",
+   "implicacao": "Mirar no processo; aliviar a autocobrança por resultado.",
+   "quem": "Diogo",
+   "ts": "0:26:56"
+  },
+  {
+   "tese": "O bom timing inclui o estágio de mudança e nem sempre é agradável.",
+   "argumento": "Intervenções necessárias podem ser desconfortáveis; confrontos fora do estágio são inúteis.",
+   "contraponto": "Timing entendido só como o momento do insight prazeroso; Diogo nota que o livro não trata dos estágios de mudança.",
+   "implicacao": "Avaliar a prontidão sem evitar o desconforto necessário.",
+   "quem": "Diogo",
+   "ts": "0:33:34"
+  },
+  {
+   "tese": "O confronto não é aversivo por definição; depende do paciente e da forma.",
+   "argumento": "Há pacientes que pedem mais dureza; no Caso Glória, Perls ataca e depois escuta e sintetiza.",
+   "contraponto": "O medo de que confrontar quebre o vínculo.",
+   "implicacao": "Calibrar forma e intensidade caso a caso.",
+   "quem": "Diogo",
+   "ts": "0:48:37"
+  },
+  {
+   "tese": "Confrontar já na primeira sessão, seguido de acolhimento, pode criar vínculo.",
+   "argumento": "Experiência de Diogo: 'uma lapada' e depois 'estamos juntos' fortalece a relação inicial.",
+   "contraponto": "Uma participante só confronta com vínculo firme, salvo quando o paciente anda em círculos.",
+   "implicacao": "O confronto pode ser ferramenta de aliança, não só um risco para ela.",
+   "quem": "Diogo",
+   "ts": "0:50:42"
+  },
+  {
+   "tese": "Terapia não é amizade: sem confronto não há profundidade.",
+   "argumento": "Sem confronto só se reforça o viés de confirmação e a conversa vira 'um papo qualquer'.",
+   "contraponto": "O terapeuta que quer ser gostado.",
+   "implicacao": "Construir a coragem de tocar nos assuntos.",
+   "quem": "Participante",
+   "ts": "0:45:24"
+  },
+  {
+   "tese": "'O paciente não estava pronto' pode ser desresponsabilização.",
+   "argumento": "Responsabilizar só o paciente é fácil e é sinal de excesso de confiança.",
+   "contraponto": "O uso defensivo do conceito de prontidão.",
+   "implicacao": "Assumir o erro de timing ao analisar o que não funcionou.",
+   "quem": "Diogo",
+   "ts": "1:06:53"
+  },
+  {
+   "tese": "'Falta de habilidades' é um fator genérico demais para orientar a discussão.",
+   "argumento": "É amplo e óbvio; o útil é a tipologia de habilidades (técnica, conceitual, relacional, cultural).",
+   "contraponto": "Listas de fatores que explicam tudo e nada.",
+   "implicacao": "Trabalhar fatores específicos e acionáveis.",
+   "quem": "Diogo",
+   "ts": "1:08:03"
+  },
+  {
+   "tese": "No Caso Dora, Freud quis estar certo mais do que cuidar da paciente.",
+   "argumento": "Pelo próprio relato de Freud, o entusiasmo da paciente dá lugar à discordância e ao abandono.",
+   "contraponto": "Diogo acrescenta que o ponto central foi o terapeuta não se avaliar.",
+   "implicacao": "Avaliar a prontidão do paciente e a forma de dizer.",
+   "quem": "Participante",
+   "ts": "0:09:57"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Dedicação e envolvimento não necessariamente produzem resultado.",
+   "tema": "Fracasso clínico",
+   "ts": "0:07:01"
+  },
+  {
+   "texto": "Situações diferentes trazem significados diferentes para o fracasso, e abordagens diferentes também.",
+   "tema": "Fracasso clínico e abordagens",
+   "ts": "0:08:56"
+  },
+  {
+   "texto": "Quando a gente comunica alguma coisa para o paciente, tem uma função clínica.",
+   "tema": "Autorrevelação",
+   "ts": "0:18:50"
+  },
+  {
+   "texto": "Não olhar as suas dificuldades não faz com que elas sumam; só faz com que você não as veja.",
+   "tema": "Autoavaliação do terapeuta",
+   "ts": "0:19:56"
+  },
+  {
+   "texto": "Não é o paciente que é responsável pela minha melhora enquanto profissional.",
+   "tema": "Responsabilidade do terapeuta",
+   "ts": "0:25:56"
+  },
+  {
+   "texto": "Uma semana tem 168 horas. Seu paciente passa com você, em geral, uma dessas 168.",
+   "tema": "Limites da responsabilidade",
+   "ts": "0:26:56"
+  },
+  {
+   "texto": "Como é que vai ver mudança sem angústia?",
+   "tema": "Timing e desconforto",
+   "ts": "0:35:29"
+  },
+  {
+   "texto": "Existem conflitos que são só murro em ponta de faca.",
+   "tema": "Estágios de mudança",
+   "ts": "0:35:29"
+  },
+  {
+   "texto": "A gente não está aqui para ser o melhor amigo do paciente. (participante)",
+   "tema": "Confronto",
+   "ts": "0:45:24"
+  },
+  {
+   "texto": "O acolhimento pode ser uma forma de confronto. (participante)",
+   "tema": "Confronto e acolhimento",
+   "ts": "0:46:52"
+  },
+  {
+   "texto": "A gente não pode classificar o confronto, por si só, como ruim.",
+   "tema": "Confronto",
+   "ts": "0:48:37"
+  },
+  {
+   "texto": "Sua intuição te diz muita coisa, confia nela. Por outro lado, você não é Deus: permita-se a dúvida.",
+   "tema": "Autoconfiança",
+   "ts": "0:59:01"
+  },
+  {
+   "texto": "Responsabilizar só o paciente pela falta de sucesso na terapia é fácil.",
+   "tema": "Excesso de confiança",
+   "ts": "1:06:53"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "5 fatores que a literatura associa ao fracasso terapêutico",
+   "mensagem": "Fracasso não é só resultado: responsabilizar-se demais, errar o timing, ter medo de confrontar, ter pouca ou confiança demais e falta de habilidades pesam mais do que a técnica escolhida.",
+   "roteiro": [
+    "Capa: por que algumas terapias fracassam?",
+    "1. Responsabilizar-se demais pela melhora",
+    "2. Timing: a hora certa de perguntar, devolver, confrontar",
+    "3. Medo de confrontar (querer ser gostado)",
+    "4. Falta e excesso de autoconfiança",
+    "5. Falta de habilidades técnicas, conceituais, relacionais e culturais",
+    "Fecho: qual desses é o seu?"
+   ],
+   "corte_inicio": "0:28:40",
+   "corte_fim": "0:29:53"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Seu paciente passa 1 das 168 horas da semana com você",
+   "mensagem": "O terapeuta possibilita mudanças, mas não controla o ambiente; sem sono, nenhuma técnica de regulação emocional aguenta.",
+   "roteiro": [
+    "Cena 1: a conta das 168 horas",
+    "Cena 2: o que acontece nas outras 167",
+    "Cena 3: 'a gente possibilita mudanças'",
+    "Cena 4: responsabilize-se pelo processo, não pelo resultado inteiro"
+   ],
+   "corte_inicio": "0:26:56",
+   "corte_fim": "0:28:40"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Não olhar suas dificuldades não faz com que elas sumam",
+   "mensagem": "Só faz com que você não as veja. Autoavaliação e intervisão honesta fazem parte da técnica.",
+   "roteiro": [
+    "Frase de impacto",
+    "Legenda: leve à intervisão também a sessão ruim"
+   ],
+   "corte_inicio": "0:19:56",
+   "corte_fim": "0:20:56"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Confronto não é grosseria",
+   "mensagem": "Dá para confrontar com uma pergunta direta, com silêncio, com espelhamento ou até com acolhimento; a aversividade depende do paciente, e acolher depois de confrontar pode fortalecer o vínculo.",
+   "roteiro": [
+    "Capa: confrontar quebra o vínculo?",
+    "Forma 1: pergunta direta",
+    "Forma 2: silêncio",
+    "Forma 3: espelhar as palavras do paciente",
+    "Forma 4: acolher quem se julga com dureza",
+    "Regra: confrontou, acolha",
+    "Fecho: não é o confronto, é a forma e o timing"
+   ],
+   "corte_inicio": "0:48:37",
+   "corte_fim": "0:50:42"
+  },
+  {
+   "formato": "reels",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Regressão é sinal de fracasso?",
+   "mensagem": "O mesmo fenômeno é problema numa abordagem e parte esperada do processo em outra; pergunte sempre de qual referencial você está lendo.",
+   "roteiro": [
+    "Cena 1: 'meu paciente regrediu'",
+    "Cena 2: na psicanálise, regredir pode ser parte do processo",
+    "Cena 3: fracasso depende do referencial"
+   ],
+   "corte_inicio": "0:08:56",
+   "corte_fim": "0:09:57"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "'O paciente não estava pronto' — cuidado com essa frase",
+   "mensagem": "Complete: 'eu errei o timing, porque o paciente não estava pronto'. Culpar só o paciente é fácil.",
+   "roteiro": [
+    "Frase riscada e reescrita",
+    "Legenda sobre excesso de confiança"
+   ],
+   "corte_inicio": "1:06:53",
+   "corte_fim": "1:08:03"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Caixinha: o que você chama de fracasso clínico?",
+   "mensagem": "Mostrar como a roda começa pelas concepções do grupo e só depois vai à literatura.",
+   "roteiro": [
+    "Story 1: pergunta-caixinha",
+    "Story 2: respostas mais comuns (abandono, piora)",
+    "Story 3: convite para o grupo"
+   ],
+   "corte_inicio": "0:03:38",
+   "corte_fim": "0:04:57"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Caso Dora, lido por um participante como fracasso clínico por insistência de Freud em estar certo."
+  },
+  {
+   "nome": "Fritz Perls",
+   "contexto": "Atendimento no Caso Glória, citado como exemplo de confronto intenso (apresentado na monitoria anterior, de João)."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria em formato de roda de discussão temática (Diogo)",
+  "objetivo": "No espaço da monitoria, quando o grupo não tem caso atendido pelo sistema de IA para acompanhar, discutir um tema clínico transversal (aqui, fracasso clínico) confrontando as concepções dos participantes com fatores da literatura.",
+  "publico": "Alunos e terapeutas em formação da Allos, alguns já atendendo pela Allos e outros ainda não (ou não pelo sistema de IA).",
+  "tamanho": "Grupo online pequeno, cerca de 8 participantes ativos.",
+  "duracao": "Cerca de 1h10 gravada.",
+  "estrutura_padrao": "Formato habitual da monitoria: acompanhar passo a passo um atendimento feito no sistema de IA da Allos (casos reais só em espaço particular, por sigilo). Formato deste encontro: (1) abertura com enquadre do formato e do tema; (2) pergunta aberta sobre a concepção do tema; (3) rodada livre de respostas, com o facilitador reformulando e problematizando; (4) síntese-ponte; (5) fatores de um capítulo de livro apresentados oralmente, um a um, cada um seguido de 'faz sentido para vocês?'; (6) comentários do facilitador com exemplos da própria clínica e da terapia pessoal; (7) fechamento breve com a referência e fim da gravação. Não há exercício prático.",
+  "papel_facilitador": "Mediador de discussão: faz perguntas abertas, reformula, conecta falas, traz a literatura como pauta, corrige e completa a fonte, responde ele mesmo a temas sensíveis e usa autorrevelação para normalizar dificuldades. Não dá feedback de desempenho.",
+  "regras_combinados": "Encontro gravado; câmeras opcionais (convite a ligar); chat aberto e lido pelo facilitador; formulário de presença no chat; casos reais não são discutidos na gravação por sigilo."
+ },
+ "reflexoes_do_facilitador": [
+  "Decide não compartilhar a tela por considerar desnecessário para apresentar os fatores (0:28:40).",
+  "Ressalva que vai 'confirmar para não falar bobagem' e conclui que o livro não trata dos estágios de mudança no fator timing (0:33:34).",
+  "Admite não lembrar o desfecho da anedota do professor ('deixo esse mistério para vocês, porque também não lembro') (0:59:01).",
+  "Opta por não se deter no último fator (falta de habilidades) por achá-lo genérico demais (1:08:03).",
+  "Faz ressalvas sobre o Caso Glória ('não façam isso em casa') ao recomendá-lo (0:49:40).",
+  "Brinca que o livro tem perspectiva parecida com a da Allos, 'só que a Allos é melhor, tem que fazer esse merchan' (0:25:56)."
+ ],
+ "referencias_a_outros_encontros": [
+  "O espaço da monitoria costuma acompanhar um caso atendido pelo sistema de IA da Allos; casos reais seriam trabalhados em particular (0:00:08).",
+  "Monitoria dada por João cerca de duas semanas antes, na qual foi apresentado o atendimento de Perls no Caso Glória (0:49:40).",
+  "Menção a uma conversa 'ontem' com uma participante sobre responsabilidade do terapeuta (0:26:56).",
+  "Referências a intervisões e à supervisão dentro da Allos (0:21:33; 1:04:17).",
+  "O título original ('Encontro 33 e Encontro 34') sugere numeração da série do Acervo, mas o vídeo mostra um único encontro.",
+  "Relacionados no vault: Acervo 15 (Diogo, habilidades terapêuticas e empatia, provavelmente com o mesmo livro de autores comportamentais); Monitoria 06 de João de Bragança (Caso Glória, critérios de terapia ruim)."
+ ],
+ "observacoes": "Legenda automática com muito ruído: nomes de participantes trocados ('Idrin', 'Elon', 'IR', 'Ara' parecem ser a mesma participante), 'Pearls'/'Flos'/'pech' = Perls, 'EAP' provavelmente = 'IA' (?). O livro-base aparece com dois títulos ('Habilidades terapêuticas na prática da psicoterapia' e 'Habilidades Terapêuticas na prática clínica'), organizado por autoras de orientação comportamental; título exato e autoras não confirmados (?). Uma participante cita também um livro de 'habilidades terapêuticas comportamentais' (?). Em alguns trechos (0:07:52; 1:03:14) a transcrição mistura falas de Diogo e de participantes; atribuições marcadas como incertas na nota. Não há caso clínico em discussão: os exemplos clínicos são vinhetas breves contadas por participantes e por Diogo, anonimizadas. A abordagem de Diogo não é nomeada; ele usa vocabulário comportamental ('aversivo')."
+}

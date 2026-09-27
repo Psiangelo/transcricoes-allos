@@ -39,46 +39,46 @@ Depois de uma síntese dos critérios, o facilitador pede mais, "o mais absurdo 
 
 | Início | Bloco | O que acontece | Função pedagógica |
 |---|---|---|---|
-| {{ts:acervo-21@0:00:00}} | Teoria | (Gravação em andamento.) Um participante define priorizar como escala de valor; o facilitador diferencia os elementos e liga a ideia a critério, cosmovisão e função sentimento | Construir a definição a partir da fala do grupo |
-| {{ts:acervo-21@0:02:32}} | Teoria | Exemplo do paciente que traz vários fenômenos de uma vez; o terapeuta escolhe um | Tornar concreto o problema da priorização |
-| {{ts:acervo-21@0:03:16}} | Combinados | Objetivo do exercício (tomar consciência do processo); "me avisem se eu ficar prolixo" | Explicitar a meta e abrir o canal de feedback ao facilitador |
-| {{ts:acervo-21@0:04:41}} | Rodada de respostas | "O que vocês priorizam no discurso do paciente?": repetição e corpo, demanda e o "porquê por trás" | Levantar os critérios implícitos do grupo |
-| {{ts:acervo-21@0:08:53}} | Discussão | "Quem define o que é central?"; debate sobre queixa, demanda e consciência do paciente | Provocar a reflexão sobre de quem é a escolha |
-| {{ts:acervo-21@0:12:22}} | Teoria | Facilitador nomeia "o que o paciente define como central" como critério; participante propõe "o mais fácil de resolver" (ganho rápido) | Ampliar o repertório de critérios |
-| {{ts:acervo-21@0:15:35}} | Feedback | Problematização: repetição (vício de linguagem, insistência), prioridade do paciente (nível de consciência, exemplo do menino), a hipótese causal do paciente | Mostrar o custo de cada critério |
-| {{ts:acervo-21@0:25:29}} | Teoria | Síntese em lista: repetição, não dito, central, o que o paciente define, mais fácil, corpo | Organizar o que foi levantado |
-| {{ts:acervo-21@0:26:44}} | Rodada de respostas | "Pode ser o mais absurdo": contradição, ato falho, fenômeno na relação terapêutica (Rogers), projeção, acolhimento na crise, confronto | Segunda rodada, mais criativa |
-| {{ts:acervo-21@0:30:58}} | Teoria | Critérios não ditos: tempo clínico e estágio de mudança; o que é mais assustador (Santo Graal); encaixe e desencaixe com a teoria | Completar o mapa com critérios mais sofisticados |
-| {{ts:acervo-21@0:36:05}} | Dinâmica | Pedido de dois voluntários (paciente e terapeuta) para o roleplay final; a gravação é cortada | Passar do mapa conceitual para a prática |
+| [▶ 0:00:00](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=0s) | Teoria | (Gravação em andamento.) Um participante define priorizar como escala de valor; o facilitador diferencia os elementos e liga a ideia a critério, cosmovisão e função sentimento | Construir a definição a partir da fala do grupo |
+| [▶ 0:02:32](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=152s) | Teoria | Exemplo do paciente que traz vários fenômenos de uma vez; o terapeuta escolhe um | Tornar concreto o problema da priorização |
+| [▶ 0:03:16](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=196s) | Combinados | Objetivo do exercício (tomar consciência do processo); "me avisem se eu ficar prolixo" | Explicitar a meta e abrir o canal de feedback ao facilitador |
+| [▶ 0:04:41](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=281s) | Rodada de respostas | "O que vocês priorizam no discurso do paciente?": repetição e corpo, demanda e o "porquê por trás" | Levantar os critérios implícitos do grupo |
+| [▶ 0:08:53](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=533s) | Discussão | "Quem define o que é central?"; debate sobre queixa, demanda e consciência do paciente | Provocar a reflexão sobre de quem é a escolha |
+| [▶ 0:12:22](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=742s) | Teoria | Facilitador nomeia "o que o paciente define como central" como critério; participante propõe "o mais fácil de resolver" (ganho rápido) | Ampliar o repertório de critérios |
+| [▶ 0:15:35](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=935s) | Feedback | Problematização: repetição (vício de linguagem, insistência), prioridade do paciente (nível de consciência, exemplo do menino), a hipótese causal do paciente | Mostrar o custo de cada critério |
+| [▶ 0:25:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1529s) | Teoria | Síntese em lista: repetição, não dito, central, o que o paciente define, mais fácil, corpo | Organizar o que foi levantado |
+| [▶ 0:26:44](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1604s) | Rodada de respostas | "Pode ser o mais absurdo": contradição, ato falho, fenômeno na relação terapêutica (Rogers), projeção, acolhimento na crise, confronto | Segunda rodada, mais criativa |
+| [▶ 0:30:58](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1858s) | Teoria | Critérios não ditos: tempo clínico e estágio de mudança; o que é mais assustador (Santo Graal); encaixe e desencaixe com a teoria | Completar o mapa com critérios mais sofisticados |
+| [▶ 0:36:05](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2165s) | Dinâmica | Pedido de dois voluntários (paciente e terapeuta) para o roleplay final; a gravação é cortada | Passar do mapa conceitual para a prática |
 
 ## Conteúdo teórico
 
-### O que é priorizar {{ts:acervo-21@0:00:00}}
+### O que é priorizar [▶ 0:00:00](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=0s)
 
-Priorizar é **estabelecer uma escala de valor** (mais ou menos importante, urgente, relevante) e seguir um critério. O facilitador distingue a origem desse critério: pode ser **inconsciente** ("a gente realmente não sabe o que está fazendo, faz por vício") ou **escolhido deliberadamente por uma crença**. Em ambos os casos, as premissas de que partimos são "igualmente perigosas": a [[Cosmovisão]] funciona como "um ponto vermelho no mapa" {{ts:acervo-21@0:01:27}}. Ele associa a definição de "escala de valores" à [[Função sentimento]] na clínica, a função que valora, e à "função judicativa": é por ela que se julga o que é mais importante {{ts:acervo-21@0:02:32}}.
+Priorizar é **estabelecer uma escala de valor** (mais ou menos importante, urgente, relevante) e seguir um critério. O facilitador distingue a origem desse critério: pode ser **inconsciente** ("a gente realmente não sabe o que está fazendo, faz por vício") ou **escolhido deliberadamente por uma crença**. Em ambos os casos, as premissas de que partimos são "igualmente perigosas": a [[Cosmovisão]] funciona como "um ponto vermelho no mapa" [▶ 0:01:27](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=87s). Ele associa a definição de "escala de valores" à [[Função sentimento]] na clínica, a função que valora, e à "função judicativa": é por ela que se julga o que é mais importante [▶ 0:02:32](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=152s).
 
-O problema clínico é este: o paciente conta uma série de fenômenos (o cachorro morreu, a mãe está triste, sente angústia e náusea, pensa em se matar) e o terapeuta **escolhe um** para aprofundar, entender ou intervir. "Priorizar é mais ou menos escolher por onde a gente vai começar." Intuitivamente todo terapeuta já faz isso, e a proposta do encontro é **tomar consciência** do próprio raciocínio de priorização {{ts:acervo-21@0:03:16}}.
+O problema clínico é este: o paciente conta uma série de fenômenos (o cachorro morreu, a mãe está triste, sente angústia e náusea, pensa em se matar) e o terapeuta **escolhe um** para aprofundar, entender ou intervir. "Priorizar é mais ou menos escolher por onde a gente vai começar." Intuitivamente todo terapeuta já faz isso, e a proposta do encontro é **tomar consciência** do próprio raciocínio de priorização [▶ 0:03:16](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=196s).
 
-### Os critérios levantados pelo grupo {{ts:acervo-21@0:04:41}}
+### Os critérios levantados pelo grupo [▶ 0:04:41](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=281s)
 
-1. **Repetição** {{ts:acervo-21@0:05:09}}: uma palavra ou tema que volta muitas vezes em poucos minutos indica "alguma coisa aí". Uma participante anota com asterisco e conta que, a partir de uma palavra repetida, conseguiu construir com o paciente um tema relacional.
-2. **Corpo** {{ts:acervo-21@0:05:09}}: com referência à Gestalt, observar a ruptura na expressão, como quando a pessoa começa a mexer no cabelo ou a voz muda ao tocar num tema. A intervenção pode perguntar o que essa expressão ou o corpo "quer dizer" quando ela fala disso.
-3. **Demanda e o "porquê por trás"** {{ts:acervo-21@0:07:05}}: explorar o motivo que trouxe o paciente, para além da queixa inicial. O facilitador separa duas coisas: perguntar por que o paciente chegou ali investiga a **expectativa** dele, e perguntar a **causa** é outra operação. Separa também o **dito** do **central** ("isso é da psicanálise, o dito") {{ts:acervo-21@0:08:53}}.
-4. **O que o paciente define como central** {{ts:acervo-21@0:12:22}}: seguir deliberadamente aquilo que o paciente aponta como o centro do sofrimento, que não é necessariamente "o X da questão".
-5. **O mais fácil de resolver (ganho rápido)** {{ts:acervo-21@0:12:22}}: exemplo de um participante: diante de um conflito amoroso complexo e de uma desorganização financeira simples, resolver primeiro a parte simples mostra resultado, melhora "um tico" a vida e **engaja** o paciente na terapia. O tema complexo fica para o longo prazo {{ts:acervo-21@0:13:54}}.
+1. **Repetição** [▶ 0:05:09](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=309s): uma palavra ou tema que volta muitas vezes em poucos minutos indica "alguma coisa aí". Uma participante anota com asterisco e conta que, a partir de uma palavra repetida, conseguiu construir com o paciente um tema relacional.
+2. **Corpo** [▶ 0:05:09](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=309s): com referência à Gestalt, observar a ruptura na expressão, como quando a pessoa começa a mexer no cabelo ou a voz muda ao tocar num tema. A intervenção pode perguntar o que essa expressão ou o corpo "quer dizer" quando ela fala disso.
+3. **Demanda e o "porquê por trás"** [▶ 0:07:05](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=425s): explorar o motivo que trouxe o paciente, para além da queixa inicial. O facilitador separa duas coisas: perguntar por que o paciente chegou ali investiga a **expectativa** dele, e perguntar a **causa** é outra operação. Separa também o **dito** do **central** ("isso é da psicanálise, o dito") [▶ 0:08:53](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=533s).
+4. **O que o paciente define como central** [▶ 0:12:22](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=742s): seguir deliberadamente aquilo que o paciente aponta como o centro do sofrimento, que não é necessariamente "o X da questão".
+5. **O mais fácil de resolver (ganho rápido)** [▶ 0:12:22](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=742s): exemplo de um participante: diante de um conflito amoroso complexo e de uma desorganização financeira simples, resolver primeiro a parte simples mostra resultado, melhora "um tico" a vida e **engaja** o paciente na terapia. O tema complexo fica para o longo prazo [▶ 0:13:54](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=834s).
 
-### Quem define o que é central? {{ts:acervo-21@0:09:32}}
+### Quem define o que é central? [▶ 0:09:32](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=572s)
 
-A pergunta é jogada para todos: é o paciente que define, é o terapeuta ou é outro critério, como o *feeling*? O grupo oscila entre "depende" e a ideia de que depende do **nível de consciência** do paciente {{ts:acervo-21@0:10:58}}. Se ele já sabe o que causa o sofrimento e o nomeia, "já está revelado". Se não sabe, cabe ao terapeuta ajudar a delinear. Exemplo: alguém chega com um diagnóstico de ansiedade; o central seria o *porquê* da ansiedade {{ts:acervo-21@0:12:08}}. O "depende" é recebido com humor ("a gente vai trazer vinheta clínica para esse 'depende' morrer de uma vez").
+A pergunta é jogada para todos: é o paciente que define, é o terapeuta ou é outro critério, como o *feeling*? O grupo oscila entre "depende" e a ideia de que depende do **nível de consciência** do paciente [▶ 0:10:58](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=658s). Se ele já sabe o que causa o sofrimento e o nomeia, "já está revelado". Se não sabe, cabe ao terapeuta ajudar a delinear. Exemplo: alguém chega com um diagnóstico de ansiedade; o central seria o *porquê* da ansiedade [▶ 0:12:08](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=728s). O "depende" é recebido com humor ("a gente vai trazer vinheta clínica para esse 'depende' morrer de uma vez").
 
-### Problematizando cada critério {{ts:acervo-21@0:15:35}}
+### Problematizando cada critério [▶ 0:15:35](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=935s)
 
-- **Repetição.** Priorizar só a repetição pode deixar pouco espaço para outras coisas que talvez estejam sendo mascaradas por ela (fala de participante) {{ts:acervo-21@0:15:55}}. O facilitador acrescenta que a repetição "te induz a colocar um X no mapa", mas pode ser **só um vício de linguagem** (um "né?" no fim das frases não é um pedido de opinião). E, quando se trata da repetição de um tema, insistir nele até ficar repetitivo "é só chato" e cansa o paciente {{ts:acervo-21@0:17:17}}.
-- **O que o paciente define como prioridade.** Uma participante aponta o risco de o paciente "mandar 100% no setting": sem "pontinhos de crítica" dentro do discurso dele, o terapeuta perde a direção {{ts:acervo-21@0:18:27}}. O facilitador destaca o **nível de consciência**: não é sempre verdade que a pessoa sabe mais de si do que quem olha de fora {{ts:acervo-21@0:19:29}}. Exemplo: um menino pequeno que implica o tempo todo com uma menina; de fora, qualquer um entende que é amor, e ele não. Se esse "paciente" pedisse ajuda para ser *mais chato* com a menina, seguir a prioridade dele seria ajudá-lo a ir na direção errada {{ts:acervo-21@0:20:58}}.
-- **A hipótese causal que o paciente traz.** Uma participante distingue dois casos: o paciente que prioriza um sintoma ("quero parar de sentir ansiedade") e o que já chega com a interpretação pronta ("fico nervoso porque não sei falar com minha filha") {{ts:acervo-21@0:21:31}}. Para ela, o paciente procura ajuda justamente porque **falha em estabelecer a relação de causa e efeito**. Se estivesse certo, talvez não precisasse de terapia. Por isso é importante olhar para a hipótese dele (é ali que o sofrimento está simbolizado), sem tomá-la como verdade {{ts:acervo-21@0:23:00}} {{ts:acervo-21@0:24:13}}.
-- **O mais fácil.** O facilitador levanta a pergunta sobre o problema de priorizar o mais fácil {{ts:acervo-21@0:20:58}}, mas a discussão escorrega para o critério anterior e o ponto fica sem resposta.
+- **Repetição.** Priorizar só a repetição pode deixar pouco espaço para outras coisas que talvez estejam sendo mascaradas por ela (fala de participante) [▶ 0:15:55](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=955s). O facilitador acrescenta que a repetição "te induz a colocar um X no mapa", mas pode ser **só um vício de linguagem** (um "né?" no fim das frases não é um pedido de opinião). E, quando se trata da repetição de um tema, insistir nele até ficar repetitivo "é só chato" e cansa o paciente [▶ 0:17:17](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1037s).
+- **O que o paciente define como prioridade.** Uma participante aponta o risco de o paciente "mandar 100% no setting": sem "pontinhos de crítica" dentro do discurso dele, o terapeuta perde a direção [▶ 0:18:27](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1107s). O facilitador destaca o **nível de consciência**: não é sempre verdade que a pessoa sabe mais de si do que quem olha de fora [▶ 0:19:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1169s). Exemplo: um menino pequeno que implica o tempo todo com uma menina; de fora, qualquer um entende que é amor, e ele não. Se esse "paciente" pedisse ajuda para ser *mais chato* com a menina, seguir a prioridade dele seria ajudá-lo a ir na direção errada [▶ 0:20:58](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1258s).
+- **A hipótese causal que o paciente traz.** Uma participante distingue dois casos: o paciente que prioriza um sintoma ("quero parar de sentir ansiedade") e o que já chega com a interpretação pronta ("fico nervoso porque não sei falar com minha filha") [▶ 0:21:31](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1291s). Para ela, o paciente procura ajuda justamente porque **falha em estabelecer a relação de causa e efeito**. Se estivesse certo, talvez não precisasse de terapia. Por isso é importante olhar para a hipótese dele (é ali que o sofrimento está simbolizado), sem tomá-la como verdade [▶ 0:23:00](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1380s) [▶ 0:24:13](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1453s).
+- **O mais fácil.** O facilitador levanta a pergunta sobre o problema de priorizar o mais fácil [▶ 0:20:58](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1258s), mas a discussão escorrega para o critério anterior e o ponto fica sem resposta.
 
-### Síntese: o mapa de critérios {{ts:acervo-21@0:25:29}}
+### Síntese: o mapa de critérios [▶ 0:25:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1529s)
 
 O facilitador organiza o que foi dito (aparentemente escrevendo numa tela):
 
@@ -97,23 +97,23 @@ O facilitador organiza o que foi dito (aparentemente escrevendo numa tela):
 | O que assusta | Onde está o "dragão" | — |
 | Encaixe/desencaixe com a teoria | O que confirma ou desmente sua leitura | — |
 
-### Contradição, ato falho e confronto {{ts:acervo-21@0:26:44}}
+### Contradição, ato falho e confronto [▶ 0:26:44](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1604s)
 
-Um participante propõe a **contradição**, e o facilitador a desdobra em três tipos: dentro do discurso, entre a fala e o corpo, e entre o que o paciente diz ser terrível e o que na verdade é "salvífico" para ele {{ts:acervo-21@0:26:56}}. O **ato falho** entra na categoria do não dito. Mais adiante, quando alguém sugere que "dá para priorizar o confronto", o facilitador o reinsere na contradição: o confronto é a contradição "na dialética" {{ts:acervo-21@0:31:56}}.
+Um participante propõe a **contradição**, e o facilitador a desdobra em três tipos: dentro do discurso, entre a fala e o corpo, e entre o que o paciente diz ser terrível e o que na verdade é "salvífico" para ele [▶ 0:26:56](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1616s). O **ato falho** entra na categoria do não dito. Mais adiante, quando alguém sugere que "dá para priorizar o confronto", o facilitador o reinsere na contradição: o confronto é a contradição "na dialética" [▶ 0:31:56](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1916s).
 
-### Priorizar a relação terapêutica {{ts:acervo-21@0:27:31}}
+### Priorizar a relação terapêutica [▶ 0:27:31](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1651s)
 
-Um participante propõe priorizar o **fenômeno que aparece na sessão**: a pessoa diz ter dificuldade de pôr limites, e isso se manifesta na relação com o terapeuta. O pressuposto é que o que acontece com o terapeuta se repete na vida do paciente {{ts:acervo-21@0:28:15}}. O facilitador lembra um atendimento público de Rogers (disponível no YouTube, segundo ele) em que Rogers boceja e diz que está entediado com o que o paciente conta. Isso é priorizar "o campo dos dois", a relação, e não o discurso, e "pode ser salvífico em algum momento". E faz a distinção: se você pergunta ao paciente o que ele pensa de você e percebe que é o que ele pensa de todo mundo, "aí não é relação, é **projeção**", outra forma de priorização {{ts:acervo-21@0:29:21}}.
+Um participante propõe priorizar o **fenômeno que aparece na sessão**: a pessoa diz ter dificuldade de pôr limites, e isso se manifesta na relação com o terapeuta. O pressuposto é que o que acontece com o terapeuta se repete na vida do paciente [▶ 0:28:15](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1695s). O facilitador lembra um atendimento público de Rogers (disponível no YouTube, segundo ele) em que Rogers boceja e diz que está entediado com o que o paciente conta. Isso é priorizar "o campo dos dois", a relação, e não o discurso, e "pode ser salvífico em algum momento". E faz a distinção: se você pergunta ao paciente o que ele pensa de você e percebe que é o que ele pensa de todo mundo, "aí não é relação, é **projeção**", outra forma de priorização [▶ 0:29:21](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1761s).
 
-### Acolhimento: a prioridade da crise {{ts:acervo-21@0:30:04}}
+### Acolhimento: a prioridade da crise [▶ 0:30:04](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1804s)
 
 Uma participante pergunta se ainda estão falando de aprofundamento ou de priorização e observa que, numa crise, "às vezes a única priorização que você tem é o acolhimento". O facilitador concorda que é intuitivo ir direto ao acolhimento na crise, mas acha "muito complicado" discutir em abstrato qual é a única possível.
 
-### Os critérios que ninguém disse {{ts:acervo-21@0:30:58}}
+### Os critérios que ninguém disse [▶ 0:30:58](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1858s)
 
-- **Tempo clínico e estágio de mudança** {{ts:acervo-21@0:31:21}}: quem fez o roleplay de avaliação da Allos recebeu, junto com a nota, um item chamado "tempo clínico / estágio de mudança", que mede o quanto o paciente está pronto para receber aquela intervenção. Isso também é critério de priorização, tanto para intervir quanto para escolher qual raciocínio clínico seguir ([[Estágios de mudança]]).
-- **O que o paciente mais teme: onde está o dragão** {{ts:acervo-21@0:32:16}}: a história dos cavaleiros da Távola Redonda que discutem como buscar o Santo Graal, um tesouro que ninguém jamais encontrou. Cogitam o caminho sem estrada e o caminho que outros já percorreram, mas por esses provavelmente alguém já passou e já olhou. A decisão final é entrar "pelo canto da floresta onde é mais escuro e mais assustador" {{ts:acervo-21@0:33:29}}. Na clínica: priorizar aquilo que o paciente acha mais assustador, "onde está o dragão", porque "atrás do dragão tem o tesouro, muitas vezes": atrás do que é mais grave, do que "grita 'não venha para cá'". Vale também para o que é **desconhecido** para o paciente.
-- **Encaixe e desencaixe com a teoria** {{ts:acervo-21@0:35:03}}: você atende uma paciente que se encaixa perfeitamente num quadro clássico, e na sessão seguinte acontece algo que "desencaixa completamente". Priorizar o encaixe com a teoria é uma forma. Priorizar o **desencaixe**, "aquilo que diz que você está clinicando errado, entendendo o caso errado", é outra, e é o que "vai ser valioso para o seu caso".
+- **Tempo clínico e estágio de mudança** [▶ 0:31:21](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1881s): quem fez o roleplay de avaliação da Allos recebeu, junto com a nota, um item chamado "tempo clínico / estágio de mudança", que mede o quanto o paciente está pronto para receber aquela intervenção. Isso também é critério de priorização, tanto para intervir quanto para escolher qual raciocínio clínico seguir ([[Estágios de mudança]]).
+- **O que o paciente mais teme: onde está o dragão** [▶ 0:32:16](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1936s): a história dos cavaleiros da Távola Redonda que discutem como buscar o Santo Graal, um tesouro que ninguém jamais encontrou. Cogitam o caminho sem estrada e o caminho que outros já percorreram, mas por esses provavelmente alguém já passou e já olhou. A decisão final é entrar "pelo canto da floresta onde é mais escuro e mais assustador" [▶ 0:33:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2009s). Na clínica: priorizar aquilo que o paciente acha mais assustador, "onde está o dragão", porque "atrás do dragão tem o tesouro, muitas vezes": atrás do que é mais grave, do que "grita 'não venha para cá'". Vale também para o que é **desconhecido** para o paciente.
+- **Encaixe e desencaixe com a teoria** [▶ 0:35:03](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2103s): você atende uma paciente que se encaixa perfeitamente num quadro clássico, e na sessão seguinte acontece algo que "desencaixa completamente". Priorizar o encaixe com a teoria é uma forma. Priorizar o **desencaixe**, "aquilo que diz que você está clinicando errado, entendendo o caso errado", é outra, e é o que "vai ser valioso para o seu caso".
 
 ## Dinâmica(s)
 
@@ -134,26 +134,26 @@ Uma participante pergunta se ainda estão falando de aprofundamento ou de priori
   8. O facilitador acrescenta critérios não mencionados, com histórias (Santo Graal) e exemplos.
   9. Passar para um roleplay (paciente e terapeuta voluntários) para aplicar os critérios. Esse trecho não foi gravado.
 - **Como o facilitador dá feedback / critérios de qualidade:** não corrige ninguém diretamente; **diferencia** ("você está me contando duas coisas diferentes"), **renomeia** (liga a fala a um conceito) e **problematiza** cada critério pelo seu custo clínico. Uma boa resposta explicita *o que* se prioriza, *por quê* e *qual é o risco*.
-- **O que aconteceu na prática:** surgiram repetição, corpo, demanda, prioridade do paciente, ganho rápido, contradição, ato falho, relação terapêutica e acolhimento. O grupo às vezes se perdeu na abstração ("depende", "ficou tudo branco para mim") e confundiu priorização com aprofundamento {{ts:acervo-21@0:30:04}}. Um participante teve dificuldade de dar exemplo no improviso, mas conseguiu com incentivo {{ts:acervo-21@0:13:46}}.
+- **O que aconteceu na prática:** surgiram repetição, corpo, demanda, prioridade do paciente, ganho rápido, contradição, ato falho, relação terapêutica e acolhimento. O grupo às vezes se perdeu na abstração ("depende", "ficou tudo branco para mim") e confundiu priorização com aprofundamento [▶ 0:30:04](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1804s). Um participante teve dificuldade de dar exemplo no improviso, mas conseguiu com incentivo [▶ 0:13:46](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=826s).
 - **Variações e armadilhas:** o próprio grupo aponta a armadilha: discutir priorização em abstrato leva ao "depende". O remédio é **usar uma vinheta clínica** com vários fenômenos e pedir que cada um escolha e justifique. O problema do "mais fácil" ficou sem discussão; vale reservar tempo para ele. O roleplay final (paciente e terapeuta voluntários, sem avaliar se a interpretação está certa) foi anunciado, mas ficou fora da gravação.
 
 ## Dicas clínicas
 
-- **Torne explícito o critério com que você prioriza** — *Por quê:* se não é escolhido, o critério é vício ou crença, e as premissas são "igualmente perigosas". *Quando:* ao revisar sessões e na supervisão. {{ts:acervo-21@0:01:27}}
-- **Diante de muitos fenômenos, escolha um por vez e saiba por que escolheu** — *Por quê:* priorizar é "escolher por onde começar"; escolher sem saber por quê deixa a direção ao acaso. *Quando:* quando o paciente despeja várias questões ao mesmo tempo. {{ts:acervo-21@0:02:32}}
-- **Use a repetição como pista, mas verifique se não é vício de linguagem** — *Por quê:* a repetição induz a "pôr um X no mapa", mas pode ser só um hábito de fala. *Quando:* palavras que voltam muitas vezes em pouco tempo. {{ts:acervo-21@0:15:55}}
-- **Não insista num mesmo tema até cansar o paciente** — *Por quê:* insistência vira repetição do terapeuta e fica "chato e cansativo". *Quando:* quando você volta sempre ao mesmo "central". {{ts:acervo-21@0:17:17}}
-- **Observe o corpo quando o tema muda e pergunte por ele** — *Por quê:* rupturas de gesto e voz marcam o que mobiliza; perguntar o que o corpo "quer dizer" pode abrir o afeto (por exemplo, raiva). *Quando:* mudanças súbitas de expressão ao tocar num assunto. {{ts:acervo-21@0:06:10}}
-- **Diferencie expectativa, demanda e causa** — *Por quê:* perguntar por que o paciente veio investiga a expectativa dele; buscar a causa é outra operação, e misturá-las confunde a direção. *Quando:* nas entrevistas iniciais. {{ts:acervo-21@0:07:53}}
-- **Não terceirize a priorização ao paciente** — *Por quê:* o nível de consciência dele pode levá-lo a pedir ajuda na direção errada; seguir só a prioridade dele é abdicar da própria responsabilidade. *Quando:* quando o paciente dita o tema de todas as sessões. {{ts:acervo-21@0:19:29}} {{ts:acervo-21@0:25:29}}
-- **Leve a sério a hipótese causal do paciente, sem tomá-la como verdade** — *Por quê:* é ali que o sofrimento está simbolizado, mas o paciente procura ajuda justamente porque falha em ligar causa e efeito. *Quando:* quando ele chega com a explicação pronta ("é por causa de X"). {{ts:acervo-21@0:24:13}}
-- **Considere começar por um ganho rápido** — *Por quê:* resolver algo simples mostra resultado e engaja o paciente no resto da terapia. *Quando:* quando há um problema complexo de longo prazo ao lado de um problema pontual e tratável. {{ts:acervo-21@0:14:41}}
-- **Priorize o que aparece na relação com você** — *Por quê:* o que se repete com o terapeuta tende a se repetir na vida, e trabalhar "o campo dos dois" pode ser salvífico. *Quando:* quando a queixa (por exemplo, dificuldade de pôr limites) se atualiza na sessão. {{ts:acervo-21@0:28:15}}
-- **Diferencie relação de projeção** — *Por quê:* se o que o paciente pensa de você é o que ele pensa de todo mundo, o foco é a projeção, não a relação específica. *Quando:* ao perguntar o que o paciente pensa do terapeuta. {{ts:acervo-21@0:29:21}}
-- **Em crise, priorize o acolhimento** — *Por quê:* às vezes é a única priorização possível. *Quando:* paciente em crise aguda. {{ts:acervo-21@0:30:04}}
-- **Cheque o estágio de mudança antes de intervir** — *Por quê:* a mesma intervenção pode ser boa ou prematura conforme o quanto o paciente está pronto (o "tempo clínico"). *Quando:* antes de interpretações ou confrontos importantes. {{ts:acervo-21@0:31:21}}
-- **Vá aonde está o dragão** — *Por quê:* atrás do que o paciente mais teme ou desconhece costuma estar o "tesouro" do caso. *Quando:* quando o paciente contorna sistematicamente um tema. {{ts:acervo-21@0:33:29}}
-- **Priorize o que desencaixa da sua teoria** — *Por quê:* o dado que contradiz sua leitura mostra onde você está entendendo o caso errado, e por isso é o mais valioso. *Quando:* quando o paciente "sai do quadro" depois de parecer encaixar perfeitamente. {{ts:acervo-21@0:35:03}}
+- **Torne explícito o critério com que você prioriza** — *Por quê:* se não é escolhido, o critério é vício ou crença, e as premissas são "igualmente perigosas". *Quando:* ao revisar sessões e na supervisão. [▶ 0:01:27](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=87s)
+- **Diante de muitos fenômenos, escolha um por vez e saiba por que escolheu** — *Por quê:* priorizar é "escolher por onde começar"; escolher sem saber por quê deixa a direção ao acaso. *Quando:* quando o paciente despeja várias questões ao mesmo tempo. [▶ 0:02:32](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=152s)
+- **Use a repetição como pista, mas verifique se não é vício de linguagem** — *Por quê:* a repetição induz a "pôr um X no mapa", mas pode ser só um hábito de fala. *Quando:* palavras que voltam muitas vezes em pouco tempo. [▶ 0:15:55](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=955s)
+- **Não insista num mesmo tema até cansar o paciente** — *Por quê:* insistência vira repetição do terapeuta e fica "chato e cansativo". *Quando:* quando você volta sempre ao mesmo "central". [▶ 0:17:17](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1037s)
+- **Observe o corpo quando o tema muda e pergunte por ele** — *Por quê:* rupturas de gesto e voz marcam o que mobiliza; perguntar o que o corpo "quer dizer" pode abrir o afeto (por exemplo, raiva). *Quando:* mudanças súbitas de expressão ao tocar num assunto. [▶ 0:06:10](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=370s)
+- **Diferencie expectativa, demanda e causa** — *Por quê:* perguntar por que o paciente veio investiga a expectativa dele; buscar a causa é outra operação, e misturá-las confunde a direção. *Quando:* nas entrevistas iniciais. [▶ 0:07:53](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=473s)
+- **Não terceirize a priorização ao paciente** — *Por quê:* o nível de consciência dele pode levá-lo a pedir ajuda na direção errada; seguir só a prioridade dele é abdicar da própria responsabilidade. *Quando:* quando o paciente dita o tema de todas as sessões. [▶ 0:19:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1169s) [▶ 0:25:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1529s)
+- **Leve a sério a hipótese causal do paciente, sem tomá-la como verdade** — *Por quê:* é ali que o sofrimento está simbolizado, mas o paciente procura ajuda justamente porque falha em ligar causa e efeito. *Quando:* quando ele chega com a explicação pronta ("é por causa de X"). [▶ 0:24:13](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1453s)
+- **Considere começar por um ganho rápido** — *Por quê:* resolver algo simples mostra resultado e engaja o paciente no resto da terapia. *Quando:* quando há um problema complexo de longo prazo ao lado de um problema pontual e tratável. [▶ 0:14:41](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=881s)
+- **Priorize o que aparece na relação com você** — *Por quê:* o que se repete com o terapeuta tende a se repetir na vida, e trabalhar "o campo dos dois" pode ser salvífico. *Quando:* quando a queixa (por exemplo, dificuldade de pôr limites) se atualiza na sessão. [▶ 0:28:15](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1695s)
+- **Diferencie relação de projeção** — *Por quê:* se o que o paciente pensa de você é o que ele pensa de todo mundo, o foco é a projeção, não a relação específica. *Quando:* ao perguntar o que o paciente pensa do terapeuta. [▶ 0:29:21](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1761s)
+- **Em crise, priorize o acolhimento** — *Por quê:* às vezes é a única priorização possível. *Quando:* paciente em crise aguda. [▶ 0:30:04](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1804s)
+- **Cheque o estágio de mudança antes de intervir** — *Por quê:* a mesma intervenção pode ser boa ou prematura conforme o quanto o paciente está pronto (o "tempo clínico"). *Quando:* antes de interpretações ou confrontos importantes. [▶ 0:31:21](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1881s)
+- **Vá aonde está o dragão** — *Por quê:* atrás do que o paciente mais teme ou desconhece costuma estar o "tesouro" do caso. *Quando:* quando o paciente contorna sistematicamente um tema. [▶ 0:33:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2009s)
+- **Priorize o que desencaixa da sua teoria** — *Por quê:* o dado que contradiz sua leitura mostra onde você está entendendo o caso errado, e por isso é o mais valioso. *Quando:* quando o paciente "sai do quadro" depois de parecer encaixar perfeitamente. [▶ 0:35:03](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2103s)
 
 ## Teses e posicionamentos
 
@@ -161,61 +161,61 @@ Uma participante pergunta se ainda estão falando de aprofundamento ou de priori
   - *Argumento:* intuitivamente já escolhemos por onde começar; sem consciência, o critério é vício ou crença.
   - *Contra quem / contraponto:* a clínica "intuitiva" que não sabe justificar as escolhas.
   - *Implicação prática:* treinar a explicitação de critérios (o que, por quê, com que risco).
-  - {{ts:acervo-21@0:03:16}} (facilitador)
+  - [▶ 0:03:16](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=196s) (facilitador)
 - **Tese:** As premissas de que partimos (a cosmovisão) orientam a priorização e são perigosas.
   - *Argumento:* cosmovisão é "um ponto vermelho no mapa": marca de antemão para onde olhamos.
   - *Contra quem / contraponto:* a ideia de uma escuta neutra.
   - *Implicação prática:* conhecer a própria cosmovisão para não confundi-la com o caso.
-  - {{ts:acervo-21@0:01:27}} (facilitador)
+  - [▶ 0:01:27](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=87s) (facilitador)
 - **Tese:** O paciente nem sempre sabe mais de si do que o terapeuta.
   - *Argumento:* de fora, pode-se compreender o que o paciente não tem consciência de sentir (o menino que implica com a menina de quem gosta).
   - *Contra quem / contraponto:* o princípio de que o paciente é sempre o maior especialista em si.
   - *Implicação prática:* não seguir cegamente a prioridade do paciente.
-  - {{ts:acervo-21@0:19:29}} (facilitador)
+  - [▶ 0:19:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1169s) (facilitador)
 - **Tese:** Passar a sua priorização para a priorização do paciente é terceirizar a responsabilidade clínica.
   - *Argumento:* a escolha do que trabalhar é parte do trabalho do terapeuta.
   - *Contra quem / contraponto:* a postura de seguir sempre o tema que o paciente traz.
   - *Implicação prática:* considerar a prioridade do paciente como *um* critério entre vários.
-  - {{ts:acervo-21@0:25:29}} (facilitador)
+  - [▶ 0:25:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1529s) (facilitador)
 - **Tese:** Quem procura terapia falha em relacionar causa e efeito; sua interpretação não deve ser tomada como verdade.
   - *Argumento:* se o paciente estivesse certo sobre a causa do seu sofrimento, talvez não precisasse de terapia; aceitar a hipótese dele é "entrar na vibe dele".
   - *Contra quem / contraponto:* o terapeuta que adota a explicação do paciente como ponto de partida inquestionável.
   - *Implicação prática:* tratar a hipótese do paciente como material, não como diagnóstico.
-  - {{ts:acervo-21@0:21:31}} (participante; acolhido pelo facilitador)
+  - [▶ 0:21:31](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1291s) (participante; acolhido pelo facilitador)
 - **Tese:** Atrás do dragão está o tesouro.
   - *Argumento:* história do Santo Graal: o tesouro nunca encontrado está no caminho mais escuro, por onde ninguém passou.
   - *Contra quem / contraponto:* priorizar apenas o que é confortável ou fácil para o paciente.
   - *Implicação prática:* dirigir-se, no tempo certo, ao que o paciente mais teme ou desconhece.
-  - {{ts:acervo-21@0:33:29}} (facilitador)
+  - [▶ 0:33:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2009s) (facilitador)
 - **Tese:** O desencaixe com a teoria é mais valioso que o encaixe.
   - *Argumento:* o que contradiz sua leitura revela onde você está clinicando ou entendendo errado.
   - *Contra quem / contraponto:* a confirmação teórica ("encaixa perfeitamente na histeria").
   - *Implicação prática:* dar prioridade aos dados que desmentem a formulação.
-  - {{ts:acervo-21@0:35:03}} (facilitador)
+  - [▶ 0:35:03](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2103s) (facilitador)
 - **Tese:** Discutir priorização em abstrato leva ao "depende"; é preciso vinheta clínica.
   - *Argumento:* sem caso concreto, os critérios parecem todos válidos ou nenhum.
   - *Contra quem / contraponto:* o próprio formato abstrato do exercício.
   - *Implicação prática:* ancorar o treino de priorização em vinhetas e roleplay.
-  - {{ts:acervo-21@0:10:02}} {{ts:acervo-21@0:30:28}} (participantes e facilitador)
+  - [▶ 0:10:02](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=602s) [▶ 0:30:28](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1828s) (participantes e facilitador)
 
 ## Como o facilitador conduz
 
-- **Começa pela definição do grupo e a refina:** pede que um participante defina "priorizar", depois "diferencia as coisas que você falou" e reformula ("escala de valor segundo um critério"). {{ts:acervo-21@0:01:27}}
-- **Liga a fala do participante a um conceito:** "me lembra a função sentimento na clínica", dando nome teórico à intuição do aluno. {{ts:acervo-21@0:01:27}}
-- **Explicita o objetivo do exercício:** "tomar consciência desse processo pelo qual a gente prioriza". {{ts:acervo-21@0:03:16}}
-- **Pede feedback sobre a própria fala:** "se eu estiver ficando muito prolixo, me avisem; sou prolixo por necessidade de clareza". O grupo brinca que ele está se justificando, o que cria um clima leve. {{ts:acervo-21@0:03:46}}
-- **Faz uma pergunta aberta e abstrata para levantar os critérios implícitos:** "o que vocês priorizam?". {{ts:acervo-21@0:04:41}}
-- **Parafraseia e checa o entendimento:** "deixa eu ver se eu entendi, você usa da repetição também?"; "você está me contando duas coisas diferentes". {{ts:acervo-21@0:07:05}} {{ts:acervo-21@0:07:53}}
-- **Lança uma pergunta provocativa para todos:** "Quem é que define o que é central? E eu jogo a pergunta para todo mundo." {{ts:acervo-21@0:08:53}}
-- **Pede exemplos concretos:** "você consegue me dar um exemplo?", e sustenta a espera até o exemplo sair. {{ts:acervo-21@0:13:37}}
-- **Problematiza sistematicamente:** "vou começar a problematizar as coisas que vocês falaram" e, para cada critério, "qual é o problema de...?". {{ts:acervo-21@0:15:35}}
-- **Cria analogias na hora:** o menino que implica com a menina, reconhecendo que o exemplo é "muito estranho" e reformulando. {{ts:acervo-21@0:19:29}}
-- **Sintetiza em lista visível:** retoma todos os critérios antes da nova rodada. {{ts:acervo-21@0:25:29}}
-- **Abre para o absurdo:** "pode ser o mais absurdo que vocês conseguirem", o que baixa a barreira para contribuições criativas. {{ts:acervo-21@0:26:44}}
-- **Integra contribuições em categorias existentes:** ato falho vai para o não dito, confronto vai para a contradição dialética. {{ts:acervo-21@0:26:56}} {{ts:acervo-21@0:31:56}}
-- **Guarda os melhores critérios para o fim e os conta como histórias:** o Santo Graal e o dragão; a histérica que desencaixa. {{ts:acervo-21@0:32:16}} {{ts:acervo-21@0:35:03}}
-- **Conecta com o sistema de avaliação da Allos:** lembra que o roleplay de avaliação traz a nota de "tempo clínico / estágio de mudança". {{ts:acervo-21@0:31:21}}
-- **Fecha passando à prática:** pede dois voluntários para um roleplay antes de encerrar. {{ts:acervo-21@0:36:05}}
+- **Começa pela definição do grupo e a refina:** pede que um participante defina "priorizar", depois "diferencia as coisas que você falou" e reformula ("escala de valor segundo um critério"). [▶ 0:01:27](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=87s)
+- **Liga a fala do participante a um conceito:** "me lembra a função sentimento na clínica", dando nome teórico à intuição do aluno. [▶ 0:01:27](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=87s)
+- **Explicita o objetivo do exercício:** "tomar consciência desse processo pelo qual a gente prioriza". [▶ 0:03:16](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=196s)
+- **Pede feedback sobre a própria fala:** "se eu estiver ficando muito prolixo, me avisem; sou prolixo por necessidade de clareza". O grupo brinca que ele está se justificando, o que cria um clima leve. [▶ 0:03:46](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=226s)
+- **Faz uma pergunta aberta e abstrata para levantar os critérios implícitos:** "o que vocês priorizam?". [▶ 0:04:41](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=281s)
+- **Parafraseia e checa o entendimento:** "deixa eu ver se eu entendi, você usa da repetição também?"; "você está me contando duas coisas diferentes". [▶ 0:07:05](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=425s) [▶ 0:07:53](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=473s)
+- **Lança uma pergunta provocativa para todos:** "Quem é que define o que é central? E eu jogo a pergunta para todo mundo." [▶ 0:08:53](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=533s)
+- **Pede exemplos concretos:** "você consegue me dar um exemplo?", e sustenta a espera até o exemplo sair. [▶ 0:13:37](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=817s)
+- **Problematiza sistematicamente:** "vou começar a problematizar as coisas que vocês falaram" e, para cada critério, "qual é o problema de...?". [▶ 0:15:35](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=935s)
+- **Cria analogias na hora:** o menino que implica com a menina, reconhecendo que o exemplo é "muito estranho" e reformulando. [▶ 0:19:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1169s)
+- **Sintetiza em lista visível:** retoma todos os critérios antes da nova rodada. [▶ 0:25:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1529s)
+- **Abre para o absurdo:** "pode ser o mais absurdo que vocês conseguirem", o que baixa a barreira para contribuições criativas. [▶ 0:26:44](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1604s)
+- **Integra contribuições em categorias existentes:** ato falho vai para o não dito, confronto vai para a contradição dialética. [▶ 0:26:56](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1616s) [▶ 0:31:56](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1916s)
+- **Guarda os melhores critérios para o fim e os conta como histórias:** o Santo Graal e o dragão; a histérica que desencaixa. [▶ 0:32:16](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1936s) [▶ 0:35:03](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2103s)
+- **Conecta com o sistema de avaliação da Allos:** lembra que o roleplay de avaliação traz a nota de "tempo clínico / estágio de mudança". [▶ 0:31:21](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1881s)
+- **Fecha passando à prática:** pede dois voluntários para um roleplay antes de encerrar. [▶ 0:36:05](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2165s)
 
 > [!note] Comparação com o formato do Alan
 > A estrutura é muito próxima da do Alan (**teoria mínima → exercício → feedback**), com uma diferença: a "teoria mínima" é **construída por perguntas ao grupo** (maiêutica) em vez de exposta. O exercício central é um levantamento coletivo de critérios com problematização, e a prática em roleplay fica para o fim. Comparar com [[Alan 14 - Priorização clínica 1]] e [[Alan 15 - Priorização clínica 2]].
@@ -243,38 +243,38 @@ Uma participante pergunta se ainda estão falando de aprofundamento ou de priori
 
 ## Frases para guardar
 
-> "Priorizar é determinar uma escala de valor e seguir um critério." {{ts:acervo-21@0:01:27}}
+> "Priorizar é determinar uma escala de valor e seguir um critério." [▶ 0:01:27](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=87s)
 
-> "A nossa cosmovisão, a visão de mundo que a gente tem, é um ponto vermelho no mapa." {{ts:acervo-21@0:01:27}}
+> "A nossa cosmovisão, a visão de mundo que a gente tem, é um ponto vermelho no mapa." [▶ 0:01:27](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=87s)
 
-> "Priorizar é mais ou menos escolher por onde a gente vai começar. Intuitivamente a gente já faz isso; o exercício é tomar consciência desse processo." {{ts:acervo-21@0:03:16}}
+> "Priorizar é mais ou menos escolher por onde a gente vai começar. Intuitivamente a gente já faz isso; o exercício é tomar consciência desse processo." [▶ 0:03:16](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=196s)
 
-> "Se eu estiver ficando muito prolixo, me avisem. Eu sou prolixo por uma necessidade de clareza." {{ts:acervo-21@0:03:46}}
+> "Se eu estiver ficando muito prolixo, me avisem. Eu sou prolixo por uma necessidade de clareza." [▶ 0:03:46](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=226s)
 
-> "A repetição te induz a colocar um X no mapa, mas pode ser literalmente só um vício de linguagem." {{ts:acervo-21@0:15:55}}
+> "A repetição te induz a colocar um X no mapa, mas pode ser literalmente só um vício de linguagem." [▶ 0:15:55](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=955s)
 
-> "Pode ser que de fora eu saiba melhor o que está acontecendo com o paciente do que ele mesmo." {{ts:acervo-21@0:19:29}}
+> "Pode ser que de fora eu saiba melhor o que está acontecendo com o paciente do que ele mesmo." [▶ 0:19:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1169s)
 
-> "Quando você passa a sua priorização para a priorização do paciente, você terceiriza a sua responsabilidade." {{ts:acervo-21@0:25:29}}
+> "Quando você passa a sua priorização para a priorização do paciente, você terceiriza a sua responsabilidade." [▶ 0:25:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1529s)
 
-> "Se ele estivesse certo nessa relação de causa e efeito, talvez não precisasse da terapia." (participante) {{ts:acervo-21@0:23:00}}
+> "Se ele estivesse certo nessa relação de causa e efeito, talvez não precisasse da terapia." (participante) [▶ 0:23:00](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1380s)
 
-> "Pode ser o mais absurdo que vocês conseguirem." {{ts:acervo-21@0:26:44}}
+> "Pode ser o mais absurdo que vocês conseguirem." [▶ 0:26:44](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1604s)
 
-> "Aí não é relação, é projeção." {{ts:acervo-21@0:29:21}}
+> "Aí não é relação, é projeção." [▶ 0:29:21](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1761s)
 
-> "Atrás do dragão tem o tesouro, muitas vezes: atrás daquilo que grita 'não venha para cá'." {{ts:acervo-21@0:33:29}}
+> "Atrás do dragão tem o tesouro, muitas vezes: atrás daquilo que grita 'não venha para cá'." [▶ 0:33:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2009s)
 
-> "Aquilo que diz que você está clinicando errado, que está entendendo o caso errado, é o que vai ser valioso para o seu caso." {{ts:acervo-21@0:35:03}}
+> "Aquilo que diz que você está clinicando errado, que está entendendo o caso errado, é o que vai ser valioso para o seu caso." [▶ 0:35:03](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2103s)
 
 ## Ideias de conteúdo
 
-- **Carrossel · clinica-na-pratica:** "O paciente falou de 5 coisas. Por qual você começa?" → os critérios de priorização (repetição, corpo, central, não dito, relação, estágio de mudança, dragão, desencaixe), cada um com seu risco. Corte sugerido: {{ts:acervo-21@0:25:29}}–{{ts:acervo-21@0:26:44}}
-- **Reels · maximas-e-reflexoes:** "Atrás do dragão está o tesouro" → a história do Santo Graal aplicada à clínica. Corte sugerido: {{ts:acervo-21@0:32:16}}–{{ts:acervo-21@0:34:43}}
-- **Post · clinica-na-pratica:** "Repetição nem sempre é pista" → vício de linguagem × tema recorrente; quando insistir cansa. Corte sugerido: {{ts:acervo-21@0:15:35}}–{{ts:acervo-21@0:17:38}}
-- **Carrossel · formacao-do-psicologo:** "Seguir só o que o paciente quer é terceirizar a sua responsabilidade" → nível de consciência, o exemplo do menino e a hipótese causal do paciente. Corte sugerido: {{ts:acervo-21@0:19:29}}–{{ts:acervo-21@0:21:31}}
-- **Post · maximas-e-reflexoes:** "Quando o caso desencaixa da teoria, é aí que você aprende" → priorizar o que desmente a sua leitura. Corte sugerido: {{ts:acervo-21@0:35:03}}–{{ts:acervo-21@0:36:05}}
-- **Reels · abordagens-em-dialogo:** "O dia em que Rogers bocejou na sessão" → priorizar a relação terapêutica e distingui-la de projeção. Corte sugerido: {{ts:acervo-21@0:28:15}}–{{ts:acervo-21@0:30:04}}
+- **Carrossel · clinica-na-pratica:** "O paciente falou de 5 coisas. Por qual você começa?" → os critérios de priorização (repetição, corpo, central, não dito, relação, estágio de mudança, dragão, desencaixe), cada um com seu risco. Corte sugerido: [▶ 0:25:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1529s)–[▶ 0:26:44](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1604s)
+- **Reels · maximas-e-reflexoes:** "Atrás do dragão está o tesouro" → a história do Santo Graal aplicada à clínica. Corte sugerido: [▶ 0:32:16](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1936s)–[▶ 0:34:43](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2083s)
+- **Post · clinica-na-pratica:** "Repetição nem sempre é pista" → vício de linguagem × tema recorrente; quando insistir cansa. Corte sugerido: [▶ 0:15:35](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=935s)–[▶ 0:17:38](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1058s)
+- **Carrossel · formacao-do-psicologo:** "Seguir só o que o paciente quer é terceirizar a sua responsabilidade" → nível de consciência, o exemplo do menino e a hipótese causal do paciente. Corte sugerido: [▶ 0:19:29](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1169s)–[▶ 0:21:31](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1291s)
+- **Post · maximas-e-reflexoes:** "Quando o caso desencaixa da teoria, é aí que você aprende" → priorizar o que desmente a sua leitura. Corte sugerido: [▶ 0:35:03](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2103s)–[▶ 0:36:05](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=2165s)
+- **Reels · abordagens-em-dialogo:** "O dia em que Rogers bocejou na sessão" → priorizar a relação terapêutica e distingui-la de projeção. Corte sugerido: [▶ 0:28:15](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1695s)–[▶ 0:30:04](https://www.youtube.com/watch?v=1x7jnM2LcDM&t=1804s)
 
 ## Para replicar este encontro
 

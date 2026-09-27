@@ -1,0 +1,677 @@
+{
+  "id": "pd-06",
+  "nota": "PD 06 - Métricas de resultado e a tocha na caverna",
+  "pasta": "10 - Fichamentos/Prática Deliberada",
+  "titulo": "Métricas de resultado e a tocha na caverna",
+  "serie": "Introdução à Prática Deliberada",
+  "formato": "Curso de PD",
+  "facilitadores": [
+    "Bernardo"
+  ],
+  "resumo": "Aula expositiva baseada no livro Better Results. O facilitador recontextualiza a prática deliberada como um ciclo (dados, supervisão sistematizada, objetivos de aprendizagem, exercícios deliberados, aplicação) e apresenta o slide panorâmico que guia o curso: mensuração e metrificação de um lado; gravação de sessão, mapa de competências e formulação de caso do outro; tudo convergindo na supervisão. Com a metáfora da tocha na caverna, apresenta a crítica da Allos à exigência de 40 a 60 casos antes de começar a PD: os dados iluminam, mas os fundamentos (o caminhar) podem ser treinados sem eles, de preferência em grupo. O miolo é a metrificação: tamanho de efeito (0 a 0,2 lista de espera; ~0,8 psicoterapia), tamanho de efeito relativo (zero é a média, e a média é boa; pequenas diferenças rendem quatro vezes mais recuperações em uma década), mudança clinicamente significativa (índice de mudança confiável de 5 e nota de corte 25 na ORS), taxa de deterioração e taxa de desistência. Fecha dizendo que a metrificação serve para provocar perguntas a levar à supervisão e que ela ajuda, mas não é obrigatória.",
+  "em_uma_frase": "A mensuração é a tocha da prática deliberada: ilumina o caminho por meio de métricas como tamanho de efeito, mudança clinicamente significativa, deterioração e desistência, mas não ensina a caminhar; os fundamentos clínicos podem e devem ser treinados independentemente dos números.",
+  "competencias": [
+    "Desenvolvimento profissional",
+    "Feedback clínico",
+    "Relação terapêutica",
+    "Direção do tratamento"
+  ],
+  "abordagens": [],
+  "estrutura": [
+    {
+      "ts": "0:00:00",
+      "bloco": "Retomada",
+      "descricao": "Recontextualiza a PD para quem faltou: método de treino; coleta de dados, supervisão, objetivos de aprendizagem e exercícios deliberados ('repetir com objetivo').",
+      "funcao": "Nivelar recém-chegados.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:02:09",
+      "bloco": "Teoria",
+      "descricao": "Crítica à supervisão por relato: o relato chega filtrado e o feedback recai sobre o que foi escrito.",
+      "funcao": "Justificar dados e gravação.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:03:24",
+      "bloco": "Teoria",
+      "descricao": "Slide panorâmico: quadrado da esquerda (mensuração, escores, metrificação, dados) e da direita (gravação, mapa de competências, formulação de caso) convergindo na supervisão, objetivos, exercícios e aplicação.",
+      "funcao": "Dar o mapa do curso.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:06:58",
+      "bloco": "Teoria",
+      "descricao": "Metáfora da tocha na caverna; gravação de sessão; mapa de competências como 'tesouro da PD'; o ciclo que nunca para.",
+      "funcao": "Criar a imagem que atravessa o curso.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:11:19",
+      "bloco": "Dúvidas",
+      "descricao": "Checagem de entendimento com chamada nominal dos recém-chegados.",
+      "funcao": "Garantir compreensão antes de avançar.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:12:32",
+      "bloco": "Discussão",
+      "descricao": "Crítica da Allos à exigência de 40 a 60 casos; conversa do Alan com Scott Miller (foto da reação); adaptação da Allos; exemplo do jogador de futebol; grupo engaja mais.",
+      "funcao": "Posicionar a Allos diante da fonte e legitimar os grupos de aprimoramento.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:18:50",
+      "bloco": "Teoria",
+      "descricao": "Metrificação como 'lapidar o diamante'; lista de métricas do livro; nenhuma é obrigatória.",
+      "funcao": "Introduzir o tema e tirar o peso da obrigação.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:22:06",
+      "bloco": "Teoria",
+      "descricao": "Tamanho de efeito: fórmula e referências (lista de espera 0 a 0,2; psicoterapia ~0,8).",
+      "funcao": "Dar a primeira régua de comparação.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:24:51",
+      "bloco": "Dúvidas",
+      "descricao": "Participante pergunta se a fórmula não é só de pesquisa; resposta: vale na clínica individual com amostra grande; com poucos casos, acompanhar escores.",
+      "funcao": "Adaptar o conteúdo a quem começa.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:29:38",
+      "bloco": "Teoria",
+      "descricao": "Tamanho de efeito relativo; estar na média é bom (comparação com flúor contra cárie); terapeutas fora da curva; estudo de Imel e colegas.",
+      "funcao": "Relativizar o medo do zero e valorizar pequenas melhoras.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:33:37",
+      "bloco": "Dúvidas",
+      "descricao": "Como medir a evolução (ORS e SRS); posso analisar sozinha (supervisão); é para comparar com a média (as métricas estão a seu favor).",
+      "funcao": "Ligar escalas, métricas e supervisão.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:39:29",
+      "bloco": "Teoria",
+      "descricao": "'O diabo mora nos detalhes': pequenas melhoras ajudam muito mais gente.",
+      "funcao": "Motivar o aprimoramento gradual.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:40:37",
+      "bloco": "Teoria",
+      "descricao": "Mudança clinicamente significativa: índice de mudança confiável (5 na ORS) e nota de corte (25 na ORS), com exemplo 18 → 24.",
+      "funcao": "Evitar creditar à terapia o que é tempo ou acaso.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:47:06",
+      "bloco": "Teoria",
+      "descricao": "Taxa de deterioração e taxa de desistência: cálculo, leitura e possíveis causas no manejo do terapeuta (vínculo, escolha de intervenções).",
+      "funcao": "Mostrar métricas úteis mesmo com poucos casos.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:50:45",
+      "bloco": "Teoria",
+      "descricao": "Objetivo da metrificação: provocar perguntas e levá-las à supervisão junto com mapa e gravação.",
+      "funcao": "Fechar o circuito dados → supervisão.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:52:43",
+      "bloco": "Fechamento",
+      "descricao": "Anuncia que faltam três métricas; abre para comentários; envia o PDF do livro a quem entrou depois.",
+      "funcao": "Organizar a continuidade.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:54:14",
+      "bloco": "Dúvidas",
+      "descricao": "As técnicas de medição fazem parte da PD? Sim, mas não são absolutas; a Allos quer propor uma escala nova; mensuração ajuda, não é obrigatória.",
+      "funcao": "Reforçar a tese central.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:55:31",
+      "bloco": "Fechamento",
+      "descricao": "Foto com câmeras abertas para o Instagram e despedida.",
+      "funcao": "Registro e vínculo.",
+      "duracao_min": 1
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Prática deliberada",
+      "definicao": "Método de treinamento e aprimoramento: coleta de dados sobre a própria performance clínica, supervisão sistematizada, definição de objetivos de aprendizagem, exercícios deliberados e aplicação no caso real, num ciclo que nunca para. Deliberado porque não é mera repetição, e sim repetição com objetivo.",
+      "exemplo": "Objetivos como melhorar a abertura do atendimento, o manejo de ruptura da aliança ou o encerramento.",
+      "abordagem": "",
+      "ts": "0:00:00"
+    },
+    {
+      "nome": "Metáfora da tocha na caverna",
+      "definicao": "Imagem central do curso: a clínica é uma caverna escura; os dados e a mensuração são a tocha que ilumina parte do caminho; as habilidades clínicas são o caminhar. Ter a tocha não ensina a andar, e é possível aprender a andar sem ela, com mais risco de esbarrar.",
+      "exemplo": "Mesmo sem tocha, há supervisor, mapa de competências e gravação.",
+      "abordagem": "",
+      "ts": "0:06:58"
+    },
+    {
+      "nome": "Psicologia baseada em medidas",
+      "definicao": "Uso de escalas de bem-estar geral e de qualidade da aliança antes, durante e ao fim do tratamento para ter uma luz sobre o processo além do julgamento do terapeuta e do paciente, ambos enviesados.",
+      "exemplo": "ORS e SRS aplicadas ao longo do processo.",
+      "abordagem": "",
+      "ts": "0:04:41"
+    },
+    {
+      "nome": "Metrificação de resultados",
+      "definicao": "Transformar os escores brutos das escalas em métricas interpretáveis e comparáveis. Números soltos não dizem nada; é preciso lapidá-los.",
+      "exemplo": "Lapidar um diamante bruto até que se aproxime da forma final.",
+      "abordagem": "",
+      "ts": "0:19:51"
+    },
+    {
+      "nome": "Tamanho de efeito",
+      "definicao": "Medida quantitativa da magnitude do impacto do tratamento: (média pós-tratamento − média pré-tratamento) ÷ desvio padrão da amostra clínica. Útil na clínica individual só com amostra grande.",
+      "exemplo": "Lista de espera fica entre 0 e 0,2 DP; a psicoterapia, desde meados dos anos 1970, em torno de 0,8 DP.",
+      "abordagem": "",
+      "ts": "0:22:06"
+    },
+    {
+      "nome": "Tamanho de efeito relativo",
+      "definicao": "Mostra como os resultados do clínico se comparam aos de outros clínicos, numa escala padronizada de média zero e desvio padrão um. Zero significa paridade com a amostra normativa, o que é bom, porque resultados médios em psicoterapia são bons.",
+      "exemplo": "Psicoterapia teria efeito quatro vezes maior que o flúor contra a cárie (dito com 'se não me engano').",
+      "abordagem": "",
+      "ts": "0:29:38"
+    },
+    {
+      "nome": "Efeito do terapeuta",
+      "definicao": "Em média os terapeutas variam pouco, mas há terapeutas com resultados fora da curva; e diferenças mínimas de eficácia se acumulam em grande impacto. É o que justifica a prática deliberada.",
+      "exemplo": "Imel, Sheng, Baldwin e Atkins: diferença mínima de eficácia gera quatro vezes mais pessoas recuperadas em uma década.",
+      "abordagem": "",
+      "ts": "0:32:58"
+    },
+    {
+      "nome": "Índice de mudança confiável",
+      "definicao": "Valor, derivado estatisticamente e embutido em muitas escalas, que a mudança pré–pós precisa exceder para poder ser atribuída com alguma confiança à terapia e não à passagem do tempo, a eventos aleatórios ou à imprecisão da medida.",
+      "exemplo": "Na ORS, cerca de 5 pontos: mudança de 3 não conta; de 6, conta.",
+      "abordagem": "",
+      "ts": "0:40:37"
+    },
+    {
+      "nome": "Nota de corte clínica",
+      "definicao": "Linha divisória entre nível clínico e não clínico de sofrimento e funcionamento numa medida de resultado; o escore final precisa cruzá-la para haver mudança clinicamente significativa.",
+      "exemplo": "Na ORS, 25.",
+      "abordagem": "",
+      "ts": "0:44:30"
+    },
+    {
+      "nome": "Mudança clinicamente significativa",
+      "definicao": "Mudança que satisfaz dois critérios: excede o índice de mudança confiável e leva a pontuação final para além da nota de corte clínica.",
+      "exemplo": "Paciente vai de 18 para 24 na ORS: mudou mais de 5, mas não cruzou 25; não é clinicamente significativa.",
+      "abordagem": "",
+      "ts": "0:44:30"
+    },
+    {
+      "nome": "Taxa de deterioração",
+      "definicao": "Proporção de clientes que pioram de forma confiável (queda além do índice de mudança confiável) entre os que concluíram a terapia. Útil mesmo com poucos pacientes.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:47:06"
+    },
+    {
+      "nome": "Taxa de desistência",
+      "definicao": "Proporção de clientes que abandonaram sem avisar e sem exceder o índice de mudança confiável, sobre o total que terminou o tratamento. Aponta dificuldade de adesão, que pode vir do terapeuta: vínculo frágil ou intervenções inadequadas ao momento do paciente.",
+      "exemplo": "Paciente rígido e pouco implicado recebe intervenções mobilizadoras e sai achando que aquilo não tem a ver com ele.",
+      "abordagem": "",
+      "ts": "0:48:08"
+    },
+    {
+      "nome": "Outcome Rating Scale",
+      "definicao": "Escala de bem-estar geral usada para acompanhar o desfecho do paciente sessão a sessão.",
+      "exemplo": "Índice de mudança confiável de 5 e nota de corte 25, segundo a aula.",
+      "abordagem": "",
+      "ts": "0:33:37"
+    },
+    {
+      "nome": "Session Rating Scale",
+      "definicao": "Escala que mede a qualidade da aliança terapêutica ao longo do processo.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:33:37"
+    },
+    {
+      "nome": "Mapa de competências",
+      "definicao": "O 'tesouro da prática deliberada': conjunto de competências fundamentais para psicoterapeutas, independentes de abordagem, estudadas ao longo de décadas, com o qual o terapeuta mapeia o próprio jeito de fazer terapia.",
+      "exemplo": "Como estabelece a relação terapêutica.",
+      "abordagem": "",
+      "ts": "0:09:08"
+    },
+    {
+      "nome": "Objetivo de aprendizagem",
+      "definicao": "Habilidade específica que o supervisor ajuda a eleger a partir da síntese de dados, gravações e mapa, e que será treinada com exercícios.",
+      "exemplo": "Melhorar como abre o atendimento, como lida com ruptura da aliança, como encerra.",
+      "abordagem": "",
+      "ts": "0:01:00"
+    },
+    {
+      "nome": "Gravação de sessão",
+      "definicao": "Recurso opcional, sempre com consentimento, para observar a própria performance de modo distanciado, como se observa o roleplay de outra pessoa.",
+      "exemplo": "No roleplay com observadores, quem atende ouve no feedback coisas que nem tinham passado pela cabeça.",
+      "abordagem": "",
+      "ts": "0:08:06"
+    },
+    {
+      "nome": "Supervisão clínica",
+      "definicao": "Na prática deliberada, o lugar onde escores, métricas, mapa de competências e gravações são juntados e transformados em informação e em objetivos de aprendizagem, em vez de um feedback solto sobre um relato.",
+      "exemplo": "'Nesse momento você fez assim; talvez seja uma fraqueza; talvez a gente precise trabalhar isso.'",
+      "abordagem": "",
+      "ts": "0:10:20"
+    },
+    {
+      "nome": "Linha de base",
+      "definicao": "Como o paciente está antes do tratamento, em bem-estar geral e aliança; ponto de partida para ler o progresso ao longo e ao fim dele.",
+      "exemplo": "Aplicar a escala antes, durante e ao fim do tratamento.",
+      "abordagem": "",
+      "ts": "0:04:41"
+    }
+  ],
+  "dinamicas": [],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Recontextualizar para quem chega",
+      "descricao": "Resume a PD em dois minutos antes do conteúdo e convida explicitamente os recém-chegados a perguntar.",
+      "exemplo": "'Se vocês tiverem alguma dúvida, principalmente os que estão chegando agora, me avisem.'",
+      "ts": "0:00:00"
+    },
+    {
+      "movimento": "Mapa visual fixo",
+      "descricao": "Usa um slide panorâmico para localizar o grupo no todo do curso.",
+      "exemplo": "'A gente está só nesse primeiro quadradinho.'",
+      "ts": "0:03:24"
+    },
+    {
+      "movimento": "Metáfora-guia recorrente",
+      "descricao": "A tocha na caverna organiza a aula e reaparece no fechamento; complementa com analogias concretas (diamante, jogador de futebol).",
+      "exemplo": "'Não adianta ter a tocha se a gente não sabe caminhar.'",
+      "ts": "0:06:58"
+    },
+    {
+      "movimento": "Checagem nominal",
+      "descricao": "Pergunta se ficou confuso e chama pelo nome quem ainda não se manifestou.",
+      "exemplo": "Pergunta diretamente aos dois recém-chegados se estão acompanhando.",
+      "ts": "0:12:32"
+    },
+    {
+      "movimento": "Explicitar a posição da casa",
+      "descricao": "Apresenta a crítica da Allos ao livro e usa com humor a foto da reação de Scott Miller.",
+      "exemplo": "'Pela cara, dá para inferir como foi a percepção dele sobre essa crítica.'",
+      "ts": "0:16:01"
+    },
+    {
+      "movimento": "Tirar o peso da obrigação",
+      "descricao": "Repete que as métricas são opcionais e que cada um usa o que responde à sua pergunta.",
+      "exemplo": "'Vocês não têm a obrigação de seguir tudo aquilo que eu vou falar.'",
+      "ts": "0:20:57"
+    },
+    {
+      "movimento": "Transparência sobre limites",
+      "descricao": "Admite que não deu tempo de montar tudo, que evita detalhes estatísticos e que o tema é árido; nomeia a parte mais difícil.",
+      "exemplo": "'É um papo chato, né?' / 'Essa é uma das partes mais difíceis.'",
+      "ts": "0:43:46"
+    },
+    {
+      "movimento": "Valorizar a pergunta e ajustar o conteúdo",
+      "descricao": "Usa a dúvida de uma participante sobre pesquisa versus clínica para adaptar a mensagem a quem tem poucos pacientes.",
+      "exemplo": "'Essa pergunta é muito interessante: talvez o tamanho de efeito não seja muito útil para quem está começando.'",
+      "ts": "0:29:38"
+    },
+    {
+      "movimento": "Responder ao chat sem perder o fio",
+      "descricao": "Quando perde o contexto de uma pergunta escrita, pede para retomar, continua a aula e responde depois.",
+      "exemplo": "'Retoma aí o contexto que eu perdi... vou continuar e quando você responder eu retomo.'",
+      "ts": "0:43:52"
+    },
+    {
+      "movimento": "Gestão do tempo",
+      "descricao": "Mira uma hora de aula e deixa conteúdo para a semana seguinte em vez de estender.",
+      "exemplo": "'Consegui dar em uma hora, felizmente.'",
+      "ts": "0:51:48"
+    },
+    {
+      "movimento": "Fechamento com material e ritual",
+      "descricao": "Envia o PDF do livro a quem entrou depois e faz foto do grupo para o Instagram.",
+      "exemplo": "'Vocês conseguem abrir a câmera? É só pra gente registrar.'",
+      "ts": "0:55:31"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Use uma medida externa para acompanhar o paciente, além da sua impressão.",
+      "justificativa": "O julgamento do terapeuta e o do paciente carregam viés; a escala dá uma luz além do julgamento próprio.",
+      "contexto": "Do início ao fim do tratamento (linha de base, acompanhamento, desfecho).",
+      "competencia": "Direção do tratamento",
+      "ts": "0:04:41"
+    },
+    {
+      "dica": "Explique ao paciente por que e para que a escala está sendo aplicada antes de aplicá-la.",
+      "justificativa": "A preparação e a explicação do propósito tornam os resultados mais confiáveis.",
+      "contexto": "Introdução de qualquer instrumento.",
+      "competencia": "Feedback clínico",
+      "ts": "0:05:47"
+    },
+    {
+      "dica": "Com poucos pacientes, não calcule tamanho de efeito; acompanhe os escores de cada caso.",
+      "justificativa": "Amostras pequenas não dão comparação confiável com as referências normativas.",
+      "contexto": "Início de carreira ou clientela pequena.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:28:10"
+    },
+    {
+      "dica": "Monitore a taxa de deterioração mesmo com poucos casos.",
+      "justificativa": "Mostra se os pacientes encerrados estão piorando mais do que melhorando e funciona com amostra pequena.",
+      "contexto": "Ao encerrar cada caso.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:47:06"
+    },
+    {
+      "dica": "Antes de creditar uma melhora à terapia, verifique se ela supera o índice de mudança confiável e cruza a nota de corte.",
+      "justificativa": "Tempo, eventos aleatórios e imprecisão da medida também mudam escores, e tendemos a superestimar nossa influência.",
+      "contexto": "Avaliação de desfecho.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:40:37"
+    },
+    {
+      "dica": "Diante de desistências, investigue primeiro o próprio manejo.",
+      "justificativa": "A desistência pode refletir dificuldade de solidificar a relação terapêutica ou de escolher intervenções adequadas ao momento do paciente.",
+      "contexto": "Taxa de abandono sem aviso alta.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:49:24"
+    },
+    {
+      "dica": "Com paciente rígido, fusionado com seus problemas e pouco implicado, calibre intervenções mobilizadoras.",
+      "justificativa": "Sem consciência da própria parte no problema, ele tende a achar que a intervenção não tem nada a ver com ele e abandonar a terapia.",
+      "contexto": "Fases iniciais, baixa responsabilização do paciente.",
+      "competencia": "Intervenção",
+      "ts": "0:50:45"
+    },
+    {
+      "dica": "Leve à supervisão os números que destoam, junto com o mapa de competências e a gravação.",
+      "justificativa": "O número não diz o que fazer; o supervisor cruza os dados com o que você fez de fato e identifica a fraqueza a treinar.",
+      "contexto": "Sempre que uma métrica chamar atenção.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:51:48"
+    },
+    {
+      "dica": "Grave sessões, com consentimento, para se observar de fora.",
+      "justificativa": "Enquanto atendemos deixamos de perceber coisas que um observador vê; a gravação dá distância e precisão.",
+      "contexto": "Recurso opcional de auto-observação.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:08:06"
+    },
+    {
+      "dica": "Escolha a métrica pela pergunta que você quer responder.",
+      "justificativa": "As métricas estão a seu favor; comparar-se com o campo ou com os pares é opcional.",
+      "contexto": "Montagem do próprio sistema de acompanhamento.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:37:07"
+    },
+    {
+      "dica": "Não se desespere com efeito relativo zero.",
+      "justificativa": "Zero é estar na média dos pares, e resultados médios em psicoterapia são bons.",
+      "contexto": "Leitura das próprias métricas.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:30:52"
+    },
+    {
+      "dica": "Treine os fundamentos agora, sem esperar ter dados.",
+      "justificativa": "Saber caminhar não depende da tocha; o atacante pode treinar a finalização antes da estatística.",
+      "contexto": "Desde o início da formação.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:17:01"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Prática deliberada é muito mais do que mensuração.",
+      "argumento": "A mensuração é só um quadrado do ciclo; entram também supervisão, mapa de competências, formulação de caso, gravação, objetivos, exercícios e aplicação.",
+      "contraponto": "Leitura que reduz a PD a escalas e escores.",
+      "implicacao": "Não confundir medir com praticar deliberadamente.",
+      "quem": "Bernardo",
+      "ts": "0:03:24"
+    },
+    {
+      "tese": "A supervisão baseada só em relato de caso é pouco confiável.",
+      "argumento": "O relato chega filtrado pelas percepções do terapeuta, e o feedback recai sobre o que foi escrito, não sobre o que aconteceu.",
+      "contraponto": "Modelo tradicional de supervisão.",
+      "implicacao": "Levar dados, gravações e mapa à supervisão.",
+      "quem": "Bernardo",
+      "ts": "0:02:09"
+    },
+    {
+      "tese": "Exigir 40 a 60 casos para começar a PD é inviável; fundamentos podem ser treinados sem dados.",
+      "argumento": "Muitos terapeutas levariam anos para chegar a esse número; a exigência é estatística, mas saber caminhar não depende da tocha (exemplo do jogador de futebol).",
+      "contraponto": "Autores de Better Results (Scott Miller e colegas); a crítica foi levada a Miller pelo Alan.",
+      "implicacao": "Os grupos de aprimoramento da Allos treinam fundamentos independentemente de mensuração.",
+      "quem": "Bernardo (posição da Allos)",
+      "ts": "0:13:45"
+    },
+    {
+      "tese": "Treinar em grupo engaja mais que treinar sozinho.",
+      "argumento": "Observação do facilitador: em grupo as pessoas se engajam muito mais e é mais divertido.",
+      "contraponto": "A PD original, com muitos exercícios individuais e trabalho reflexivo 'maçante'; os individuais continuam importantes.",
+      "implicacao": "Estruturar o treino de habilidades em grupos.",
+      "quem": "Bernardo (posição da Allos)",
+      "ts": "0:18:08"
+    },
+    {
+      "tese": "Estar na média em psicoterapia já é bom, mas há terapeutas fora da curva, e por isso vale treinar.",
+      "argumento": "A psicoterapia tem efeito comparável ou superior a muitos procedimentos de saúde; se não houvesse terapeutas superiores haveria um teto intransponível.",
+      "contraponto": "Desânimo de quem tira zero no efeito relativo; acomodação.",
+      "implicacao": "Buscar melhora sem catastrofizar a média.",
+      "quem": "Bernardo (a partir do livro)",
+      "ts": "0:31:58"
+    },
+    {
+      "tese": "Pequenas melhoras individuais têm grande impacto acumulado.",
+      "argumento": "Imel e colegas: diferença mínima de eficácia rende quatro vezes mais pessoas recuperadas em uma década; 'o diabo mora nos detalhes'.",
+      "contraponto": "Ideia de que só grandes saltos importam.",
+      "implicacao": "Investir em ajustes finos e graduais.",
+      "quem": "Bernardo (a partir do livro)",
+      "ts": "0:33:37"
+    },
+    {
+      "tese": "Tendemos a superestimar nossa influência nos resultados.",
+      "argumento": "Tempo, eventos aleatórios e imprecisão da medida mexem nos escores; daí o índice de mudança confiável.",
+      "contraponto": "Terapeuta que credita à terapia toda melhora.",
+      "implicacao": "Usar critérios de mudança confiável e clinicamente significativa.",
+      "quem": "Bernardo (a partir do livro)",
+      "ts": "0:40:37"
+    },
+    {
+      "tese": "A função da metrificação é provocar perguntas, não dar respostas.",
+      "argumento": "O número estranho gera a pergunta que vai para a supervisão, onde é cruzado com gravação e mapa.",
+      "contraponto": "Uso das métricas como veredito sobre o terapeuta.",
+      "implicacao": "Tratar métricas como disparadores de investigação.",
+      "quem": "Bernardo",
+      "ts": "0:50:45"
+    },
+    {
+      "tese": "A mensuração ajuda, mas não é obrigatória para fazer PD, e as escalas atuais não são absolutas.",
+      "argumento": "Há críticas às escalas; a Allos pretende propor uma nova escala; sem tocha ainda há supervisor, mapa e gravação.",
+      "contraponto": "PD centrada nos dados.",
+      "implicacao": "Começar pela supervisão e pelo treino de competências mesmo sem sistema de medida.",
+      "quem": "Bernardo (posição da Allos)",
+      "ts": "0:54:14"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Prática deliberada não é só repetir, repetir, repetir: é repetir com objetivo.",
+      "tema": "definição de PD",
+      "ts": "0:01:00"
+    },
+    {
+      "texto": "O relato clínico já chega filtrado com as nossas percepções.",
+      "tema": "supervisão",
+      "ts": "0:02:09"
+    },
+    {
+      "texto": "Não adianta nada ter uma tocha se a gente não sabe caminhar.",
+      "tema": "metáfora da caverna",
+      "ts": "0:06:58"
+    },
+    {
+      "texto": "Ter ou não ter a tocha não faz você saber caminhar ou não.",
+      "tema": "metáfora da caverna",
+      "ts": "0:14:55"
+    },
+    {
+      "texto": "Em grupo as pessoas se engajam muito mais. É muito mais divertido.",
+      "tema": "formato de grupo",
+      "ts": "0:18:08"
+    },
+    {
+      "texto": "Em nossa área, resultados médios são bons.",
+      "tema": "tamanho de efeito relativo",
+      "ts": "0:30:52"
+    },
+    {
+      "texto": "Se não existissem terapeutas fora da curva, a gente nem estaria aqui falando de prática deliberada.",
+      "tema": "efeito do terapeuta",
+      "ts": "0:32:58"
+    },
+    {
+      "texto": "Uma melhoria quase imperceptível no seu desempenho ajudará muito mais clientes.",
+      "tema": "pequenas diferenças",
+      "ts": "0:33:37"
+    },
+    {
+      "texto": "O diabo mora nos detalhes, e a psicoterapia também é assim.",
+      "tema": "aprimoramento gradual",
+      "ts": "0:39:29"
+    },
+    {
+      "texto": "Muitas vezes a gente superestima a nossa capacidade de influência nos resultados dos pacientes.",
+      "tema": "mudança confiável",
+      "ts": "0:40:37"
+    },
+    {
+      "texto": "O objetivo da metrificação é dar essas provocadas na gente.",
+      "tema": "função das métricas",
+      "ts": "0:50:45"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Dados não ensinam a atender.",
+      "mensagem": "A mensuração é a tocha na caverna: ilumina, mas quem caminha são as habilidades clínicas, que podem ser treinadas desde já.",
+      "roteiro": [
+        "Cena: caverna escura, alguém acende uma tocha.",
+        "A tocha são os dados; o caminhar são as habilidades.",
+        "Ter a tocha não ensina a andar.",
+        "Por isso treinamos fundamentos antes de ter estatística."
+      ],
+      "corte_inicio": "0:14:55",
+      "corte_fim": "0:17:01"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Seu paciente melhorou. Foi a terapia?",
+      "mensagem": "Tempo, acaso e erro de medida também mudam escores; a mudança só é clinicamente significativa se superar o índice de mudança confiável e cruzar a nota de corte.",
+      "roteiro": [
+        "Capa: 'Seu paciente melhorou. Foi a terapia?'",
+        "Três impostores: tempo, eventos aleatórios, imprecisão da medida.",
+        "Critério 1: índice de mudança confiável (ORS: 5 pontos).",
+        "Critério 2: nota de corte (ORS: 25).",
+        "Exemplo: 18 → 24 não basta.",
+        "Fechamento: humildade sobre a nossa influência."
+      ],
+      "corte_inicio": "0:40:37",
+      "corte_fim": "0:45:46"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Ser um terapeuta 'na média' é ruim?",
+      "mensagem": "A média da psicoterapia é boa (~0,8 DP), mas pequenas melhoras rendem quatro vezes mais recuperações em uma década.",
+      "roteiro": [
+        "Capa: 'Você é um terapeuta na média. E daí?'",
+        "Lista de espera: 0 a 0,2 DP; psicoterapia: ~0,8.",
+        "Zero no efeito relativo = na média dos pares.",
+        "Mas há terapeutas fora da curva.",
+        "Imel e colegas: diferença mínima, 4x mais recuperações."
+      ],
+      "corte_inicio": "0:30:52",
+      "corte_fim": "0:33:37"
+    },
+    {
+      "formato": "post",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Duas métricas que servem mesmo com poucos pacientes.",
+      "mensagem": "Taxa de deterioração e taxa de desistência: como calcular e que perguntas elas levantam sobre o próprio manejo.",
+      "roteiro": [
+        "Deterioração: pioraram de forma confiável ÷ concluíram.",
+        "Desistência: saíram sem avisar e sem mudança confiável ÷ terminaram.",
+        "Pergunta: o que no meu manejo pode estar contribuindo?"
+      ],
+      "corte_inicio": "0:47:06",
+      "corte_fim": "0:50:45"
+    },
+    {
+      "formato": "post",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Por que treinamos em grupo.",
+      "mensagem": "O atacante treina a finalização antes de ver a estatística; em grupo, o engajamento é maior e o treino é mais divertido.",
+      "roteiro": [
+        "Imagem: jogador treinando chutes.",
+        "Fundamentos se treinam antes dos números.",
+        "Em grupo: mais engajamento, mais diversão."
+      ],
+      "corte_inicio": "0:17:01",
+      "corte_fim": "0:18:50"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Scott D. Miller",
+      "contexto": "Autor (com colegas) de Better Results, livro-base do curso; a crítica da Allos à exigência de 40 a 60 casos foi levada a ele pelo Alan, e o facilitador mostra uma foto da reação."
+    },
+    {
+      "nome": "Zac Imel",
+      "contexto": "Citado com Sheng, Baldwin e Atkins: uma diferença mínima de eficácia entre clínicos resultou em quatro vezes mais pessoas recuperadas em uma década."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Curso Introdução à Prática Deliberada (Allos)",
+    "objetivo": "Apresentar os fundamentos da prática deliberada em psicoterapia a partir do livro Better Results (Scott Miller e colegas) e mostrar a adaptação feita pela Allos: manter os princípios (supervisão, feedback, coleta de dados, objetivo de aprendizagem) e treinar fundamentos clínicos em grupo, sem exigir amostra mínima de casos.",
+    "publico": "Estudantes de psicologia (inclusive em clínica-escola) e psicólogos iniciantes ligados à Allos; várias pessoas chegam no meio do curso.",
+    "tamanho": "Pequeno: cerca de 4 a 7 participantes online, variando entre encontros.",
+    "duracao": "Encontros semanais de 50 minutos a 1h10; série de 8 encontros gravados (mais um extra).",
+    "estrutura_padrao": "Retomada com o slide panorâmico da PD (dois quadrados + supervisão) → exposição com slides (tradução/síntese do livro) → checagens frequentes de entendimento → dúvidas do chat e do microfone → fechamento com anúncio da continuação e indicação de leitura.",
+    "papel_facilitador": "Expositor e tradutor do livro para a realidade brasileira; explicita a posição crítica da Allos; checa entendimento nominalmente; responde dúvidas; administra o tempo (alvo de ~1 hora).",
+    "regras_combinados": "Encontros gravados e disponibilizados na plataforma; PDF do livro distribuído aos participantes para leitura individual; câmera aberta para a foto final (registro para o Instagram)."
+  },
+  "reflexoes_do_facilitador": [
+    "Diz que não conseguiu explicar todas as métricas porque 'não deu tempo de montar tudo, é muita coisa'.",
+    "Reconhece que o tema é árido ('é um papo chato, né?') e que a mudança clinicamente significativa é 'uma das partes mais difíceis'.",
+    "Comemora ter conseguido dar a aula em uma hora.",
+    "Relata que a Allos achou incoerências e inviabilidades lendo os livros de Miller e que está adaptando a PD à realidade brasileira; algumas adaptações Miller aprovou, outras não."
+  ],
+  "referencias_a_outros_encontros": [
+    "Retoma encontros anteriores sobre escalas, escores, bem-estar geral (ORS) e aliança (SRS) e sobre como aplicar escalas.",
+    "Promete voltar ao slide panorâmico e tratar depois do mapa de competências e dos demais quadrados.",
+    "Anuncia que faltam três métricas para a semana seguinte; o PD 07, porém, passa direto ao caso ilustrativo de supervisão.",
+    "Menciona a conversa do Alan com Scott Miller (tema também do encontro extra da série).",
+    "Menciona os grupos de aprimoramento clínico da Allos como o lugar onde os fundamentos são treinados.",
+    "Liga-se ao PD 05 (ORS, SRS e problemas de aplicação de escalas) e ao PD 09, em que o Alan conta a conversa com Scott Miller."
+  ],
+  "observacoes": "Legenda automática com ruído moderado; alguns nomes corrigidos (Imel, Sheng, Baldwin e Atkins; 'cara dentária' = cárie dentária; 'fluorido' = flúor). Facilitador: Bernardo (Núcleo de Prática Deliberada da Allos). Não diz o nome nesta gravação; o nome aparece no PD 07 (0:48:36) e no PD 01. Não é o Alan (refere-se a ele em terceira pessoa). Participantes citados por nome na fala foram anonimizados. A definição de taxa de deterioração está confusa na fala e foi reconstruída como piora além do índice de mudança confiável. A descrição dos itens da ORS feita na aula (família, finanças, profissão, lazer, espiritualidade) parece mais ampla que o instrumento conhecido (quatro itens); conferir no livro. Não há exercício prático neste encontro: é aula expositiva."
+}

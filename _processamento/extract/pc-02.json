@@ -1,0 +1,651 @@
+{
+  "id": "pc-02",
+  "nota": "Prática Clínica 02 - Atendimento ao vivo e ecos da palavra",
+  "pasta": "10 - Fichamentos/Prática Clínica",
+  "titulo": "Atendimento ao vivo e ecos da palavra",
+  "serie": "Prática Clínica - Alan",
+  "formato": "Prática clínica",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Primeiro encontro plenamente prático do grupo: Alan explica e grava a estrutura de um grupo de prática (atendimento ao vivo sem tempo fixo, observadores como os mais convocados, dificuldades que viram exercício da semana). Duas participantes fazem um role-play de cerca de 30 minutos sobre angústia diante da morte futura de um animal de estimação idoso após um luto 'interrompido'. Na discussão, Alan proíbe elogios e busca levar um atendimento 'bom' ao 'excelente': a partir da crítica 'faltou pegar pela palavra', conduz uma caça aos ecos da expressão 'sair por cima' (duplo sentido: superar/ser superior) e apresenta o critério hermenêutico da completude. No feedback à terapeuta, aponta perguntas repetitivas, uma pergunta planejada que atropelou uma imagem corporal e, sobretudo, a troca da imagem da paciente ('tela em branco') pelo termo teórico 'falta'. Termina lendo o glitter como luto ideal (algo resta) e a tela em branco como o nada que restou.",
+  "em_uma_frase": "Num grupo de prática, um atendimento ao vivo vira treino de escuta: sair do bom para o excelente tensionando a palavra do paciente, caçando os ecos de uma expressão e levando a sério as imagens que ele oferece, sem trocá-las pelo jargão teórico.",
+  "competencias": [
+    "Escuta clínica",
+    "Interpretação",
+    "Aprofundamento",
+    "Feedback clínico",
+    "Desenvolvimento profissional"
+  ],
+  "abordagens": [
+    "Psicanálise freudiana",
+    "Psicanálise lacaniana"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:00",
+      "bloco": "Combinados",
+      "descricao": "Alan explica a estrutura do grupo de prática: atendimento sem tempo fixo, sinal de mão levantada, observadores serão os mais convocados, anotações em papel; objetivo de transformar dificuldades concretas em exercícios para a semana seguinte.",
+      "funcao": "Deixar o formato gravado como modelo; deslocar a responsabilidade para quem observa; reduzir a ansiedade de quem atende.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:03:04",
+      "bloco": "Dinâmica",
+      "descricao": "Atendimento ao vivo (role-play) entre duas participantes; Alan levanta a mão e a terapeuta encerra com calma.",
+      "funcao": "Produzir material concreto (performance) para ser dissecado pelo grupo.",
+      "duracao_min": 31
+    },
+    {
+      "ts": "0:34:24",
+      "bloco": "Discussão",
+      "descricao": "Diretriz (menos o caso, mais a condução, mais ainda a articulação dos observadores); 'foi um bom atendimento, vamos levá-lo ao excelente'; pergunta: o que faltou e que habilidade será treinada.",
+      "funcao": "Enquadrar a crítica e gamificar a pergunta sobre a habilidade a treinar.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:36:23",
+      "bloco": "Rodada de respostas",
+      "descricao": "Cobrança de pontualidade; primeira crítica ('faltou pegar pela palavra'); Alan proíbe elogios e reformula a crítica como perda de ganchos; pede exemplo concreto.",
+      "funcao": "Instalar a cultura crítica e traduzir a intuição do aluno em categoria clínica.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:39:48",
+      "bloco": "Dinâmica",
+      "descricao": "Caça aos ecos da expressão 'sair por cima': definição de eco/constelação, duplo sentido (superar × ser superior), três ecos pouco óbvios encontrados com pistas graduais.",
+      "funcao": "Treinar escuta e interpretação a partir da linguagem do paciente.",
+      "duracao_min": 19
+    },
+    {
+      "ts": "0:58:26",
+      "bloco": "Teoria",
+      "descricao": "Como julgar se uma interpretação é forte sem arbitrariedade: atuá-la e ver a sessão seguinte, ou procurar ecos (critério hermenêutico da completude).",
+      "funcao": "Dar critério de validação à brincadeira interpretativa.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:59:36",
+      "bloco": "Feedback",
+      "descricao": "Silêncio do grupo; Alan puxa: estrutura repetitiva das perguntas; autocrítica da terapeuta; reconstrução da cronologia; anedota de Freud sobre a formulação pronta; pergunta planejada que atropelou a imagem corporal.",
+      "funcao": "Examinar o raciocínio por trás de cada intervenção.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "1:05:35",
+      "bloco": "Feedback",
+      "descricao": "Palavra × imagem: a 'tela em branco' não explorada; por que não trocar a imagem da paciente por 'falta'; glitter (resto) × tela em branco (nada). Continua na parte 2.",
+      "funcao": "Mostrar o ganho clínico de ser 'resiliente' com a imagem do paciente.",
+      "duracao_min": 6
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Eco clínico",
+      "definicao": "Ocorrências, em diferentes pontos da fala do paciente, que dizem de uma mesma questão que uma palavra marcante. Os elementos relevantes 'produzem eco': a palavra se associa a outras e faz uma constelação, não é uma estrela isolada. Para contar como eco, a ocorrência precisa ter o contorno específico da expressão investigada, não apenas pertencer ao mesmo tema.",
+      "exemplo": "Ecos de 'sair por cima' no sentido de ser superior: a leve vergonha ao justificar um nome dado na infância, o 'todo mundo com quem compartilhei entendeu' e a imagem de 'peito para dentro' (antítese de peito estufado).",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:39:48"
+    },
+    {
+      "nome": "Gancho clínico",
+      "definicao": "Elemento da fala do paciente que poderia ter sido retomado, questionado ou explorado. 'Perder ganchos' é, mais abstratamente, um problema de construção do caso e de interpretação.",
+      "exemplo": "Expressões da demanda inicial que não foram perguntadas ('o que seria sair por cima para você?').",
+      "abordagem": "",
+      "ts": "0:38:36"
+    },
+    {
+      "nome": "Tensionamento da linguagem",
+      "definicao": "Explorar deliberadamente mais sentidos de uma palavra ou imagem do paciente, inclusive o menos óbvio, para 'ver mais coisa no vocabulário do que estava óbvio' e 'tirar leite de pedra a partir da palavra'. É o que leva um atendimento bom a excelente.",
+      "exemplo": "Puxar o segundo sentido de 'sair por cima' e procurar onde ele ecoa.",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:47:31"
+    },
+    {
+      "nome": "Duplo sentido",
+      "definicao": "Uma expressão corrente carrega mais de um significado; Alan evoca a ideia psicanalítica de que o sentido das palavras é cindido (?) e testa o segundo sentido contra o resto da fala.",
+      "exemplo": "'Sair por cima' = superar/resistir/lidar bem e também querer ser melhor que os outros, ser 'bambambã'.",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:45:13"
+    },
+    {
+      "nome": "Critério de completude",
+      "definicao": "Critério hermenêutico para julgar uma interpretação sem arbitrariedade: quanto mais ecos ela tem no caso, quanto mais pontos conecta e esclarece, mais crível ela é. Alternativa: atuar a interpretação e observar a sessão seguinte.",
+      "exemplo": "A hipótese do 'sair por cima' ganha força ao explicar três trechos aparentemente desconexos.",
+      "abordagem": "",
+      "ts": "0:58:26"
+    },
+    {
+      "nome": "Hermenêutica",
+      "definicao": "Referência do critério da completude: a interpretação como trabalho de coerência entre partes da fala e o todo do caso.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:58:26"
+    },
+    {
+      "nome": "Metáfora do paciente",
+      "definicao": "Imagem singular que o paciente produz para a própria experiência. É mais rica e mais específica para a construção do caso do que o conceito teórico equivalente, e permite mais 'brincadeira' clínica; o terapeuta deve ser 'resiliente' com ela em vez de traduzi-la para o jargão.",
+      "exemplo": "'Tela em branco' permite pintar por cima, desenhar, contrapor ao glitter; 'falta' é um termo ouvido '20 mil vezes na faculdade'.",
+      "abordagem": "",
+      "ts": "1:07:39"
+    },
+    {
+      "nome": "Falta",
+      "definicao": "Termo psicanalítico usado pela terapeuta para nomear a incerteza da paciente. Alan reconhece que a imagem da paciente 'tem a ver com a falta', mas mostra que traduzi-la assim empobrece o material. No fim, usa a noção para ler o luto ideal como 'presença de uma falta' (a cicatriz como marca do amor).",
+      "exemplo": "Glitter = luto ideal em que algo resta; tela em branco = um nada que restou quando o animal voltou saudável.",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "1:09:41"
+    },
+    {
+      "nome": "Negação",
+      "definicao": "Associação do fichamento: Alan conta o caso freudiano do paciente que diz 'não sei quem é essa mulher do sonho, mas definitivamente não é minha mãe', e Freud anota 'é a mãe'. Serve para justificar a desconfiança diante da formulação pronta que o paciente entrega.",
+      "exemplo": "Diante de 'toda essa história é sobre saída de controle', desconfiar da síntese do paciente.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "1:03:41"
+    },
+    {
+      "nome": "Performance não estruturada",
+      "definicao": "Atender ou tentar 'até acertar', sem treino dirigido; o atendimento ao vivo é uma performance que o grupo transforma em material de treino (conceito do 1º encontro).",
+      "exemplo": "O role-play do encontro, depois dissecado pelos observadores.",
+      "abordagem": "",
+      "ts": "0:01:50"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Atendimento ao vivo com observadores",
+      "objetivo": "Gerar uma performance clínica concreta para identificar a dificuldade principal e desenhar o exercício da semana seguinte; treinar os observadores a articular crítica e alternativas sobre material real.",
+      "competencias": [
+        "Escuta clínica",
+        "Interpretação",
+        "Feedback clínico"
+      ],
+      "configuracao": "Online; uma participante como terapeuta, outra como paciente (role-play, material real, parcial ou encenado); demais observam de câmera fechada e depois discutem; cerca de 6 a 8 falam.",
+      "tempo": "Atendimento de 20–35 min (aqui ~31 min) + cerca de 1h de discussão e feedback (partes 1 e 2).",
+      "materiais": "Papel e caneta para os observadores; anotações literais das falas.",
+      "consigna": "Vai acontecer o atendimento, sem tempo fixo; se eu achar que já tem material, levanto a mão — não se desespera, faça seu encerramento com calma. Depois quem eu vou convidar são vocês que estão de câmera fechada. Observem atentamente: peguem papel, façam anotações, setas, desenho.",
+      "passos": [
+        "Explicar a estrutura e tirar dúvidas.",
+        "Atendimento ao vivo.",
+        "Facilitador levanta a mão; terapeuta encerra.",
+        "Facilitador ignora a dupla num primeiro momento e pergunta aos observadores: o que faltou? que habilidade vou escolher para treinarmos?",
+        "Aprofundar uma crítica com exemplo concreto e reconstrução ao vivo (ex.: caça aos ecos, construção frasal).",
+        "Feedback a quem atendeu, perguntando o raciocínio de cada intervenção.",
+        "Nomear o erro principal e definir o exercício da semana seguinte."
+      ],
+      "feedback": "Crítica, não elogio; partir de 'foi bom' para buscar o excelente; pedir o trecho concreto; perguntar à terapeuta o raciocínio clínico; reconstruir a cronologia da sessão; nomear padrões (estrutura repetitiva, pergunta planejada atropelando a imagem, palavra mais que imagem).",
+      "exemplos_praticos": "O grupo participou pouco e Alan precisou puxar a partir de silêncios. A terapeuta fez autocrítica espontânea (inverteu perguntas, perdeu o gancho do 'pragmatismo' da família) e, durante o feedback, associou por conta própria duas imagens da paciente.",
+      "variacoes": "Usar logs do simulador de IA em vez de role-play; trabalhar uma competência por vez a partir do erro principal.",
+      "armadilhas": "Transformar a discussão em sessão de elogios; interpretar a pessoa que faz a paciente em vez da personagem (Alan protege: 'não estamos falando dela'); atrasos fazem perder o material; baixa participação dos observadores deixa o trabalho nas costas do facilitador.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:00:04"
+    },
+    {
+      "nome": "Dinâmica - Caça aos ecos",
+      "objetivo": "Treinar a escuta da linguagem do paciente: escolher uma expressão marcante, explorar seus sentidos (inclusive o segundo) e encontrar outras falas que fazem eco com ela, construindo uma interpretação com lastro.",
+      "competencias": [
+        "Interpretação",
+        "Escuta clínica"
+      ],
+      "configuracao": "Grupo todo, oral (com chat), sobre um atendimento recém-assistido; funciona com transcrição ou log de simulador.",
+      "tempo": "Cerca de 18 min.",
+      "materiais": "Anotações ou transcrição do atendimento.",
+      "consigna": "Normalmente os elementos mais relevantes produzem eco: a palavra faz uma constelação, não é uma estrela isolada. Alguém consegue achar algum eco para 'sair por cima'? (…) No sentido de ser bambambã, vocês capturaram alguma coisa? Eu acho que tem três exemplos.",
+      "passos": [
+        "Partir de uma crítica de um participante e pedir um exemplo concreto de palavra.",
+        "'Comprar' a hipótese, mesmo adjacente, e dar-lhe centralidade.",
+        "Definir eco sem dar exemplo, para não entregar a resposta.",
+        "Perguntar o sentido corrente da expressão fora do caso e, depois, o segundo sentido ('como você descreveria uma pessoa que quer sempre sair por cima?').",
+        "Pedir ecos do segundo sentido e anunciar quantos existem.",
+        "Dar pistas graduais: um trecho (o nome dado na infância), depois a citação literal.",
+        "Se ninguém chegar, o facilitador constrói e explica o raciocínio.",
+        "Validar pelo critério de completude."
+      ],
+      "feedback": "O eco precisa ter o contorno específico da expressão, não só pertencer ao tema geral ('isso não parece ter a ver com sair por cima'); é preciso ver no vocabulário o que não estava óbvio; quanto mais pontos a hipótese conecta, mais crível.",
+      "exemplos_praticos": "Um participante pareou vários elementos temáticos (família pragmática, distração, falta de ar) e ouviu que não tinham o contorno da expressão; uma participante notou que a paciente quis se mostrar competente (aceito como tangente); outra falou de racionalização; um participante, pelo chat, acertou a leitura do nome dado na infância; os outros dois ecos foram construídos por Alan.",
+      "variacoes": "Fazer com uma imagem em vez de uma palavra; fazer por escrito no chat; limitar a um trecho da transcrição.",
+      "armadilhas": "Exigir 'coisas altamente obscuras do ponto de vista linguístico' e perder quem não acompanhou (ter as falas literais à mão); confundir interpretação da personagem com julgamento da pessoa; aceitar qualquer associação temática como eco.",
+      "nivel": "avançado",
+      "funciona_online": true,
+      "ts": "0:39:48"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Grava a estrutura como modelo",
+      "descricao": "Explica o formato do grupo de prática e diz que quer deixá-lo gravado para mostrar a condição mais adequada; confere se ficou claro, inclusive para quem chegou atrasado.",
+      "exemplo": "'Quero deixar isso gravado justamente para mostrar como eu acho que é a condição mais adequada.'",
+      "ts": "0:00:04"
+    },
+    {
+      "movimento": "Desloca o spotlight para os observadores",
+      "descricao": "Tranquiliza quem atende e anuncia que os mais pressionados serão os que estão de fora, pedindo anotação ativa.",
+      "exemplo": "'Secretamente, quem vai ser mais pressionado aqui é quem está de fora. Levanta da cadeira, pega um papel.'",
+      "ts": "0:00:53"
+    },
+    {
+      "movimento": "Ignora a dupla no primeiro momento",
+      "descricao": "Evita ouvir terapeuta e paciente logo após o atendimento para trabalhar primeiro as construções dos outros.",
+      "exemplo": "'Estou menos interessado no caso, mais na condução, e mais ainda na capacidade de vocês de articular.'",
+      "ts": "0:34:24"
+    },
+    {
+      "movimento": "Disclaimer positivo único e pergunta gamificada",
+      "descricao": "Diz uma vez que o atendimento foi bom e em seguida transforma a crítica em adivinhação da habilidade que será treinada.",
+      "exemplo": "'O que será que eu decidi que a gente vai trabalhar na semana que vem?'",
+      "ts": "0:35:23"
+    },
+    {
+      "movimento": "Cobra pontualidade em público",
+      "descricao": "Marca o contrato de grupo prático diante de todos.",
+      "exemplo": "'Galera, eu preciso de pontualidade. Esse é um grupo prático.'",
+      "ts": "0:36:23"
+    },
+    {
+      "movimento": "Interrompe o elogio",
+      "descricao": "Com delicadeza pessoal, mas firme, impede que a discussão vire elogio mútuo e explica a lógica crítica.",
+      "exemplo": "'Não é para elogiar o coleguinha. Se quiser elogio, vai para outro lugar.'",
+      "ts": "0:37:25"
+    },
+    {
+      "movimento": "Reformula para conferir e sobe o nível de abstração",
+      "descricao": "Checa o entendimento, nomeia a categoria clínica da crítica, valoriza a solução trazida e pede exemplo concreto.",
+      "exemplo": "'Então, para você, a principal questão teve a ver com perder ganchos… você sabe dar um exemplo concreto?'",
+      "ts": "0:38:36"
+    },
+    {
+      "movimento": "Administra a fila de falas ('freezer')",
+      "descricao": "Mantém mãos levantadas em espera para aprofundar com uma única pessoa.",
+      "exemplo": "'Pode ficar com a mão levantada, mas você vai ficar no freezer um pouquinho.'",
+      "ts": "0:39:48"
+    },
+    {
+      "movimento": "Não entrega o exemplo",
+      "descricao": "Recusa exemplificar o conceito para não entregar a resposta; define a operação em vez disso.",
+      "exemplo": "'Não quero te dar um exemplo, não quero entregar, porque tem poucas situações.'",
+      "ts": "0:40:47"
+    },
+    {
+      "movimento": "Assume o papel de chato",
+      "descricao": "Diz com clareza quando uma resposta não serve, sem rodeios.",
+      "exemplo": "'Meu trabalho aqui é ser um pouco chato. Não me parece que isso tem a ver com sair por cima.'",
+      "ts": "0:43:00"
+    },
+    {
+      "movimento": "Extrai em vez de afirmar",
+      "descricao": "Faz perguntas laterais para que o participante chegue ao segundo sentido.",
+      "exemplo": "'Como você descreveria uma pessoa que quer sempre sair por cima?'",
+      "ts": "0:45:35"
+    },
+    {
+      "movimento": "Escada de pistas",
+      "descricao": "Anuncia quantas respostas existem, depois dá uma dica, depois a citação literal e só então constrói ele mesmo.",
+      "exemplo": "'Eu acho que tem três exemplos' → 'a dica: interpretem o nome' → 'lembram quando ela disse que todo mundo entendeu?'",
+      "ts": "0:46:32"
+    },
+    {
+      "movimento": "Protege quem faz a paciente",
+      "descricao": "Separa pessoa e personagem quando nota reações da participante que fez a paciente.",
+      "exemplo": "'A gente não está falando dela, está falando da condução; ninguém sabe se é verdade ou se ela é muito atriz.'",
+      "ts": "0:49:53"
+    },
+    {
+      "movimento": "Recapitula o próprio raciocínio e monitora a confusão",
+      "descricao": "Refaz o percurso da discussão quando percebe que o grupo se perdeu e pede câmeras abertas para ler as reações.",
+      "exemplo": "'Deixa eu desenvolver de novo… Botar a cara é importante: eu fico vendo se vocês estão confusos.'",
+      "ts": "0:52:59"
+    },
+    {
+      "movimento": "Puxa diante do silêncio",
+      "descricao": "Nomeia o silêncio com humor e assume a condução.",
+      "exemplo": "'Silêncio eterno. Ninguém quer participar, eu puxo.'",
+      "ts": "1:00:06"
+    },
+    {
+      "movimento": "Pergunta o raciocínio antes de julgar",
+      "descricao": "Pede à terapeuta o raciocínio clínico por trás da construção, acolhe a autocrítica e reconstrói a cronologia exata.",
+      "exemplo": "'O que estava passando em termos de raciocínio clínico para você fazer essa construção nesse tom?'",
+      "ts": "1:02:04"
+    },
+    {
+      "movimento": "Valida a intuição antes de corrigir o manejo",
+      "descricao": "Usa uma anedota clássica de Freud para legitimar a desconfiança da terapeuta e só depois mostra o custo de ela ter ficado presa à própria pergunta.",
+      "exemplo": "Caso do 'não é minha mãe'.",
+      "ts": "1:03:41"
+    },
+    {
+      "movimento": "Evita jargão de propósito",
+      "descricao": "Explica a leitura das imagens sem terminologia técnica.",
+      "exemplo": "'Tô tentando não entrar muito em terminologia específica.'",
+      "ts": "1:10:50"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Pegue o paciente pela palavra: pergunte o que ele quer dizer com uma expressão marcante logo que ela aparece.",
+      "justificativa": "Expressões próprias condensam a questão e são ganchos que se perdem se não forem retomados.",
+      "contexto": "Primeiras sessões, quando o paciente formula a demanda com uma expressão própria.",
+      "competencia": "Escuta clínica",
+      "ts": "0:37:25"
+    },
+    {
+      "dica": "Antes de apostar numa palavra, procure os ecos dela no resto da fala.",
+      "justificativa": "Elementos relevantes fazem constelação; o eco confirma que não é só impressão do terapeuta.",
+      "contexto": "Ao formular hipóteses.",
+      "competencia": "Interpretação",
+      "ts": "0:39:48"
+    },
+    {
+      "dica": "Teste o segundo sentido de expressões correntes.",
+      "justificativa": "A mesma expressão pode dizer 'superar' e 'ser superior'; o sentido menos óbvio pode organizar o caso.",
+      "contexto": "Quando uma expressão soa banal, mas se repete ou chama atenção.",
+      "competencia": "Interpretação",
+      "ts": "0:45:13"
+    },
+    {
+      "dica": "Repare no que o paciente justifica ou de que se desculpa.",
+      "justificativa": "O que ele sente necessidade de explicar revela a posição que quer ocupar diante do outro.",
+      "contexto": "Comentários laterais do tipo 'foi coisa de criança', 'sei que é bobo'.",
+      "competencia": "Escuta clínica",
+      "ts": "0:51:47"
+    },
+    {
+      "dica": "Note quando a história já foi contada a muita gente.",
+      "justificativa": "Indica que ela cumpre uma função (ter algo a mostrar, ser visto e compreendido).",
+      "contexto": "Falas como 'todo mundo com quem falei entendeu'.",
+      "competencia": "Interpretação",
+      "ts": "0:55:41"
+    },
+    {
+      "dica": "Use o antônimo implícito das imagens corporais.",
+      "justificativa": "'Peito para dentro' ganha sentido quando contraposto a 'peito estufado' (certeza, confiança, superioridade).",
+      "contexto": "Ao explorar descrições corporais da emoção.",
+      "competencia": "Aprofundamento",
+      "ts": "0:56:53"
+    },
+    {
+      "dica": "Avalie sua interpretação pelo número de pontos que ela conecta, ou atue-a e observe a sessão seguinte.",
+      "justificativa": "É um critério não arbitrário (completude hermenêutica).",
+      "contexto": "Antes de levar uma interpretação ousada ao paciente.",
+      "competencia": "Interpretação",
+      "ts": "0:58:26"
+    },
+    {
+      "dica": "Varie a forma das perguntas; evite a estrutura repetitiva 'e essa X?'.",
+      "justificativa": "A repetição vira tique e esconde o raciocínio clínico por trás de cada pergunta.",
+      "contexto": "Perguntas de aprofundamento ao longo da sessão.",
+      "competencia": "Construção frasal",
+      "ts": "1:00:06"
+    },
+    {
+      "dica": "Desconfie da formulação pronta que o paciente entrega.",
+      "justificativa": "Sínteses do tipo 'toda essa história é sobre X' podem ser defensivas (o 'não é minha mãe' de Freud).",
+      "contexto": "Quando o paciente resume a própria questão com segurança.",
+      "competencia": "Interpretação",
+      "ts": "1:03:41"
+    },
+    {
+      "dica": "Não abandone a imagem que o paciente acabou de dar para voltar a uma pergunta planejada.",
+      "justificativa": "A pergunta que estava na cabeça do terapeuta atropela o material mais vivo.",
+      "contexto": "Quando surge uma descrição imagética ou corporal enquanto você tinha outro tema em mente.",
+      "competencia": "Aprofundamento",
+      "ts": "1:04:32"
+    },
+    {
+      "dica": "Entre nas imagens pouco óbvias do paciente e explore-as.",
+      "justificativa": "Uma imagem ('tela em branco') permite muito mais exploração do que o conceito correspondente.",
+      "contexto": "Sempre que o paciente usa metáfora para o que sente.",
+      "competencia": "Aprofundamento",
+      "ts": "1:05:35"
+    },
+    {
+      "dica": "Não traduza o vocabulário do paciente para o jargão da faculdade; seja resiliente com a imagem dele.",
+      "justificativa": "O termo teórico é genérico; a imagem do paciente é mais específica para a construção do caso.",
+      "contexto": "Ao devolver, pontuar ou interpretar.",
+      "competencia": "Escuta clínica",
+      "ts": "1:07:39"
+    },
+    {
+      "dica": "Articule as imagens do paciente entre si, sobretudo o ideal e o vivido.",
+      "justificativa": "A distância entre o luto imaginado (algo resta) e o vivido (nada restou) é material clínico denso.",
+      "contexto": "Quando o paciente oferece mais de uma metáfora para a mesma experiência.",
+      "competencia": "Interpretação",
+      "ts": "1:09:41"
+    },
+    {
+      "dica": "Como observador, escute com papel na mão: anote, faça setas e desenhos.",
+      "justificativa": "A discussão exige articular o material com precisão (citações literais, cronologia).",
+      "contexto": "Grupos de prática, supervisão, análise de gravações.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:00:53"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Num grupo de prática, quem mais deve ser pressionado é quem observa, não quem atende.",
+      "argumento": "Quem atende apenas fornece o material; o aprendizado do grupo vem da capacidade de todos articularem crítica e alternativas.",
+      "contraponto": "Formatos em que só o voluntário é avaliado e os demais assistem passivamente.",
+      "implicacao": "Convocar diretamente os observadores e exigir anotação ativa.",
+      "quem": "Alan",
+      "ts": "0:00:53"
+    },
+    {
+      "tese": "Ensino clínico em grupo é majoritariamente crítico: a graça é ver defeito.",
+      "argumento": "O objetivo é levar o bom ao excelente; elogio não indica o que melhorar.",
+      "contraponto": "A gentileza de elogiar o colega antes de criticar.",
+      "implicacao": "Um único disclaimer positivo do facilitador e foco no que precisa melhorar.",
+      "quem": "Alan",
+      "ts": "0:37:25"
+    },
+    {
+      "tese": "Dificuldades concretas de um atendimento devem virar exercícios específicos.",
+      "argumento": "Discutir o caso não basta; a dificuldade observada define a habilidade a treinar na semana seguinte.",
+      "contraponto": "Supervisão que só comenta o caso.",
+      "implicacao": "A discussão termina com 'qual foi o erro principal?'.",
+      "quem": "Alan",
+      "ts": "0:01:50"
+    },
+    {
+      "tese": "A força de uma interpretação pode ser avaliada sem arbitrariedade.",
+      "argumento": "Pelo efeito na sessão seguinte ou pelo critério hermenêutico da completude: quanto mais ecos e pontos ela conecta, mais crível.",
+      "contraponto": "A objeção de que explorar o duplo sentido das palavras é forçar a barra.",
+      "implicacao": "Buscar ecos antes de intervir.",
+      "quem": "Alan",
+      "ts": "0:58:26"
+    },
+    {
+      "tese": "As teorias clássicas são boas o suficiente; o que torna o atendimento excelente é o vocabulário e as imagens singulares do paciente.",
+      "argumento": "Freud serve para praticamente qualquer caso, mas o paciente produz imagens mais ricas e específicas do que as do livro.",
+      "contraponto": "O hábito de traduzir a fala do paciente para conceitos de manual ('falta').",
+      "implicacao": "Ficar com a imagem do paciente e explorá-la antes de conceituar.",
+      "quem": "Alan",
+      "ts": "1:06:39"
+    },
+    {
+      "tese": "A palavra pode e deve ser tensionada por meio da imagem.",
+      "argumento": "Imagens pouco óbvias abrem mais possibilidades de exploração do que palavras abstratas.",
+      "contraponto": "Uma escuta que 'brinca mais com palavras do que com imagens'.",
+      "implicacao": "Marcar as imagens do paciente e voltar a elas.",
+      "quem": "Alan",
+      "ts": "1:05:35"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Secretamente, quem vai ser mais pressionado aqui é quem está de fora.",
+      "tema": "grupo de prática",
+      "ts": "0:00:53"
+    },
+    {
+      "texto": "Nosso trabalho é tirar alguma coisa que está no bom e tentar levá-la para o excelente.",
+      "tema": "feedback",
+      "ts": "0:35:23"
+    },
+    {
+      "texto": "Não é para elogiar o coleguinha. Essa construção é majoritariamente crítica: a graça do que a gente vai fazer aqui é ver defeito.",
+      "tema": "cultura crítica",
+      "ts": "0:37:25"
+    },
+    {
+      "texto": "A palavra não é uma estrela isolada, é uma constelação: os elementos mais relevantes produzem eco ao longo do caso.",
+      "tema": "escuta",
+      "ts": "0:39:48"
+    },
+    {
+      "texto": "Meu trabalho aqui é ser um pouco chato.",
+      "tema": "facilitação",
+      "ts": "0:43:00"
+    },
+    {
+      "texto": "Para sair de uma boa condição para uma condição excelente, a gente precisa olhar para o vocabulário e ver mais coisa nele que não estava óbvia.",
+      "tema": "tensionamento da linguagem",
+      "ts": "0:47:31"
+    },
+    {
+      "texto": "Quero mostrar o quanto a gente consegue tirar leite de pedra a partir da palavra.",
+      "tema": "tensionamento da linguagem",
+      "ts": "0:52:59"
+    },
+    {
+      "texto": "Quanto mais ecos a interpretação que você está fazendo tem no caso, mais crível ela passa a ser.",
+      "tema": "interpretação",
+      "ts": "0:58:26"
+    },
+    {
+      "texto": "Freud é malandro o suficiente para que as bobagens que escreveu sejam excelentes para atender praticamente qualquer caso.",
+      "tema": "teoria e prática",
+      "ts": "1:06:39"
+    },
+    {
+      "texto": "Na individualidade do contato, seu paciente vai produzir imagens mais ricas do que o velho Freud poderia ter sonhado na hora de escrever o livro dele.",
+      "tema": "metáfora do paciente",
+      "ts": "1:07:39"
+    },
+    {
+      "texto": "Ser resiliente com a imagem que o paciente está trazendo abre muito mais espaço para brincar.",
+      "tema": "metáfora do paciente",
+      "ts": "1:07:39"
+    },
+    {
+      "texto": "A cicatriz é a marca do amor: a presença de uma falta.",
+      "tema": "luto",
+      "ts": "1:09:41"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Num grupo de prática, quem mais é pressionado é quem está assistindo.",
+      "mensagem": "A estrutura de um grupo de prática: atendimento sem tempo fixo, observadores ativos com papel e caneta, discussão crítica e a dificuldade principal virando exercício da semana.",
+      "roteiro": [
+        "Capa: quem aprende mais num grupo de prática?",
+        "1. Alguém atende ao vivo, sem tempo fixo",
+        "2. Os observadores anotam: setas, desenhos, falas literais",
+        "3. Pergunta-chave: o que faltou?",
+        "4. O erro principal vira o treino da semana",
+        "CTA: você já foi o observador pressionado?"
+      ],
+      "corte_inicio": "0:00:04",
+      "corte_fim": "0:02:42"
+    },
+    {
+      "formato": "post",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Não elogie o coleguinha.",
+      "mensagem": "Grupos de formação precisam ser críticos para levar um atendimento bom ao excelente; o elogio não diz o que melhorar.",
+      "roteiro": [
+        "Frase de impacto",
+        "Legenda: por que a crítica acelera a formação e como fazê-la sem humilhar"
+      ],
+      "corte_inicio": "0:37:25",
+      "corte_fim": "0:38:36"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Sua interpretação é forte? Procure os ecos.",
+      "mensagem": "Uma palavra relevante faz constelação na fala do paciente; quanto mais pontos uma interpretação conecta, mais crível ela é (critério de completude); a outra via é testá-la na sessão seguinte. Ilustrar com exemplo fictício, não com o role-play.",
+      "roteiro": [
+        "Capa: como saber se sua interpretação não é chute",
+        "O que é um eco",
+        "Eco não é 'mesmo tema': precisa do mesmo contorno",
+        "Critério de completude",
+        "Teste na sessão seguinte"
+      ],
+      "corte_inicio": "0:58:26",
+      "corte_fim": "0:59:28"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Não troque a imagem do paciente pelo conceito do seu livro.",
+      "mensagem": "As teorias são boas o suficiente para quase tudo, mas o vocabulário do paciente é mais específico; fique com a metáfora dele e explore-a (regravar com exemplo fictício).",
+      "roteiro": [
+        "Cena 1: paciente fictício usa uma metáfora",
+        "Cena 2: terapeuta traduz para jargão e a conversa esfria",
+        "Cena 3: terapeuta fica com a metáfora e ela se abre",
+        "Fala final: seja resiliente com a imagem do paciente"
+      ],
+      "corte_inicio": "1:06:39",
+      "corte_fim": "1:08:38"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Toda expressão tem um segundo sentido.",
+      "mensagem": "Como tensionar uma expressão corrente (superar × ser superior) e checar se o segundo sentido ecoa no resto da fala; usar exemplo fictício.",
+      "roteiro": [
+        "Expressão comum dita por um paciente fictício",
+        "Sentido 1",
+        "Sentido 2",
+        "Onde procurar o eco"
+      ],
+      "corte_inicio": "0:44:14",
+      "corte_fim": "0:46:32"
+    },
+    {
+      "formato": "post",
+      "pilar": "abordagens-em-dialogo",
+      "gancho": "'Não é minha mãe' — e Freud anota: é a mãe.",
+      "mensagem": "Desconfiar da formulação pronta do paciente é uma boa intuição psicanalítica, mas não pode virar desculpa para ficar preso à própria pergunta.",
+      "roteiro": [
+        "A anedota",
+        "A lição: desconfie das sínteses prontas",
+        "O risco: seguir sua hipótese e perder a imagem que o paciente acabou de dar"
+      ],
+      "corte_inicio": "1:03:41",
+      "corte_fim": "1:04:32"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Sigmund Freud",
+      "contexto": "Anedota do paciente que nega que a mulher do sonho seja a mãe (desconfiar da formulação pronta); a teoria freudiana como 'boa o suficiente' para quase qualquer caso, mas menos rica que as imagens singulares do paciente."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Prática Clínica (grupo de prática conduzido por Alan)",
+    "objetivo": "Treinar habilidades clínicas concretas a partir de performances reais dos participantes (atendimentos simulados ao vivo e casos no simulador de paciente com IA): identificar a dificuldade principal de um atendimento e transformá-la num exercício específico para a semana seguinte.",
+    "publico": "Estudantes de psicologia e psicólogos iniciantes, em boa parte no primeiro contato com a Allos; abordagens variadas (neste encontro, a terapeuta do role-play é de repertório psicanalítico).",
+    "tamanho": "Grupo online; cerca de 6 a 8 participantes falam na discussão (voz e chat), outros acompanham de câmera fechada.",
+    "duracao": "Série de 6 encontros semanais; o 2º encontro tem cerca de 1h40 gravada em duas partes (1:11 + 0:31), com dúvidas finais fora da gravação.",
+    "estrutura_padrao": "1) Facilitador explica a estrutura; 2) atendimento ao vivo entre dois participantes (role-play, 20–35 min, sem tempo fixo; facilitador levanta a mão quando há material); 3) discussão crítica focada nos observadores: 'o que faltou? que habilidade vamos treinar?'; 4) aprofundamento de uma crítica com reconstrução ao vivo (ex.: caça aos ecos, construção frasal); 5) feedback a quem atendeu, perguntando o raciocínio por trás das intervenções; 6) definição do 'erro principal' e do exercício da semana seguinte (ex.: caso no simulador de IA, visualização do log do facilitador); 7) dúvidas fora da gravação.",
+    "papel_facilitador": "Define a estrutura e o foco, decide quando parar o atendimento, convoca e pressiona os observadores, proíbe elogios e conduz a crítica, reformula as contribuições em categorias clínicas, dá pistas graduais, modela intervenções alternativas (inclusive versões exageradas), protege quem faz o papel de paciente, escolhe o erro principal e desenha o treino seguinte; também atende casos no simulador para servir de modelo (visualização).",
+    "regras_combinados": "Pontualidade obrigatória ('grupo prático'; sair mais cedo é mais aceitável que chegar atrasado); participação ativa não negociável, com câmera aberta preferida; observadores anotam com papel e caneta; a construção é crítica ('não é para elogiar o coleguinha'); foco na condução, não na vida de quem faz a paciente; quem atende pode encerrar com calma após o sinal da mão; dúvidas finais podem ser feitas com a gravação encerrada."
+  },
+  "reflexoes_do_facilitador": [
+    "Diz que outras pessoas conduzem grupos de prática de outro jeito e que grava a explicação para mostrar a condição que considera mais adequada (0:00:04).",
+    "Reconhece estar 'exigindo coisas altamente obscuras do ponto de vista linguístico' (0:52:48).",
+    "Admite que os exemplos que está dando ficaram abstratos para quem não acompanhou os ganchos e promete ir ao concreto (0:55:41; 0:56:53).",
+    "Interrompe um exemplo no meio ('não, deixa eu não dar esse exemplo, deixa eu pensar outro') antes de chegar à imagem da cicatriz (1:09:35).",
+    "Evita de propósito a terminologia técnica na leitura final (1:10:50)."
+  ],
+  "referencias_a_outros_encontros": [
+    "É o 2º encontro de uma série de 6 do grupo 'Prática clínica'; continua em pc-03 (parte 2).",
+    "Retoma a ideia do 1º encontro (pc-01) de transformar dificuldades de performance em exercícios estruturados.",
+    "Anuncia que a dificuldade principal deste atendimento definirá o exercício da semana seguinte (3º encontro, pc-04)."
+  ],
+  "observacoes": "Legenda automática com muitos erros de nomes (a terapeuta aparece como 'Isadora', 'Isodora', 'Isador', 'dadora'). O atendimento é role-play entre participantes; Alan observa que não se sabe o quanto do relato é real ou encenado, por isso a nota descreve o tema de forma genérica e omite nome, idade e detalhes da 'paciente' e do animal. Palavra incerta: 'o significado das palavras é sendido' (provavelmente 'cindido'). O facilitador não se nomeia nesta parte; a identificação como Alan vem do 1º encontro (pc-01), em que ele se apresenta, e da continuidade de estilo e de referências. Nota acima da faixa de tamanho prevista pela densidade do conteúdo."
+}

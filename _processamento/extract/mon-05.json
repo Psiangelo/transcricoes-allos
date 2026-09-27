@@ -1,0 +1,726 @@
+{
+ "id": "mon-05",
+ "nota": "Monitoria 05 - Alan - Relatório e escolha do referencial teórico",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Relatório e escolha do referencial teórico",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Segunda etapa da monitoria da mesma aluna de mon-02, agora com relatório escrito sobre a paciente simulada por IA. Alan queria trabalhar o registro de informação (anotações do terapeuta para orientar a próxima sessão), mas, por ter pedido um 'relatório', recebeu algo próximo de uma formulação de caso. Ele para no primeiro parágrafo, em que a aluna justifica a escolha da ACT por 'robustez teórica e aplicabilidade', e passa a sessão exigindo que ela explicite seu algoritmo de escolha entre os referenciais que domina (TCC, ACT, FAP, DBT, análise do comportamento). Com espelhamentos caricatos sucessivos, mostra que por trás do 'depende' há um único critério (consciência e abertura, isto é, estágio de mudança), exceções por demanda e critérios topográficos: mistureba em vez de mistura. Diogo sistematiza um fluxograma; um teste com 100 pacientes imaginários mostra que o modelo declarado não explica a carteira real da aluna. No fechamento, Alan justifica o confronto como natureza da monitoria: desvios são atalhos, a complexidade vira escudo, é preciso a angústia de se ver perdido antes de achar direção.",
+ "em_uma_frase": "Partindo de uma única frase do relatório, Alan força a aluna a explicitar como escolhe sua abordagem teórica, para mostrar que 'depende do caso' sem critério consciente é a personalidade escolhendo, e que a boa supervisão produz a angústia necessária para rever a estrutura da própria clínica.",
+ "competencias": [
+  "Articulação teoria-prática",
+  "Formulação de caso",
+  "Direção do tratamento",
+  "Desenvolvimento profissional",
+  "Pessoa do terapeuta",
+  "Feedback clínico",
+  "Primeira sessão e entrevistas iniciais"
+ ],
+ "abordagens": [
+  "Terapias contextuais",
+  "Terapia cognitivo-comportamental",
+  "Análise do comportamento"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:13",
+   "bloco": "Abertura",
+   "descricao": "Alan repensa o formato da monitoria: seguir uma pessoa do início ao fim em vez de rodar quatro pessoas por etapa.",
+   "funcao": "Meta-reflexão sobre o dispositivo, compartilhada com o grupo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:06",
+   "bloco": "Combinados",
+   "descricao": "Proposta de trabalhar o registro de informação; admite o mal-entendido com a palavra 'relatório' e anuncia que vai improvisar; compara com a monitoria de outro aluno sobre uso da teoria.",
+   "funcao": "Situar a tarefa e assumir o erro de comunicação.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:04:04",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Compartilhamento de tela, problemas de áudio, enquete sobre quem viu o atendimento.",
+   "funcao": "Logística e contextualização.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:07:18",
+   "bloco": "Retomada",
+   "descricao": "Alan lê o início do relatório: paciente simulada 'uma mulher intrigante', embasamento nas terapias contextuais e na ACT.",
+   "funcao": "Retomar o caso.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:08:58",
+   "bloco": "Discussão",
+   "descricao": "'ACT pela robustez ou porque você gosta?' e 'por que não FAP?'; a aluna explica sua leitura do caso.",
+   "funcao": "Problematizar a justificativa escrita.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:12:12",
+   "bloco": "Dinâmica",
+   "descricao": "Pedido do algoritmo abstrato de escolha dos referenciais; a aluna responde 'depende'.",
+   "funcao": "Explicitar o implícito.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:15:39",
+   "bloco": "Dinâmica",
+   "descricao": "'Você sabonetou': paciente sem informação, qual a primeira pergunta para decidir? Debate sobre a anamnese.",
+   "funcao": "Recusar a vagueza e concretizar.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:21:14",
+   "bloco": "Feedback",
+   "descricao": "Espelhamento 1: DBT como exceção; ACT/TCC/FAP por nível de consciência. 'Não saímos daqui enquanto estiver na névoa do depende.'",
+   "funcao": "Devolver o modelo implícito.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:23:06",
+   "bloco": "Rodada de respostas",
+   "descricao": "A aluna acrescenta análise do comportamento como horizonte, análise funcional molar/molecular e ABA para não verbais.",
+   "funcao": "O supervisionando complexifica.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:29:50",
+   "bloco": "Feedback",
+   "descricao": "Espelhamento 2: 'um fator só até agora'; a aluna acrescenta evidência e DBT.",
+   "funcao": "Mostrar a distância entre o dito e o sustentado.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:37:29",
+   "bloco": "Teoria",
+   "descricao": "Por que insistir: águas profundas vs. turvas; consciência da escolha e objetividade. Espelhamento 3: regra geral é mistura, com exceções.",
+   "funcao": "Meta-explicação do método.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:42:04",
+   "bloco": "Rodada de respostas",
+   "descricao": "A aluna: metáforas→ACT, crenças→TCC, setting→análise do comportamento, extremos emocionais→DBT, contradições→FAP.",
+   "funcao": "Novos critérios apresentados.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:49:31",
+   "bloco": "Teoria",
+   "descricao": "Espelhamento 4: mistura vs. mistureba; todos os critérios são topográficos; 'uso o que é mais fácil'.",
+   "funcao": "Nomear o problema.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:55:19",
+   "bloco": "Discussão",
+   "descricao": "A aluna discorda totalmente; Diogo se oferece para sistematizar; Alan adia: é importante sentir a confusão.",
+   "funcao": "Sustentar discordância e angústia.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:59:33",
+   "bloco": "Feedback",
+   "descricao": "Espelhamento 5 e pedido de um segundo critério; comentário sobre estudar e mapas mentais.",
+   "funcao": "Estreitar a pergunta.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:05:28",
+   "bloco": "Rodada de respostas",
+   "descricao": "Critério 'contexto'; Alan interrompe deliberadamente; escala de 0 a 100 do quão desafiador é o ambiente.",
+   "funcao": "Forçar critério e forma de resposta.",
+   "duracao_min": 12
+  },
+  {
+   "ts": "1:17:02",
+   "bloco": "Demonstração",
+   "descricao": "Diogo apresenta o fluxograma do raciocínio da aluna; Alan compara com seu desenho e discute complexo vs. abrangente.",
+   "funcao": "Sistematizar com ajuda do grupo.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:19:52",
+   "bloco": "Discussão",
+   "descricao": "Teste probabilístico do modelo com 100 pacientes contra a carteira real da aluna: 'estatisticamente improvável'.",
+   "funcao": "Falsear o modelo declarado.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:22:25",
+   "bloco": "Fechamento",
+   "descricao": "Confronto como natureza da monitoria; o que é boa supervisão; desvios são atalhos; teoria como escudo; necessidade da angústia.",
+   "funcao": "Dar sentido ao desconforto.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:28:55",
+   "bloco": "Tarefa",
+   "descricao": "Todos explicitam seus critérios de escolha de referencial por uma semana; gravação encerrada para comentários livres.",
+   "funcao": "Estender o exercício ao grupo.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Registro de informação",
+   "definicao": "O que o terapeuta escolhe registrar por escrito da sessão (um desenho, setas, um mapa mental, algumas frases) para auxiliar a memória e a reflexão clínica e se orientar para a próxima sessão. Diferente de um relatório para supervisor ou formulação formal de caso.",
+   "exemplo": "Alan pediu 'relatório' e recebeu textos parecidos com relatório final de estágio.",
+   "abordagem": "",
+   "ts": "0:01:06"
+  },
+  {
+   "nome": "Escolha de referencial teórico",
+   "definicao": "Processo pelo qual o clínico decide qual abordagem usar num caso; deve ser consciente e explicitável como algoritmo (se X, então Y), senão quem escolhe são a personalidade e as preferências.",
+   "exemplo": "Pedido à aluna: dado um paciente sem informação, qual a primeira coisa que você precisa saber para decidir?",
+   "abordagem": "",
+   "ts": "0:12:12"
+  },
+  {
+   "nome": "Mistura e mistureba",
+   "definicao": "Mistura é integrar abordagens com critério consciente de escolha; mistureba é misturar guiado pela facilidade, com critérios apenas topográficos: usar o que parece mais fácil para fazer a intervenção que se está a fim de fazer.",
+   "exemplo": "'Se a pessoa traz imagens, vou de ACT; se traz crenças, TCC' traduzido como 'uso o que está mais fácil de aplicar'.",
+   "abordagem": "",
+   "ts": "0:49:31"
+  },
+  {
+   "nome": "Critério topográfico",
+   "definicao": "Critério que se baseia na forma como o problema aparece (discurso com metáforas, crenças explícitas, emoção intensa), e não na função ou estrutura; em Alan, oposto a critérios funcionais.",
+   "exemplo": "Todos os novos critérios da aluna eram topográficos e, no fundo, repetiam o nível de consciência.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:50:30"
+  },
+  {
+   "nome": "Teoria como escudo",
+   "definicao": "Uso da complexidade e da variabilidade clínica, que são verdadeiras, como subterfúgio para não explicitar e não expor à crítica as próprias escolhas.",
+   "exemplo": "'Depende, é muito complexo, depende muito do paciente' impede que o supervisor critique a estrutura de escolha.",
+   "abordagem": "",
+   "ts": "1:26:17"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "Nome que Alan dá ao único critério da aluna: combinação do grau de consciência do paciente com seu nível de abertura às intervenções.",
+   "exemplo": "Menos consciência → ACT; mais clareza e abertura → TCC; consciência e conforto demais → FAP.",
+   "abordagem": "",
+   "ts": "1:02:24"
+  },
+  {
+   "nome": "Psicologia baseada em evidências",
+   "definicao": "Aparece como critério secundário da aluna: na dúvida, TCC ou ACT, por terem mais evidência; FAP, menos.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:40:51"
+  },
+  {
+   "nome": "Flexibilidade psicológica",
+   "definicao": "Conceito da ACT usado no relatório para ler a paciente: inflexibilidade, aceitação resignada, fechamento diante de sentimentos difíceis.",
+   "exemplo": "Aceitação resignada de ter que se moldar ao contexto como regra.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:11:38"
+  },
+  {
+   "nome": "Desesperança criativa",
+   "definicao": "Intervenção da ACT que a aluna planejava como primeiro passo: discutir com a paciente como suas estratégias atuais estão funcionando.",
+   "exemplo": "",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:13:18"
+  },
+  {
+   "nome": "Análise funcional",
+   "definicao": "Para a aluna, princípio comum a TCC, ACT e FAP; molar (história de vida, via anamnese) e molecular (microações: olhar, respiração, gestos).",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:26:18"
+  },
+  {
+   "nome": "Comportamento clinicamente relevante",
+   "definicao": "CRB1 e CRB2 da FAP: o padrão problemático e o de melhora do paciente reproduzidos na relação terapêutica, permitindo trabalhar no aqui e agora.",
+   "exemplo": "Aluna iria para FAP com paciente de fala ensaiada, contraditória, 'mal contada'.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:20:01"
+  },
+  {
+   "nome": "Espelhamento caricatural",
+   "definicao": "Movimento de supervisão em que o supervisor devolve o raciocínio do supervisionando 'com palavras mais agressivas', 'dito de maneira mais crua', para que ele se reconheça ou corrija.",
+   "exemplo": "'Se tá fácil aplicar ACT porque a pessoa já produziu imagens, eu vou pela ACT.'",
+   "abordagem": "",
+   "ts": "0:49:31"
+  },
+  {
+   "nome": "Máximas clínicas",
+   "definicao": "Frases-regra que condensam uma posição.",
+   "exemplo": "'Quase sempre, desvios são atalhos.'",
+   "abordagem": "",
+   "ts": "1:26:17"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Algoritmo de escolha do referencial",
+   "objetivo": "Tornar consciente, explicitável e criticável o processo pelo qual o terapeuta escolhe entre os referenciais que domina.",
+   "competencias": [
+    "Articulação teoria-prática",
+    "Direção do tratamento",
+    "Desenvolvimento profissional"
+   ],
+   "configuracao": "Individual diante do grupo como ouvinte; um participante sistematiza no fim; online com documento compartilhado.",
+   "tempo": "Cerca de 70 minutos nesta sessão",
+   "materiais": "Relatório ou justificativa escrita do supervisionando; papel para desenhar o fluxograma.",
+   "consigna": "De maneira abstrata, não sobre este caso: o que te faz escolher este referencial e não outro? Em que caso você escolheria cada um dos que domina? Responda na forma 'quando X, eu escolho Y'.",
+   "passos": [
+    "Partir de uma justificativa escrita e perguntar se é robustez ou preferência.",
+    "Pedir o algoritmo geral de escolha.",
+    "Diante de 'depende', perguntar 'depende do quê?' e concretizar com um paciente hipotético sem informação.",
+    "Espelhar o modelo de forma cada vez mais crua e perguntar se faz jus e o que falta.",
+    "Classificar cada acréscimo: regra geral, exceção por demanda, repetição do mesmo critério ou critério topográfico.",
+    "Pedir um segundo critério que não seja repetição nem exceção.",
+    "Deixar um participante desenhar o fluxograma só com o que foi dito (ideias próprias em outra cor).",
+    "Testar o modelo com 100 pacientes imaginários e comparar com a carteira real.",
+    "Fechar explicando a função do desconforto e estender o exercício ao grupo."
+   ],
+   "feedback": "Resposta condicional e específica; distinção entre regra e exceção; critérios funcionais, não topográficos; previsão do modelo compatível com a prática real.",
+   "exemplos_praticos": "A aluna repetiu 'depende', somou nuances e discordou da caricatura; propôs o critério 'contexto' numa escala de 0 a 100. O fluxograma de Diogo: comportamento-alvo claro? lesivo → DBT, não lesivo → análise do comportamento; senão, consciência: metáforas → ACT, queixa sem motivos → TCC, já faz análise funcional → FAP; se indefinido, contexto desafiador → DBT ou FAP. O modelo não explicou a distribuição real de pacientes da aluna.",
+   "variacoes": "Aplicar como tarefa de casa a todos que trabalham com mais de um referencial (inclusive tipos de psicanálise ou integrativos); versão original prevista: discutir o registro de sessão e sua relação com teoria e interpretação.",
+   "armadilhas": "Supervisionando sentir-se encurralado; sistematizar cedo demais e poupar a confusão necessária; aceitar acréscimos que só repetem o mesmo critério.",
+   "nivel": "avançado",
+   "funciona_online": true,
+   "ts": "0:12:12"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Meta-reflexão sobre o formato na abertura",
+   "descricao": "Compartilha com o grupo a dúvida sobre o dispositivo (sequencial por pessoa vs. rodízio por etapa).",
+   "exemplo": "Tô começando a desconfiar que é mais legal pegar uma pessoa só e ir do início até o final.",
+   "ts": "0:00:13"
+  },
+  {
+   "movimento": "Assumir o erro de comunicação e improvisar",
+   "descricao": "Reconhece que a palavra 'relatório' gerou outra entrega e reorienta a sessão.",
+   "exemplo": "A palavra que eu usei foi relatório... então eu vou levemente improvisar.",
+   "ts": "0:02:12"
+  },
+  {
+   "movimento": "Parar no primeiro incômodo",
+   "descricao": "Não percorre o relatório; escolhe a frase que não pareceu genuína e mergulha nela.",
+   "exemplo": "A ACT foi usada por sua robustez teórica ou porque você gosta mais de ACT?",
+   "ts": "0:08:58"
+  },
+  {
+   "movimento": "Recusar a vagueza com humor",
+   "descricao": "Aponta a esquiva sem agressividade pessoal e exige o 'de quê' do 'depende'.",
+   "exemplo": "Você sabonetou e não respondeu.",
+   "ts": "0:15:39"
+  },
+  {
+   "movimento": "Concretizar com hipotético",
+   "descricao": "Transforma a pergunta abstrata em cena concreta.",
+   "exemplo": "Chegou um paciente, você não tem nenhuma informação: qual a primeira coisa que você precisa saber?",
+   "ts": "0:16:11"
+  },
+  {
+   "movimento": "Declarar insistência",
+   "descricao": "Anuncia que não sairá do ponto até haver resposta concreta, retirando a pressa.",
+   "exemplo": "Enquanto isso estiver na névoa do depende, a gente não vai sair desse tema. Não precisa ter pressa.",
+   "ts": "0:21:14"
+  },
+  {
+   "movimento": "Espelhamento caricatural em ciclos",
+   "descricao": "Resume o modelo do supervisionando cada vez mais cru, avisa que é caricatura e pergunta se faz jus e o que falta (cinco rodadas).",
+   "exemplo": "Vou falar de volta com palavras um pouco mais agressivas o que você está me falando.",
+   "ts": "0:37:29"
+  },
+  {
+   "movimento": "Explicar por que insiste",
+   "descricao": "Interrompe o próprio método para justificá-lo com uma metáfora.",
+   "exemplo": "Uma coisa são águas profundas, outra é turvar as águas para parecerem mais profundas.",
+   "ts": "0:37:56"
+  },
+  {
+   "movimento": "Reconhecer o desconforto sem recuar",
+   "descricao": "Nomeia que está sendo incômodo e reafirma a importância.",
+   "exemplo": "Tô pegando no seu pé e entendo que é desagradável, mas genuinamente acho que isso é importante.",
+   "ts": "0:53:13"
+  },
+  {
+   "movimento": "Adiar a ajuda e sustentar a confusão",
+   "descricao": "Pede a um colega que espere para sistematizar e que registre só o que a aluna disse.",
+   "exemplo": "É importante sentir a confusão para depois tentar buscar uma ordem.",
+   "ts": "0:58:38"
+  },
+  {
+   "movimento": "Interrupção deliberada com forma de resposta",
+   "descricao": "Interrompe quando a resposta foge da pergunta e explicita a estrutura esperada.",
+   "exemplo": "Estou te pedindo para te interromper, para você não terminar mesmo: quando o contexto é X, eu escolho Y.",
+   "ts": "1:07:49"
+  },
+  {
+   "movimento": "Usar o grupo como espelho",
+   "descricao": "Pede a um participante que apresente seu fluxograma, compara com o próprio e faz perguntas conceituais.",
+   "exemplo": "Você diria que esse esquema é particularmente abrangente? E complexo?",
+   "ts": "1:17:02"
+  },
+  {
+   "movimento": "Teste por experimento mental",
+   "descricao": "Testa o modelo declarado prevendo a distribuição de 100 pacientes.",
+   "exemplo": "Se você rodasse 100 pacientes nesse modelo, onde eles cairiam?",
+   "ts": "1:19:52"
+  },
+  {
+   "movimento": "Fechamento que dá sentido e distribui a exposição",
+   "descricao": "Explica o método, normaliza o confronto, diz que qualquer um estaria na parede e transforma o exercício em tarefa para todos.",
+   "exemplo": "Desvios são atalhos... quero que todo mundo passe pelo exercício excruciante de tomar consciência dos seus processos de escolha.",
+   "ts": "1:22:25"
+  },
+  {
+   "movimento": "Encerrar a gravação para a conversa livre",
+   "descricao": "Para a gravação para que as pessoas comentem à vontade e convida a aluna a criticá-lo.",
+   "exemplo": "Se quiser me criticar, me xingar, pode ficar à vontade.",
+   "ts": "1:28:55"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Escreva no relatório o motivo real da escolha de abordagem.",
+   "justificativa": "'Robustez e aplicabilidade' pode esconder preferência pessoal; só o motivo verdadeiro pode ser discutido.",
+   "contexto": "Relatórios, formulações, supervisão.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:08:58"
+  },
+  {
+   "dica": "Formule seus critérios como 'quando X, escolho Y'.",
+   "justificativa": "'Depende' sem o 'de quê' não orienta nem pode ser criticado.",
+   "contexto": "Escolha e justificativa de abordagem.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:07:49"
+  },
+  {
+   "dica": "Saiba o que, na anamnese, te leva a uma direção.",
+   "justificativa": "O resultado da anamnese é a direção clínica; se o critério é implícito, quem decide são suas preferências.",
+   "contexto": "Primeiras sessões.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:16:33"
+  },
+  {
+   "dica": "Separe a regra geral das exceções por demanda.",
+   "justificativa": "Exceções (risco, não verbalidade) não explicam como você escolhe na maioria dos casos.",
+   "contexto": "Montagem do próprio fluxograma de decisão.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:38:52"
+  },
+  {
+   "dica": "Desconfie de critérios topográficos.",
+   "justificativa": "'A pessoa traz metáforas, então ACT' costuma ser escolher pela facilidade, não pela função do problema.",
+   "contexto": "Quando a abordagem encaixa fácil demais no jeito de falar do paciente.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:52:07"
+  },
+  {
+   "dica": "Verifique se seus vários critérios não são um só.",
+   "justificativa": "Abertura, clareza e consciência podem ser o mesmo estágio de mudança com nomes diferentes.",
+   "contexto": "Revisão do próprio raciocínio.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:02:24"
+  },
+  {
+   "dica": "Teste seu algoritmo contra sua carteira real de pacientes.",
+   "justificativa": "Se o modelo prevê uma distribuição e você atende outra, o modelo declarado não é o que você usa.",
+   "contexto": "Revisão periódica da prática.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:21:04"
+  },
+  {
+   "dica": "Faça um registro breve de cada sessão para você.",
+   "justificativa": "Desenho, setas, mapa mental e frases ajudam a memória e a reflexão e orientam a próxima sessão; é diferente de relatório formal.",
+   "contexto": "Logo após cada atendimento.",
+   "competencia": "Formulação de caso",
+   "ts": "0:01:06"
+  },
+  {
+   "dica": "Ao organizar o que estuda, produza regras gerais, não listas de exceções.",
+   "justificativa": "Somar informação aumenta a confusão; regra geral é o que dá mapa.",
+   "contexto": "Mapas mentais e algoritmos clínicos.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:00:29"
+  },
+  {
+   "dica": "Na supervisão, espelhe o raciocínio do outro de forma caricata.",
+   "justificativa": "A caricatura dita de maneira mais crua permite ao supervisionando ver o próprio processo e corrigir.",
+   "contexto": "Quando a resposta fica vaga.",
+   "competencia": "Feedback clínico",
+   "ts": "0:49:31"
+  },
+  {
+   "dica": "Na supervisão, deixe o supervisionando sentir a confusão antes de oferecer ordem.",
+   "justificativa": "Sem a angústia de se ver perdido, a pessoa não está de ouvidos abertos para rever a própria estrutura.",
+   "contexto": "Antes de sistematizar por ele.",
+   "competencia": "Feedback clínico",
+   "ts": "0:58:38"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Sem consciência do processo de escolha, quem escolhe o referencial não é o terapeuta.",
+   "argumento": "Sem critério explícito, decidem a personalidade e as preferências; objetividade exige consciência do processo.",
+   "contraponto": "O 'depende do caso'; a aluna afirma que a clínica é difícil e que soma fatores.",
+   "implicacao": "Explicitar e testar o próprio algoritmo de escolha.",
+   "quem": "Alan",
+   "ts": "0:37:56"
+  },
+  {
+   "tese": "Misturar abordagens sem critério é mistureba.",
+   "argumento": "Sem critério de escolha, o critério vira o que é mais fácil de aplicar.",
+   "contraponto": "Ecletismo intuitivo; Alan não é contra misturar, é contra misturar sem critério consciente.",
+   "implicacao": "Regra geral clara, exceções delimitadas, critérios funcionais.",
+   "quem": "Alan",
+   "ts": "0:54:05"
+  },
+  {
+   "tese": "A complexidade clínica, que é verdadeira, pode ser usada como escudo.",
+   "argumento": "'Depende, é complexo' impede a crítica e a revisão.",
+   "contraponto": "A complexidade e a flexibilidade são reais e necessárias.",
+   "implicacao": "O supervisor não aceita vagueza e pede estrutura.",
+   "quem": "Alan",
+   "ts": "1:26:17"
+  },
+  {
+   "tese": "Boa supervisão é mergulho profundo num aspecto específico: desvios são atalhos.",
+   "argumento": "Ficar na primeira frase de um relatório de sete páginas levou à estrutura da clínica da aluna.",
+   "contraponto": "Supervisão que percorre todo o relatório superficialmente.",
+   "implicacao": "Escolher o ponto que incomoda e ir fundo.",
+   "quem": "Alan",
+   "ts": "1:26:17"
+  },
+  {
+   "tese": "O confronto é da natureza da monitoria.",
+   "argumento": "É um espaço individual em que se pode dar uma cutucada maior; qualquer participante estaria igualmente na parede.",
+   "contraponto": "Quem se assusta com um modelo mais confrontativo.",
+   "implicacao": "Avisar o grupo e dar sentido ao desconforto no fechamento.",
+   "quem": "Alan",
+   "ts": "1:22:25"
+  },
+  {
+   "tese": "É necessária a angústia de se ver perdido antes de achar uma direção.",
+   "argumento": "Da posição de quem acha que já sabe, a discussão genuína sobre escolha de referenciais é impossível.",
+   "contraponto": "Oferecer a sistematização logo (como Diogo propôs).",
+   "implicacao": "Adiar a ordem e sustentar a confusão.",
+   "quem": "Alan",
+   "ts": "1:27:47"
+  },
+  {
+   "tese": "A anamnese não é teoricamente neutra quanto ao seu resultado.",
+   "argumento": "A anamnese resulta numa direção clínica; é preciso saber o que leva a essa direção.",
+   "contraponto": "A aluna: a primeira sessão não tem nem deve ter direcionamento teórico, para não impor uma armadura teórica.",
+   "implicacao": "Explicitar o que se observa na anamnese e por quê.",
+   "quem": "Alan",
+   "ts": "0:16:33"
+  },
+  {
+   "tese": "Somar informações não é produzir conhecimento.",
+   "argumento": "Exceções acumuladas aumentam a desorientação; regras gerais formam um mapa.",
+   "contraponto": "",
+   "implicacao": "Estudar e supervisionar buscando princípios, não listas.",
+   "quem": "Alan",
+   "ts": "1:00:29"
+  },
+  {
+   "tese": "Talvez seja melhor acompanhar uma pessoa do início ao fim na monitoria.",
+   "argumento": "Entre etapas de pessoas diferentes passam semanas e fica difícil lembrar dos casos.",
+   "contraponto": "O formato de rodízio por etapas usado até então.",
+   "implicacao": "Organizar 'o mês de cada aluno'.",
+   "quem": "Alan",
+   "ts": "0:00:13"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Uma coisa são águas profundas; outra coisa é turvar as águas para elas parecerem mais profundas.",
+   "tema": "complexidade aparente",
+   "ts": "0:37:56"
+  },
+  {
+   "texto": "Se você não tem consciência sobre o seu processo de escolha, quem escolhe não é você.",
+   "tema": "escolha de referencial",
+   "ts": "0:37:56"
+  },
+  {
+   "texto": "Quando você diz que depende do caso, no fundo são a sua personalidade e as suas preferências que estão escolhendo.",
+   "tema": "escolha de referencial",
+   "ts": "0:37:56"
+  },
+  {
+   "texto": "Você só consegue pensar objetividade no seu processo de escolha quando tem consciência dele.",
+   "tema": "escolha de referencial",
+   "ts": "0:38:52"
+  },
+  {
+   "texto": "Quando não existe um critério de escolha, o critério passa a ser aquilo que é mais fácil de utilizar naquele momento.",
+   "tema": "mistura e mistureba",
+   "ts": "0:54:05"
+  },
+  {
+   "texto": "Enquanto isso estiver na névoa do 'depende', a gente não sai desse tema. Não precisa ter pressa.",
+   "tema": "supervisão",
+   "ts": "0:21:14"
+  },
+  {
+   "texto": "É importante sentir a confusão para depois buscar uma ordem.",
+   "tema": "supervisão",
+   "ts": "0:58:38"
+  },
+  {
+   "texto": "Somar mais informações não é produzir novidade; produzir regras gerais é ter um mapa.",
+   "tema": "como estudar",
+   "ts": "1:00:29"
+  },
+  {
+   "texto": "Quase sempre, desvios são atalhos.",
+   "tema": "supervisão",
+   "ts": "1:26:17"
+  },
+  {
+   "texto": "Enquanto não há consciência sobre a estrutura de escolha, essa estrutura não pode ser criticada.",
+   "tema": "supervisão",
+   "ts": "1:26:17"
+  },
+  {
+   "texto": "'Depende, é muito complexo' pode ser uma maneira muito elegante de usar a teoria como escudo.",
+   "tema": "teoria como escudo",
+   "ts": "1:26:17"
+  },
+  {
+   "texto": "É necessária a angústia, o entendimento de que você está perdido, antes de achar uma direção.",
+   "tema": "supervisão",
+   "ts": "1:27:47"
+  },
+  {
+   "texto": "Dar uma cutucada maior é da natureza da monitoria.",
+   "tema": "supervisão",
+   "ts": "1:22:25"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "'Depende do caso' não é critério.",
+   "mensagem": "Explicite seu algoritmo de escolha de abordagem: quando X, escolho Y; regra geral e exceções.",
+   "roteiro": [
+    "Gancho",
+    "Se você não sabe como escolhe, quem escolhe não é você",
+    "Regra geral vs. exceções",
+    "Critério topográfico vs. funcional",
+    "Exercício: escreva seu fluxograma"
+   ],
+   "corte_inicio": "0:37:29",
+   "corte_fim": "0:38:52"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Águas profundas ou águas turvas?",
+   "mensagem": "Complexidade verdadeira vs. aparente, na clínica e no estudo.",
+   "roteiro": [
+    "Imagem da lagoa",
+    "Chutar a terra do fundo",
+    "Aplicação à escolha de abordagem"
+   ],
+   "corte_inicio": "0:37:56",
+   "corte_fim": "0:38:52"
+  },
+  {
+   "formato": "post",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Mistura ou mistureba?",
+   "mensagem": "Integrar abordagens exige critério funcional, não a facilidade de aplicação.",
+   "roteiro": [
+    "Definição de mistura",
+    "Definição de mistureba",
+    "Sinal de alerta: 'uso o que encaixa mais fácil'"
+   ],
+   "corte_inicio": "0:49:31",
+   "corte_fim": "0:54:05"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Rode 100 pacientes imaginários no seu modelo.",
+   "mensagem": "Um teste simples para ver se o critério que você declara é o que você usa.",
+   "roteiro": [
+    "Escreva seu fluxograma",
+    "Imagine 100 pacientes",
+    "Onde a maioria cai?",
+    "Compare com sua agenda real",
+    "Se não bate, seu modelo não é o real"
+   ],
+   "corte_inicio": "1:19:52",
+   "corte_fim": "1:22:05"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Por que passamos uma hora na primeira frase de um relatório.",
+   "mensagem": "Boa supervisão é mergulho num ponto: desvios são atalhos.",
+   "roteiro": [
+    "A cena da monitoria (sem dados de caso)",
+    "Desvios são atalhos",
+    "Teoria como escudo",
+    "A angústia necessária"
+   ],
+   "corte_inicio": "1:22:25",
+   "corte_fim": "1:27:47"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Registro de sessão não é relatório de estágio.",
+   "mensagem": "O que anotar depois de cada atendimento para orientar o próximo: desenho, setas, mapa mental, frases.",
+   "roteiro": [
+    "Diferença entre registro e relatório",
+    "Para que serve o registro",
+    "Formatos possíveis"
+   ],
+   "corte_inicio": "0:01:06",
+   "corte_fim": "0:02:12"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Steven Hayes",
+   "contexto": "Provável referência (?) quando Alan fala em 'segunda onda' das terapias comportamentais (na legenda, 'o reis vai chamar de segunda onda')."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria (supervisão individual em grupo), etapa com relatório",
+  "objetivo": "Refletir sobre como o aluno registra informações do caso, estrutura a conceituação e escolhe as ferramentas teóricas, a partir de um texto escrito sobre um atendimento já visto em grupo.",
+  "publico": "Alunos da formação clínica da Allos.",
+  "tamanho": "Um supervisionando por sessão, com ouvintes que podem participar (aqui, Diogo sistematiza); online.",
+  "duracao": "Cerca de 1h30.",
+  "estrutura_padrao": "Etapa 1: ver um primeiro atendimento (com paciente simulado por IA). Etapa 2: relatório/registro escrito e reflexão sobre conceituação e escolha de ferramentas. Etapa 3 prevista: segundo atendimento. Alan cogita trocar o rodízio de quatro pessoas por etapa por uma pessoa do início ao fim ('o mês de cada aluno'), com sessões às terças e sextas.",
+  "papel_facilitador": "Escolher um ponto do texto e aprofundar; perguntar, espelhar de forma caricata, sustentar a confusão, testar os modelos do supervisionando e, no fechamento, explicar o sentido do confronto.",
+  "regras_combinados": "A monitoria é individual e os demais são ouvintes, mas podem participar; é um espaço em que o supervisor pode 'cutucar' mais; a gravação é encerrada para comentários livres ao final."
+ },
+ "reflexoes_do_facilitador": [
+  "Desconfia que o formato de rodízio (quatro pessoas por etapa) é pior do que acompanhar uma pessoa do início ao fim, porque entre as etapas se esquece o caso.",
+  "Reconhece que usou a palavra errada ('relatório') ao pedir o registro de informação, o que gerou entregas diferentes do que imaginava, e decide improvisar.",
+  "Explica no meio da sessão por que está insistindo tanto num único ponto do relatório.",
+  "Admite que está 'pegando no pé' da aluna e que isso é desagradável, mas defende que é importante.",
+  "Diz que faz algo que não é o ideal da monitoria ao abrir a sistematização para os ouvintes.",
+  "Conclui que, como costuma acontecer, a sessão acabou fazendo exatamente o que precisava ser feito, apesar de ter se desviado do plano.",
+  "Oferece à aluna espaço, fora da gravação, para criticá-lo."
+ ],
+ "referencias_a_outros_encontros": [
+  "Etapa anterior: mon-02, nota 'Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica' (primeiro atendimento da mesma paciente simulada, cerca de três semanas antes).",
+  "Compara com a monitoria de outro aluno que trabalhou teoria de forma explícita: mon-01, nota 'Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica'.",
+  "Na sexta seguinte fará exercício semelhante (pensar o relatório) com outra pessoa.",
+  "Tarefa para a semana seguinte: todos que trabalham com mais de um referencial pensam seus critérios de escolha.",
+  "Menciona o 'cronograma A' (?) de observação sobre o que é uma boa supervisão.",
+  "Menciona que a ferramenta de pacientes simulados se chamava 'Eco' e agora tem outro nome."
+ ],
+ "observacoes": "Caso simulado: a paciente é uma IA ('uma mulher intrigante') da ferramenta de atendimentos da Allos; o caso quase não é discutido, pois toda a sessão gira em torno da justificativa da escolha da abordagem. Sobre a clínica real da aluna, só aparecem dados genéricos (tipos de pacientes, distribuição por abordagem). A legenda grafa o nome da aluna de várias formas (Eidrian/Idrian/Adrian/Idra/Adidan); na nota ela aparece como 'a aluna'. Muito ruído de obra no áudio da aluna ('[roncando]' na legenda). Termos incertos: 'pensamento antinômico sobre teoria' (?), 'o reis' = Hayes (?), 'cronograma A' (?). Diogo, que aparece como participante, conduz outras monitorias da Allos. A aluna também tem monitorias com João de Bragança (mon-10) e Diogo (mon-18)."
+}

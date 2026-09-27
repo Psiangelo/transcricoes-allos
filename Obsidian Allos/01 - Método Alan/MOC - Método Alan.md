@@ -51,6 +51,19 @@ E também:
 - [[Monitoria 04 - Alan - Relação terapêutica além do vínculo]]
 - [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]]
 
+## O grupo de Prática Clínica (também conduzido pelo Alan)
+Uma série de 6 encontros (7 vídeos) com atendimentos ao vivo e simulados, velocidade e criatividade clínica, taxonomia das habilidades e como treinar cada elemento da interpretação:
+- [[Prática Clínica 01 - Performance, prática e paciente simulado por IA]]
+- [[Prática Clínica 02 - Atendimento ao vivo e ecos da palavra]] · [[Prática Clínica 03 - Atenção flutuante, construção frasal e entonação]]
+- [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]]
+- [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]]
+- [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]]
+- [[Prática Clínica 07 - Como treinar cada elemento da interpretação]]
+
+## Por que a Allos treina assim
+- [[PD 09 - Como a Allos chegou à prática deliberada]]: aula do Alan sobre a história da Allos e a base teórica dos grupos (prática deliberada, medidas, feedback)
+- Curso de introdução à prática deliberada (conduzido por Bernardo): [[Curso de introdução à prática deliberada]]
+
 > [!warning] Ressalvas importantes
 > - O **Alan 04** foi conduzido por **Artur**, substituindo o Alan.
 > - A numeração dos encontros **não é cronológica** (detalhes na [[Trilha curricular do Alan]]).

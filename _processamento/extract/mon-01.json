@@ -1,0 +1,714 @@
+{
+ "id": "mon-01",
+ "nota": "Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Uso da teoria e flexibilidade clínica",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Terceira monitoria de uma série em que Alan demonstra, a cada encontro, uma ferramenta de supervisão diferente (antes: linguagem; sentido e direção). Aqui o foco é versatilidade clínica e articulação teoria-prática, a partir da primeira fala de um paciente simulado, intelectualizado e irônico, que se compara a Sísifo. Como o monitorado atende de modo intuitivo e só tem algum repertório em psicologia analítica, Alan monta um exercício de releitura com paradas a cada 'luzinha' teórica e, com perguntas socráticas, leva-o a construir uma psicodinâmica em triângulo (persona superior, inferioridade ligada à ânima, falta de receptividade e de cor), duas direções clínicas (buscar a gênese para compensar ou esperar um símbolo que transforme a energia) e uma reflexão sobre o tom da intervenção pela tipologia junguiana. No fechamento, mostra que uma teoria rende várias inflexões (seis caminhos), que a utilidade da teoria é visualizar possibilidades futuras e que a monitoria deve fazer o supervisionando saltar níveis de compreensão, do repetir ao avaliar e dar peso. Termina observando o desengajamento do grupo com a 'teoria do outro' e pedindo críticas fora da gravação.",
+ "em_uma_frase": "De uma única fala do paciente, Alan conduz o monitorado a extrair da psicologia analítica psicodinâmica, direções clínicas e tom de intervenção, mostrando que a teoria serve para visualizar possibilidades e que a monitoria deve fazer o supervisionando subir de nível de compreensão, até saber pesar e escolher.",
+ "competencias": [
+  "Articulação teoria-prática",
+  "Formulação de caso",
+  "Direção do tratamento",
+  "Intervenção",
+  "Feedback clínico",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicologia analítica junguiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:13",
+   "bloco": "Abertura",
+   "descricao": "Proposta do dia (monitoria standard, uma pessoa, primeira sessão), planos (segundas sessões, descrições de sessão) e retomada das monitorias anteriores (linguagem; sentido e direção).",
+   "funcao": "Situar o encontro numa série em que cada monitoria demonstra uma ferramenta.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:15",
+   "bloco": "Combinados",
+   "descricao": "Declara o foco em versatilidade clínica e admite que escolheu a ferramenta antes de ver o caso.",
+   "funcao": "Transparência sobre o artifício didático.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:14",
+   "bloco": "Demonstração",
+   "descricao": "Apresenta o caso simulado, pede interação por voz e lê a primeira fala do paciente.",
+   "funcao": "Dar ao grupo o material bruto.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:05:20",
+   "bloco": "Teoria",
+   "descricao": "Metacomunicação: dois caminhos para treinar flexibilidade (possibilidades clínicas ou diferentes referenciais, 'atender com várias almas'); escolhe o segundo.",
+   "funcao": "Ensinar a quem quer aprender a dar monitoria.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:06:43",
+   "bloco": "Feedback",
+   "descricao": "Monitorado explica a intervenção; dica de intervir em uma coisa por vez; mapeamento do repertório teórico dele.",
+   "funcao": "Partir do raciocínio do supervisionando e calibrar o exercício.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:09:09",
+   "bloco": "Dinâmica",
+   "descricao": "Consigna da releitura com paradas a cada 'luzinha' teórica; decide não abrir ao grupo.",
+   "funcao": "Montar o exercício sob medida.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:10:09",
+   "bloco": "Dinâmica",
+   "descricao": "Primeiro parágrafo: persona (função para fora e para dentro), aparte sobre níveis de compreensão, reconstrução de uma frase de Jung, ânima e suas negações, ordenação causal, metapergunta sobre o processo.",
+   "funcao": "Precisão conceitual e aplicação ao caso concreto.",
+   "duracao_min": 26
+  },
+  {
+   "ts": "0:35:59",
+   "bloco": "Retomada",
+   "descricao": "Meta-comentário comparando com a monitoria de linguagem: hoje, o quanto a teoria permite pré-contextualizar o que virá.",
+   "funcao": "Reancorar o objetivo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:37:01",
+   "bloco": "Dinâmica",
+   "descricao": "Segundo parágrafo (Sísifo): energia psíquica, 'para onde foi a cor', aceitar ou recusar a batalha intelectual, gênese e símbolo, síntese em triângulo.",
+   "funcao": "Derivar direções clínicas da leitura teórica.",
+   "duracao_min": 18
+  },
+  {
+   "ts": "0:55:14",
+   "bloco": "Dinâmica",
+   "descricao": "Quarto e terceiro parágrafos: o que o paciente sugere sobre a direção, tipologia e tom da intervenção, contra-hipótese do Sísifo feliz.",
+   "funcao": "Confrontar a construção com o restante do material.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "1:06:04",
+   "bloco": "Fechamento",
+   "descricao": "Síntese do que se derivou de uma fala, utilidade da teoria, seis maneiras de trabalhar.",
+   "funcao": "Consolidar a aprendizagem.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:09:37",
+   "bloco": "Feedback",
+   "descricao": "Modelo de níveis de compreensão, devolutiva individual, qual é o trabalho da monitoria e ideia de exercício de aprimoramento.",
+   "funcao": "Avaliação formativa e lição para futuros monitores.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:17:25",
+   "bloco": "Discussão",
+   "descricao": "Observa o desengajamento do grupo com teoria; pede comentários comparando os modelos e que a gravação seja interrompida.",
+   "funcao": "Tornar o comportamento do grupo material de aprendizagem e abrir espaço de crítica.",
+   "duracao_min": 2
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Flexibilidade clínica",
+   "definicao": "Capacidade de ver o atendimento por vários âmbitos e sustentar hipóteses simultâneas. Pode ser treinada pelas possibilidades clínicas da interação ou pelos diferentes referenciais; também existe dentro de um mesmo referencial.",
+   "exemplo": "'Atender com várias almas': a de psicanalista, a de junguiano, a de analista do comportamento.",
+   "abordagem": "",
+   "ts": "0:05:20"
+  },
+  {
+   "nome": "Níveis de compreensão teórica",
+   "definicao": "Gradação do domínio de um referencial: repetir o que o autor disse, compreender por que disse (refazer o raciocínio), articular, diferenciar, julgar comparativamente (dar peso) e criar a partir dele. A formação costuma parar nos primeiros níveis; ao clínico basta chegar ao julgar.",
+   "exemplo": "Lembrar que 'Jung disse que identificação com a persona gera identificação com a ânima' sem saber reconstruir o argumento.",
+   "abordagem": "",
+   "ts": "1:09:37"
+  },
+  {
+   "nome": "Persona",
+   "definicao": "Recorte particular de expectativas coletivas com o qual o sujeito se adapta. Tem uma função adaptativa 'da pele para fora' e uma função protetora e psicodinâmica 'da pele para dentro'. Uma persona saudável deixa a personalidade aparecer.",
+   "exemplo": "Homem de Ferro (a personalidade transparece na armadura) × Darth Vader (sufocado pela máscara).",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:12:51"
+  },
+  {
+   "nome": "Ânima",
+   "definicao": "Na construção do monitorado: contraparte feminina na psique masculina (aspecto psicológico, não de gênero), função de relação entre consciência e inconsciente, o que dá cor ao mundo e receptividade. No aspecto negativo, gera humores estranhos, melindre e fechamento.",
+   "exemplo": "O vazio útil de um vaso ou de uma caneca (imagem budista) como receptividade.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:21:57"
+  },
+  {
+   "nome": "Compensação",
+   "definicao": "Dinâmica pela qual a psique equilibra uma atitude unilateral. Encontrada a gênese, pode-se promover uma compensação: é uma das duas direções clínicas do caso.",
+   "exemplo": "Superioridade consciente compensando uma inferioridade inconsciente.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:52:24"
+  },
+  {
+   "nome": "Complexo de inferioridade",
+   "definicao": "Inferioridade psíquica sustentada por uma superioridade consciente que evita o contato com a realidade concreta, onde seria possível errar e ser contestado.",
+   "exemplo": "O paciente que julga todos de uma 'torre de marfim' e nunca desce ao concreto.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:10:48"
+  },
+  {
+   "nome": "Energia psíquica",
+   "definicao": "Na psicodinâmica junguiana, o sistema psíquico é relativamente fechado: a energia não se perde, desloca-se ou muda de natureza. Se o mundo perdeu a cor, algo deveria ter ganhado cor.",
+   "exemplo": "Pergunta de Alan: 'para onde foi a cor?'; hipótese de que a energia mudou 'de gosto', de aventura para vencer e estar acima.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:41:42"
+  },
+  {
+   "nome": "Símbolo",
+   "definicao": "Aquilo que une dois opostos e ao mesmo tempo transforma energia. Esperar e favorecer o surgimento de um símbolo no contato dialético é uma direção clínica ('passividade ativa').",
+   "exemplo": "'O que é um transformador de energia?' — 'um símbolo'.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:52:24"
+  },
+  {
+   "nome": "Busca da gênese",
+   "definicao": "Direção clínica que investiga por onde começa a dinâmica do paciente para, a partir da origem, promover compensação. Alan a associa ao segundo (talvez terceiro) momento da psicoterapia descrito por Jung nas Obras Completas 16/1.",
+   "exemplo": "A lacuna do monitorado: sem investigar a história de vida, a formulação vira 'cobra que come o próprio rabo'.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:53:37"
+  },
+  {
+   "nome": "Tipologia junguiana",
+   "definicao": "Quatro vias de adaptação da consciência (pensamento/intelecto, sentimento, sensação, intuição), organizadas em função superior (a que melhor adapta), auxiliares e inferior. Ajuda a escolher o tom da intervenção.",
+   "exemplo": "Paciente adaptado pelo intelecto pede para ser trabalhado por ele; o monitorado queria ir ao sentimento passando antes pela sensação.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:59:35"
+  },
+  {
+   "nome": "Função sentimento",
+   "definicao": "Função de valoração (no sentido alemão, não o de emoção do português). Alan a usa também como metáfora da capacidade de avaliar e dar peso às opções clínicas.",
+   "exemplo": "'Se o clínico conseguir executar a função sentimento, tá pago.'",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:00:28"
+  },
+  {
+   "nome": "Mito de Sísifo",
+   "definicao": "Imagem usada pelo paciente para descrever o tédio (uma pedra que nem resiste); Alan evoca a leitura de Camus, 'devemos imaginar Sísifo feliz', como contra-hipótese: a repetição como salvífica.",
+   "exemplo": "'Dançar mesmo sem ouvir a música.'",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "1:03:25"
+  },
+  {
+   "nome": "Caminho de menor resistência",
+   "definicao": "Quando a intervenção abre duas frentes, o paciente tende a seguir a mais fácil e evitar a mais difícil.",
+   "exemplo": "Intervenção que tocou a passividade mas não a superioridade intelectual.",
+   "abordagem": "",
+   "ts": "0:07:56"
+  },
+  {
+   "nome": "Metacomunicação",
+   "definicao": "Comentar a própria condução enquanto conduz, para quem está aprendendo a conduzir.",
+   "exemplo": "'Aqui eu tô fazendo uma metacomunicação... o meu foco é quem quer aprender a dar monitoria.'",
+   "abordagem": "",
+   "ts": "0:05:20"
+  },
+  {
+   "nome": "Psicologia comparada",
+   "definicao": "Pano de fundo do exercício: ver o mesmo caso a partir de diferentes referenciais e comparar as intervenções que cada um permite.",
+   "exemplo": "'Hoje vai ter uma pegadinha de psicologia comparada na construção.'",
+   "abordagem": "",
+   "ts": "0:01:15"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Articulação teórica da fala do paciente",
+   "objetivo": "Treinar flexibilidade clínica e articulação teoria-prática, derivando de uma única fala do paciente uma leitura psicodinâmica, direções clínicas e o tom da intervenção a partir de um referencial teórico.",
+   "competencias": [
+    "Articulação teoria-prática",
+    "Formulação de caso",
+    "Direção do tratamento"
+   ],
+   "configuracao": "Individual (supervisor e um monitorado) diante do grupo, que só observa; online, com a transcrição do atendimento compartilhada na tela.",
+   "tempo": "Cerca de 55 min de exercício e 10 min de fechamento.",
+   "materiais": "Transcrição escrita de um atendimento simulado (primeira sessão); tela compartilhada; papel para o supervisor anotar a construção.",
+   "consigna": "Vou reler a fala do paciente. Toda vez que acender uma luzinha de que dá para trabalhar algum conceito do seu referencial, você me pede para parar. Se passar o parágrafo inteiro e você não pedir, eu volto e faço algumas sinalizações.",
+   "passos": [
+    "Monitorado explica a intervenção que fez.",
+    "Supervisor mapeia o repertório teórico dele e escolhe o referencial do exercício.",
+    "Releitura parágrafo por parágrafo, com paradas pedidas pelo monitorado.",
+    "Em cada parada, interrogar o conceito: definição, função (para fora e para dentro), argumento que torna verdadeira a frase lembrada do autor.",
+    "Gerar alternativas (inclusive negando as definições) e escolher a mais útil para o caso concreto.",
+    "Ordenar causalmente (qual é a gênese?) e sintetizar numa imagem (triângulo).",
+    "Derivar direções clínicas e implicações práticas.",
+    "Confrontar a construção com o restante da fala (o que o paciente sugere).",
+    "Metaperguntas sobre o processo e devolutiva final por níveis de compreensão."
+   ],
+   "feedback": "Critérios: precisão conceitual; coerência interna (não inverter a tese que se quer justificar); aplicação ao caso concreto; utilidade clínica da escolha; distinção entre intuição clínica e articulação teórica; capacidade de dar peso e justificar escolhas. Devolutiva final localiza o monitorado nos níveis (repete, compreende, varia, avalia).",
+   "exemplos_praticos": "O monitorado já tinha a ideia de superioridade compensando inferioridade; com as perguntas, acrescentou ânima, falta de receptividade e símbolo e reconheceu que produziu conhecimento durante o exercício. Travou ao justificar teoricamente as escolhas (por que não seguir a função superior do paciente? por que não a repetição salvífica?). Devolutiva: entende quase tudo o que sabe, já varia, mas quase não avalia; decisões mais clínico-intuitivas do que teoricamente justificáveis.",
+   "variacoes": "Fazer com vários referenciais ('atender com várias almas'); trabalhar pelas possibilidades clínicas da interação em vez das abordagens; repetir nas semanas seguintes com a fala seguinte, apresentando os níveis ao monitorado; versão de aprimoramento: 'para que fenomenologias buscar a gênese e para quais esperar o símbolo?', com base em Jung, Obras Completas 16/1.",
+   "armadilhas": "Abrir para o grupo dilui a potência do exercício; escolher a ferramenta antes de olhar o caso é artificial; o supervisor pode colocar palavras na boca do monitorado (checar sempre); os observadores tendem a se desligar quando o referencial não é o deles; o monitorado pode ficar no intuitivo-clínico sem articular teoria.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:09:09"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Declarar o público real",
+   "descricao": "Diz explicitamente que o foco são os participantes que querem aprender a dar monitoria e, por isso, metacomunica ao longo do exercício.",
+   "exemplo": "'Tem pessoas de ouvintes, tem pessoas querendo a monitoria, mas o meu foco é quem quer aprender a dar monitoria.'",
+   "ts": "0:05:20"
+  },
+  {
+   "movimento": "Expor o artifício didático",
+   "descricao": "Admite que escolheu a ferramenta antes de ver o caso só para demonstrá-la e que, na prática, o caso deve convidar a ferramenta.",
+   "exemplo": "'Aqui eu tô forçando a barra para demonstrar a ferramenta.'",
+   "ts": "0:01:15"
+  },
+  {
+   "movimento": "Partir do raciocínio do supervisionando",
+   "descricao": "Antes de comentar, pede que o monitorado explique a construção e depois pergunta se a intervenção atingiu os pontos que ele mesmo identificou.",
+   "exemplo": "'Explica pra gente a sua construção'; 'você conseguiu tocar os dois pontos?'",
+   "ts": "0:06:43"
+  },
+  {
+   "movimento": "Calibrar pelo repertório",
+   "descricao": "Pergunta que abordagens o monitorado domina e monta o exercício no referencial dele; mantém o exercício individual para preservar a potência.",
+   "exemplo": "'Daria para jogar com as outras pessoas, mas isso tiraria muito a potência do exercício.'",
+   "ts": "0:09:09"
+  },
+  {
+   "movimento": "Perguntas socráticas de precisão",
+   "descricao": "Em vez de explicar o conceito, pergunta pela função, pelo contexto e pela implicação, e só completa quando o monitorado está perto.",
+   "exemplo": "'Qual a função da persona num sujeito saudável? E da pele para dentro?'; 'O que é um transformador de energia?'",
+   "ts": "0:13:59"
+  },
+  {
+   "movimento": "Parafrasear e checar",
+   "descricao": "Devolve o que ouviu em forma organizada e pede confirmação, cuidando para não pôr palavras na boca do monitorado.",
+   "exemplo": "'Foi isso que eu ouvi você falar'; 'me corrige se eu estiver colocando palavras na sua boca'.",
+   "ts": "0:18:13"
+  },
+  {
+   "movimento": "Apontar contradições sem desqualificar",
+   "descricao": "Mostra que a construção inverte a tese ou muda a caracterização no meio e pede uma escolha para o caso concreto.",
+   "exemplo": "'A construção que você está fazendo tem uma relação de proporcionalidade inversa com a frase que a gente quer justificar.'",
+   "ts": "0:18:55"
+  },
+  {
+   "movimento": "Gerar alternativas por negação",
+   "descricao": "Lista as definições dadas pelo monitorado, produz seus negativos e pede que ele escolha a mais útil ao caso.",
+   "exemplo": "Negações da ânima: falta de receptividade, não se deixar preencher, tirar a cor do mundo, identificação masculina.",
+   "ts": "0:26:47"
+  },
+  {
+   "movimento": "Sintetizar em voz alta e em imagem",
+   "descricao": "Recapitula várias vezes a construção conjunta e a condensa numa imagem memorável.",
+   "exemplo": "O triângulo: superioridade e inferioridade na base, não receptividade e falta de cor no vértice.",
+   "ts": "0:53:37"
+  },
+  {
+   "movimento": "Metapergunta sobre o processo",
+   "descricao": "Pergunta se a construção já estava clara ou se foi produzida no diálogo, avaliando o que a monitoria acrescentou.",
+   "exemplo": "'Estava claro na sua cabeça e você só precisou de ajuda para cuspir as palavras, ou foi revendo sua ideia?'",
+   "ts": "0:32:59"
+  },
+  {
+   "movimento": "Destravar com highlights e limitar a insistência",
+   "descricao": "Quando o monitorado trava, oferece recortes do texto; avisa quando vai insistir pela última vez e então segue.",
+   "exemplo": "'Vou tentar forçar a barra uma última vez aqui, senão a gente prossegue.'",
+   "ts": "0:46:14"
+  },
+  {
+   "movimento": "Explicitar o próprio tom",
+   "descricao": "Nomeia a ironia ou discordância com que fez uma pergunta e explica o motivo teórico, tornando o recurso visível para quem aprende.",
+   "exemplo": "'Por que eu perguntei no tom que perguntei? Foi um leve tom de discordância e ironia.'",
+   "ts": "0:42:32"
+  },
+  {
+   "movimento": "Introduzir contra-hipótese",
+   "descricao": "Propõe uma direção oposta à do monitorado para testar flexibilidade e expor preconceitos.",
+   "exemplo": "Camus e o Sísifo feliz: e se a repetição for salvífica?",
+   "ts": "1:03:25"
+  },
+  {
+   "movimento": "Reservar tempo para o fechamento",
+   "descricao": "Encurta a última parte do exercício para garantir os meta-comentários finais, que considera essenciais.",
+   "exemplo": "'Eu quero pegar 10 minutinhos para fechar essa dinâmica, porque os comentários do final são importantes.'",
+   "ts": "1:05:11"
+  },
+  {
+   "movimento": "Devolutiva por modelo",
+   "descricao": "Fecha com um modelo explícito (níveis de compreensão) e situa o monitorado nele, dizendo o que ele já faz e o que falta.",
+   "exemplo": "'A sua tomada de decisão era muito mais clínico-intuitiva do que justificável em termos teóricos.'",
+   "ts": "1:11:53"
+  },
+  {
+   "movimento": "Ler o grupo e usá-lo como material",
+   "descricao": "Observa expressões e o nível de engajamento dos ouvintes e transforma isso em reflexão sobre a relação dos psicólogos com teorias alheias.",
+   "exemplo": "'Pode ser uma fantasia minha, e é ótimo trabalhar com as nossas fantasias.'",
+   "ts": "1:17:25"
+  },
+  {
+   "movimento": "Crítica fora da gravação",
+   "descricao": "Pede comentários comparando os modelos de monitoria e que a gravação seja parada para que as pessoas critiquem mais à vontade.",
+   "exemplo": "'Se você puder parar a gravação para as pessoas ficarem mais à vontade para comentar e criticar.'",
+   "ts": "1:18:24"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Intervenha sobre um ponto de cada vez.",
+   "justificativa": "Duas frentes deixam o paciente escolher o caminho de menor resistência.",
+   "contexto": "Sobretudo com pacientes resistentes.",
+   "competencia": "Intervenção",
+   "ts": "0:07:56"
+  },
+  {
+   "dica": "Diante de uma frase de autor que você 'lembra', reconstrua o argumento que a sustenta.",
+   "justificativa": "Lembrar é o nível mais superficial de compreensão; só quem reconstrói sabe quando o conceito se aplica.",
+   "contexto": "Ao usar conceitos na formulação de caso.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:17:01"
+  },
+  {
+   "dica": "Pergunte pela função do conceito, para fora e para dentro.",
+   "justificativa": "Qualificar algo como 'desadaptado' exige saber o que seria a sua função saudável.",
+   "contexto": "Ao qualificar estruturas psíquicas.",
+   "competencia": "Formulação de caso",
+   "ts": "0:13:59"
+  },
+  {
+   "dica": "Decida, para o caso concreto, entre hipóteses opostas.",
+   "justificativa": "'Persona excessiva' e 'persona pobre' levam a direções clínicas diferentes.",
+   "contexto": "Quando a formulação oscila.",
+   "competencia": "Formulação de caso",
+   "ts": "0:20:20"
+  },
+  {
+   "dica": "Gere alternativas negando as definições e escolha a mais útil.",
+   "justificativa": "Amplia o leque de hipóteses e obriga a justificar pela implicação clínica.",
+   "contexto": "Ao refinar uma hipótese.",
+   "competencia": "Formulação de caso",
+   "ts": "0:26:47"
+  },
+  {
+   "dica": "Pergunte 'para onde foi a energia?' quando o paciente descreve perda de interesse.",
+   "justificativa": "Na leitura junguiana a energia não some, desloca-se; o que ficou 'colorido' orienta a intervenção.",
+   "contexto": "Apatia, tédio, falta de sentido.",
+   "competencia": "Formulação de caso",
+   "ts": "0:41:42"
+  },
+  {
+   "dica": "Tenha uma hipótese sobre a gênese do evitamento antes de convidar o paciente a 'descer para o jogo'.",
+   "justificativa": "Sem saber o que o faz evitar a vida, o convite não tem alavanca.",
+   "contexto": "Pacientes intelectualizados ou que evitam o concreto.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:50:04"
+  },
+  {
+   "dica": "Não confunda engajamento no debate com mudança na vida.",
+   "justificativa": "O paciente gostar de disputar com você não significa que agiu de outro modo fora da sessão.",
+   "contexto": "Ao avaliar uma estratégia de aliança intelectual.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:50:31"
+  },
+  {
+   "dica": "Investigue a história de vida para sustentar hipóteses de gênese.",
+   "justificativa": "Sem ela a formulação fica circular ('cobra que come o próprio rabo').",
+   "contexto": "Primeiras sessões.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:35:27"
+  },
+  {
+   "dica": "Leve a sério a direção que o paciente sugere, mas desconfie dela.",
+   "justificativa": "É um dado clínico, mas às vezes quem escolhe é a própria neurose.",
+   "contexto": "Ao definir a estratégia terapêutica.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:58:07"
+  },
+  {
+   "dica": "Escolha conscientemente o tom da intervenção pela tipologia.",
+   "justificativa": "A função superior acompanha a adaptação do paciente; a inferior é mais árdua; uma auxiliar suaviza o ritmo.",
+   "contexto": "Ao planejar como falar com o paciente.",
+   "competencia": "Intervenção",
+   "ts": "1:02:01"
+  },
+  {
+   "dica": "Justifique teoricamente quando contrariar a preferência do paciente.",
+   "justificativa": "Decisão só intuitiva não se sustenta nem se transmite.",
+   "contexto": "Quando se afastar do caminho proposto pelo paciente.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:02:01"
+  },
+  {
+   "dica": "Teste uma contra-hipótese antes de fechar a direção clínica.",
+   "justificativa": "Expõe preconceitos do terapeuta (ex.: 'tem que haver alguma música') e amplia as opções.",
+   "contexto": "Formulação de caso.",
+   "competencia": "Formulação de caso",
+   "ts": "1:03:25"
+  },
+  {
+   "dica": "Como supervisor, escolha a ferramenta pelo que o caso convida.",
+   "justificativa": "Cada caso pede um eixo (linguagem, sentido, teoria); forçar a ferramenta é artificial.",
+   "contexto": "Monitoria e supervisão.",
+   "competencia": "Feedback clínico",
+   "ts": "0:01:15"
+  },
+  {
+   "dica": "Na supervisão teórica, faça o supervisionando subir um nível de compreensão por vez.",
+   "justificativa": "Quem repete precisa chegar a explicar; quem explica, a variar; quem varia, a avaliar e dar peso.",
+   "contexto": "Monitoria focada no eixo teoria-prática.",
+   "competencia": "Feedback clínico",
+   "ts": "1:14:07"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A utilidade da teoria é permitir visualizar possibilidades futuras e construir um todo para o caso.",
+   "argumento": "De uma só fala derivaram-se psicodinâmica, duas direções clínicas e tom da intervenção, hipóteses a serem confrontadas depois.",
+   "contraponto": "A clínica puramente intuitiva, cujas decisões não se justificam.",
+   "implicacao": "Estudar teoria para antecipar e gerar hipóteses, não para rotular.",
+   "quem": "Alan",
+   "ts": "1:07:10"
+  },
+  {
+   "tese": "Uma mesma teoria sempre oferece várias inflexões clínicas.",
+   "argumento": "No caso, duas direções × três tons = seis caminhos bem distintos; isso é ainda mais verdadeiro na psicologia analítica.",
+   "contraponto": "A ideia de que cada abordagem prescreve uma conduta única.",
+   "implicacao": "Treinar flexibilidade também dentro do próprio referencial.",
+   "quem": "Alan",
+   "ts": "1:08:31"
+  },
+  {
+   "tese": "A formação costuma parar nos níveis mais baixos de compreensão.",
+   "argumento": "Na faculdade e no estudo por conta própria, a gente se satisfaz em entender o autor; os saltos para variar e para avaliar raramente são treinados.",
+   "contraponto": "O estudo 'para a prova' e a memorização comparativa de definições.",
+   "implicacao": "A monitoria deve fazer o supervisionando saltar níveis.",
+   "quem": "Alan",
+   "ts": "1:13:02"
+  },
+  {
+   "tese": "Criar sobre a teoria é desnecessário para o clínico; saber pesar é indispensável.",
+   "argumento": "O que decide a clínica é avaliar, a priori, para que lado 'cortar' num dado contexto.",
+   "contraponto": "O ideal implícito de que o clínico precisa produzir teoria.",
+   "implicacao": "Priorizar exercícios de avaliação comparativa de hipóteses.",
+   "quem": "Alan",
+   "ts": "1:13:02"
+  },
+  {
+   "tese": "Os psicólogos se desligam da teoria dos outros, e isso é um problema.",
+   "argumento": "O engajamento do grupo foi menor numa monitoria teórica junguiana do que na de linguagem, porque 'a teoria do outro é do outro e não da gente'.",
+   "contraponto": "O sectarismo de abordagem ('não sou junguiano, então é menos verdadeiro').",
+   "implicacao": "Tratar as teorias como recursos de uma psicologia só, o que Alan chama de 'visualizar o que é psicologia de verdade'.",
+   "quem": "Alan",
+   "ts": "1:17:25"
+  },
+  {
+   "tese": "Na monitoria, a ferramenta deve ser escolhida pelo que o caso convida.",
+   "argumento": "Alan admite que escolheu a ferramenta antes de ver o caso apenas para demonstrá-la.",
+   "contraponto": "Aplicar sempre a mesma técnica de supervisão.",
+   "implicacao": "O monitor precisa dominar várias formas de trabalhar.",
+   "quem": "Alan",
+   "ts": "0:01:15"
+  },
+  {
+   "tese": "A preferência do paciente sobre a direção do tratamento é um dado, não uma ordem.",
+   "argumento": "O paciente indica querer um duelo intelectual, mas 'às vezes quem escolhe é a própria neurose'.",
+   "contraponto": "Seguir sem crítica o que o paciente pede, ou ignorá-lo.",
+   "implicacao": "Incorporar a preferência à formulação e decidir com justificativa.",
+   "quem": "Alan",
+   "ts": "0:58:07"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "O meu foco são as pessoas que estão querendo aprender a dar monitoria.",
+   "tema": "propósito da monitoria",
+   "ts": "0:05:20"
+  },
+  {
+   "texto": "Fazer intervenção em uma coisa de cada vez é mais fácil do que fazer duas ao mesmo tempo, porque aí você dá ao paciente a opção de ir pelo caminho de menor resistência.",
+   "tema": "intervenção",
+   "ts": "0:07:56"
+  },
+  {
+   "texto": "Eu lembro a definição e aprendo isso mais ou menos para a prova. Só que isso é diferente de compreender a estrutura e o raciocínio, o porquê de o autor ter chegado àquela conclusão.",
+   "tema": "níveis de compreensão",
+   "ts": "0:17:01"
+  },
+  {
+   "texto": "Se você não sabe a gênese do que faz ele evitar o jogo, como é que você vai fazer para convidá-lo?",
+   "tema": "direção do tratamento",
+   "ts": "0:50:04"
+  },
+  {
+   "texto": "O símbolo faz a união entre os dois opostos e, ao mesmo tempo, é um transformador de energia.",
+   "tema": "psicologia analítica",
+   "ts": "0:52:24"
+  },
+  {
+   "texto": "Lembrando sempre de que às vezes quem escolhe é a própria neurose.",
+   "tema": "direção do tratamento",
+   "ts": "0:58:07"
+  },
+  {
+   "texto": "Esta é a utilidade da teoria: permitir visualizar possibilidades futuras, construir um todo para o caso.",
+   "tema": "teoria e prática",
+   "ts": "1:07:10"
+  },
+  {
+   "texto": "O natural é que uma mesma teoria te dê várias inflexões possíveis para trabalhar o caso.",
+   "tema": "flexibilidade clínica",
+   "ts": "1:08:31"
+  },
+  {
+   "texto": "O maior domínio possível de um referencial teórico é a capacidade de cocriar em cima dele, tal qual o autor de base.",
+   "tema": "níveis de compreensão",
+   "ts": "1:10:43"
+  },
+  {
+   "texto": "A sua tomada de decisão era muito mais clínico-intuitiva do que justificável em termos teóricos.",
+   "tema": "feedback de supervisão",
+   "ts": "1:11:53"
+  },
+  {
+   "texto": "Entre entender o que o autor falou e conseguir achar variações, tem um gap.",
+   "tema": "formação",
+   "ts": "1:13:02"
+  },
+  {
+   "texto": "Se o clínico conseguir executar a função sentimento, tá pago.",
+   "tema": "formação",
+   "ts": "1:13:02"
+  },
+  {
+   "texto": "A gente tem uma leve tendência a desligar um pouquinho o cérebro, porque acha que a teoria do outro é do outro e não da gente.",
+   "tema": "abordagens em diálogo",
+   "ts": "1:17:25"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Você entende a teoria ou só decorou?",
+   "mensagem": "Existem níveis de domínio de uma teoria (repetir, compreender, articular, diferenciar, julgar, criar); o clínico precisa chegar a saber pesar e escolher.",
+   "roteiro": [
+    "Capa: 'Você entende a teoria ou só decorou?'",
+    "Nível 1: repetir o que o autor disse",
+    "Nível 2: saber por que ele disse e refazer o raciocínio",
+    "Nível 3: articular e diferenciar",
+    "Nível 4: julgar comparativamente, dar peso",
+    "Nível 5: criar a partir do referencial",
+    "Para o clínico, o essencial é o nível 4: saber para que lado cortar"
+   ],
+   "corte_inicio": "1:09:37",
+   "corte_fim": "1:14:07"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pare de fazer duas intervenções na mesma frase.",
+   "mensagem": "Com duas frentes, o paciente escolhe o caminho de menor resistência; uma coisa de cada vez.",
+   "roteiro": [
+    "Cena 1: terapeuta fala duas coisas de uma vez",
+    "Cena 2: paciente responde só à mais fácil",
+    "Cena 3: a regra e o porquê"
+   ],
+   "corte_inicio": "0:07:56",
+   "corte_fim": "0:09:00"
+  },
+  {
+   "formato": "post",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "A teoria do outro também é sua.",
+   "mensagem": "Desligar-se quando o assunto é outra abordagem empobrece a clínica; as teorias são recursos de uma mesma psicologia.",
+   "roteiro": [
+    "Frase de Alan sobre 'a teoria do outro'",
+    "Legenda: por que vale estudar abordagens que você não pratica"
+   ],
+   "corte_inicio": "1:17:25",
+   "corte_fim": "1:19:22"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Para que serve a teoria no consultório?",
+   "mensagem": "Serve para antecipar possibilidades, construir um todo para o caso e gerar hipóteses testáveis; uma mesma teoria abre vários caminhos.",
+   "roteiro": [
+    "Capa: 'Para que serve a teoria?'",
+    "1. Descrever a dinâmica",
+    "2. Enxergar direções clínicas",
+    "3. Escolher o tom da intervenção",
+    "Uma teoria, vários caminhos",
+    "Hipóteses são para ser confrontadas"
+   ],
+   "corte_inicio": "1:06:04",
+   "corte_fim": "1:09:37"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Às vezes quem escolhe a direção da terapia é a própria neurose.",
+   "mensagem": "Ouvir o que o paciente pede sem se submeter a isso: a preferência dele é dado clínico.",
+   "roteiro": [
+    "Frase de impacto",
+    "Explicação curta: preferência como dado, não como ordem"
+   ],
+   "corte_inicio": "0:58:07",
+   "corte_fim": "0:59:04"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como é uma monitoria de teoria na Allos?",
+   "mensagem": "O supervisor relê seu atendimento simulado e você pede para parar a cada 'luzinha' teórica; o grupo aprende observando.",
+   "roteiro": [
+    "Story 1: 'Imagina reler seu atendimento com o supervisor...'",
+    "Story 2: a consigna da 'luzinha'",
+    "Story 3: convite para os grupos"
+   ],
+   "corte_inicio": "0:09:09",
+   "corte_fim": "0:10:09"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Jung",
+   "contexto": "Referencial de todo o exercício: persona, ânima, energia psíquica, símbolo, tipologia; Obras Completas 16/1 sobre quando buscar a gênese e quando esperar o símbolo."
+  },
+  {
+   "nome": "Albert Camus",
+   "contexto": "Leitura do mito de Sísifo ('imaginar Sísifo feliz') como contra-hipótese: a repetição como salvífica."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria (formato standard) com Alan",
+  "objetivo": "Supervisionar atendimentos escritos com pacientes simulados e, sobretudo, demonstrar a quem quer aprender a dar monitoria diferentes ferramentas de supervisão (linguagem, sentido e direção, teoria).",
+  "publico": "Participantes da formação clínica da Allos: monitorados, ouvintes e quem quer aprender a monitorar.",
+  "tamanho": "Um monitorado por encontro e um grupo observador (número não informado); outros facilitadores podem estar presentes.",
+  "duracao": "Cerca de 1h20 gravada, mais conversa final sem gravação.",
+  "estrutura_padrao": "Proposta e ferramenta do dia → leitura do atendimento na tela → monitorado explica a intervenção → exercício guiado sobre as falas do paciente → síntese e meta-comentários → feedback do grupo com a gravação desligada.",
+  "papel_facilitador": "Conduz o raciocínio do monitorado com perguntas, sintetiza, avalia por níveis e metacomunica para quem aprende a monitorar.",
+  "regras_combinados": "Interação por voz; foco em uma pessoa (não abrir ao grupo durante o exercício); ciclo de cerca de um mês e meio de monitorias com Alan; gravação interrompida para críticas livres."
+ },
+ "reflexoes_do_facilitador": [
+  "Reconhece que escolheu a ferramenta antes de olhar o caso e que está 'forçando a barra' para demonstrá-la; na monitoria real, o caso é que convida a ferramenta.",
+  "Decide não abrir o exercício ao grupo porque isso tiraria a potência de trabalhar a flexibilidade com o monitorado.",
+  "Explica o tom levemente irônico de uma pergunta como recurso deliberado de discordância.",
+  "Admite ter dado 'uma cosquinha a mais' ao completar o raciocínio do monitorado, porque achou que ele já estava com a bola dentro.",
+  "Percebe menor engajamento do grupo na monitoria teórica em comparação com a de linguagem e trata essa percepção como possível fantasia sua, útil de trabalhar.",
+  "Conduz pelo celular, sem computador, com dificuldades de compartilhamento de tela."
+ ],
+ "referencias_a_outros_encontros": [
+  "mon-03: monitoria anterior, focada em linguagem, escolha vocabular, interpretação e priorização ('o quanto a linguagem do paciente já conta o que vai acontecer').",
+  "mon-02: monitoria anterior focada em sentido e direção da clínica.",
+  "Plano: na semana seguinte, trabalhar segundas sessões; no futuro, comparar descrições de sessão feitas pelos alunos com a sessão em si.",
+  "Ciclo de cerca de um mês e meio em que Alan conduz as monitorias.",
+  "Alan menciona que está estudando educação (origem do modelo de níveis de compreensão) e que ajudou uma participante a ler as Obras Completas 16/1 de Jung."
+ ],
+ "observacoes": "Caso simulado (roleplay escrito; a ferramenta parece se chamar ECO (?)). Alan conduz pelo celular, com trechos de compartilhamento de tela confusos. O exemplo de conceitos decorados 'para a prova' (equilibração em Piaget/Vigotski) está truncado na transcrição e foi omitido. Alan às vezes chama o monitorado por outros nomes (lapsos). 'Ganhando PDL' foi interpretado como pontos de ranking em jogo on-line (?). A referência a Jung (OC 16/1, quatro 'momentos' da psicoterapia) é citada de memória por Alan, sem o nome do capítulo. O final da conversa não foi gravado. A nota passou da faixa de palavras sugerida por causa da densidade do encontro."
+}

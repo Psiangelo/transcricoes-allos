@@ -29,74 +29,74 @@ aliases: ["Encontro 15 e Encontro 16", "Acervo 08", "Casa de ferreiro, espeto de
 
 ## Resumo
 
-Com o grupo reduzido, Tainá anuncia um exercício "que não está em lista nenhuma, só na minha cabeça", inspirado numa proposta que leu com o nome "Casa de ferreiro, espeto de pau" e que combinou com Diogo {{ts:acervo-08@0:00:01}}. A proposta: como psicólogos, damos suporte aos pacientes toda semana, mas podemos adoecer com o ritmo de trabalho e com o que os casos despertam em nós — a prática clínica **pode adoecer e pode promover saúde**. Antes de começar, divulga as vagas da clínica da Allos {{ts:acervo-08@0:01:29}}.
+Com o grupo reduzido, Tainá anuncia um exercício "que não está em lista nenhuma, só na minha cabeça", inspirado numa proposta que leu com o nome "Casa de ferreiro, espeto de pau" e que combinou com Diogo [▶ 0:00:01](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1s). A proposta: como psicólogos, damos suporte aos pacientes toda semana, mas podemos adoecer com o ritmo de trabalho e com o que os casos despertam em nós — a prática clínica **pode adoecer e pode promover saúde**. Antes de começar, divulga as vagas da clínica da Allos [▶ 0:01:29](https://www.youtube.com/watch?v=S8TM08kgrCE&t=89s).
 
-A dinâmica se organiza em **três perguntas disparadoras**, respondidas em rodadas abertas por voz ou chat. **(1)** "Como é para vocês atender pacientes toda semana?" {{ts:acervo-08@0:02:52}} — surgem o peso dos primeiros pacientes, a dificuldade das sessões "de manutenção" sem nova camada do caso, o medo de quem ainda não atende e a autocobrança por resultado. **(2)** "Como vocês lidam quando o sintoma ou o pensamento do paciente é muito próximo do de vocês?" {{ts:acervo-08@0:34:50}} — pergunta que Tainá formula a partir de uma autorrevelação sobre um paciente que falta com frequência e que ela chegou a esquecer. A rodada discute distanciamento, autorrevelação (FAP), contratransferência ("não existe contratransferência", de Lacan) e o risco de desviar o paciente de conteúdos que incomodam o terapeuta. **(3)** "Que característica pessoal vocês precisam reprimir, ou usar de outra forma, para serem bons psicólogos?" {{ts:acervo-08@0:58:37}} — humor, gostos pessoais, gestos e expressões faciais (incluindo o relato de um participante autista sobre o mascaramento), tendência a validar tudo e desorganização.
+A dinâmica se organiza em **três perguntas disparadoras**, respondidas em rodadas abertas por voz ou chat. **(1)** "Como é para vocês atender pacientes toda semana?" [▶ 0:02:52](https://www.youtube.com/watch?v=S8TM08kgrCE&t=172s) — surgem o peso dos primeiros pacientes, a dificuldade das sessões "de manutenção" sem nova camada do caso, o medo de quem ainda não atende e a autocobrança por resultado. **(2)** "Como vocês lidam quando o sintoma ou o pensamento do paciente é muito próximo do de vocês?" [▶ 0:34:50](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2090s) — pergunta que Tainá formula a partir de uma autorrevelação sobre um paciente que falta com frequência e que ela chegou a esquecer. A rodada discute distanciamento, autorrevelação (FAP), contratransferência ("não existe contratransferência", de Lacan) e o risco de desviar o paciente de conteúdos que incomodam o terapeuta. **(3)** "Que característica pessoal vocês precisam reprimir, ou usar de outra forma, para serem bons psicólogos?" [▶ 0:58:37](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3517s) — humor, gostos pessoais, gestos e expressões faciais (incluindo o relato de um participante autista sobre o mascaramento), tendência a validar tudo e desorganização.
 
-No fechamento, Tainá traz um artigo sobre a saúde mental dos psicólogos (pouco estudada) e defende tirar o terapeuta da "posição de super-herói": quem se considera sem sentimentos no setting produz uma **clínica mecanizada**; terapeuta e paciente estão ambos vulneráveis, e o psicólogo pode nunca saber o dano que causou — daí a pressão constante {{ts:acervo-08@1:20:16}}. A mensagem final é estudar e dar o melhor, mas se deixar atravessar pela clínica e usar isso no próprio aprimoramento {{ts:acervo-08@1:22:47}}.
+No fechamento, Tainá traz um artigo sobre a saúde mental dos psicólogos (pouco estudada) e defende tirar o terapeuta da "posição de super-herói": quem se considera sem sentimentos no setting produz uma **clínica mecanizada**; terapeuta e paciente estão ambos vulneráveis, e o psicólogo pode nunca saber o dano que causou — daí a pressão constante [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s). A mensagem final é estudar e dar o melhor, mas se deixar atravessar pela clínica e usar isso no próprio aprimoramento [▶ 1:22:47](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4967s).
 
 ## Estrutura do encontro
 
 | Início | Bloco | O que acontece | Função pedagógica |
 |---|---|---|---|
-| {{ts:acervo-08@0:00:01}} | Abertura | Tainá explica o atraso e o grupo reduzido, apresenta o ditado "casa de ferreiro, espeto de pau" e o tema (a clínica adoece e promove saúde no terapeuta) | Deslocar o foco do paciente para o terapeuta |
-| {{ts:acervo-08@0:01:29}} | Bate-papo/Outro | Divulga vagas da clínica da Allos; link no chat; brincadeira com os emojis da chamada | Recado institucional e aquecimento |
-| {{ts:acervo-08@0:02:52}} | Dinâmica | Pergunta 1: "Como é para vocês atender pacientes toda semana?" — câmera aberta, experiência pessoal | Abrir com pergunta ampla e acessível |
-| {{ts:acervo-08@0:03:29}} | Rodada de respostas | Uma participante recém-formada (peso dos primeiros pacientes; cura como acontecimento); Diogo (sessões sem nova camada, insegurança); perguntas de aprofundamento da facilitadora | Aprofundar a experiência individual |
-| {{ts:acervo-08@0:14:40}} | Rodada de respostas | Um participante que ainda não atende responde "como imagina que seria" (medo, responsabilidade, teoria x prática) | Incluir quem ainda não clinica |
-| {{ts:acervo-08@0:27:21}} | Discussão | Tainá sintetiza o fio comum (pressão e autocobrança), reafirma o foco; lê um comentário do chat e pergunta de volta | Nomear o tema emergente e integrar o chat |
-| {{ts:acervo-08@0:30:25}} | Discussão | Posição de saber/defesa do terapeuta; Diogo levanta a dúvida "tempo clínico ou desculpa?"; Tainá reformula | Tornar a autocobrança objeto de reflexão técnica |
-| {{ts:acervo-08@0:33:42}} | Dinâmica | Tainá conta que esqueceu um paciente faltoso parecido com ela e lança a pergunta 2 (identificação com a queixa) | Autorrevelação da facilitadora como disparador |
-| {{ts:acervo-08@0:36:01}} | Rodada de respostas | Diferenciar as razões de "não conseguir"; reciprocidade; FAP e autorrevelação (Diogo); identificação com uma paciente; contratransferência e Lacan; função da intervenção | Construir critérios para lidar com a identificação |
-| {{ts:acervo-08@0:58:37}} | Dinâmica | Pergunta 3: característica pessoal a reprimir ou usar de outra forma (com exemplo) | Preparar o fechamento pela via da pessoa do terapeuta |
-| {{ts:acervo-08@0:59:22}} | Rodada de respostas | Humor e gostos pessoais; spoilers; mascaramento autista; "não somos atores"; tendência a validar tudo; brincadeira x seriedade; organização | Discutir autenticidade e limites no setting |
-| {{ts:acervo-08@1:20:16}} | Fechamento | Artigo sobre saúde mental dos psicólogos; sair do lugar de super-herói; vulnerabilidade mútua; clínica mecanizada | Síntese e mensagem final |
-| {{ts:acervo-08@1:23:33}} | Bate-papo/Outro | Problemas com o link do formulário de presença; despedida | Encaminhamentos práticos |
+| [▶ 0:00:01](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1s) | Abertura | Tainá explica o atraso e o grupo reduzido, apresenta o ditado "casa de ferreiro, espeto de pau" e o tema (a clínica adoece e promove saúde no terapeuta) | Deslocar o foco do paciente para o terapeuta |
+| [▶ 0:01:29](https://www.youtube.com/watch?v=S8TM08kgrCE&t=89s) | Bate-papo/Outro | Divulga vagas da clínica da Allos; link no chat; brincadeira com os emojis da chamada | Recado institucional e aquecimento |
+| [▶ 0:02:52](https://www.youtube.com/watch?v=S8TM08kgrCE&t=172s) | Dinâmica | Pergunta 1: "Como é para vocês atender pacientes toda semana?" — câmera aberta, experiência pessoal | Abrir com pergunta ampla e acessível |
+| [▶ 0:03:29](https://www.youtube.com/watch?v=S8TM08kgrCE&t=209s) | Rodada de respostas | Uma participante recém-formada (peso dos primeiros pacientes; cura como acontecimento); Diogo (sessões sem nova camada, insegurança); perguntas de aprofundamento da facilitadora | Aprofundar a experiência individual |
+| [▶ 0:14:40](https://www.youtube.com/watch?v=S8TM08kgrCE&t=880s) | Rodada de respostas | Um participante que ainda não atende responde "como imagina que seria" (medo, responsabilidade, teoria x prática) | Incluir quem ainda não clinica |
+| [▶ 0:27:21](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1641s) | Discussão | Tainá sintetiza o fio comum (pressão e autocobrança), reafirma o foco; lê um comentário do chat e pergunta de volta | Nomear o tema emergente e integrar o chat |
+| [▶ 0:30:25](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1825s) | Discussão | Posição de saber/defesa do terapeuta; Diogo levanta a dúvida "tempo clínico ou desculpa?"; Tainá reformula | Tornar a autocobrança objeto de reflexão técnica |
+| [▶ 0:33:42](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2022s) | Dinâmica | Tainá conta que esqueceu um paciente faltoso parecido com ela e lança a pergunta 2 (identificação com a queixa) | Autorrevelação da facilitadora como disparador |
+| [▶ 0:36:01](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2161s) | Rodada de respostas | Diferenciar as razões de "não conseguir"; reciprocidade; FAP e autorrevelação (Diogo); identificação com uma paciente; contratransferência e Lacan; função da intervenção | Construir critérios para lidar com a identificação |
+| [▶ 0:58:37](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3517s) | Dinâmica | Pergunta 3: característica pessoal a reprimir ou usar de outra forma (com exemplo) | Preparar o fechamento pela via da pessoa do terapeuta |
+| [▶ 0:59:22](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3562s) | Rodada de respostas | Humor e gostos pessoais; spoilers; mascaramento autista; "não somos atores"; tendência a validar tudo; brincadeira x seriedade; organização | Discutir autenticidade e limites no setting |
+| [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s) | Fechamento | Artigo sobre saúde mental dos psicólogos; sair do lugar de super-herói; vulnerabilidade mútua; clínica mecanizada | Síntese e mensagem final |
+| [▶ 1:23:33](https://www.youtube.com/watch?v=S8TM08kgrCE&t=5013s) | Bate-papo/Outro | Problemas com o link do formulário de presença; despedida | Encaminhamentos práticos |
 
 ## Conteúdo teórico
 
 A roda não tem bloco expositivo: a "teoria" aparece nas falas dos participantes e nas sínteses da facilitadora. Reconstruída:
 
-### A clínica adoece e promove saúde {{ts:acervo-08@0:00:01}}
-- O ditado **"casa de ferreiro, espeto de pau"** resume o paradoxo: quem cuida da saúde mental dos outros pode descuidar da própria. Tainá lembra que "geralmente a gente fala sobre a importância da terapia", mas o objetivo aqui é refletir sobre como os atendimentos **constituem quem somos** na vida pessoal {{ts:acervo-08@0:27:21}}.
+### A clínica adoece e promove saúde [▶ 0:00:01](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1s)
+- O ditado **"casa de ferreiro, espeto de pau"** resume o paradoxo: quem cuida da saúde mental dos outros pode descuidar da própria. Tainá lembra que "geralmente a gente fala sobre a importância da terapia", mas o objetivo aqui é refletir sobre como os atendimentos **constituem quem somos** na vida pessoal [▶ 0:27:21](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1641s).
 - É difícil "fechar a chamada e não pensar no caso": pacientes remexem e acrescentam aspectos da vida do terapeuta, mesmo com distanciamento.
-- Fechamento: há poucos estudos sobre a saúde mental dos psicólogos; a profissão estuda a saúde de vários grupos, mas pouco o impacto da clínica sobre si {{ts:acervo-08@1:20:16}}.
+- Fechamento: há poucos estudos sobre a saúde mental dos psicólogos; a profissão estuda a saúde de vários grupos, mas pouco o impacto da clínica sobre si [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s).
 
-### Autocobrança e o que é "dar resultado" {{ts:acervo-08@0:12:14}}
-- Diogo descreve o incômodo com sessões em que o paciente "entra com seis e sai com seis": não há nova camada do caso, parece "uma hora de nada" {{ts:acervo-08@0:13:30}}. A insegurança, diz ele, depende do contexto — num hobby não incomoda; onde há objetivo de desempenho, sim {{ts:acervo-08@0:14:05}}.
-- Tainá nomeia a **posição de saber/defesa** do terapeuta: nos consideramos aptos a ajudar, e quando falhamos na vida pessoal nos sentimos inaptos. Como articular uma vida falha "do lado de fora" com a função de analisar e interpretar? {{ts:acervo-08@0:30:25}}
-- **Tempo clínico ou evitação?** Diogo teme que o argumento correto do "tempo clínico" (não dizer algo explícito cedo demais para não gerar negação ou ruptura) vire **viés de confirmação** para esconder o receio ou a falta de repertório para intervir {{ts:acervo-08@0:31:52}}.
-- Uma participante propõe **diferenciar as razões** de não estar conseguindo: (a) falta de estudo e aprofundamento; (b) falta de esforço; (c) é cedo demais; (d) faltam recursos para uma boa intervenção; (e) você não entendeu o que está acontecendo {{ts:acervo-08@0:37:29}}. Para os terapeutas, "dar resultado" parece ser fazer uma boa intervenção, interpretação e condução — mas os fenômenos são mais complexos e dependem da disponibilidade para pensar naquele dia.
-- **Reciprocidade:** a disponibilidade e a "capacidade pensante" da sessão são recíprocas. Tainá conta dois casos difíceis (uma paciente que quase não falava — e sua abordagem depende da associação livre — e outra que recusava tudo o que ela dizia) para mostrar que o resultado não depende só do terapeuta {{ts:acervo-08@0:38:48}} {{ts:acervo-08@0:40:19}}.
+### Autocobrança e o que é "dar resultado" [▶ 0:12:14](https://www.youtube.com/watch?v=S8TM08kgrCE&t=734s)
+- Diogo descreve o incômodo com sessões em que o paciente "entra com seis e sai com seis": não há nova camada do caso, parece "uma hora de nada" [▶ 0:13:30](https://www.youtube.com/watch?v=S8TM08kgrCE&t=810s). A insegurança, diz ele, depende do contexto — num hobby não incomoda; onde há objetivo de desempenho, sim [▶ 0:14:05](https://www.youtube.com/watch?v=S8TM08kgrCE&t=845s).
+- Tainá nomeia a **posição de saber/defesa** do terapeuta: nos consideramos aptos a ajudar, e quando falhamos na vida pessoal nos sentimos inaptos. Como articular uma vida falha "do lado de fora" com a função de analisar e interpretar? [▶ 0:30:25](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1825s)
+- **Tempo clínico ou evitação?** Diogo teme que o argumento correto do "tempo clínico" (não dizer algo explícito cedo demais para não gerar negação ou ruptura) vire **viés de confirmação** para esconder o receio ou a falta de repertório para intervir [▶ 0:31:52](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1912s).
+- Uma participante propõe **diferenciar as razões** de não estar conseguindo: (a) falta de estudo e aprofundamento; (b) falta de esforço; (c) é cedo demais; (d) faltam recursos para uma boa intervenção; (e) você não entendeu o que está acontecendo [▶ 0:37:29](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2249s). Para os terapeutas, "dar resultado" parece ser fazer uma boa intervenção, interpretação e condução — mas os fenômenos são mais complexos e dependem da disponibilidade para pensar naquele dia.
+- **Reciprocidade:** a disponibilidade e a "capacidade pensante" da sessão são recíprocas. Tainá conta dois casos difíceis (uma paciente que quase não falava — e sua abordagem depende da associação livre — e outra que recusava tudo o que ela dizia) para mostrar que o resultado não depende só do terapeuta [▶ 0:38:48](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2328s) [▶ 0:40:19](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2419s).
 
-### Identificação com a queixa do paciente {{ts:acervo-08@0:33:42}}
-- Tainá esqueceu uma sessão de um paciente que falta muito e percebe que ele age como ela ("se não está a fim, simplesmente não vai") — "como um sintoma muito parecido": fica difícil abordar no paciente o que ela também faz {{ts:acervo-08@0:34:50}}. Ela conta que avisou o paciente com honestidade que tinha esquecido.
-- **Duas situações, duas respostas (Diogo, analista do comportamento):** {{ts:acervo-08@0:41:19}}
-  1. **Queixa já resolvida no terapeuta:** pode virar recurso. Na FAP (Psicoterapia Analítica Funcional), autenticidade e genuinidade são recursos clínicos que fortalecem o vínculo e tornam a própria interação terapeuta–paciente um fator decisivo; a **autorrevelação** é aceitável para validar a vivência, oferecer um modelo ou provocar reflexão pela comparação {{ts:acervo-08@0:42:35}}.
-  2. **Queixa atual e não elaborada:** faz um movimento automático de **distanciamento** — relaciona a queixa a fatores da vida da paciente que são diferentes dos seus (outra mãe, outro trabalho) para quebrar a identificação {{ts:acervo-08@0:44:45}}.
-- Uma participante descreve o caso inverso: ao explicar a uma paciente adolescente (muito autoexigente, como ela própria) como lidar com uma nota baixa, percebeu que precisava ouvir aquilo; Tainá devolve: "foi uma intervenção para ela, mas que você precisava ouvir também" {{ts:acervo-08@0:45:43}} {{ts:acervo-08@0:46:54}}.
+### Identificação com a queixa do paciente [▶ 0:33:42](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2022s)
+- Tainá esqueceu uma sessão de um paciente que falta muito e percebe que ele age como ela ("se não está a fim, simplesmente não vai") — "como um sintoma muito parecido": fica difícil abordar no paciente o que ela também faz [▶ 0:34:50](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2090s). Ela conta que avisou o paciente com honestidade que tinha esquecido.
+- **Duas situações, duas respostas (Diogo, analista do comportamento):** [▶ 0:41:19](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2479s)
+  1. **Queixa já resolvida no terapeuta:** pode virar recurso. Na FAP (Psicoterapia Analítica Funcional), autenticidade e genuinidade são recursos clínicos que fortalecem o vínculo e tornam a própria interação terapeuta–paciente um fator decisivo; a **autorrevelação** é aceitável para validar a vivência, oferecer um modelo ou provocar reflexão pela comparação [▶ 0:42:35](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2555s).
+  2. **Queixa atual e não elaborada:** faz um movimento automático de **distanciamento** — relaciona a queixa a fatores da vida da paciente que são diferentes dos seus (outra mãe, outro trabalho) para quebrar a identificação [▶ 0:44:45](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2685s).
+- Uma participante descreve o caso inverso: ao explicar a uma paciente adolescente (muito autoexigente, como ela própria) como lidar com uma nota baixa, percebeu que precisava ouvir aquilo; Tainá devolve: "foi uma intervenção para ela, mas que você precisava ouvir também" [▶ 0:45:43](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2743s) [▶ 0:46:54](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2814s).
 
-### Contratransferência, encaminhamento e análise pessoal {{ts:acervo-08@0:47:31}}
-- Uma participante de orientação psicanalítica antes achava que temas iguais aos do terapeuta exigiam **encaminhamento** (ideia comum na faculdade). Hoje distingue: alguns temas tocam feridas profundas demais; outros são muito comuns (nota baixa, medo da morte dos pais, autoestima) e podem ser atendidos com cuidado {{ts:acervo-08@0:48:31}}.
-- **"Não existe contratransferência" (Lacan):** não que ela não exista, mas **para o paciente pouco importa** — é assunto do analista, que precisa cuidar dela para que não chegue ao setting {{ts:acervo-08@0:49:59}}.
-- Quando a questão é muito parecida, tendemos a escutar "pelas lentes da nossa angústia"; às vezes estamos "tão soterrados nos nossos problemas" que não percebemos que eles **entopem a escuta** — por isso análise pessoal e supervisão são indispensáveis {{ts:acervo-08@0:51:16}}.
-- Risco concreto: **evitar inconscientemente** o tema com o paciente porque não o elaboramos em nós — impedindo que ele vá aonde precisa ou tenha um insight {{ts:acervo-08@0:53:11}}.
-- Diogo acrescenta (retomando um grupo anterior sobre uso de sentimentos na clínica): o terapeuta incomodado pode **direcionar o paciente a parar de falar** de algo — o que distorce o setting para "o que o terapeuta quer trabalhar". A autorrevelação precisa ser guiada pela **análise clínica, nunca pelo sentimento do terapeuta**; ela muda a potência da intervenção (o mesmo efeito poderia vir de uma pergunta, mas a experiência própria altera o grau de reflexão e de relação) {{ts:acervo-08@0:54:20}} {{ts:acervo-08@0:55:30}}.
-- Tainá: "a gente vai se curando de coisas sem perceber" — ouvir como o paciente lida com questões parecidas também ensina; ela descreve ter saído de um atendimento "outra pessoa" {{ts:acervo-08@0:56:46}} {{ts:acervo-08@0:57:29}}.
+### Contratransferência, encaminhamento e análise pessoal [▶ 0:47:31](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2851s)
+- Uma participante de orientação psicanalítica antes achava que temas iguais aos do terapeuta exigiam **encaminhamento** (ideia comum na faculdade). Hoje distingue: alguns temas tocam feridas profundas demais; outros são muito comuns (nota baixa, medo da morte dos pais, autoestima) e podem ser atendidos com cuidado [▶ 0:48:31](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2911s).
+- **"Não existe contratransferência" (Lacan):** não que ela não exista, mas **para o paciente pouco importa** — é assunto do analista, que precisa cuidar dela para que não chegue ao setting [▶ 0:49:59](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2999s).
+- Quando a questão é muito parecida, tendemos a escutar "pelas lentes da nossa angústia"; às vezes estamos "tão soterrados nos nossos problemas" que não percebemos que eles **entopem a escuta** — por isso análise pessoal e supervisão são indispensáveis [▶ 0:51:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3076s).
+- Risco concreto: **evitar inconscientemente** o tema com o paciente porque não o elaboramos em nós — impedindo que ele vá aonde precisa ou tenha um insight [▶ 0:53:11](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3191s).
+- Diogo acrescenta (retomando um grupo anterior sobre uso de sentimentos na clínica): o terapeuta incomodado pode **direcionar o paciente a parar de falar** de algo — o que distorce o setting para "o que o terapeuta quer trabalhar". A autorrevelação precisa ser guiada pela **análise clínica, nunca pelo sentimento do terapeuta**; ela muda a potência da intervenção (o mesmo efeito poderia vir de uma pergunta, mas a experiência própria altera o grau de reflexão e de relação) [▶ 0:54:20](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3260s) [▶ 0:55:30](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3330s).
+- Tainá: "a gente vai se curando de coisas sem perceber" — ouvir como o paciente lida com questões parecidas também ensina; ela descreve ter saído de um atendimento "outra pessoa" [▶ 0:56:46](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3406s) [▶ 0:57:29](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3449s).
 
-### A pessoa do terapeuta no setting {{ts:acervo-08@0:58:37}}
-- **Humor e gostos pessoais:** uma participante contém o humor e as referências de memes; só usa algumas com uma paciente de vínculo antigo e idade próxima; não expõe gostos — deixa a paciente explicar séries e músicas "como se eu fosse leiga" {{ts:acervo-08@0:59:22}} {{ts:acervo-08@1:00:20}}. Tainá: quando a paciente perguntou se ela tinha visto o final de uma série, disse "pode continuar falando, não se preocupa com spoiler — a terapia é sua" {{ts:acervo-08@1:01:33}}.
-- **Mascaramento autista:** um participante autista, que na vida pessoal abandonou o mascaramento (e diz que a psicologia historicamente o incentivou, com prejuízo para pessoas autistas), relata o dilema no setting: expressões faciais e gestos podem ser lidos como antipatia ou inadequação (ex.: sorrir diante de um relato pesado) — "o foco ali não sou eu", mas isso "não significa abrir mão de mim" {{ts:acervo-08@1:02:43}} {{ts:acervo-08@1:05:06}}.
-- **"Nós não somos atores"** (frase de um professor de psicanálise da Allos, trazida por uma participante): precisamos estar como somos. Sugestão: talvez incluir no **contrato terapêutico** que o terapeuta tem gestos e expressões próprios, para não passar a sessão se vigiando — quem se controla o tempo todo tira atenção do paciente {{ts:acervo-08@1:11:00}} {{ts:acervo-08@1:13:49}}. A figura do "psicólogo perfeito com a saúde mental intacta" precisa ser desmistificada.
-- **As características do terapeuta sempre constituem o setting** (Diogo): no nível fantasioso e no concreto, elas fazem parte da figura do terapeuta e do motivo para seguir em terapia; pacientes pedem terapeutas de certa abordagem, gênero, raça — e em breve talvez terapeutas autistas {{ts:acervo-08@1:15:45}}.
-- **Validar tudo** (Diogo): na análise do comportamento, "se o comportamento existe, ele tem uma função"; mas validar tudo clinicamente atrapalha — às vezes é preciso refutar, levar à reflexão ou validar {{ts:acervo-08@1:16:53}}.
-- **Brincadeira x seriedade** (Tainá): ao tentar tanto não ser brincalhona, ficou "séria demais"; busca equilíbrio. Sobre organização: com o paciente faltoso, reconhece que como profissional precisa de mais comprometimento {{ts:acervo-08@1:17:56}}.
+### A pessoa do terapeuta no setting [▶ 0:58:37](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3517s)
+- **Humor e gostos pessoais:** uma participante contém o humor e as referências de memes; só usa algumas com uma paciente de vínculo antigo e idade próxima; não expõe gostos — deixa a paciente explicar séries e músicas "como se eu fosse leiga" [▶ 0:59:22](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3562s) [▶ 1:00:20](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3620s). Tainá: quando a paciente perguntou se ela tinha visto o final de uma série, disse "pode continuar falando, não se preocupa com spoiler — a terapia é sua" [▶ 1:01:33](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3693s).
+- **Mascaramento autista:** um participante autista, que na vida pessoal abandonou o mascaramento (e diz que a psicologia historicamente o incentivou, com prejuízo para pessoas autistas), relata o dilema no setting: expressões faciais e gestos podem ser lidos como antipatia ou inadequação (ex.: sorrir diante de um relato pesado) — "o foco ali não sou eu", mas isso "não significa abrir mão de mim" [▶ 1:02:43](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3763s) [▶ 1:05:06](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3906s).
+- **"Nós não somos atores"** (frase de um professor de psicanálise da Allos, trazida por uma participante): precisamos estar como somos. Sugestão: talvez incluir no **contrato terapêutico** que o terapeuta tem gestos e expressões próprios, para não passar a sessão se vigiando — quem se controla o tempo todo tira atenção do paciente [▶ 1:11:00](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4260s) [▶ 1:13:49](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4429s). A figura do "psicólogo perfeito com a saúde mental intacta" precisa ser desmistificada.
+- **As características do terapeuta sempre constituem o setting** (Diogo): no nível fantasioso e no concreto, elas fazem parte da figura do terapeuta e do motivo para seguir em terapia; pacientes pedem terapeutas de certa abordagem, gênero, raça — e em breve talvez terapeutas autistas [▶ 1:15:45](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4545s).
+- **Validar tudo** (Diogo): na análise do comportamento, "se o comportamento existe, ele tem uma função"; mas validar tudo clinicamente atrapalha — às vezes é preciso refutar, levar à reflexão ou validar [▶ 1:16:53](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4613s).
+- **Brincadeira x seriedade** (Tainá): ao tentar tanto não ser brincalhona, ficou "séria demais"; busca equilíbrio. Sobre organização: com o paciente faltoso, reconhece que como profissional precisa de mais comprometimento [▶ 1:17:56](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4676s).
 
-### Fechamento: sair do lugar de super-herói {{ts:acervo-08@1:20:16}}
+### Fechamento: sair do lugar de super-herói [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s)
 - "Faça o que eu digo, mas não faça o que eu faço": pedimos aos pacientes que falem de sentimentos sem reconhecer a nossa vulnerabilidade.
-- Se o terapeuta se considera **ausente de sentimentos**, a clínica fica **mecanizada**. Paciente e terapeuta estão vulneráveis: o terapeuta se abre para ouvir e para interferir numa história {{ts:acervo-08@1:21:43}}.
+- Se o terapeuta se considera **ausente de sentimentos**, a clínica fica **mecanizada**. Paciente e terapeuta estão vulneráveis: o terapeuta se abre para ouvir e para interferir numa história [▶ 1:21:43](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4903s).
 - Diferente do erro médico, cuja consequência aparece na hora, o psicólogo pode **nunca saber** que uma intervenção incorreta prejudicou — pressão diária.
-- Conclusão: estudar e dar o melhor, mas **permitir-se ser acessado** pela clínica; não prescrever o que não se consegue aplicar; transformar-se junto com o paciente — o que melhora a qualidade dos atendimentos {{ts:acervo-08@1:22:47}}.
+- Conclusão: estudar e dar o melhor, mas **permitir-se ser acessado** pela clínica; não prescrever o que não se consegue aplicar; transformar-se junto com o paciente — o que melhora a qualidade dos atendimentos [▶ 1:22:47](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4967s).
 
 ## Dinâmica(s)
 
@@ -106,44 +106,44 @@ A roda não tem bloco expositivo: a "teoria" aparece nas falas dos participantes
 - **Configuração:** grupo todo, online (chamada de vídeo), grupo reduzido (cerca de 5–6 pessoas ativas); mistura de terapeutas em atendimento e estudantes que ainda não atendem; câmeras abertas; fala por voz ou chat.
 - **Tempo aproximado:** ~80 min (≈25–30 min por pergunta + ≈4 min de fechamento).
 - **Consigna (o que a facilitadora pede):**
-  1. "Abram a câmera e falem da experiência de vocês: como é para vocês atender pacientes toda semana, ouvir problemas?" {{ts:acervo-08@0:02:52}}
-  2. "Como vocês lidam quando o sintoma ou o pensamento do paciente de vocês é muito próximo do que vocês têm?" {{ts:acervo-08@0:34:50}}
-  3. "Existe alguma característica pessoal de vocês que vocês sentem que precisam reprimir ou lidar para ser um bom psicólogo? Por exemplo: 'sou muito palpiteira, então no atendimento tenho que lutar contra isso'. Ou usar de outra forma, para que seja benéfico ao tratamento?" {{ts:acervo-08@0:58:37}}
+  1. "Abram a câmera e falem da experiência de vocês: como é para vocês atender pacientes toda semana, ouvir problemas?" [▶ 0:02:52](https://www.youtube.com/watch?v=S8TM08kgrCE&t=172s)
+  2. "Como vocês lidam quando o sintoma ou o pensamento do paciente de vocês é muito próximo do que vocês têm?" [▶ 0:34:50](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2090s)
+  3. "Existe alguma característica pessoal de vocês que vocês sentem que precisam reprimir ou lidar para ser um bom psicólogo? Por exemplo: 'sou muito palpiteira, então no atendimento tenho que lutar contra isso'. Ou usar de outra forma, para que seja benéfico ao tratamento?" [▶ 0:58:37](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3517s)
 - **Passo a passo:**
   1. Apresentar o ditado e o foco do dia: "hoje o foco é a gente, não o paciente".
   2. Lançar a pergunta 1 e chamar pelo nome quem levantou a mão ou quem ainda não falou.
-  3. Fazer perguntas de aprofundamento individuais (ex.: "você se sente culpado quando o caso fica estável?"; "essa insegurança se arrasta para a sua vida pessoal?") {{ts:acervo-08@0:12:14}} {{ts:acervo-08@0:13:40}}.
-  4. Incluir quem não atende: "e como você acha que seria para você?" {{ts:acervo-08@0:14:40}}
-  5. Sintetizar o fio comum e ler/perguntar a partir do chat {{ts:acervo-08@0:27:21}} {{ts:acervo-08@0:28:34}}.
-  6. Fazer uma autorrevelação breve e transformá-la na pergunta 2 {{ts:acervo-08@0:33:42}}.
-  7. Anunciar a pergunta 3 como a última, "para o fechamento", com um exemplo concreto {{ts:acervo-08@0:58:37}}.
-  8. Fechar com uma síntese apoiada em uma referência (artigo sobre saúde mental dos psicólogos) {{ts:acervo-08@1:20:16}}.
-- **Como a facilitadora dá feedback / critérios de qualidade:** não há correção técnica. Tainá reformula para checar o entendimento ("você está dizendo que não intervém por respeitar o tempo clínico, mas isso te gera angústia") {{ts:acervo-08@0:33:24}}, devolve sentido às falas ("foi uma intervenção para ela, mas que você precisava ouvir também") {{ts:acervo-08@0:46:54}} e usa humor ("isso é totalmente neurótico, cara") {{ts:acervo-08@0:33:42}}. Os critérios técnicos (função da intervenção, contratransferência, supervisão) vêm dos próprios pares.
-- **O que aconteceu na prática:** a pergunta 1 gerou relatos sobre o peso dos primeiros pacientes, as sessões "sem nova camada" e o medo de errar; a pergunta 2 produziu o trecho mais técnico (FAP, distanciamento, Lacan e contratransferência, função da autorrevelação); a pergunta 3 trouxe humor, gostos pessoais, mascaramento autista, validação excessiva e organização. {{ts:acervo-08@0:03:29}} {{ts:acervo-08@0:41:19}} {{ts:acervo-08@0:59:22}}
+  3. Fazer perguntas de aprofundamento individuais (ex.: "você se sente culpado quando o caso fica estável?"; "essa insegurança se arrasta para a sua vida pessoal?") [▶ 0:12:14](https://www.youtube.com/watch?v=S8TM08kgrCE&t=734s) [▶ 0:13:40](https://www.youtube.com/watch?v=S8TM08kgrCE&t=820s).
+  4. Incluir quem não atende: "e como você acha que seria para você?" [▶ 0:14:40](https://www.youtube.com/watch?v=S8TM08kgrCE&t=880s)
+  5. Sintetizar o fio comum e ler/perguntar a partir do chat [▶ 0:27:21](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1641s) [▶ 0:28:34](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1714s).
+  6. Fazer uma autorrevelação breve e transformá-la na pergunta 2 [▶ 0:33:42](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2022s).
+  7. Anunciar a pergunta 3 como a última, "para o fechamento", com um exemplo concreto [▶ 0:58:37](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3517s).
+  8. Fechar com uma síntese apoiada em uma referência (artigo sobre saúde mental dos psicólogos) [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s).
+- **Como a facilitadora dá feedback / critérios de qualidade:** não há correção técnica. Tainá reformula para checar o entendimento ("você está dizendo que não intervém por respeitar o tempo clínico, mas isso te gera angústia") [▶ 0:33:24](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2004s), devolve sentido às falas ("foi uma intervenção para ela, mas que você precisava ouvir também") [▶ 0:46:54](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2814s) e usa humor ("isso é totalmente neurótico, cara") [▶ 0:33:42](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2022s). Os critérios técnicos (função da intervenção, contratransferência, supervisão) vêm dos próprios pares.
+- **O que aconteceu na prática:** a pergunta 1 gerou relatos sobre o peso dos primeiros pacientes, as sessões "sem nova camada" e o medo de errar; a pergunta 2 produziu o trecho mais técnico (FAP, distanciamento, Lacan e contratransferência, função da autorrevelação); a pergunta 3 trouxe humor, gostos pessoais, mascaramento autista, validação excessiva e organização. [▶ 0:03:29](https://www.youtube.com/watch?v=S8TM08kgrCE&t=209s) [▶ 0:41:19](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2479s) [▶ 0:59:22](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3562s)
 - **Variações e armadilhas:**
-  - *Variação:* um participante conta que sugeriu a Diogo uma dinâmica sobre o **medo de errar** ("você errou, o que você faz com esse erro?") — bom desdobramento para uma próxima roda {{ts:acervo-08@0:24:04}}.
-  - *Variação:* pedir que cada um escreva no chat antes de falar (uma participante usa o chat para não esquecer o que ia dizer) {{ts:acervo-08@0:41:19}}.
+  - *Variação:* um participante conta que sugeriu a Diogo uma dinâmica sobre o **medo de errar** ("você errou, o que você faz com esse erro?") — bom desdobramento para uma próxima roda [▶ 0:24:04](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1444s).
+  - *Variação:* pedir que cada um escreva no chat antes de falar (uma participante usa o chat para não esquecer o que ia dizer) [▶ 0:41:19](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2479s).
   - *Armadilha:* respostas longas e autobiográficas que se afastam da pergunta (um relato ocupou cerca de 13 min) — combinar um tempo por fala.
   - *Armadilha:* a roda pode virar espaço terapêutico; participantes expõem questões de saúde, identidade e vida pessoal — combinar sigilo e lembrar que não é terapia de grupo.
   - *Armadilha:* relatos de casos reais — pedir que sejam anonimizados.
 
 ## Dicas clínicas
 
-- **Distinga por que você "não está conseguindo" na sessão** — *Por quê:* falta de estudo, falta de esforço, momento cedo demais, falta de recursos ou não ter entendido o caso pedem respostas diferentes; sem distinguir, tudo vira autocobrança. *Quando:* sessões que "não andam". {{ts:acervo-08@0:37:29}}
-- **Desconfie do "não é o tempo clínico" quando ele alivia a sua angústia** — *Por quê:* o argumento é correto, mas pode virar viés de confirmação para evitar uma intervenção que você teme ou não sabe fazer. *Quando:* ao adiar sistematicamente um ponto importante. {{ts:acervo-08@0:31:52}}
-- **Questione falas que parecem normais** — *Por quê:* frases como "estou evitando desgaste" podem esconder um padrão (evitar tudo o que não tem solução); há meio-termos entre resolver e não fazer nada. *Quando:* sessões de "manutenção", sem queixa aparente. {{ts:acervo-08@0:10:08}}
-- **Quando a queixa do paciente for a sua (e ainda estiver aberta), crie distância ativamente** — *Por quê:* relacionar a queixa a fatores da vida do paciente que diferem dos seus quebra a identificação e devolve a escuta ao paciente. *Quando:* identificação com angústias atuais do terapeuta. {{ts:acervo-08@0:44:45}}
-- **Use a autorrevelação só quando ela tiver função clínica** — *Por quê:* ela pode validar, oferecer modelo ou provocar reflexão (FAP), mas nunca deve servir para aliviar a angústia do terapeuta; pergunte-se qual é a função da intervenção. *Quando:* vivências semelhantes já elaboradas pelo terapeuta. {{ts:acervo-08@0:42:35}} {{ts:acervo-08@0:55:30}}
-- **Não desvie o paciente do que incomoda você** — *Por quê:* direcionar o paciente a parar de falar de algo transforma a terapia no que o terapeuta quer trabalhar e pode impedir um insight. *Quando:* temas que mobilizam o terapeuta. {{ts:acervo-08@0:53:11}} {{ts:acervo-08@0:54:20}}
-- **Leve à supervisão e à análise pessoal os temas que "entopem" sua escuta** — *Por quê:* a contratransferência é invisível para quem está soterrado nela; sozinho, você não percebe. *Quando:* temas iguais aos seus, especialmente os não elaborados. {{ts:acervo-08@0:51:16}}
-- **Não encaminhe automaticamente por semelhança de tema** — *Por quê:* temas muito comuns (autoestima, medo da perda dos pais, autoexigência) podem ser atendidos com cuidado; só feridas muito profundas pedem encaminhamento. *Quando:* dúvida sobre atender um caso parecido com o seu. {{ts:acervo-08@0:48:31}}
-- **Se errar com o paciente (ex.: esquecer a sessão), diga a verdade** — *Por quê:* a honestidade preserva a relação; e o próprio erro pode revelar uma identificação a ser examinada. *Quando:* falhas de agenda e esquecimentos. {{ts:acervo-08@0:33:42}}
-- **Deixe o paciente explicar as próprias referências** — *Por quê:* não expor gostos pessoais mantém o foco nele; se perguntado, responda com naturalidade. *Quando:* séries, músicas, cultura pop na sessão. {{ts:acervo-08@1:00:20}}
-- **Reserve humor e referências pessoais para vínculos já estabelecidos** — *Por quê:* com vínculo sólido, uma referência compartilhada pode ajudar; sem ele, pode desviar ou soar inadequada. *Quando:* pacientes de longa data. {{ts:acervo-08@1:00:20}}
-- **Considere explicitar no contrato terapêutico traços seus que podem ser mal lidos** — *Por quê:* evita que você passe a sessão se vigiando (gestos, expressões) e deixa claro que há outra pessoa do outro lado. *Quando:* terapeutas com características marcantes (ex.: neurodivergência, gestualidade intensa). {{ts:acervo-08@1:13:49}}
-- **Não valide tudo** — *Por quê:* todo comportamento tem uma função, mas validar sempre atrapalha; alterne entre validar, refutar e levar à reflexão. *Quando:* terapeutas com tendência acolhedora demais. {{ts:acervo-08@1:16:53}}
-- **Deixe o paciente falar à vontade, mesmo que "dê spoiler"** — *Por quê:* o espaço é dele; o conforto do terapeuta não deve limitar o que ele traz. *Quando:* quando o paciente se preocupa com o terapeuta. {{ts:acervo-08@1:01:33}}
-- **Permita-se ser atravessado pela clínica e use isso no seu aprimoramento** — *Por quê:* negar os próprios sentimentos mecaniza a clínica. *Quando:* sempre; especialmente em fases de autocobrança alta. {{ts:acervo-08@1:22:47}}
+- **Distinga por que você "não está conseguindo" na sessão** — *Por quê:* falta de estudo, falta de esforço, momento cedo demais, falta de recursos ou não ter entendido o caso pedem respostas diferentes; sem distinguir, tudo vira autocobrança. *Quando:* sessões que "não andam". [▶ 0:37:29](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2249s)
+- **Desconfie do "não é o tempo clínico" quando ele alivia a sua angústia** — *Por quê:* o argumento é correto, mas pode virar viés de confirmação para evitar uma intervenção que você teme ou não sabe fazer. *Quando:* ao adiar sistematicamente um ponto importante. [▶ 0:31:52](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1912s)
+- **Questione falas que parecem normais** — *Por quê:* frases como "estou evitando desgaste" podem esconder um padrão (evitar tudo o que não tem solução); há meio-termos entre resolver e não fazer nada. *Quando:* sessões de "manutenção", sem queixa aparente. [▶ 0:10:08](https://www.youtube.com/watch?v=S8TM08kgrCE&t=608s)
+- **Quando a queixa do paciente for a sua (e ainda estiver aberta), crie distância ativamente** — *Por quê:* relacionar a queixa a fatores da vida do paciente que diferem dos seus quebra a identificação e devolve a escuta ao paciente. *Quando:* identificação com angústias atuais do terapeuta. [▶ 0:44:45](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2685s)
+- **Use a autorrevelação só quando ela tiver função clínica** — *Por quê:* ela pode validar, oferecer modelo ou provocar reflexão (FAP), mas nunca deve servir para aliviar a angústia do terapeuta; pergunte-se qual é a função da intervenção. *Quando:* vivências semelhantes já elaboradas pelo terapeuta. [▶ 0:42:35](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2555s) [▶ 0:55:30](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3330s)
+- **Não desvie o paciente do que incomoda você** — *Por quê:* direcionar o paciente a parar de falar de algo transforma a terapia no que o terapeuta quer trabalhar e pode impedir um insight. *Quando:* temas que mobilizam o terapeuta. [▶ 0:53:11](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3191s) [▶ 0:54:20](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3260s)
+- **Leve à supervisão e à análise pessoal os temas que "entopem" sua escuta** — *Por quê:* a contratransferência é invisível para quem está soterrado nela; sozinho, você não percebe. *Quando:* temas iguais aos seus, especialmente os não elaborados. [▶ 0:51:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3076s)
+- **Não encaminhe automaticamente por semelhança de tema** — *Por quê:* temas muito comuns (autoestima, medo da perda dos pais, autoexigência) podem ser atendidos com cuidado; só feridas muito profundas pedem encaminhamento. *Quando:* dúvida sobre atender um caso parecido com o seu. [▶ 0:48:31](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2911s)
+- **Se errar com o paciente (ex.: esquecer a sessão), diga a verdade** — *Por quê:* a honestidade preserva a relação; e o próprio erro pode revelar uma identificação a ser examinada. *Quando:* falhas de agenda e esquecimentos. [▶ 0:33:42](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2022s)
+- **Deixe o paciente explicar as próprias referências** — *Por quê:* não expor gostos pessoais mantém o foco nele; se perguntado, responda com naturalidade. *Quando:* séries, músicas, cultura pop na sessão. [▶ 1:00:20](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3620s)
+- **Reserve humor e referências pessoais para vínculos já estabelecidos** — *Por quê:* com vínculo sólido, uma referência compartilhada pode ajudar; sem ele, pode desviar ou soar inadequada. *Quando:* pacientes de longa data. [▶ 1:00:20](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3620s)
+- **Considere explicitar no contrato terapêutico traços seus que podem ser mal lidos** — *Por quê:* evita que você passe a sessão se vigiando (gestos, expressões) e deixa claro que há outra pessoa do outro lado. *Quando:* terapeutas com características marcantes (ex.: neurodivergência, gestualidade intensa). [▶ 1:13:49](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4429s)
+- **Não valide tudo** — *Por quê:* todo comportamento tem uma função, mas validar sempre atrapalha; alterne entre validar, refutar e levar à reflexão. *Quando:* terapeutas com tendência acolhedora demais. [▶ 1:16:53](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4613s)
+- **Deixe o paciente falar à vontade, mesmo que "dê spoiler"** — *Por quê:* o espaço é dele; o conforto do terapeuta não deve limitar o que ele traz. *Quando:* quando o paciente se preocupa com o terapeuta. [▶ 1:01:33](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3693s)
+- **Permita-se ser atravessado pela clínica e use isso no seu aprimoramento** — *Por quê:* negar os próprios sentimentos mecaniza a clínica. *Quando:* sempre; especialmente em fases de autocobrança alta. [▶ 1:22:47](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4967s)
 
 ## Teses e posicionamentos
 
@@ -151,70 +151,70 @@ A roda não tem bloco expositivo: a "teoria" aparece nas falas dos participantes
   - *Argumento:* os atendimentos remexem a vida pessoal; há poucos estudos sobre a saúde mental dos psicólogos.
   - *Contra quem / contraponto:* a imagem do psicólogo que "aguenta ouvir problema" sem ser afetado.
   - *Implicação prática:* criar espaços formativos que foquem o terapeuta.
-  - *Quem:* Tainá. {{ts:acervo-08@0:00:01}} {{ts:acervo-08@1:20:16}}
+  - *Quem:* Tainá. [▶ 0:00:01](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1s) [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s)
 - **Tese:** Quem se considera sem sentimentos no setting produz uma clínica mecanizada.
   - *Argumento:* terapeuta e paciente estão vulneráveis; o terapeuta se abre para ouvir e interferir.
   - *Contra quem / contraponto:* o ideal de neutralidade "super-heroica".
   - *Implicação prática:* reconhecer e trabalhar a própria vulnerabilidade.
-  - *Quem:* Tainá. {{ts:acervo-08@1:21:43}}
+  - *Quem:* Tainá. [▶ 1:21:43](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4903s)
 - **Tese:** O erro do psicólogo pode nunca ser conhecido — por isso a pressão é constante.
   - *Argumento:* diferente do erro médico, cuja consequência aparece logo.
   - *Contra quem / contraponto:* —
   - *Implicação prática:* supervisão e cuidado contínuos em vez de autocobrança paralisante.
-  - *Quem:* Tainá. {{ts:acervo-08@1:21:43}}
+  - *Quem:* Tainá. [▶ 1:21:43](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4903s)
 - **Tese:** A contratransferência é assunto do analista e não deve chegar ao setting.
   - *Argumento:* leitura de "não existe contratransferência" (Lacan): para o paciente, pouco importa.
   - *Contra quem / contraponto:* usar o próprio sentimento como guia da intervenção.
   - *Implicação prática:* cuidar dela em análise pessoal e supervisão.
-  - *Quem:* uma participante psicanalista, endossada por Diogo. {{ts:acervo-08@0:49:59}} {{ts:acervo-08@0:55:30}}
+  - *Quem:* uma participante psicanalista, endossada por Diogo. [▶ 0:49:59](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2999s) [▶ 0:55:30](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3330s)
 - **Tese:** A autorrevelação é legítima como recurso clínico, não como alívio.
   - *Argumento:* na FAP, autenticidade e genuinidade fortalecem o vínculo e tornam a relação um fator decisivo; mas a exposição deve vir da análise clínica.
   - *Contra quem / contraponto:* a regra de nunca falar de si; e o seu oposto, falar de si "porque eu quero".
   - *Implicação prática:* avaliar a função de cada autorrevelação.
-  - *Quem:* Diogo. {{ts:acervo-08@0:42:35}} {{ts:acervo-08@0:55:30}}
+  - *Quem:* Diogo. [▶ 0:42:35](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2555s) [▶ 0:55:30](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3330s)
 - **Tese:** A disponibilidade para pensar na sessão é recíproca.
   - *Argumento:* sem a participação do paciente (ex.: sem associação livre), o terapeuta tem pouco com que trabalhar.
   - *Contra quem / contraponto:* a autocobrança que atribui todo resultado ao terapeuta.
   - *Implicação prática:* dividir a responsabilidade pelo processo.
-  - *Quem:* Tainá. {{ts:acervo-08@0:40:19}}
+  - *Quem:* Tainá. [▶ 0:40:19](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2419s)
 - **Tese:** Características pessoais do terapeuta sempre constituem o setting.
   - *Argumento:* fazem parte da figura do terapeuta, da fantasia do paciente e da escolha de terapeutas por perfil.
   - *Contra quem / contraponto:* a ideia de um terapeuta "neutro" e intercambiável.
   - *Implicação prática:* trabalhar os próprios traços em vez de negá-los.
-  - *Quem:* Diogo. {{ts:acervo-08@1:15:45}}
+  - *Quem:* Diogo. [▶ 1:15:45](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4545s)
 - **Tese:** "Nós não somos atores."
   - *Argumento:* o terapeuta precisa estar como é; a figura do psicólogo perfeito, com saúde mental intacta, é um mito capacitista.
   - *Contra quem / contraponto:* o mascaramento como exigência profissional.
   - *Implicação prática:* explicitar traços no contrato em vez de se vigiar.
-  - *Quem:* uma participante, citando um professor de psicanálise da Allos. {{ts:acervo-08@1:11:00}}
+  - *Quem:* uma participante, citando um professor de psicanálise da Allos. [▶ 1:11:00](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4260s)
 - **Tese:** A cura é um acontecimento do caminho, não um objetivo — e transforma também o terapeuta.
   - *Argumento:* a transformação vem do paciente e do terapeuta.
   - *Contra quem / contraponto:* a visão da terapia como produção direta de resultados.
   - *Implicação prática:* reduzir a pressão por "resultado" a cada sessão.
-  - *Quem:* uma participante psicanalista. {{ts:acervo-08@0:08:00}}
+  - *Quem:* uma participante psicanalista. [▶ 0:08:00](https://www.youtube.com/watch?v=S8TM08kgrCE&t=480s)
 - **Tese:** Semelhança de tema não obriga a encaminhar.
   - *Argumento:* temas muito comuns podem ser atendidos com cuidado e supervisão.
   - *Contra quem / contraponto:* regra difundida na faculdade.
   - *Implicação prática:* encaminhar só quando a ferida for profunda demais.
-  - *Quem:* uma participante. {{ts:acervo-08@0:48:31}}
+  - *Quem:* uma participante. [▶ 0:48:31](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2911s)
 
 ## Como o facilitador conduz
 
-- **Abre com transparência e improviso assumido** — "um exercício que não está em lista nenhuma, só na minha cabeça"; adapta a proposta ao grupo reduzido {{ts:acervo-08@0:00:01}}.
-- **Ancora o tema num ditado popular** — "casa de ferreiro, espeto de pau" dá nome e imagem à dinâmica {{ts:acervo-08@0:00:01}}.
-- **Começa por pergunta ampla e experiencial** — "como é para vocês atender?", com câmera aberta {{ts:acervo-08@0:02:52}}.
-- **Distribui a palavra pelo nome** — "Vai, [nome]"; "Obrigada, amiga. Diogo."; "Pode falar..." — inclusive seguindo a ordem de mãos levantadas {{ts:acervo-08@0:03:22}} {{ts:acervo-08@0:08:00}}.
-- **Aprofunda com perguntas individuais** — culpa quando o caso fica estável, insegurança fora do consultório, natureza dos "retornos positivos" {{ts:acervo-08@0:12:14}} {{ts:acervo-08@0:13:40}} {{ts:acervo-08@0:28:34}}.
-- **Inclui quem ainda não atende** — transforma "nunca atendi" em "como você acha que seria?" {{ts:acervo-08@0:14:40}}.
-- **Sintetiza o fio comum e reafirma o foco** — "vem essa pressão e essa autocobrança [...] a proposta de hoje é focar na gente" {{ts:acervo-08@0:27:21}}.
-- **Integra o chat** — lê em voz alta o comentário de uma participante e a convida a abrir o microfone ou digitar {{ts:acervo-08@0:28:34}}; combina regras de turno ("manda no chat ou levanta a mão que a gente para de falar") {{ts:acervo-08@0:41:19}}.
-- **Reformula para checar o entendimento** {{ts:acervo-08@0:33:24}}.
-- **Usa humor para baixar a tensão** — "isso é totalmente neurótico, cara"; administra interrupções (porta, café) com leveza {{ts:acervo-08@0:33:42}} {{ts:acervo-08@0:48:31}}.
-- **Faz da própria autorrevelação o disparador** — conta que esqueceu um paciente parecido com ela e transforma isso na pergunta 2 {{ts:acervo-08@0:33:42}}.
-- **Devolve sentido às falas** — "foi uma intervenção para ela, mas que você precisava ouvir também" {{ts:acervo-08@0:46:54}}.
-- **Anuncia a última pergunta como preparação do fechamento e dá exemplo** ("sou muito palpiteira") {{ts:acervo-08@0:58:37}}.
-- **Participa como par** — responde às próprias perguntas (spoiler, seriedade, organização), o que modela a abertura esperada {{ts:acervo-08@1:01:33}} {{ts:acervo-08@1:17:56}}.
-- **Fecha com referência e mensagem** — artigo sobre saúde mental dos psicólogos, "tirar a gente da posição de super-heróis" {{ts:acervo-08@1:20:16}}.
+- **Abre com transparência e improviso assumido** — "um exercício que não está em lista nenhuma, só na minha cabeça"; adapta a proposta ao grupo reduzido [▶ 0:00:01](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1s).
+- **Ancora o tema num ditado popular** — "casa de ferreiro, espeto de pau" dá nome e imagem à dinâmica [▶ 0:00:01](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1s).
+- **Começa por pergunta ampla e experiencial** — "como é para vocês atender?", com câmera aberta [▶ 0:02:52](https://www.youtube.com/watch?v=S8TM08kgrCE&t=172s).
+- **Distribui a palavra pelo nome** — "Vai, [nome]"; "Obrigada, amiga. Diogo."; "Pode falar..." — inclusive seguindo a ordem de mãos levantadas [▶ 0:03:22](https://www.youtube.com/watch?v=S8TM08kgrCE&t=202s) [▶ 0:08:00](https://www.youtube.com/watch?v=S8TM08kgrCE&t=480s).
+- **Aprofunda com perguntas individuais** — culpa quando o caso fica estável, insegurança fora do consultório, natureza dos "retornos positivos" [▶ 0:12:14](https://www.youtube.com/watch?v=S8TM08kgrCE&t=734s) [▶ 0:13:40](https://www.youtube.com/watch?v=S8TM08kgrCE&t=820s) [▶ 0:28:34](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1714s).
+- **Inclui quem ainda não atende** — transforma "nunca atendi" em "como você acha que seria?" [▶ 0:14:40](https://www.youtube.com/watch?v=S8TM08kgrCE&t=880s).
+- **Sintetiza o fio comum e reafirma o foco** — "vem essa pressão e essa autocobrança [...] a proposta de hoje é focar na gente" [▶ 0:27:21](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1641s).
+- **Integra o chat** — lê em voz alta o comentário de uma participante e a convida a abrir o microfone ou digitar [▶ 0:28:34](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1714s); combina regras de turno ("manda no chat ou levanta a mão que a gente para de falar") [▶ 0:41:19](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2479s).
+- **Reformula para checar o entendimento** [▶ 0:33:24](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2004s).
+- **Usa humor para baixar a tensão** — "isso é totalmente neurótico, cara"; administra interrupções (porta, café) com leveza [▶ 0:33:42](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2022s) [▶ 0:48:31](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2911s).
+- **Faz da própria autorrevelação o disparador** — conta que esqueceu um paciente parecido com ela e transforma isso na pergunta 2 [▶ 0:33:42](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2022s).
+- **Devolve sentido às falas** — "foi uma intervenção para ela, mas que você precisava ouvir também" [▶ 0:46:54](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2814s).
+- **Anuncia a última pergunta como preparação do fechamento e dá exemplo** ("sou muito palpiteira") [▶ 0:58:37](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3517s).
+- **Participa como par** — responde às próprias perguntas (spoiler, seriedade, organização), o que modela a abertura esperada [▶ 1:01:33](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3693s) [▶ 1:17:56](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4676s).
+- **Fecha com referência e mensagem** — artigo sobre saúde mental dos psicólogos, "tirar a gente da posição de super-heróis" [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s).
 
 ### Comparação com o formato do Alan
 - **Alan:** teoria mínima → exercício com consigna fechada → rodada de respostas → feedback técnico individual. **Esta roda:** sem bloco teórico; **três perguntas abertas** → rodadas de relato → síntese; o "feedback" é reformulação, validação e ampliação pelos pares.
@@ -244,43 +244,43 @@ A roda não tem bloco expositivo: a "teoria" aparece nas falas dos participantes
 
 ## Frases para guardar
 
-> "A proposta do grupo de hoje é focar na gente, na nossa saúde." {{ts:acervo-08@0:27:21}}
+> "A proposta do grupo de hoje é focar na gente, na nossa saúde." [▶ 0:27:21](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1641s)
 
-> "A cura é uma coisa que você encontra no caminho: não é um objetivo, é um acontecimento durante o processo de transformação — do paciente e nossa também." {{ts:acervo-08@0:08:00}}
+> "A cura é uma coisa que você encontra no caminho: não é um objetivo, é um acontecimento durante o processo de transformação — do paciente e nossa também." [▶ 0:08:00](https://www.youtube.com/watch?v=S8TM08kgrCE&t=480s)
 
-> "Existem meios-termos entre resolver e não fazer nada." {{ts:acervo-08@0:11:08}}
+> "Existem meios-termos entre resolver e não fazer nada." [▶ 0:11:08](https://www.youtube.com/watch?v=S8TM08kgrCE&t=668s)
 
-> "Será que estou lendo o tempo clínico da maneira certa ou inventando uma desculpa para não intervir?" {{ts:acervo-08@0:33:42}}
+> "Será que estou lendo o tempo clínico da maneira certa ou inventando uma desculpa para não intervir?" [▶ 0:33:42](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2022s)
 
-> "Essa disponibilidade, essa capacidade pensante, é uma coisa muito recíproca." {{ts:acervo-08@0:40:19}}
+> "Essa disponibilidade, essa capacidade pensante, é uma coisa muito recíproca." [▶ 0:40:19](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2419s)
 
-> "Foi uma intervenção para ela, mas que você precisava ouvir também." {{ts:acervo-08@0:46:54}}
+> "Foi uma intervenção para ela, mas que você precisava ouvir também." [▶ 0:46:54](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2814s)
 
-> "Às vezes você está tão soterrado nos seus problemas que não percebe que eles estão entupindo a sua escuta." {{ts:acervo-08@0:51:16}}
+> "Às vezes você está tão soterrado nos seus problemas que não percebe que eles estão entupindo a sua escuta." [▶ 0:51:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3076s)
 
-> "Quando a gente se expõe na clínica, nunca é porque o meu sentimento está mandando eu me expor." {{ts:acervo-08@0:55:30}}
+> "Quando a gente se expõe na clínica, nunca é porque o meu sentimento está mandando eu me expor." [▶ 0:55:30](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3330s)
 
-> "Eu entrei como uma Tainá e saí sendo uma pessoa totalmente diferente — é a gente se permitir expandir os nossos horizontes." {{ts:acervo-08@0:57:29}}
+> "Eu entrei como uma Tainá e saí sendo uma pessoa totalmente diferente — é a gente se permitir expandir os nossos horizontes." [▶ 0:57:29](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3449s)
 
-> "O foco ali não sou eu — e isso não significa abrir mão de mim." {{ts:acervo-08@1:06:10}}
+> "O foco ali não sou eu — e isso não significa abrir mão de mim." [▶ 1:06:10](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3970s)
 
-> "Nós não somos atores." {{ts:acervo-08@1:11:00}}
+> "Nós não somos atores." [▶ 1:11:00](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4260s)
 
-> "Uma prática sem teoria, a gente seria o quê? Coach." {{ts:acervo-08@0:23:00}}
+> "Uma prática sem teoria, a gente seria o quê? Coach." [▶ 0:23:00](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1380s)
 
-> "Se a gente se considera ausente de sentimentos, passa a ter uma clínica mecanizada." {{ts:acervo-08@1:21:43}}
+> "Se a gente se considera ausente de sentimentos, passa a ter uma clínica mecanizada." [▶ 1:21:43](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4903s)
 
-> "Tirar a gente dessa posição de super-heróis que nós não somos." {{ts:acervo-08@1:20:16}}
+> "Tirar a gente dessa posição de super-heróis que nós não somos." [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s)
 
 ## Ideias de conteúdo
 
-- **Carrossel · formacao-do-psicologo:** "Casa de ferreiro, espeto de pau: quem cuida de quem cuida?" → a clínica adoece e promove saúde; sair do lugar de super-herói. Corte sugerido: {{ts:acervo-08@1:20:16}}–{{ts:acervo-08@1:22:47}}
-- **Reels · clinica-na-pratica:** "Quando a queixa do paciente é igual à sua" → duas situações (resolvida x aberta) e duas respostas (autorrevelação x distanciamento). Corte sugerido: {{ts:acervo-08@0:41:19}}–{{ts:acervo-08@0:45:17}}
-- **Post · clinica-na-pratica:** "Autorrevelação: quando falar de si na sessão" → pergunte-se a função; nunca para aliviar a sua angústia. Corte sugerido: {{ts:acervo-08@0:54:20}}–{{ts:acervo-08@0:56:46}}
-- **Carrossel · formacao-do-psicologo:** "5 motivos pelos quais uma sessão 'não anda'" → estudo, esforço, cedo demais, falta de recurso, não entendeu o caso. Corte sugerido: {{ts:acervo-08@0:36:01}}–{{ts:acervo-08@0:38:48}}
-- **Post · maximas-e-reflexoes:** "'Tempo clínico' ou evitação?" → o argumento certo pode virar desculpa. Corte sugerido: {{ts:acervo-08@0:31:52}}–{{ts:acervo-08@0:33:42}}
-- **Reels · maximas-e-reflexoes:** "Nós não somos atores" → autenticidade e o mito do psicólogo perfeito. Corte sugerido: {{ts:acervo-08@1:11:00}}–{{ts:acervo-08@1:12:22}}
-- **Stories · bastidores-dos-grupos:** "3 perguntas para uma roda sobre a pessoa do terapeuta" → as três consignas da dinâmica. Corte sugerido: {{ts:acervo-08@0:02:52}}–{{ts:acervo-08@0:03:22}}
+- **Carrossel · formacao-do-psicologo:** "Casa de ferreiro, espeto de pau: quem cuida de quem cuida?" → a clínica adoece e promove saúde; sair do lugar de super-herói. Corte sugerido: [▶ 1:20:16](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4816s)–[▶ 1:22:47](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4967s)
+- **Reels · clinica-na-pratica:** "Quando a queixa do paciente é igual à sua" → duas situações (resolvida x aberta) e duas respostas (autorrevelação x distanciamento). Corte sugerido: [▶ 0:41:19](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2479s)–[▶ 0:45:17](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2717s)
+- **Post · clinica-na-pratica:** "Autorrevelação: quando falar de si na sessão" → pergunte-se a função; nunca para aliviar a sua angústia. Corte sugerido: [▶ 0:54:20](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3260s)–[▶ 0:56:46](https://www.youtube.com/watch?v=S8TM08kgrCE&t=3406s)
+- **Carrossel · formacao-do-psicologo:** "5 motivos pelos quais uma sessão 'não anda'" → estudo, esforço, cedo demais, falta de recurso, não entendeu o caso. Corte sugerido: [▶ 0:36:01](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2161s)–[▶ 0:38:48](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2328s)
+- **Post · maximas-e-reflexoes:** "'Tempo clínico' ou evitação?" → o argumento certo pode virar desculpa. Corte sugerido: [▶ 0:31:52](https://www.youtube.com/watch?v=S8TM08kgrCE&t=1912s)–[▶ 0:33:42](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2022s)
+- **Reels · maximas-e-reflexoes:** "Nós não somos atores" → autenticidade e o mito do psicólogo perfeito. Corte sugerido: [▶ 1:11:00](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4260s)–[▶ 1:12:22](https://www.youtube.com/watch?v=S8TM08kgrCE&t=4342s)
+- **Stories · bastidores-dos-grupos:** "3 perguntas para uma roda sobre a pessoa do terapeuta" → as três consignas da dinâmica. Corte sugerido: [▶ 0:02:52](https://www.youtube.com/watch?v=S8TM08kgrCE&t=172s)–[▶ 0:03:22](https://www.youtube.com/watch?v=S8TM08kgrCE&t=202s)
 
 ## Para replicar este encontro
 
@@ -311,5 +311,5 @@ A roda não tem bloco expositivo: a "teoria" aparece nas falas dos participantes
 - Conceitos: [[Contratransferência]] · [[Autorrevelação do terapeuta]] · [[Tempo clínico]] · [[Saúde mental do psicólogo]] · [[Autocobrança do terapeuta]]
 - Dinâmica: [[Dinâmica - Casa de ferreiro, espeto de pau]]
 - Encontros do Alan com temas vizinhos: [[Alan 01 - Relação terapêutica tensionada]] · [[Alan 17 - Qualidade da intervenção]]
-- Encontro do Acervo provavelmente citado como "o grupo de ontem, das 2 da tarde" (estereótipos, preconceitos, contratransferência) {{ts:acervo-08@0:47:31}}: [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]]
+- Encontro do Acervo provavelmente citado como "o grupo de ontem, das 2 da tarde" (estereótipos, preconceitos, contratransferência) [▶ 0:47:31](https://www.youtube.com/watch?v=S8TM08kgrCE&t=2851s): [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]]
 - Outro fichamento do Acervo em formato não técnico: [[Acervo 07 - Violência estrutural e plantão psicológico]]

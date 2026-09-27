@@ -1,0 +1,785 @@
+{
+  "id": "mon-14",
+  "nota": "Monitoria 14 - Diogo - Forma do discurso e intervenções não óbvias",
+  "pasta": "10 - Fichamentos/Monitorias",
+  "titulo": "Forma do discurso e intervenções não óbvias",
+  "serie": "Monitorias",
+  "formato": "Monitoria",
+  "facilitadores": [
+    "Diogo"
+  ],
+  "resumo": "Diogo supervisiona a continuação do atendimento escrito de uma monitorada com um paciente simulado por IA (o 'homem ridículo': intelectualizado, irônico, resistente e passivo) e experimenta pela primeira vez uma monitoria de tema aberto, em que o tema emerge do caso. Lendo fala a fala, ele pergunta primeiro o que a monitorada apreende e por que interveio, e o tema que surge é a linguagem: metáfora como potência ou esquiva, forma e conteúdo do discurso, exceção ao padrão, contradições. O núcleo do encontro é a diferença entre intervenções óbvias (espelho, devolutiva, conclusão) e abertas: com um paciente passivo, que coloca o terapeuta no lugar de quem dá respostas, o óbvio faz o paciente delegar o pensar. A hipótese de passividade se sofistica com compensação, 'anonimato funcional' com ganhos e a diferença entre ser observado e fazer-se ver. O encontro fecha mais cedo com uma pergunta-síntese: uma hipótese mais profunda tem efeito retroativo sobre todo o material e não pode deixar pontas soltas.",
+  "em_uma_frase": "Com um paciente passivo, intervenções abertas (exceção ao padrão, devolver sem concluir, puxar para o concreto) funcionam melhor que o 'espelho' que entrega a resposta, e cada hipótese nova reorganiza retroativamente o que já se sabia do caso.",
+  "competencias": [
+    "Escuta clínica",
+    "Interpretação",
+    "Intervenção",
+    "Priorização clínica",
+    "Formulação de caso",
+    "Relação terapêutica",
+    "Feedback clínico"
+  ],
+  "abordagens": [
+    "Psicanálise lacaniana"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:03",
+      "bloco": "Abertura",
+      "descricao": "Boas-vindas a um ouvinte (que já tinha ido a uma monitoria com João); explicação do sistema de monitoria e do paciente de IA interno; anúncio do experimento de tema aberto.",
+      "funcao": "Situar ouvintes e quem assiste à gravação; enquadrar a monitoria como acompanhamento individual.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:01:36",
+      "bloco": "Retomada",
+      "descricao": "A monitorada relembra as últimas intervenções; Diogo resume a monitoria anterior (empatia e relação terapêutica) e o perfil do personagem.",
+      "funcao": "Reativar o fio de um caso que atravessa várias semanas.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:03:58",
+      "bloco": "Combinados",
+      "descricao": "A monitorada explica que desta vez priorizou a última fala do paciente; combinam que ela lê e ele pausa nas intervenções.",
+      "funcao": "Explicitar critérios de priorização e distribuir papéis.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:05:14",
+      "bloco": "Dinâmica",
+      "descricao": "Leitura da resposta do paciente (metáfora do livro enfadonho) e pergunta aberta: o que você apreende dessa fala?",
+      "funcao": "Treinar a escuta antes de qualquer correção.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:07:09",
+      "bloco": "Discussão",
+      "descricao": "Metáfora na clínica: potência ou esquiva; função do discurso (ele explora a metáfora porque foi perguntado); retificação subjetiva; argumento das 168 horas.",
+      "funcao": "Julgar os recursos do paciente pela função; ligar a leitura ao objetivo terapêutico.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:12:24",
+      "bloco": "Teoria",
+      "descricao": "Forma e conteúdo: a forma abstrata e distante como conteúdo (passividade, não implicação). Tema anotado no chat.",
+      "funcao": "Dar à monitorada uma ferramenta de análise do discurso.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:14:52",
+      "bloco": "Dinâmica",
+      "descricao": "Leitura da resposta sobre 'coautoria' e escolha do 'papel de parede'; a monitorada justifica a escolha da exceção.",
+      "funcao": "Explicitar o raciocínio de priorização.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:18:54",
+      "bloco": "Teoria",
+      "descricao": "A exceção ao padrão, com o exemplo dos patos e do cachorro.",
+      "funcao": "Nomear e generalizar a boa escolha intuitiva da monitorada.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:19:57",
+      "bloco": "Discussão",
+      "descricao": "Óbvio vs. aberto: funções do óbvio, o problema do espelho, emissor e receptor, lugar do terapeuta, identificação pela forma.",
+      "funcao": "Núcleo do encontro: escolher o grau de abertura pela posição do paciente e pela relação.",
+      "duracao_min": 11
+    },
+    {
+      "ts": "0:30:36",
+      "bloco": "Dinâmica",
+      "descricao": "Leitura da resposta sobre o papel de parede; contradição entre escolha irrelevante e escolha ativa da discrição; marcador 'mas, honestamente'; limites da IA.",
+      "funcao": "Treinar a leitura de contradições e de padrões discursivos.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:36:53",
+      "bloco": "Discussão",
+      "descricao": "Intervenção 'onde mais isso aparece na sua vida?'; exemplo clínico próprio de Diogo; generalização como responsabilização indireta.",
+      "funcao": "Mostrar a passagem do abstrato ao concreto e a retificação indireta.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "0:43:51",
+      "bloco": "Dinâmica",
+      "descricao": "Leitura da fala sobre invisibilidade no trabalho e na vida social; hipótese de compensação; O Pequeno Príncipe; ganho do sintoma; ser observado vs. fazer-se ver.",
+      "funcao": "Sofisticar a hipótese, da descrição à explicação.",
+      "duracao_min": 8
+    },
+    {
+      "ts": "0:52:19",
+      "bloco": "Discussão",
+      "descricao": "Nível formal do vestir ('nada que grite por reconhecimento'); possível raiva de quem se destaca; marcas e consequências; novas contradições.",
+      "funcao": "Ler a forma quando o conteúdo não traz novidade.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:55:39",
+      "bloco": "Fechamento",
+      "descricao": "A monitorada precisa sair; pergunta-síntese sobre o destino das informações anteriores; efeito retroativo da hipótese; imagem da rede do Obsidian.",
+      "funcao": "Consolidar uma regra de raciocínio clínico transferível.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:58:07",
+      "bloco": "Tarefa",
+      "descricao": "Continuação do caso na monitoria seguinte (sexta); formulário de presença e avaliação.",
+      "funcao": "Garantir continuidade, avaliação e registro de horas.",
+      "duracao_min": 1
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Forma e conteúdo",
+      "definicao": "Distinção usada para analisar o discurso do paciente: além do que ele diz (conteúdo), importa como diz (forma). A forma abstrata, distante e metafórica é ela mesma um conteúdo: aqui, passividade, monotonia e não implicação. Quando o conteúdo não traz nada novo, a forma pode trazer.",
+      "exemplo": "O paciente descreve o próprio sofrimento sempre em abstrações; Diogo pergunta 'qual é o conteúdo que essa forma distante e abstrata está trazendo?'.",
+      "abordagem": "",
+      "ts": "0:12:24"
+    },
+    {
+      "nome": "Metáfora do paciente",
+      "definicao": "Imagem trazida pelo paciente, que pode ser potência (elaboração de algo difícil de dizer) ou esquiva (imagem pronta que evita a implicação). Mesmo quando é esquiva, abre um leque de possibilidades para trabalhar indiretamente um tema latente.",
+      "exemplo": "A vida como 'livro enfadonho'; a monitorada explora o 'autor' do livro para tocar na passividade.",
+      "abordagem": "",
+      "ts": "0:08:34"
+    },
+    {
+      "nome": "Retificação subjetiva",
+      "definicao": "Nomeada pela monitorada: responsabilizar o paciente, perguntar qual é a parte dele na desordem de que se queixa. Diogo a realiza indiretamente, generalizando o padrão para vários contextos, cujo denominador comum é o próprio paciente.",
+      "exemplo": "'Onde mais isso aparece na sua vida?'; se aparece no trabalho, na família, no amor e nas amizades, o que há em comum é você.",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:10:52"
+    },
+    {
+      "nome": "Exceção ao padrão",
+      "definicao": "Momento em que o paciente escapa da tese que repete sobre si. Intervir ali explora algo além do campo de visão óbvio que ele tem de si e quebra a lógica dominante de modo indireto, em vez de 'chover no molhado'.",
+      "exemplo": "Se o paciente diz que a vida é 'toda patos' e menciona um cachorro, pergunte pelo cachorro; no fim: 'tem certeza de que sua vida é só patos?'. No caso: o único momento em que ele admite escolher (o papel de parede).",
+      "abordagem": "",
+      "ts": "0:18:54"
+    },
+    {
+      "nome": "Grau de abertura da intervenção",
+      "definicao": "Gradiente de formulações para o mesmo conteúdo: o fato fechado ('você é passivo'), a pergunta que ainda revela a leitura do terapeuta ('você se vê como passivo?') e a intervenção aberta, que foca na exceção e deixa a conclusão ao paciente. Toda intervenção movimenta algo, e o grau de abertura muda o que é movimentado.",
+      "exemplo": "Escolher perguntar 'qual papel de parede você escolhe?' em vez de 'percebo passividade, mas aqui você a quebra'.",
+      "abordagem": "",
+      "ts": "0:23:17"
+    },
+    {
+      "nome": "Intervenção em espelho",
+      "definicao": "Devolver o óbvio: devolutiva, reflexo, fato, conclusão. É útil quando o paciente está desconectado das próprias emoções, mas, como o espelho, entrega a resposta, e o paciente pode parar de pensar.",
+      "exemplo": "'Posso te mostrar o que estou vendo?' seguido de nomear a raiva evidente; a metáfora do espelho no restaurante, ao qual ninguém vai para refletir, mas para resolver.",
+      "abordagem": "",
+      "ts": "0:24:25"
+    },
+    {
+      "nome": "Lugar atribuído ao terapeuta",
+      "definicao": "Toda mensagem tem emissor, canal e receptor; na clínica, o receptor tende a ser o terapeuta, e o paciente o coloca num lugar (suposto saber, ajudante, ouvinte de desabafo). Esse lugar condiciona o efeito da intervenção: com um paciente passivo, a resposta óbvia confirma o terapeuta como quem dá respostas.",
+      "exemplo": "O paciente só explora a metáfora porque foi perguntado e termina toda fala com uma pergunta à terapeuta.",
+      "abordagem": "",
+      "ts": "0:27:56"
+    },
+    {
+      "nome": "Sujeito suposto saber",
+      "definicao": "Citado por Diogo como um dos lugares em que o paciente pode colocar o terapeuta, aquele que teria as respostas.",
+      "exemplo": "",
+      "abordagem": "Psicanálise lacaniana",
+      "ts": "0:27:56"
+    },
+    {
+      "nome": "Apontamento de contradição",
+      "definicao": "Aqui, as contradições do discurso são tratadas como evidência da participação do paciente no próprio sofrimento, material para a hipótese e para intervenções de responsabilização.",
+      "exemplo": "Diz que o que escolhe não importa, mas escolhe ativamente a discrição; busca 'não fazer ruído', mas se queixa da monotonia.",
+      "abordagem": "",
+      "ts": "0:33:57"
+    },
+    {
+      "nome": "Concretude da intervenção",
+      "definicao": "Depois de acompanhar a abstração do paciente para colher conteúdo, puxar para situações concretas da vida dele, evitando 'abstrações infinitas'.",
+      "exemplo": "'Você escolhe a discrição e a quase invisibilidade. Onde mais isso aparece na sua vida?'",
+      "abordagem": "",
+      "ts": "0:38:37"
+    },
+    {
+      "nome": "Padrão de repetição",
+      "definicao": "O mesmo modo de ser (discrição, quase invisibilidade) reaparece em vários contextos; generalizar para esses contextos mostra o denominador comum.",
+      "exemplo": "Trabalho, vida social, amizades e até o modo de vestir.",
+      "abordagem": "",
+      "ts": "0:41:52"
+    },
+    {
+      "nome": "Compensação",
+      "definicao": "Hipótese da monitorada: o exagero na fuga do reconhecimento soa como desejo de reconhecimento. Sem acreditar que seria capaz, a pessoa se convence de que seu objetivo é fugir do reconhecimento e, assim, 'atinge o objetivo'.",
+      "exemplo": "Quer ser notado só por quem presta atenção aos detalhes, como um papel de parede bege.",
+      "abordagem": "",
+      "ts": "0:44:50"
+    },
+    {
+      "nome": "Ganho secundário",
+      "definicao": "O sintoma traz vantagens que o sustentam. O 'anonimato funcional' do paciente dá menos expectativa, menos cobrança e nenhuma necessidade de performar; para a monitorada, o ganho parece até 'primário'.",
+      "exemplo": "Assinar relatórios impecáveis sem ser chamado ao palco; a solidão 'que nunca exige justificativas'.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:49:45"
+    },
+    {
+      "nome": "Ser observado e fazer-se ver",
+      "definicao": "Ser observado é passivo e sem custo: basta existir diante do olhar do outro. Fazer-se ver é ativo e expõe às consequências e à responsabilidade pelos próprios atos.",
+      "exemplo": "O paciente prefere ser notado por quem 'repara' a se mostrar.",
+      "abordagem": "",
+      "ts": "0:51:52"
+    },
+    {
+      "nome": "Critério de completude",
+      "definicao": "Ao chegar a um ponto central do caso, todo o material anterior deve ser amarrado. Se uma interpretação deixa pontas soltas, provavelmente falta algo ou ela está errada.",
+      "exemplo": "Não se cegar pelo achado novo e ignorar o que vinha sendo construído.",
+      "abordagem": "",
+      "ts": "0:56:15"
+    },
+    {
+      "nome": "Efeito retroativo da hipótese",
+      "definicao": "A sofisticação de uma hipótese muda o sentido das informações já obtidas: elas 'mudam de figura'. O que era descrito como passividade passa a ser lido como irresponsabilidade.",
+      "exemplo": "Imagem da rede de notas do Obsidian: se algo não encaixa na rede, a rede não está relacionando as coisas da maneira mais fiel à realidade.",
+      "abordagem": "",
+      "ts": "0:57:20"
+    },
+    {
+      "nome": "Empatia",
+      "definicao": "Aparece como identificação pela similaridade formal: falar no mesmo registro do paciente (abstrato, se ele é abstrato) e diferir só no conteúdo, 'na mesma frequência'.",
+      "exemplo": "A monitorada quis ser abstrata como ele para gerar identificação.",
+      "abordagem": "",
+      "ts": "0:27:13"
+    },
+    {
+      "nome": "Viés de confirmação",
+      "definicao": "Risco de o monitor interpretar tudo a favor da própria hipótese, inclusive artefatos da ferramenta de IA. Diogo o nomeia sobre si mesmo.",
+      "exemplo": "O bot termina toda fala com uma pergunta, o que pode ser programação e não traço do personagem.",
+      "abordagem": "",
+      "ts": "0:36:53"
+    },
+    {
+      "nome": "Discurso pronto",
+      "definicao": "Fala ensaiada e monótona, uma 'imagem pré-montada' que o paciente repete; a intervenção inesperada (a exceção) busca quebrá-la e forçar uma resposta diferente.",
+      "exemplo": "A monitorada quis 'dar uma quebra no discurso dele, muito ensaiado'.",
+      "abordagem": "",
+      "ts": "0:18:54"
+    },
+    {
+      "nome": "Paciente simulado por inteligência artificial",
+      "definicao": "Personagem de IA da ferramenta interna da Allos, que os terapeutas atendem por escrito e levam à monitoria, para supervisionar sem expor pacientes reais. Tem limitações, como terminar quase sempre com uma pergunta.",
+      "exemplo": "O 'homem ridículo', atendido ao longo de várias monitorias.",
+      "abordagem": "",
+      "ts": "0:00:07"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Leitura comentada do atendimento simulado",
+      "objetivo": "Supervisionar fala a fala um atendimento escrito com um paciente de IA, explicitando o raciocínio do terapeuta em cada intervenção e extraindo lições de escuta, priorização e intervenção.",
+      "competencias": [
+        "Escuta clínica",
+        "Priorização clínica",
+        "Intervenção",
+        "Interpretação",
+        "Formulação de caso"
+      ],
+      "configuracao": "Individual (supervisor e uma monitorada) diante de ouvintes (aqui, dois); online, com a conversa compartilhada na tela e o chat aberto.",
+      "tempo": "Cerca de 55 minutos (encerrado antes pela saída da monitorada).",
+      "materiais": "Transcrição do atendimento feito na ferramenta de paciente simulado; tela compartilhada; formulário de presença e avaliação.",
+      "consigna": "Continua lendo que eu vou pausando nas intervenções. Primeiro: o que você apreende dessa fala? Depois: por que você fez essa intervenção, e por que dessa forma?",
+      "passos": [
+        "Retomar onde o caso parou e o que foi trabalhado na monitoria anterior.",
+        "A monitorada contextualiza o critério usado na próxima intervenção.",
+        "Ler a fala do paciente e fazer uma pergunta aberta sobre ela.",
+        "Ler a intervenção da monitorada e pedir a justificativa.",
+        "Aprofundar com perguntas de segunda ordem (por que não tornar óbvio? que conteúdo essa forma carrega?).",
+        "O supervisor acrescenta sua leitura com exemplos e analogias.",
+        "Seguir para a próxima fala.",
+        "Fechar com uma pergunta-síntese transferível e combinar a continuidade do caso."
+      ],
+      "feedback": "Valida e nomeia as escolhas intuitivas boas ('pegar uma exceção é lindo'); pede justificativa mesmo quando concorda; desloca a resposta do conteúdo para a forma da intervenção; acrescenta razões que a monitorada não viu (o lugar do terapeuta); reconhece quando aprende com ela. Critérios implícitos: partir de um ponto fértil (exceção, contradição), grau de abertura adequado à posição do paciente, aproximar o paciente da própria implicação.",
+      "exemplos_praticos": "A monitorada justificou três intervenções: explorar a metáfora do livro; escolher a exceção ('qual papel de parede você escolhe?'); devolver e generalizar ('você escolhe a discrição e a quase invisibilidade; onde mais isso aparece na sua vida?'). A segunda gerou a discussão sobre óbvio vs. aberto; a terceira, Diogo disse não ter pensado.",
+      "variacoes": "Tema aberto, emergente do caso (experimentado aqui), vs. tema pré-definido (empatia, relação terapêutica, abertura de sessão etc.). O monitorado pode ler, ou o supervisor lê.",
+      "armadilhas": "Tomar artefatos da IA como traço do personagem; ignorar as perguntas do paciente-bot, o que não se faria na clínica real; o monitor projetar a própria hipótese (viés de confirmação).",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:03:58"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Enquadrar para novos e para a gravação",
+      "descricao": "Pergunta a um ouvinte se já tinha participado de alguma monitoria, explica o sistema de monitoria e o recurso de IA e anuncia o experimento de tema aberto.",
+      "exemplo": "'Para quem tá vendo essa gravação e não conhece o sistema de monitoria...'",
+      "ts": "0:00:07"
+    },
+    {
+      "movimento": "Retomada dividida",
+      "descricao": "Pede à monitorada a última intervenção, completa com o próprio resumo e verifica se faltou algo.",
+      "exemplo": "'Faltou alguma coisa que você acha relevante?'",
+      "ts": "0:02:41"
+    },
+    {
+      "movimento": "Autolimitação combinada",
+      "descricao": "Deixa a monitorada ler e se compromete a só pausar nas intervenções, para não falar demais.",
+      "exemplo": "'Continua lendo que aí eu vou pausando as intervenções, senão eu vou falar muito.'",
+      "ts": "0:03:58"
+    },
+    {
+      "movimento": "Pergunta aberta antes da correção",
+      "descricao": "Começa cada bloco perguntando o que a monitorada percebeu, antes de acrescentar a própria leitura.",
+      "exemplo": "'De maneira aberta, o que você apreende dessa fala do paciente?'",
+      "ts": "0:06:18"
+    },
+    {
+      "movimento": "Pergunta binária para afiar o critério",
+      "descricao": "Força uma escolha entre duas leituras para tornar o critério explícito.",
+      "exemplo": "'Foi um momento de potência do atendimento ou foi mais uma esquiva?'",
+      "ts": "0:08:34"
+    },
+    {
+      "movimento": "Pedir justificativa mesmo concordando",
+      "descricao": "Faz a monitorada explicitar por que escolheu a exceção, por que foi implícita e para que serviria o óbvio.",
+      "exemplo": "'Por que você escolheu o ponto em que ele foge ao padrão?'",
+      "ts": "0:17:38"
+    },
+    {
+      "movimento": "Deslocar do conteúdo para a forma",
+      "descricao": "Mostra que a resposta da monitorada ficou no conteúdo e a leva a pensar a forma da intervenção, sem desqualificar o que ela disse.",
+      "exemplo": "'A sua fala agora veio muito pela perspectiva do conteúdo do discurso, percebe?'",
+      "ts": "0:23:17"
+    },
+    {
+      "movimento": "Analogias cotidianas",
+      "descricao": "Ensina com imagens simples e referências populares.",
+      "exemplo": "Patos e cachorro; espelho do restaurante; pais que não ouvem o que dizem; O Pequeno Príncipe; rede do Obsidian.",
+      "ts": "0:25:21"
+    },
+    {
+      "movimento": "Exemplo clínico próprio com sigilo",
+      "descricao": "Ilustra a devolução do óbvio com um caso seu, avisando que não especificará dados.",
+      "exemplo": "Uma paciente com apatia que percebe o próprio padrão quando ele devolve o que ela disse.",
+      "ts": "0:40:55"
+    },
+    {
+      "movimento": "Reconhecer que aprendeu com o supervisionando",
+      "descricao": "Admite que não tinha pensado no movimento da monitorada e o valida.",
+      "exemplo": "'Confesso que eu não tinha pensado nisso quando você falou, mas achei um movimento interessante.'",
+      "ts": "0:42:54"
+    },
+    {
+      "movimento": "Metacomentário sobre o próprio viés",
+      "descricao": "Questiona em voz alta se a interpretação dele não é viés de confirmação.",
+      "exemplo": "'Não sei se eu tô só fazendo meu viés de confirmação... para me justificar enquanto monitor.'",
+      "ts": "0:36:53"
+    },
+    {
+      "movimento": "Registrar o tema emergente no chat",
+      "descricao": "Anota o tema que surgiu para os ouvintes e responde a quem pergunta qual é o tema.",
+      "exemplo": "'A ideia é acompanhar o caso e ver o que surge de tema naturalmente.'",
+      "ts": "0:13:33"
+    },
+    {
+      "movimento": "Pausa para reler uma frase",
+      "descricao": "Interrompe a leitura num ponto específico e explica por que parou.",
+      "exemplo": "'Para um pouquinho aí na vida social... por que eu pedi para parar?'",
+      "ts": "0:46:48"
+    },
+    {
+      "movimento": "Pergunta-síntese no fechamento",
+      "descricao": "Com pouco tempo, faz uma única pergunta que transforma o caso numa regra de raciocínio transferível.",
+      "exemplo": "'O que acontece com todas as outras informações que a gente já tinha coletado?'",
+      "ts": "0:55:39"
+    },
+    {
+      "movimento": "Fecho administrativo com sentido",
+      "descricao": "Justifica o formulário de presença (avaliação, horas complementares, sugestão de temas) e anuncia a continuidade do caso.",
+      "exemplo": "'É o espaço onde vocês podem sugerir pra gente inovar também a formação.'",
+      "ts": "0:58:07"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Diante de uma metáfora do paciente, pergunte-se se é potência ou esquiva.",
+      "justificativa": "A mesma figura pode ser elaboração genuína ou imagem pronta para não se implicar; isso muda o que fazer com ela.",
+      "contexto": "Pacientes intelectualizados, que falam por imagens.",
+      "competencia": "Escuta clínica",
+      "ts": "0:08:34"
+    },
+    {
+      "dica": "Use a metáfora do paciente para tocar indiretamente no tema latente.",
+      "justificativa": "A metáfora amplia as possibilidades e permite abordar a passividade (o 'autor' do livro) sem confronto direto.",
+      "contexto": "Tema defendido, em que a confrontação seria rebatida.",
+      "competencia": "Intervenção",
+      "ts": "0:09:52"
+    },
+    {
+      "dica": "Observe se o paciente só desenvolve o que você pergunta.",
+      "justificativa": "Responder ao terapeuta em vez de elaborar pode revelar passividade e o lugar dado ao terapeuta.",
+      "contexto": "Quando um tema só se desenvolve depois de uma pergunta sua.",
+      "competencia": "Escuta clínica",
+      "ts": "0:12:24"
+    },
+    {
+      "dica": "Pergunte que conteúdo a forma do discurso carrega.",
+      "justificativa": "Abstração e distância já dizem algo sobre a implicação do paciente no que conta.",
+      "contexto": "Quando o conteúdo parece repetitivo.",
+      "competencia": "Interpretação",
+      "ts": "0:13:33"
+    },
+    {
+      "dica": "Intervenha na exceção ao padrão.",
+      "justificativa": "Amplia o campo de visão do paciente sobre si e quebra a tese dominante indiretamente; o resto seria 'chover no molhado'.",
+      "contexto": "Paciente que repete uma autodefinição (sou passivo, a vida é monótona).",
+      "competencia": "Priorização clínica",
+      "ts": "0:18:54"
+    },
+    {
+      "dica": "Deixe a exceção crescer antes de confrontar a regra.",
+      "justificativa": "Se o paciente fala muito da exceção, ela ganha peso, e a pergunta final ('tem certeza de que sua vida é só patos?') fica difícil de negar.",
+      "contexto": "Depois de escolher uma exceção.",
+      "competencia": "Intervenção",
+      "ts": "0:19:57"
+    },
+    {
+      "dica": "Reserve o óbvio (espelho) para quem está desconectado das próprias emoções.",
+      "justificativa": "Nomear a emoção evidente ('posso te mostrar o que estou vendo?') aproxima algo que está descolado do paciente.",
+      "contexto": "Paciente que diz não ter nada a trazer enquanto demonstra raiva.",
+      "competencia": "Acolhimento e validação",
+      "ts": "0:24:25"
+    },
+    {
+      "dica": "Evite respostas óbvias com pacientes passivos.",
+      "justificativa": "O óbvio entrega a resposta, o paciente para de pensar, delega a determinação e depois pode culpar a terapia.",
+      "contexto": "Pacientes que colocam o terapeuta no lugar de quem sabe.",
+      "competencia": "Intervenção",
+      "ts": "0:28:56"
+    },
+    {
+      "dica": "Antes de intervir, pergunte-se em que lugar o paciente está colocando você.",
+      "justificativa": "A mesma intervenção tem efeitos diferentes conforme o lugar (suposto saber, ajudante, ouvinte); a forma pode confirmar ou desfazer esse lugar.",
+      "contexto": "Na escolha do grau de abertura da intervenção.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:27:56"
+    },
+    {
+      "dica": "Aproxime-se pela forma e diferencie-se pelo conteúdo.",
+      "justificativa": "Falar no mesmo registro do paciente gera identificação e empatia, e o conteúdo introduz a diferença.",
+      "contexto": "Pacientes resistentes a intervenções num registro muito diferente do deles.",
+      "competencia": "Construção frasal",
+      "ts": "0:27:13"
+    },
+    {
+      "dica": "Trate as contradições do discurso como sinal de implicação.",
+      "justificativa": "Dizer que a escolha não importa e escolher ativamente a discrição mostra participação no próprio sofrimento.",
+      "contexto": "Na formulação da hipótese e no preparo de intervenções de responsabilização.",
+      "competencia": "Formulação de caso",
+      "ts": "0:33:57"
+    },
+    {
+      "dica": "Repare no que vem depois dos marcadores repetidos ('mas, honestamente...').",
+      "justificativa": "Fórmulas recorrentes costumam anunciar a conclusão que importa ao paciente.",
+      "contexto": "Pacientes com fórmulas discursivas próprias.",
+      "competencia": "Escuta clínica",
+      "ts": "0:35:39"
+    },
+    {
+      "dica": "Abstraia junto e depois puxe para o concreto.",
+      "justificativa": "Acompanhar a abstração colhe conteúdo, mas ficar nela permite abstrações infinitas; 'onde mais isso aparece na sua vida?' traz a vida real.",
+      "contexto": "Quando surge uma palavra-chave dentro de uma metáfora.",
+      "competencia": "Aprofundamento",
+      "ts": "0:38:37"
+    },
+    {
+      "dica": "Devolva a fala do paciente trocando uma palavra ou explicitando a conclusão.",
+      "justificativa": "O que é óbvio para quem ouve muitas vezes não é percebido por quem fala; ouvir de volta pode ser uma grande novidade.",
+      "contexto": "Quando o paciente diz algo revelador sem perceber.",
+      "competencia": "Intervenção",
+      "ts": "0:41:52"
+    },
+    {
+      "dica": "Generalize o padrão para vários contextos para mostrar o denominador comum.",
+      "justificativa": "Se o padrão aparece no trabalho, na família, no amor e nas amizades, o que há em comum é o próprio paciente: é uma responsabilização indireta.",
+      "contexto": "Depois de identificar um padrão em uma área da vida.",
+      "competencia": "Intervenção",
+      "ts": "0:42:54"
+    },
+    {
+      "dica": "Olhe para as comparações que o paciente faz sem que ninguém peça.",
+      "justificativa": "Negar um extremo que ninguém lhe atribuiu revela o polo em jogo e o pensamento sem meio-termo.",
+      "contexto": "Quando o conteúdo não traz nada novo.",
+      "competencia": "Escuta clínica",
+      "ts": "0:52:49"
+    },
+    {
+      "dica": "Teste cada hipótese nova contra todo o material anterior.",
+      "justificativa": "Hipótese que deixa pontas soltas está incompleta ou errada, e a hipótese nova muda o sentido do material antigo.",
+      "contexto": "Sempre que se chega a um ponto central do caso.",
+      "competencia": "Formulação de caso",
+      "ts": "0:56:15"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "A terapia ocupa 1 das 168 horas da semana; sem ação do paciente nas outras 167, a intervenção pouco vale.",
+      "argumento": "A maior parte da vida do paciente está fora do alcance direto do terapeuta, ao contrário de um acompanhamento terapêutico.",
+      "contraponto": "A ideia de que a mudança se resolve dentro da sessão.",
+      "implicacao": "A responsabilização e a implicação do paciente são condição de eficácia.",
+      "quem": "Diogo",
+      "ts": "0:11:58"
+    },
+    {
+      "tese": "Toda intervenção movimenta algo no paciente, em qualquer abordagem; cada uma lê de um jeito o que é movimentado.",
+      "argumento": "A forma da intervenção (fato, pergunta, foco na exceção) tem efeitos próprios, além do conteúdo.",
+      "contraponto": "Avaliar a intervenção só pelo acerto do conteúdo.",
+      "implicacao": "Escolher conscientemente o grau de abertura.",
+      "quem": "Diogo",
+      "ts": "0:23:17"
+    },
+    {
+      "tese": "O óbvio funciona como espelho: útil, mas entrega a resposta e pode interromper o pensamento do paciente.",
+      "argumento": "Ninguém vai ao espelho para refletir, vai para resolver; a intervenção aberta treina o paciente a concluir por si.",
+      "contraponto": "O óbvio tem lugar com pacientes resistentes às próprias emoções.",
+      "implicacao": "Dosar: o óbvio é recurso pontual, não postura.",
+      "quem": "Diogo",
+      "ts": "0:25:21"
+    },
+    {
+      "tese": "Com pacientes passivos, intervenções abertas e projetivas são preferíveis às óbvias.",
+      "argumento": "O paciente coloca o terapeuta no lugar de quem dá respostas; o óbvio confirma esse lugar, ele delega o pensar e depois pode dizer que nem a terapia adiantou.",
+      "contraponto": "O terapeuta 'esclarecedor', que devolve conclusões prontas.",
+      "implicacao": "Formular de modo que a conclusão fique com o paciente.",
+      "quem": "Diogo e a monitorada",
+      "ts": "0:28:56"
+    },
+    {
+      "tese": "A exceção ao padrão é o ponto mais potente de intervenção quando o paciente repete uma tese sobre si.",
+      "argumento": "Intervir no que se repete é 'chover no molhado'; a exceção abre algo fora do campo de visão do paciente e quebra a lógica sem confronto.",
+      "contraponto": "Responder ao conteúdo dominante ou à racionalização.",
+      "implicacao": "Procurar ativamente, em cada fala, o momento que foge do padrão.",
+      "quem": "Diogo e a monitorada",
+      "ts": "0:18:54"
+    },
+    {
+      "tese": "Se o mesmo padrão aparece em todos os contextos da vida, o denominador comum é o paciente.",
+      "argumento": "'Não é possível que o mundo inteiro esteja errado e você não seja o problema'; Diogo diz que não fala assim com o paciente porque é duro demais, mas é essa lógica que guia a pergunta 'onde mais isso aparece?'.",
+      "contraponto": "O discurso que atribui tudo ao ambiente.",
+      "implicacao": "Usar a generalização entre contextos como responsabilização indireta.",
+      "quem": "Diogo",
+      "ts": "0:42:54"
+    },
+    {
+      "tese": "Uma hipótese mais sofisticada tem efeito retroativo, e uma boa interpretação não deixa pontas soltas.",
+      "argumento": "O novo achado muda o significado do material anterior (a passividade vira irresponsabilidade); o que não encaixa indica erro ou lacuna, como numa rede de notas.",
+      "contraponto": "Apaixonar-se pelo achado novo e esquecer o que foi construído.",
+      "implicacao": "Reler o caso inteiro à luz de cada hipótese nova.",
+      "quem": "Diogo e a monitorada",
+      "ts": "0:57:20"
+    },
+    {
+      "tese": "Na monitoria com paciente de IA, é preciso separar limitação do recurso de traço do personagem, e o monitor deve vigiar o próprio viés de confirmação.",
+      "argumento": "A IA tende a terminar toda fala com uma pergunta; isso pode ser programação, embora também faça sentido clínico, e o monitor pode estar só se justificando.",
+      "contraponto": "Interpretar tudo o que o bot produz como material clínico.",
+      "implicacao": "Marcar explicitamente as hipóteses que podem ser artefato.",
+      "quem": "Diogo",
+      "ts": "0:36:53"
+    },
+    {
+      "tese": "A monitoria pode ter tema aberto, que emerge do caso, em vez de tema pré-definido.",
+      "argumento": "O tema pode vir das dificuldades trazidas pelo monitorado ou dos pontos fortes e fracos que o monitor observar.",
+      "contraponto": "O formato anterior do próprio Diogo, com um tema por monitoria.",
+      "implicacao": "Aqui o tema emergente foi a linguagem (forma e conteúdo), registrado no chat.",
+      "quem": "Diogo",
+      "ts": "0:00:07"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Se o paciente, nas outras 167 horas, não atuar também, a nossa intervenção pouco vai ser efetiva.",
+      "tema": "Responsabilidade do paciente",
+      "ts": "0:11:58"
+    },
+    {
+      "texto": "Pegar uma exceção no discurso do paciente é lindo: você explora algo para além daquele campo de visão óbvio que o paciente tem sobre si mesmo.",
+      "tema": "Exceção ao padrão",
+      "ts": "0:18:54"
+    },
+    {
+      "texto": "De tudo isso que você me falou do cachorro, você tem certeza de que a sua vida é só patos?",
+      "tema": "Exceção ao padrão",
+      "ts": "0:19:57"
+    },
+    {
+      "texto": "Toda intervenção movimenta algo no paciente. Cada abordagem vai fazer a sua leitura do que movimenta.",
+      "tema": "Intervenção",
+      "ts": "0:23:17"
+    },
+    {
+      "texto": "Ninguém vai ao espelho para fazer uma reflexão: vai para resolver. O óbvio também tem essa desvantagem na clínica: te dá uma resposta.",
+      "tema": "Intervenção em espelho",
+      "ts": "0:25:21"
+    },
+    {
+      "texto": "O paciente pode parar de pensar se a gente assume muito a postura do óbvio.",
+      "tema": "Grau de abertura da intervenção",
+      "ts": "0:26:16"
+    },
+    {
+      "texto": "Eu quis diferir só no conteúdo, não na forma.",
+      "tema": "Empatia pela forma (fala da monitorada)",
+      "ts": "0:27:13"
+    },
+    {
+      "texto": "Ele delega o pensar, ele delega a determinação para você.",
+      "tema": "Lugar do terapeuta",
+      "ts": "0:28:56"
+    },
+    {
+      "texto": "Devolver isso para o paciente, às vezes trocando uma palavra que seja, pode ser uma grande novidade.",
+      "tema": "Devolução",
+      "ts": "0:41:52"
+    },
+    {
+      "texto": "Não é possível que o mundo inteiro esteja errado e você não seja o problema.",
+      "tema": "Responsabilização",
+      "ts": "0:42:54"
+    },
+    {
+      "texto": "Ser observado não tem custo: só existindo, eu estou lá.",
+      "tema": "Passividade e atividade",
+      "ts": "0:51:52"
+    },
+    {
+      "texto": "A sofisticação de uma hipótese tem um efeito retroativo: todas as informações obtidas mudam um pouco de figura.",
+      "tema": "Formulação de caso",
+      "ts": "0:56:15"
+    },
+    {
+      "texto": "Se algo não encaixa na rede, é sinal de que ela não está relacionando as coisas da maneira mais fiel à realidade.",
+      "tema": "Critério de completude",
+      "ts": "0:57:20"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Terapeuta não é espelho.",
+      "mensagem": "O óbvio entrega a resposta, e quem recebe resposta pronta para de pensar; a intervenção aberta treina a pessoa a chegar à própria conclusão.",
+      "roteiro": [
+        "Cena: alguém corre ao espelho do restaurante para limpar o rosto",
+        "Ninguém vai ao espelho para refletir, vai para resolver",
+        "Na terapia, o óbvio funciona igual: entrega a resposta",
+        "Risco: o paciente para de pensar e delega a conclusão",
+        "Quando usar o espelho: quando a pessoa não enxerga a própria emoção",
+        "No resto, prefira perguntas que deixem a conclusão com o paciente"
+      ],
+      "corte_inicio": "0:24:25",
+      "corte_fim": "0:26:16"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "1 hora contra 167.",
+      "mensagem": "A semana tem 168 horas e a terapia ocupa uma; a mudança depende do que o paciente faz nas outras 167.",
+      "roteiro": [
+        "Capa: 168 horas por semana. A terapia é 1.",
+        "As outras 167 não estão ao alcance do terapeuta",
+        "Por isso a implicação do paciente é condição de eficácia",
+        "Terapia não é só desabafo: é o que você leva para fora dela",
+        "Pergunta final: o que você faz com a sua sessão no resto da semana?"
+      ],
+      "corte_inicio": "0:10:52",
+      "corte_fim": "0:12:24"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "A técnica dos patos e do cachorro.",
+      "mensagem": "Quando alguém repete uma tese sobre si, pergunte pela exceção e deixe que ela cresça até questionar a regra.",
+      "roteiro": [
+        "Capa: 'minha vida é só patos'... e um cachorro no meio",
+        "Pacientes repetem teses sobre si",
+        "Intervir no que se repete é chover no molhado",
+        "Pergunte pela exceção e deixe que ela ganhe peso",
+        "Pergunta final: 'tem certeza de que é só patos?'",
+        "Por que funciona: amplia o campo de visão sem confronto"
+      ],
+      "corte_inicio": "0:18:54",
+      "corte_fim": "0:20:36"
+    },
+    {
+      "formato": "post",
+      "pilar": "clinica-na-pratica",
+      "gancho": "O jeito de falar também é conteúdo.",
+      "mensagem": "Forma e conteúdo: abstração, distância e metáforas prontas dizem como a pessoa se implica (ou não) no que conta.",
+      "roteiro": [
+        "O que a pessoa diz",
+        "Como a pessoa diz",
+        "Pergunta-chave: que conteúdo essa forma carrega?"
+      ],
+      "corte_inicio": "0:12:24",
+      "corte_fim": "0:14:40"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Toda hipótese nova muda o passado do caso.",
+      "mensagem": "Uma hipótese mais profunda ressignifica tudo o que você já sabia; se sobra ponta solta, falta algo ou a hipótese está errada.",
+      "roteiro": [
+        "Você chega a um 'achado' no caso",
+        "Erro comum: esquecer o que veio antes",
+        "O achado muda o sentido do material anterior",
+        "Teste: tudo encaixa? Pontas soltas indicam erro ou lacuna",
+        "Imagem: uma rede de notas em que tudo precisa se conectar"
+      ],
+      "corte_inicio": "0:55:39",
+      "corte_fim": "0:58:07"
+    },
+    {
+      "formato": "stories",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Como é uma monitoria com paciente simulado por IA?",
+      "mensagem": "O terapeuta atende por escrito um personagem de IA, lê a conversa com o grupo e o supervisor pausa a cada intervenção para perguntar 'por quê?'.",
+      "roteiro": [
+        "Story 1: o que é a monitoria",
+        "Story 2: o paciente é uma IA (nenhum dado real)",
+        "Story 3: lemos juntos, fala a fala",
+        "Story 4: a pergunta que mais aparece: por que você interveio assim?",
+        "Story 5: convite para participar"
+      ],
+      "corte_inicio": "0:00:07",
+      "corte_fim": "0:01:36"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Antoine de Saint-Exupéry",
+      "contexto": "O Pequeno Príncipe: a fala da raposa sobre ser responsável por aquilo que se cativa, usada por Diogo para ler a recusa do paciente à responsabilidade que acompanha o talento."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Monitoria com Diogo (tema aberto)",
+    "objetivo": "Acompanhamento individual do 'terapeuta do dia' a partir de atendimentos escritos com o paciente simulado por IA da Allos; aqui, com o tema emergindo do caso em vez de ser pré-definido.",
+    "publico": "Participantes da formação clínica da Allos (estudantes de psicologia e terapeutas em formação): uma monitorada e ouvintes; a presença pode contar como horas na universidade.",
+    "tamanho": "Uma monitorada e dois ouvintes nesta gravação.",
+    "duracao": "Cerca de 1 hora (esta terminou alguns minutos antes).",
+    "estrutura_padrao": "Enquadre para novos → retomada do caso → critério da intervenção → leitura fala a fala com perguntas abertas e justificativas → acréscimos do supervisor → pergunta-síntese → combinados de continuidade e formulário de presença.",
+    "papel_facilitador": "Pausa a leitura, pergunta antes de ensinar, pede justificativas, desloca do conteúdo para a forma, acrescenta leituras com analogias e fecha com uma síntese transferível.",
+    "regras_combinados": "Monitorias semanais (sexta à tarde, segundo o fechamento); o mesmo caso continua nas semanas seguintes; formulário de presença e avaliação ao final; nenhum dado de paciente real (uso do bot)."
+  },
+  "reflexoes_do_facilitador": [
+    "Anuncia que está experimentando um novo formato: tema aberto em vez de um tema pré-definido por monitoria.",
+    "Admite que não tinha pensado no movimento de concretização da monitorada ('onde mais isso aparece?') e que achou interessante.",
+    "Questiona se sua leitura de que o paciente termina tudo com uma pergunta não é viés de confirmação 'para me justificar enquanto monitor'.",
+    "Reconhece o limite da IA (terminar sempre com uma pergunta) e diz que está 'começando a ser refutado' por um participante de outra monitoria que tinha apontado isso.",
+    "Diz que não costuma falar com pacientes a frase 'não é possível que o mundo inteiro esteja errado' porque é dura demais."
+  ],
+  "referencias_a_outros_encontros": [
+    "Continuação de uma monitoria anterior com a mesma monitorada e o mesmo personagem ('terça retrasada'), cujo tema foi empatia e relação terapêutica (provavelmente mon-19).",
+    "Um ouvinte conta que já tinha participado de uma monitoria com João (de Bragança) na sexta anterior.",
+    "Diogo cita outra monitoria em que um participante observou que a IA sempre termina com uma pergunta.",
+    "O mesmo personagem ('homem ridículo') aparece na Monitoria 01 do Alan.",
+    "Próxima monitoria: sexta, mantendo o horário; o cronograma vai mudar, e o caso continua."
+  ],
+  "observacoes": "Transcrição automática com ruído: 'descrição' = discrição; 'retificação subjetiva' bem reconhecida; 'amanax' = almanaques; 'aos' = Allos. Paciente simulado por IA; as falas do personagem foram parafraseadas ou citadas em fragmentos. Diogo cita um caso clínico próprio (paciente com apatia), descrito aqui sem dados. Encerramento antecipado porque a monitorada tinha outro compromisso. No fechamento são citados dois ouvintes além da monitorada. O Obsidian é mencionado como rede de notas (coincidência com este vault)."
+}

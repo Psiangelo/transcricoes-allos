@@ -1,0 +1,747 @@
+{
+ "id": "acervo-03",
+ "nota": "Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "Intervenção confrontativa com vídeo de Fritz Perls",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Aprimoramento clínico (roda de discussão com análise de vídeo)",
+ "facilitadores": [
+  "Facilitador não identificado"
+ ],
+ "resumo": "Encontro em formato de roda de discussão: o facilitador sonda a experiência clínica do grupo e pergunta se as pessoas gostam de fazer intervenção confrontativa, colhendo receios (insegurança, mal-entendido, falta de empatia, abandono em clínica-escola) e exemplos de uso. A partir das falas, escreve na tela três critérios de uso: vínculo forte, paciente 'parado'/passivo e contradição clara e recorrente no discurso. Em seguida, o grupo analisa, com pausas, trechos do atendimento de Fritz Perls no Caso Glória e descobre usos não previstos: produzir significado novo, bloquear a esquiva repetindo a pergunta e observar in natura como a paciente lida com o desconforto. Um debate sobre se repetir a pergunta três vezes é invasivo termina com a posição do facilitador (não é invasivo por definição, mas exige vínculo, certeza suficiente e não voltar atrás). O encontro é encerrado mais cedo, com a síntese de que o confronto é rico, traz informação nova e deve ser dosado (uma confrontação forte por sessão, no começo).",
+ "em_uma_frase": "O grupo constrói critérios para a intervenção confrontativa a partir dos próprios receios (vínculo, paciente parado, contradição no discurso) e os testa contra Fritz Perls no Caso Glória, descobrindo que o confronto também serve para produzir significado novo, bloquear a esquiva e observar ao vivo como o paciente lida com o desconforto.",
+ "competencias": [
+  "Intervenção",
+  "Relação terapêutica",
+  "Aprofundamento",
+  "Articulação teoria-prática",
+  "Pessoa do terapeuta"
+ ],
+ "abordagens": [
+  "Gestalt-terapia"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:02",
+   "bloco": "Abertura",
+   "descricao": "Aviso de gravação; 'quem já atende levanta a mão'; mapeamento da experiência (estágio, extensão, formados, quem não atende).",
+   "funcao": "Calibrar o grupo e convidar quem não atende a imaginar ou planejar o próprio atendimento.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:00:44",
+   "bloco": "Rodada de respostas",
+   "descricao": "Pergunta disparadora: 'Vocês gostam de fazer intervenção confrontativa?' e por quê. Receios: insegurança, mal-entendido, falta de empatia.",
+   "funcao": "Começar pelos afetos e crenças do grupo, não pela teoria.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:05:32",
+   "bloco": "Rodada de respostas",
+   "descricao": "Quando cada um usa: relatos anonimizados de contradições apontadas a pacientes; o facilitador qualifica os usos.",
+   "funcao": "Extrair critérios da prática real.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:09:36",
+   "bloco": "Discussão",
+   "descricao": "Excesso de confronto (terapeuta vivida como intimidadora) e erro do próprio facilitador (confronto precoce, perda de credibilidade).",
+   "funcao": "Mostrar os riscos opostos e normalizar o erro.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:11:51",
+   "bloco": "Discussão",
+   "descricao": "'Confrontar para expor uma contradição é benéfico?' Vínculo, paciente estagnado, 'no tempo certo', 'depende'.",
+   "funcao": "Passar de preferência pessoal a critério.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:15:19",
+   "bloco": "Teoria",
+   "descricao": "Síntese: o vínculo sustenta o confronto; contradição recorrente; estágio de mudança.",
+   "funcao": "Consolidar as falas num princípio.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:16:56",
+   "bloco": "Teoria",
+   "descricao": "Escreve na tela três critérios: vínculo forte, paciente parado/passivo, contradição no discurso.",
+   "funcao": "Materializar a lista que servirá de lente para o vídeo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:18:56",
+   "bloco": "Demonstração",
+   "descricao": "Apresenta o vídeo de Fritz Perls com a paciente do Caso Glória ('não façam isso em casa') e pede que observem os usos do confronto.",
+   "funcao": "Preparar a observação dirigida.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:21:03",
+   "bloco": "Discussão",
+   "descricao": "Pausas 1 e 2: 'tem medo, mas está sorrindo' (contradição do discurso); o 'canto' onde ela quer se proteger (talvez 'gás').",
+   "funcao": "Testar os critérios contra um atendimento real.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:24:45",
+   "bloco": "Discussão",
+   "descricao": "Pausa 3: 'você é uma garotinha?', repetido; o facilitador mostra que não se encaixa em nenhum critério.",
+   "funcao": "Criar um problema que obriga a ampliar a lista.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:26:39",
+   "bloco": "Rodada de respostas",
+   "descricao": "'Por que ele confronta isso e repete a pergunta?' Hipóteses: resistência, fazê-la enxergar, produzir significado novo.",
+   "funcao": "Análise guiada da intervenção do mestre.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:28:50",
+   "bloco": "Demonstração",
+   "descricao": "Mais um trecho do vídeo.",
+   "funcao": "Novo material para análise.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:30:50",
+   "bloco": "Discussão",
+   "descricao": "Reminiscência; repetir a pergunta = 'não há esquiva possível'; o confronto gera angústia e permite observar os recursos da paciente.",
+   "funcao": "Transformar observações em novos usos do confronto.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:35:37",
+   "bloco": "Discussão",
+   "descricao": "Dilema de uma participante: 'repetir três vezes não é invasivo?'. Respostas: tem finalidade; o silêncio também é resposta; depende da dinâmica.",
+   "funcao": "Acolher o dissenso e deixar o grupo pensar antes da posição do facilitador.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:38:19",
+   "bloco": "Teoria",
+   "descricao": "Não fazer no primeiro encontro; analogia com críticas de pessoas próximas e de estranhos; não voltar atrás; 'não existe manual'.",
+   "funcao": "Fundamentar o critério do vínculo e o 'como fazer'.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:41:39",
+   "bloco": "Discussão",
+   "descricao": "Posição do facilitador: não é invasivo por definição; certeza suficiente versus suspeita.",
+   "funcao": "Fechar o debate com uma posição justificada.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:42:54",
+   "bloco": "Fechamento",
+   "descricao": "Encerra mais cedo (outro compromisso na Allos). Síntese: o confronto é rico e traz uma camada nova; 'não façam como Perls'; dosagem pessoal; com a prática fica sustentável.",
+   "funcao": "Reduzir o medo sem banalizar o risco; deixar uma regra prática.",
+   "duracao_min": 4
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Confronto terapêutico",
+   "definicao": "Chamado no encontro de 'intervenção confrontativa': pôr o paciente diante de algo que ele não vê ou evita (uma contradição, uma mudança de versão, um sentimento recusado, uma esquiva). É arriscado, mas costuma trazer informação nova e 'revigorar' o caso.",
+   "exemplo": "Perls: 'você diz que está com medo, mas está sorrindo'.",
+   "abordagem": "",
+   "ts": "0:00:44"
+  },
+  {
+   "nome": "Apontamento de contradição",
+   "definicao": "Evidenciar ao paciente que o discurso dele é contraditório. Terceiro critério do grupo; mais seguro quando a contradição é clara e recorrente.",
+   "exemplo": "Paciente que exaltava a 'liberdade' de um estilo de vida anterior, mas descrevia esconderijos e restrições.",
+   "abordagem": "",
+   "ts": "0:17:57"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "O 'vínculo' que sustenta o confronto e faz com que ele não separe terapeuta e paciente. Sem vínculo, a crítica não faz efeito ou rompe a relação.",
+   "exemplo": "A crítica de alguém próximo é suportável; a de um estranho não pega.",
+   "abordagem": "",
+   "ts": "0:15:19"
+  },
+  {
+   "nome": "Ruptura e reparo da aliança",
+   "definicao": "O risco de 'quebrar' a relação terapêutica com um confronto feito sem vínculo, cedo demais ou em excesso, levando ao abandono.",
+   "exemplo": "Em clínica-escola, com processos curtos, 'qualquer deslize a pessoa pode desistir'.",
+   "abordagem": "",
+   "ts": "0:07:37"
+  },
+  {
+   "nome": "Timing da intervenção",
+   "definicao": "O 'tempo certo' do confronto: depois de formado o vínculo, nunca no primeiro encontro e, de preferência, no começo da sessão, para haver tempo de elaborar o impacto.",
+   "exemplo": "Um participante conta que o próprio terapeuta o confrontou depois de um ano e meio de processo, e a terapia 'destravou'.",
+   "abordagem": "",
+   "ts": "0:13:40"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Aquilo que o paciente opõe ao contato com certos conteúdos. O confronto repetido de Perls é lido como forma de superá-la; ficar sempre dentro do campo da resistência impede a mudança.",
+   "exemplo": "A paciente foge da pergunta 'você é uma garotinha?', e Perls a repete.",
+   "abordagem": "",
+   "ts": "0:27:08"
+  },
+  {
+   "nome": "Esquiva",
+   "definicao": "Usada como conceito geral (não no sentido estrito da análise do comportamento): fugir do tema proposto. Se o paciente se esquiva na sessão, é de supor que se esquiva na vida; mostrar que ali a esquiva não é possível abre espaço para outros comportamentos.",
+   "exemplo": "A paciente devolve ao terapeuta ('você me deixa desconfortável') em vez de responder.",
+   "abordagem": "",
+   "ts": "0:32:32"
+  },
+  {
+   "nome": "Repetição da pergunta",
+   "definicao": "Repetir intencionalmente a mesma pergunta diante da fuga do paciente para comunicar 'não há escapatória, vamos falar disso agora'. Repetir sem critério não leva a nada.",
+   "exemplo": "Perls pergunta várias vezes 'você é uma garotinha?'.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:31:30"
+  },
+  {
+   "nome": "Observação in natura",
+   "definicao": "Criar, na própria relação terapêutica, uma situação de desconforto para observar ao vivo como o paciente lida com angústia. Os recursos que ele usa com o terapeuta 'não são à toa': refletem sua história e constituição e orientam intervenções que abram repertório novo.",
+   "exemplo": "Observar se o paciente desvia, se cala, chora ou devolve ao terapeuta diante do confronto.",
+   "abordagem": "",
+   "ts": "0:33:24"
+  },
+  {
+   "nome": "Credibilidade clínica",
+   "definicao": "A confiança do paciente na competência do terapeuta. É perdida quando se confronta sem informação suficiente e o confronto parece implicância.",
+   "exemplo": "O facilitador confrontou cedo demais; o paciente só trouxe uma informação que faltava, e ele pôde apenas dizer 'ah, entendi'.",
+   "abordagem": "",
+   "ts": "0:09:36"
+  },
+  {
+   "nome": "Dosagem do confronto",
+   "definicao": "Regular a quantidade e a intensidade dos confrontos: no máximo uma confrontação forte por sessão, deixando 'marinar'; o excesso torna a terapia angustiante e o terapeuta intimidador.",
+   "exemplo": "Relato de uma terapeuta que confrontava tanto que a paciente vivia as sessões angustiada.",
+   "abordagem": "",
+   "ts": "0:45:24"
+  },
+  {
+   "nome": "Postura não moralista",
+   "definicao": "Ao confrontar, apontar a incoerência do discurso sem julgar a conduta como certa ou errada, mesmo diante de temas ilícitos ou socialmente reprováveis.",
+   "exemplo": "Não se trata de dizer que o estilo de vida era errado, mas que o paciente se contradisse.",
+   "abordagem": "",
+   "ts": "0:08:33"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "O momento do paciente em relação à mudança e ao tema condiciona o efeito do confronto: antes de certo amadurecimento, ele pode não conseguir ver o que é apontado.",
+   "exemplo": "Uma participante lembra que a paciente só percebeu o papel de um familiar no próprio adoecimento depois de algumas sessões.",
+   "abordagem": "",
+   "ts": "0:16:56"
+  },
+  {
+   "nome": "Caso Glória",
+   "definicao": "Atendimento filmado em que a paciente Gloria é atendida por Fritz Perls (entre outros terapeutas, em filmes clássicos). Serve aqui de material de análise de confrontos 'num nível bem hard'.",
+   "exemplo": "Contradição medo/sorriso, o 'canto', 'você é uma garotinha?'.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:18:56"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Critérios construídos pelo grupo",
+   "objetivo": "Tirar da experiência e dos receios do grupo uma lista de critérios de uso de uma intervenção (aqui, a confrontativa), que depois será testada.",
+   "competencias": [
+    "Intervenção",
+    "Relação terapêutica",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Grupo todo, online, cerca de 9 participantes ativos, por voz e chat; facilitador com tela compartilhada para anotar.",
+   "tempo": "Cerca de 18 minutos",
+   "materiais": "Tela ou quadro para escrever os critérios.",
+   "consigna": "Quem já atende e quem não atende: imaginem ou planejem o atendimento que gostariam de fazer. Vocês gostam de fazer intervenção confrontativa? Por quê? Em que situações usam? Depois: vocês acham que confrontar o paciente, expondo uma contradição, é benéfico para o processo?",
+   "passos": [
+    "Sondar a experiência clínica do grupo (mão levantada).",
+    "Fazer a pergunta de preferência (gosta ou não gosta) e pedir o porquê.",
+    "Aprofundar cada receio com pergunta de precisão ('insegurança de quê, exatamente?') e parafrasear para checar.",
+    "Pedir exemplos concretos de uso e comentar a qualidade de cada um.",
+    "Fazer a segunda pergunta (é benéfico?) para passar de preferência a critério.",
+    "Sintetizar e escrever os critérios na tela com as palavras do grupo."
+   ],
+   "feedback": "Valida os usos pelos efeitos (contradição evidenciada, reflexão do paciente, ausência de moralismo) e pela cautela (usar quando há clareza, não na ambiguidade); nomeia riscos com exemplos próprios; brinca com o 'depende' e pede o critério por trás.",
+   "exemplos_praticos": "Uma participante apontou a contradição entre a 'liberdade' que um paciente atribuía a um estilo de vida anterior e as restrições que ele mesmo descrevia; outra perguntou a uma paciente o que a fez mudar de versão sobre um familiar, depois de várias sessões e com vínculo formado. Ambos os usos foram considerados 'sábios'. Resultado: vínculo forte, paciente parado/passivo, contradição clara e recorrente, estágio de mudança.",
+   "variacoes": "Pode ser usada para qualquer intervenção temida (silêncio, autorrevelação, psicoeducação). Combina com a videoanálise ou com vinhetas para testar a lista.",
+   "armadilhas": "A resposta 'depende' sem critério; ficar só no relato pessoal; a lista tende a ser incompleta, o que é bom se houver uma etapa de teste depois.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:00:44"
+  },
+  {
+   "nome": "Dinâmica - Análise de vídeo de atendimento",
+   "objetivo": "Testar os critérios do grupo contra o atendimento filmado de um terapeuta de referência e descobrir usos da intervenção que a lista não previa.",
+   "competencias": [
+    "Intervenção",
+    "Articulação teoria-prática",
+    "Aprofundamento"
+   ],
+   "configuracao": "Grupo todo, online; o facilitador compartilha o vídeo (aqui, Fritz Perls no Caso Glória, em inglês, cerca de 30 min, com trechos selecionados).",
+   "tempo": "Cerca de 24 minutos, com 4 ou 5 pausas",
+   "materiais": "Vídeo de atendimento real ou demonstrativo; os critérios anotados na tela.",
+   "consigna": "Quero que vocês observem como ele faz uso das intervenções confrontativas. A cada pausa: que critério é esse? Ele fez isso para evidenciar a contradição ou para outra coisa? Diante do trecho que não encaixa: por que ele confrontou especificamente isso e repetiu a pergunta?",
+   "passos": [
+    "Contextualizar rapidamente e pular a parte menos relevante do vídeo.",
+    "Avisar do risco ('não façam isso em casa').",
+    "Rodar até a primeira intervenção relevante e pausar.",
+    "Pedir que o grupo relacione a intervenção a um critério da lista.",
+    "Quando um trecho não se encaixar, perguntar 'por quê?' e deixar o grupo levantar hipóteses pelo chat e pela voz.",
+    "Elaborar as hipóteses em novos usos e acrescentá-los à lista.",
+    "Abrir o dilema que o vídeo provoca ('é invasivo?'), ouvir várias posições e só no fim dar a própria.",
+    "Oferecer o link do vídeo completo."
+   ],
+   "feedback": "Aceita hipóteses e as prolonga ('uma continuação possível seria...'); distingue 'contradição' de 'dado'; corrige vocabulário importado de outra abordagem sem desautorizar; dá posição própria justificada no fim.",
+   "exemplos_praticos": "O grupo leu a repetição de Perls como resposta à resistência, como tentativa de fazê-la 'enxergar como realmente é', como busca de reminiscência e como produção de angústia para ver os recursos da paciente. Uma participante achou invasivo; outra disse que dá 'agonia', mas mostra muitos elementos. O facilitador sustentou que não é invasivo por definição.",
+   "variacoes": "Trocar o vídeo (outros terapeutas do mesmo caso, outras abordagens). Sugestão do fichamento, não feita no encontro: pedir que cada participante reescreva um confronto do vídeo numa versão mais branda, transformando a análise em treino de execução.",
+   "armadilhas": "Áudio em língua estrangeira sem legenda; tomar o mestre como modelo literal (o facilitador reforça que Perls é 'exagerado e didático'); tempo curto para ver o vídeo; o grupo analisa, mas não pratica.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:18:56"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Sondar a experiência antes de tudo",
+   "descricao": "Pede que levantem a mão os que já atendem e convida os que não atendem a imaginar o próprio atendimento, para que todos possam responder.",
+   "exemplo": "'Quem aqui já atende em alguma modalidade, levanta a mão.'",
+   "ts": "0:00:02"
+  },
+  {
+   "movimento": "Pergunta de preferência como porta de entrada",
+   "descricao": "Começa por 'vocês gostam de...?' em vez de uma definição, trazendo à tona afetos e receios que viram matéria-prima de critérios.",
+   "exemplo": "'Vocês gostam de fazer intervenção confrontativa?'",
+   "ts": "0:00:44"
+  },
+  {
+   "movimento": "Integrar chat e voz",
+   "descricao": "Lê os comentários do chat em voz alta e convida quem digita a falar se quiser.",
+   "exemplo": "'Se você quiser comentar também, pode ficar à vontade.'",
+   "ts": "0:05:05"
+  },
+  {
+   "movimento": "Pergunta de precisão e paráfrase",
+   "descricao": "Aprofunda o receio e devolve o que entendeu para checar.",
+   "exemplo": "'Você sente insegurança de que exatamente?' / 'Então você tem medo de fazer uma intervenção confrontativa que não faça sentido.'",
+   "ts": "0:02:45"
+  },
+  {
+   "movimento": "Autorrevelação de erro",
+   "descricao": "Conta um confronto precoce próprio que lhe custou credibilidade, normalizando o erro e ilustrando o risco.",
+   "exemplo": "'Isso perdeu muito a minha credibilidade enquanto clínico naquele momento.'",
+   "ts": "0:09:36"
+  },
+  {
+   "movimento": "Validação qualificada",
+   "descricao": "Explica por que um uso relatado foi bom (tocou em pontos importantes, sem moralismo, com clareza).",
+   "exemplo": "'Achei um uso muito sábio da intervenção confrontativa.'",
+   "ts": "0:08:33"
+  },
+  {
+   "movimento": "Brincar com o 'depende'",
+   "descricao": "Acolhe com humor a 'resposta de ouro do psicólogo' e pede o critério por trás.",
+   "exemplo": "'A melhor resposta do psicólogo é depende.' / 'Por que você acha que sim e no tempo certo?'",
+   "ts": "0:13:40"
+  },
+  {
+   "movimento": "Sintetizar e escrever na tela",
+   "descricao": "Transforma falas dispersas em três critérios visíveis, usando as palavras dos participantes.",
+   "exemplo": "Troca 'parado' por 'passivo', a palavra de um participante.",
+   "ts": "0:16:56"
+  },
+  {
+   "movimento": "Vídeo como teste de hipóteses",
+   "descricao": "Pausa e pede que o grupo relacione a intervenção aos critérios; escolhe um trecho que não encaixa para forçar a ampliação da lista.",
+   "exemplo": "'Vamos ver se ele fez isso para evidenciar para a Glória ou para outra coisa.'",
+   "ts": "0:21:03"
+  },
+  {
+   "movimento": "Advertência com humor",
+   "descricao": "Mantém a leveza diante de material desconfortável sem banalizar o risco.",
+   "exemplo": "'Não façam isso em casa'; 'foi mais rápido que Tramontina'.",
+   "ts": "0:18:56"
+  },
+  {
+   "movimento": "Prolongar a hipótese do participante",
+   "descricao": "Leva a ideia de uma participante até a consequência clínica.",
+   "exemplo": "'Uma continuação possível poderia ser: mas então por que você está se sentindo como uma?'",
+   "ts": "0:27:48"
+  },
+  {
+   "movimento": "Corrigir vocabulário sem desautorizar",
+   "descricao": "Reformula a própria frase ao perceber que usou um termo psicanalítico ('mecanismo de defesa') fora do sentido pretendido.",
+   "exemplo": "'Não quis dizer defesa enquanto conceito da psicanálise; vou reformular.'",
+   "ts": "0:33:24"
+  },
+  {
+   "movimento": "Adiar a própria opinião no dissenso",
+   "descricao": "Diante do 'é invasivo?', ouve e lê várias respostas antes de dar 'a minha visão'.",
+   "exemplo": "'Que que vocês acham, pessoal? É invasivo fazer a pergunta três vezes?'",
+   "ts": "0:35:37"
+  },
+  {
+   "movimento": "Analogia cotidiana",
+   "descricao": "Usa conflitos familiares, amorosos e com estranhos para fundamentar o papel do vínculo.",
+   "exemplo": "Uma pessoa aleatória dizendo 'você tem que ser mais educado' não faz efeito.",
+   "ts": "0:38:19"
+  },
+  {
+   "movimento": "Fechar com síntese, prática pessoal e normalização",
+   "descricao": "Diz o que o encontro mostrou, conta a própria dosagem e admite que para alguns nunca ficará confortável; é transparente sobre encerrar mais cedo.",
+   "exemplo": "'Talvez para alguns aqui nunca fique confortável, e não tem problema.'",
+   "ts": "0:42:54"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Confronte uma contradição quando ela estiver clara ou for recorrente; na ambiguidade, pergunte mais antes.",
+   "justificativa": "Na dúvida, o confronto pode ser um mal-entendido do terapeuta e soar como falta de empatia.",
+   "contexto": "Ao perceber incoerências no discurso.",
+   "competencia": "Intervenção",
+   "ts": "0:07:37"
+  },
+  {
+   "dica": "Na suspeita, prefira uma intervenção aberta que traga informação; confronte quando tiver certeza suficiente (não precisa ser 100%).",
+   "justificativa": "Um confronto mal feito é muito comprometedor.",
+   "contexto": "Quando o impulso de confrontar vem antes de dados suficientes.",
+   "competencia": "Intervenção",
+   "ts": "0:41:39"
+  },
+  {
+   "dica": "Não confronte no começo do processo sem ter perguntado o bastante.",
+   "justificativa": "Se a resposta for só uma informação que faltava, o terapeuta perde credibilidade e parece implicância.",
+   "contexto": "Primeiras sessões.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:09:36"
+  },
+  {
+   "dica": "Construa vínculo antes de intervenções fortes.",
+   "justificativa": "O vínculo sustenta o confronto e impede a ruptura; sem ele, a crítica não faz efeito ou afasta.",
+   "contexto": "Nunca no primeiro encontro.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:38:19"
+  },
+  {
+   "dica": "Use o confronto para dar 'gás' quando o processo patina com um paciente engajado.",
+   "justificativa": "Ajuda a achar um tema relevante e a tirar o paciente da passividade.",
+   "contexto": "Sessões repetitivas, sempre o mesmo assunto.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:13:03"
+  },
+  {
+   "dica": "Aponte a contradição sem moralizar.",
+   "justificativa": "O terapeuta não assume postura moralista; o que se mostra é a incoerência, não o 'errado'.",
+   "contexto": "Temas ilícitos ou socialmente reprováveis.",
+   "competencia": "Intervenção",
+   "ts": "0:08:33"
+  },
+  {
+   "dica": "Diante da esquiva, repita a pergunta de propósito, não por inércia.",
+   "justificativa": "A repetição intencional comunica 'vamos falar disso' e bloqueia a fuga; repetir sem critério não leva a nada.",
+   "contexto": "Paciente que foge sistematicamente de perguntas abertas, com vínculo.",
+   "competencia": "Aprofundamento",
+   "ts": "0:31:30"
+  },
+  {
+   "dica": "Observe como o paciente reage ao desconforto que o confronto cria.",
+   "justificativa": "O modo como ele lida com a angústia na sessão reflete sua história e orienta as próximas intervenções.",
+   "contexto": "Depois de uma intervenção tensa.",
+   "competencia": "Formulação de caso",
+   "ts": "0:33:24"
+  },
+  {
+   "dica": "Leve em conta o silêncio como resposta ao confronto.",
+   "justificativa": "Não responder já é um dado; há outras opções além de insistir.",
+   "contexto": "Quando o paciente não responde.",
+   "competencia": "Escuta clínica",
+   "ts": "0:37:22"
+  },
+  {
+   "dica": "Não se desdiga logo depois de confrontar.",
+   "justificativa": "'Não precisa responder' quebra a força da intervenção e devolve o paciente à defensiva.",
+   "contexto": "No momento em que o desconforto aparece.",
+   "competencia": "Intervenção",
+   "ts": "0:39:30"
+  },
+  {
+   "dica": "Faça no máximo uma confrontação forte por sessão e deixe 'marinar'.",
+   "justificativa": "Duas numa sessão já é muito pesado.",
+   "contexto": "Planejamento da sessão.",
+   "competencia": "Intervenção",
+   "ts": "0:45:24"
+  },
+  {
+   "dica": "Faça as intervenções mais fortes no começo da sessão.",
+   "justificativa": "Sobra tempo para conversar sobre como foi difícil, caso a intervenção mobilize muito.",
+   "contexto": "Sempre que puder escolher o momento.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:45:24"
+  },
+  {
+   "dica": "Em clínica-escola, redobre a cautela com confrontos.",
+   "justificativa": "Processos curtos e vínculo pouco solidificado aumentam o risco de abandono.",
+   "contexto": "Estágio.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:07:37"
+  },
+  {
+   "dica": "Considere o estágio de mudança do paciente em relação ao tema antes de confrontar.",
+   "justificativa": "Antes de certo amadurecimento, o paciente pode não conseguir ver o que é apontado.",
+   "contexto": "Ao escolher o momento do confronto.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:16:56"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A intervenção confrontativa é rica e não deve sair do repertório por medo.",
+   "argumento": "Em geral ela leva a lugares novos, traz informação nova e revigora o caso; o 'gás' é o acesso a uma camada nova de conhecimento do paciente.",
+   "contraponto": "O receio do grupo de perder o paciente, reconhecido como legítimo.",
+   "implicacao": "Treinar o confronto com dosagem, em vez de evitá-lo.",
+   "quem": "Facilitador (não identificado)",
+   "ts": "0:42:54"
+  },
+  {
+   "tese": "Repetir a mesma pergunta três vezes não é invasivo por definição.",
+   "argumento": "Com pacientes muito resistentes pode ser necessário; ficar sempre dentro do campo da resistência não promove mudança.",
+   "contraponto": "Uma participante achou invasivo e leu a esquiva como falta de preparo do paciente para elaborar.",
+   "implicacao": "Avaliar o contexto; a insistência pode ser a intervenção.",
+   "quem": "Facilitador (não identificado)",
+   "ts": "0:41:39"
+  },
+  {
+   "tese": "O vínculo é o que sustenta intervenções agressivas.",
+   "argumento": "Analogia com a vida: crítica de quem nos conhece é suportável e eficaz; crítica de estranho não pega.",
+   "contraponto": "Implícito: o confronto como técnica independente da relação.",
+   "implicacao": "Nada de confronto forte no primeiro encontro.",
+   "quem": "Facilitador e grupo",
+   "ts": "0:38:19"
+  },
+  {
+   "tese": "Não é preciso certeza absoluta para confrontar, mas não se confronta por mera suspeita.",
+   "argumento": "Na suspeita, uma intervenção aberta dá mais informação e mais segurança.",
+   "contraponto": "Uma participante que confronta 'só quando tenho muita certeza'.",
+   "implicacao": "Escalonar: perguntar antes, confrontar depois.",
+   "quem": "Facilitador (não identificado)",
+   "ts": "0:41:39"
+  },
+  {
+   "tese": "Não existe manual de intervenção confrontativa.",
+   "argumento": "Tudo depende do caso, do vínculo e do funcionamento do paciente; o grupo é espaço de reflexão.",
+   "contraponto": "A expectativa de regras fixas.",
+   "implicacao": "Treinar julgamento clínico, não fórmulas.",
+   "quem": "Facilitador (não identificado)",
+   "ts": "0:40:35"
+  },
+  {
+   "tese": "O modo como o paciente reage ao desconforto na sessão reflete sua história de vida.",
+   "argumento": "Não é à toa que ele desvia, se cala ou devolve ao terapeuta; a relação permite observar isso ao vivo.",
+   "contraponto": "",
+   "implicacao": "Usar a reação ao confronto como dado de formulação.",
+   "quem": "Facilitador, a partir de uma participante",
+   "ts": "0:34:34"
+  },
+  {
+   "tese": "Perls é exemplo exagerado e didático, não modelo a copiar.",
+   "argumento": "O nível de confronto é muito específico e delicado; mal feito, quebraria a relação.",
+   "contraponto": "A leitura do vídeo como técnica a reproduzir.",
+   "implicacao": "Ter o confronto intenso como possibilidade do leque, usado quando necessário.",
+   "quem": "Facilitador (não identificado)",
+   "ts": "0:45:24"
+  },
+  {
+   "tese": "Sustentar o confronto se aprende com a prática, mas pode nunca ficar confortável para alguns, e tudo bem.",
+   "argumento": "Experiência do próprio facilitador: vai ficando menos desconfortável.",
+   "contraponto": "A ideia de que só pode confrontar quem já se sente seguro.",
+   "implicacao": "Praticar quando necessário, sem exigir conforto prévio.",
+   "quem": "Facilitador (não identificado)",
+   "ts": "0:45:24"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "O vínculo sustenta o confronto: ele faz com que o confronto não separe você e seu paciente.",
+   "tema": "Vínculo e confronto",
+   "ts": "0:15:19"
+  },
+  {
+   "texto": "A gente vai trabalhar com muitas questões na clínica, mas não pode assumir uma postura moralista com o paciente.",
+   "tema": "Moralismo",
+   "ts": "0:08:33"
+  },
+  {
+   "texto": "Quando a gente repete uma pergunta, o que o terapeuta está comunicando é: não dá para fugir, nós vamos falar sobre isso agora.",
+   "tema": "Repetição da pergunta",
+   "ts": "0:31:30"
+  },
+  {
+   "texto": "Simular na relação terapêutica uma situação desconfortável é uma chance de observar in natura como o paciente lida com o desconforto.",
+   "tema": "Observação in natura",
+   "ts": "0:33:24"
+  },
+  {
+   "texto": "Se o paciente usa determinado recurso com você, não é à toa: isso reflete a história de vida dele.",
+   "tema": "Relação como amostra",
+   "ts": "0:34:34"
+  },
+  {
+   "texto": "Se a gente fica sempre dentro do campo da resistência do paciente, a gente não promove nenhuma mudança.",
+   "tema": "Resistência",
+   "ts": "0:41:39"
+  },
+  {
+   "texto": "Eu não espero ter 100% de certeza para confrontar, mas não vou confrontar quando só suspeito que pode ser bom.",
+   "tema": "Certeza e confronto",
+   "ts": "0:41:39"
+  },
+  {
+   "texto": "Não existe um manual de intervenção confrontativa. Aqui é um espaço para a gente discutir e refletir.",
+   "tema": "Sem receita",
+   "ts": "0:40:35"
+  },
+  {
+   "texto": "O gás do confronto não é gás por gás: em geral, é chegar a uma nova camada de conhecimento do paciente.",
+   "tema": "Função do confronto",
+   "ts": "0:42:54"
+  },
+  {
+   "texto": "Fazer duas numa sessão já é muito pesado. Eu faço uma, e depois deixo marinar.",
+   "tema": "Dosagem",
+   "ts": "0:45:24"
+  },
+  {
+   "texto": "O Perls é um exemplo exagerado e didático. Mas tenham isso como uma possibilidade no leque de vocês.",
+   "tema": "Modelos",
+   "ts": "0:45:24"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Quando confrontar um paciente? 3 critérios",
+   "mensagem": "Vínculo forte, processo parado e contradição clara e recorrente, com dois cuidados: sem moralismo e sem confrontar por suspeita.",
+   "roteiro": [
+    "Confrontar dá medo. E deve dar.",
+    "Critério 1: vínculo forte (o vínculo sustenta o confronto).",
+    "Critério 2: processo parado, o confronto como 'gás'.",
+    "Critério 3: contradição clara e recorrente.",
+    "Cuidado 1: aponte a incoerência, não o 'errado'.",
+    "Cuidado 2: na suspeita, pergunte mais antes."
+   ],
+   "corte_inicio": "0:16:56",
+   "corte_fim": "0:18:56"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Por que um terapeuta repetiria a mesma pergunta três vezes?",
+   "mensagem": "Repetir de propósito comunica 'não há escapatória' e bloqueia a esquiva, abrindo espaço para outro repertório.",
+   "roteiro": [
+    "Cena: paciente foge da pergunta.",
+    "Repetir sem critério não leva a nada.",
+    "Repetir porque ele foge comunica: vamos falar disso.",
+    "Se ele se esquiva aqui, provavelmente se esquiva na vida."
+   ],
+   "corte_inicio": "0:31:30",
+   "corte_fim": "0:33:04"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "O vínculo sustenta o confronto",
+   "mensagem": "A crítica de alguém próximo nos transforma; a de um estranho não pega. Na clínica é igual.",
+   "roteiro": [
+    "Frase de impacto.",
+    "Analogia: crítica de amigo versus de estranho.",
+    "Implicação: nada de confronto forte no primeiro encontro."
+   ],
+   "corte_inicio": "0:38:19",
+   "corte_fim": "0:39:30"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Medo de confrontar? Os 4 receios de quem está começando",
+   "mensagem": "Não fazer sentido, não sustentar, parecer falta de empatia, perder o paciente, e o que fazer com cada receio.",
+   "roteiro": [
+    "Receio 1: e se não fizer sentido?",
+    "Receio 2: e se eu não sustentar?",
+    "Receio 3: e se parecer falta de empatia?",
+    "Receio 4: e se o paciente sumir?",
+    "Respostas: vínculo, certeza suficiente, não voltar atrás, dosagem."
+   ],
+   "corte_inicio": "0:02:09",
+   "corte_fim": "0:04:11"
+  },
+  {
+   "formato": "reels",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "O que Fritz Perls fez nos primeiros segundos da sessão",
+   "mensagem": "'Você diz que tem medo, mas está sorrindo': o confronto na Gestalt e por que não copiar literalmente.",
+   "roteiro": [
+    "Contexto: os filmes clássicos com a paciente Gloria.",
+    "O confronto imediato.",
+    "O que ele revela.",
+    "Por que é exemplo exagerado e didático."
+   ],
+   "corte_inicio": "0:21:03",
+   "corte_fim": "0:22:03"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Uma confrontação forte por sessão, e no começo",
+   "mensagem": "Dosagem e timing: deixar marinar e ter tempo para acolher o impacto.",
+   "roteiro": [
+    "Regra: no máximo uma forte por sessão.",
+    "Onde: no começo.",
+    "Por quê: sobra tempo para elaborar."
+   ],
+   "corte_inicio": "0:45:24",
+   "corte_fim": "0:46:36"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "No grupo, a gente assiste a grandes terapeutas e pausa o vídeo para discutir",
+   "mensagem": "Convite para o formato de videoanálise do Aprimoramento.",
+   "roteiro": [
+    "Bastidor: tela com o vídeo pausado.",
+    "Pergunta ao público: que critério é esse?",
+    "Convite para o grupo."
+   ],
+   "corte_inicio": "0:18:56",
+   "corte_fim": "0:20:35"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Fritz Perls",
+   "contexto": "Terapeuta do vídeo analisado (Caso Glória); exemplo 'exagerado e didático' de intervenções confrontativas intensas na Gestalt-terapia."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Acervo) — roda de discussão com análise de vídeo",
+  "objetivo": "Refletir sobre uma intervenção temida (aqui, a confrontativa) partindo da experiência e dos receios dos participantes, construir critérios de uso em grupo e testá-los na análise do atendimento filmado de um terapeuta de referência.",
+  "publico": "Estudantes de psicologia (alguns em estágio obrigatório ou projeto de extensão) e psicólogos recém-formados, com e sem experiência de atendimento.",
+  "tamanho": "Cerca de 9 participantes ativos (voz e chat), online.",
+  "duracao": "47 min gravados; encerrado mais cedo (o facilitador cita duração média de 1h30).",
+  "estrutura_padrao": "Sondagem da experiência → pergunta pessoal disparadora (gosta ou não gosta, por quê, quando usa) → relatos e exemplos → segunda pergunta (é benéfico?) → síntese de critérios escrita na tela → vídeo com pausas, confrontando os critérios com o que o terapeuta faz → 'por que ele fez isso?' diante do trecho que não encaixa → debate de um dilema levantado pelo grupo → posição do facilitador → fechamento com síntese, advertências e dosagem prática. Diferente do Alan (teoria mínima → exercício de produção → feedback), aqui a teoria é construída indutivamente, não há produção de intervenções e o feedback recai sobre raciocínios, não sobre desempenho.",
+  "papel_facilitador": "Mediador socrático: sonda, pergunta, parafraseia, lê o chat, sintetiza e escreve critérios, seleciona e pausa o vídeo, prolonga hipóteses do grupo, compartilha erros e a própria prática, e só dá opinião própria no fim ('a minha visão').",
+  "regras_combinados": "Gravação avisada; participação por voz (mão levantada) ou chat; 'não é manual, é espaço para discutir e refletir'; advertência 'não façam isso em casa' sobre o material do vídeo; casos dos participantes relatados sem identificação."
+ },
+ "reflexoes_do_facilitador": [
+  "Conta que já confrontou um paciente cedo demais, sem informação suficiente, e perdeu credibilidade clínica naquele momento.",
+  "Conta que viu o vídeo de Perls no começo da graduação, ficou assustado e só ao longo da formação foi entendendo o que acontecia.",
+  "Reconhece que encerra antes da duração média de 1h30 por outro compromisso na Allos.",
+  "Explicita a própria prática: no máximo uma confrontação forte por sessão, de preferência no começo; para ele, duas numa sessão 'já é muito pesado'.",
+  "Corrige-se ao usar 'mecanismo de defesa' num sentido psicanalítico não pretendido."
+ ],
+ "referencias_a_outros_encontros": [
+  "O facilitador menciona ter dito antes que o grupo tem duração média de 1h30 (provável referência a encontro ou combinado anterior).",
+  "O título original ('Encontro 5 e Encontro 6') sugere que o vídeo corresponde a dois encontros da série, mas a gravação mostra um único encontro de 47 min."
+ ],
+ "observacoes": "Facilitador não identificado com certeza: homem, atende pacientes, cita a própria graduação e 'outro compromisso da Allos'. Em 0:41:39 a legenda traz 'eu, Joe, eu Jo não espero...', o que pode ser o próprio nome (Jô/João (?)). O facilitador regular do grupo nessa fase parece ser Diogo (em Acervo 05, Rodolfo diz estar substituindo o Diogo), mas nada nesta gravação confirma que seja ele. Os trechos do vídeo de Perls estão em inglês e a legenda automática é quase ininteligível; a análise segue as descrições do facilitador em português. O Caso Glória é material público (filmes clássicos de demonstração); os casos relatados pelos participantes foram anonimizados e generalizados. A abertura menciona uma ferramenta que 'faz anotações' (provavelmente o assistente do Google Meet)."
+}

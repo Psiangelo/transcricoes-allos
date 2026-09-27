@@ -1,0 +1,837 @@
+{
+ "id": "mon-02",
+ "nota": "Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Leitura do caso e tomada de decisão clínica",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Primeira etapa da monitoria de uma aluna: Alan acompanha, fala a fala, a primeira sessão dela com uma paciente simulada por IA da ferramenta da Allos. Em vez de trabalhar linguagem (como fizera com outra aluna), foca na interpretação do caso e na tomada de decisão: a insistência em construir uma demanda, a leitura de falas sobre o mundo como pedidos ao terapeuta, o momento da psicoeducação e a psicoeducação implícita que revela os valores do terapeuta. Usa imagens (animal totêmico, encontro amoroso, A carta roubada), propõe reformulações mais fora da caixa e acusatórias e elogia uma distinção vocabular da aluna ('observadora' vs. 'atenta'). Critica a última intervenção, em que a aluna ocupou o lugar de mestre e a paciente se armou; ali seria o momento de encerrar. Feedback geral: ela intui melhor do que constrói intervenções, e deve treinar manter hipóteses 'quentes' em vez de esgotá-las.",
+ "em_uma_frase": "Supervisionando uma primeira sessão com paciente simulada, Alan investiga o raciocínio da aluna e ensina a ler o que o paciente pede ao terapeuta, a dosar psicoeducação e valores, a tirar o paciente do discurso pronto e a manter hipóteses abertas.",
+ "competencias": [
+  "Escuta clínica",
+  "Interpretação",
+  "Intervenção",
+  "Construção frasal",
+  "Aprofundamento",
+  "Psicoeducação",
+  "Relação terapêutica",
+  "Primeira sessão e entrevistas iniciais",
+  "Abertura e encerramento de sessão",
+  "Formulação de caso",
+  "Pessoa do terapeuta"
+ ],
+ "abordagens": [
+  "Terapias contextuais",
+  "Psicanálise lacaniana",
+  "Psicologia analítica junguiana",
+  "Fenomenologia e existencialismo"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:02",
+   "bloco": "Abertura",
+   "descricao": "Alan lembra a monitoria anterior (outra aluna, foco em linguagem) e propõe foco em interpretação e tomada de decisão; pergunta se a aluna prefere outro aspecto.",
+   "funcao": "Contratar o foco da supervisão com o supervisionando.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:01:54",
+   "bloco": "Combinados",
+   "descricao": "Protocolo: a aluna lê a própria fala e comenta, lê a fala da paciente e comenta; pode cortar trechos da paciente.",
+   "funcao": "Expor o raciocínio; o que se corta revela o que se julga relevante.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:02:51",
+   "bloco": "Discussão",
+   "descricao": "Abertura da sessão; insistência em construir uma demanda; Alan pede para 'guardar no bolso' a insistência e a regra do final presente no início.",
+   "funcao": "Suspender julgamento e criar marcadores para retomar.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:09:40",
+   "bloco": "Discussão",
+   "descricao": "Segunda fala da paciente; Alan pede criatividade clínica: temas e possibilidades.",
+   "funcao": "Abrir o leque interpretativo.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:14:15",
+   "bloco": "Demonstração",
+   "descricao": "Alan lê a fala: adaptação excessiva, convite a dizer como a vê (metáfora do encontro amoroso), demanda dirigida ao terapeuta.",
+   "funcao": "Modelar leitura fina.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:18:25",
+   "bloco": "Discussão",
+   "descricao": "'Cabe psicoeducação aqui?' A aluna diz que não; Alan elogia e explica o risco de violência.",
+   "funcao": "Avaliar o timing da psicoeducação.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:20:35",
+   "bloco": "Teoria",
+   "descricao": "Observar vs. mergulhar: resposta ao estilo da terapeuta, estágios de mudança, psicoeducação implícita.",
+   "funcao": "Relacionar resposta do paciente à intervenção do terapeuta.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:26:34",
+   "bloco": "Dinâmica",
+   "descricao": "Pergunta de 'um milhão de dólares' (para que ela te observa?) e o animal totêmico da paciente (gato vs. camaleão).",
+   "funcao": "Acessar percepção implícita e formular a performance da paciente.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:32:30",
+   "bloco": "Feedback",
+   "descricao": "Resposta da aluna; 'spoiler' de Alan; referência a Jung sobre o perigo de explicitar valores.",
+   "funcao": "Antecipar consequências de uma postura.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:35:32",
+   "bloco": "Discussão",
+   "descricao": "'Além do espelho': escolher entre duas direções; aluna desconfia de discurso construído.",
+   "funcao": "Treinar decisão entre caminhos clínicos.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:40:08",
+   "bloco": "Teoria",
+   "descricao": "A carta roubada (Poe/Lacan), atopon (Aristóteles/Gadamer), pergunta fora da caixa; proposta da dinâmica de adivinhação e intervenção que um colega faria.",
+   "funcao": "Fundamentar a intuição do discurso pronto.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:45:45",
+   "bloco": "Dinâmica",
+   "descricao": "Exercício relâmpago: aumentar a gradação da intervenção da aluna mantendo a intenção; Alan oferece variações.",
+   "funcao": "Treinar reformulação.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:49:03",
+   "bloco": "Discussão",
+   "descricao": "'Útil' e 'nesse contexto'; orgulho da adaptabilidade; valor vs. sintoma; FAP; intervenção tranquila vs. agressiva; hipótese como acusação.",
+   "funcao": "Escolher a palavra-chave e calibrar intensidade.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:59:06",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Gestão do tempo; comentário aos ouvintes sobre como outros alunos conduziram a mesma paciente simulada; proposta de comparar logs.",
+   "funcao": "Coletivizar o aprendizado.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:02:17",
+   "bloco": "Feedback",
+   "descricao": "Estilo pouco provocativo (estilo + abordagem); segunda janela para psicoeducação.",
+   "funcao": "Consciência do próprio estilo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:04:20",
+   "bloco": "Feedback",
+   "descricao": "Feedback estrutural: força (autoconsciência do que sente) e lacuna (da intuição à intervenção); proposta de manter hipóteses quentes.",
+   "funcao": "Dar direção de treino.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:09:49",
+   "bloco": "Discussão",
+   "descricao": "Distinção vocabular 'observadora' vs. 'atenta'; olho vs. músculo; imagem do gato.",
+   "funcao": "Valorizar e aprofundar a intervenção mais potente da aluna.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "1:19:17",
+   "bloco": "Feedback",
+   "descricao": "Última intervenção: devia ter fechado ali; discurso do mestre; a paciente 'se armou'; crítica a encerramentos procedimentais.",
+   "funcao": "Ensinar timing de encerramento.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:24:48",
+   "bloco": "Fechamento",
+   "descricao": "Tarefa (treinar de forma caricata ir menos a fundo e retomar hipóteses); pergunta ao grupo sobre formato e duração; fim da gravação.",
+   "funcao": "Consolidar treino e ajustar o dispositivo.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Final presente no início",
+   "definicao": "Regra operacional segundo a qual o final de uma narrativa costuma estar presente no início; para o bom intérprete clínico, a primeira fala do paciente tende a conter mais do que é preciso para construir o caso.",
+   "exemplo": "Toda a árvore está na semente (metáfora fenomenológica); todo bom filme tem o final no início (metáfora cultural).",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "0:07:43"
+  },
+  {
+   "nome": "Demanda dirigida ao terapeuta",
+   "definicao": "Leitura segundo a qual quase toda demanda que o paciente põe sobre o mundo (ou sobre outros, inclusive terapeutas anteriores) pode ser trabalhada como uma demanda ou mensagem dirigida ao terapeuta atual. Abre uma camada a mais de sentido.",
+   "exemplo": "Num encontro amoroso, quem diz 'tenho curiosidade sobre como as pessoas me percebem' convida o outro a dizer como a vê.",
+   "abordagem": "",
+   "ts": "0:17:26"
+  },
+  {
+   "nome": "Psicoeducação implícita",
+   "definicao": "Ensino do método e dos valores do terapeuta que ocorre sem ser dito, pelo jeito de perguntar e insistir. O paciente responde a esse método, às vezes de forma sutil.",
+   "exemplo": "Ao insistir em 'qual é sua questão?', a terapeuta ensinou que ali é preciso ter uma questão; a paciente respondeu que prefere observar a mergulhar fundo.",
+   "abordagem": "",
+   "ts": "0:23:28"
+  },
+  {
+   "nome": "Estágios de mudança",
+   "definicao": "Usados para ler a incompatibilidade entre a velocidade com que a paciente quer trabalhar e a velocidade da terapeuta.",
+   "exemplo": "Paciente que prefere 'observar' diante de terapeuta que quer aprofundar.",
+   "abordagem": "",
+   "ts": "0:25:32"
+  },
+  {
+   "nome": "Animal totêmico do paciente",
+   "definicao": "Imagem que o terapeuta fantasia sobre qual animal o paciente seria; dá acesso a processos do próprio terapeuta, coisas que ele percebeu sem saber que percebeu. Útil clinicamente, 'bizarro' se tomado como regra.",
+   "exemplo": "Aluna: gato (parece gostar de você, mas só quer comida; foge se você age de certo modo). Alan: camaleão (adapta-se ao ambiente).",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:30:01"
+  },
+  {
+   "nome": "Discurso pronto",
+   "definicao": "Fala ensaiada, encaixada demais, já repetida muitas vezes a todos, sobretudo por pessoas hiperadaptadas socialmente; todo mundo reage igual a ela. Pede uma pergunta inesperada que convide a um espaço diferente.",
+   "exemplo": "Transformar 'como você se vê?' em 'que cor você se imagina?' ou 'que marca de carro você é?'.",
+   "abordagem": "",
+   "ts": "0:44:07"
+  },
+  {
+   "nome": "Atopon",
+   "definicao": "Termo grego (de Aristóteles, lido em Gadamer) para o que está 'fora de lugar': a sensação de que algo não encaixa, característica da verdade. Relatos verdadeiros têm lapsos e incoerências; o encaixado demais é suspeito.",
+   "exemplo": "Histórias de detetive e 'A carta roubada', de Poe, comentada por Lacan no Seminário 2.",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "0:43:11"
+  },
+  {
+   "nome": "Valor e sintoma",
+   "definicao": "Valor e sintoma têm fenomenologia parecida: a pessoa sofre pelo sintoma e também se apaixona por ele; viver os próprios valores também faz sofrer. Por isso é difícil diferenciá-los rapidamente e é importante sublinhar quando algo sintomático é objeto de orgulho ou admiração.",
+   "exemplo": "O que torna alguém disfuncional num relacionamento é o mesmo que o torna interessante; 'é fácil se apaixonar pela nossa função inferior'.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:53:10"
+  },
+  {
+   "nome": "Hipótese quente",
+   "definicao": "Hipótese clínica mantida aberta, sem ser esgotada até uma resposta satisfatória (que a 'esfria'), para ser retomada e conectada mais adiante na sessão; trabalhar com três ou quatro hipóteses simultâneas.",
+   "exemplo": "Em vez de perseguir 'utilidade' até o fim, trocar de assunto e retomar depois, mostrando ao paciente a conexão.",
+   "abordagem": "",
+   "ts": "1:06:36"
+  },
+  {
+   "nome": "Distinção vocabular",
+   "definicao": "Intervenção que opõe duas palavras próximas usadas pelo paciente, forçando a linguagem a produzir sentidos que não eram óbvios; a linguagem não só descreve, produz acontecimentos internos.",
+   "exemplo": "'Observadora' vs. 'atenta': o olho vs. o músculo pronto para contrair.",
+   "abordagem": "",
+   "ts": "1:11:21"
+  },
+  {
+   "nome": "Quatro discursos de Lacan",
+   "definicao": "O discurso do mestre é usado para ler o momento em que a terapeuta, antes esquiva, afirma quem gostaria que a paciente fosse; isso muda o registro da sessão.",
+   "exemplo": "A intervenção 'doce e esperançosa' no fim fez a paciente ficar arisca e performar mais.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:20:18"
+  },
+  {
+   "nome": "Parâmetros da intervenção (distância, intensidade, forma e conteúdo)",
+   "definicao": "A gradação (de tranquila a acusatória, de concreta a abstrata) é tratada como parâmetro ajustável mantendo a intenção da intervenção.",
+   "exemplo": "'Seria útil nesse contexto? Que contexto?' (tranquila) vs. 'Então você quer ser útil para mim?' (acusatória).",
+   "abordagem": "",
+   "ts": "0:58:09"
+  },
+  {
+   "nome": "Máximas clínicas",
+   "definicao": "Regras curtas de bolso, sem valor de lei, que orientam a prática enquanto a intuição não é natural.",
+   "exemplo": "'Tudo que é importante volta.'",
+   "abordagem": "",
+   "ts": "1:08:45"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Animal totêmico",
+   "objetivo": "Dar acesso a percepções implícitas do terapeuta sobre o paciente e ajudar a formular o caso.",
+   "competencias": [
+    "Formulação de caso",
+    "Pessoa do terapeuta",
+    "Interpretação"
+   ],
+   "configuracao": "Supervisor e supervisionando, grupo como ouvinte; online.",
+   "tempo": "3 a 5 minutos",
+   "materiais": "Nenhum.",
+   "consigna": "Qual animal é essa paciente? Qual é o animal totêmico dela? (vai ser estranho primeiro, fazer sentido depois)",
+   "passos": [
+    "Fazer a pergunta de surpresa, sem justificar.",
+    "Pedir o porquê da escolha.",
+    "O supervisor diz o animal que imaginou e compara descrições.",
+    "Ligar a imagem à formulação do caso (performance, ser presa).",
+    "Retomar a imagem mais tarde, quando ela ganhar precisão."
+   ],
+   "feedback": "O que importa é a descrição que justifica o animal; imagens diferentes podem levar a descrições parecidas, e a do supervisionando pode se revelar mais precisa.",
+   "exemplos_praticos": "A aluna escolheu gato e Alan, camaleão; no fim a imagem do gato (presa atenta, que percorre a casa até poder relaxar) explicou melhor o caso.",
+   "variacoes": "Pode ser usada clinicamente pelo próprio terapeuta, como fantasia interna.",
+   "armadilhas": "Tomar como regra fica 'bizarro'.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:29:00"
+  },
+  {
+   "nome": "Dinâmica - Variação de intervenção",
+   "objetivo": "Reformular uma intervenção mantendo a intenção e aumentando sua potência (gradação).",
+   "competencias": [
+    "Construção frasal",
+    "Intervenção"
+   ],
+   "configuracao": "Individual, dentro da supervisão; online.",
+   "tempo": "2 a 3 minutos (bate-volta)",
+   "materiais": "Registro escrito da sessão.",
+   "consigna": "Pausa, exercício rapidinho: aumenta a gradação dessa intervenção, torna ela mais complexa, mais abstrata, talvez mais provocativa, mantendo a mesma intenção.",
+   "passos": [
+    "Isolar uma intervenção do supervisionando.",
+    "Explicitar o que deve permanecer (a intenção).",
+    "Supervisionando reformula na hora.",
+    "Supervisor oferece variações e pede a opinião dele.",
+    "Justificar o que cada variação faz (concretude, afeto, dificuldade de evadir)."
+   ],
+   "feedback": "A nova versão é mais difícil de evadir? Evoca afeto? É mais concreta ou mais surpreendente? Mantém a intenção?",
+   "exemplos_praticos": "A reformulação da aluna ficou confusa, embora mantivesse a intenção; Alan propôs perguntar qual das 'versões' a paciente odeia, e surgiram variações como 'qual a mais divertida de assumir?' e 'qual você está escolhendo me mostrar?'.",
+   "variacoes": "Abstração progressiva ('o que você vê no espelho' → 'quem' → 'de onde'); transformar a hipótese em acusação.",
+   "armadilhas": "Ficar abstrato a ponto de só soar esquisito.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:45:45"
+  },
+  {
+   "nome": "Dinâmica - Adivinhação",
+   "objetivo": "Treinar a leitura do raciocínio clínico de outra pessoa, que Alan considera o elemento mais difícil de uma dinâmica de troca.",
+   "competencias": [
+    "Intervenção",
+    "Interpretação"
+   ],
+   "configuracao": "Duas pessoas atendendo; os demais adivinham a intervenção que a outra fará. Proposta para grupo de aprimoramento.",
+   "tempo": "Não informado.",
+   "materiais": "Atendimento (simulado ou roleplay) e conhecimento do estilo de quem atende.",
+   "consigna": "Adivinhe a frase exata que o outro terapeuta diria neste ponto.",
+   "passos": [
+    "Conhecer o estilo de quem atende.",
+    "Parar a sessão num momento-chave.",
+    "Cada um aposta na intervenção.",
+    "Comparar com o que a pessoa realmente faz."
+   ],
+   "feedback": "Proximidade entre a aposta e a intervenção real; compreensão do raciocínio por trás dela.",
+   "exemplos_praticos": "Alan fez a demonstração ao vivo, apostando na frase que um colega que ele já viu atender diria ('me conta o que você vê quando olha pro espelho') e desdobrando-a em versões mais abstratas.",
+   "variacoes": "Adivinhar a intervenção do supervisor ou de um colega conhecido.",
+   "armadilhas": "Exige conhecer bem a pessoa-alvo; é difícil.",
+   "nivel": "avançado",
+   "funciona_online": true,
+   "ts": "0:40:08"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Contratar o foco",
+   "descricao": "Anuncia o foco da supervisão, diferenciando da anterior, e pergunta se o supervisionando quer outro.",
+   "exemplo": "Com a outra aluna trabalhei linguagem; aqui quero entender sua interpretação e tomada de decisão. Tem algum aspecto que você queira?",
+   "ts": "0:00:16"
+  },
+  {
+   "movimento": "Protocolo de leitura que revela raciocínio",
+   "descricao": "Pede que a aluna leia a própria fala e comente, depois a da paciente e comente; permite cortes, que revelam o que ela julga relevante.",
+   "exemplo": "Se quiser cortar pedaços da fala da paciente, isso me ajuda a ver o que você acha mais interessante.",
+   "ts": "0:01:54"
+  },
+  {
+   "movimento": "Perguntar antes de avaliar",
+   "descricao": "Pede o raciocínio por trás da escolha e declara que é cedo para julgar adequação.",
+   "exemplo": "Queria entender seu processo de raciocínio para chegar nessa conclusão.",
+   "ts": "0:07:00"
+  },
+  {
+   "movimento": "Guardar no bolso",
+   "descricao": "Cria marcadores explícitos para o supervisionando e os ouvintes e os retoma depois; modela na supervisão o manter hipóteses abertas que pede na clínica.",
+   "exemplo": "Duas coisas que eu quero que você guarde no bolso, e as pessoas que estão ouvindo também.",
+   "ts": "0:07:43"
+  },
+  {
+   "movimento": "Usar o saber do supervisionando sobre o futuro",
+   "descricao": "Pergunta o que a aluna, que sabe como a sessão continuou, vê agora; oferece o próprio 'spoiler' como hipótese.",
+   "exemplo": "Olhando com a cabeça de quem sabe para onde o atendimento foi, você tem outra consideração?",
+   "ts": "0:13:30"
+  },
+  {
+   "movimento": "Metáforas cotidianas",
+   "descricao": "Traduz a leitura clínica em situações sociais, animais e ditados populares para tornar visível o que na clínica passa despercebido.",
+   "exemplo": "Se um menino de quem você gosta manda um papo desses, ele está te convidando a falar o quê?",
+   "ts": "0:15:23"
+  },
+  {
+   "movimento": "Elogio forte e amplificação para os ouvintes",
+   "descricao": "Valida com entusiasmo quando o raciocínio é bom e aproveita para radicalizar o argumento para o grupo.",
+   "exemplo": "Adoro a sua resposta... vou ser um pouco mais agressivo para as pessoas que estão ouvindo.",
+   "ts": "0:19:37"
+  },
+  {
+   "movimento": "Pergunta estranha anunciada",
+   "descricao": "Faz uma pergunta inesperada ao supervisionando, avisando que vai parecer estranha, para acessar percepções implícitas.",
+   "exemplo": "Vai ser estranho primeiro, vai fazer sentido depois: qual o animal totêmico dessa paciente?",
+   "ts": "0:29:00"
+  },
+  {
+   "movimento": "Treino relâmpago",
+   "descricao": "Interrompe a leitura para um exercício curto de reformulação e depois oferece suas próprias variações pedindo opinião.",
+   "exemplo": "Pausa, exercício rapidozinho, bate-volta: aumenta a gradação dessa intervenção.",
+   "ts": "0:45:45"
+  },
+  {
+   "movimento": "Relativizar certo e errado",
+   "descricao": "Insiste que ainda é cedo para certo e errado e que não existe intervenção errada, só não saber lidar com ela; reduz a ameaça da exposição.",
+   "exemplo": "Aqui ainda estamos no início para falar de certo e errado.",
+   "ts": "0:55:42"
+  },
+  {
+   "movimento": "Coletivizar",
+   "descricao": "Faz comentários dirigidos a quem assiste ou vai assistir e propõe comparar logs de vários alunos com a mesma paciente simulada.",
+   "exemplo": "Só fazendo um comentário para todo mundo que está vendo ou que vai ver...",
+   "ts": "1:00:04"
+  },
+  {
+   "movimento": "Feedback estrutural força + lacuna + treino",
+   "descricao": "Nomeia uma força clínica, uma lacuna e um treino concreto e exagerado para a próxima vez.",
+   "exemplo": "Você está melhor em intuir a leitura interessante do que em construí-la como intervenção; treine manter as hipóteses quentes, pode exagerar caricatamente.",
+   "ts": "1:04:20"
+  },
+  {
+   "movimento": "Meta-comentário sobre a própria condução",
+   "descricao": "Nomeia quando se desvia do combinado.",
+   "exemplo": "Vou tentar ao máximo não fazer isso mais vezes... estou indo um pouquinho para a linguagem, que eu falei que não ia fazer.",
+   "ts": "0:14:15"
+  },
+  {
+   "movimento": "Gestão do tempo e ajuste do formato com o grupo",
+   "descricao": "Anuncia o tempo restante, fecha e pergunta ao grupo se o modelo funcionou e se preferem 1h30.",
+   "exemplo": "Se esse modelo foi legal, igual o da semana passada; e se a gente fizesse 1 hora e meia?",
+   "ts": "0:59:06"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Registre a decisão de insistir numa demanda e reavalie-a depois.",
+   "justificativa": "Aceitar que a questão é 'não saber' ou insistir abre árvores de possibilidades diferentes.",
+   "contexto": "Início de primeira sessão com paciente sem queixa definida.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:05:44"
+  },
+  {
+   "dica": "Releia a primeira fala do paciente ao construir o caso.",
+   "justificativa": "O final da narrativa costuma estar no início.",
+   "contexto": "Formulação após a sessão.",
+   "competencia": "Formulação de caso",
+   "ts": "0:07:43"
+  },
+  {
+   "dica": "Imagine a fala do paciente numa situação social comum.",
+   "justificativa": "Fora da clínica percebemos convites que na clínica passam despercebidos.",
+   "contexto": "Frases ambíguas sobre como os outros o percebem.",
+   "competencia": "Escuta clínica",
+   "ts": "0:15:23"
+  },
+  {
+   "dica": "Trate a demanda sobre o mundo como demanda dirigida a você.",
+   "justificativa": "Abre uma camada a mais de sentido; falar do terapeuta anterior é mensagem ao atual.",
+   "contexto": "Sempre como leitura possível.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:17:26"
+  },
+  {
+   "dica": "Seja cauteloso ao aceitar convites à psicoeducação no início.",
+   "justificativa": "Pode soar violento, como imposição de visão de mundo, e fechar o paciente.",
+   "contexto": "Primeira sessão, paciente que testa o terapeuta.",
+   "competencia": "Psicoeducação",
+   "ts": "0:19:37"
+  },
+  {
+   "dica": "Retome antes do fim da sessão o tema de psicoeducação que você adiou.",
+   "justificativa": "Com a questão do paciente mais clara, a psicoeducação ganha contexto e sentido.",
+   "contexto": "Segunda janela, como quando o paciente pergunta se algo é saudável.",
+   "competencia": "Psicoeducação",
+   "ts": "1:04:20"
+  },
+  {
+   "dica": "Leia a resposta do paciente como resposta ao seu método.",
+   "justificativa": "Suas perguntas ensinam implicitamente o que você espera, e o paciente reage a isso.",
+   "contexto": "Paciente que se esquiva ou diz preferir apenas observar.",
+   "competencia": "Interpretação",
+   "ts": "0:24:33"
+  },
+  {
+   "dica": "Ajuste a velocidade ao estágio do paciente.",
+   "justificativa": "Ritmos incompatíveis geram resistência sutil.",
+   "contexto": "Paciente contemplativo diante de terapeuta que quer aprofundar.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:25:32"
+  },
+  {
+   "dica": "Pergunte-se para que serve o que você sente na sessão.",
+   "justificativa": "A sensação de ser observado revelou a performance da paciente.",
+   "contexto": "Ao sentir algo intenso ou estranho.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:27:34"
+  },
+  {
+   "dica": "Evite explicitar seus valores sobre o que é saudável.",
+   "justificativa": "Pacientes hiperadaptados ou inteligentes performam o 'paciente ideal' e relatam melhoras só no seu vocabulário.",
+   "contexto": "Pacientes que buscam agradar.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:31:56"
+  },
+  {
+   "dica": "Diante de discurso encaixado demais, faça uma pergunta fora da caixa.",
+   "justificativa": "A verdade tem lapsos; a pergunta esquisita tira do discurso já ensaiado.",
+   "contexto": "Paciente eloquente, com fala 'pronta'.",
+   "competencia": "Intervenção",
+   "ts": "0:43:11"
+  },
+  {
+   "dica": "Pergunte por uma parte específica e afetiva, não pelo conjunto.",
+   "justificativa": "'Qual delas você odeia?' é mais difícil de evadir que 'como você se relaciona com elas?'.",
+   "contexto": "Paciente descreve partes de si de modo distanciado.",
+   "competencia": "Construção frasal",
+   "ts": "0:46:40"
+  },
+  {
+   "dica": "Sublinhe quando o paciente sente orgulho do próprio sintoma.",
+   "justificativa": "Valor e sintoma se confundem; o paciente não abre mão de um sem o outro.",
+   "contexto": "Admiração ou apego por algo que faz parte do problema.",
+   "competencia": "Formulação de caso",
+   "ts": "0:53:10"
+  },
+  {
+   "dica": "Procure a expressão que fala do setting ('nesse contexto').",
+   "justificativa": "Revela como o paciente pensa a relação terapêutica e como acha que deve se comportar ali.",
+   "contexto": "Quando o paciente devolve perguntas ao terapeuta.",
+   "competencia": "Escuta clínica",
+   "ts": "0:55:42"
+  },
+  {
+   "dica": "Para aumentar a potência, transforme a hipótese em acusação.",
+   "justificativa": "A afirmação direta convoca mais do que a pergunta aberta.",
+   "contexto": "Paciente que repete e circula.",
+   "competencia": "Intervenção",
+   "ts": "0:58:09"
+  },
+  {
+   "dica": "Mantenha várias hipóteses abertas e retome-as depois.",
+   "justificativa": "A hipótese respondida esfria; conexões entre o antes e o agora são muito potentes para o paciente.",
+   "contexto": "Terapeuta com estilo de aprofundamento que esgota cada linha.",
+   "competencia": "Aprofundamento",
+   "ts": "1:06:36"
+  },
+  {
+   "dica": "Use distinções vocabulares entre palavras próximas.",
+   "justificativa": "Forçar a linguagem produz sentidos e acontecimentos internos novos.",
+   "contexto": "Paciente usa termos próximos como sinônimos.",
+   "competencia": "Intervenção",
+   "ts": "1:11:21"
+  },
+  {
+   "dica": "Perceba quando sua intervenção muda o registro da sessão e encerre ou recue.",
+   "justificativa": "Explicitar quem você quer que o paciente seja o coloca em alerta.",
+   "contexto": "Fim da primeira sessão, após fala esperançosa ou normativa.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "1:24:48"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Psicoeducar cedo demais pode ser violento.",
+   "argumento": "Impõe uma visão de mundo antes de entender a questão do paciente e pode fechá-lo.",
+   "contraponto": "Feita de certo jeito, funcionaria clinicamente.",
+   "implicacao": "Adiar e retomar quando houver contexto.",
+   "quem": "Alan",
+   "ts": "0:19:37"
+  },
+  {
+   "tese": "É perigoso explicitar os valores do terapeuta.",
+   "argumento": "As abordagens dizem o que é saudável; o paciente que performa aprende o vocabulário sem mudar a vida (apoio em Jung).",
+   "contraponto": "Abordagens que definem o saudável com clareza (senso de si, empoderamento).",
+   "implicacao": "Vigiar a psicoeducação implícita.",
+   "quem": "Alan",
+   "ts": "0:33:32"
+  },
+  {
+   "tese": "A verdade é atópica: não encaixa direito.",
+   "argumento": "Histórias de detetive, A carta roubada, o atopon de Aristóteles lido em Gadamer.",
+   "contraponto": "",
+   "implicacao": "Desconfiar de discursos coerentes demais e responder com pergunta inesperada.",
+   "quem": "Alan",
+   "ts": "0:42:02"
+  },
+  {
+   "tese": "A linguagem não apenas descreve, mas produz a experiência interna.",
+   "argumento": "Ao esgarçar a linguagem com distinções, produzimos retroativamente acontecimentos internos.",
+   "contraponto": "Visão da linguagem como mera ferramenta de descrição.",
+   "implicacao": "Valorizar distinções vocabulares como intervenção.",
+   "quem": "Alan",
+   "ts": "1:12:17"
+  },
+  {
+   "tese": "Não vale a pena mudar o estilo conservador de um terapeuta, vale potencializá-lo.",
+   "argumento": "O estilo combina com personalidade e escolhas teóricas; conectar hipóteses dá potência sem forçar diretividade.",
+   "contraponto": "A ideia de que é preciso ficar mais agressivo ou levar tudo para a relação (FAP).",
+   "implicacao": "Treinar hipóteses simultâneas e retomadas.",
+   "quem": "Alan",
+   "ts": "1:07:42"
+  },
+  {
+   "tese": "Encerramentos procedimentais são um desperdício quando o terapeuta é talentoso.",
+   "argumento": "O fim da sessão é lugar de intervenção: fechar no ponto certo ou salvar uma fala.",
+   "contraponto": "",
+   "implicacao": "Escolher o momento de fechar pela dinâmica da sessão, não pelo protocolo.",
+   "quem": "Alan",
+   "ts": "1:24:24"
+  },
+  {
+   "tese": "Não há regras na terapia, mas há 'regrinhas de bolso'.",
+   "argumento": "Ajudam enquanto a intuição não se torna natural.",
+   "contraponto": "",
+   "implicacao": "Formular regras operacionais e revisá-las.",
+   "quem": "Alan",
+   "ts": "0:43:11"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Com frequência, o final de uma narrativa já está presente no início.",
+   "tema": "formulação de caso",
+   "ts": "0:07:43"
+  },
+  {
+   "texto": "Para todo bom intérprete clínico, a primeira fala do paciente tende a ter mais do que você precisa para construir o caso.",
+   "tema": "primeira sessão",
+   "ts": "0:08:47"
+  },
+  {
+   "texto": "Quase sempre que a pessoa põe uma demanda sobre o mundo, você pode trabalhá-la como uma demanda dirigida a você.",
+   "tema": "relação terapêutica",
+   "ts": "0:17:26"
+  },
+  {
+   "texto": "Uma psicoeducação nesse momento soa quase violenta, como se você estivesse impondo uma visão de mundo à pessoa.",
+   "tema": "psicoeducação",
+   "ts": "0:19:37"
+  },
+  {
+   "texto": "Fantasiar o animal totêmico do paciente te dá acesso a coisas que você percebeu e nem percebe que percebeu.",
+   "tema": "pessoa do terapeuta",
+   "ts": "0:30:01"
+  },
+  {
+   "texto": "É muito fácil a gente contar para o nosso paciente o que a gente quer dele.",
+   "tema": "valores do terapeuta",
+   "ts": "0:31:00"
+  },
+  {
+   "texto": "A pessoa te conta, no vocabulário que você deseja, tudo de bom e bonito da vida dela, mas continua vivendo a vida igualmente mal.",
+   "tema": "valores do terapeuta",
+   "ts": "0:34:36"
+  },
+  {
+   "texto": "A verdade quase nunca é encaixada.",
+   "tema": "escuta",
+   "ts": "0:42:02"
+  },
+  {
+   "texto": "Fazer uma pergunta esquisita é uma das melhores coisas para tirar a pessoa do discurso pronto.",
+   "tema": "intervenção",
+   "ts": "0:44:07"
+  },
+  {
+   "texto": "Valor e sintoma têm uma fenomenologia parecida: é muito comum a pessoa sofrer pelo sintoma e também estar apaixonada por ele.",
+   "tema": "formulação de caso",
+   "ts": "0:53:10"
+  },
+  {
+   "texto": "Quer uma intervenção mais potente? Pegue aquilo que você está trabalhando como hipótese e transforme numa acusação.",
+   "tema": "intervenção",
+   "ts": "0:58:09"
+  },
+  {
+   "texto": "Uma vez que você acha uma resposta satisfatória, a hipótese esfria. Mantenha a hipótese quente.",
+   "tema": "aprofundamento",
+   "ts": "1:06:36"
+  },
+  {
+   "texto": "Tudo que é importante volta.",
+   "tema": "máxima clínica",
+   "ts": "1:08:45"
+  },
+  {
+   "texto": "A gente produz acontecimentos internos quando tenta falar sobre eles.",
+   "tema": "linguagem",
+   "ts": "1:12:17"
+  },
+  {
+   "texto": "Não existe intervenção errada; existe a gente não saber lidar com ela.",
+   "tema": "intervenção",
+   "ts": "1:23:24"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Quando o paciente fala dos outros, pode estar falando com você.",
+   "mensagem": "Toda demanda sobre o mundo pode ser lida como um pedido ao terapeuta.",
+   "roteiro": [
+    "Frase-gancho",
+    "Analogia do primeiro encontro: 'tenho curiosidade sobre como me veem'",
+    "Na clínica é igual, mas não percebemos",
+    "Exemplo genérico: falar mal do terapeuta anterior",
+    "Como usar: uma camada a mais de sentido"
+   ],
+   "corte_inicio": "0:17:26",
+   "corte_fim": "0:18:25"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "A verdade quase nunca é encaixada.",
+   "mensagem": "Poe, Lacan e o atopon: desconfie de relatos coerentes demais.",
+   "roteiro": [
+    "Citação",
+    "Legenda curta sobre histórias de detetive e atopon"
+   ],
+   "corte_inicio": "0:42:02",
+   "corte_fim": "0:43:11"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "A pergunta esquisita que desmonta o discurso pronto.",
+   "mensagem": "Abstrair a mesma pergunta em degraus tira a pessoa da resposta ensaiada.",
+   "roteiro": [
+    "'Como você se vê?'",
+    "'Que cor você se imagina?'",
+    "'Que marca de carro você é?'",
+    "Por que funciona: discurso repetido mil vezes",
+    "Limite: abstrato demais é só esquisito"
+   ],
+   "corte_inicio": "0:44:07",
+   "corte_fim": "0:45:23"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Valor ou sintoma? Às vezes são a mesma coisa.",
+   "mensagem": "Por que nos apaixonamos pelo que nos faz sofrer e por que o terapeuta deve sublinhar isso.",
+   "roteiro": [
+    "Gancho",
+    "Fenomenologia parecida",
+    "Exemplo genérico: o que te torna interessante é o que te atrapalha",
+    "Função inferior",
+    "Dica: sublinhe o orgulho"
+   ],
+   "corte_inicio": "0:53:10",
+   "corte_fim": "0:55:35"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Como deixar uma intervenção mais potente em uma frase.",
+   "mensagem": "Transforme a hipótese em acusação; gradue do tranquilo ao direto.",
+   "roteiro": [
+    "Versão tranquila",
+    "Versão direta",
+    "Regra geral"
+   ],
+   "corte_inicio": "0:58:09",
+   "corte_fim": "0:59:06"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Mantenha a hipótese quente.",
+   "mensagem": "Esgotar uma linha de perguntas enfraquece o aprofundamento; hipóteses abertas criam conexões.",
+   "roteiro": [
+    "O estilo 'vou até o fim'",
+    "O problema: a hipótese esfria",
+    "Alternativa: 3–4 hipóteses simultâneas",
+    "Retomar depois",
+    "Tudo que é importante volta"
+   ],
+   "corte_inicio": "1:05:27",
+   "corte_fim": "1:08:45"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Qual é o animal totêmico do seu paciente?",
+   "mensagem": "Um exercício de supervisão para acessar o que você percebeu sem saber.",
+   "roteiro": [
+    "Enquete: que animal seria?",
+    "Explicação do exercício",
+    "Convite para os grupos"
+   ],
+   "corte_inicio": "0:29:00",
+   "corte_fim": "0:31:00"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Jung",
+   "contexto": "'Um certo velho suíço', referencial favorito de Alan: perigo de explicitar valores a pacientes complicados ou inteligentes; 'função inferior'."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Seminário 2 sobre A carta roubada; discurso do mestre para ler a última intervenção da aluna."
+  },
+  {
+   "nome": "Edgar Allan Poe",
+   "contexto": "Conto 'A carta roubada' como modelo de investigação: a verdade não é encaixada."
+  },
+  {
+   "nome": "Aristóteles",
+   "contexto": "Origem do termo atopon (fora de lugar)."
+  },
+  {
+   "nome": "Hans-Georg Gadamer",
+   "contexto": "Onde Alan leu o termo atopon."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria (supervisão individual em grupo)",
+  "objetivo": "Supervisionar o raciocínio clínico de um aluno a partir de um atendimento real ou simulado, com o grupo aprendendo como ouvinte.",
+  "publico": "Alunos da formação clínica da Allos.",
+  "tamanho": "Um supervisionando por sessão e alguns ouvintes (online).",
+  "duracao": "Cerca de 1h a 1h30; Alan propõe estender para 1h30.",
+  "estrutura_padrao": "Contrato de foco; leitura comentada do log do atendimento (fala do terapeuta + comentário, fala do paciente + comentário); intervenções do supervisor (perguntas, leituras alternativas, treinos relâmpago); feedback estrutural; perguntas ao grupo sobre o formato; gravação desligada para comentários livres. Monitoria em etapas: primeiro atendimento, depois relatório/registro.",
+  "papel_facilitador": "Investigar o raciocínio antes de avaliar, propor leituras alternativas, dar treinos de reformulação, marcar pontos para retomar e oferecer um feedback estrutural com treino concreto.",
+  "regras_combinados": "A monitoria é individual; os demais são ouvintes (podem comentar no chat ou no fim). O supervisionando pode escolher o aspecto a trabalhar. Casos com pacientes simulados por IA da ferramenta da Allos."
+ },
+ "reflexoes_do_facilitador": [
+  "Muda deliberadamente a abordagem em relação à monitoria anterior (linguagem) para deixar o atendimento correr e focar na tomada de decisão.",
+  "Diz que vai tentar não centrar demais na fala da paciente e, depois, admite que está indo para a linguagem, o que dissera que não faria.",
+  "Pede desculpas por conduzir parte da sessão andando na rua a caminho de uma aula.",
+  "Pergunta ao grupo se o modelo funcionou (comparando com o da outra aluna) e se preferem 1h30 em vez de 1h, já que começaram 15 minutos atrasados.",
+  "Reconhece que a leitura construída na supervisão não era óbvia durante o atendimento."
+ ],
+ "referencias_a_outros_encontros": [
+  "Monitoria da semana anterior com outra aluna, focada em linguagem e com outro caso (um participante corrige que não era a mesma paciente): mon-03, nota 'Monitoria 03 - Alan - Análise da linguagem do paciente'.",
+  "Proposta para a semana seguinte: análise comparativa de logs de diferentes alunos com a mesma paciente simulada (por exemplo, como uma psicanalista atendeu).",
+  "Sugere que a aluna faça uma segunda sessão com a mesma paciente simulada.",
+  "Continuação direta: mon-05, nota 'Monitoria 05 - Alan - Relatório e escolha do referencial teórico' (etapa do relatório sobre o mesmo caso).",
+  "Sugere testar a dinâmica de adivinhação num grupo de aprimoramento.",
+  "Na série de Alan, a monitoria seguinte (versatilidade e uso da teoria) é mon-01, nota 'Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica'."
+ ],
+ "observacoes": "Caso simulado: paciente gerada por IA na ferramenta de atendimento da Allos (logs em texto); vários alunos já a atenderam, e Alan comenta que ela costuma flertar com o terapeuta cedo, o que quase não ocorreu aqui. O nome da aluna varia muito na legenda (Eidrian/Adrian/Aidran/Eidra/Edra); na nota ela aparece como 'a aluna'. Alan passa parte da sessão caminhando na rua e há ruído e falas cortadas no início. Termos incertos: a citação de Jung sobre 'o cavalo cavalgado até a morte' (?) e a expressão 'um junguiano... do jeito errado' (?). O colega cuja intervenção Alan adivinha aparece como 'B'/'Bernardo'; a pessoa que recebe feedbacks da ferramenta aparece como 'Artur' (?). A mesma aluna aparece em mon-10 (João de Bragança) e mon-18 (Diogo)."
+}

@@ -16,7 +16,7 @@ tags: [dinamica]
 > O que o participante deve conseguir fazer melhor ao final?
 
 ## Competência treinada
-- [[ ]] — qual micro-habilidade exatamente?
+- [[Nome da competência]] — qual micro-habilidade exatamente?
 
 ## Quando usar
 - Momento do ciclo / pré-requisitos:

@@ -1,0 +1,1117 @@
+{
+ "id": "alan-07",
+ "nota": "Alan 07 - Psicoeducação",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Psicoeducação",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Alan parte do diagnóstico de que a psicoeducação é um dos problemas grosseiros mais comuns entre clínicos: aprende-se que é preciso fazê-la, mas não por que nem como. Na teoria, atribui o termo a Adler (a 'psicologia da adaptação' ou 'do fracassado', aparentada à TCC de Beck) e defende que todas as abordagens psicoeducam, umas explicando o método (TCC, Jung, Adler), outras demonstrando-o em ato (Perls no caso Gloria, o corte lacaniano). Pede que todos, seja qual for a abordagem, aprendam a psicoeducar de forma explícita, porque gente competente demonstra e gente insegura explica, e quem não sabe explicar não sabe demonstrar. Na dinâmica, cada participante escreve e lê 'o que faz a minha terapia funcionar?' e recebe feedback sobre ortodoxia teórica e comunicação: o essencial no início da frase, sem jargão nem apelo à autoridade, com exemplos preparados, porque 'fluidez vem do excesso de estrutura'. Na segunda parte, a mesma resposta é adaptada a públicos diferentes (criança, cultura pop, alta cultura, vinheta clínica). Alan revela que o objetivo oculto era a reflexão sobre a própria clínica e fecha dizendo que sempre há psicoeducação e que explicar bem dá segurança no método e retém pacientes.",
+ "em_uma_frase": "Toda abordagem psicoeduca, explicando ou demonstrando o método; quem está em formação deve aprender a explicar explicitamente, em bom português, com o essencial no começo e exemplos preparados, o que faz a sua terapia funcionar, o que por sua vez obriga a refletir sobre a própria clínica.",
+ "competencias": [
+  "Psicoeducação",
+  "Construção frasal",
+  "Relação terapêutica",
+  "Primeira sessão e entrevistas iniciais",
+  "Articulação teoria-prática",
+  "Pessoa do terapeuta",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicologia adleriana",
+  "Terapia cognitivo-comportamental",
+  "Psicologia analítica junguiana",
+  "Gestalt-terapia",
+  "Psicanálise lacaniana",
+  "Psicanálise freudiana",
+  "Psicodrama",
+  "Terapias contextuais"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:03",
+   "bloco": "Abertura",
+   "descricao": "Tese: todos têm dificuldade com psicoeducação porque não aprendem por que nem como fazê-la. Estrutura anunciada (teoria, depois exercícios) e sondagem por mãos levantadas.",
+   "funcao": "Justificar o tema, dar o mapa do encontro e calibrar o grupo.",
+   "duracao_min": 1.5
+  },
+  {
+   "ts": "0:01:18",
+   "bloco": "Teoria",
+   "descricao": "História do termo: Adler, psicologia do poder/da adaptação/'do fracassado', terapias por sugestão; palingênese com Beck; a 'geração de ouro' de Viena.",
+   "funcao": "Mostrar a raiz adaptativa e persuasiva da psicoeducação.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:07:02",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Psicoeducação explícita (TCC, Jung, Adler) × implícita. Pergunta ao grupo onde está a psicoeducação no caso Gloria (Perls); o corte lacaniano como psicoeducação implícita.",
+   "funcao": "Mostrar que todo mundo psicoeduca e que a diferença é explicar ou demonstrar.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:14:23",
+   "bloco": "Combinados",
+   "descricao": "'Pega a abordagem e joga fora': hoje a psicoeducação é explícita; meta de não ser um 'clínico horroroso'; competentes demonstram, inseguros explicam.",
+   "funcao": "Fixar o enquadre e antecipar a resistência de abordagens implícitas.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:16:26",
+   "bloco": "Dúvidas",
+   "descricao": "Dúvida: dá para demonstrar e depois explicar? A psicanálise resiste à explicação (posição de mestre, antihermenêutica); a cadeira vazia na TCC (treino), na Gestalt (experiência) e no psicodrama (colocar-se no outro).",
+   "funcao": "Aprofundar a comparação entre abordagens a partir de uma pergunta real.",
+   "duracao_min": 4.5
+  },
+  {
+   "ts": "0:20:48",
+   "bloco": "Teoria",
+   "descricao": "Síntese das duas premissas; justificativa pela adesão ('se você entende por que toma o remédio, toma mais').",
+   "funcao": "Transição da teoria para a prática.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:21:47",
+   "bloco": "Dinâmica",
+   "descricao": "Consigna da Parte 1: escrever e ler 'o que faz a minha terapia funcionar?'; critérios (ortodoxia e comunicação); dúvidas; tempo de escrita.",
+   "funcao": "Produzir material individual para o feedback.",
+   "duracao_min": 4.5
+  },
+  {
+   "ts": "0:26:21",
+   "bloco": "Rodada de respostas",
+   "descricao": "Participante psicanalista lê; autoavaliação (central × periférico); reescrita com o essencial no início e repetição com progressão; crítica ao 'aqui é um espaço seguro'.",
+   "funcao": "Treinar construção frasal aplicada à psicoeducação.",
+   "duracao_min": 6.5
+  },
+  {
+   "ts": "0:33:01",
+   "bloco": "Demonstração",
+   "descricao": "Participante da ACT lê; 'detestei a sua resposta'; Alan apresenta duas explicações sobre escalas numéricas, pede nota e maior acerto e erro, e mostra a diferença entre autoridade e compreensão.",
+   "funcao": "Tornar o erro visível por contraste antes de aplicá-lo à resposta.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:43:35",
+   "bloco": "Feedback",
+   "descricao": "'O que de verdade importa para você?'; checagem de ortodoxia ACT × FAP; crítica à ideia de mandar artigos ao paciente; o sujeito racional-científico é raro.",
+   "funcao": "Separar jargão de conteúdo e pensar no paciente real.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:50:39",
+   "bloco": "Teoria",
+   "descricao": "Níveis de preparo do exemplo; palácio mental; 'excesso de estrutura gera fluidez'; colar explicações atrás do computador; anotação aberta; vinheta clínica.",
+   "funcao": "Transformar o feedback em princípio de desenvolvimento profissional.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:57:26",
+   "bloco": "Rodada de respostas",
+   "descricao": "Participante de perfil TCC lê; crítica aos termos específicos antes de conhecer a queixa; roleplay com Alan como paciente; entrega vacilante no improviso.",
+   "funcao": "Testar a explicação sob pressão e mostrar o custo do improviso.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:04:40",
+   "bloco": "Feedback",
+   "descricao": "Participante de linha relacional lê; o essencial no início; 'acompanhar' soa passivo e distante; não pedir desculpas pela abordagem; meta-comentário sobre a didática comparativa de Alan.",
+   "funcao": "Trabalhar o posicionamento e a distância na fala do terapeuta.",
+   "duracao_min": 4.5
+  },
+  {
+   "ts": "1:09:01",
+   "bloco": "Tarefa",
+   "descricao": "Etapas não feitas da Parte 1, para casa: papel do paciente; como será o tratamento; explicar técnicas e conceitos centrais.",
+   "funcao": "Estender o treino para além do tempo do grupo.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:12:13",
+   "bloco": "Dinâmica",
+   "descricao": "Parte 2: revela que a Parte 1 era reflexão; mesma resposta para outros públicos (criança/pessoa sem instrução, cultura pop, alta cultura, vinheta clínica); tempo de escrita.",
+   "funcao": "Treinar flexibilidade comunicativa sem mudar o conteúdo.",
+   "duracao_min": 3.5
+  },
+  {
+   "ts": "1:15:47",
+   "bloco": "Rodada de respostas",
+   "descricao": "Versão para criança (metáfora de super-herói e monstros): tom professoral; misturar o técnico com o metafórico; entrar na metáfora até o fim (exemplo do detetive).",
+   "funcao": "Trabalhar tom, afeto e uso de metáfora.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:24:44",
+   "bloco": "Feedback",
+   "descricao": "Versão cultura pop genérica; Alan assume a culpa pela consigna; exemplo específico (Malévola); metáfora = transporte.",
+   "funcao": "Mostrar o valor da especificidade no exemplo.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:29:48",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Digressão: psique = borboleta, psicopompo, texto de Jung, pensamento mágico antigo.",
+   "funcao": "Clima de curiosidade intelectual; modelo de 'vida mais rica'.",
+   "duracao_min": 3.5
+  },
+  {
+   "ts": "1:33:13",
+   "bloco": "Rodada de respostas",
+   "descricao": "Pede mais leituras; silêncio; brincadeira com um participante.",
+   "funcao": "Tentar reativar a participação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "1:33:58",
+   "bloco": "Teoria",
+   "descricao": "Por que pedir exemplo de alta cultura: não é para o paciente, é para formular a teoria 'da pele para dentro'.",
+   "funcao": "Explicitar a função oculta do exercício.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:35:47",
+   "bloco": "Fechamento",
+   "descricao": "Síntese em dois pontos (sempre há psicoeducação, até em Freud/Dora; aprendam a fazê-la explícita); recapitulação dos exercícios; segurança no método e retenção de pacientes.",
+   "funcao": "Consolidar e conectar à relação terapêutica.",
+   "duracao_min": 3.5
+  },
+  {
+   "ts": "1:39:06",
+   "bloco": "Feedback",
+   "descricao": "Feedback geral positivo sobre o nível do grupo; uma participante pede dicas para montar grupos em psicanálise; Alan encerra a gravação.",
+   "funcao": "Reforço e encerramento.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Psicoeducação implícita e explícita",
+   "definicao": "Para Alan, toda terapia psicoeduca. A explícita explica ao paciente como a terapia funciona, qual o papel dele e o que esperar. A implícita demonstra o método em ato, sem teorizá-lo. Clínicos competentes tendem ao implícito, e os inseguros ao explícito.",
+   "exemplo": "Perls diz a Gloria 'agora começamos a sessão, cansei da máscara'; o corte lacaniano ensina a escutar a própria fala.",
+   "abordagem": "",
+   "ts": "0:08:04"
+  },
+  {
+   "nome": "Psicologia da adaptação",
+   "definicao": "Rótulo provocativo de Alan (também 'psicologia do fracassado' ou 'terapias por sugestão') para abordagens em que o sintoma é uma tentativa de adaptação e o terapeuta ensina e persuade uma forma mais adaptada de viver. Origem do termo psicoeducação, com Adler.",
+   "exemplo": "A avó que adoece para os netos cuidarem dela; palingênese com a TCC de Beck.",
+   "abordagem": "Psicologia adleriana",
+   "ts": "0:03:09"
+  },
+  {
+   "nome": "Adesão ao tratamento",
+   "definicao": "Entender por que e como um tratamento funciona aumenta a probabilidade de segui-lo. É a principal justificativa da psicoeducação sobre o método.",
+   "exemplo": "Quem entende por que toma um remédio toma mais.",
+   "abordagem": "",
+   "ts": "0:21:47"
+  },
+  {
+   "nome": "Corte da sessão",
+   "definicao": "No uso lacaniano, encerrar a sessão num ponto aparentemente arbitrário, no momento de contradição entre o que foi dito e o que se queria dizer. Tem efeito psicoeducativo implícito: ensina o paciente a prestar atenção à própria fala.",
+   "exemplo": "Sessão encerrada aos 15 minutos.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:12:07"
+  },
+  {
+   "nome": "Antihermenêutica",
+   "definicao": "A psicanálise subtrai significado em vez de dá-lo. Explicar a intervenção atribuiria sentido ao inconsciente, por isso a psicanálise é 'recessiva' à psicoeducação explícita.",
+   "exemplo": "",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:16:26"
+  },
+  {
+   "nome": "Quatro discursos de Lacan",
+   "definicao": "Citados pelos discursos do mestre e universitário, posições em que o analista não deve cair. Explicar a intervenção colocaria o analista como mestre.",
+   "exemplo": "",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:14:23"
+  },
+  {
+   "nome": "Cadeira vazia",
+   "definicao": "Técnica inventada por Moreno, popularizada por Perls e retomada pela TCC. Tem aparência idêntica, mas sentidos distintos: na TCC é treino (ensaiar, receber feedback, repetir na vida), na Gestalt é experiência (entrar em contato, sem expectativa de desempenho), no psicodrama é colocar-se literalmente no outro.",
+   "exemplo": "Ensaiar a negociação de salário com o chefe.",
+   "abordagem": "Psicodrama",
+   "ts": "0:17:48"
+  },
+  {
+   "nome": "Argumento de autoridade",
+   "definicao": "Convencer o paciente por evidências, artigos ou jargão elegante, sem fazê-lo compreender. Pode funcionar, mas é uma 'falsa explicação': compreender é um passo além de ser convencido.",
+   "exemplo": "'É o padrão mundial e muito pesquisado' × 'sem número eu não consigo fazer gráfico do seu progresso'.",
+   "abordagem": "",
+   "ts": "0:40:33"
+  },
+  {
+   "nome": "Psicologia baseada em medidas",
+   "definicao": "Aparece no exemplo das escalas de 1 a 10. O número complementa a observação qualitativa porque permite comparar ao longo do tempo, algo que a memória do terapeuta não faz.",
+   "exemplo": "O gráfico de aproximação da aranha ao longo das sessões (caso hipotético).",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:39:53"
+  },
+  {
+   "nome": "Cosmovisão",
+   "definicao": "Evocada na tese de que a psicologia do sujeito moderno racional-científico é raríssima. A maioria das pessoas tem pensamento mágico ou 'medieval', e a psicoeducação precisa considerar isso.",
+   "exemplo": "O torcedor racional que troca a meia para o time ganhar.",
+   "abordagem": "",
+   "ts": "0:48:48"
+  },
+  {
+   "nome": "Níveis de preparo do exemplo",
+   "definicao": "Escada de desenvolvimento proposta por Alan: (1) ser pego de surpresa e improvisar, o que é inaceitável; (2) ter um bom exemplo montado; (3) ter um excelente exemplo, curto, preciso e ajustado ao gosto do paciente; (4) saber o excelente exemplo de cor e, por isso, estar livre para observar e usar a vida do paciente.",
+   "exemplo": "Exemplos bíblicos para um religioso; Taylor Swift para uma fã.",
+   "abordagem": "",
+   "ts": "0:50:39"
+  },
+  {
+   "nome": "Palácio mental",
+   "definicao": "O repertório organizado de 'exemplozinhos' que Alan construiu para explicar quase qualquer coisa em quase qualquer abordagem. Por isso ele repete os mesmos exemplos nos grupos.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:52:31"
+  },
+  {
+   "nome": "Excesso de estrutura",
+   "definicao": "Tese de que a fluidez clínica nasce de muita estrutura internalizada, e não da falta dela. A falta de estrutura gera um atendimento robótico: pausas, prolixidade, exemplos de livro-texto.",
+   "exemplo": "Quem sabe dirigir não pensa em passar a marcha.",
+   "abordagem": "",
+   "ts": "0:54:24"
+  },
+  {
+   "nome": "Anotação aberta",
+   "definicao": "Anotar à vista do paciente como regra. As anotações podem até ajudar a relação, e as fantasias do paciente sobre elas viram material.",
+   "exemplo": "Levar a explicação no bloco de notas e mostrar ao paciente.",
+   "abordagem": "",
+   "ts": "0:55:21"
+  },
+  {
+   "nome": "Vinheta clínica",
+   "definicao": "Para Alan, o melhor tipo de exemplo: três dados de um caso hipotético que qualquer um imagina, seguidos de 'o que você faria?'. É concreta, rápida e testável na vida.",
+   "exemplo": "Retroflexão: 'vê alguém travado com dor nas costas? Vai lá e faz uma massagem'.",
+   "abordagem": "",
+   "ts": "0:56:10"
+  },
+  {
+   "nome": "Metáfora clínica",
+   "definicao": "Metáfora significa transporte em grego. Na clínica, é um acelerador do raciocínio que leva a ideia à cabeça do outro, desde que seja específica e usada até o fim, e não 'de livro-texto'.",
+   "exemplo": "O detetive com linha vermelha e pistas; o Nate de Euphoria; a Hermione; Malévola.",
+   "abordagem": "",
+   "ts": "1:28:00"
+  },
+  {
+   "nome": "Repetição com progressão",
+   "definicao": "Recurso de construção frasal para dar centralidade a uma ideia: pô-la no início, pausar e repeti-la acrescentando algo a cada vez.",
+   "exemplo": "'A minha terapia é um espaço. Um espaço de… Um espaço de…'",
+   "abordagem": "",
+   "ts": "0:29:31"
+  },
+  {
+   "nome": "Flexibilidade psicológica",
+   "definicao": "Processo central da ACT, descrito pela participante como estar presente e aberto a experiências internas desconfortáveis para agir segundo o que importa. Alan critica o uso do termo sem explicá-lo ao paciente.",
+   "exemplo": "",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:34:01"
+  },
+  {
+   "nome": "Retroflexão",
+   "definicao": "Conceito gestáltico usado como exemplo de explicação por vinheta concreta e experimento na vida.",
+   "exemplo": "Fazer massagem numa pessoa travada com dor nas costas e lidar com as consequências.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:57:12"
+  },
+  {
+   "nome": "Retificação subjetiva",
+   "definicao": "Intervenção de Freud com Dora ('o problema da sua vida é você'), lida por Alan como psicoeducação implícita e como correção ('retificação'), próxima da lógica adleriana que Freud rejeitava.",
+   "exemplo": "O caso Dora.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:35:47"
+  },
+  {
+   "nome": "Psicologia comparada",
+   "definicao": "O método de ensino de Alan, que explica psicologia comparando abordagens e fazendo 'espantalhos' para tensioná-las. É excelente para formar psicólogos e péssimo para usar com pacientes.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:07:53"
+  },
+  {
+   "nome": "Terapia breve",
+   "definicao": "Na fala de um participante, uma terapia com começo, meio e fim, e não necessariamente de pouco tempo (pode durar seis meses ou três anos).",
+   "exemplo": "",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "1:01:56"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - O que faz minha terapia funcionar",
+   "objetivo": "Construir e testar uma explicação explícita do próprio método. O objetivo oculto, revelado depois, é refletir sobre o que realmente faz a própria clínica funcionar.",
+   "competencias": [
+    "Psicoeducação",
+    "Construção frasal",
+    "Articulação teoria-prática",
+    "Primeira sessão e entrevistas iniciais"
+   ],
+   "configuracao": "Escrita individual, depois leitura em voz alta e feedback diante do grupo todo; online, com chat de apoio.",
+   "tempo": "4–5 min de escrita; 6–10 min de feedback por resposta (4 respostas em ~45 min).",
+   "materiais": "Papel ou editor de texto; chat para compartilhar os textos.",
+   "consigna": "Respondam: o que faz a minha terapia funcionar? Imaginem uma primeira ou segunda sessão. O paciente pode ter provocado (por exemplo, porque já fez terapia em outra abordagem) ou você explica por iniciativa própria. Escrevam o texto que usariam e depois leiam em voz alta, porque a entonação faz diferença. Quem não tem abordagem: qual é sua proposta terapêutica, o que realmente cura?",
+   "passos": [
+    "Apresentar a consigna e os dois critérios: corretude teórica (há erro grosseiro?) e adequação da comunicação.",
+    "Esclarecer que é o terapeuta falando com o paciente.",
+    "Dar tempo de escrita; permitir colar no chat, mas exigir leitura em voz alta.",
+    "Chamar um participante para ler 'como se estivesse falando com o paciente'.",
+    "Pedir autoavaliação: foi precisa teoricamente? O que é central e o que é periférico?",
+    "Dar feedback com reescrita ao vivo da frase.",
+    "Nas respostas seguintes, não repetir comentários e focar no que é novo; usar roleplay (facilitador como paciente) para testar a resposta sob pressão.",
+    "Passar como tarefa as variações: papel do paciente, curso do tratamento, técnicas e conceitos centrais."
+   ],
+   "feedback": "Critérios: o essencial no início da frase, com pausa e repetição com progressão; cortar introduções de texto escrito; listas diluem e a ênfase vai no fim; dizer o que não é para sublinhar o que é; não jogar conceitos sem explicar; argumento concreto em vez de autoridade; não usar termos específicos antes de conhecer a queixa; não pedir desculpas pela abordagem nem compará-la; cuidar das palavras que criam distância ('acompanhar'); avaliar também a entrega (tom seguro × vacilante).",
+   "exemplos_praticos": "Psicanalista: 'espaço para se escutar e renarrar a história'; Alan reorganizou a frase em torno de 'espaço' e 'ressignificação' e sugeriu falar de sigilo pela construção do espaço, não pelo 'espaço seguro' legalista. ACT: começou por evidências e artigos e enfileirou conceitos; 'detestei a sua resposta', longa e inespecífica, um apelo à autoridade; ao perguntar o que importava, apareceram 'troca' e 'genuinidade', o que soou mais FAP que ACT. Perfil TCC: 'o mais breve possível… pensamentos que causam angústia'; no roleplay (paciente simulado com busca existencial), foi pego pelo 'breve'; bom conteúdo, entrega vacilante. Linha relacional: 'vou te acompanhar… para além de técnicas, que sim são válidas… a relação'; essencial no fim, 'acompanhar' distante, aposto como desculpa; Alan reformulou com foco na experiência.",
+   "variacoes": "Trocar a pergunta: qual é o papel do paciente? Como será o tratamento (etapas, duração)? Explique o conceito ou técnica X (modelo cognitivo, ciclo de contato). Combinar com a Dinâmica - Variações de público.",
+   "armadilhas": "Texto bem escrito que desmorona no improviso (use roleplay); facilitador tentar aperfeiçoar cada resposta em vez de escolher o erro mais instrutivo; participantes respondendo como texto escrito e não como fala.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:21:47"
+  },
+  {
+   "nome": "Dinâmica - Duas explicações comparadas",
+   "objetivo": "Tornar visível, por contraste, a diferença entre convencer por autoridade e fazer o paciente compreender, antes de criticar a resposta de um participante.",
+   "competencias": [
+    "Psicoeducação",
+    "Relação terapêutica"
+   ],
+   "configuracao": "O facilitador fala as duas versões; um participante e depois o grupo analisam; online ou presencial.",
+   "tempo": "~6 min.",
+   "materiais": "Duas explicações preparadas de um mesmo procedimento.",
+   "consigna": "Vou dar duas explicações. Nenhuma é horrorosa: uma é boa e outra um pouco melhor. Identifique qual é qual e por quê, dê uma nota de 1 a 10 e diga o maior acerto e o maior erro.",
+   "passos": [
+    "Apresentar a vinheta: o paciente pergunta por que medir a tristeza de 1 a 10.",
+    "Versão 1: padrão mundial, muito pesquisada, corrige o viés do terapeuta implicado na melhora.",
+    "Pedir nota, maior acerto e maior erro.",
+    "Versão 2: também há leitura qualitativa; a escala é complementar porque a memória não compara sessão a sessão; sem número não há gráfico do progresso.",
+    "Pedir comparação ao grupo.",
+    "Extrair a lição (autoridade × compreensão) e aplicá-la à resposta original do participante."
+   ],
+   "feedback": "Vence a explicação com argumento concreto, que qualquer pessoa entende e verifica pela própria experiência. As duas versões recebem notas próximas (cerca de 7 e 7,5).",
+   "exemplos_praticos": "Uma participante valorizou que a versão 1 mostrava cuidado; outra apontou que começar pelas evidências distancia e soa normativo; uma terceira notou que na versão 2 o terapeuta se implica mais.",
+   "variacoes": "Aplicar o formato 'duas versões, qual é melhor?' a qualquer conteúdo psicoeducativo (tarefa de casa, diagnóstico, frequência de sessões).",
+   "armadilhas": "Fazer uma versão claramente ruim; o valor está em discriminar nuances entre duas explicações razoáveis.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:35:53"
+  },
+  {
+   "nome": "Dinâmica - Variações de público",
+   "objetivo": "Flexibilizar a comunicação mantendo o conteúdo e, 'da pele para dentro', aprofundar a compreensão da própria teoria.",
+   "competencias": [
+    "Psicoeducação",
+    "Construção frasal",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Escrita individual, depois leitura em voz alta e feedback no grupo; online.",
+   "tempo": "2–3 min de escrita; 5–9 min de feedback por resposta.",
+   "materiais": "A resposta da Parte 1.",
+   "consigna": "Peguem a mesma resposta sobre o que faz sua terapia funcionar. Não troquem a resposta, troquem para quem estão falando. Escolham uma (duas, se der tempo): (1) uma criança ou pessoa sem instrução formal; (2) um exemplo da cultura pop; (3) um exemplo de alta cultura (Proust, Dante, Tolstói); (4) uma vinheta clínica.",
+   "passos": [
+    "Retomar a resposta da Parte 1.",
+    "Apresentar as quatro variações.",
+    "Cada um escolhe uma e escreve.",
+    "Leitura em voz alta e feedback.",
+    "Explicar a função da variação de alta cultura: formular a teoria para si mesmo, não para o paciente."
+   ],
+   "feedback": "Com criança: evitar o tom professoral e monótono, entrar na fantasia com afeto; misturar explicação técnica com metafórica (respeito, evita a 'poesia'); levar a metáfora até o fim. Na cultura pop: obra específica, não 'uma série qualquer'. Avaliar também os acertos teóricos.",
+   "exemplos_praticos": "Versão infantil com super-herói, monstros, missões e escudo (linguagem próxima da ACT): elogiados os sublinhados 'aprender a conviver' e 'nem toda batalha precisa ser comprada', criticado o tom distante. Versão cultura pop ('revermos sua série preferida de outro ponto de vista'): genérica; Alan assumiu a culpa pela consigna e a participante chegou a Malévola como exemplo específico. Ninguém fez a versão de alta cultura.",
+   "variacoes": "Aplicar as mesmas variações às outras perguntas (papel do paciente, curso do tratamento, conceitos). A quarta variação (vinheta clínica) foi acrescentada na hora.",
+   "armadilhas": "Metáforas genéricas ou de livro-texto; tom de adulto distante da fantasia; consigna da cultura pop mal explicada (é preciso pedir uma obra específica).",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:12:26"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Abertura com tese e mapa",
+   "descricao": "Abre nomeando um problema grosseiro recorrente e anunciando a estrutura habitual (teoria, depois prática).",
+   "exemplo": "'Esse é um dos problemas que eu mais vejo… como sempre no aprimoramento, vou começar com a parte teórica, depois os exercícios.'",
+   "ts": "0:00:03"
+  },
+  {
+   "movimento": "Sondagem por mãos levantadas",
+   "descricao": "Calibra o nível do grupo e dá tarefa imediata a quem não conhece uma referência.",
+   "exemplo": "'Quem nunca viu o caso Gloria levanta a mão… então vocês têm uma primeira tarefa.'",
+   "ts": "0:09:07"
+  },
+  {
+   "movimento": "Pergunta sobre caso clássico",
+   "descricao": "Inicia a interação com uma pergunta aplicada a um vídeo conhecido.",
+   "exemplo": "'Em que momento ocorre a psicoeducação no caso Gloria?'",
+   "ts": "0:09:35"
+  },
+  {
+   "movimento": "Combinado forte de enquadre",
+   "descricao": "Neutraliza diferenças de abordagem e define o nível de exigência antes da prática.",
+   "exemplo": "'Pega a abordagem e joga fora… seu objetivo é não ser um clínico horroroso.'",
+   "ts": "0:14:23"
+  },
+  {
+   "movimento": "Escrever antes, ler em voz alta",
+   "descricao": "Garante qualidade pelo texto e avalia a entonação pela leitura; o chat serve de apoio.",
+   "exemplo": "'Pode mandar no chat, mas eu vou querer que você leia.'",
+   "ts": "0:25:40"
+  },
+  {
+   "movimento": "Critérios explícitos e autoavaliação",
+   "descricao": "Anuncia os critérios (ortodoxia e comunicação) e pede ao participante que se avalie antes do feedback.",
+   "exemplo": "'O que é central e o que é periférico na sua fala?'",
+   "ts": "0:27:40"
+  },
+  {
+   "movimento": "Reescrita ao vivo",
+   "descricao": "Reconstrói a frase do participante em vez de só apontar o erro.",
+   "exemplo": "'A minha terapia é um espaço. Um espaço de…'",
+   "ts": "0:29:31"
+  },
+  {
+   "movimento": "Elogio paradoxal que legitima o erro",
+   "descricao": "Transforma a resposta fraca em material valioso e reduz a vergonha.",
+   "exemplo": "'Excelente. Eu detestei a sua resposta… Se você acertou, você é meu inimigo nesse grupo.'",
+   "ts": "0:34:54"
+  },
+  {
+   "movimento": "Contraste antes da crítica",
+   "descricao": "Antes de destrinchar a resposta, dá duas versões próprias para o grupo comparar e só depois aplica a lição.",
+   "exemplo": "Duas explicações sobre escalas de 1 a 10, com nota e maior acerto e erro.",
+   "ts": "0:35:53"
+  },
+  {
+   "movimento": "Humildade epistêmica e ressalvas",
+   "descricao": "Marca os limites do próprio saber e do contexto ao comentar teoria alheia e supervisões.",
+   "exemplo": "'É cheiro, é vibe; a supervisora certamente é mais competente'; 'não ouvi o caso, são considerações gerais'.",
+   "ts": "0:46:42"
+  },
+  {
+   "movimento": "Não repetir feedback",
+   "descricao": "Em cada nova resposta, foca só no que é novo, para que o grupo aprenda com o erro alheio.",
+   "exemplo": "'O objetivo não é melhorar sua resposta, é todo mundo aprender com o erro do coleguinha.'",
+   "ts": "0:58:26"
+  },
+  {
+   "movimento": "Roleplay como paciente",
+   "descricao": "O facilitador encarna um paciente simulado para testar a explicação sob pressão.",
+   "exemplo": "Paciente que busca terapia por inquietação espiritual pergunta 'eu preciso ter essa pressa?'.",
+   "ts": "0:59:46"
+  },
+  {
+   "movimento": "Leitura pessoal com cautela",
+   "descricao": "Aponta aspectos da pessoa do terapeuta relativizando a própria leitura.",
+   "exemplo": "'Leitura baseada em 15 segundos; se não valer para você, vale para outra pessoa do grupo.'",
+   "ts": "1:03:51"
+  },
+  {
+   "movimento": "Humor e provocação afetuosa",
+   "descricao": "Usa ironia e brincadeira para manter leveza e vínculo.",
+   "exemplo": "'Você nem é uma das pessoas que eu mais odeio'; 'zoar sua supervisora é meu papel'.",
+   "ts": "1:04:40"
+  },
+  {
+   "movimento": "Meta-comentário sobre a própria didática",
+   "descricao": "Explica que seu método comparativo serve para ensinar psicologia, não para usar com pacientes.",
+   "exemplo": "'Eu faço espantalhos das abordagens… excelente didática para aprender, péssima para o paciente.'",
+   "ts": "1:07:53"
+  },
+  {
+   "movimento": "Gestão de tempo por corte e tarefa",
+   "descricao": "Encurta a dinâmica planejada e transforma as etapas restantes em tarefa de casa.",
+   "exemplo": "'Se a gente tivesse mais tempo… não vou nem fazer'; 'hoje só vai dar para fazer duas'.",
+   "ts": "1:09:01"
+  },
+  {
+   "movimento": "Revelação do objetivo oculto",
+   "descricao": "Revela que o exercício de comunicação era, na verdade, de reflexão sobre a própria clínica.",
+   "exemplo": "'Secretamente, o que a gente estava trabalhando nem era comunicação.'",
+   "ts": "1:12:26"
+  },
+  {
+   "movimento": "Assumir a culpa pela consigna",
+   "descricao": "Atribui a si a baixa aderência a uma variação e reexplica.",
+   "exemplo": "'Provavelmente eu expliquei o exercício errado… culpa minha.'",
+   "ts": "1:25:56"
+  },
+  {
+   "movimento": "Digressão erudita assumida",
+   "descricao": "Transforma curiosidade em didática (etimologia de metáfora e psique), reconhece o parêntese e volta.",
+   "exemplo": "'Entrando em parêntese de parêntese…'",
+   "ts": "1:32:03"
+  },
+  {
+   "movimento": "Fechamento com síntese e feedback de nível",
+   "descricao": "Enumera o que deve ficar marcado, recapitula a arquitetura dos exercícios e dá um feedback geral ao grupo.",
+   "exemplo": "'Primeira coisa: sempre há psicoeducação… Segunda: aprendam a fazer explicitamente'; 'o nível foi bacana'.",
+   "ts": "1:35:47"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Em formação, faça psicoeducação explícita, seja qual for sua abordagem.",
+   "justificativa": "Quem não sabe explicar não sabe demonstrar; explicar é o jeito mais fácil de passar segurança no método.",
+   "contexto": "Até dominar a abordagem ('não jogue no hard').",
+   "competencia": "Psicoeducação",
+   "ts": "0:14:23"
+  },
+  {
+   "dica": "Explique por que o tratamento funciona.",
+   "justificativa": "Entender o processo aumenta a adesão, como acontece com um remédio.",
+   "contexto": "Primeiras sessões e momentos de dúvida ou provocação.",
+   "competencia": "Psicoeducação",
+   "ts": "0:21:47"
+  },
+  {
+   "dica": "Ponha o essencial no início da frase, faça pausa e use repetição com progressão.",
+   "justificativa": "A atenção do ouvinte é curta, e o que fica no fim de uma lista perde força.",
+   "contexto": "Toda explicação oral.",
+   "competencia": "Construção frasal",
+   "ts": "0:29:31"
+  },
+  {
+   "dica": "Diga o que não é para sublinhar o que é.",
+   "justificativa": "O contraste destaca o núcleo ('não é só te ouvir, é dar um novo sentido').",
+   "contexto": "Ao fechar uma explicação.",
+   "competencia": "Construção frasal",
+   "ts": "0:31:06"
+  },
+  {
+   "dica": "Corte as introduções de texto escrito ao falar.",
+   "justificativa": "'O que faz minha terapia funcionar é…' soa como redação, não como fala com o paciente.",
+   "contexto": "Ao transformar um texto preparado em fala.",
+   "competencia": "Construção frasal",
+   "ts": "0:28:35"
+  },
+  {
+   "dica": "Não anuncie 'aqui é um espaço seguro, você está protegido legalmente'; comunique o sigilo pela construção conjunta do espaço.",
+   "justificativa": "Anunciar segurança soa estranho, como alguém que num encontro diz 'nunca agredi nenhuma namorada'.",
+   "contexto": "No contrato inicial.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:32:04"
+  },
+  {
+   "dica": "Troque o argumento de autoridade por um argumento concreto.",
+   "justificativa": "Compreender é um passo além de ser convencido; um argumento concreto qualquer pessoa entende.",
+   "contexto": "Ao justificar técnicas, escalas e tarefas.",
+   "competencia": "Psicoeducação",
+   "ts": "0:40:33"
+  },
+  {
+   "dica": "Explique as escalas numéricas pela comparação ao longo do tempo.",
+   "justificativa": "A memória e a observação não comparam sessão a sessão; o número permite fazer gráficos de progresso.",
+   "contexto": "Ao introduzir medidas de desfecho.",
+   "competencia": "Psicoeducação",
+   "ts": "0:39:53"
+  },
+  {
+   "dica": "Não jogue conceitos de passagem; escolha duas ideias centrais e dê um exemplo delas.",
+   "justificativa": "Jargão sem explicação deixa o paciente sem entender nada, e a explicação fica longa e inespecífica.",
+   "contexto": "Sempre que surgir um termo técnico.",
+   "competencia": "Psicoeducação",
+   "ts": "0:56:10"
+  },
+  {
+   "dica": "Não mande listas de artigos ao paciente como regra; tenha-os pré-selecionados para os casos em que servem.",
+   "justificativa": "Quase ninguém lê artigos (nem muitos professores universitários); vale só como autoridade, e o bom português persuade mais.",
+   "contexto": "Exceção: pacientes familiarizados com metodologia de pesquisa.",
+   "competencia": "Psicoeducação",
+   "ts": "0:47:43"
+  },
+  {
+   "dica": "Monte, refine e decore um repertório de exemplos (palácio mental).",
+   "justificativa": "Improvisar gera respostas ruins e rigidez; saber de cor libera a atenção para o paciente.",
+   "contexto": "Antes das sessões iniciais e para os conceitos centrais da abordagem.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:52:31"
+  },
+  {
+   "dica": "Ajuste o exemplo aos gostos do paciente.",
+   "justificativa": "É o que transforma um bom exemplo em excelente.",
+   "contexto": "Religioso: exemplos bíblicos; fã: uma música da Taylor Swift.",
+   "competencia": "Psicoeducação",
+   "ts": "0:52:31"
+  },
+  {
+   "dica": "Cole as explicações atrás do computador ou leve-as no bloco de notas.",
+   "justificativa": "Dá segurança mesmo que você não olhe; mostrar as notas ao paciente não faz mal.",
+   "contexto": "No início da prática clínica.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:55:21"
+  },
+  {
+   "dica": "Adote a anotação aberta como regra.",
+   "justificativa": "O paciente vê o que você anota, e as fantasias dele sobre isso viram material de trabalho.",
+   "contexto": "Exceto em abordagens com estilo de anotação fechada.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:55:21"
+  },
+  {
+   "dica": "Use vinhetas clínicas: três dados de um caso hipotético e 'o que você faria?'.",
+   "justificativa": "É o melhor tipo de exemplo: concreto, rápido de imaginar e testável.",
+   "contexto": "Para explicar conceitos como flexibilidade, esquiva experiencial ou retroflexão.",
+   "competencia": "Psicoeducação",
+   "ts": "0:56:10"
+  },
+  {
+   "dica": "Não use termos específicos antes de conhecer a queixa.",
+   "justificativa": "O paciente pode não se reconhecer ('angústia' para quem busca crescimento espiritual) ou estranhar ('o mais breve possível' para quem quer explorar sem pressa).",
+   "contexto": "Primeira e segunda sessões.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:59:12"
+  },
+  {
+   "dica": "Não peça desculpas pela abordagem nem a compare com outras.",
+   "justificativa": "O paciente não é um oponente intelectual; foque no que você faz e no que funciona.",
+   "contexto": "Sempre, exceto quando o paciente vem de outra abordagem e o contraste ajuda.",
+   "competencia": "Psicoeducação",
+   "ts": "1:06:57"
+  },
+  {
+   "dica": "Escolha verbos que expressem a posição que você quer ocupar.",
+   "justificativa": "'Acompanhar' sugere passividade e distância, diferente de 'troca', 'colaborativo' ou 'espaço'.",
+   "contexto": "Ao descrever a relação terapêutica.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:05:36"
+  },
+  {
+   "dica": "Saiba explicar na ponta da língua qual é o papel do paciente no processo.",
+   "justificativa": "A maioria dos clínicos não consegue, e isso passa insegurança; é o tipo de coisa que mantém o paciente.",
+   "contexto": "No contrato e em momentos de impasse.",
+   "competencia": "Psicoeducação",
+   "ts": "1:37:51"
+  },
+  {
+   "dica": "Quando o curso do tratamento for previsível, explique as etapas e a duração provável; quando não for, compartilhe hipóteses de trabalho.",
+   "justificativa": "Dar uma ideia do processo específico daquela pessoa ajuda a trabalhar as expectativas.",
+   "contexto": "Por exemplo, fobia específica em abordagens comportamentais.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:09:58"
+  },
+  {
+   "dica": "Com crianças, entre na fantasia com afeto em vez de explicar a metáfora de fora.",
+   "justificativa": "O tom professoral e monótono não engaja; é preciso falar do monstro com ânimo ou medo.",
+   "contexto": "Atendimento infantil.",
+   "competencia": "Psicoeducação",
+   "ts": "1:17:39"
+  },
+  {
+   "dica": "Misture explicação técnica e metafórica com crianças, adolescentes e pessoas sem instrução formal.",
+   "justificativa": "Transmite respeito, evita a terapia virar 'poesia' e compensa a dificuldade de acertar o tom pela idade.",
+   "contexto": "Sempre que simplificar.",
+   "competencia": "Psicoeducação",
+   "ts": "1:19:04"
+  },
+  {
+   "dica": "Se usar metáfora, vá até o fim.",
+   "justificativa": "A metáfora de livro-texto não significa nada; a vivida (o detetive com linha vermelha e pistas) engaja.",
+   "contexto": "Metáforas clínicas com qualquer idade.",
+   "competencia": "Intervenção",
+   "ts": "1:24:21"
+  },
+  {
+   "dica": "Use exemplos específicos da cultura pop.",
+   "justificativa": "A metáfora é transporte; um exemplo genérico leva cada um a imaginar outra coisa, e um personagem conhecido transmite muito do tipo de sujeito.",
+   "contexto": "Descrever tipos de sujeito ou processos (Nate de Euphoria, Hermione, Malévola).",
+   "competencia": "Psicoeducação",
+   "ts": "1:28:59"
+  },
+  {
+   "dica": "Treine a entrega, não só o texto.",
+   "justificativa": "No improviso a fala vacila; o tom seguro comunica competência.",
+   "contexto": "Ensaios, roleplays e supervisão.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:01:56"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Toda abordagem faz psicoeducação; a diferença está entre explicar e demonstrar.",
+   "argumento": "Vídeos de terapeutas de referência (Perls com Gloria, o corte lacaniano) mostram o método sendo ensinado em ato.",
+   "contraponto": "Abordagens que dizem não psicoeducar; Freud, que falava contra por rivalidade com Adler.",
+   "implicacao": "Ninguém escapa de psicoeducar; é melhor fazê-lo com consciência.",
+   "quem": "Alan",
+   "ts": "0:07:02"
+  },
+  {
+   "tese": "Gente competente demonstra mais; gente insegura explica mais.",
+   "argumento": "Mesmo nas abordagens explícitas, os competentes psicoeducam implicitamente; a divisão por escola é 'meia verdade'.",
+   "contraponto": "A ideia de que o implícito é só questão de abordagem.",
+   "implicacao": "Aprender primeiro o explícito, porque quem não explica não demonstra.",
+   "quem": "Alan",
+   "ts": "0:15:15"
+  },
+  {
+   "tese": "Em formação, jogue fora a abordagem e faça do jeito fácil (explícito).",
+   "argumento": "A meta inicial é não ser um 'clínico horroroso' e sim um clínico acima da média; as sutilezas (posição do analista) vêm depois.",
+   "contraponto": "Iniciantes que imitam a psicoeducação implícita dos mestres sem saber por quê.",
+   "implicacao": "Psicoeducação explícita e preparada.",
+   "quem": "Alan",
+   "ts": "0:14:23"
+  },
+  {
+   "tese": "A psicanálise tem boas razões para não explicar suas intervenções.",
+   "argumento": "Explicar põe o analista na posição de mestre e dá sentido ao inconsciente, contra a função antihermenêutica.",
+   "contraponto": "A proposta de demonstrar e depois explicar.",
+   "implicacao": "Conhecer os fundamentos teóricos antes de abandonar o explícito.",
+   "quem": "Alan",
+   "ts": "0:16:26"
+  },
+  {
+   "tese": "A mesma técnica pode ter sentidos opostos em abordagens diferentes.",
+   "argumento": "A cadeira vazia é treino na TCC, experiência na Gestalt e colocar-se no outro no psicodrama.",
+   "contraponto": "Comparar técnicas pela aparência.",
+   "implicacao": "O sentido da técnica decide se convém explicá-la.",
+   "quem": "Alan",
+   "ts": "0:17:48"
+  },
+  {
+   "tese": "Compreender vale mais que ser convencido por autoridade; mandar artigos ao paciente é puro apelo à autoridade.",
+   "argumento": "Quase ninguém lê artigos, nem muitos professores universitários; o português claro é acessível a todos.",
+   "contraponto": "A sugestão de uma supervisora de mandar listas de evidências (criticada com ressalvas, sem conhecer o caso).",
+   "implicacao": "Explicar em bom português; manter os artigos só de reserva.",
+   "quem": "Alan",
+   "ts": "0:47:43"
+  },
+  {
+   "tese": "A psicologia do sujeito moderno racional-científico é raríssima.",
+   "argumento": "A maioria das pessoas pensa de forma mágica ou 'medieval', e até os racionais têm superstições.",
+   "contraponto": "Uma psicoeducação pensada para um paciente ideal racional.",
+   "implicacao": "Calibrar a explicação para o paciente real.",
+   "quem": "Alan",
+   "ts": "0:48:48"
+  },
+  {
+   "tese": "Fluidez vem do excesso de estrutura, não da falta.",
+   "argumento": "A falta de estrutura produz pausas, prolixidade e exemplos ruins; o que está fixado (como passar a marcha) libera a atenção.",
+   "contraponto": "A crença de que preparar demais deixa o terapeuta robótico.",
+   "implicacao": "Preparar, refinar e decorar as explicações.",
+   "quem": "Alan",
+   "ts": "0:54:24"
+  },
+  {
+   "tese": "A anotação aberta deveria ser a regra.",
+   "argumento": "Favorece a relação e permite trabalhar as fantasias do paciente sobre as anotações.",
+   "contraponto": "Estilos e abordagens de anotação fechada.",
+   "implicacao": "Mostrar as notas ao paciente.",
+   "quem": "Alan",
+   "ts": "0:55:21"
+  },
+  {
+   "tese": "A didática comparativa é ótima para formar psicólogos e péssima para pacientes.",
+   "argumento": "No grupo, Alan faz espantalhos das abordagens para tensioná-las; com o paciente, isso soa como defesa ou desculpa.",
+   "contraponto": "O próprio estilo de ensino de Alan, se transposto para a clínica.",
+   "implicacao": "Com o paciente, falar só do que você faz e do que funciona.",
+   "quem": "Alan",
+   "ts": "1:07:53"
+  },
+  {
+   "tese": "Terapia que nunca sai da metáfora vira poesia.",
+   "argumento": "A explicação técnica dá substância e transmite respeito, até com crianças.",
+   "contraponto": "Junguianos (nas palavras de Alan) que ficam só na metáfora.",
+   "implicacao": "Misturar o registro técnico com o metafórico.",
+   "quem": "Alan",
+   "ts": "1:19:04"
+  },
+  {
+   "tese": "A relação terapêutica inclui a competência percebida do clínico e a segurança no método.",
+   "argumento": "Explicar bem passa segurança e retém pacientes nos momentos iniciais.",
+   "contraponto": "Ver a relação apenas como vínculo afetivo.",
+   "implicacao": "Psicoeducar faz parte do cuidado da relação.",
+   "quem": "Alan",
+   "ts": "1:37:51"
+  },
+  {
+   "tese": "A psicologia convida o terapeuta a viver uma vida mais rica.",
+   "argumento": "Quem vive de modo muito disfuncional tem um problema como clínico; ler os clássicos pensando psicologicamente melhora a formulação.",
+   "contraponto": "A formação puramente técnica.",
+   "implicacao": "Trabalhar a espontaneidade e ler alta cultura 'da pele para dentro'.",
+   "quem": "Alan",
+   "ts": "1:34:58"
+  },
+  {
+   "tese": "A primeira geração de psicólogos de Viena era mais rica que a psicologia atual.",
+   "argumento": "Formulações elegantes, criativas e próximas da clínica, das quais quase nada sobreviveu além de Freud e Jung.",
+   "contraponto": "A ideia de progresso linear na psicologia.",
+   "implicacao": "Vale estudar a história e os autores esquecidos.",
+   "quem": "Alan",
+   "ts": "0:06:00"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "O que torna a coisa fluida não é falta de estrutura. O que torna a coisa fluida é excesso de estrutura.",
+   "tema": "preparo e fluidez",
+   "ts": "0:54:24"
+  },
+  {
+   "texto": "Gente competente demonstra mais, e gente que ainda está insegura explica mais.",
+   "tema": "psicoeducação implícita e explícita",
+   "ts": "0:15:15"
+  },
+  {
+   "texto": "Se você não sabe fazer explicitamente, você não vai saber fazer implicitamente.",
+   "tema": "formação",
+   "ts": "0:15:15"
+  },
+  {
+   "texto": "Até você ser analista, seu objetivo é não ser um clínico horroroso.",
+   "tema": "formação",
+   "ts": "0:14:23"
+  },
+  {
+   "texto": "O objetivo aqui é errar. Se você acertou, você é meu inimigo nesse grupo.",
+   "tema": "cultura do grupo",
+   "ts": "0:34:54"
+  },
+  {
+   "texto": "Compreender alguma coisa é um passo além de convencer por autoridade.",
+   "tema": "argumento de autoridade",
+   "ts": "0:41:42"
+  },
+  {
+   "texto": "Se você explicar em bom português como a sua terapia funciona, vai ser mais persuasivo do que mandar uma penca de artigos.",
+   "tema": "artigos e evidências",
+   "ts": "0:49:44"
+  },
+  {
+   "texto": "Se você está conjurando uma resposta pela primeira vez, provavelmente vai ser uma resposta ruim.",
+   "tema": "preparo",
+   "ts": "0:51:34"
+  },
+  {
+   "texto": "Quando você está falando com o paciente, você não está falando com um oponente intelectual da psicologia.",
+   "tema": "comunicação com o paciente",
+   "ts": "1:06:57"
+  },
+  {
+   "texto": "Explicar psicologia comparativamente é uma excelente didática para quem quer aprender psicologia e uma péssima didática para o seu paciente.",
+   "tema": "didática",
+   "ts": "1:07:53"
+  },
+  {
+   "texto": "Não existe regra em terapia; quem dá dica para vocês é picareta. Dito isso, vai aqui uma dica.",
+   "tema": "humor e dicas",
+   "ts": "1:18:30"
+  },
+  {
+   "texto": "Se você vai usar a metáfora, entra na metáfora — usa até o final.",
+   "tema": "metáfora",
+   "ts": "1:24:21"
+  },
+  {
+   "texto": "Metáfora é transporte: um acelerador do raciocínio clínico.",
+   "tema": "metáfora",
+   "ts": "1:28:00"
+  },
+  {
+   "texto": "Sempre há psicoeducação. Só que de vez em quando ela é implícita.",
+   "tema": "psicoeducação",
+   "ts": "1:35:47"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Você sabe dizer em 30 segundos o que faz a sua terapia funcionar?",
+   "mensagem": "Uma boa explicação põe o essencial no começo, usa repetição com progressão, diz o que não é e não despeja jargão.",
+   "roteiro": [
+    "Capa: 'O que faz a sua terapia funcionar?' — responda em 30 segundos.",
+    "Erro 1: começar com 'o que faz minha terapia funcionar é…' (soa como redação).",
+    "Erro 2: enfileirar conceitos sem explicar nenhum.",
+    "Técnica: essencial no início + pausa ('A minha terapia é um espaço.').",
+    "Técnica: repetição com progressão ('Um espaço de… Um espaço de…').",
+    "Técnica: dizer o que não é ('Não é só te ouvir, é dar novo sentido').",
+    "CTA: escreva a sua e leia em voz alta."
+   ],
+   "corte_inicio": "0:28:35",
+   "corte_fim": "0:31:06"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Quer soar natural na sessão? Prepare mais, não menos.",
+   "mensagem": "A fluidez vem do excesso de estrutura: quem sabe dirigir não pensa em passar a marcha.",
+   "roteiro": [
+    "Gancho: 'Improvisar não te deixa natural, te deixa robótico.'",
+    "Corte da fala de Alan sobre excesso de estrutura.",
+    "Metáfora do carro e da marcha.",
+    "Dica: cole suas explicações atrás do computador."
+   ],
+   "corte_inicio": "0:54:24",
+   "corte_fim": "0:55:21"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Até Perls e Lacan fazem psicoeducação.",
+   "mensagem": "Toda abordagem psicoeduca: umas explicam o método, outras o demonstram em ato.",
+   "roteiro": [
+    "Capa: 'A sua abordagem não psicoeduca? Tem certeza?'",
+    "Explícita: TCC, Jung, Adler.",
+    "Implícita 1: Perls e Gloria ('agora começamos a sessão').",
+    "Implícita 2: o corte lacaniano ensina a escutar a própria fala.",
+    "Tese: competentes demonstram, inseguros explicam.",
+    "Conselho: em formação, aprenda o explícito primeiro."
+   ],
+   "corte_inicio": "0:09:58",
+   "corte_fim": "0:13:24"
+  },
+  {
+   "formato": "reels",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Mandar artigos científicos para o paciente convence?",
+   "mensagem": "Quase ninguém lê artigos; mandá-los é apelo à autoridade. Explicar bem em português persuade mais.",
+   "roteiro": [
+    "Gancho: 'A supervisora disse para mandar artigos ao paciente…'",
+    "Fala de Alan: nem professores universitários leem artigo direito.",
+    "O sujeito racional-científico é raro.",
+    "Alternativa: explicação concreta."
+   ],
+   "corte_inicio": "0:47:43",
+   "corte_fim": "0:49:44"
+  },
+  {
+   "formato": "post",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Cadeira vazia: mesma técnica, três sentidos.",
+   "mensagem": "Na TCC é treino, na Gestalt é experiência, no psicodrama é colocar-se no outro; o sentido decide como conduzir.",
+   "roteiro": [
+    "Imagem da cadeira vazia.",
+    "Legenda com as três leituras e a genealogia Moreno → Perls → TCC."
+   ],
+   "corte_inicio": "0:17:48",
+   "corte_fim": "0:19:54"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pare de dizer ao paciente 'aqui é um espaço seguro'.",
+   "mensagem": "Anunciar segurança soa estranho; comunique o sigilo construindo o espaço junto.",
+   "roteiro": [
+    "Gancho com a comparação do encontro no cinema.",
+    "Alternativa: falar do espaço construído a dois."
+   ],
+   "corte_inicio": "0:32:04",
+   "corte_fim": "0:32:52"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Os 4 níveis de preparo de uma explicação clínica.",
+   "mensagem": "Do improviso (inaceitável) ao exemplo sabido de cor que libera a atenção para o paciente.",
+   "roteiro": [
+    "Nível 1: pego de surpresa.",
+    "Nível 2: bom exemplo pronto.",
+    "Nível 3: excelente exemplo (curto, vinheta, gosto do paciente).",
+    "Nível 4: de cor, livre para usar a vida do paciente.",
+    "Palácio mental de exemplos."
+   ],
+   "corte_inicio": "0:50:39",
+   "corte_fim": "0:54:24"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "No nosso grupo, o objetivo é errar.",
+   "mensagem": "No aprimoramento, a resposta imperfeita vira material de aprendizado para todos.",
+   "roteiro": [
+    "Trecho 'Excelente. Eu detestei a sua resposta'.",
+    "Enquete: 'Você teria coragem de ler sua resposta em voz alta?'",
+    "Convite para o grupo."
+   ],
+   "corte_inicio": "0:34:54",
+   "corte_fim": "0:35:53"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Alfred Adler",
+   "contexto": "Criador do termo psicoeducação; psicologia do poder/da adaptação, lida por Alan como 'psicologia do fracassado'."
+  },
+  {
+   "nome": "Friedrich Nietzsche",
+   "contexto": "A vontade de potência, referência da psicologia do poder de Adler."
+  },
+  {
+   "nome": "Aaron Beck",
+   "contexto": "A TCC tem o mesmo espírito adaptativo de Adler (palingênese), sem ligação histórica."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Põe a educação entre as 'quatro estruturas fundamentais do proceder clínico'; texto sobre a etimologia de psique."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Falava contra a psicoeducação por rivalidade com Adler, mas a praticava (retificação subjetiva em Dora)."
+  },
+  {
+   "nome": "Fritz Perls",
+   "contexto": "Caso Gloria como exemplo de psicoeducação implícita; popularizou a cadeira vazia."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "O corte da sessão como psicoeducação implícita; o livro de relatos de pacientes 'Alô, Lacan?' (título dado de memória)."
+  },
+  {
+   "nome": "Jacob Levy Moreno",
+   "contexto": "Inventor da cadeira vazia; teoria mesclada a misticismo judaico, difícil de ler."
+  },
+  {
+   "nome": "Steven Hayes (?)",
+   "contexto": "Provável referência ('as coisas que já vi do Hayes') ao discutir a ortodoxia da ACT; transcrito como 'Reis'."
+  },
+  {
+   "nome": "Marcel Proust",
+   "contexto": "Exemplo de alta cultura para a variação da dinâmica."
+  },
+  {
+   "nome": "Dante Alighieri",
+   "contexto": "Exemplo de alta cultura; ler a Divina Comédia pensando psicologicamente."
+  },
+  {
+   "nome": "Liev Tolstói",
+   "contexto": "Exemplo de alta cultura para a variação da dinâmica."
+  },
+  {
+   "nome": "João Guimarães Rosa",
+   "contexto": "Grande Sertão: Veredas como leitura que enriquece a formação."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento clínico (grupo do Alan)",
+  "objetivo": "Treinar competências clínicas transversais às abordagens; neste encontro, a psicoeducação explícita e a reflexão sobre o que faz a própria clínica funcionar.",
+  "publico": "Psicólogos e estudantes de abordagens variadas (psicanálise, ACT, TCC, humanistas, junguianos).",
+  "tamanho": "Grupo pequeno, com cerca de 6 a 8 participantes ativos visíveis na gravação.",
+  "duracao": "~1h40",
+  "estrutura_padrao": "'Como sempre no aprimoramento': bloco teórico (histórico e comparativo) seguido de exercícios práticos escritos e lidos em voz alta, com feedback individual diante do grupo, variações sucessivas da mesma dinâmica, tarefa para casa e fechamento com síntese.",
+  "papel_facilitador": "Expõe a teoria comparando abordagens, dá consignas e critérios, dá feedback detalhado com reescrita ao vivo, faz roleplay como paciente, provoca com humor, gerencia o tempo cortando etapas e explicita objetivos ocultos.",
+  "regras_combinados": "Deixar a abordagem de lado durante o exercício; o objetivo é errar para aprender; ler em voz alta como se falasse com o paciente; feedback focado no que é novo para todos aprenderem com o erro alheio; parte final sem gravação."
+ },
+ "reflexoes_do_facilitador": [
+  "Todo grupo de aprimoramento não dá tempo de fazer a dinâmica que ele quer, porque junta várias dinâmicas para mostrar várias coisas; o objetivo é experimentar o suficiente para treinar em casa (0:25:40).",
+  "Reconhece que seu método de ensinar psicologia comparativamente, com 'espantalhos' das abordagens, é ótima didática para o grupo e péssima para usar com pacientes (1:07:53).",
+  "Com tempo 'infinito', trabalharia a entrega de cada participante; no grupo o foco é mostrar o exercício (1:04:40).",
+  "Corta etapas por falta de tempo e diz que talvez não continue no tema de psicoeducação no próximo encontro: 'vou trocar de tema e depois eu volto nisso' (1:12:13).",
+  "Assume a culpa pela baixa aderência à variação 'cultura pop': 'provavelmente expliquei o exercício errado porque estou tentando fazer as coisas rápido' (1:25:56).",
+  "Explica que sempre usa os mesmos exemplos nos grupos porque montou um palácio mental de exemplos (0:52:31).",
+  "Diz que quase sempre fala com a linguagem mais técnica possível antes de dar o exemplo simples, inclusive nos encontros (1:19:57).",
+  "Avalia que o nível do grupo foi bom, comparado com o encontro de escuta e com outras coisas que tem visto (1:39:06).",
+  "Comenta que o exercício de 'interpretação da Taylor', feito em vídeo, não ficou tão bom quanto a versão presencial (1:36:47).",
+  "Encerra a gravação antes de comentários finais que 'não precisam ficar para as pessoas no futuro' (1:40:04)."
+ ],
+ "referencias_a_outros_encontros": [
+  "Alan menciona 'como sempre no dia de aprimoramento' a estrutura teoria → exercícios (0:00:03).",
+  "Compara o nível do grupo com o do trabalho de escuta ('comparado com escuta'), provavelmente os encontros de escuta da série (1:39:06).",
+  "Cita um exercício anterior de 'interpretação da Taylor' (provavelmente Taylor Swift (?)), gravado em vídeo e feito também presencialmente (1:36:47).",
+  "Diz que depois voltará ao tema da psicoeducação e que no próximo encontro talvez troque de tema (1:12:13).",
+  "Anuncia que 'eventualmente vocês terão aula' sobre pensamento mágico e sobre como civilizações antigas pensavam o modelo clínico (1:31:03).",
+  "Uma participante pede ajuda para montar propostas de aprimoramento focadas em psicanálise (1:39:06).",
+  "A técnica de reescrita da frase retoma o encontro de construção frasal (Alan 02)."
+ ],
+ "observacoes": "Legenda automática com muito ruído; nomes corrigidos: 'Aler/ADER/aslarianos' = Adler; 'Bros/PS/person/PSE' = Perls; 'Guestout/gastitamente' = Gestalt; 'Reis' provavelmente = Hayes (?); 'galerinha de Valé' provavelmente = Esalen (?); 'taendo' = taekwondo (?). O título do livro historiográfico recomendado ('dois casos…') e um livro citado como '11/6' ficaram ininteligíveis. O livro 'Alô, Lacan?' foi citado de memória por Alan. A abordagem da participante da versão infantil foi inferida (ACT) pelo conteúdo. Participantes anonimizados por abordagem. Casos clínicos mencionados por Alan (um menino da época da faculdade; um paciente sem instrução formal) foram descritos genericamente; o roleplay e a vinheta da aranha são simulados ou hipotéticos. O titulo_original ('Psicoeducação') coincide com o nome da competência, por isso o alias da nota foi alterado para evitar ambiguidade de link. A nota tem cerca de 6.400 palavras, pouco acima da meta, pela densidade de feedbacks. A abordagem 'Psicologia adleriana' (tag abordagem/adleriana) é nova, fora do vocabulário controlado."
+}

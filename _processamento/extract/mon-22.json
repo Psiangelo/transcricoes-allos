@@ -1,0 +1,799 @@
+{
+ "id": "mon-22",
+ "nota": "Monitoria 22 - Diogo - Confluências e diferenças entre abordagens",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Confluências e diferenças entre abordagens",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "A monitoria planejada (empatia no modelo de árvore de possibilidades, a partir do caso de um terapeuta) não acontece porque a única participante que atende não consegue falar; Diogo explica que o formato não funciona pelo chat e improvisa um encontro sobre confluências e diferenças entre abordagens. Com um diagrama de semelhanças e diferenças, conduz três rodadas com participantes de psicanálise, psicologia analítica, TCC e sócio-histórica, entrando ele mesmo com a análise do comportamento: o centro de cada abordagem (inconsciente ou associação livre, individuação, mediação semiótica, comportamento), a forma de acessá-lo na clínica (observação, relato, presença, escuta, sonhos, análise de contexto) e uma especificidade profunda (sexualidade infantil, lente, discriminação condicional). Das diferenças extrai semelhanças: objeto de estudo, concepção de sujeito e de desenvolvimento, escuta, análise e compreensão do fenômeno, subjetividade, profundidade e complexidade. Um debate opõe a ideia de que todas as abordagens olham para tudo com ênfases diferentes à tese de Diogo de que os conceitos são filosoficamente diferentes e de que o fenômeno pode ser constituído pela compreensão. Fecha defendendo que comparar funções entre abordagens amplia repertório conceitual e de recursos, sem tratar os conceitos como sinônimos.",
+ "em_uma_frase": "Sem caso para monitorar, Diogo improvisa um diagrama de semelhanças e diferenças entre abordagens e mostra que fundamentos distintos escondem confluências formais profundas, cuja comparação amplia o repertório do clínico.",
+ "competencias": [
+  "Articulação teoria-prática",
+  "Escuta clínica",
+  "Interpretação",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicanálise freudiana",
+  "Psicanálise lacaniana",
+  "Psicologia analítica junguiana",
+  "Análise do comportamento",
+  "Psicologia sócio-histórica",
+  "Terapia cognitivo-comportamental"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:06",
+   "bloco": "Abertura",
+   "descricao": "Quem é novo; o que é a monitoria (tópico trabalhado a partir do caso de uma pessoa); proposta de empatia em árvore de possibilidades.",
+   "funcao": "Situar novatos e anunciar a competência.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:01:46",
+   "bloco": "Combinados",
+   "descricao": "Levantamento de quem está atendendo.",
+   "funcao": "Encontrar o monitorado do dia.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:03:05",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Convite a uma participante; microfone não funciona; tentativa de chamar outra pessoa; conversa sobre faculdades; explicação de por que o chat não serve.",
+   "funcao": "Tentar viabilizar o formato.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:08:24",
+   "bloco": "Teoria",
+   "descricao": "Mudança de tema: confluências e diferenças entre abordagens; definição de confluência; objetivo crítico.",
+   "funcao": "Reenquadrar o encontro.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:10:37",
+   "bloco": "Discussão",
+   "descricao": "Analogia de química, física e biologia trazida por participante e expandida por Diogo.",
+   "funcao": "Ancorar em algo familiar.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:11:58",
+   "bloco": "Dinâmica",
+   "descricao": "Cada um diz a abordagem com que se identifica; Diogo: análise do comportamento, que não é TCC.",
+   "funcao": "Mapear o grupo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:13:50",
+   "bloco": "Dinâmica",
+   "descricao": "Diagrama de Venn (cães e gatos); troca por duas colunas; por que não um círculo que englobe tudo.",
+   "funcao": "Montar o instrumento.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:18:23",
+   "bloco": "Dinâmica",
+   "descricao": "Rodada 1: o que é central em cada abordagem, com justificativas.",
+   "funcao": "Nomear fundamentos.",
+   "duracao_min": 13
+  },
+  {
+   "ts": "0:31:09",
+   "bloco": "Discussão",
+   "descricao": "O que o grupo observa: tudo são objetos de estudo; semelhanças formais sob fundamentos diferentes.",
+   "funcao": "Primeira síntese.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:34:04",
+   "bloco": "Dinâmica",
+   "descricao": "Rodada 2: como o clínico acessa o fundamento; Freud e Skinner; metáfora das lentes; escuta como semelhança.",
+   "funcao": "Comparar a prática.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:41:22",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Contexto e ambiente; inconsciente permeado pelo contexto.",
+   "funcao": "Pontes conceituais.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:45:02",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Debate: todas olham para tudo × diferença filosófica; 6 ou 9; fenômeno o mesmo ou construído.",
+   "funcao": "Pensamento crítico sobre a comparação.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:52:03",
+   "bloco": "Discussão",
+   "descricao": "Atenção flutuante; símbolo; subjetividade; coisas específicas escondem semelhanças profundas.",
+   "funcao": "Síntese intermediária.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:56:14",
+   "bloco": "Dinâmica",
+   "descricao": "Rodada 3: especificidades, com dois minutos para pensar.",
+   "funcao": "Ir ao que só o estudo aprofundado mostra.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:58:32",
+   "bloco": "Dinâmica",
+   "descricao": "Sexualidade infantil (participante); parêntese sobre o caso Dora.",
+   "funcao": "Especificidade da psicanálise.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:04:42",
+   "bloco": "Dinâmica",
+   "descricao": "Lente da sócio-histórica (pelo chat) e discriminação condicional (Diogo).",
+   "funcao": "Especificidades da sócio-histórica e da análise do comportamento.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:10:15",
+   "bloco": "Discussão",
+   "descricao": "Nenhuma especificidade é literal: profundidade e complexidade como semelhanças.",
+   "funcao": "Última síntese.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:14:19",
+   "bloco": "Fechamento",
+   "descricao": "Diferenças na superfície, semelhanças no nível formal; comparar funções amplia repertório; episódio cotidiano lido por três abordagens; desenhos como recurso comum.",
+   "funcao": "Mostrar a utilidade prática.",
+   "duracao_min": 7
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Psicologia comparada",
+   "definicao": "Comparar abordagens por fundamentos, formas de acesso e especificidades, extraindo semelhanças das diferenças sem igualar os conceitos.",
+   "exemplo": "Diagrama de semelhanças e diferenças em três rodadas.",
+   "abordagem": "",
+   "ts": "0:08:44"
+  },
+  {
+   "nome": "Confluências entre abordagens",
+   "definicao": "Pontos de concentração comum entre abordagens (confluência), em oposição aos pontos de diferenciação (divergência). No encontro: objeto de estudo, concepção de sujeito e de desenvolvimento, escuta, análise e compreensão do fenômeno, subjetividade, profundidade e complexidade.",
+   "exemplo": "Todas as abordagens atendem pacientes; todas as ciências humanas passam pela filosofia.",
+   "abordagem": "",
+   "ts": "0:08:44"
+  },
+  {
+   "nome": "Objeto de estudo",
+   "definicao": "Aquilo que cada abordagem se propõe a estudar; ter um objeto de estudo é marca da psicologia enquanto ciência.",
+   "exemplo": "Inconsciente, individuação, mediação semiótica, comportamento.",
+   "abordagem": "",
+   "ts": "0:31:23"
+  },
+  {
+   "nome": "Concepção de sujeito",
+   "definicao": "Como cada abordagem concebe a pessoa; a sócio-histórica a vê constituída de fora para dentro, o humanismo de dentro para fora, a análise do comportamento como interação com o ambiente.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:28:54"
+  },
+  {
+   "nome": "Inconsciente",
+   "definicao": "Para o participante de psicanálise, o centro da abordagem: a psicanálise estuda a ação do inconsciente sobre o consciente. Para Diogo, mesmo numa concepção mentalista, o inconsciente é definido e afetado pelo contexto.",
+   "exemplo": "O mesmo evento é trauma para uns e não para outros.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:21:43"
+  },
+  {
+   "nome": "Associação livre",
+   "definicao": "Escolhida por outra participante como centro da psicanálise; para o primeiro participante, um meio para que o inconsciente se manifeste.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:21:30"
+  },
+  {
+   "nome": "Ato falho",
+   "definicao": "Manifestação do inconsciente que acontece diante do analista; exemplo de acesso ao fenômeno pela presença.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:35:47"
+  },
+  {
+   "nome": "Individuação",
+   "definicao": "Na psicologia analítica, processo natural da vida psíquica rumo à integração dos opostos (sombra, arquétipos, inconsciente); a terapia auxilia esse caminho. Diogo resume como maturação natural do aparelho psíquico.",
+   "exemplo": "",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:25:44"
+  },
+  {
+   "nome": "Inconsciente coletivo",
+   "definicao": "Primeira escolha da participante de psicologia analítica como centro da abordagem, depois trocada por individuação.",
+   "exemplo": "A serpente como símbolo coletivo em mitologias e na Bíblia.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:25:44"
+  },
+  {
+   "nome": "Mediação semiótica",
+   "definicao": "Na psicologia sócio-histórica, a ligação entre sintoma e contexto e a constituição do sujeito de fora para dentro, pela cultura e pela sociedade. Diogo diz que não conhecia o conceito.",
+   "exemplo": "",
+   "abordagem": "Psicologia sócio-histórica",
+   "ts": "0:28:54"
+  },
+  {
+   "nome": "Comportamento",
+   "definicao": "Para a análise do comportamento, interação entre sujeito e ambiente; é o objeto de estudo e o centro da abordagem, acessado por observação, relato e presença.",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:30:44"
+  },
+  {
+   "nome": "Contexto e ambiente",
+   "definicao": "O contexto da sócio-histórica e o ambiente da análise do comportamento têm relação teórica semelhante (quase sinônimos, com mais especificação na análise do comportamento), mas Diogo adverte que a noção de ambiente é concebida de modo filosoficamente diferente em cada abordagem.",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:41:22"
+  },
+  {
+   "nome": "Símbolo",
+   "definicao": "Imagem pessoal e ao mesmo tempo coletiva, sem significado prévio fixo: cada pessoa atribui um significado.",
+   "exemplo": "Sonhar com uma cobra não se interpreta pesquisando no Google.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:53:14"
+  },
+  {
+   "nome": "Atenção flutuante",
+   "definicao": "Citada por uma participante: o psicanalista presta atenção a certas coisas; o terapeuta de TCC, a outras; a mesma fala recebe interpretações diferentes.",
+   "exemplo": "Eu gosto de batata frita dito diante de cem pessoas.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:52:03"
+  },
+  {
+   "nome": "Subjetividade",
+   "definicao": "O específico dentro do geral; semelhança de fundo que Diogo encontra por trás do símbolo, do contexto e do relato.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:54:56"
+  },
+  {
+   "nome": "Lente teórica",
+   "definicao": "Metáfora de uma participante de sócio-histórica: cada abordagem e cada pessoa vê o fenômeno por uma lente que define a compreensão; a subjetividade do sujeito e da abordagem interfere em como tudo é processado.",
+   "exemplo": "A mesma pergunta do terapeuta ouvida de modos diferentes por alguém em depressão grave ou em surto.",
+   "abordagem": "Psicologia sócio-histórica",
+   "ts": "1:06:34"
+  },
+  {
+   "nome": "Construção de sentido",
+   "definicao": "Posição filosófica segundo a qual o fenômeno é constituído pela compreensão que se tem dele: a fala do paciente só faz sentido dentro da abordagem. Diogo a apresenta como provocação, sem afirmar que é a certa.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:49:50"
+  },
+  {
+   "nome": "Sexualidade infantil",
+   "definicao": "Especificidade da psicanálise que só se entende estudando a fundo; não significa crianças fazendo sexo, mas a constituição do sujeito a partir das relações e fases da infância.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:58:32"
+  },
+  {
+   "nome": "Complexo de Édipo",
+   "definicao": "Na exposição do participante, rivalidade e identificação com os cuidadores na disputa por afeto, com efeitos na vida adulta.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:01:03"
+  },
+  {
+   "nome": "Discriminação condicional",
+   "definicao": "Agir de maneira específica num contexto específico quando uma conjunção de condições está presente; na clínica, sofrer em determinada situação, algo nem sempre fácil de perceber.",
+   "exemplo": "Ligar a TV às 15h porque é quando passa o desenho; andar no semáforo verde só quando os outros carros pararam.",
+   "abordagem": "Análise do comportamento",
+   "ts": "1:07:55"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Confluências e diferenças entre abordagens",
+   "objetivo": "Perceber semelhanças profundas entre abordagens de fundamentos diferentes e desfazer a visão da abordagem como método rígido.",
+   "competencias": [
+    "Articulação teoria-prática",
+    "Desenvolvimento profissional"
+   ],
+   "configuracao": "Grupo todo (seis a oito estudantes de várias abordagens), online, com quadro compartilhado; quem não pode falar participa pelo chat; o facilitador entra com a própria abordagem.",
+   "tempo": "Cerca de 70 minutos.",
+   "materiais": "Quadro digital compartilhado com caneta, três cores, diagrama de duas colunas (semelhanças e diferenças).",
+   "consigna": "Pensem no que é central para a abordagem de vocês, aquilo sem o qual ela não é ela; escolham uma coisa só. Depois: como o clínico acessa esse fundamento na prática? Por fim: qual é uma especificidade relevante que não está na definição e só se acha estudando a fundo?",
+   "passos": [
+    "Definir confluência e divergência com exemplos de fora da psicologia.",
+    "Mapear as abordagens do grupo, incluindo a do facilitador.",
+    "Apresentar o diagrama e explicar por que não há um círculo que engloba todos.",
+    "Rodada 1: centro de cada abordagem, justificativa e resumo numa palavra.",
+    "Perguntar ao grupo o que observa e extrair semelhanças das diferenças.",
+    "Rodada 2, em outra cor: como se acessa o fundamento na clínica.",
+    "Rodada 3, em outra cor e com dois minutos de reflexão: especificidades.",
+    "Mostrar que as especificidades não são literais (profundidade e complexidade).",
+    "Fechar com a utilidade: comparar funções para ampliar repertório."
+   ],
+   "feedback": "Pede uma resposta só e sua justificativa, resume numa palavra, converte observações em semelhanças no quadro e tensiona sínteses que apagam diferenças filosóficas.",
+   "exemplos_praticos": "Dois participantes de psicanálise escolheram centros diferentes (inconsciente e associação livre); a sócio-histórica trouxe mediação semiótica, que Diogo não conhecia; o grupo chegou a semelhanças como objeto de estudo, concepção de sujeito, escuta, subjetividade, profundidade e complexidade; participantes saíram ao longo do encontro e suas abordagens foram apagadas do quadro.",
+   "variacoes": "Ancorar a dinâmica num caso ou numa situação cotidiana e perguntar que perguntas cada abordagem faria; usar colunas em vez de Venn com muitas abordagens.",
+   "armadilhas": "Diagrama de Venn confuso com cinco abordagens; participantes só no chat atrasam as rodadas; tendência a sínteses conciliadoras (é tudo igual com nomes diferentes); explicações de participantes com imprecisões teóricas que precisam ser marcadas.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:13:50"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Checar quem é novo e explicar o formato",
+   "descricao": "Antes de começar, pergunta quem nunca foi à monitoria e explica a proposta.",
+   "exemplo": "Mais alguém aqui nunca veio no encontro de monitoria ou não me conhece?",
+   "ts": "0:00:06"
+  },
+  {
+   "movimento": "Levantar quem atende",
+   "descricao": "Faz uma rodada para encontrar o monitorado do dia.",
+   "exemplo": "Quem estiver atendendo, levanta a mão, por favor.",
+   "ts": "0:01:46"
+  },
+  {
+   "movimento": "Explicar os limites do formato",
+   "descricao": "Diz por que a monitoria não funciona pelo chat.",
+   "exemplo": "Eu vou fazer muita pergunta o tempo todo; o grupo ficaria muito arrastado.",
+   "ts": "0:06:52"
+  },
+  {
+   "movimento": "Improvisar e declarar o improviso",
+   "descricao": "Troca a proposta na hora e diz isso ao grupo.",
+   "exemplo": "Vou fazer um encontro que não é exatamente uma monitoria, já que o pessoal não está disponível.",
+   "ts": "0:05:07"
+  },
+  {
+   "movimento": "Definir com exemplos de fora",
+   "descricao": "Explica confluência com ciências humanas, geografia e fórmulas, e expande a analogia de um participante.",
+   "exemplo": "Química, física e biologia: complementares, mas cada uma com suas fórmulas.",
+   "ts": "0:10:37"
+  },
+  {
+   "movimento": "Checar compreensão",
+   "descricao": "Percebe que poucos entenderam e oferece retomar.",
+   "exemplo": "Pelo que eu entendi, só um pegou; se alguém não entendeu, fale que eu retomo.",
+   "ts": "0:11:36"
+  },
+  {
+   "movimento": "Participar como membro",
+   "descricao": "Entra com a própria abordagem e responde às próprias rodadas.",
+   "exemplo": "Eu também vou participar aqui com vocês: sou de análise do comportamento.",
+   "ts": "0:12:44"
+  },
+  {
+   "movimento": "Explicar o design do instrumento",
+   "descricao": "Justifica por que não usar um círculo que englobe todas as abordagens.",
+   "exemplo": "O grandão agregaria tudo e teria uma abordagem que agrega tudo.",
+   "ts": "0:17:51"
+  },
+  {
+   "movimento": "Restringir a uma resposta",
+   "descricao": "Proíbe listas para forçar a síntese.",
+   "exemplo": "Não, eu quero que vocês escolham uma que é a central.",
+   "ts": "0:18:23"
+  },
+  {
+   "movimento": "Pedir justificativa e resumir",
+   "descricao": "Pede o porquê da escolha e condensa numa palavra.",
+   "exemplo": "De forma resumida daria para dizer que é o inconsciente, porque a psicanálise vai estudar o inconsciente?",
+   "ts": "0:23:10"
+  },
+  {
+   "movimento": "Induzir a síntese pelo grupo",
+   "descricao": "Pergunta o que os participantes observam antes de dar a própria conclusão.",
+   "exemplo": "O que vocês conseguem observar nesse momento inicial da atividade?",
+   "ts": "0:31:09"
+  },
+  {
+   "movimento": "Discordar e deixar aberto",
+   "descricao": "Contrapõe com argumento filosófico, mas declara que não há resposta certa.",
+   "exemplo": "Não chegaremos num consenso, porque não tem uma resposta certa e nenhuma errada.",
+   "ts": "0:48:38"
+  },
+  {
+   "movimento": "Dar tempo para pensar",
+   "descricao": "Concede dois minutos para a rodada mais difícil.",
+   "exemplo": "Vou dar uns dois minutinhos para vocês pensarem em especificidade.",
+   "ts": "0:56:14"
+  },
+  {
+   "movimento": "Contextualizar historicamente",
+   "descricao": "Abre parêntese para situar uma crítica a Freud.",
+   "exemplo": "Não é só o Freud que é insensível, era todo o patriarcado da época.",
+   "ts": "1:03:59"
+  },
+  {
+   "movimento": "Admitir desconhecimento",
+   "descricao": "Reconhece conceitos que não conhecia.",
+   "exemplo": "Mediação semiótica, eu particularmente não conhecia.",
+   "ts": "1:14:19"
+  },
+  {
+   "movimento": "Fechar com a utilidade",
+   "descricao": "Liga a comparação à efetividade clínica e ao repertório.",
+   "exemplo": "Você pode, a partir de uma abordagem, se inspirar e ter uma fonte alternativa de recursos.",
+   "ts": "1:20:41"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Para estudar ou escolher uma abordagem, identifique o seu centro: aquilo sem o qual ela deixa de ser ela.",
+   "justificativa": "Obriga a sair da lista de conceitos e compreender a lógica que organiza a teoria.",
+   "contexto": "Formação e escolha de referencial.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:18:23"
+  },
+  {
+   "dica": "Pergunte como esse centro é acessado no consultório.",
+   "justificativa": "É no acesso (observação, relato, presença, escuta) que as abordagens mais se aproximam e mais podem aprender umas com as outras.",
+   "contexto": "Comparação de abordagens.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:34:04"
+  },
+  {
+   "dica": "Trate a escuta como base comum de qualquer abordagem.",
+   "justificativa": "Um relato só vira dado clínico se houver escuta; a análise de contexto também depende dela.",
+   "contexto": "Sempre.",
+   "competencia": "Escuta clínica",
+   "ts": "0:40:38"
+  },
+  {
+   "dica": "Considere o contexto de vida do paciente seja qual for sua abordagem.",
+   "justificativa": "Classe social, moradia e violências mudam tudo; nenhuma abordagem séria trata como iguais histórias tão diferentes.",
+   "contexto": "Avaliação e formulação.",
+   "competencia": "Formulação de caso",
+   "ts": "0:47:08"
+  },
+  {
+   "dica": "Lembre que o paciente também escuta por uma lente.",
+   "justificativa": "A mesma pergunta do terapeuta pode ser ouvida como acusação, ameaça ou convite, conforme o estado e a história do paciente.",
+   "contexto": "Formulação de perguntas; leitura de reações inesperadas.",
+   "competencia": "Construção frasal",
+   "ts": "1:06:34"
+  },
+  {
+   "dica": "Procure as condições específicas em que o sofrimento aparece.",
+   "justificativa": "Pela discriminação condicional, o comportamento depende da conjunção de condições, e isso não é fácil de perceber.",
+   "contexto": "Análise de situações-problema.",
+   "competencia": "Formulação de caso",
+   "ts": "1:11:11"
+  },
+  {
+   "dica": "Não leia conceitos técnicos ao pé da letra.",
+   "justificativa": "Sexualidade infantil, lente e discriminação condicional perdem o sentido se tomadas literalmente; a profundidade está no que não é óbvio.",
+   "contexto": "Estudo e psicoeducação.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:10:15"
+  },
+  {
+   "dica": "Ao importar um recurso de outra abordagem, saiba que o significado dele muda.",
+   "justificativa": "Desenhos servem de levantamento de dados em várias abordagens, mas nem todas os leem como expressão da personalidade.",
+   "contexto": "Uso de instrumentos e técnicas emprestados.",
+   "competencia": "Intervenção",
+   "ts": "1:20:41"
+  },
+  {
+   "dica": "Compare funções, não nomes.",
+   "justificativa": "Nomes iguais podem esconder concepções diferentes (ambiente) e nomes diferentes podem cumprir funções parecidas (contexto e ambiente).",
+   "contexto": "Diálogo com colegas de outras linhas.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:14:19"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Abordagens não são metodologias mega estruturadas e rígidas; têm confluências.",
+   "argumento": "Como as ciências humanas confluem para a filosofia, as abordagens clínicas compartilham pontos de concentração.",
+   "contraponto": "A visão da abordagem como sistema fechado.",
+   "implicacao": "Estudar abordagens de forma crítica e comparativa.",
+   "quem": "Diogo",
+   "ts": "0:09:14"
+  },
+  {
+   "tese": "Nenhuma abordagem engloba todas as outras.",
+   "argumento": "Um círculo central que englobasse tudo daria a entender uma abordagem que agrega todas.",
+   "contraponto": "Sugestão de participante de desenhar um círculo grande unindo os demais.",
+   "implicacao": "Desconfiar de metateorias que prometem incluir todas as abordagens.",
+   "quem": "Diogo",
+   "ts": "0:17:51"
+  },
+  {
+   "tese": "Todas as abordagens, enquanto ciência, têm objeto de estudo, concepção de sujeito e concepção de desenvolvimento.",
+   "argumento": "Os fundamentos diferem, mas a forma científica é comum.",
+   "contraponto": "",
+   "implicacao": "Comparar abordagens por esses eixos.",
+   "quem": "Diogo",
+   "ts": "0:31:23"
+  },
+  {
+   "tese": "Dizer que todas as abordagens olham para tudo, só mudando a ênfase, é equivocado.",
+   "argumento": "As abordagens não olham para as coisas da mesma forma; o mesmo termo pode designar um fenômeno concebido de maneira filosoficamente diferente.",
+   "contraponto": "Uma participante: todos veem a mesma imagem (6 ou 9), o mesmo sujeito, por lentes diferentes; Diogo reconhece que isso é verdadeiro em parte.",
+   "implicacao": "Não traduzir conceitos entre abordagens como sinônimos.",
+   "quem": "Diogo",
+   "ts": "0:45:02"
+  },
+  {
+   "tese": "Nem sempre é só questão de ponto de vista: às vezes o fenômeno é construção de sentido.",
+   "argumento": "Há uma concepção segundo a qual o fenômeno só se constitui pela compreensão; no campo político, não se trata apenas de onde se observa.",
+   "contraponto": "O realismo segundo o qual a fala do paciente é a mesma para todos; Diogo diz que não há resposta certa.",
+   "implicacao": "Assumir responsabilidade pelo sentido que a abordagem atribui ao que o paciente diz.",
+   "quem": "Diogo",
+   "ts": "0:49:50"
+  },
+  {
+   "tese": "Psicanálise e análise do comportamento têm muitos pontos em comum.",
+   "argumento": "Acesso clínico parecido; na compreensão de mundo, Freud e Skinner são parecidos, e Skinner cita Freud.",
+   "contraponto": "A oposição escolar entre as duas; Diogo não sabe se a semelhança é epistemológica.",
+   "implicacao": "Diálogo possível entre as duas tradições.",
+   "quem": "Diogo e um participante",
+   "ts": "0:36:49"
+  },
+  {
+   "tese": "O inconsciente, mesmo numa concepção mentalista, é permeado pelo contexto.",
+   "argumento": "O mal-estar na civilização, Winnicott, Lacan (inconsciente estruturado como linguagem, que é social).",
+   "contraponto": "",
+   "implicacao": "Ponte entre psicanálise, análise do comportamento e sócio-histórica pela noção de contexto.",
+   "quem": "Diogo",
+   "ts": "0:42:33"
+  },
+  {
+   "tese": "Coisas específicas escondem semelhanças profundas; a não literalidade dos conceitos revela profundidade e complexidade comuns.",
+   "argumento": "Sexualidade infantil, lente e discriminação condicional parecem incomparáveis, mas nenhuma é literal e todas exigem estudo aprofundado.",
+   "contraponto": "",
+   "implicacao": "Estudar a fundo antes de julgar uma abordagem pela definição de manual.",
+   "quem": "Diogo",
+   "ts": "1:10:15"
+  },
+  {
+   "tese": "Comparar a função dos conceitos entre abordagens amplia o repertório conceitual e de recursos.",
+   "argumento": "Mesmo um conceito irrelevante para a própria análise pode trazer ideias úteis; recursos como desenhos circulam entre abordagens.",
+   "contraponto": "O significado atribuído ao recurso muda de abordagem para abordagem.",
+   "implicacao": "Inspirar-se em outras abordagens para aumentar a efetividade.",
+   "quem": "Diogo",
+   "ts": "1:14:19"
+  },
+  {
+   "tese": "A insensibilidade de Freud no caso Dora extrapola Freud.",
+   "argumento": "Reflete o patriarcado da época, não só uma falha individual.",
+   "contraponto": "O participante diz que Freud poderia ter sido mais sensível; Diogo concorda e contextualiza.",
+   "implicacao": "Ler os casos clássicos com crítica histórica.",
+   "quem": "Diogo",
+   "ts": "1:03:59"
+  },
+  {
+   "tese": "Análise do comportamento não é TCC.",
+   "argumento": "Afirmação de identidade feita para quem não é da área; não desenvolvida no encontro.",
+   "contraponto": "",
+   "implicacao": "Não confundir as tradições comportamentais.",
+   "quem": "Diogo",
+   "ts": "0:12:44"
+  },
+  {
+   "tese": "A monitoria depende de um terapeuta falando; pelo chat não funciona.",
+   "argumento": "O formato exige muitas perguntas sucessivas, e por escrito o grupo fica arrastado.",
+   "contraponto": "",
+   "implicacao": "Garantir antes um monitorado com voz, ou ter um plano B.",
+   "quem": "Diogo",
+   "ts": "0:06:52"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Pense em confluências como pontos de concordância e em divergências como pontos de diferenciação.",
+   "tema": "Confluência",
+   "ts": "0:09:14"
+  },
+  {
+   "texto": "O objetivo é deixar de compreender a abordagem como uma metodologia mega estruturada e mega rígida.",
+   "tema": "Formação",
+   "ts": "0:09:14"
+  },
+  {
+   "texto": "Qual é a coisa mais fundamental que faz a psicanálise ser psicanálise? Sem isso, psicanálise não é psicanálise.",
+   "tema": "Fundamentos",
+   "ts": "0:18:23"
+  },
+  {
+   "texto": "Quando tem um relato, necessariamente deve haver uma escuta para que esse relato se transforme num dado clínico.",
+   "tema": "Escuta",
+   "ts": "0:40:38"
+  },
+  {
+   "texto": "A noção de ambiente para um analista do comportamento é diferente da noção de ambiente para as outras abordagens: pode se referir até ao mesmo fenômeno, mas é concebido de forma filosoficamente diferente.",
+   "tema": "Comparação de abordagens",
+   "ts": "0:45:02"
+  },
+  {
+   "texto": "A fala do paciente por si só não é nada. A fala só faz sentido dentro da minha abordagem, dentro da minha análise dela.",
+   "tema": "Construção de sentido",
+   "ts": "0:49:50"
+  },
+  {
+   "texto": "Não é só sobre de onde estamos observando; é sobre construção de sentido quando observamos.",
+   "tema": "Construção de sentido",
+   "ts": "0:49:50"
+  },
+  {
+   "texto": "Coisas específicas escondem semelhanças profundas.",
+   "tema": "Psicologia comparada",
+   "ts": "0:54:56"
+  },
+  {
+   "texto": "Você não anda assim que o sinal fica verde. Você anda quando o sinal fica verde e os outros carros pararam de andar.",
+   "tema": "Discriminação condicional",
+   "ts": "1:09:06"
+  },
+  {
+   "texto": "Compreender o ser humano não é simples e muitas vezes envolve fatores multifacetados.",
+   "tema": "Complexidade",
+   "ts": "1:13:44"
+  },
+  {
+   "texto": "Se a gente conseguir comparar a função das coisas entre diferentes abordagens, a gente consegue expandir o nosso repertório.",
+   "tema": "Psicologia comparada",
+   "ts": "1:14:19"
+  },
+  {
+   "texto": "Você pode, a partir de uma abordagem, se inspirar, ter uma fonte alternativa de recursos completamente nova e aprimorar a sua efetividade.",
+   "tema": "Repertório",
+   "ts": "1:20:41"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "O que é central na sua abordagem? (Escolha uma só)",
+   "mensagem": "Inconsciente, individuação, mediação semiótica, comportamento: fundamentos diferentes, e o que todas têm em comum.",
+   "roteiro": [
+    "A pergunta",
+    "Psicanálise",
+    "Psicologia analítica",
+    "Sócio-histórica",
+    "Análise do comportamento",
+    "O que todas têm: objeto de estudo, sujeito, desenvolvimento"
+   ],
+   "corte_inicio": "0:18:23",
+   "corte_fim": "0:33:52"
+  },
+  {
+   "formato": "reels",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "6 ou 9? As abordagens veem a mesma coisa?",
+   "mensagem": "A metáfora das lentes contra a ideia de que o fenômeno é construído pela compreensão.",
+   "roteiro": [
+    "Imagem 6/9",
+    "Posição 1: mesmo sujeito, lentes diferentes",
+    "Posição 2: o fenômeno é construído",
+    "Sem resposta fácil"
+   ],
+   "corte_inicio": "0:46:07",
+   "corte_fim": "0:50:55"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Psicanálise e análise do comportamento são tão diferentes assim?",
+   "mensagem": "Acesso clínico parecido, Freud e Skinner, o inconsciente permeado pelo contexto.",
+   "roteiro": [
+    "O senso comum",
+    "Como cada uma acessa o fenômeno",
+    "Freud e Skinner",
+    "Contexto e inconsciente",
+    "Onde elas realmente divergem"
+   ],
+   "corte_inicio": "0:35:47",
+   "corte_fim": "0:43:44"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Discriminação condicional explicada com um semáforo",
+   "mensagem": "Não basta uma condição: o comportamento depende da conjunção de condições.",
+   "roteiro": [
+    "TV às 15h",
+    "Semáforo verde e carros parados",
+    "No sofrimento psíquico"
+   ],
+   "corte_inicio": "1:07:55",
+   "corte_fim": "1:09:34"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Abordagem não é método rígido",
+   "mensagem": "Estudar as confluências entre abordagens amplia o repertório do clínico.",
+   "roteiro": [
+    "Frase",
+    "Legenda com as seis semelhanças"
+   ],
+   "corte_inicio": "1:14:19",
+   "corte_fim": "1:15:19"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Sexualidade infantil não é o que você pensa",
+   "mensagem": "Conceitos técnicos não são literais: sexualidade infantil, lente, discriminação condicional.",
+   "roteiro": [
+    "O mito",
+    "O que o conceito quer dizer",
+    "Outros conceitos não literais",
+    "Profundidade e complexidade"
+   ],
+   "corte_inicio": "1:10:15",
+   "corte_fim": "1:13:44"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Quando o plano falha: o diagrama das abordagens",
+   "mensagem": "Como uma monitoria sem caso virou debate de psicologia comparada.",
+   "roteiro": [
+    "O plano",
+    "O imprevisto",
+    "A nova proposta",
+    "O diagrama"
+   ],
+   "corte_inicio": "0:08:24",
+   "corte_fim": "0:11:36"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Inconsciente, sexualidade infantil, complexo de Édipo, caso Dora e O mal-estar na civilização; comparado a Skinner na compreensão de mundo."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Inconsciente estruturado como linguagem, portanto permeado socialmente; corte da sessão citado por participante."
+  },
+  {
+   "nome": "B. F. Skinner",
+   "contexto": "Pai da análise do comportamento; segundo Diogo, parecido com Freud na compreensão de mundo e cita Freud em vários momentos."
+  },
+  {
+   "nome": "Donald Winnicott",
+   "contexto": "Citado como exemplo de que o inconsciente é afetado pelo contexto."
+  },
+  {
+   "nome": "Karl Marx",
+   "contexto": "Exemplo de fórmulas da reprodução do capital usadas na geografia política, ao explicar confluência entre ciências humanas."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria com Diogo (convertida em discussão de psicologia comparada)",
+  "objetivo": "Planejado: trabalhar empatia a partir do caso de um terapeuta; realizado: refletir sobre confluências e diferenças entre abordagens.",
+  "publico": "Estudantes de psicologia em formação na Allos, de várias abordagens; alguns sem atendimento ainda.",
+  "tamanho": "Seis a oito participantes, com saídas ao longo do encontro.",
+  "duracao": "Cerca de 1h20.",
+  "estrutura_padrao": "Na monitoria padrão: tópico do dia trabalhado a partir do caso de uma pessoa, com perguntas do supervisor e ouvintes. Neste encontro: definição de confluência → mapeamento das abordagens → três rodadas no diagrama (fundamento, acesso, especificidade) → sínteses → fechamento sobre repertório.",
+  "papel_facilitador": "Improvisa a proposta, participa com a própria abordagem, registra no quadro, pede sínteses de uma palavra, induz semelhanças e tensiona conciliações fáceis.",
+  "regras_combinados": "Monitoria exige um terapeuta falando (não funciona pelo chat); quem não pode abrir o microfone participa por escrito; comentários do chat são válidos e lidos em voz alta."
+ },
+ "reflexoes_do_facilitador": [
+  "Explica que sem um terapeuta atendendo não consegue fazer o modelo planejado e que por chat o grupo ficaria arrastado.",
+  "Declara que o encontro não é exatamente uma monitoria.",
+  "Brinca com a própria falta de habilidade no desenho e diz que vai melhorando.",
+  "Reconhece que maturação foi uma palavra ruim e troca por desenvolvimento.",
+  "Pede desculpas por uma semana atípica e por interromper um participante.",
+  "Admite não conhecer o conceito de mediação semiótica."
+ ],
+ "referencias_a_outros_encontros": [
+  "Menção à participante que já conhecia a monitoria e a quem já participou de encontros anteriores.",
+  "A proposta original (empatia no modelo de árvore de possibilidades) sugere uma série de monitorias por competência, não realizada neste vídeo.",
+  "Diogo compara a monitoria ao aprimoramento clínico: tópico relevante, mas focado em uma pessoa.",
+  "Monitoria 19 - Diogo - Empatia com paciente resistente: outra monitoria de Diogo sobre empatia, em que ele também improvisa um plano B no início por falta de monitorado."
+ ],
+ "observacoes": "Não houve caso clínico; o único episódio concreto é uma situação cotidiana de terceiros, citada de forma genérica. Transcrição automática com muito ruído (nomes de participantes trocados; pente = caneta ou mesa digitalizadora; diagrama de vem = Venn). Parte das contribuições veio pelo chat e não foi lida integralmente (justificativa da associação livre). Explicações de participantes sobre psicanálise contêm simplificações não corrigidas no encontro (fases psicossexuais, pulsão de morte, crítica de Lacan a Freud); no resumo de Diogo, controle aparece ligado à fase oral, provavelmente lapso. O conceito de mediação semiótica é associado a Vigotski, que não é citado no vídeo."
+}

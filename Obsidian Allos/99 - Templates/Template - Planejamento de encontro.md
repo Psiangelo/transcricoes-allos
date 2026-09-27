@@ -1,6 +1,6 @@
 ---
 tipo: plano
-data: {{date}}
+data: "{{date}}"
 grupo: ""
 ciclo: ""
 encontro_n: 1

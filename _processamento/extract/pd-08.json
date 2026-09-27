@@ -1,0 +1,742 @@
+{
+  "id": "pd-08",
+  "nota": "PD 08 - Monitoramento rotineiro e como pedir feedback",
+  "pasta": "10 - Fichamentos/Prática Deliberada",
+  "titulo": "Monitoramento rotineiro e como pedir feedback",
+  "serie": "Introdução à Prática Deliberada",
+  "formato": "Curso de PD",
+  "facilitadores": [
+    "Bernardo"
+  ],
+  "resumo": "O facilitador apresenta um slide-síntese do ciclo da PD (mensuração contra os vieses do terapeuta e do 'paciente bonzinho', metrificação, gravação que 'nos transforma em ouvintes', supervisão, mapa de competências, objetivos, exercícios) e esclarece como a gravação é pedida na prática. Lança ao grupo a pergunta 'é possível ser consistente como terapeuta?'; com o exemplo do McDonald's, conclui que consistência total é impossível, mas é possível se aproximar. Apresenta dados: Saxon e Barkham encontraram recuperação de 23,5% a 95,6% entre 119 terapeutas; a eficácia varia de hora em hora; 93% do desfecho seria influenciado por fatores extraterapêuticos. A resposta é o monitoramento rotineiro de resultados, uma armadura e um alarme (zonas de risco no gráfico) que não diz o que fazer nem distingue evento aleatório de erro recorrente. Na parte 2 do caso Eta, após um platô ('espremer a laranja'), o supervisor analisa a pergunta de feedback da terapeuta com princípios (descritiva, direta, orientada à tarefa, sem pronomes pessoais) e chega a perguntas como 'o que teria que acontecer para a SRS ser 35 em vez de 34?'. Fecha resumindo o procedimento da PD e indicando a leitura de Better Results e do Field Guide.",
+  "em_uma_frase": "Como nenhum terapeuta é consistente, o monitoramento rotineiro de resultados funciona como alarme, e a supervisão com gravação lapida o que fazer; no caso Eta, isso significa reescrever a pergunta de feedback até ela ficar descritiva, específica e impessoal.",
+  "competencias": [
+    "Feedback clínico",
+    "Construção frasal",
+    "Desenvolvimento profissional",
+    "Relação terapêutica",
+    "Direção do tratamento",
+    "Abertura e encerramento de sessão",
+    "Pessoa do terapeuta"
+  ],
+  "abordagens": [],
+  "estrutura": [
+    {
+      "ts": "0:00:01",
+      "bloco": "Abertura",
+      "descricao": "Compartilha a tela e confere a visualização.",
+      "funcao": "Começo técnico.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:00:47",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Recado: dúvidas sobre gravações e plataforma vão para o responsável de TI da Allos.",
+      "funcao": "Logística do curso.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:00:58",
+      "bloco": "Retomada",
+      "descricao": "Slide 'mapa da PD': mensuração (vieses, paciente bonzinho, efeito Hawthorne), metrificação, caverna, gravação (ética; clientes apoiam; nos torna ouvintes), supervisão, mapa de competências, objetivos, exercícios.",
+      "funcao": "Consolidar o ciclo completo.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:07:04",
+      "bloco": "Dúvidas",
+      "descricao": "Checagem; pergunta sobre gravar uma sessão específica: 'grave as três próximas sessões' ou hábito.",
+      "funcao": "Tornar a gravação operacional.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:08:01",
+      "bloco": "Retomada",
+      "descricao": "Resumo da parte 1 do caso Eta.",
+      "funcao": "Preparar a continuação.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:09:39",
+      "bloco": "Discussão",
+      "descricao": "Pergunta disparadora: é possível ser consistente como terapeuta? Respostas do grupo; exemplo do McDonald's; conclusão.",
+      "funcao": "Ativar a experiência antes dos dados.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:14:00",
+      "bloco": "Teoria",
+      "descricao": "Saxon e Barkham (23,5% a 95,6%); variação de hora em hora; fatores que atrapalham a consistência; 93% extraterapêutico.",
+      "funcao": "Base empírica da variabilidade.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:17:14",
+      "bloco": "Teoria",
+      "descricao": "Monitoramento rotineiro de resultados; armadura; softwares; gráfico com zonas preta, cinza e branca.",
+      "funcao": "Apresentar a ferramenta de resposta.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:21:02",
+      "bloco": "Teoria",
+      "descricao": "A medida é alarme, não instrução; não distingue evento aleatório de erro recorrente; precisa de supervisão e gravação.",
+      "funcao": "Mostrar o limite da mensuração.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:23:49",
+      "bloco": "Retomada",
+      "descricao": "Parte 1 do caso: como introduzir a escala; pedir nota ruim; introdução 'fofinha'.",
+      "funcao": "Ligar o caso à comunicação.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:26:18",
+      "bloco": "Demonstração",
+      "descricao": "Parte 2: retorno após seis meses; e-mail da laranja; platô; pedido de métricas e transcrições do fim das sessões com SRS abaixo do corte.",
+      "funcao": "Mostrar a PD depois do platô.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:29:43",
+      "bloco": "Demonstração",
+      "descricao": "Pergunta padrão de Eta e o 'foi tudo bem'; folheto de princípios; análise; reescrita; pronomes pessoais; 'a essência da PD'.",
+      "funcao": "Modelar a lapidação de uma frase.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:34:25",
+      "bloco": "Dúvidas",
+      "descricao": "Pedido de exemplo de pronome pessoal: efeito Hawthorne; criança e pote de doces; impessoalidade.",
+      "funcao": "Concretizar o princípio.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:36:39",
+      "bloco": "Demonstração",
+      "descricao": "As três perguntas alternativas e por que funcionam.",
+      "funcao": "Entregar o modelo final.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:38:57",
+      "bloco": "Discussão",
+      "descricao": "Síntese: poderia ser outra habilidade (tristeza da paciente, início, contrato); o passo a passo da PD; relato de caso esconde informação.",
+      "funcao": "Generalizar do caso ao método.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:41:03",
+      "bloco": "Fechamento",
+      "descricao": "PD é chata mas permite auto-observação; convite a ler Better Results e Field Guide; pedido de feedback; grupo de leitura das sextas; despedida.",
+      "funcao": "Indicar estudo autônomo e encerrar.",
+      "duracao_min": 3
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Consistência do terapeuta",
+      "definicao": "Ser igualmente efetivo com qualquer paciente, como a uniformidade de qualidade de uma rede de fast food. Totalmente impossível em psicoterapia, pela variedade de pacientes e pelos fatores que variam o tempo todo, mas é possível se aproximar com certas atitudes e com monitoramento.",
+      "exemplo": "McDonald's mantém o mesmo sanduíche em qualquer país; o terapeuta não mantém a mesma sessão às 8h e às 20h.",
+      "abordagem": "",
+      "ts": "0:11:43"
+    },
+    {
+      "nome": "Efeito do terapeuta",
+      "definicao": "Variação de eficácia entre terapeutas e dentro de cada terapeuta ao longo do tempo e entre clientes.",
+      "exemplo": "Saxon e Barkham: 119 terapeutas, mais de 10 mil clientes, recuperação de 23,5% a 95,6%.",
+      "abordagem": "",
+      "ts": "0:14:00"
+    },
+    {
+      "nome": "Fatores extraterapêuticos",
+      "definicao": "Elementos da vida do cliente, alheios à terapia, que entram e saem durante o tratamento e influenciam muito o desfecho; o slide do livro fala em 93%.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:16:08"
+    },
+    {
+      "nome": "Monitoramento rotineiro de resultados",
+      "definicao": "Medir bem-estar geral e aliança com regularidade, de preferência sessão a sessão, para acompanhar quedas e subidas, pedir feedback e mudar o curso a tempo. Funciona como armadura contra o imprevisível, mas só alerta; não prescreve.",
+      "exemplo": "Softwares mostram quando o paciente se aproxima de uma zona de risco.",
+      "abordagem": "",
+      "ts": "0:17:14"
+    },
+    {
+      "nome": "Zona de risco de deterioração",
+      "definicao": "Faixa do gráfico de acompanhamento associada a deterioração e maior risco de desistência (preta), distinta da faixa intermediária (cinza) e da de melhora (branca).",
+      "exemplo": "Da segunda para a terceira sessão, os escores entram de vez na zona preta.",
+      "abordagem": "",
+      "ts": "0:20:00"
+    },
+    {
+      "nome": "Platô de desempenho",
+      "definicao": "Estabilização que se segue a períodos de progresso na prática deliberada, com rendimentos decrescentes. É normal e frustrante; quem para de praticar tende a cair aos poucos, quem continua tende a nova subida leve.",
+      "exemplo": "Eta: 'só dá para espremer uma laranja até certo ponto'; supervisor: 'ainda pode haver suco nessa laranja'.",
+      "abordagem": "",
+      "ts": "0:27:24"
+    },
+    {
+      "nome": "Princípios da pergunta de feedback",
+      "definicao": "Perguntas que geram feedback específico e acionável são descritivas (não avaliativas), diretas (não indiretas), orientadas à tarefa (não à pessoa) e evitam pronomes pessoais; focam o que pode ser visto ou ouvido, sem julgamento.",
+      "exemplo": "Trocar 'o que posso fazer para você se sentir melhor?' por 'o que teria que acontecer para a SRS ser 35 em vez de 34?'.",
+      "abordagem": "",
+      "ts": "0:30:13"
+    },
+    {
+      "nome": "Efeito Hawthorne",
+      "definicao": "Tendência de mudar o comportamento na presença de outra pessoa; explica por que o pronome pessoal, que 'escancara a presença', inibe a crítica.",
+      "exemplo": "Criança não abre o pote de doces com o adulto na sala; sozinha, a chance aumenta.",
+      "abordagem": "",
+      "ts": "0:35:32"
+    },
+    {
+      "nome": "Paciente bonzinho",
+      "definicao": "Paciente que finge progresso ou avalia bem para agradar o terapeuta; um dos motivos para não confiar no feedback espontâneo.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:02:05"
+    },
+    {
+      "nome": "Session Rating Scale",
+      "definicao": "Escala de aliança com itens de compreensão, objetivos e tópicos, abordagem ou método e avaliação geral; a pergunta de feedback pode se ancorar em pontos e itens da escala.",
+      "exemplo": "'Houve algo na sessão que faria um dos itens subir um ponto?'",
+      "abordagem": "",
+      "ts": "0:37:49"
+    },
+    {
+      "nome": "Gravação de sessão",
+      "definicao": "Transforma o terapeuta em ouvinte de si mesmo; pode ser pedida por lote ou virar hábito; o debate ético costuma vir mais do terapeuta do que dos clientes, que em geral a apoiam com consentimento.",
+      "exemplo": "'Grave as três próximas sessões até o nosso próximo encontro.'",
+      "abordagem": "",
+      "ts": "0:05:06"
+    },
+    {
+      "nome": "Supervisão clínica",
+      "definicao": "Lugar onde dados de mensuração e de gravação se juntam, são lapidados em informação e viram objetivos de aprendizagem mais assertivos que os derivados de relato de caso.",
+      "exemplo": "Supervisor pede só as transcrições do fim das sessões com SRS abaixo do corte.",
+      "abordagem": "",
+      "ts": "0:39:58"
+    },
+    {
+      "nome": "Objetivo de aprendizagem",
+      "definicao": "Habilidade específica a treinar, escolhida na supervisão; pode ser qualquer momento clínico.",
+      "exemplo": "A forma de pedir feedback; mas poderia ser reagir à tristeza da paciente, iniciar atendimentos, fazer o contrato terapêutico, estruturar sessões, lidar com o tempo, encerrar processos.",
+      "abordagem": "",
+      "ts": "0:39:58"
+    },
+    {
+      "nome": "Metáfora da tocha na caverna",
+      "definicao": "A mensuração ilumina a caverna e mostra o penhasco, mas não diz o que fazer diante dele.",
+      "exemplo": "A medida como 'notificação no celular'.",
+      "abordagem": "",
+      "ts": "0:21:02"
+    },
+    {
+      "nome": "Auto-observação",
+      "definicao": "Capacidade de se ver atendendo; sem gravação exige um deslocamento metacognitivo quase totalmente abstrato; a gravação nos torna ouvintes de nós mesmos.",
+      "exemplo": "Roleplay com plateia: quem atende se surpreende com o que os observadores viram.",
+      "abordagem": "",
+      "ts": "0:41:03"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Pergunta disparadora",
+      "objetivo": "Ativar a experiência do grupo e levá-lo a formular uma posição antes de ver os dados (aqui, perceber que o terapeuta não é consistente, preparando o monitoramento rotineiro).",
+      "competencias": [
+        "Desenvolvimento profissional",
+        "Pessoa do terapeuta"
+      ],
+      "configuracao": "Grupo todo, online, respostas voluntárias por microfone.",
+      "tempo": "Cerca de 4 a 5 minutos.",
+      "materiais": "Nenhum; um exemplo concreto para definir o termo (McDonald's).",
+      "consigna": "'É possível ser consistente como terapeuta? Que que vocês acham? Elaborem aí para mim.'",
+      "passos": [
+        "Lançar a pergunta e sustentar o silêncio inicial.",
+        "Pedir que quem respondeu curto elabore, chamando pelo nome.",
+        "Se o grupo entender o termo de outro jeito, defini-lo com exemplo concreto (McDonald's).",
+        "Deixar as participantes reformularem a resposta.",
+        "Integrar as respostas e passar à evidência (Saxon e Barkham)."
+      ],
+      "feedback": "Valida ('boa resposta, tem fatores que fazem sentido') e incorpora o argumento da participante à síntese.",
+      "exemplos_praticos": "Uma participante: não, 'o ser humano não é uma máquina', 'nossa ferramenta de trabalho somos nós mesmas'; outra: dá para ser consistente em algumas coisas, mas não no processo como um todo.",
+      "variacoes": "Completar com 'quem aí já sentiu isso?' para puxar a experiência pessoal (a sessão ruim no fim do dia).",
+      "armadilhas": "Termo ambíguo leva o grupo a responder outra pergunta; ter à mão o exemplo que define o termo.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:09:39"
+    },
+    {
+      "nome": "Dinâmica - Leitura comentada de caso de supervisão",
+      "objetivo": "Mostrar por dentro de uma supervisão como uma microintervenção (a pergunta de feedback) é analisada por princípios e reescrita até funcionar.",
+      "competencias": [
+        "Feedback clínico",
+        "Construção frasal"
+      ],
+      "configuracao": "Grupo todo, online; facilitador lê o caso em diálogo e comenta; perguntas por microfone.",
+      "tempo": "Cerca de 15 minutos de caso, mais a pergunta disparadora inicial (~5 minutos).",
+      "materiais": "Slides com o caso em diálogo, tabela de princípios, perguntas alternativas.",
+      "consigna": "'Vou ler aqui junto com vocês o caso, porque envolve diálogo, e depois a gente comenta. Pode ser?'",
+      "passos": [
+        "Retomar em dois minutos a parte anterior do caso.",
+        "Ler o novo episódio (platô, e-mail, pedido do supervisor).",
+        "Mostrar a pergunta original e o 'foi tudo bem'.",
+        "Apresentar os princípios e a análise da terapeuta.",
+        "Ler as reescritas e o comentário sobre pronomes.",
+        "Responder dúvidas com exemplo concreto.",
+        "Mostrar as perguntas finais e explicar por que funcionam."
+      ],
+      "feedback": "Checa ('até aqui está de boa?') e responde com analogia; critérios de uma boa pergunta: descritiva, direta, orientada à tarefa, sem pronome pessoal, específica.",
+      "exemplos_praticos": "Uma participante pede exemplo de pronome pessoal; após a explicação (efeito Hawthorne, pote de doces), diz que nunca tinha pensado nisso.",
+      "variacoes": "Sugestão (não feita): em duplas, cada um classifica sua pergunta habitual de feedback pelos princípios e a reescreve em rodadas.",
+      "armadilhas": "Ler sem pausas e deixar o grupo só ouvindo.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:26:18"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Resolver a logística no início",
+      "descricao": "Encaminha dúvidas de gravação e plataforma ao responsável de TI antes do conteúdo.",
+      "exemplo": "'Quem tiver dificuldade com essa parte de gravação, contate o responsável.'",
+      "ts": "0:00:47"
+    },
+    {
+      "movimento": "Slide-síntese para nivelar",
+      "descricao": "Apresenta o mapa da PD como visão macro e checa se os novos entendem.",
+      "exemplo": "'Para quem está tendo contato pela primeira vez, está dando para entender ou está ficando confuso?'",
+      "ts": "0:07:04"
+    },
+    {
+      "movimento": "Pergunta disparadora antes da teoria",
+      "descricao": "Pergunta ao grupo se é possível ser consistente, espera, insiste e chama pelo nome quem respondeu curto.",
+      "exemplo": "'É possível, gente? Elaborem aí para mim.'",
+      "ts": "0:09:39"
+    },
+    {
+      "movimento": "Definir o termo depois de ouvir",
+      "descricao": "Percebe que o grupo entende consistência de outro modo, oferece o exemplo do McDonald's e deixa a participante reformular.",
+      "exemplo": "'A consistência que eu estou me referindo é essa uniformidade do serviço.'",
+      "ts": "0:11:43"
+    },
+    {
+      "movimento": "Validar e integrar respostas",
+      "descricao": "Elogia a resposta e incorpora o argumento da participante à própria explicação.",
+      "exemplo": "'Boa resposta. Tem fatores aí que realmente fazem sentido.'",
+      "ts": "0:10:31"
+    },
+    {
+      "movimento": "Puxar a experiência do grupo",
+      "descricao": "Pergunta quem já teve a sessão ruim no fim do dia.",
+      "exemplo": "'Quem aí já sentiu isso?'",
+      "ts": "0:14:15"
+    },
+    {
+      "movimento": "Honestidade sobre o material",
+      "descricao": "Admite que a tradução do slide ficou confusa.",
+      "exemplo": "'Parece que foi meio mal escrito, porque eu fiz a tradução direta.'",
+      "ts": "0:14:57"
+    },
+    {
+      "movimento": "Poupar detalhe técnico",
+      "descricao": "Não entra nos detalhes do gráfico para não tornar a aula maçante.",
+      "exemplo": "'Não vou entrar muito em detalhes, senão vai ficar muito maçante.'",
+      "ts": "0:20:00"
+    },
+    {
+      "movimento": "Pedir permissão para o formato",
+      "descricao": "Combina a leitura do caso antes de começar.",
+      "exemplo": "'Vou ler aqui junto com vocês e depois a gente comenta. Pode ser?'",
+      "ts": "0:26:18"
+    },
+    {
+      "movimento": "Analogia sob demanda",
+      "descricao": "Responde à dúvida sobre pronomes com o efeito Hawthorne e a criança diante do pote de doces, e checa se ficou claro.",
+      "exemplo": "'Se ela estiver junto com o adulto, provavelmente vai evitar abrir o pote.'",
+      "ts": "0:35:32"
+    },
+    {
+      "movimento": "Adiar o que desvia",
+      "descricao": "Deixa o aprofundamento sobre platô para outra ocasião.",
+      "exemplo": "'Isso é um papo para outro momento; se quiserem depois eu falo.'",
+      "ts": "0:28:37"
+    },
+    {
+      "movimento": "Pedir feedback sobre a aula",
+      "descricao": "Abre para comentários e críticas sobre o encontro, inclusive de quem chegou depois.",
+      "exemplo": "'Alguma crítica? Ficou claro para quem está pegando o bonde andando?'",
+      "ts": "0:42:11"
+    },
+    {
+      "movimento": "Transparência sobre limites",
+      "descricao": "Diz que provavelmente não vai retomar o grupo de leitura das sextas por causa da rotina.",
+      "exemplo": "'Provavelmente não, por conta da minha rotina.'",
+      "ts": "0:42:51"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Não confie só na sua impressão nem no elogio espontâneo do paciente para saber se a terapia vai bem.",
+      "justificativa": "A percepção do terapeuta é enviesada e há pacientes bonzinhos que fingem progresso.",
+      "contexto": "Todo acompanhamento.",
+      "competencia": "Feedback clínico",
+      "ts": "0:02:05"
+    },
+    {
+      "dica": "Meça bem-estar e aliança com regularidade, de preferência sessão a sessão.",
+      "justificativa": "O monitoramento dá tempo de mudar o curso antes de desistência ou deterioração; às vezes uma única frase se reflete no escore.",
+      "contexto": "Ao longo do tratamento.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:17:14"
+    },
+    {
+      "dica": "Quando o escore entrar na zona de risco, trate como alarme e investigue.",
+      "justificativa": "A medida avisa que há um penhasco, mas não diz o que fazer.",
+      "contexto": "Queda de escores entre sessões.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:21:02"
+    },
+    {
+      "dica": "Antes de mudar a técnica, pergunte se a queda foi evento de vida ou erro seu recorrente.",
+      "justificativa": "Os escores não distinguem uma coisa da outra; só o cruzamento com gravação e supervisão distingue.",
+      "contexto": "Interpretação de uma queda.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:22:27"
+    },
+    {
+      "dica": "Diga explicitamente que aceita e quer nota ruim.",
+      "justificativa": "Contrapõe a tendência de avaliar positivamente e aproxima a resposta da honestidade.",
+      "contexto": "Apresentação da escala de feedback.",
+      "competencia": "Feedback clínico",
+      "ts": "0:25:01"
+    },
+    {
+      "dica": "Troque perguntas avaliativas por perguntas descritivas.",
+      "justificativa": "Perguntas descritivas pedem o que pode ser visto ou ouvido, sem julgamento, e geram feedback específico e acionável.",
+      "contexto": "Pedido de feedback após nota baixa.",
+      "competencia": "Construção frasal",
+      "ts": "0:31:31"
+    },
+    {
+      "dica": "Tire os pronomes pessoais da pergunta de feedback.",
+      "justificativa": "'Você', 'eu', 'meu' colocam o cliente na posição de criticar o terapeuta e aumentam o efeito de presença.",
+      "contexto": "Pedido de feedback no fim da sessão.",
+      "competencia": "Construção frasal",
+      "ts": "0:32:31"
+    },
+    {
+      "dica": "Ancore a pergunta em pontos da escala, momentos e itens.",
+      "justificativa": "'O que faria 34 virar 35?' e 'que momento teria tirado ou dado um ponto?' são concretos e fáceis de responder.",
+      "contexto": "Logo após o preenchimento da SRS.",
+      "competencia": "Feedback clínico",
+      "ts": "0:37:49"
+    },
+    {
+      "dica": "Diante de 'foi tudo bem' com nota baixa, desconfie da sua pergunta, não do cliente.",
+      "justificativa": "No caso, a ausência de feedback vinha da forma da pergunta.",
+      "contexto": "Quando escore e fala não batem.",
+      "competencia": "Feedback clínico",
+      "ts": "0:30:13"
+    },
+    {
+      "dica": "No platô, continue praticando.",
+      "justificativa": "O platô é normal; quem para tende a cair, quem continua tende a voltar a subir.",
+      "contexto": "Sensação de que não dá para melhorar mais.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:27:24"
+    },
+    {
+      "dica": "Leve à supervisão só o trecho gravado que interessa.",
+      "justificativa": "Gravar tudo gera material demais; o foco é o momento-chave (aqui, o fim da sessão).",
+      "contexto": "Organização do material de supervisão.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:08:01"
+    },
+    {
+      "dica": "Proponha a gravação com consentimento, sem presumir recusa do cliente.",
+      "justificativa": "Em geral a maioria dos clientes apoia a gravação; a objeção costuma vir do terapeuta.",
+      "contexto": "Ao propor gravar.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:05:06"
+    },
+    {
+      "dica": "Aceite a sensação de incompetência ao corrigir hábitos.",
+      "justificativa": "Reverter o automático e trabalhar conscientemente em novas ações é lento e desconfortável; é a essência da PD.",
+      "contexto": "Durante o treino deliberado.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:33:17"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Ser totalmente consistente como terapeuta é impossível, mas é possível se aproximar.",
+      "argumento": "Cada paciente é outra realidade; estado emocional, cansaço e lugar na relação variam; com certas atitudes e medição, dá para se adaptar melhor.",
+      "contraponto": "O modelo fast food (McDonald's).",
+      "implicacao": "Buscar mecanismos de correção em vez de fingir constância.",
+      "quem": "Bernardo (a partir do livro)",
+      "ts": "0:12:42"
+    },
+    {
+      "tese": "A variação de eficácia entre e dentro dos terapeutas é enorme.",
+      "argumento": "Saxon e Barkham: recuperação de 23,5% a 95,6%; variação de hora em hora e de cliente para cliente.",
+      "contraponto": "A ideia de que terapeutas formados entregam resultados parecidos.",
+      "implicacao": "Justifica monitoramento e treino individual.",
+      "quem": "Bernardo (a partir do livro)",
+      "ts": "0:14:00"
+    },
+    {
+      "tese": "A maior parte do desfecho é influenciada por fatores fora da terapia.",
+      "argumento": "Slide do livro: 93% (tradução que o facilitador acha confusa).",
+      "contraponto": "A onipotência do terapeuta; risco inverso de desânimo.",
+      "implicacao": "Monitorar para reagir ao imprevisível.",
+      "quem": "Bernardo (a partir do livro)",
+      "ts": "0:16:08"
+    },
+    {
+      "tese": "O monitoramento rotineiro é armadura e alarme, mas não prescreve.",
+      "argumento": "Os escores sinalizam o risco, mas não dizem o que fazer nem distinguem evento aleatório de erro recorrente.",
+      "contraponto": "A crença de que medir basta.",
+      "implicacao": "Sempre cruzar medida, gravação e supervisão.",
+      "quem": "Bernardo (a partir do livro)",
+      "ts": "0:22:27"
+    },
+    {
+      "tese": "A objeção ética à gravação vem mais dos terapeutas do que dos clientes.",
+      "argumento": "Em geral a maioria dos clientes apoia a gravação com consentimento.",
+      "contraponto": "Terapeutas que recusam gravar alegando proteger o paciente.",
+      "implicacao": "Propor a gravação com consentimento, sem presumir recusa.",
+      "quem": "Bernardo",
+      "ts": "0:05:06"
+    },
+    {
+      "tese": "A forma da pergunta de feedback determina se o feedback vem.",
+      "argumento": "A pergunta vaga, avaliativa e pessoal de Eta rendeu 'foi tudo bem' com nota baixa; perguntas descritivas, diretas, orientadas à tarefa e impessoais geram feedback acionável.",
+      "contraponto": "A pergunta acolhedora e genérica.",
+      "implicacao": "Treinar e roteirizar o pedido de feedback.",
+      "quem": "Supervisor do caso, endossado pelo Bernardo",
+      "ts": "0:30:13"
+    },
+    {
+      "tese": "Pronomes pessoais reduzem a chance de feedback.",
+      "argumento": "Colocam o cliente na posição de criticar o terapeuta e escancaram a presença (efeito Hawthorne; criança e pote de doces).",
+      "contraponto": "A intuição de que personalizar a pergunta aproxima.",
+      "implicacao": "Impessoalidade no momento do feedback.",
+      "quem": "Supervisor do caso e Bernardo",
+      "ts": "0:36:39"
+    },
+    {
+      "tese": "O platô é normal na prática deliberada, e parar nele leva a declínio.",
+      "argumento": "Progresso alterna com estabilização e rendimentos decrescentes; quem continua volta a subir levemente.",
+      "contraponto": "'Só dá para espremer uma laranja até certo ponto.'",
+      "implicacao": "Manter o ciclo mesmo quando os ganhos parecem esgotados.",
+      "quem": "Supervisor do caso e Bernardo",
+      "ts": "0:27:24"
+    },
+    {
+      "tese": "A prática deliberada é lenta e desconfortável por natureza.",
+      "argumento": "Focar nos erros e reverter o automático dá sensação de incompetência; 'isto é a essência da PD'.",
+      "contraponto": "Expectativa de melhora rápida e agradável.",
+      "implicacao": "Preparar quem treina para o desconforto.",
+      "quem": "Supervisor do caso",
+      "ts": "0:33:17"
+    },
+    {
+      "tese": "Sem gravação, a auto-observação é quase impossível.",
+      "argumento": "Ver-se atendendo exigiria um deslocamento metacognitivo quase totalmente abstrato; a gravação nos torna ouvintes.",
+      "contraponto": "Confiar na memória e no relato.",
+      "implicacao": "Gravar com consentimento ou, em grupo, usar observadores e roleplay.",
+      "quem": "Bernardo",
+      "ts": "0:41:03"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "É difícil demais separar o joio do trigo só com o nosso julgamento.",
+      "tema": "vieses do terapeuta",
+      "ts": "0:03:06"
+    },
+    {
+      "texto": "O debate sobre a ética da gravação vem do terapeuta, não dos clientes.",
+      "tema": "gravação de sessão",
+      "ts": "0:05:06"
+    },
+    {
+      "texto": "A gravação nos transforma em ouvintes também.",
+      "tema": "gravação de sessão",
+      "ts": "0:06:01"
+    },
+    {
+      "texto": "Não é possível ser totalmente consistente como terapeuta, mas a gente consegue se aproximar.",
+      "tema": "consistência",
+      "ts": "0:12:42"
+    },
+    {
+      "texto": "A mensuração pode nos dar uma certa armadura em relação ao imprevisível.",
+      "tema": "monitoramento rotineiro",
+      "ts": "0:17:14"
+    },
+    {
+      "texto": "Às vezes uma frase sequer, dita em sessão, reflete no resultado que você está medindo.",
+      "tema": "monitoramento rotineiro",
+      "ts": "0:18:39"
+    },
+    {
+      "texto": "A medida ilumina a caverna para ver se tem um penhasco, mas o que fazer diante do penhasco ela não diz.",
+      "tema": "limites da mensuração",
+      "ts": "0:21:02"
+    },
+    {
+      "texto": "Períodos de progresso são seguidos por um platô: é parte normal e frustrante da prática deliberada. Mas ainda pode haver suco nessa laranja.",
+      "tema": "platô",
+      "ts": "0:27:24"
+    },
+    {
+      "texto": "O uso de pronomes pessoais reduz a chance de obter feedback: coloca o cliente na posição de te criticar.",
+      "tema": "pergunta de feedback",
+      "ts": "0:32:31"
+    },
+    {
+      "texto": "Isto é a essência da prática deliberada: pode ser dolorosamente lento e te deixar com a sensação de incompetência.",
+      "tema": "prática deliberada",
+      "ts": "0:33:17"
+    },
+    {
+      "texto": "Quando você coloca o pronome pessoal, escancara a presença na sessão.",
+      "tema": "pergunta de feedback",
+      "ts": "0:36:39"
+    },
+    {
+      "texto": "Sem gravação, a gente teria que se deslocar para um nível metacognitivo quase totalmente abstrato para se ver atendendo.",
+      "tema": "auto-observação",
+      "ts": "0:41:03"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Pare de perguntar 'o que posso fazer para você se sentir melhor?'",
+      "mensagem": "Perguntas de feedback funcionam quando são descritivas, diretas, orientadas à tarefa e sem pronome pessoal, ancoradas em pontos da escala.",
+      "roteiro": [
+        "Capa: a pergunta que nunca gera feedback.",
+        "Por quê: vaga, avaliativa, pessoal.",
+        "Princípio 1: descritiva em vez de avaliativa.",
+        "Princípio 2: direta em vez de indireta.",
+        "Princípio 3: tarefa em vez de pessoa; sem 'você'.",
+        "Exemplos: 'o que faria 34 virar 35?'"
+      ],
+      "corte_inicio": "0:30:13",
+      "corte_fim": "0:38:57"
+    },
+    {
+      "formato": "reels",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Terapeutas variam de 23% a 95% de recuperação.",
+      "mensagem": "O estudo de Saxon e Barkham e a variação de hora em hora mostram por que monitorar resultados.",
+      "roteiro": [
+        "Dado: 119 terapeutas, 10 mil clientes, 23,5% a 95,6%.",
+        "E você varia de manhã para a noite.",
+        "Monitorar é a armadura contra isso."
+      ],
+      "corte_inicio": "0:14:00",
+      "corte_fim": "0:16:08"
+    },
+    {
+      "formato": "post",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Chegou no platô?",
+      "mensagem": "O platô é normal; parar leva a declínio, continuar leva a nova subida; ainda pode haver suco nessa laranja.",
+      "roteiro": [
+        "Imagem: laranja espremida.",
+        "Legenda: o platô na prática deliberada."
+      ],
+      "corte_inicio": "0:27:24",
+      "corte_fim": "0:28:37"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Seu paciente está a uma sessão do abandono e você não sabe.",
+      "mensagem": "Monitoramento rotineiro de resultados: zonas de risco no gráfico, alarme e não instrução.",
+      "roteiro": [
+        "Capa: o alarme que você não ouve.",
+        "O que é monitoramento rotineiro.",
+        "Zonas preta, cinza e branca.",
+        "É notificação, não receita.",
+        "O que fazer: supervisão e gravação."
+      ],
+      "corte_inicio": "0:17:14",
+      "corte_fim": "0:22:27"
+    },
+    {
+      "formato": "reels",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "É possível ser consistente como terapeuta?",
+      "mensagem": "O McDonald's consegue; você não. Mas dá para se aproximar.",
+      "roteiro": [
+        "Pergunta ao público.",
+        "Exemplo do McDonald's.",
+        "Por que a clínica não é fast food.",
+        "Como se aproximar: medir e corrigir."
+      ],
+      "corte_inicio": "0:09:39",
+      "corte_fim": "0:12:42"
+    },
+    {
+      "formato": "stories",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Por que o 'você' atrapalha o feedback.",
+      "mensagem": "Pronome pessoal escancara a presença; a criança e o pote de doces.",
+      "roteiro": [
+        "Enquete: você pergunta 'o que você achou da sessão?'",
+        "A criança e o pote de doces.",
+        "Tente a versão impessoal."
+      ],
+      "corte_inicio": "0:34:25",
+      "corte_fim": "0:36:39"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Scott D. Miller",
+      "contexto": "Autor (com colegas) de Better Results e do Field Guide, livros-base do curso; origem do caso Eta, do exemplo do McDonald's e dos princípios da pergunta de feedback."
+    },
+    {
+      "nome": "David Saxon",
+      "contexto": "Com Michael Barkham, estudo com 119 terapeutas e mais de 10 mil clientes: taxas de recuperação de 23,5% a 95,6%."
+    },
+    {
+      "nome": "Michael Barkham",
+      "contexto": "Com David Saxon, estudo sobre a variabilidade de resultados entre terapeutas."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Curso Introdução à Prática Deliberada (Allos) — exposição + pergunta disparadora + leitura comentada de caso",
+    "objetivo": "Consolidar o ciclo da prática deliberada (mensuração, gravação, supervisão, mapa de competências, objetivos, exercícios), mostrar o monitoramento rotineiro de resultados como resposta à inconsistência do terapeuta e ilustrar, com a parte 2 do caso Eta, a lapidação de uma pergunta de feedback.",
+    "publico": "Estudantes de psicologia e psicólogos iniciantes ligados à Allos; alguns acompanham desde o início, outros 'pegam o bonde andando'.",
+    "tamanho": "Pequeno: cerca de 5 a 7 participantes online.",
+    "duracao": "Cerca de 45 minutos; encontros semanais.",
+    "estrutura_padrao": "Logística → slide-síntese do ciclo da PD → dúvidas → pergunta disparadora ao grupo → dados e teoria → retomada e continuação do caso em diálogo com pausas para dúvidas → síntese do procedimento → indicação de leitura e pedido de feedback sobre o encontro.",
+    "papel_facilitador": "Expositor, leitor do caso, provocador com perguntas abertas, tradutor do livro; responde dúvidas com analogias; pede feedback sobre a própria aula.",
+    "regras_combinados": "Encontros gravados e disponibilizados em plataforma (suporte de TI da Allos); livros Better Results e Field Guide disponibilizados aos participantes para leitura."
+  },
+  "reflexoes_do_facilitador": [
+    "Admite que a tradução direta de um slide ficou 'meio mal escrita'.",
+    "Evita detalhes do gráfico para não tornar a aula maçante.",
+    "Diz que a PD é 'muito chata por vezes', mas valiosa pela auto-observação.",
+    "Diz que provavelmente não vai continuar o grupo de leitura do Better Results das sextas-feiras à tarde por causa da rotina e de outros projetos.",
+    "Pede ao grupo comentários e críticas sobre o encontro."
+  ],
+  "referencias_a_outros_encontros": [
+    "Retoma a parte 1 do caso Eta (PD 07) e anuncia que o resultado das novas perguntas será visto 'posteriormente', o que não ocorre nos encontros regulares gravados.",
+    "Retoma o efeito Hawthorne e o 'paciente bonzinho', 'comentados nas gravações passadas'.",
+    "Menciona um grupo de leitura do Better Results às sextas à tarde, conduzido pelo mesmo facilitador, que provavelmente não continuará.",
+    "Promete falar em outro momento sobre a curva de desempenho após o platô.",
+    "Indica os livros Better Results e Field Guide, disponibilizados aos participantes.",
+    "A pergunta disparadora é recurso recorrente do facilitador em todo o curso (PD 01 a PD 05)."
+  ],
+  "observacoes": "Facilitador: Bernardo (Núcleo de Prática Deliberada da Allos), identificado pelo PD 07 e PD 01. Legenda automática com ruído moderado; 'Sexon e Barkham' corrigido para Saxon e Barkham; 'efeito HTorn' para efeito Hawthorne. O facilitador não se identifica. O caso Eta é fictício (dito explicitamente na aula), tirado do livro; a cliente do exemplo é personagem do livro. O nome do responsável de TI da Allos aparece na fala e foi omitido na nota. O dado de 93% vem de um slide traduzido que o próprio facilitador considera confuso; conferir na fonte. O resultado final do caso não aparece na série regular."
+}

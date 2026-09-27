@@ -1,0 +1,694 @@
+{
+ "id": "acervo-15",
+ "nota": "Acervo 15 - Habilidades terapêuticas e os usos da empatia",
+ "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+ "titulo": "Habilidades terapêuticas e os usos da empatia",
+ "serie": "Aprimoramento Clínico (Acervo)",
+ "formato": "Aprimoramento clínico (roda de discussão conceitual)",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo, analista do comportamento, conduz uma roda de discussão com cerca de cinco participantes sobre o conceito de habilidades terapêuticas. O grupo levanta uma lista registrada no chat: escuta, empatia, organização, postura, estudo de caso, comunicação, exame e repertório cultural. A última é extraída por perguntas sobre conteúdos trazidos por pacientes que o terapeuta não conhecia. Cada participante escolhe a habilidade que mais domina e a empatia gera três ou quatro definições concorrentes: regular o tom da intervenção e guiar a interpretação, compreensão do caso (com a objeção de que o primeiro uso seria exame), seguir o tempo do outro, ausentar-se para que o outro apareça (setting). Diogo conclui que habilidades globais são pouco específicas mas maleáveis, que cada definição tem modos certos e errados de execução e que o objetivo da intervenção define sua forma, com o exemplo do próprio vício de dizer 'aham, entendi' e de uma reformulação usada com objetivos diferentes.",
+ "em_uma_frase": "Habilidades terapêuticas como a empatia valem para todas as abordagens e, por isso, admitem várias definições legítimas; o que decide a boa execução é a coerência com o uso escolhido e a clareza do objetivo de cada intervenção.",
+ "competencias": [
+  "Acolhimento e validação",
+  "Escuta clínica",
+  "Intervenção",
+  "Construção frasal",
+  "Relação terapêutica",
+  "Formulação de caso",
+  "Pessoa do terapeuta",
+  "Articulação teoria-prática"
+ ],
+ "abordagens": [
+  "Análise do comportamento",
+  "Psicanálise freudiana",
+  "Psicanálise lacaniana",
+  "Psicologia analítica junguiana",
+  "Terapia cognitivo-comportamental",
+  "Terapias contextuais",
+  "Abordagem centrada na pessoa"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:02",
+   "bloco": "Abertura",
+   "descricao": "Boas-vindas aos frequentadores, brincadeira sobre o formulário de feedback, anúncio do tema (habilidades terapêuticas) e pergunta sobre o que o grupo já sabe.",
+   "funcao": "Baixar a tensão, pedir feedback sincero e partir do conhecimento prévio.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:00:49",
+   "bloco": "Rodada de respostas",
+   "descricao": "Cada participante diz o que entende por habilidades terapêuticas (comunicação, pontualidade, empatia, metáforas, escuta, atenção, intervenção, estudo de caso, escutar o não dito).",
+   "funcao": "Levantar concepções prévias e dar voz a todos, inclusive pelo chat.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:03:46",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Terminologia (analisando, paciente, cliente, usuário); quase tudo é transversal às abordagens; a exceção é anotar durante a sessão (proibido em geral na psicanálise; Diogo, comportamental, também não consegue).",
+   "funcao": "Introduzir a tese da globalidade e anunciar que não dará definição pronta.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:06:59",
+   "bloco": "Dinâmica",
+   "descricao": "Registro da lista coletiva no chat; 'observação' é renomeada 'exame' (exame psíquico).",
+   "funcao": "Tornar visível o material do grupo e precisar os termos.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:09:18",
+   "bloco": "Teoria",
+   "descricao": "Cita um livro de habilidades terapêuticas de autores comportamentais e critica os exemplos só comportamentais; pergunta se algum paciente já trouxe conteúdos que o terapeuta não conhecia.",
+   "funcao": "Ancorar numa referência e extrair habilidade da experiência do grupo.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:13:23",
+   "bloco": "Teoria",
+   "descricao": "Dois níveis de informação (dados próprios do paciente e conteúdo cultural acessível); nomeia o repertório cultural, com o exemplo da busca em mapa por serviços de saúde perto da paciente.",
+   "funcao": "Ensinar a habilidade implícita e seus usos (vínculo, metáfora, aprofundamento, encaminhamento).",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:18:38",
+   "bloco": "Dinâmica",
+   "descricao": "Cada participante escolhe a habilidade que mais domina entre as oito levantadas.",
+   "funcao": "Personalizar e preparar a comparação de definições.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:21:09",
+   "bloco": "Dinâmica",
+   "descricao": "Primeira definição de empatia, reformulada por Diogo em duas funções: tom da intervenção e interpretação do caso.",
+   "funcao": "Mostrar como traduzir uma definição vaga em funções clínicas.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:24:30",
+   "bloco": "Discussão",
+   "descricao": "Leitura da definição de 'postura' vinda do chat; uma participante contesta que o descrito seria exame e não empatia; a primeira rebate; Diogo nomeia o impasse.",
+   "funcao": "Pôr as definições em atrito.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:27:55",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Link do formulário de presença; leitura da definição de empatia enviada pelo chat ('seguir o tempo do outro sem violentar sua experiência').",
+   "funcao": "Logística e inclusão de quem participa por escrito.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:30:10",
+   "bloco": "Discussão",
+   "descricao": "Terceira definição: empatia como ausentar-se do lugar do outro para que ele apareça (setting); esclarecimento sobre 'assumir a própria personalidade'.",
+   "funcao": "Ampliar o leque de usos e mostrar as diferenças de fundo entre abordagens.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:34:05",
+   "bloco": "Teoria",
+   "descricao": "Síntese: habilidades globais são pouco específicas e maleáveis; cada definição tem modos certos e errados; empatia no início do tratamento e na confrontação.",
+   "funcao": "Transformar o impasse em aprendizagem sem eleger uma definição vencedora.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:38:31",
+   "bloco": "Demonstração",
+   "descricao": "O vício 'aham, entendi': a função do marcador verbal é sinalizar atenção e convidar a continuar (analogia do 'joia').",
+   "funcao": "Levar a tese para a intervenção concreta.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:40:51",
+   "bloco": "Dúvidas",
+   "descricao": "Pergunta sobre devolver ao paciente o que ele disse; exemplo de reformulação com dois objetivos (aprofundar ou checar).",
+   "funcao": "Mostrar que a mesma frase muda de sentido conforme o objetivo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:42:15",
+   "bloco": "Fechamento",
+   "descricao": "Mensagem final (habilidades globais exigem objetivo claro) e encerramento da gravação.",
+   "funcao": "Consolidar a ideia-chave.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Habilidades terapêuticas",
+   "definicao": "Conjunto de características e atividades que todo bom clínico precisa ter e fazer, independentemente da abordagem. Diogo o considera um conceito pouco exato e global, cuja categorização é difícil. A lista do grupo: escuta, empatia, organização, postura, estudo de caso, comunicação, exame e repertório cultural.",
+   "exemplo": "Até no RH o psicólogo escuta; um analista do comportamento e um psicanalista escutam e são empáticos da mesma forma.",
+   "abordagem": "Transversal",
+   "ts": "0:05:53"
+  },
+  {
+   "nome": "Empatia",
+   "definicao": "Habilidade global com vários usos clínicos legítimos: regular o tom da intervenção e guiar a interpretação do caso; seguir o tempo do outro sem violentar sua experiência; ausentar-se do lugar do outro para que ele apareça (montagem do setting). Não há uma definição única e correta, mas cada uso tem modos certos e errados de execução.",
+   "exemplo": "Quem define empatia como ausentar-se contraria a própria definição se trouxer dados de sua vida para a sessão; quem a usa para interpretar erra se se identificar demais com um trecho da fala.",
+   "abordagem": "Transversal",
+   "ts": "0:21:09"
+  },
+  {
+   "nome": "Exame psíquico",
+   "definicao": "Termo que Diogo prefere a 'observação': além de gestos (bocejo, perna balançando, olhar desviado), capta o nível de consciência, o nível de atenção e o estado emocional do paciente.",
+   "exemplo": "Perceber se o paciente está ansioso, raivoso, alegre ou triste.",
+   "abordagem": "Transversal",
+   "ts": "0:08:04"
+  },
+  {
+   "nome": "Repertório cultural",
+   "definicao": "Habilidade clínica implícita: conhecer conteúdos culturais (séries, músicas, referências de época) e a rede de serviços próxima ao paciente, e saber usá-los. Não basta ter o repertório, é preciso usá-lo como recurso.",
+   "exemplo": "Numa sessão online, Diogo pesquisou num mapa, com a paciente, os serviços de saúde do bairro dela (sem pedir o endereço completo) para encaminhar.",
+   "abordagem": "Transversal",
+   "ts": "0:15:46"
+  },
+  {
+   "nome": "Tom da intervenção",
+   "definicao": "Grau de franqueza e concretude ou de suavidade com que se intervém. Numa das definições, a empatia é o que o regula, a partir da leitura do estado do paciente.",
+   "exemplo": "Com uma pessoa fragilizada ou num tema delicado, ajustar a forma de falar.",
+   "abordagem": "Transversal",
+   "ts": "0:22:33"
+  },
+  {
+   "nome": "Setting terapêutico",
+   "definicao": "Enquadre que torna possível o trabalho. Para um participante psicanalista, a empatia é montar um setting clinicamente confortável para o paciente se expor. Na psicanálise, anotar durante a sessão costuma ser visto como quebra do setting.",
+   "exemplo": "Quando o paciente confronta o analista, isso é tomado como avanço.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:31:30"
+  },
+  {
+   "nome": "Sujeito suposto saber",
+   "definicao": "Lugar de saber atribuído ao terapeuta. Segundo um participante, a empatia consiste em se ausentar dele para que o sujeito possa aparecer. O termo aparece como 'lugar de suposto saber'.",
+   "exemplo": "Não presumir que se entende a dor do paciente, para que ele possa discordar.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:31:30"
+  },
+  {
+   "nome": "Função da intervenção",
+   "definicao": "O objetivo a que uma fala do terapeuta serve. É o que define sua forma, e a mesma frase pode cumprir funções diferentes. Conhecer a função permite pensar em formas mais criativas de executar a intervenção.",
+   "exemplo": "'Aham, entendi' não serve para afirmar compreensão, mas para sinalizar atenção e convidar o paciente a falar mais.",
+   "abordagem": "Transversal",
+   "ts": "0:39:48"
+  },
+  {
+   "nome": "Sinais de escuta",
+   "definicao": "Marcadores verbais ('aham', 'entendi', 'joia') cuja função pragmática é mostrar que o terapeuta está prestando atenção e quer que o paciente continue, e não afirmar compreensão literal.",
+   "exemplo": "O 'joia' dos pais e avós, que não se refere a uma pedra preciosa e é só uma confirmação.",
+   "abordagem": "Transversal",
+   "ts": "0:38:31"
+  },
+  {
+   "nome": "Reformulação",
+   "definicao": "Devolver ao paciente o que ele disse. Diogo a usa quando está em dúvida sobre o que ouviu ou quando quer que a pessoa ouça o que ela mesma está dizendo. Também pode discriminar elementos que o paciente misturou.",
+   "exemplo": "'Você está com medo de encontrá-lo ou com medo de passar vergonha?' serve para aprofundar; uma versão quase igual serve para checar a compreensão.",
+   "abordagem": "Transversal",
+   "ts": "0:40:58"
+  },
+  {
+   "nome": "Encaminhamento",
+   "definicao": "Direcionar o paciente para serviços complementares à terapia. Depende de conhecer a rede de atenção próxima a ele.",
+   "exemplo": "Busca, junto com a paciente, dos serviços de saúde do bairro dela.",
+   "abordagem": "Transversal",
+   "ts": "0:16:54"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "Aparece como 'vínculo': intervenções pouco empáticas no início do atendimento comprometem o vínculo e, com ele, o processo todo.",
+   "exemplo": "",
+   "abordagem": "Transversal",
+   "ts": "0:37:19"
+  },
+  {
+   "nome": "Congruência",
+   "definicao": "Citada por um participante como uma das três atitudes da ACP, ao lado da empatia e da aceitação incondicional, discutidas em outro grupo. Não é desenvolvida aqui.",
+   "exemplo": "",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:30:10"
+  },
+  {
+   "nome": "Aceitação positiva incondicional",
+   "definicao": "Citada como uma das três atitudes da ACP discutidas em outro grupo. Não é desenvolvida aqui.",
+   "exemplo": "",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:30:10"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Mapa coletivo de habilidades terapêuticas",
+   "objetivo": "Construir com o grupo um mapa de habilidades clínicas transversais e mostrar, pela comparação de definições, que uma mesma habilidade (empatia) tem usos clínicos diferentes, cada um com critérios próprios de boa execução.",
+   "competencias": [
+    "Articulação teoria-prática",
+    "Acolhimento e validação",
+    "Escuta clínica",
+    "Intervenção"
+   ],
+   "configuracao": "Grupo todo, online, cerca de cinco participantes ativos por voz e chat; o facilitador registra no chat.",
+   "tempo": "35 a 40 minutos",
+   "materiais": "Chat ou quadro para registrar a lista; opcionalmente, um livro de referência sobre habilidades terapêuticas.",
+   "consigna": "Vocês já ouviram falar de habilidades terapêuticas? O que entendem por isso? Depois: das habilidades que levantamos, qual você acha que domina mais? Explique o que você entende por ela. Aos demais: a empatia na clínica de vocês, ou na clínica que vocês acham ideal, é isso?",
+   "passos": [
+    "Fazer uma pergunta aberta sobre o conceito, chamando cada participante pelo nome.",
+    "Listar no chat as habilidades citadas e refinar os termos com justificativa (observação vira exame).",
+    "Fazer uma pergunta de experiência (algum paciente já trouxe algo que você não conhecia?) para extrair uma habilidade implícita; categorizar as respostas e nomear o repertório cultural.",
+    "Pedir que cada participante escolha a habilidade que mais domina.",
+    "Um participante define a sua; o facilitador reformula em termos de função clínica e confere se faz sentido.",
+    "Os outros concordam, discordam ou propõem outra definição; o facilitador lê em voz alta o que chega pelo chat.",
+    "Nomear o impasse (agora temos três definições) sem eleger uma vencedora.",
+    "Sintetizar: custo e benefício da globalidade, modos certos e errados dentro de cada definição, momento clínico em que a habilidade pesa mais.",
+    "Transpor para a intervenção concreta com um exemplo próprio (o marcador 'aham, entendi') e a regra de que o objetivo define a forma."
+   ],
+   "feedback": "Não corrige a definição pelo conteúdo. Testa a coerência interna (que prática contrariaria essa definição?) e a tradução funcional (para que serve na sessão: tom, interpretação, setting?). Reformula e pede confirmação, deixando aberta a possibilidade de estar errado.",
+   "exemplos_praticos": "A empatia gerou quatro formulações: sensibilidade que ajusta tom e interpretação; compreensão do caso, com a objeção de que o primeiro uso seria exame; seguir o tempo do outro; ausentar-se para que o outro apareça. As outras sete habilidades não foram discutidas por falta de tempo.",
+   "variacoes": "Fazer um ciclo com uma habilidade por encontro. Acrescentar uma rodada prática em que cada um produz duas versões da mesma intervenção com objetivos diferentes (sugestão da ficha, não feita no encontro).",
+   "armadilhas": "Com um grupo pequeno, uma única habilidade ocupa o encontro inteiro. Termos vagos ('postura') ficam pendentes se não forem definidos na hora. Há o risco de a discussão ficar abstrata; Diogo contorna isso fechando com exemplos de intervenção.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:06:59"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Abrir com humor e pedir feedback sincero",
+   "descricao": "Brinca com a possibilidade de críticas no formulário, o que legitima o feedback negativo e baixa a tensão.",
+   "exemplo": "Vocês podem escrever no formulário: 'não gosto do Diogo, só vou porque não tenho outro horário'.",
+   "ts": "0:00:02"
+  },
+  {
+   "movimento": "Partir do que o grupo sabe, chamando pelo nome",
+   "descricao": "Começa com uma pergunta aberta sobre o conceito e passa por cada participante, incluindo quem está no chat.",
+   "exemplo": "[Nome], o que você entende de habilidades terapêuticas? E você, [nome], já ouviu falar desse conceito?",
+   "ts": "0:01:20"
+  },
+  {
+   "movimento": "Recusar a resposta pronta",
+   "descricao": "Anuncia que não vai definir o conceito e que trabalhará a partir das concepções do grupo, o que transforma a aula numa investigação.",
+   "exemplo": "Eu não vou dar resposta para vocês hoje; vou trabalhar a partir do que cada um considera.",
+   "ts": "0:05:53"
+  },
+  {
+   "movimento": "Registrar por escrito no chat",
+   "descricao": "Lista as contribuições no chat para que o grupo tenha um objeto comum e estável.",
+   "exemplo": "Vou colocar todos eles na mensagem para ficar mais didático.",
+   "ts": "0:06:59"
+  },
+  {
+   "movimento": "Refinar sem descartar",
+   "descricao": "Acolhe a contribuição do participante e a renomeia com um termo técnico mais amplo, justificando.",
+   "exemplo": "Em vez de observação, vou chamar de exame, porque o exame capta também consciência, atenção e estado emocional.",
+   "ts": "0:08:04"
+  },
+  {
+   "movimento": "Extrair conteúdo da experiência dos participantes",
+   "descricao": "Faz perguntas sobre a prática dos participantes, categoriza as respostas e só depois nomeia a habilidade (indutivo).",
+   "exemplo": "Algum paciente já falou de algo que vocês não conheciam? Dessas respostas sai o repertório cultural.",
+   "ts": "0:11:22"
+  },
+  {
+   "movimento": "Reformular em termos de função e checar",
+   "descricao": "Traduz a definição vaga do participante em funções clínicas e pede confirmação.",
+   "exemplo": "Então, para você, a empatia tem duas funções: determinar o tom da intervenção e guiar a interpretação. Faz sentido?",
+   "ts": "0:23:03"
+  },
+  {
+   "movimento": "Nomear o impasse e tolerá-lo com humor",
+   "descricao": "Explicita que há definições concorrentes e não força uma conclusão, usando a divergência como material de aprendizagem.",
+   "exemplo": "Complicou mais ainda, agora temos uma terceira definição; a gente não vai se matar para achar uma conclusão certa.",
+   "ts": "0:32:28"
+  },
+  {
+   "movimento": "Mediar o chat em voz alta",
+   "descricao": "Lê as mensagens de quem participa por escrito, pede esclarecimento e parafraseia até o sentido ficar claro.",
+   "exemplo": "Você quer dizer que vai assumir que é diferente, para não cair no lugar de que o paciente é igual a você?",
+   "ts": "0:34:05"
+  },
+  {
+   "movimento": "Expor os próprios vícios clínicos",
+   "descricao": "Usa uma falha própria como exemplo didático, o que modela humildade e reflexão sobre a prática.",
+   "exemplo": "Eu tenho muito esse vício na clínica, eu falo 'aham, entendi' e logo depois pergunto 'mas isso aqui?'.",
+   "ts": "0:38:31"
+  },
+  {
+   "movimento": "Ilustrar com a própria clínica",
+   "descricao": "Traz exemplos anonimizados de sessões próprias para concretizar os conceitos.",
+   "exemplo": "A busca de serviços de saúde num mapa com uma paciente; a reformulação com dois objetivos.",
+   "ts": "0:16:54"
+  },
+  {
+   "movimento": "Priorizar profundidade diante do tempo",
+   "descricao": "Aprofunda uma única habilidade em vez de passar superficialmente por todas e fecha com uma mensagem-chave.",
+   "exemplo": "Não deu para passar por todas por conta do horário, mas o que eu quero trazer é...",
+   "ts": "0:37:19"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Não anote durante a sessão se isso tira você da escuta; registre depois.",
+   "justificativa": "Ao focar no registro, perdem-se nuances importantes da fala; na psicanálise, anotar costuma ser visto como quebra do setting.",
+   "contexto": "Sempre que a anotação competir com a atenção.",
+   "competencia": "Escuta clínica",
+   "ts": "0:04:48"
+  },
+  {
+   "dica": "Trate a observação do paciente como exame psíquico completo.",
+   "justificativa": "Além dos gestos, o exame capta o nível de consciência, a atenção e o estado emocional.",
+   "contexto": "Desde a primeira sessão e continuamente.",
+   "competencia": "Escuta clínica",
+   "ts": "0:08:04"
+  },
+  {
+   "dica": "Use o repertório cultural do paciente (séries, músicas, referências de época) como recurso terapêutico.",
+   "justificativa": "Serve para criar vínculo, construir metáforas e explorar o significado de interesses, aprofundando.",
+   "contexto": "Quando o paciente trouxer referências que você conhece ou pode conhecer.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:16:54"
+  },
+  {
+   "dica": "Conheça, ou pesquise junto com o paciente, a rede de serviços perto dele.",
+   "justificativa": "Dá base para intervir fora da clínica e encaminhar para serviços complementares; no online basta o bairro, sem o endereço completo.",
+   "contexto": "Quando há necessidade de rede de apoio ou de encaminhamento.",
+   "competencia": "Intervenção",
+   "ts": "0:16:54"
+  },
+  {
+   "dica": "Ajuste o tom da intervenção ao estado emocional do paciente.",
+   "justificativa": "Numa das leituras, a empatia é o regulador que decide entre um tom mais direto e concreto e um tom mais sensível.",
+   "contexto": "Com pacientes fragilizados ou em temas delicados.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:22:33"
+  },
+  {
+   "dica": "Use a empatia para não supor que o caso é simples.",
+   "justificativa": "Ela amplia a interpretação e leva a procurar a origem do sofrimento.",
+   "contexto": "Na formulação do caso.",
+   "competencia": "Formulação de caso",
+   "ts": "0:23:03"
+  },
+  {
+   "dica": "Dê mais peso ao cuidado empático no começo do tratamento.",
+   "justificativa": "Intervenções pouco empáticas no início comprometem o vínculo e o processo inteiro.",
+   "contexto": "Primeiras sessões.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:37:19"
+  },
+  {
+   "dica": "Use a empatia para dosar a confrontação.",
+   "justificativa": "Ajuda a avaliar como o paciente está e a fazer um confronto que não seja pesado demais nem fique na zona de conforto.",
+   "contexto": "Nos momentos em que é preciso confrontar.",
+   "competencia": "Intervenção",
+   "ts": "0:37:19"
+  },
+  {
+   "dica": "Cuidado para não se identificar demais com um trecho da fala do paciente.",
+   "justificativa": "Você pode, sem querer, viciar o paciente no trecho preferido por você e distorcer a interpretação.",
+   "contexto": "Quando sentir afinidade forte com um tema trazido.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:35:44"
+  },
+  {
+   "dica": "Se a sua empatia é ausentar-se para o outro aparecer, não traga dados da sua vida para a sessão.",
+   "justificativa": "Isso contradiz o uso que você defende; cada definição tem suas formas erradas de execução.",
+   "contexto": "Em abordagens que valorizam a reserva do terapeuta.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:35:44"
+  },
+  {
+   "dica": "Observe seus marcadores verbais automáticos ('aham, entendi') e pergunte qual função eles cumprem.",
+   "justificativa": "Dizer 'entendi' nem sempre é bom; a função real costuma ser sinalizar atenção e convidar o paciente a continuar, e sabendo disso dá para escolher formas melhores.",
+   "contexto": "Ao revisar os próprios vícios de fala.",
+   "competencia": "Construção frasal",
+   "ts": "0:38:31"
+  },
+  {
+   "dica": "Antes de devolver ao paciente o que ele disse, defina o objetivo: aprofundar ou checar a compreensão.",
+   "justificativa": "A mesma construção frasal serve a objetivos diferentes, e o objetivo determina as próximas intervenções e o resultado a avaliar.",
+   "contexto": "Em reformulações e perguntas do tipo 'você está dizendo X ou Y?'.",
+   "competencia": "Construção frasal",
+   "ts": "0:41:28"
+  },
+  {
+   "dica": "Use a pergunta que separa dois elementos que o paciente juntou ('medo de X ou medo de Y?').",
+   "justificativa": "Sem elaboração, o paciente pode confundir coisas diferentes, e discriminá-las abre caminho para o aprofundamento.",
+   "contexto": "Quando o relato funde emoções ou objetos distintos.",
+   "competencia": "Aprofundamento",
+   "ts": "0:41:28"
+  },
+  {
+   "dica": "Pense primeiro no objetivo e só depois na forma da intervenção.",
+   "justificativa": "Habilidades globais só se executam bem com um objetivo em mente, e o objetivo abre formas mais criativas de execução.",
+   "contexto": "Sempre.",
+   "competencia": "Intervenção",
+   "ts": "0:42:15"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "As habilidades terapêuticas são transversais às abordagens.",
+   "argumento": "Todo psicólogo escuta, até fora da clínica; um analista do comportamento e um psicanalista escutam e são empáticos da mesma forma. As divergências, como anotar ou não na sessão, são pontuais.",
+   "contraponto": "A ideia de que cada abordagem tem competências exclusivas; a terminologia varia, mas o núcleo é o mesmo.",
+   "implicacao": "Dá para treinar essas habilidades num grupo com várias abordagens.",
+   "quem": "Diogo",
+   "ts": "0:03:46"
+  },
+  {
+   "tese": "Quanto mais global a habilidade, menos específica ela é, o que é ao mesmo tempo um problema e uma vantagem.",
+   "argumento": "É difícil definir com precisão algo tão geral, mas por isso mesmo a habilidade é maleável e se aplica de várias formas.",
+   "contraponto": "A busca de uma definição única e correta.",
+   "implicacao": "Pergunte que uso você faz da habilidade e se o executa bem, em vez de decorar definições.",
+   "quem": "Diogo",
+   "ts": "0:35:09"
+  },
+  {
+   "tese": "Não existe uma forma única e correta de definir a empatia na clínica, mas dentro de cada definição há modos certos e errados de exercê-la.",
+   "argumento": "As definições do grupo (tom, interpretação, setting) são defensáveis; cada uma é violada por práticas específicas, como autoexposição, fechamento ou identificação excessiva.",
+   "contraponto": "Diogo admite que talvez exista uma definição conceitual mais concreta; o difícil é dizer como aplicá-la.",
+   "implicacao": "Avalie a coerência entre a sua definição e a sua prática.",
+   "quem": "Diogo",
+   "ts": "0:36:49"
+  },
+  {
+   "tese": "O repertório cultural é uma habilidade clínica, e o que conta é saber usá-lo.",
+   "argumento": "Conteúdos culturais servem para vínculo, metáfora e aprofundamento; conhecer a rede permite encaminhar.",
+   "contraponto": "A visão de que a cultura geral do terapeuta é irrelevante para a técnica.",
+   "implicacao": "Cultivar o repertório (entretenimento, época, rede de saúde) faz parte da formação.",
+   "quem": "Diogo",
+   "ts": "0:17:59"
+  },
+  {
+   "tese": "O objetivo da intervenção define sua forma; sem objetivo, a habilidade global fica vazia.",
+   "argumento": "'Aham, entendi' não serve para afirmar compreensão, mas para sinalizar atenção; a mesma reformulação serve para aprofundar ou para checar, e isso muda o que vem depois.",
+   "contraponto": "Intervenções automáticas, feitas por hábito.",
+   "implicacao": "Antes de intervir, pergunte para que está dizendo aquilo.",
+   "quem": "Diogo",
+   "ts": "0:39:48"
+  },
+  {
+   "tese": "Um livro sobre habilidades gerais escrito por autores de uma só abordagem deveria incluir autores de outras.",
+   "argumento": "O livro citado se propõe transversal, mas só analisa casos com as abordagens comportamentais; 'não custava nada convidar uma galera para escrever junto'.",
+   "contraponto": "Diogo reconhece que os autores fazem o que sabem fazer.",
+   "implicacao": "Ao estudar habilidades transversais, buscar exemplos de várias abordagens.",
+   "quem": "Diogo",
+   "ts": "0:09:18"
+  },
+  {
+   "tese": "Anotar durante a sessão prejudica a escuta, ao menos para o próprio Diogo.",
+   "argumento": "Focar no registro faz perder nuances da fala; na psicanálise, costuma ser vedado por razões de setting.",
+   "contraponto": "Uma participante listou 'saber anotar enquanto ouve' como habilidade; na análise do comportamento não é regra.",
+   "implicacao": "Avaliar o custo de atenção do registro em tempo real.",
+   "quem": "Diogo",
+   "ts": "0:05:53"
+  },
+  {
+   "tese": "Empatia é se ausentar do lugar do outro, e não se colocar no lugar dele.",
+   "argumento": "Se o terapeuta supõe que entende a dor do paciente, o paciente não se coloca nem o questiona; confrontar o analista é sinal de avanço.",
+   "contraponto": "O senso comum de empatia como 'colocar-se no lugar do outro'.",
+   "implicacao": "Sair do lugar de suposto saber e montar um setting em que o paciente possa aparecer.",
+   "quem": "Participante (psicanálise)",
+   "ts": "0:30:10"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Não há psicólogo que não vá escutar, em qualquer ramo da psicologia.",
+   "tema": "transversalidade das habilidades",
+   "ts": "0:03:46"
+  },
+  {
+   "texto": "Eu não vou dar resposta para vocês hoje; vou trabalhar a partir do que cada um de vocês considera como habilidades clínicas relevantes.",
+   "tema": "facilitação",
+   "ts": "0:05:53"
+  },
+  {
+   "texto": "É uma habilidade clínica: não só ter o repertório, mas saber utilizá-lo.",
+   "tema": "repertório cultural",
+   "ts": "0:17:59"
+  },
+  {
+   "texto": "Empatia é seguir o tempo do outro sem violentar sua experiência. (participante)",
+   "tema": "empatia",
+   "ts": "0:29:02"
+  },
+  {
+   "texto": "Empatia é se ausentar do lugar do outro para que o outro possa aparecer. (participante)",
+   "tema": "empatia",
+   "ts": "0:30:10"
+  },
+  {
+   "texto": "A empatia não é específica e, por isso, é maleável.",
+   "tema": "empatia",
+   "ts": "0:35:44"
+  },
+  {
+   "texto": "Dentro do que cada um disse, existem formas corretas e erradas; mas não sei se existe uma forma única e correta de definir a empatia.",
+   "tema": "empatia",
+   "ts": "0:36:49"
+  },
+  {
+   "texto": "Falar 'aham, entendi' nem sempre é uma boa coisa.",
+   "tema": "sinais de escuta",
+   "ts": "0:38:31"
+  },
+  {
+   "texto": "A função disso é mostrar que estou prestando atenção e que quero dar mais caldo para essa sopa que você está me trazendo.",
+   "tema": "função da intervenção",
+   "ts": "0:39:48"
+  },
+  {
+   "texto": "Entendendo o objetivo da nossa intervenção, a gente consegue pensar em formas mais criativas de executá-la.",
+   "tema": "função da intervenção",
+   "ts": "0:39:48"
+  },
+  {
+   "texto": "É uma construção frasal muito semelhante, mas com um objetivo diferente, e isso determina as próximas intervenções.",
+   "tema": "construção frasal",
+   "ts": "0:42:15"
+  },
+  {
+   "texto": "Não adianta pensar em habilidades clínicas globais sem fazê-las com algum objetivo em mente.",
+   "tema": "habilidades terapêuticas",
+   "ts": "0:42:15"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Empatia tem pelo menos 3 definições, e nenhuma está errada.",
+   "mensagem": "Empatia como tom da intervenção, como leitura do caso e como setting para o outro aparecer; cada uma tem sua forma certa e errada.",
+   "roteiro": [
+    "Capa: o que é empatia na clínica?",
+    "1: regular o tom da intervenção",
+    "2: guiar a interpretação (não supor que o caso é simples)",
+    "3: ausentar-se para o outro aparecer",
+    "O erro de cada uma",
+    "Conclusão: a coerência entre definição e prática"
+   ],
+   "corte_inicio": "0:35:09",
+   "corte_fim": "0:37:19"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Seu 'aham, entendi' serve para quê?",
+   "mensagem": "A função de um marcador verbal é sinalizar atenção e convidar o paciente a continuar; o objetivo define a forma.",
+   "roteiro": [
+    "Confissão do vício",
+    "O que a frase realmente faz",
+    "Analogia do 'joia'",
+    "Pergunte: qual é a função?"
+   ],
+   "corte_inicio": "0:38:31",
+   "corte_fim": "0:40:45"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Repertório cultural é habilidade clínica.",
+   "mensagem": "Séries, músicas, referências de época e a rede de serviços servem para vínculo, metáfora, aprofundamento e encaminhamento; não basta ter, é preciso saber usar.",
+   "roteiro": [
+    "Dois níveis de informação",
+    "Quatro usos do repertório",
+    "Não basta ter, é preciso usar"
+   ],
+   "corte_inicio": "0:15:46",
+   "corte_fim": "0:17:59"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Mesma frase, dois objetivos.",
+   "mensagem": "Uma reformulação pode servir para aprofundar ou só para checar a compreensão, e isso muda as próximas intervenções. Gravar com um exemplo genérico, sem material de caso.",
+   "roteiro": [
+    "Pergunta 'X ou Y?' para discriminar",
+    "A mesma frase para checar",
+    "O objetivo muda o que vem depois"
+   ],
+   "corte_inicio": "0:40:58",
+   "corte_fim": "0:42:15"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Anotar durante a sessão: pode ou não pode?",
+   "mensagem": "As abordagens divergem; o critério é o custo de atenção (perder nuances da fala).",
+   "roteiro": [
+    "Psicanálise: em geral, não",
+    "Comportamental: não é regra",
+    "O critério: o que você perde de escuta"
+   ],
+   "corte_inicio": "0:04:48",
+   "corte_fim": "0:05:53"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Qual habilidade clínica você mais domina? Agora defina.",
+   "mensagem": "Enquete que reproduz a dinâmica do grupo e convida para o Aprimoramento.",
+   "roteiro": [
+    "Enquete com 8 habilidades",
+    "Caixa: defina a sua",
+    "Convite para o grupo"
+   ],
+   "corte_inicio": "0:18:38",
+   "corte_fim": "0:19:15"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Fixação nas fases do desenvolvimento psicossexual como exemplo de informação própria do paciente, que não se sabe antes do contato."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Complexos como exemplo de informação própria do paciente."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Diogo), roda de discussão conceitual",
+  "objetivo": "Discutir uma competência ou conceito transversal (aqui, habilidades terapêuticas e empatia) a partir das concepções dos participantes, comparando definições e levando-as à intervenção concreta.",
+  "publico": "Estudantes, estagiários e psicólogos iniciantes de abordagens variadas (psicanálise, referência à TCC, sem abordagem definida); frequentadores assíduos do grupo.",
+  "tamanho": "Cerca de 5 participantes ativos (voz e chat).",
+  "duracao": "Cerca de 45 minutos gravados; o grupo tem horário fixo de término.",
+  "estrutura_padrao": "Pergunta aberta sobre o conceito → levantamento coletivo registrado no chat → habilidade implícita extraída por perguntas sobre a experiência → escolha pessoal (qual domino mais) → definições em confronto, reformuladas em termos de função → síntese do facilitador (sem definição vencedora) → transposição para a intervenção com exemplo próprio → dúvidas → mensagem-chave.",
+  "papel_facilitador": "Pergunta, registra, refina termos, reformula cada definição em funções clínicas, lê o chat em voz alta, nomeia divergências sem resolvê-las artificialmente, sintetiza e dá exemplos da própria clínica. Declara a própria abordagem (análise do comportamento) e não dá resposta canônica.",
+  "regras_combinados": "Participação por voz ou chat; formulário de presença e feedback ao final, com críticas explicitamente bem-vindas; não há resposta certa; gravação encerrada pelo facilitador."
+ },
+ "reflexoes_do_facilitador": [
+  "Brinca que os participantes podem dizer no formulário que não gostam dele e só vão por falta de outro horário, pedindo sinceridade no feedback.",
+  "Reconhece o vício clínico de dizer 'aham, entendi' e emendar uma pergunta que mostra que não havia entendido.",
+  "Admite que não conseguiu passar por todas as habilidades por causa do horário.",
+  "Pede correção várias vezes ('posso estar errado', 'se não fizer sentido, me corrija'), inclusive depois de uma reformulação que talvez não tenha feito sentido.",
+  "Lamenta não conseguir editar uma mensagem incompleta no chat.",
+  "Declara que, embora não seja psicanalista, também não consegue anotar durante a sessão."
+ ],
+ "referencias_a_outros_encontros": [
+  "Os participantes já são frequentadores do grupo de Aprimoramento de Diogo; ele comenta que o áudio de uma participante está melhor que na semana anterior.",
+  "Um participante menciona outro grupo, com outro facilitador (cita Fabrício e Rodolfo sem certeza), em que se discutiram as três atitudes da ACP (empatia, aceitação incondicional, congruência).",
+  "Formulário de presença e feedback usado em todos os encontros.",
+  "O título original 'Encontro 29 e Encontro 30' sugere dois encontros, mas o vídeo mostra um único encontro, de cerca de 43 minutos."
+ ],
+ "observacoes": "Legenda automática com ruído, em que nomes de participantes se confundem (duas participantes com o mesmo primeiro nome; um nome que parece ser erro de transcrição). A fala 'tem 3 minutos de grupo que você falou que era 3 horas' parece indicar que o grupo termina às 15h. O livro citado aparece como 'Habilidades terapêuticas na prática de psicoterapia' (título e autores incertos). Não há exercício de intervenção nem roleplay: o formato é uma roda de discussão conceitual. Das oito habilidades levantadas, só a empatia foi aprofundada, e 'postura' ficou sem definição clara. O exemplo clínico de Diogo (uma paciente com medo de reencontrar um ex) foi mantido de forma genérica."
+}

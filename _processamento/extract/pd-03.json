@@ -1,0 +1,716 @@
+{
+  "id": "pd-03",
+  "nota": "PD 03 - Os quatro pilares da prática deliberada",
+  "pasta": "10 - Fichamentos/Prática Deliberada",
+  "titulo": "Os quatro pilares da prática deliberada",
+  "serie": "Introdução à Prática Deliberada",
+  "formato": "Curso de PD",
+  "facilitadores": [
+    "Bernardo"
+  ],
+  "resumo": "Terceiro encontro do curso do Núcleo de Prática Deliberada da Allos, baseado no livro Better Results, e o primeiro que define a prática deliberada. O facilitador distingue performance (o ato de atender) de prática (o ato de treinar), apresenta a definição de Ericsson e Lehmann (1996) e os quatro pilares do livro: objetivos de aprendizagem (decompostos em passos e situados na zona de desenvolvimento proximal, a ‘praia’), supervisão que observa a performance, feedback com propriedades específicas e refinamento sucessivo. Critica a supervisão baseada só em relato de caso e a ausência de roleplay na graduação. Discute como obter feedback honesto do paciente (autenticidade, explicar a importância da honestidade, cara a cara) e colhe relatos de participantes sobre roleplays com plateia. Fecha com a frase ‘a mera repetição não leva à excelência’ e admite que praticar deliberadamente é chato e exige muita motivação.",
+  "em_uma_frase": "A prática deliberada se sustenta em quatro pilares (objetivos de aprendizagem, supervisão, feedback e refinamento sucessivo), e atender não é treinar: repetir sem objetivo e sem retorno só automatiza.",
+  "competencias": [
+    "Desenvolvimento profissional",
+    "Feedback clínico",
+    "Relação terapêutica",
+    "Pessoa do terapeuta"
+  ],
+  "abordagens": [],
+  "estrutura": [
+    {
+      "ts": "0:00:00",
+      "bloco": "Abertura",
+      "descricao": "Boas-vindas; lembra que os encontros anteriores foram só contextualização; anuncia os quatro pilares.",
+      "funcao": "Situar os novatos e marcar o início da definição do conceito.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:01:22",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta disparadora sobre o que é prática clínica e performance.",
+      "funcao": "Levantar o sentido comum para contrastar com o técnico.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:03:54",
+      "bloco": "Teoria",
+      "descricao": "Distinção prática (treinar) × performance (atender); analogia da pelada e do treino de chute.",
+      "funcao": "Fixar o vocabulário-base do curso.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:05:52",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta sobre os ingredientes de uma prática efetiva; o grupo lista objetivos, observador externo, exercício com lógica e saber o que desenvolver.",
+      "funcao": "Mostrar que o grupo já intui os pilares.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:07:43",
+      "bloco": "Teoria",
+      "descricao": "Definição de Ericsson e Lehmann (1996) e apresentação dos quatro pilares do Better Results.",
+      "funcao": "Dar a formulação canônica e o roteiro da aula.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:11:15",
+      "bloco": "Teoria",
+      "descricao": "Pilar 1, objetivos de aprendizagem: piores, medianos e melhores praticantes; decompor a relação terapêutica em X, Y e Z e treinar um por semana.",
+      "funcao": "Ensinar a formular um objetivo treinável.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:14:07",
+      "bloco": "Discussão",
+      "descricao": "Participante compara com a escola; o facilitador traz a analogia da matemática e critica a supervisão por relato filtrado.",
+      "funcao": "Ligar o conceito à experiência do grupo e introduzir a falta de visão externa.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:16:23",
+      "bloco": "Teoria",
+      "descricao": "Objetivos desafiadores: zona de desenvolvimento proximal de Vygotsky como praia entre a terra firme e o mar; ligação com a motivação.",
+      "funcao": "Calibrar a dificuldade do treino.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:20:34",
+      "bloco": "Teoria",
+      "descricao": "Pilar 2, supervisão: ver o que o profissional não vê (patinador, nadador); gravação consentida de sessões.",
+      "funcao": "Justificar a observação direta.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:22:56",
+      "bloco": "Discussão",
+      "descricao": "Participante critica a supervisão em que se fala o que quiser; o facilitador fala da cultura da sacralidade da sessão e do risco legal para o supervisor; a supervisão isola aspectos que comprometem o resultado e também os pontos fortes.",
+      "funcao": "Transformar o incômodo em argumento.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:25:48",
+      "bloco": "Teoria",
+      "descricao": "Pilar 3, feedback: as propriedades do feedback eficaz; o técnico de basquete que treinava só fundamentos; fundamentos transteóricos; monitoramento rotineiro de resultados.",
+      "funcao": "Dar critérios de qualidade do feedback e aplicá-los à clínica.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "0:33:16",
+      "bloco": "Dúvidas",
+      "descricao": "Como obter feedback verdadeiro do paciente: autenticidade do terapeuta, explicar a importância da honestidade, cara a cara; menção ao formulário de presença da Allos.",
+      "funcao": "Passar do conceito ao problema clínico concreto.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:37:26",
+      "bloco": "Teoria",
+      "descricao": "Pilar 4, refinamento sucessivo: o que é repetido fica automático, não necessariamente melhor.",
+      "funcao": "Amarrar os pilares.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:38:34",
+      "bloco": "Rodada de respostas",
+      "descricao": "Participantes que atenderam em roleplay com plateia contam o que perceberam com o feedback externo (técnico e de pares).",
+      "funcao": "Dar prova vivida ao argumento.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:41:55",
+      "bloco": "Discussão",
+      "descricao": "O facilitador relata a escassez de roleplay na graduação e o estágio sem feedback; papel do Núcleo de PD da Allos.",
+      "funcao": "Posicionar a Allos como resposta à lacuna da formação.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:44:10",
+      "bloco": "Fechamento",
+      "descricao": "Frase-síntese sobre repetição; gravações no drive; praticar é chato e exige querer muito; pede comentários e críticas.",
+      "funcao": "Consolidar e antecipar a dificuldade de adesão.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:47:17",
+      "bloco": "Tarefa",
+      "descricao": "Anuncia o próximo capítulo: linha de base.",
+      "funcao": "Continuidade do curso.",
+      "duracao_min": 1
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Prática deliberada",
+      "definicao": "Atividades de treinamento individualizadas, desenhadas por treinador, professor ou supervisor, para melhorar aspectos específicos do desempenho por repetição e refinamento sucessivo. Para aproveitar o feedback exigem total concentração, o que torna o treino esforçado e curto (Ericsson e Lehmann, 1996).",
+      "exemplo": "Treinar o chute e o passe em vez de só jogar pelada.",
+      "abordagem": "",
+      "ts": "0:07:43"
+    },
+    {
+      "nome": "Prática e performance",
+      "definicao": "Na literatura de prática deliberada, performance clínica é o ato de fazer psicoterapia e prática clínica é o ato de treinar, o momento reservado para aprimorar aspectos do atendimento. Difere do uso comum, em que prática clínica é o próprio atendimento.",
+      "exemplo": "Jogar uma pelada é performar; treinar o chute é praticar.",
+      "abordagem": "",
+      "ts": "0:03:54"
+    },
+    {
+      "nome": "Quatro pilares da prática deliberada",
+      "definicao": "Sistematização do livro Better Results dos ingredientes da prática efetiva: objetivos de aprendizagem, supervisão, feedback e refinamento sucessivo.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:10:02"
+    },
+    {
+      "nome": "Objetivos de aprendizagem",
+      "definicao": "Metas de treino específicas, decompostas em passos e desafiadoras na medida certa. Os piores praticantes evitam estabelecê-las, os medianos as definem de modo vago e focado no resultado final, e os melhores focam os passos até o resultado.",
+      "exemplo": "Decompor a relação terapêutica em elementos X, Y e Z, avaliar como se faz cada um e treinar X numa semana e Y na seguinte.",
+      "abordagem": "",
+      "ts": "0:11:15"
+    },
+    {
+      "nome": "Zona de desenvolvimento proximal",
+      "definicao": "Conceito de Lev Vygotsky retomado por Ericsson: faixa logo além do nível atual de realização confiável, onde os objetivos de treino devem ficar. Longe demais desmotiva; aquém entedia.",
+      "exemplo": "A praia entre a terra firme (o que se domina) e o mar (o desconhecido).",
+      "abordagem": "",
+      "ts": "0:16:23"
+    },
+    {
+      "nome": "Supervisão clínica",
+      "definicao": "No sentido da prática deliberada, a função de observar a performance do terapeuta, ver o que ele não consegue ver, isolar os aspectos que consistentemente comprometem o resultado (e também os pontos fortes) e criar atividades de prática para corrigi-los.",
+      "exemplo": "O treinador que vê a posição dos cotovelos do nadador ou a elevação do patinador no triplo axel.",
+      "abordagem": "",
+      "ts": "0:20:34"
+    },
+    {
+      "nome": "Feedback clínico",
+      "definicao": "Retorno mais eficaz quando é oportuno, imediato, contínuo, individualizado, focado em objetivos específicos com plano de ação, orientado à tarefa e não à pessoa, voltado a remediar deficiências, dado por uma autoridade confiável e dirigido a habilidades fundamentais e não ao resultado final.",
+      "exemplo": "O feedback do Zé do açougue não é levado a sério; o do supervisor ou do paciente sim, embora sejam de naturezas diferentes.",
+      "abordagem": "",
+      "ts": "0:25:48"
+    },
+    {
+      "nome": "Refinamento sucessivo",
+      "definicao": "Ciclo de ajustes guiado por objetivos na zona proximal, por um treinador que isola erros e monta um plano personalizado, e por feedback contínuo. Sem isso, o que é repetido fica apenas automático e duradouro, não necessariamente melhor.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:37:26"
+    },
+    {
+      "nome": "Habilidades fundamentais",
+      "definicao": "Competências cruciais para todos os psicoterapeutas, independentemente da orientação teórica, que devem ser treinadas como os fundamentos de um esporte.",
+      "exemplo": "Abrir o primeiro atendimento, lidar com a ruptura da relação, estabelecer e solidificar a relação, encerrar e dar alta; o técnico de basquete que treinava só passe, arremesso, lance livre e pivô.",
+      "abordagem": "",
+      "ts": "0:29:30"
+    },
+    {
+      "nome": "Monitoramento rotineiro de resultados",
+      "definicao": "Solicitar feedback dos pacientes de forma contínua e formal. Estudos mostram que diminui a evasão e melhora os resultados. Serve para entender se o trabalho faz sentido para o paciente, não para validar o terapeuta.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:30:59"
+    },
+    {
+      "nome": "Congruência",
+      "definicao": "Tratada aqui como autenticidade do terapeuta: agir de modo genuíno em sessão (inclusive confrontar e apontar contradições) modula o paciente a ser autêntico também, o que é condição para feedback honesto.",
+      "exemplo": "Um terapeuta que só passa a mão na cabeça recebe um feedback igualmente pouco autêntico.",
+      "abordagem": "",
+      "ts": "0:33:16"
+    },
+    {
+      "nome": "Roleplay",
+      "definicao": "Simulação de atendimento observada por outros. Dá ao terapeuta acesso a aspectos da própria performance que ele não percebe, e é quase ausente da graduação em psicologia.",
+      "exemplo": "Participantes relatam que perceberam coisas que não tinham notado e receberam dois tipos de comentário: o técnico dos avaliadores da Allos e o de colegas iniciantes sobre como a fala soava.",
+      "abordagem": "",
+      "ts": "0:38:34"
+    },
+    {
+      "nome": "Automatismo clínico",
+      "definicao": "O efeito da repetição sem deliberação: um fazer automático e duradouro, não necessariamente melhor. A prática deliberada exige combater as próprias automaticidades.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:45:21"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Pergunta disparadora",
+      "objetivo": "Ativar o conhecimento prévio e o senso comum do grupo antes de apresentar o conceito técnico, para que a definição chegue como contraste ou confirmação.",
+      "competencias": [
+        "Desenvolvimento profissional"
+      ],
+      "configuracao": "Grupo todo, online, respostas voluntárias por áudio ou chat (cerca de 8 a 10 participantes).",
+      "tempo": "2 a 4 minutos por pergunta",
+      "materiais": "Slides; nenhum material extra.",
+      "consigna": "O que vocês pensam quando escutam prática clínica? E performance? Quais seriam os ingredientes para uma prática efetiva? Quem já atendeu em roleplay com plateia: o que sentiu ao receber feedback de fora?",
+      "passos": [
+        "Lançar a pergunta aberta.",
+        "Acolher duas a quatro respostas com reformulações curtas.",
+        "Apontar o que as respostas já contêm do conceito.",
+        "Apresentar a definição da literatura mostrando onde diverge do senso comum."
+      ],
+      "feedback": "Valida sem corrigir de imediato; aceita o sentido comum e depois o reenquadra com o sentido técnico; elogia a intuição do grupo.",
+      "exemplos_praticos": "O grupo listou objetivos claros, observador externo, exercício repetido com lógica e saber o que desenvolver, antecipando quase todos os pilares. Só dois participantes conheciam a zona de desenvolvimento proximal.",
+      "variacoes": "Usar como rodada de relatos de experiência (roleplay) pedindo que levantem a mão.",
+      "armadilhas": "A pergunta pode virar adivinhação se as respostas não forem aproveitadas; diante do silêncio, o facilitador explica com uma analogia.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:01:22"
+    },
+    {
+      "nome": "Dinâmica - Decomposição de objetivos de aprendizagem",
+      "objetivo": "Transformar um objetivo amplo (por exemplo, melhorar a relação terapêutica) em componentes treináveis, um por vez (proposta descrita, não realizada no encontro).",
+      "competencias": [
+        "Desenvolvimento profissional",
+        "Relação terapêutica"
+      ],
+      "configuracao": "Individual, idealmente com supervisor ou par que observe.",
+      "tempo": "Ciclos semanais, um componente por semana.",
+      "materiais": "Registro do plano de treino.",
+      "consigna": "Relação terapêutica envolve X, Y e Z. Como estou fazendo cada um? Nesta semana treino X; na próxima, Y.",
+      "passos": [
+        "Escolher uma competência ampla.",
+        "Levantar os princípios e elementos que a compõem.",
+        "Avaliar como faz cada elemento hoje, de preferência com olhar externo.",
+        "Escolher um componente na zona proximal (nem fácil, nem impossível).",
+        "Treinar esse componente durante a semana.",
+        "Reavaliar e passar ao próximo, descartando o que não precisa de treino."
+      ],
+      "feedback": "Critérios: o objetivo é específico, é um passo e não o resultado final, é desafiador na medida certa e está num plano de ação.",
+      "exemplos_praticos": "Não realizada; exemplo hipotético dado pelo facilitador com a relação terapêutica.",
+      "variacoes": "Aplicar a qualquer competência (abertura de sessão, ruptura, alta).",
+      "armadilhas": "Objetivos focados no resultado final desmotivam; mirar no mar frustra e ficar na terra firme entedia.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:13:27"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Situar os novatos",
+      "descricao": "Na abertura, avisa que o grupo ainda está no início do livro, para que os recém-chegados não se sintam perdidos.",
+      "exemplo": "Vocês não vão pegar o bonde tanto andando assim.",
+      "ts": "0:00:00"
+    },
+    {
+      "movimento": "Perguntar antes de definir",
+      "descricao": "Abre cada tema com uma pergunta ao grupo e só depois apresenta o slide com a definição técnica.",
+      "exemplo": "O que vocês entendem como prática clínica? E performance?",
+      "ts": "0:01:22"
+    },
+    {
+      "movimento": "Valorizar a intuição do grupo",
+      "descricao": "Mostra que as respostas já contêm os pilares, o que reforça a participação.",
+      "exemplo": "Vocês já estão pegando o jeito da prática deliberada, mesmo sem a gente ter discutido.",
+      "ts": "0:07:43"
+    },
+    {
+      "movimento": "Analogias esportivas e escolares",
+      "descricao": "Cada pilar ganha uma imagem concreta para facilitar a memorização.",
+      "exemplo": "Pelada × treino de chute; patinador e nadador; técnico de basquete; matemática; a praia da zona proximal.",
+      "ts": "0:18:06"
+    },
+    {
+      "movimento": "Checagem frequente de compreensão",
+      "descricao": "Pergunta se o grupo entendeu ao fim de cada pilar.",
+      "exemplo": "Deu para entender mais ou menos? Tá indo, pessoal?",
+      "ts": "0:25:16"
+    },
+    {
+      "movimento": "Acolher e ampliar a crítica do participante",
+      "descricao": "Quando um participante critica a supervisão por relato, concorda e acrescenta os argumentos cultural e legal.",
+      "exemplo": "Isso é um problema gigantesco.",
+      "ts": "0:22:56"
+    },
+    {
+      "movimento": "Do princípio ao procedimento nas dúvidas",
+      "descricao": "Responde à dúvida sobre feedback honesto do paciente partindo de um princípio (autenticidade) e chegando a passos concretos.",
+      "exemplo": "Explicar a importância da honestidade; preferir o cara a cara.",
+      "ts": "0:33:16"
+    },
+    {
+      "movimento": "Convidar relatos por levantada de mão",
+      "descricao": "Pede que quem já atendeu em roleplay levante a mão e chama pelo nome; lida sem constrangimento com um participante que levantou por engano.",
+      "exemplo": "Quem aqui já participou de roleplay atendendo? Levanta a mão.",
+      "ts": "0:38:34"
+    },
+    {
+      "movimento": "Autorrevelação como argumento",
+      "descricao": "Usa a própria formação (roleplay só duas vezes na graduação) para sustentar a crítica.",
+      "exemplo": "Eu posso contar nos dedos, não enche uma mão.",
+      "ts": "0:41:55"
+    },
+    {
+      "movimento": "Honestidade sobre a dificuldade do método",
+      "descricao": "Não vende a prática deliberada como fácil; nomeia o tédio e o esforço.",
+      "exemplo": "É chato para caramba.",
+      "ts": "0:45:21"
+    },
+    {
+      "movimento": "Fechamento com síntese, críticas e próximo passo",
+      "descricao": "Encerra com a frase-síntese, abre espaço para críticas e anuncia o próximo capítulo.",
+      "exemplo": "Comentários, dúvidas, críticas antes da gente finalizar?",
+      "ts": "0:46:36"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Reserve tempo para treinar fora do atendimento.",
+      "justificativa": "Atender é performar; horas de performance não equivalem a treino.",
+      "contexto": "Planejamento do desenvolvimento profissional.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:05:08"
+    },
+    {
+      "dica": "Formule objetivos de aprendizagem como passos, não como resultados finais.",
+      "justificativa": "Os melhores praticantes focam os passos; os medianos ficam no genérico.",
+      "contexto": "Ao decidir o que treinar.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:12:26"
+    },
+    {
+      "dica": "Decomponha uma competência ampla em componentes e treine um por semana.",
+      "justificativa": "Dá foco e revela o que realmente precisa de treino.",
+      "contexto": "Competências amplas como a relação terapêutica.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:13:27"
+    },
+    {
+      "dica": "Escolha desafios na zona proximal, a praia.",
+      "justificativa": "Longe demais desmotiva; aquém entedia.",
+      "contexto": "Escolha de exercícios e casos de treino.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:18:47"
+    },
+    {
+      "dica": "Leve à supervisão material observável (gravação consentida, roleplay), não só relato.",
+      "justificativa": "O relato é filtrado pela sua percepção; o supervisor precisa ver o que você não vê.",
+      "contexto": "Supervisão, com consentimento e política de privacidade.",
+      "competencia": "Feedback clínico",
+      "ts": "0:21:37"
+    },
+    {
+      "dica": "Peça ao supervisor que isole seus padrões recorrentes e transforme cada um em exercício.",
+      "justificativa": "Corrigir o que consistentemente compromete o resultado é mais eficaz do que comentários gerais.",
+      "contexto": "Supervisão.",
+      "competencia": "Feedback clínico",
+      "ts": "0:24:03"
+    },
+    {
+      "dica": "Dê feedback imediato, específico e voltado à tarefa, não à pessoa.",
+      "justificativa": "São propriedades do feedback eficaz segundo o livro.",
+      "contexto": "Supervisão, grupos de prática, roleplays.",
+      "competencia": "Feedback clínico",
+      "ts": "0:25:59"
+    },
+    {
+      "dica": "Priorize remediar deficiências específicas, sem deixar de apontar o que funciona.",
+      "justificativa": "O feedback eficaz visa corrigir fraquezas; a supervisão também identifica pontos fortes.",
+      "contexto": "Feedback a colegas.",
+      "competencia": "Feedback clínico",
+      "ts": "0:28:19"
+    },
+    {
+      "dica": "Treine fundamentos transteóricos: abrir o primeiro atendimento, reparar rupturas, construir a relação, encerrar e dar alta.",
+      "justificativa": "Dominar os fundamentos dá repertório para improvisar nas situações reais, como no basquete.",
+      "contexto": "Desenho de um currículo de treino.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:30:59"
+    },
+    {
+      "dica": "Peça feedback ao paciente de forma rotineira, para entender se o trabalho faz sentido e não para se validar.",
+      "justificativa": "O monitoramento contínuo reduz a evasão, melhora os resultados e abre espaço de transparência.",
+      "contexto": "Ao longo do processo, caso a caso.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:32:04"
+    },
+    {
+      "dica": "Seja autêntico em sessão para receber feedback honesto.",
+      "justificativa": "O paciente percebe a inautenticidade e a espelha.",
+      "contexto": "Postura geral do terapeuta.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:34:18"
+    },
+    {
+      "dica": "Explique ao paciente por que a honestidade dele melhora o tratamento.",
+      "justificativa": "Reduz a tendência a responder para agradar.",
+      "contexto": "Ao pedir feedback, oral ou por escala.",
+      "competencia": "Feedback clínico",
+      "ts": "0:34:18"
+    },
+    {
+      "dica": "Prefira pedir feedback cara a cara e use escalas como complemento.",
+      "justificativa": "O cara a cara mobiliza mais e evita o preenchimento mecânico.",
+      "contexto": "Escolha do formato do pedido de feedback.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:36:49"
+    },
+    {
+      "dica": "Nunca repita um exercício sem objetivo e sem retorno.",
+      "justificativa": "A repetição sem deliberação só torna permanente o que já se faz.",
+      "contexto": "Qualquer rotina de treino.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:44:10"
+    },
+    {
+      "dica": "Busque roleplays com plateia e valorize tanto o retorno técnico quanto o de pares iniciantes.",
+      "justificativa": "O primeiro ensina a técnica; o segundo mostra como a intervenção soa para leigos.",
+      "contexto": "Grupos de prática.",
+      "competencia": "Feedback clínico",
+      "ts": "0:40:49"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Atender não é treinar; experiência de atendimento não é prática.",
+      "argumento": "Na literatura de PD, performance é o ato de atender e prática é o momento de treino (analogia da pelada).",
+      "contraponto": "O sentido comum de prática clínica como atuação.",
+      "implicacao": "É preciso reservar tempo e estrutura de treino; acumular horas de clínica não basta.",
+      "quem": "Bernardo",
+      "ts": "0:03:54"
+    },
+    {
+      "tese": "A supervisão baseada apenas em relato de caso é insuficiente e até irresponsável.",
+      "argumento": "O relato é filtrado pela percepção de quem atende; o estagiário pode inventar ou distorcer; o supervisor responde legalmente sem saber o que ocorreu.",
+      "contraponto": "A cultura brasileira de sacralidade da sessão; outros países já gravam sessões com consentimento.",
+      "implicacao": "Incluir observação direta (gravação, roleplay) na supervisão.",
+      "quem": "Bernardo (a partir da fala de um participante)",
+      "ts": "0:22:56"
+    },
+    {
+      "tese": "A graduação em psicologia forma mal por falta de roleplay e de feedback sobre a performance real.",
+      "argumento": "Experiência do facilitador (roleplay só duas vezes na graduação); o estudante atende a partir do 7º período sem feedback direto.",
+      "contraponto": "",
+      "implicacao": "Grupos de pares e núcleos de prática suprem uma lacuna estrutural; o roleplay deveria ser o básico.",
+      "quem": "Bernardo",
+      "ts": "0:41:55"
+    },
+    {
+      "tese": "A mera repetição não leva à excelência; só torna permanente o que é repetido.",
+      "argumento": "Sem objetivos na zona proximal, sem um treinador que isole erros e sem feedback contínuo, a repetição apenas automatiza.",
+      "contraponto": "",
+      "implicacao": "Todo treino precisa de objetivo, plano e retorno.",
+      "quem": "Bernardo, a partir do Better Results",
+      "ts": "0:44:10"
+    },
+    {
+      "tese": "Existem habilidades fundamentais comuns a todas as abordagens, que devem ser treinadas como fundamentos.",
+      "argumento": "Analogia do técnico que só treinava fundamentos; exemplos: primeira sessão, ruptura, relação, alta.",
+      "contraponto": "",
+      "implicacao": "Montar treinos por habilidade, não por abordagem.",
+      "quem": "Bernardo",
+      "ts": "0:30:59"
+    },
+    {
+      "tese": "A motivação é o gargalo da prática deliberada.",
+      "argumento": "Objetivos fora da zona proximal desmotivam; praticar é chato, exige desconstruir-se e combater automaticidades; nem os autores do livro resolveram a adesão.",
+      "contraponto": "",
+      "implicacao": "Quem desenha grupos de treino precisa calibrar a dificuldade e tornar a prática mais leve ou divertida (a Allos teria formas alternativas).",
+      "quem": "Bernardo",
+      "ts": "0:45:21"
+    },
+    {
+      "tese": "O terapeuta deveria se mostrar curioso sobre o que o paciente acha da terapia.",
+      "argumento": "Pedir feedback abre conversa e transparência; os estudos de monitoramento mostram menos evasão.",
+      "contraponto": "Não há regra; é caso a caso.",
+      "implicacao": "Incluir momentos de pedido de feedback no processo.",
+      "quem": "Bernardo",
+      "ts": "0:32:04"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Performance clínica é o ato de fazer psicoterapia. Prática clínica é o ato de treinar.",
+      "tema": "prática × performance",
+      "ts": "0:03:54"
+    },
+    {
+      "texto": "Se eu vou jogar uma pelada com os meus amigos, estou performando. Se vou treinar o meu chute, o meu passe, estou praticando.",
+      "tema": "prática × performance",
+      "ts": "0:05:08"
+    },
+    {
+      "texto": "Os melhores estabelecem objetivos direcionando o foco e a atenção aos passos a serem dados até o resultado final.",
+      "tema": "objetivos de aprendizagem",
+      "ts": "0:12:26"
+    },
+    {
+      "texto": "A gente leva à supervisão um relato de caso que está completamente filtrado pelas nossas percepções.",
+      "tema": "crítica da supervisão",
+      "ts": "0:15:11"
+    },
+    {
+      "texto": "De nada adianta ter toda uma teoria sobre prática deliberada se a gente não consegue motivar as pessoas a praticar deliberadamente.",
+      "tema": "motivação",
+      "ts": "0:20:09"
+    },
+    {
+      "texto": "O trabalho do supervisor é ver o que o profissional não consegue ver.",
+      "tema": "supervisão",
+      "ts": "0:20:34"
+    },
+    {
+      "texto": "A gente pode estar fazendo um monte de coisa esquisita que atrapalha os nossos atendimentos e não ter acesso a isso, porque não consegue sair de si para ver.",
+      "tema": "pontos cegos",
+      "ts": "0:21:37"
+    },
+    {
+      "texto": "O que quer que seja repetido se tornará apenas automático e duradouro, não necessariamente melhor.",
+      "tema": "refinamento sucessivo",
+      "ts": "0:37:26"
+    },
+    {
+      "texto": "É engraçado ver as pessoas entrando na Allos e se maravilhando com um roleplay, a coisa que deveria ser a mais básica do mundo.",
+      "tema": "formação",
+      "ts": "0:43:07"
+    },
+    {
+      "texto": "A mera repetição não leva à excelência; ela simplesmente torna permanente aquilo que é repetido.",
+      "tema": "repetição",
+      "ts": "0:44:10"
+    },
+    {
+      "texto": "Praticar deliberadamente não é fácil: envolve a todo momento se desconstruir e combater suas automaticidades.",
+      "tema": "adesão",
+      "ts": "0:45:21"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Atender não é treinar.",
+      "mensagem": "Performance é atender; prática é o tempo reservado para treinar aspectos específicos. Horas de clínica não substituem treino.",
+      "roteiro": [
+        "Você atende há anos. Mas quanto você treina?",
+        "Performance = o ato de atender.",
+        "Prática = parar para treinar um aspecto do atendimento.",
+        "Pelada × treino de chute.",
+        "Pergunta: o que você vai treinar esta semana?"
+      ],
+      "corte_inicio": "0:03:54",
+      "corte_fim": "0:05:52"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Os 4 pilares da prática deliberada.",
+      "mensagem": "Objetivos de aprendizagem, supervisão, feedback e refinamento sucessivo, a partir da definição de Ericsson.",
+      "roteiro": [
+        "Definição de Ericsson e Lehmann (1996).",
+        "Pilar 1: objetivos em passos.",
+        "Pilar 2: alguém que vê o que você não vê.",
+        "Pilar 3: feedback imediato e específico.",
+        "Pilar 4: refinamento sucessivo.",
+        "Repetição sem esses pilares só automatiza."
+      ],
+      "corte_inicio": "0:07:43",
+      "corte_fim": "0:11:12"
+    },
+    {
+      "formato": "post",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Onde você deveria treinar? Na praia.",
+      "mensagem": "A terra firme entedia, o mar desmotiva, a praia (zona de desenvolvimento proximal) desenvolve.",
+      "roteiro": [
+        "Ilustração: terra firme, praia, mar.",
+        "Legenda com os três cenários e a pergunta: onde está seu treino?"
+      ],
+      "corte_inicio": "0:18:06",
+      "corte_fim": "0:20:25"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "10 características de um feedback que funciona.",
+      "mensagem": "Oportuno, imediato, contínuo, individualizado, focado em objetivos, com plano de ação, orientado à tarefa, voltado a deficiências, dado por autoridade confiável, dirigido a fundamentos.",
+      "roteiro": [
+        "Nem todo feedback ajuda.",
+        "As 10 características (dois slides).",
+        "O exemplo do técnico que só treinava fundamentos.",
+        "Aplique na sua supervisão."
+      ],
+      "corte_inicio": "0:25:48",
+      "corte_fim": "0:32:04"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Como pedir feedback ao seu paciente e receber a verdade.",
+      "mensagem": "Seja autêntico, explique por que a honestidade ajuda o tratamento e prefira o cara a cara.",
+      "roteiro": [
+        "Pergunta: seu paciente te diria que a terapia não está ajudando?",
+        "Autenticidade gera autenticidade.",
+        "Explique o porquê.",
+        "Cara a cara > formulário."
+      ],
+      "corte_inicio": "0:33:16",
+      "corte_fim": "0:37:20"
+    },
+    {
+      "formato": "reels",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Repetição não leva à excelência.",
+      "mensagem": "Repetir sem objetivo e sem feedback só torna permanente o que você já faz.",
+      "roteiro": [
+        "Frase-síntese.",
+        "Explicação em 20 segundos.",
+        "Chamada: o que você está apenas repetindo?"
+      ],
+      "corte_inicio": "0:44:10",
+      "corte_fim": "0:45:21"
+    },
+    {
+      "formato": "reels",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Por que o roleplay deveria ser o básico da formação.",
+      "mensagem": "A graduação quase não tem roleplay e o estágio não tem feedback direto; nos grupos da Allos é rotina.",
+      "roteiro": [
+        "Quantas vezes você fez roleplay na faculdade?",
+        "O relato de caso é filtrado.",
+        "Em roleplay você vê o que não via.",
+        "Convite para os grupos."
+      ],
+      "corte_inicio": "0:41:55",
+      "corte_fim": "0:44:10"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Anders Ericsson",
+      "contexto": "Precursor da sistematização da prática deliberada; definição com Lehmann (1996); a ideia de trabalhar além do nível atual de realização confiável. Transcrito como Ericson."
+    },
+    {
+      "nome": "Andreas Lehmann",
+      "contexto": "Coautor da definição de 1996 (transcrito como Lema)."
+    },
+    {
+      "nome": "Lev Vygotsky",
+      "contexto": "Zona de desenvolvimento proximal, usada para calibrar a dificuldade dos objetivos de aprendizagem."
+    },
+    {
+      "nome": "Scott D. Miller",
+      "contexto": "Coautor (com Mark Hubble e Daryl Chow) do livro Better Results, base do curso e fonte dos quatro pilares. Os autores não são nomeados neste encontro; a identificação é do fichamento."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Introdução à Prática Deliberada (Núcleo de Prática Deliberada da Allos)",
+    "objetivo": "Introduzir estudantes e psicólogos ao conceito e ao método da prática deliberada, capítulo a capítulo, a partir do livro Better Results.",
+    "publico": "Estudantes de psicologia e psicólogos, associados e potenciais associados da Allos; alguns novatos a cada encontro.",
+    "tamanho": "Cerca de 8 a 10 participantes ativos.",
+    "duracao": "Cerca de 48 minutos neste encontro (depois fixado em 50 min a 1h10).",
+    "estrutura_padrao": "Retomada; perguntas disparadoras; exposição com slides do livro (trechos traduzidos); discussão com perguntas e relatos; fechamento com síntese e anúncio do próximo capítulo.",
+    "papel_facilitador": "Bernardo: Expositor-mediador: traduz e explica o livro, faz perguntas antes das definições, acolhe relatos e críticas, conecta com a realidade da formação brasileira e da Allos.",
+    "regras_combinados": "Encontros semanais à noite, online; gravações disponíveis no drive para quem perdeu; participação por microfone e chat; referências em PDF (traduzido e original) enviadas pelo facilitador."
+  },
+  "reflexoes_do_facilitador": [
+    "Avisa que a aula será mais reduzida por serem só quatro pilares, mas que é importante deixá-la gravada por ser central.",
+    "Reconhece que praticar deliberadamente é chato, que a adesão é um desafio não resolvido pelos autores do livro e que a Allos busca formas alternativas de tornar a prática mais divertida.",
+    "Conta a própria experiência de graduação, com pouquíssimo roleplay."
+  ],
+  "referencias_a_outros_encontros": [
+    "Os encontros anteriores (PD 01 e PD 02) deram panorama e contextualização sem definir o conceito.",
+    "Os próximos encontros tratarão do processo da prática deliberada e do desafio do compromisso; o próximo capítulo é linha de base (PD 04).",
+    "As habilidades fundamentais transteóricas serão discutidas em aulas posteriores."
+  ],
+  "observacoes": "Facilitador identificado como Bernardo (Núcleo de Prática Deliberada da Allos): ele não diz o nome neste encontro, mas é o mesmo condutor da série, que se refere a si mesmo como Bernardo no PD 02 (0:30:13) e diz o nome no PD 07; há continuidade explícita entre os encontros (retomadas em primeira pessoa). Não é o Alan, citado em terceira pessoa na série. Nome transcrito: Ericson e Lema = Ericsson e Lehmann (1996); Vigotsk = Vygotsky; ASLOS/ALOS = Allos. O time da NBA do exemplo do técnico que só treinava fundamentos foi citado sem certeza pelo próprio facilitador (Los Angeles Clippers). A transcrição tem um trecho confuso quando um participante levanta a mão por engano (0:39:42 a 0:40:13)."
+}

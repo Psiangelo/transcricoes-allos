@@ -1,0 +1,1141 @@
+{
+ "id": "alan-09",
+ "nota": "Alan 09 - Escuta em psicanálise",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Escuta em psicanálise",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Segundo encontro do ciclo de escuta. Alan conclui a escuta lacaniana com exercícios em que encena falas de paciente com ato falho e o grupo deve ouvir, em atenção flutuante, o ponto em que a língua trai a intenção ('ver lá'/'velar'; 'a mala'/'amá-la'), corrigindo a interpretação intuitiva como análise selvagem. Em seguida apresenta a escuta na análise do comportamento a partir de dois pressupostos implícitos de Skinner — navalha de Ockham e razão iluminista como divisão — e conduz um exercício com uma narradora voluntária em que o grupo precisa decompor o relato em direções clínicas, reduzir ('e daí? em uma palavra') e usar as palavras da pessoa; daí a tese de não se viciar em pedir mais informação. Depois caracteriza a TCC clássica (inspiração estoica, problema epistêmico, acesso privilegiado, razão) e sua técnica de escuta — perguntar 'o que passou pela sua cabeça?' —, com demonstração e exercício rápido. O encontro termina com a posição de Alan sobre abordagens (construir uma psicologia por caso; interpretar é uma ciência só) e um debate com uma estudante de TCC, que Alan transforma em lição sobre como os pressupostos de uma abordagem (o que é meio e o que é fim) estruturam o raciocínio de quem a pratica.",
+ "em_uma_frase": "Alan fecha a escuta lacaniana (achar onde a língua trai quem fala) e compara, com teoria caricatural e exercícios ao vivo, a escuta da análise do comportamento (dividir e cortar entidades) e da TCC (perguntar pelo pensamento), terminando com um debate que expõe os pressupostos filosóficos de cada abordagem.",
+ "competencias": [
+  "Escuta clínica",
+  "Interpretação",
+  "Direção do tratamento",
+  "Formulação de caso",
+  "Priorização clínica",
+  "Articulação teoria-prática"
+ ],
+ "abordagens": [
+  "Psicanálise lacaniana",
+  "Psicanálise freudiana",
+  "Análise do comportamento",
+  "Terapia cognitivo-comportamental",
+  "Fenomenologia e existencialismo"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Retomada",
+   "descricao": "Resumo da discussão Kant/Hegel do fim do encontro anterior: hermenêutica clássica (busca a intenção do emissor) × antihermenêutica (interpreta a linguagem/inconsciente); diferença entre Lacan (a língua trai) e os demais freudianos (o inconsciente é o véu). Remete à gravação quem não entendeu.",
+   "funcao": "Reinstalar o pressuposto teórico mínimo para o exercício sem repetir a aula",
+   "duracao_min": 3.4
+  },
+  {
+   "ts": "0:03:24",
+   "bloco": "Dinâmica",
+   "descricao": "Consigna do exercício de escuta lacaniana (identificar o ponto em que a língua traiu o falante) e técnica (atenção flutuante: mensagem + som). Exemplo-âncora já conhecido: 'tímida' corrigida para 'calada'.",
+   "funcao": "Dar o critério de acerto antes do exercício; calibrar com exemplo resolvido",
+   "duracao_min": 2.3
+  },
+  {
+   "ts": "0:05:44",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Meta-comentário sobre a própria didática: sempre os mesmos exemplos paradigmáticos, 'agressivos e visuais', com piada; regra de que quem conhece o exemplo não responde no chat.",
+   "funcao": "Explicitar escolhas didáticas e proteger o exercício de quem já sabe a resposta",
+   "duracao_min": 1.0
+  },
+  {
+   "ts": "0:06:46",
+   "bloco": "Dinâmica",
+   "descricao": "Exemplo 1 em versão longa (estudante animado com um estágio). Chutes no chat; correção de uma troca de palavra sem sentido novo e de uma interpretação intuitiva ('animado = inseguro'), com parêntese sobre análise selvagem.",
+   "funcao": "Treinar o ouvido e ensinar pelo erro o que não é escuta psicanalítica",
+   "duracao_min": 4.9
+  },
+  {
+   "ts": "0:11:39",
+   "bloco": "Dinâmica",
+   "descricao": "Alan reconta o exemplo em versão curta; o grupo acerta. Revelação: 'ver lá' soa 'velar' (encobrir); chave hermenêutica para o caso; na prática, 'catar um ou dois' por sessão e possibilidade de corte.",
+   "funcao": "Andaime de dificuldade: mostrar como o excesso de conteúdo tampa a escuta",
+   "duracao_min": 4.0
+  },
+  {
+   "ts": "0:15:36",
+   "bloco": "Dinâmica",
+   "descricao": "Exemplo 2: relato de sonho com uma mala sobre a mesa; 'a mala não faz sentido' soa 'amá-la não faz sentido'. Lição: não interpretar o sonho, e sim a contradição na linguagem.",
+   "funcao": "Consolidar o critério com exemplo mais difícil",
+   "duracao_min": 3.5
+  },
+  {
+   "ts": "0:19:06",
+   "bloco": "Teoria",
+   "descricao": "Transição ('primeiro teoria, depois exercício'). Skinner, como Freud, não explicita sua filosofia: é preciso inferir os pressupostos. Navalha de Ockham: definição heurística, exemplo 'como eu acordei hoje' e limites do critério.",
+   "funcao": "Dar o primeiro 'senhor' da escuta analítico-comportamental",
+   "duracao_min": 8.3
+  },
+  {
+   "ts": "0:27:26",
+   "bloco": "Teoria",
+   "descricao": "Aplicação: Skinner não refutou o inconsciente, apenas o torna hipótese desnecessária.",
+   "funcao": "Ligar a heurística a uma posição clínica",
+   "duracao_min": 0.5
+  },
+  {
+   "ts": "0:27:57",
+   "bloco": "Teoria",
+   "descricao": "Iluminismo e razão como divisão (ratio): metáforas do carro/motor/pistão e do amor/conversar/dar um passo.",
+   "funcao": "Dar o segundo 'senhor': decompor o complexo em partes simples",
+   "duracao_min": 4.7
+  },
+  {
+   "ts": "0:32:38",
+   "bloco": "Teoria",
+   "descricao": "Síntese dos dois movimentos simultâneos da escuta analítico-comportamental (quebrar; não pôr magia). Contraste com a TCC: ambiente × ambiente + crença.",
+   "funcao": "Converter filosofia em instrução operacional de escuta",
+   "duracao_min": 2.2
+  },
+  {
+   "ts": "0:34:48",
+   "bloco": "Dinâmica",
+   "descricao": "Recrutamento de uma narradora e de um 'raciocinador'; a narradora conta uma dificuldade real e não clínica.",
+   "funcao": "Gerar material vivo e inédito para o exercício",
+   "duracao_min": 2.9
+  },
+  {
+   "ts": "0:37:42",
+   "bloco": "Rodada de respostas",
+   "descricao": "O raciocinador identifica 'dinheiro'; Alan pressiona ('quebra!') e modela a árvore de ramos (ganhar, gastar menos, poupar) e o que evitar pela navalha (herança transgeracional).",
+   "funcao": "Demonstrar o raciocínio esperado a partir da resposta do aluno",
+   "duracao_min": 5.4
+  },
+  {
+   "ts": "0:43:04",
+   "bloco": "Feedback",
+   "descricao": "Segundo tema do raciocinador ('imagem perfeita da casa'); silêncio do grupo; Alan critica a interpretação intuitiva e a sugestão do chat de pedir mais descrição; recomenda refazer o exercício de escuta fenomenológica.",
+   "funcao": "Nomear dois vícios de escuta: projetar e pedir mais dados",
+   "duracao_min": 4.7
+  },
+  {
+   "ts": "0:47:45",
+   "bloco": "Dúvidas",
+   "descricao": "Pergunta do chat: análise do comportamento trabalha 'no concreto e no agora'? Não necessariamente: nexo causal, tendência ao passado. Delimitação: 'estou ensinando escuta, não intervenção'.",
+   "funcao": "Corrigir estereótipo e manter o foco",
+   "duracao_min": 1.5
+  },
+  {
+   "ts": "0:49:14",
+   "bloco": "Rodada de respostas",
+   "descricao": "Uma participante descreve fatos; Alan pergunta 'e daí? defina em uma palavra' até 'ansiedade para acabar logo'; refinamento buscando o termo da narradora, que corrige as projeções do grupo; chega-se a 'lidar com a fase'.",
+   "funcao": "Treinar redução e formulação na linguagem do paciente",
+   "duracao_min": 9.3
+  },
+  {
+   "ts": "0:58:31",
+   "bloco": "Rodada de respostas",
+   "descricao": "Busca de um terceiro tema: 'controle' é corrigido para 'equilíbrio/tranquilidade', palavras que ninguém lembrou.",
+   "funcao": "Evidenciar falha na escuta fenomenológica de base",
+   "duracao_min": 2.6
+  },
+  {
+   "ts": "1:01:07",
+   "bloco": "Fechamento",
+   "descricao": "Fechamento do bloco: tese de não se viciar em pedir mais informação (20 minutos de avaliação bastam para quem sabe escutar); síntese dos 'dois senhores'; tarefa de 'brincar de análise do comportamento' em casa; checagem de compreensão.",
+   "funcao": "Consolidar, generalizar e transferir para o cotidiano",
+   "duracao_min": 3.2
+  },
+  {
+   "ts": "1:04:19",
+   "bloco": "Teoria",
+   "descricao": "Pergunta 'sistêmica ou TCC?' e escolha da TCC a partir do comentário do chat. TCC clássica como técnica estruturada ('muleta'); convite a observar vídeos de clínicos reais.",
+   "funcao": "Ponte entre blocos usando a fala de uma aluna",
+   "duracao_min": 2.0
+  },
+  {
+   "ts": "1:06:19",
+   "bloco": "Teoria",
+   "descricao": "A 'vibe' estoica: Marco Aurélio nas termas, primeiros cristãos diante dos leões, astro do rock que se mata, dois pacientes com diabetes.",
+   "funcao": "Tornar visual o pressuposto 'sofremos das cognições'",
+   "duracao_min": 7.0
+  },
+  {
+   "ts": "1:13:22",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Cada escola universaliza um pedaço da realidade (Adler, Freud, TCC). Na TCC, o problema é epistêmico e corrigido por discussão racional; exemplo de Beck (esposa sai sem se despedir) e experimento de registro.",
+   "funcao": "Situar a TCC entre as escolas e mostrar o procedimento",
+   "duracao_min": 3.2
+  },
+  {
+   "ts": "1:16:37",
+   "bloco": "Teoria",
+   "descricao": "Dois pressupostos da técnica (acesso privilegiado à própria realidade, com espectro de posições; razão como via de conhecimento) e a técnica: 'o que passou pela sua cabeça quando isso aconteceu?'.",
+   "funcao": "Fundamentar a técnica simples na filosofia",
+   "duracao_min": 5.3
+  },
+  {
+   "ts": "1:21:53",
+   "bloco": "Demonstração",
+   "descricao": "Alan faz a pergunta à narradora do exercício anterior; surge 'isso nunca vai acabar', o que prioriza 'lidar com a fase'. 'Um fato nunca me conta nada.'",
+   "funcao": "Mostrar a vantagem da escuta estruturada para priorizar",
+   "duracao_min": 3.1
+  },
+  {
+   "ts": "1:24:59",
+   "bloco": "Dúvidas",
+   "descricao": "'Sinto que não ficou tão clara minha explicação... medo de ser repetitivo'; checagem.",
+   "funcao": "Meta-comentário e calibragem de ritmo",
+   "duracao_min": 0.4
+  },
+  {
+   "ts": "1:25:25",
+   "bloco": "Dinâmica",
+   "descricao": "Exercício rápido: voluntária conta sua semana de provas; o grupo chuta no chat o significado de um fato; Alan pergunta o pensamento dela e a direção fica evidente; comparação com hipótese construída ('injustiça').",
+   "funcao": "Contrastar o chute intuitivo com a pergunta técnica",
+   "duracao_min": 5.2
+  },
+  {
+   "ts": "1:30:37",
+   "bloco": "Discussão",
+   "descricao": "Pergunta 'qual a sua abordagem?': Alan diz não acreditar em abordagem; boa terapia constrói uma psicologia por caso; integração é mais fácil na interpretação; interpretar é uma ciência só.",
+   "funcao": "Explicitar a posição do facilitador e o porquê da comparação entre escolas",
+   "duracao_min": 3.7
+  },
+  {
+   "ts": "1:34:18",
+   "bloco": "Discussão",
+   "descricao": "Objeção de uma estudante de TCC ('boneco palito'); Alan reconhece, faz disclaimer, distingue escuta de relação (empirismo colaborativo), explica pensamento automático como chave hermenêutica e conduz a 'meta-conversa' sobre axiomas; tréplica dela; Alan interrompe pedindo licença e formula a inversão meio/fim TCC × análise do comportamento.",
+   "funcao": "Transformar o conflito em conteúdo: os pressupostos aparecem no raciocínio de quem objeta",
+   "duracao_min": 17.3
+  },
+  {
+   "ts": "1:51:38",
+   "bloco": "Fechamento",
+   "descricao": "A participante sai; proposta de 'parte 3 e 4' do ciclo (sistêmica, modelos de escuta mais visuais) ou troca de tema; encerra a gravação para 5 minutos de feedback.",
+   "funcao": "Decidir a continuidade com o grupo",
+   "duracao_min": 1.6
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Antihermenêutica",
+   "definicao": "Projeto interpretativo (de Hegel, continuado por Marx, Freud e Lacan) que não busca a intenção de quem comunica, mas analisa o próprio meio — a linguagem, o inconsciente — que impede a mensagem de chegar como foi intencionada. 'Faço análise do inconsciente e não da mensagem.' Freud o praticava sem teorizá-lo; os pós-freudianos o assumem explicitamente.",
+   "exemplo": "A linguagem é o muro, tal qual as antinomias são o muro para Kant.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:01:09"
+  },
+  {
+   "nome": "Hermenêutica",
+   "definicao": "No sentido clássico (antes do século XX), a arte de compreender a intenção do comunicador, pressupondo que o texto foi escrito 'de uma inteligência para outra inteligência'.",
+   "exemplo": "Ao receber uma carta ou um convite para sair, quero entender o objetivo de quem me escreveu ou me convidou.",
+   "abordagem": "",
+   "ts": "0:00:00"
+  },
+  {
+   "nome": "Ato falho",
+   "definicao": "Momento em que a imagem acústica que sai da boca contradiz a intenção de dizer e produz um sentido outro — algo interdito que é dito nas entrelinhas. Para Lacan, é a língua que trai o falante. Só conta quando surge sentido novo; trocas de palavra sem novo sentido não são chave hermenêutica.",
+   "exemplo": "Querer 'ver lá' o que vai acontecer e dizer 'velar' (encobrir); 'a mala não faz sentido' soando 'amá-la não faz sentido'; 'tímida' corrigida para 'calada'.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:13:05"
+  },
+  {
+   "nome": "Atenção flutuante",
+   "definicao": "Método freudiano de escuta 'uniformemente dividida': não afundar nem aprofundar no conteúdo, atendendo simultaneamente à mensagem e ao som, porque é a contradição entre ambos que indica o que ficou interdito.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:04:35"
+  },
+  {
+   "nome": "Significante",
+   "definicao": "Aparece como 'imagem acústica': o som efetivamente pronunciado, que pode divergir da intenção comunicativa e produzir outro sentido.",
+   "exemplo": "'velar' × 'ver lá'",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:07:48"
+  },
+  {
+   "nome": "Corte da sessão",
+   "definicao": "Um dos encerramentos possíveis na clínica lacaniana é encerrar a sessão com um corte justamente num ato falho escutado.",
+   "exemplo": "",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:13:05"
+  },
+  {
+   "nome": "Interpretação intuitiva",
+   "definicao": "Operação hermenêutica em que o intérprete 'empresta a sua alma ao texto': imagina como ele se sentiria na situação e conclui sobre a vida do outro. Baseia-se no princípio razoável 'nada de humano me é alheio', mas não é escuta psicanalítica nem analítico-comportamental.",
+   "exemplo": "Supor que o paciente diz estar 'animado' porque, na verdade, está inseguro; supor que a narradora sofre por uma 'imagem perfeita da casa'.",
+   "abordagem": "",
+   "ts": "0:09:42"
+  },
+  {
+   "nome": "Análise selvagem",
+   "definicao": "Projetar hipóteses sobre o paciente sem ancoragem na fala nem no referencial teórico; é o que o exercício lacaniano quer evitar.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:10:40"
+  },
+  {
+   "nome": "Navalha de Ockham",
+   "definicao": "Argumento heurístico de Guilherme de Ockham: entre duas explicações para um fenômeno, prefira a que usa menos entidades. Critério operacional, não verdade universal; conta entidades, não a plausibilidade global, e por isso nem sempre escolhe a hipótese mais provável.",
+   "exemplo": "'Como eu acordei hoje?': Deus sussurrando exige muitas entidades; mas 'acordei sozinho' tem menos entidades que o despertador e não é mais provável; namorada e meteorito exigem entidades parecidas, mas não são igualmente plausíveis.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:22:41"
+  },
+  {
+   "nome": "Heurística",
+   "definicao": "Critério para tomar decisões que estabelece uma verdade operacional, não universal nem metafísica.",
+   "exemplo": "Sei que o sol nasce amanhã porque nasceu ontem e sempre nasceu.",
+   "abordagem": "",
+   "ts": "0:21:44"
+  },
+  {
+   "nome": "Behaviorismo radical",
+   "definicao": "Filosofia da análise do comportamento de Skinner; como Skinner não era filosoficamente preciso e chamava tudo de 'ciência', seus pressupostos (navalha de Ockham e razão iluminista) precisam ser inferidos do texto. Dispensa o inconsciente por parcimônia, não por refutação.",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:19:06"
+  },
+  {
+   "nome": "Razão como divisão",
+   "definicao": "Ideal iluminista (razão vem de 'ratio', dividir): todo fenômeno complexo é soma de componentes simples articulados; entender as partes e articulá-las permite entender o todo. Base do primeiro movimento da escuta analítico-comportamental.",
+   "exemplo": "Carro → motor → pistão; amor → conquistar → conversar → produzir sons; chegar na pessoa → dar um passo.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:29:04"
+  },
+  {
+   "nome": "Hipótese clínica",
+   "definicao": "Formulação curta e redutiva do problema, extraída do que o paciente disse, que já sugere direções de ação; idealmente usa as palavras do próprio paciente. Uma descrição de fatos não é hipótese.",
+   "exemplo": "'Ansiedade para acabar logo', refinada para 'lidar com a fase' (termo da narradora).",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:52:47"
+  },
+  {
+   "nome": "Análise funcional",
+   "definicao": "Investigação da função que um comportamento ou crença cumpre na vida da pessoa; na análise do comportamento, junto da análise causal e dos reforçadores atuais; na TCC, parte da identificação do pensamento automático.",
+   "exemplo": "",
+   "abordagem": "Análise do comportamento",
+   "ts": "1:40:58"
+  },
+  {
+   "nome": "Pensamento automático",
+   "definicao": "Na TCC, a chave hermenêutica: a investigação do porquê e da função, as regras e as crenças nucleares, e a conceitualização do caso partem da identificação do pensamento do sujeito sobre o fato.",
+   "exemplo": "'Isso nunca vai acabar' ao visitar a obra; 'queria estar fazendo outras coisas' ao estudar.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "1:42:36"
+  },
+  {
+   "nome": "Distorção cognitiva",
+   "definicao": "Leitura imprecisa ou disfuncional do mundo que a TCC busca retificar por discussão racional, produzindo uma 'ortodoxia' no pensamento — mais real e/ou mais funcional.",
+   "exemplo": "Paciente conclui que o casamento acabou porque a esposa saiu sem se despedir (exemplo de Beck).",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "1:14:26"
+  },
+  {
+   "nome": "Acesso privilegiado à própria realidade",
+   "definicao": "Pressuposto de que ninguém sabe melhor do paciente do que ele mesmo. Há um espectro entre escolas: das que o afirmam às que dizem que a pessoa é a mais 'tapada' sobre a própria vida, com posições intermediárias (acesso diferente). Beck o afirma de forma unilateral, com ressalva das distorções.",
+   "exemplo": "'O corno é o último a saber'; amigos sabem que você está apaixonado antes de você; perguntar ao sujeito ou à colega de trabalho se ele ganha de um gorila dá respostas diferentes; a escala de 0 a 10 pressupõe esse acesso.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "1:16:37"
+  },
+  {
+   "nome": "Empirismo colaborativo",
+   "definicao": "Forma da relação terapêutica na TCC: construir com o paciente o que é verdade, conferir hipóteses, compartilhar anotações, com o objetivo de tornar a pessoa terapeuta de si mesma. Pertence à relação, não à hermenêutica da abordagem; é contraintuitivo e difícil.",
+   "exemplo": "É comum clínicos esconderem as anotações, escrevendo virados para si — o oposto do que o empirismo colaborativo pede.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "1:38:30"
+  },
+  {
+   "nome": "Estoicismo",
+   "definicao": "Inspiração ('vibe') da TCC de Beck, sem identidade com o estoicismo antigo: sofremos das cognições que sobrepomos à realidade, e não da realidade em si.",
+   "exemplo": "Marco Aurélio visualizava o dia inteiro alguém espirrando água nele nos banhos públicos para não se incomodar quando acontecesse; primeiros cristãos serenos diante dos leões; dois pacientes com diabetes com leituras opostas.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "1:07:15"
+  },
+  {
+   "nome": "Cosmovisão",
+   "definicao": "Pressupostos filosóficos de uma abordagem, que definem o que é fundamento e o que é meio; aparecem até no raciocínio de quem tenta complexificar a abordagem.",
+   "exemplo": "TCC: o pensamento é fundamento, a realidade é meio; análise do comportamento: mudar o ambiente é o fim, o pensamento é meio.",
+   "abordagem": "",
+   "ts": "1:50:37"
+  },
+  {
+   "nome": "Psicologia comparada",
+   "definicao": "Método do ciclo de escuta: apresentar uma caricatura de como cada escola escuta e confrontá-las (depois também com historiadores e juristas) para mostrar que interpretar é mais aberto do que a psicologia costuma fazer.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "1:45:22"
+  },
+  {
+   "nome": "Inconsciente",
+   "definicao": "Para os freudianos em geral, o véu que impede a mensagem de ser transmitida como foi intencionada; para o behaviorismo radical, uma entidade metafísica desnecessária pela navalha de Ockham.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:03:24"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Escuta lacaniana",
+   "objetivo": "Treinar o ouvido para localizar o ponto em que a língua trai a intenção comunicativa (ato falho), sem aprofundar no conteúdo e sem projetar.",
+   "competencias": [
+    "Escuta clínica",
+    "Interpretação"
+   ],
+   "configuracao": "Grupo todo, online; o facilitador encena o paciente em monólogo; participantes respondem no chat.",
+   "tempo": "~15 min (dois exemplos + exemplo-âncora)",
+   "materiais": "2–3 monólogos curtos (de preferência fictícios) com um ato falho que produza sentido novo, em versão longa e curta; um exemplo-âncora já resolvido.",
+   "consigna": "Vou fazer a vez do paciente. Identifiquem o momento em que a língua impediu quem fala de comunicar o que queria — o momento em que foi traído pela língua. Não afundem no conteúdo: prestem atenção na mensagem e no som. Quem já conhece o exemplo não escreve no chat. Podem chutar à vontade; errar é ótimo porque dá para comentar em cima.",
+   "passos": [
+    "Retomar em 2–3 min a teoria (antihermenêutica; a língua trai).",
+    "Dar um exemplo-âncora resolvido ('tímida' corrigida para 'calada').",
+    "Contar o monólogo 1 em versão longa, com o ato falho no meio (querer 'ver lá' → dizer 'velar').",
+    "Abrir chutes no chat e comentar cada erro (troca irrelevante; interpretação intuitiva).",
+    "Se o grupo não achar, recontar versão curta.",
+    "Revelar: intenção × imagem acústica, sentido novo e hipótese clínica que ele abre.",
+    "Monólogo 2, mais difícil (sonho da mala: 'a mala' → 'amá-la'); enfatizar não interpretar o sonho.",
+    "Checar compreensão."
+   ],
+   "feedback": "Critério: é ato falho quando a forma sonora produz um sentido outro que contradiz a intenção ('algo interdito dito nas entrelinhas'); troca de palavras sem sentido novo não conta; hipóteses sobre sentimentos são interpretação intuitiva/análise selvagem; estranhamentos de conteúdo não são o ponto.",
+   "exemplos_praticos": "Na versão longa, o grupo se prendeu a detalhes esquisitos e a hipóteses emocionais; um participante notou uma troca de termos irrelevante. Na versão curta, vários acertaram. No segundo exemplo uma participante acertou rápido; parte do grupo já conhecia.",
+   "variacoes": "Criar exemplos próprios; graduar do curto ao longo; repetir exemplos paradigmáticos para quem é novo pedindo silêncio aos veteranos.",
+   "armadilhas": "Veteranos que já sabem as respostas; virar interpretação de sonho ou de sentimentos; confundir escuta com intervenção (o que fazer com o corte fica para outro encontro).",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:03:24"
+  },
+  {
+   "nome": "Dinâmica - Escuta em análise do comportamento",
+   "objetivo": "Treinar a escuta 'racional': decompor um relato em temas e sub-ramos operacionalizáveis (direções clínicas) e evitar entidades desnecessárias, usando apenas o que foi dito.",
+   "competencias": [
+    "Escuta clínica",
+    "Formulação de caso",
+    "Direção do tratamento",
+    "Priorização clínica"
+   ],
+   "configuracao": "Online, grupo todo; 1 narradora voluntária (dificuldade real, não precisa ser clínica), 1 'raciocinador' que responde primeiro, depois o grupo por voz e chat. Não é roleplay de atendimento.",
+   "tempo": "~30 min de exercício após ~15 min de teoria",
+   "materiais": "Nenhum; recomenda-se o facilitador anotar as palavras exatas da narradora.",
+   "consigna": "Narradora: 'Conte algo com que você está tendo dificuldade — trabalho, alguma relação ou algo mais pessoal; 3 a 5 minutinhos, com um pouco de contexto.' Raciocinador: 'Se for fundamental, pergunte, mas em geral só deixa ela contar.' Depois: 'Do ponto de vista de resolução de problema, como você organiza essa pletora de fenômenos de um jeito que a gente consiga atuar? Quais recortes você fez?'",
+   "passos": [
+    "Dar a teoria mínima (navalha + razão como divisão; 'dois senhores').",
+    "Recrutar narradora e raciocinador.",
+    "Deixar a narração correr sem interrupção.",
+    "Raciocinador nomeia o primeiro tema; facilitador pressiona a quebrar ('quais as coisas que você pode endereçar com relação a dinheiro?').",
+    "Facilitador modela a árvore de ramos (tem/não tem dinheiro; ganhar, gastar menos, poupar) e o que a navalha corta (herança transgeracional).",
+    "Pedir segundo tema e devolver ao grupo a avaliação ('o que vocês acham do que ele falou?').",
+    "Abrir ao grupo; para cada resposta descritiva perguntar 'e daí? por que isso importa clinicamente? defina em uma palavra'.",
+    "Refinar a formulação procurando o termo usado pela narradora.",
+    "Pedir à narradora que confira os fatos.",
+    "Buscar mais temas (meta: pelo menos três).",
+    "Sintetizar, checar compreensão e dar tarefa de casa ('brincar de análise do comportamento')."
+   ],
+   "feedback": "Critérios: redução (menos entidades que o relato original); hipótese operacionalizável que sugere ação; diferenciar fenômenos vizinhos (pressa × expectativa frustrada); ancoragem no texto e nas palavras do paciente ('lidar com a fase' melhor que 'ansiedade'); sem projeção e sem pedir mais dados quando já há o suficiente.",
+   "exemplos_praticos": "Uma participante relatou o desgaste com a reforma de um imóvel (gastos, sono, obra refeita). O raciocinador apontou dinheiro/risco e depois uma 'imagem idealizada da casa' (criticada como projeção). O chat sugeriu 'pedir para especificar', 'trabalhar no agora', 'controle', 'previsibilidade', 'insegurança', 'expectativa', 'pressa' — todas corrigidas. Uma participante chegou a 'ansiedade para acabar logo' (acerto do alvo). A narradora desmentiu fatos inventados pelo grupo. Direções finais: dinheiro; 'lidar com a fase'; 'equilíbrio'/'tranquilidade' (termos que ninguém lembrou).",
+   "variacoes": "Reusar a mesma narrativa no bloco seguinte com a escuta de outra abordagem (Alan fez com a TCC); tarefa de praticar com familiares.",
+   "armadilhas": "Escuta fenomenológica fraca faz o exercício se perder (fazer antes o exercício de repetir o que a pessoa disse); perguntas sobre intervenção desviam o foco; respostas que só descrevem fatos; ninguém lembra as palavras exatas do narrador.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:34:48"
+  },
+  {
+   "nome": "Dinâmica - Escuta em TCC",
+   "objetivo": "Vivenciar a técnica mais estruturada de escuta — perguntar pelo pensamento — e contrastá-la com o chute intuitivo do grupo.",
+   "competencias": [
+    "Escuta clínica",
+    "Interpretação",
+    "Direção do tratamento"
+   ],
+   "configuracao": "Online; uma voluntária conta algo da vida; o grupo responde no chat; o facilitador faz a pergunta técnica.",
+   "tempo": "~3 min de demonstração + ~5 min de exercício",
+   "materiais": "Nenhum.",
+   "consigna": "'A pessoa vai contar alguma coisa, você escolhe um fenômeno que parece interessante, pergunta o que passa pela cabeça da pessoa, e eu te pergunto se ficou óbvia a direção clínica.' Para o grupo: 'O que significa [fato do relato]? Todos respondem no chat, menos ela. Chutem intuitivamente.'",
+   "passos": [
+    "Demonstração com a narradora do exercício anterior: 'o que passa pela sua cabeça quando você vai ver a obra?' → 'isso nunca vai acabar' → prioriza 'lidar com a fase'.",
+    "Pedir uma voluntária para contar algo cotidiano (ex.: semana de provas, muitas horas ao computador).",
+    "Escolher um fato e pedir que o grupo chute o significado no chat.",
+    "Perguntar à voluntária: 'o que passa pela sua cabeça quando...? me conta um pensamento que vem'.",
+    "Comparar chutes e resposta: a direção fica óbvia sem malabarismos.",
+    "Mostrar que uma hipótese construída pela análise fria dos fatos (ex.: injustiça) é possível, mas exige interpretar de verdade.",
+    "Indicar o próximo passo: aprofundar, de modo delicado ou interventivo."
+   ],
+   "feedback": "Acertar por coincidência no chat não conta; o critério é se a direção clínica ficou evidente a partir do pensamento relatado. Alan nota que todos os chutes foram na mesma direção e que faltam exercícios de criatividade clínica.",
+   "exemplos_praticos": "Voluntária relatou cansaço por horas de estudo; pensamento: queria estar fazendo outras coisas, sendo mais criativa. Uma participante acertou por coincidência no chat.",
+   "variacoes": "Usar a mesma narrativa da dinâmica anterior para mostrar o ganho de priorização.",
+   "armadilhas": "Parecer simplista para quem pratica TCC (gerou a discussão final): deixar claro que a técnica de escuta é simples, mas a conceitualização e a relação não; não confundir com o hábito genérico de 'pedir mais informação'.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "1:25:25"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Retomada econômica com remissão à gravação",
+   "descricao": "Resume em ~2 min uma discussão filosófica densa e manda quem não entendeu rever a gravação, sem gastar o encontro repetindo.",
+   "exemplo": "'Se não deu para pegar com o resumo rápido, que provavelmente não rolou, volta na gravação.'",
+   "ts": "0:02:19"
+  },
+  {
+   "movimento": "Formato fixo anunciado",
+   "descricao": "Cada abordagem segue 'primeiro explicação teórica, depois exerciciozinho prático', o que dá previsibilidade ao ciclo.",
+   "exemplo": "Transição para a análise do comportamento.",
+   "ts": "0:19:06"
+  },
+  {
+   "movimento": "Didática explicitada",
+   "descricao": "Explica por que repete sempre os mesmos exemplos paradigmáticos, 'agressivos e visuais', com piada, e por que tenta deixar interessantes até perguntas ruins.",
+   "exemplo": "'Eu sempre dou os mesmos exemplos... é uma escolha didática.'",
+   "ts": "0:05:44"
+  },
+  {
+   "movimento": "Proteger o exercício dos veteranos",
+   "descricao": "Pede que quem conhece o exemplo não responda no chat.",
+   "exemplo": "'Se você conhece, não coloca a resposta no chat, porque vai só atrapalhar as outras pessoas.'",
+   "ts": "0:06:46"
+  },
+  {
+   "movimento": "Legitimar o erro",
+   "descricao": "Convida ao chute e diz que errar é bom porque gera comentário.",
+   "exemplo": "'Pode chutar, não paga nada. Vocês errando é muito bom.'",
+   "ts": "0:09:28"
+  },
+  {
+   "movimento": "Erro como mini-aula",
+   "descricao": "Ante uma resposta projetiva, faz um 'parêntese', nomeia a operação (interpretação intuitiva), reconhece o que tem de razoável e marca por que não serve no referencial.",
+   "exemplo": "Chute 'animado = inseguro'.",
+   "ts": "0:09:42"
+  },
+  {
+   "movimento": "Ajuste de dificuldade em tempo real",
+   "descricao": "Quando o grupo não acha o ato falho, reconta mais curto e extrai a lição do próprio ajuste.",
+   "exemplo": "'Vou contar menos história, que é para ficar mais fácil.'",
+   "ts": "0:11:39"
+  },
+  {
+   "movimento": "Sondagem por mão levantada",
+   "descricao": "Checa conhecimento prévio e compreensão; autoriza dizer 'não'.",
+   "exemplo": "'Levanta a mão quem nunca ouviu falar da navalha'; 'pode falar não, gente, que eu dou mais exemplo'.",
+   "ts": "0:21:27"
+  },
+  {
+   "movimento": "Ensinar pelos limites do conceito",
+   "descricao": "Mostra onde a navalha falha, dando ao aluno um uso crítico da ferramenta.",
+   "exemplo": "Despertador × acordar sozinho; namorada × meteorito.",
+   "ts": "0:26:22"
+  },
+  {
+   "movimento": "Papéis claros e baixo risco",
+   "descricao": "Monta o exercício com narradora e raciocinador, avisa que não é roleplay de atendimento e que a história não precisa ser clínica; ter um designado dá 'alguém para quem jogar'.",
+   "exemplo": "'Não precisa ser clínico, 3 a 5 minutinhos'; 'Miguel, só deixa ela contar'.",
+   "ts": "0:35:35"
+  },
+  {
+   "movimento": "Pressão socrática curta",
+   "descricao": "Repete 'e daí? por que importa para você como clínica? defina numa palavra' até a aluna sair da descrição e formular hipótese; depois elogia e propõe refinamento.",
+   "exemplo": "Resposta que listava fatos → 'ansiedade para acabar logo'.",
+   "ts": "0:50:50"
+  },
+  {
+   "movimento": "Devolver a avaliação ao grupo",
+   "descricao": "Pede que o grupo avalie a resposta de um colega; diante do silêncio, dá a própria avaliação e uma recomendação de treino.",
+   "exemplo": "'O que vocês acham do que ele falou?... Nada?'",
+   "ts": "0:43:04"
+  },
+  {
+   "movimento": "Narrador como verificador",
+   "descricao": "Pergunta à própria narradora o termo que usou; ela desmonta as projeções do grupo, evidência de que a escuta fenomenológica se perdeu.",
+   "exemplo": "A narradora corrige: não havia pressa nem prazo.",
+   "ts": "0:54:43"
+  },
+  {
+   "movimento": "Diagnóstico franco do grupo",
+   "descricao": "Critica o desempenho coletivo sem expor indivíduos e aponta o que treinar.",
+   "exemplo": "'Todo mundo mandou tão mal que vocês precisam treinar isso mais do que qualquer outra coisa'; 'precisamos de exercícios de criatividade clínica'.",
+   "ts": "0:55:41"
+  },
+  {
+   "movimento": "Delimitar o escopo",
+   "descricao": "Quando perguntas desviam para intervenção, lembra que o exercício é de escuta; admite quando mistura níveis.",
+   "exemplo": "'Não estou ensinando como o trabalho acontece, estou explicando como se escuta.'",
+   "ts": "0:48:46"
+  },
+  {
+   "movimento": "Ponte com a fala do aluno",
+   "descricao": "Oferece escolha ('sistêmica ou TCC?') e usa o comentário de uma participante como gancho para o bloco seguinte.",
+   "exemplo": "'O comentário dela é o que me fez querer ir para TCC agora.'",
+   "ts": "1:04:19"
+  },
+  {
+   "movimento": "Reaproveitar material vivo",
+   "descricao": "Refaz a escuta da mesma narrativa com a técnica da TCC, tornando concreta a comparação.",
+   "exemplo": "Pergunta à narradora o que passa pela cabeça dela ao ver a obra.",
+   "ts": "1:21:53"
+  },
+  {
+   "movimento": "Meta-comentário sobre clareza",
+   "descricao": "Verbaliza a impressão de não ter sido claro e o medo de ser repetitivo, e checa.",
+   "exemplo": "'Sinto que não ficou tão clara minha explicação.'",
+   "ts": "1:24:59"
+  },
+  {
+   "movimento": "Discordância transformada em aula",
+   "descricao": "Dá razão à objeção, repete o disclaimer (precisão sacrificada pela didática), chama a atenção do grupo para 'o que acabou de acontecer' e mostra que a objeção exemplifica os pressupostos da abordagem; checa com a participante.",
+   "exemplo": "Debate com a estudante de TCC.",
+   "ts": "1:37:24"
+  },
+  {
+   "movimento": "Interromper com licença e desculpa",
+   "descricao": "Interrompe para não perder o ponto central, pedindo licença, e se desculpa depois.",
+   "exemplo": "'Deixa eu interromper, por favor... perdão eu ter te interrompido.'",
+   "ts": "1:49:39"
+  },
+  {
+   "movimento": "Fechamento negociado",
+   "descricao": "Pergunta se o grupo está cansado ou já tem ferramentas suficientes, propõe continuação ou mudança de tema e ouve feedback fora da gravação.",
+   "exemplo": "'Parte 3, parte 4... vou parar a gravação e escuto vocês.'",
+   "ts": "1:52:31"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Na escuta psicanalítica, não afunde no conteúdo: ouça a mensagem e o som ao mesmo tempo.",
+   "justificativa": "A contradição entre intenção e imagem acústica indica o que ficou interdito.",
+   "contexto": "Escuta lacaniana/freudiana, sobretudo em relatos longos.",
+   "competencia": "Escuta clínica",
+   "ts": "0:04:35"
+  },
+  {
+   "dica": "Só trate como ato falho a troca que produz sentido novo.",
+   "justificativa": "Substituições sem novo sentido não dão chave hermenêutica ('nada de novo foi dito').",
+   "contexto": "Ao selecionar o que marcar na fala.",
+   "competencia": "Escuta clínica",
+   "ts": "0:08:45"
+  },
+  {
+   "dica": "Espere 'catar um ou dois' atos falhos por sessão; se for lacaniano, considere encerrar com um corte nesse ponto.",
+   "justificativa": "O ato falho dá uma hipótese potente sobre o caso; o corte é um dos encerramentos possíveis.",
+   "contexto": "Clínica lacaniana.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:13:05"
+  },
+  {
+   "dica": "Diante de um sonho, escute como o paciente fala do sonho em vez de interpretar o sonho.",
+   "justificativa": "'O sonho não importa; o que importa é a contradição na linguagem.'",
+   "contexto": "Escuta lacaniana.",
+   "competencia": "Interpretação",
+   "ts": "0:18:03"
+  },
+  {
+   "dica": "Desconfie da interpretação intuitiva ('eu, no lugar dele, me sentiria...').",
+   "justificativa": "É emprestar sua alma ao paciente; razoável como princípio, mas sai do referencial e vira análise selvagem.",
+   "contexto": "Sempre que a hipótese não estiver ancorada no que foi dito.",
+   "competencia": "Interpretação",
+   "ts": "0:09:42"
+  },
+  {
+   "dica": "Quebre o problema em partes até algo tão simples quanto 'dar um passo', e depois rearticule.",
+   "justificativa": "Nenhuma parte é mágica; entendidas as partes, o todo fica tratável.",
+   "contexto": "Escuta analítico-comportamental; resolução de problemas.",
+   "competencia": "Escuta clínica",
+   "ts": "0:32:38"
+  },
+  {
+   "dica": "Prefira explicações com menos entidades: ambiente antes de crença, 'ganha mal' antes de herança transgeracional.",
+   "justificativa": "Navalha de Ockham; explicações infladas criam complexidade desnecessária (sabendo que menos entidades nem sempre é o mais provável).",
+   "contexto": "Formulação de hipóteses na análise do comportamento.",
+   "competencia": "Formulação de caso",
+   "ts": "0:41:01"
+  },
+  {
+   "dica": "Organize cada tema como árvore de ramos operacionalizáveis (ex.: dinheiro → ganhar, gastar menos, poupar).",
+   "justificativa": "Cada ramo vira pergunta ou ação clínica.",
+   "contexto": "Após identificar um macrotema.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:40:05"
+  },
+  {
+   "dica": "Depois de listar fatos, pergunte-se 'e daí? por que isso importa clinicamente?' e condense em uma palavra ou construção.",
+   "justificativa": "Descrição não é hipótese; a hipótese clínica orienta a ação.",
+   "contexto": "Ao sintetizar o que ouviu.",
+   "competencia": "Formulação de caso",
+   "ts": "0:51:51"
+  },
+  {
+   "dica": "Formule o problema com as palavras do próprio paciente.",
+   "justificativa": "É mais elegante e evita que um rótulo genérico ('ansiedade') leve a lugares errados.",
+   "contexto": "Ao nomear o foco clínico.",
+   "competencia": "Construção frasal",
+   "ts": "0:56:33"
+  },
+  {
+   "dica": "Não misture fenômenos vizinhos (pressa para acabar ≠ expectativa frustrada).",
+   "justificativa": "Cada um leva a uma direção clínica diferente; escutar é dividir.",
+   "contexto": "Formulação de hipóteses.",
+   "competencia": "Escuta clínica",
+   "ts": "0:53:56"
+  },
+  {
+   "dica": "Não se vicie em pedir mais informação, concretude, 'trazer para o corpo' ou 'para o presente'.",
+   "justificativa": "São técnicas que funcionam para tudo e por isso são rasas; viram muleta e desacostumam a interpretar. Quase nunca é errado, mas melhor é tirar a direção do que já foi dito.",
+   "contexto": "Quando o paciente já disse o suficiente.",
+   "competencia": "Escuta clínica",
+   "ts": "1:01:07"
+  },
+  {
+   "dica": "Antes de interpretar, garanta que você consegue repetir fielmente o que a pessoa disse.",
+   "justificativa": "Para fantasiar sobre a mensagem é preciso entendê-la; 'não tem problema interpretar, o problema é mal interpretar' — distinguir o que você traz do texto original.",
+   "contexto": "Base de qualquer escuta.",
+   "competencia": "Escuta clínica",
+   "ts": "0:44:14"
+  },
+  {
+   "dica": "Não suponha que a análise do comportamento trabalha só 'no aqui e agora'.",
+   "justificativa": "O nexo é causal, com tendência ao passado, além dos reforçadores atuais.",
+   "contexto": "Ao escutar e ao explicar a abordagem.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:47:45"
+  },
+  {
+   "dica": "Treine a escuta no cotidiano: quando alguém próximo contar um problema, 'brinque' de escutá-lo por uma abordagem.",
+   "justificativa": "Transfere o exercício e aumenta o volume de prática.",
+   "contexto": "Entre encontros.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:03:06"
+  },
+  {
+   "dica": "Na TCC, diante de qualquer relato, pergunte 'o que passou pela sua cabeça quando isso aconteceu?'.",
+   "justificativa": "O fato não diz nada; a crença sobre o fato dá direção, qualidade e 'gosto'.",
+   "contexto": "Escuta em TCC; quando há vários temas sem prioridade clara.",
+   "competencia": "Escuta clínica",
+   "ts": "1:19:48"
+  },
+  {
+   "dica": "Não tire conclusões do fato em si.",
+   "justificativa": "O mesmo fato ('saiu sem se despedir') pode significar medo, culpa etc.",
+   "contexto": "Antes de formular hipótese.",
+   "competencia": "Interpretação",
+   "ts": "1:23:00"
+  },
+  {
+   "dica": "Use uma técnica estruturada para priorizar quando a escuta aberta deu várias direções equivalentes.",
+   "justificativa": "A estrutura converte a escuta em ação com mais facilidade.",
+   "contexto": "A pergunta pelo pensamento escolheu 'lidar com a fase' entre três temas.",
+   "competencia": "Priorização clínica",
+   "ts": "1:24:07"
+  },
+  {
+   "dica": "Depois de identificar o pensamento, aprofunde de forma mais delicada ou mais interventiva.",
+   "justificativa": "'Uma vez que você soube ouvir, saber atuar é a coisa mais simples do mundo.'",
+   "contexto": "Logo após a escuta.",
+   "competencia": "Aprofundamento",
+   "ts": "1:30:11"
+  },
+  {
+   "dica": "Na TCC, compartilhe as anotações com o paciente em vez de escrevê-las viradas para si.",
+   "justificativa": "Empirismo colaborativo: o objetivo é tornar a pessoa terapeuta de si mesma.",
+   "contexto": "Sessões de TCC.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:45:22"
+  },
+  {
+   "dica": "Separe o que é técnica de escuta do que é relação terapêutica.",
+   "justificativa": "São estruturalmente diferentes; conferir hipóteses com o paciente é relação, não hermenêutica.",
+   "contexto": "Ao analisar ou ensinar uma abordagem.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:38:30"
+  },
+  {
+   "dica": "Se for combinar abordagens, combine na interpretação, não na relação ou na intervenção.",
+   "justificativa": "Relações terapêuticas de escolas opostas se chocam; ferramentas interpretativas se integram mais facilmente.",
+   "contexto": "Prática integrativa.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:32:33"
+  },
+  {
+   "dica": "Ao usar escalas de 0 a 10, lembre o que elas pressupõem.",
+   "justificativa": "Supõem acesso privilegiado do paciente ao próprio estado, algo que outras escolas contestam (o que significa 8? o que o paciente sabe de quão bem está?).",
+   "contexto": "Escolha de instrumentos e leitura das respostas.",
+   "competencia": "Psicodiagnóstico",
+   "ts": "1:18:43"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A psicanálise é uma antihermenêutica; para Lacan, é a própria língua que trai o falante.",
+   "argumento": "Herança hegeliana: a linguagem é um muro (como as antinomias em Kant); interpreta-se o que a língua deixa escapar, não a intenção.",
+   "contraponto": "A hermenêutica clássica (intenção do autor); os freudianos que põem o obstáculo no inconsciente, não na língua.",
+   "implicacao": "Escutar o som e a contradição, não o sentido pretendido.",
+   "quem": "Alan",
+   "ts": "0:01:09"
+  },
+  {
+   "tese": "Interpretação intuitiva é razoável, mas não é escuta clínica de nenhuma das abordagens estudadas.",
+   "argumento": "Importa a vida do intérprete ao caso ('nada de humano me é alheio') sem que o caso nem o referencial peçam.",
+   "contraponto": "O hábito dos alunos de fantasiar sobre o estado emocional do paciente (análise selvagem).",
+   "implicacao": "Ancorar toda hipótese na fala e no referencial.",
+   "quem": "Alan",
+   "ts": "0:10:40"
+  },
+  {
+   "tese": "Skinner não refutou o inconsciente; tornou-o dispensável pela navalha de Ockham.",
+   "argumento": "Se o mesmo comportamento se explica sem o inconsciente, a entidade metafísica é hipótese fraca.",
+   "contraponto": "O próprio Alan mostra o limite da navalha: menos entidades nem sempre é mais provável.",
+   "implicacao": "Preferir ambiente e explicações diretas na escuta analítico-comportamental.",
+   "quem": "Alan",
+   "ts": "0:27:26"
+  },
+  {
+   "tese": "Pedir mais informação ao paciente é muleta; boa psicologia extrai a direção do que já foi dito.",
+   "argumento": "'Para bom entendedor, meia palavra basta'; 20 minutos de avaliação só são pouco para quem não sabe escutar; técnicas genéricas (especificar, concretizar, corpo, presente) são rasas e tornam a clínica 'viciada, monotônica'.",
+   "contraponto": "Uma estudante de TCC defendeu que perguntar garante entendimento completo e dados robustos; Alan concede que 'nunca está errado' perguntar.",
+   "implicacao": "Treinar interpretação a partir de pouco material.",
+   "quem": "Alan",
+   "ts": "1:01:07"
+  },
+  {
+   "tese": "Uma escuta precisa já contém a direção clínica.",
+   "argumento": "Depois de ouvir direito, 'só de ser um ser humano razoável' surgem três ou quatro direções possíveis; vale para a maior parte das abordagens.",
+   "contraponto": "A ideia de que a dificuldade clínica está sobretudo na intervenção.",
+   "implicacao": "Investir no treino de escuta antes do treino de técnicas.",
+   "quem": "Alan",
+   "ts": "1:03:06"
+  },
+  {
+   "tese": "A TCC clássica 'interpreta com muleta', mas bons clínicos de TCC, na prática, simplesmente interpretam.",
+   "argumento": "Comparação com escolas que são 'filosofias, lógicas'; observação de vídeos de atendimentos reais.",
+   "contraponto": "A estudante de TCC: a escuta envolve função da crença, déficits de repertório, filtros de atenção e conceitualização.",
+   "implicacao": "Estudar vídeos reais para ver o que clínicos fazem além do protocolo.",
+   "quem": "Alan",
+   "ts": "1:05:19"
+  },
+  {
+   "tese": "Cada escola de psicologia universaliza um pedaço da realidade.",
+   "argumento": "Adler (poder), Freud (sexualidade, passado), TCC (distorções cognitivas): partem de algo razoável e o tornam o todo.",
+   "contraponto": "A leitura de cada escola como explicação completa.",
+   "implicacao": "Ler as abordagens como recortes parciais e úteis.",
+   "quem": "Alan",
+   "ts": "1:13:22"
+  },
+  {
+   "tese": "Na TCC, todo problema é epistêmico e a clínica é discussão racional para produzir 'ortodoxia' no pensamento.",
+   "argumento": "Inspiração estoica (sofremos das cognições); exemplo de Beck (esposa apressada; experimento de registro).",
+   "contraponto": "A análise do comportamento, que muda o ambiente.",
+   "implicacao": "Escutar crenças e debatê-las ou testá-las com o paciente.",
+   "quem": "Alan",
+   "ts": "1:14:26"
+  },
+  {
+   "tese": "Abordagem 'não existe' como algo necessário; boa terapia constrói uma psicologia nova para cada caso.",
+   "argumento": "Os grandes autores são inspiração; conhecer várias escolas é uma 'vaidade' pedagógica, não requisito.",
+   "contraponto": "Ele mesmo reconhece que dominar um só método basta para ser bom clínico e que não é a posição institucional da Allos (há núcleos por abordagem).",
+   "implicacao": "Formação comparativa, integrando sobretudo no nível da interpretação.",
+   "quem": "Alan",
+   "ts": "1:31:38"
+  },
+  {
+   "tese": "Uma 'interpretação psicanalítica' (ou kantiana, pós-moderna) não é interpretação.",
+   "argumento": "Quem escolhe a escola de antemão chega à conclusão na premissa e só conforma os fenômenos à própria crença; interpretar é uma ciência só (caso, questão do ENEM, fato histórico).",
+   "contraponto": "A identidade de escola como método de leitura.",
+   "implicacao": "Estudar hermenêutica em geral, não só a de uma abordagem.",
+   "quem": "Alan",
+   "ts": "1:33:25"
+  },
+  {
+   "tese": "Escuta e relação terapêutica são estruturalmente diferentes.",
+   "argumento": "Conferir com o paciente na TCC é empirismo colaborativo (relação); o privilégio interpretativo do pensamento do sujeito permanece.",
+   "contraponto": "A objeção de que a escuta em TCC seria colaborativa e baseada em dados.",
+   "implicacao": "Treinar escuta, relação e intervenção como dimensões separadas.",
+   "quem": "Alan",
+   "ts": "1:38:30"
+  },
+  {
+   "tese": "A TCC não é simplista: está no meio do caminho em dificuldade; humanismo e ACP são mais fáceis de trabalhar.",
+   "argumento": "A escuta é simples, mas conceitualização e empirismo colaborativo são difíceis e contraintuitivos.",
+   "contraponto": "O estereótipo estudantil da TCC como simplista.",
+   "implicacao": "Não confundir técnica de escuta simples com abordagem simples.",
+   "quem": "Alan",
+   "ts": "1:46:30"
+  },
+  {
+   "tese": "Os pressupostos de uma abordagem aparecem no raciocínio de quem a defende; entre TCC e análise do comportamento, o que é meio e o que é fim se inverte.",
+   "argumento": "Ao complexificar a TCC, a participante voltou sempre às crenças ('a realidade é fundamental para estimular o paciente a pensar corretamente'); um behaviorista diria que o fim é mudar o ambiente e o pensamento é meio.",
+   "contraponto": "A tréplica da participante (a TCC usa evidências da realidade), que Alan lê como confirmação do ponto.",
+   "implicacao": "Dominar uma abordagem estrutura o pensamento: mostra que você a entende e dificulta ver além dela.",
+   "quem": "Alan",
+   "ts": "1:47:39"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "A gente não interpreta o texto; a gente interpreta a própria linguagem.",
+   "tema": "Antihermenêutica",
+   "ts": "0:02:19"
+  },
+  {
+   "texto": "Para o Lacan, é a própria linguagem que te trai.",
+   "tema": "Lacan",
+   "ts": "0:03:24"
+  },
+  {
+   "texto": "A escuta flutua: você presta atenção na mensagem e no som, porque é a contradição entre os dois que te dá a direção.",
+   "tema": "Atenção flutuante",
+   "ts": "0:04:35"
+  },
+  {
+   "texto": "Vocês errando é muito bom, porque dá para a gente comentar em cima.",
+   "tema": "Facilitação",
+   "ts": "0:09:28"
+  },
+  {
+   "texto": "A sacada psicanalítica é não interpretar o sonho. O sonho não importa; o que importa é a contradição na linguagem.",
+   "tema": "Sonho e ato falho",
+   "ts": "0:18:03"
+  },
+  {
+   "texto": "Quando o Skinner diz que o inconsciente não existe, não é porque ele o refutou: é porque consegue explicar o mesmo comportamento sem ele.",
+   "tema": "Navalha de Ockham",
+   "ts": "0:27:26"
+  },
+  {
+   "texto": "Nada no carro é mágico. Se eu entendo cada parte e articulo as partes, entendo o carro — do mesmo jeito que entendo o comportamento do amor.",
+   "tema": "Razão como divisão",
+   "ts": "0:31:40"
+  },
+  {
+   "texto": "Não tem problema interpretar; o problema é mal interpretar.",
+   "tema": "Interpretação",
+   "ts": "0:44:14"
+  },
+  {
+   "texto": "Se a sua única maneira de aprofundar no caso é pedir para o paciente especificar mais, essa é uma clínica muito viciada, muito monotônica.",
+   "tema": "Vícios de escuta",
+   "ts": "0:47:15"
+  },
+  {
+   "texto": "Vinte minutos é muito pouco se você não entende o que está acontecendo. Vinte minutos é muito tempo se você sabe escutar.",
+   "tema": "Escuta",
+   "ts": "1:01:07"
+  },
+  {
+   "texto": "Se eu ouvir direito, é óbvio o que eu tenho que fazer.",
+   "tema": "Escuta e direção clínica",
+   "ts": "1:03:06"
+  },
+  {
+   "texto": "Um fato nunca me conta nada. É o pensamento da pessoa sobre o fato que me dá uma direção, uma qualidade, um gosto.",
+   "tema": "TCC",
+   "ts": "1:23:00"
+  },
+  {
+   "texto": "Uma vez que você soube ouvir, saber atuar é a coisa mais simples do mundo.",
+   "tema": "Escuta e intervenção",
+   "ts": "1:30:11"
+  },
+  {
+   "texto": "Boa terapia não funciona com abordagem: você constrói uma psicologia nova para cada caso que atende.",
+   "tema": "Abordagens",
+   "ts": "1:31:38"
+  },
+  {
+   "texto": "O que é meio e o que é fim é o que se inverte. É isso que eu chamo de pressupostos filosóficos da abordagem.",
+   "tema": "Cosmovisão",
+   "ts": "1:50:37"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "A mesma queixa, quatro escutas.",
+   "mensagem": "Fenomenólogo repete sem projetar; lacaniano caça o ponto em que a língua trai; analista do comportamento quebra o problema e corta o supérfluo; terapeuta cognitivo pergunta 'o que passou pela sua cabeça?'.",
+   "roteiro": [
+    "Capa: uma queixa fictícia curta",
+    "Fenomenologia: repetir sem projetar",
+    "Lacan: mensagem × som, o ato falho",
+    "Análise do comportamento: dividir + navalha de Ockham",
+    "TCC: a pergunta pelo pensamento",
+    "Fechamento: cada escola escuta um pedaço da realidade"
+   ],
+   "corte_inicio": "0:32:38",
+   "corte_fim": "0:34:48"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pare de pedir para o paciente 'falar mais'.",
+   "mensagem": "Pedir detalhes, concretude, 'trazer para o corpo' funciona para tudo e por isso é raso; quem sabe escutar tira a direção do que já foi dito.",
+   "roteiro": [
+    "Gancho: 'Você vive pedindo para o paciente especificar?'",
+    "Por que vira muleta",
+    "Vinte minutos bastam para quem escuta",
+    "Convite: treine interpretar com pouco material"
+   ],
+   "corte_inicio": "1:01:07",
+   "corte_fim": "1:02:04"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Skinner provou que o inconsciente não existe? Não.",
+   "mensagem": "A navalha de Ockham torna o inconsciente desnecessário, não refutado — e a própria navalha tem limites.",
+   "roteiro": [
+    "Capa: o mito",
+    "O que é a navalha (heurística)",
+    "Exemplo: como eu acordei hoje?",
+    "O limite: menos entidades nem sempre é mais provável",
+    "Aplicação ao inconsciente",
+    "Conclusão"
+   ],
+   "corte_inicio": "0:22:41",
+   "corte_fim": "0:29:04"
+  },
+  {
+   "formato": "reels",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "TCC e análise do comportamento: o que é meio e o que é fim?",
+   "mensagem": "Para a TCC o pensamento é fundamento e a realidade é meio; para a análise do comportamento, o ambiente é o fim e o pensamento é meio.",
+   "roteiro": [
+    "Pergunta provocativa",
+    "Visão TCC",
+    "Visão analítico-comportamental",
+    "Pressupostos filosóficos"
+   ],
+   "corte_inicio": "1:49:39",
+   "corte_fim": "1:51:38"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "20 minutos é muito tempo para quem sabe escutar.",
+   "mensagem": "A escuta precisa já contém a direção clínica.",
+   "roteiro": [
+    "Frase em destaque",
+    "Legenda curta sobre escuta e direção clínica"
+   ],
+   "corte_inicio": "1:01:07",
+   "corte_fim": "1:03:59"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Você está interpretando ou emprestando a sua alma ao paciente?",
+   "mensagem": "Interpretação intuitiva ('nada de humano me é alheio') × escuta ancorada na fala; o risco da análise selvagem.",
+   "roteiro": [
+    "Capa",
+    "O que é interpretação intuitiva",
+    "Por que é razoável",
+    "Por que não é escuta clínica",
+    "Como ancorar hipóteses na fala"
+   ],
+   "corte_inicio": "0:09:42",
+   "corte_fim": "0:11:39"
+  },
+  {
+   "formato": "reels",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Uma 'interpretação psicanalítica' não é uma interpretação.",
+   "mensagem": "Quem escolhe a escola antes já escolheu a conclusão; interpretar é uma ciência só.",
+   "roteiro": [
+    "Gancho",
+    "Argumento da premissa-conclusão",
+    "Interpretar caso, ENEM, história",
+    "Convite ao estudo de hermenêutica"
+   ],
+   "corte_inicio": "1:33:25",
+   "corte_fim": "1:34:18"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "No Aprimoramento, discordar do facilitador é bem-vindo.",
+   "mensagem": "Uma objeção sobre a TCC virou aula sobre pressupostos das abordagens (sem expor a participante).",
+   "roteiro": [
+    "Enquete: a escuta da TCC é só perguntar o que a pessoa pensou?",
+    "Trecho do Alan dando razão e fazendo o disclaimer",
+    "Convite para o grupo"
+   ],
+   "corte_inicio": "1:37:24",
+   "corte_fim": "1:38:30"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Praticava uma antihermenêutica sem teorizá-la; método da atenção flutuante; exemplo de universalização (sexualidade, passado)."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Para ele, a própria língua trai o falante; base do exercício de escuta do ato falho; corte da sessão."
+  },
+  {
+   "nome": "G. W. F. Hegel",
+   "contexto": "Origem do projeto antihermenêutico retomado pela psicanálise (discussão do encontro anterior)."
+  },
+  {
+   "nome": "Immanuel Kant",
+   "contexto": "As antinomias como 'muro', analogia para a linguagem como muro."
+  },
+  {
+   "nome": "Karl Marx",
+   "contexto": "Citado entre os continuadores da antihermenêutica hegeliana."
+  },
+  {
+   "nome": "B. F. Skinner",
+   "contexto": "Behaviorismo radical; pressupostos implícitos (navalha de Ockham e razão iluminista); dispensa o inconsciente."
+  },
+  {
+   "nome": "Guilherme de Ockham",
+   "contexto": "Navalha de Ockham como heurística de parcimônia."
+  },
+  {
+   "nome": "Aaron Beck",
+   "contexto": "TCC clássica; inspiração estoica; exemplo do paciente cuja esposa sai sem se despedir; acesso privilegiado com distorções."
+  },
+  {
+   "nome": "Marco Aurélio",
+   "contexto": "Exemplo estoico dos banhos públicos, ilustrando a 'vibe' da TCC."
+  },
+  {
+   "nome": "Alfred Adler",
+   "contexto": "Exemplo de escola que universaliza um pedaço da realidade (poder)."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Autor que, por ler filosofia, explicita de onde parte; a psicologia analítica tende a observar consequências das crenças."
+  },
+  {
+   "nome": "Gilles Deleuze",
+   "contexto": "Exemplo de leitura que Alan quer que até alunos de TCC consigam fazer."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Alan) — ciclo sobre escuta",
+  "objetivo": "Treinar a escuta clínica comparando como diferentes abordagens escutam (caricatura didática de cada escola + exercício prático), para depois confrontar com outras tradições de interpretação (historiadores, juristas).",
+  "publico": "Estudantes de psicologia e psicólogos em formação, de abordagens variadas (inclui uma estudante de TCC).",
+  "tamanho": "Grupo online; cerca de 10 participantes ativos identificáveis (número total não informado; Alan comenta que 'hoje nem tem tanta gente').",
+  "duracao": "~1h53 gravadas + ~5 min de conversa fora da gravação",
+  "estrutura_padrao": "Retomada breve do encontro anterior → para cada abordagem: explicação teórica (pressupostos filosóficos) → exercício prático ao vivo com voluntários e chat → síntese; discussão final; decisão coletiva sobre a continuidade.",
+  "papel_facilitador": "Expõe teoria de forma provocativa e visual, encena pacientes, recruta voluntários, pressiona socraticamente, corrige pelo erro, delimita escopo, transforma discordâncias em conteúdo.",
+  "regras_combinados": "Quem conhece o exemplo não responde no chat; chutar é bem-vindo; histórias dos voluntários não precisam ser clínicas; exercícios não são roleplay de atendimento; encontro gravado, com parte final fora da gravação."
+ },
+ "reflexoes_do_facilitador": [
+  "Explica suas escolhas didáticas: repete sempre os mesmos exemplos paradigmáticos, prefere exemplos agressivos, visuais e absurdos, e tenta deixar interessante até a pergunta ruim de um aluno (0:05:44).",
+  "Nota que a versão longa do exemplo impediu o grupo de ouvir o ato falho e a curta facilitou — ajuste feito em tempo real (0:13:05).",
+  "Diagnostica que a escuta fenomenológica do grupo está fraca ('todo mundo projetou'; o exercício da semana anterior 'foi tão ruim') e que isso precisa ser treinado mais do que qualquer outra coisa (0:55:41; 1:00:02).",
+  "Reconhece que faltam exercícios de criatividade clínica, pois todos os chutes foram na mesma direção (1:27:51).",
+  "Verbaliza dúvida sobre a própria clareza e medo de ser repetitivo (1:24:59).",
+  "Admite estar 'misturando' escuta fenomenológica no exercício de análise do comportamento (0:53:43).",
+  "Faz o disclaimer de que as abordagens são apresentadas como caricaturas, abrindo mão conscientemente de precisão por didática (1:37:24).",
+  "Pede desculpas por interromper a participante, justificando que precisava não perder o ponto central (1:51:38).",
+  "Admite que a posição 'sem abordagem' é uma 'vaidade' sua e não a posição institucional da Allos (1:30:43).",
+  "No encontro seguinte (Alan 10), diz que o episódio com a estudante de TCC o animou, que gosta de ser contradito e que deveria ter feito um disclaimer sobre o que domina e o que conhece 'de orelhada'."
+ ],
+ "referencias_a_outros_encontros": [
+  "Retoma o fim do encontro anterior (Alan 08 - Escuta em fenomenologia): discussão Kant/Hegel/Lacan sobre antihermenêutica; 'se não entendeu, volte na gravação, é a última meia hora'.",
+  "Conclui o exercício de escuta lacaniana 'que fiz semana passada' e cita o exemplo 'tímida/calada' já dado antes.",
+  "Remete ao exercício de escuta fenomenológica do encontro anterior (repetir o que a pessoa disse), que o grupo 'mandou mal' e deve refazer à exaustão.",
+  "Menciona que no primeiro encontro do ciclo anunciou o objetivo: caricatura de cada escola e depois comparação com historiadores e juristas.",
+  "Menciona aulas gravadas sobre hermenêutica/interpretação (aulas de interpretação e sobre Hegel).",
+  "Propõe 'parte 3' e 'parte 4' do ciclo (sistêmica, modelos de escuta mais visuais), a decidir com o grupo — continuação em Alan 10 - Escuta em sistêmica, que abre retomando a discussão com a estudante de TCC.",
+  "Cita a existência dos núcleos por abordagem na Allos."
+ ],
+ "observacoes": "Título do vídeo ('Escuta em psicanálise') é enganoso: só ~19 min tratam de psicanálise (conclusão do exercício lacaniano iniciado no encontro 08); o grosso é escuta em análise do comportamento e em TCC clássica. Legenda automática com muitos erros de nomes: 'navalha de óculo/OCAM' = navalha de Ockham; 'bevismo/periorismo radical' = behaviorismo radical; 'Aronbeck' = Aaron Beck; 'histoicismo' = estoicismo; 'cant' = Kant; 'Delus' = Deleuze; 'antiermenêutica' = antihermenêutica; 'nil human puto' = nihil humani a me alienum puto. Nomes de participantes oscilam (Micaele/Micaelen/Mica Helen; Juliana/Juja; Tácia/Tásia). Em 1:45:22 Alan diz que é comum 'pessoas na análise de comportamento' esconderem anotações do paciente, no contexto de TCC/empirismo colaborativo — possivelmente lapso por TCC. Os exemplos de ato falho ('velar'/'ver lá', 'a mala'/'amá-la', 'tímida'/'calada') são encenados por Alan como exemplos didáticos recorrentes; não há dados identificáveis. As histórias pessoais contadas por participantes voluntárias (reforma de imóvel; semana de provas) foram registradas de forma genérica. A participante que questiona a TCC sai antes do fim (tinha uma avaliação). Os últimos ~5 minutos ocorreram fora da gravação. As três dinâmicas deste encontro são variantes da família de escuta por abordagem, que no encontro 10 aparece como 'Dinâmica - Escutas' (variante sistêmica); a base fenomenológica do encontro 08 foi fichada como 'Dinâmica - Escutar sem projetar'."
+}

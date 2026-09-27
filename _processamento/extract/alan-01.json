@@ -1,0 +1,951 @@
+{
+ "id": "alan-01",
+ "nota": "Alan 01 - Relação terapêutica tensionada",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Relação terapêutica tensionada",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Alan faz um panorama rápido de como psicanálise freudiana e lacaniana, análise do comportamento, sistêmica de primeira ordem, TCC, junguiana e posições de mentoria concebem a relação terapêutica. Em seguida escolhe a tese da psicologia baseada em evidências: o fator relacional mais explicativo é a ruptura e o restabelecimento da aliança. Para fundamentá-la, usa o conceito de antifragilidade (frágil, rígido, plástico, antifrágil) e conclui que relações tensionadas que não se rompem ficam mais fortes, de modo que intervenções conservadoras demais fragilizam o vínculo. Distingue a ruptura por confronto da ruptura minguante e conduz um roleplay com casos reais dos participantes (dois casos, quatro rodadas), sempre com feedback em três camadas (paciente, grupo, facilitador), do qual extrai regras gerais: validar, responsabilizar-se, interpretar a ruptura como sintoma, mostrar em vez de dizer 'entendo', não se justificar, não exigir especificidade de quem está vulnerável, cortar perguntas de respiro e pedir uma chance concreta. Fecha dizendo que o objetivo é o máximo desconforto sem romper e avaliando que a turma intervém bem e interpreta mal.",
+ "em_uma_frase": "A relação terapêutica é antifrágil: fica mais forte quando é tensionada e sobrevive à tensão. Por isso, a ruptura aberta, quando o paciente diz que quer parar, deve ser usada como motor da terapia, e o encontro treina esse manejo em roleplays curtos com feedback em três camadas.",
+ "competencias": [
+  "Relação terapêutica",
+  "Intervenção",
+  "Interpretação",
+  "Acolhimento e validação",
+  "Construção frasal",
+  "Escuta clínica",
+  "Pessoa do terapeuta",
+  "Articulação teoria-prática"
+ ],
+ "abordagens": [
+  "Psicanálise freudiana",
+  "Psicanálise lacaniana",
+  "Análise do comportamento",
+  "Terapia sistêmica",
+  "Terapia cognitivo-comportamental",
+  "Psicologia analítica junguiana",
+  "Terapias contextuais",
+  "Abordagem centrada na pessoa",
+  "Psicodrama"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:02",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Panorama de 'dois minutinhos por abordagem': Freud (imago parental), Lacan (significante qualquer), análise do comportamento e sistêmica de 1ª ordem (paciente decide o destino, clínico decide o caminho), TCC e junguiana (dialética em sentidos diferentes).",
+   "funcao": "Mostrar que o vocabulário já posiciona o clínico e situar a turma antes de escolher uma lente.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "0:10:57",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Convida o chat a pedir outras abordagens; descreve o terapeuta como mestre/mentor ('chamânico', transpessoal), classificado como tratamento por sugestão; diz que 'nada disso importa hoje'.",
+   "funcao": "Completar o mapa e escolher a lente do dia.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:14:16",
+   "bloco": "Teoria",
+   "descricao": "Na PBE, a relação terapêutica é o fator mais estudado; pede um chute e revela que o fator mais explicativo é a ruptura e o restabelecimento da aliança.",
+   "funcao": "Dar base empírica e gerar curiosidade.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:16:32",
+   "bloco": "Teoria",
+   "descricao": "Antifragilidade explicada devagar: frágil, rígido (concreto), plástico (elástico), antifrágil (sistema imunológico); relações humanas antifrágeis (namoro).",
+   "funcao": "Fornecer a base conceitual que falta à literatura empírica, deixando claro que é acréscimo dele.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:21:48",
+   "bloco": "Teoria",
+   "descricao": "Tese: a relação terapêutica é antifrágil e isso é compatível com qualquer abordagem; intervenções conservadoras equivalem a superproteger uma criança.",
+   "funcao": "Transformar o conceito em diretriz de intervenção.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:24:26",
+   "bloco": "Teoria",
+   "descricao": "Pede um chute sobre os dois tipos de término não planejado (chat: frustração, luto, quebra de confiança, falta de sentido); revela: confronto e desistência minguante.",
+   "funcao": "Ativar hipóteses dos alunos e recortar o exercício no confronto.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:27:12",
+   "bloco": "Combinados",
+   "descricao": "Consigna: transformar uma tensão aberta em motor da terapia ou, no mínimo, não perder o paciente; pede casos reais e tem casos prontos de reserva.",
+   "funcao": "Explicitar o objetivo e o critério de sucesso.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:29:01",
+   "bloco": "Dinâmica",
+   "descricao": "Recrutamento do caso A (participante que se sente dependente da terapeuta); como ela tinha minguado, Alan pede que fantasie o confronto; define os papéis de paciente, terapeuta e observadores.",
+   "funcao": "Adequar o caso real ao recorte e dar tarefa a todos.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:32:09",
+   "bloco": "Dinâmica",
+   "descricao": "Rodada 1: voluntário pergunta pelos 'benefícios', valida tarde e devolve a reflexão à paciente.",
+   "funcao": "Gerar o primeiro material de feedback.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:35:20",
+   "bloco": "Feedback",
+   "descricao": "A paciente diz qual seria o efeito; Alan formula regras: não terceirizar a reflexão, validar antes do transacional, responsabilizar-se (Lacan, analogia da DR, liderança).",
+   "funcao": "Transformar o erro específico em regra geral.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:42:05",
+   "bloco": "Dinâmica",
+   "descricao": "Alan segura a resposta para provocar o grupo; rodada 2 com outro voluntário, que interpreta a saída como deslocamento da dependência.",
+   "funcao": "Mostrar a evolução depois do feedback.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:44:44",
+   "bloco": "Feedback",
+   "descricao": "Alan reformula em palavras simples; a paciente aprova; Alan nomeia a categoria: interpretar o problema da relação como problema clínico (imagem junguiana do veneno da cobra).",
+   "funcao": "Nomear a jogada para ela virar repertório.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:48:15",
+   "bloco": "Discussão",
+   "descricao": "O grupo aponta a oportunidade perdida (troca de 'encerrar' por 'dar um tempo'); puxão de orelha sobre escuta literal; debate sobre 'dar um tempo' como questão de hipótese clínica (Jung e as férias na terapia; analogia do namoro).",
+   "funcao": "Treinar escuta e mostrar que a leitura do caso decide a intervenção.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "0:55:04",
+   "bloco": "Discussão",
+   "descricao": "Outras abordagens fariam essa intervenção? Sim, com vocabulário próprio (esquiva, esquiva experiencial na ACT, contato); crítica ao 'eu entendo, porém' e à empatia declarada em vez de mostrada.",
+   "funcao": "Mostrar que a jogada é transteórica e trabalhar construção frasal.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:59:52",
+   "bloco": "Dinâmica",
+   "descricao": "Caso B, com outro motivo (participante sentiu-se tratada como objeto); combinado 'não vale alterar a realidade'; rodada 3 com o voluntário 2.",
+   "funcao": "Variar o tipo de ruptura e fechar uma brecha conhecida do exercício.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:06:03",
+   "bloco": "Feedback",
+   "descricao": "A paciente diz que 'teria se fechado mais'; uma participante aponta o padrão de se justificar; Alan: não se justificar nem pedir desculpas, respostas reflexivas em vez de responsivas, cuidado com o 'entendo' automático, pedestal, especificidade violenta, aquecimento (Moreno); nota 'arroz com feijão' e recapitulação.",
+   "funcao": "Feedback mais denso, com recapitulação.",
+   "duracao_min": 13
+  },
+  {
+   "ts": "1:19:12",
+   "bloco": "Dinâmica",
+   "descricao": "Rodada 4 com o voluntário 3 no caso B: pergunta pelos momentos, pelo que ela queria, por outras situações da vida; propõe continuar.",
+   "funcao": "Terceira tentativa, com todo o feedback já ouvido.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:23:09",
+   "bloco": "Feedback",
+   "descricao": "A paciente voltaria uma vez; Alan dá nota 7 com potencial de 8,5: cortar perguntas de respiro, ser visual, o 'macete infinito' de levar para a relação ou para a vida, pedir UMA chance (jogo do ultimato, Never Split the Difference).",
+   "funcao": "Mostrar como sair do bom para o excelente.",
+   "duracao_min": 16
+  },
+  {
+   "ts": "1:38:42",
+   "bloco": "Discussão",
+   "descricao": "Uma participante contesta o silêncio; Alan distingue silêncio para pensar de silêncio analítico e retoma a antifragilidade: o mais desconfortável possível sem romper; zona de desenvolvimento proximal e Piaget; digressão sobre professores universitários.",
+   "funcao": "Integrar a objeção à tese e fechar o arco teórico.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:44:40",
+   "bloco": "Fechamento",
+   "descricao": "Aponta a saída não explorada no caso B (interpretar o 'ser objeto'); diagnóstico: turma boa em intervir e fraca em interpretar; possível repetição da dinâmica e dinâmica futura sobre abandono minguante; encerra a gravação e abre 5 minutos para dúvidas.",
+   "funcao": "Avaliação global e próximos passos.",
+   "duracao_min": 5
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Ruptura e reparo da aliança",
+   "definicao": "Capacidade de romper e restabelecer a aliança terapêutica. Segundo Alan, é o fator relacional que mais explica o sucesso clínico na literatura de PBE, mais do que genuinidade ou horizontalidade. Divide-se em ruptura por confronto (o paciente diz o problema) e ruptura minguante (o paciente some aos poucos, a forma mais comum).",
+   "exemplo": "Relações terapêuticas que quase se rompem e não se rompem são mais funcionais a longo prazo.",
+   "abordagem": "Psicologia baseada em evidências",
+   "ts": "0:15:19"
+  },
+  {
+   "nome": "Antifragilidade",
+   "definicao": "Propriedade do que se fortalece por meio do estresse. Difere do rígido, que resiste mas quebra, e do plástico, que enverga e se adapta. Alan a usa para fundamentar a tese de que a relação terapêutica fica mais forte quando é tensionada e sobrevive.",
+   "exemplo": "O concreto racha; o elástico enverga; o sistema imunológico fica mais forte depois do estresse (a criança que 'lambe o chão'); um namoro que sobreviveu a crises é mais confiável.",
+   "abordagem": "",
+   "ts": "0:17:36"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "Termo que situa o clínico no campo da psicologia baseada em evidências. Aqui é tratada como algo que se fortalece ao ser tensionado e reparado.",
+   "exemplo": "",
+   "abordagem": "Psicologia baseada em evidências",
+   "ts": "0:14:16"
+  },
+  {
+   "nome": "Transferência",
+   "definicao": "Em Freud, transferência para o analista de uma imago parental com carga infantil, o que dá à fala dele um lugar especial. Em Lacan, transferência de um 'significante qualquer, mas não qualquer significante', que dá uma chave interpretativa para toda a clínica. Implicações: 'não é sobre mim' e é preciso saber de que posição o paciente me fala.",
+   "exemplo": "O analista visto como genial ou objeto de enamoramento: as duas formas clássicas.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:02:23"
+  },
+  {
+   "nome": "Significante",
+   "definicao": "Em Lacan, a linguagem está sempre incompleta e o sentido se fecha por retroação na cadeia. Na transferência, o significante qualquer associado ao analista fecha o sentido.",
+   "exemplo": "'Eu te amo' muda completamente quando completado por '...amo te odiar'.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:02:23"
+  },
+  {
+   "nome": "Significante mestre",
+   "definicao": "O significante que fecha o sentido da cadeia no caso do sintoma, em contraste com o significante qualquer da transferência.",
+   "exemplo": "",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:03:44"
+  },
+  {
+   "nome": "Tratamento por sugestão",
+   "definicao": "Categoria em que Alan situa a 'mentoria': o terapeuta ocupa uma posição de mestre ou 'chamânica' porque já passou pelo processo de transformação e conhece o caminho, com foco na personalidade e na experiência do clínico. Comum em linhas transpessoais.",
+   "exemplo": "O xamã que teve contato com o 'mundo dos mortos' e por isso guia o outro.",
+   "abordagem": "",
+   "ts": "0:13:03"
+  },
+  {
+   "nome": "Deslocamento",
+   "definicao": "Leitura psicanalítica da vontade de encerrar a terapia como troca de objeto: a dependência apenas se deslocaria para outro lugar. Base da interpretação que 'deu certo' no caso A.",
+   "exemplo": "'Se encerrarmos, qual será o próximo objeto da sua dependência?'",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:44:44"
+  },
+  {
+   "nome": "Esquiva experiencial",
+   "definicao": "Na ACT, ideia de que o sofrimento psíquico vem de evitar a experiência. Na análise do comportamento, 'esquiva'. Alan diz que, para a ACT, ler a ruptura como fuga é até mais óbvio do que para a psicanálise; só muda o vocabulário.",
+   "exemplo": "A paciente que foge da terapia justamente porque ela está funcionando.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:55:13"
+  },
+  {
+   "nome": "Ato falho",
+   "definicao": "Algo que escapa na fala e pode ser interpretado. Aparece na troca de 'encerrar' por 'dar um tempo' feita pela paciente do caso A, que seria uma oportunidade de intervenção.",
+   "exemplo": "Primeiro 'encerrar', depois 'dar um tempo'.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:50:04"
+  },
+  {
+   "nome": "Hermenêutica",
+   "definicao": "Decidir se conceder 'um tempo' ajuda ou atrapalha é um problema fundamentalmente hermenêutico: depende da hipótese clínica, isto é, da leitura do caso.",
+   "exemplo": "Se a paciente foge porque a terapia funciona, a pausa é péssima ideia.",
+   "abordagem": "",
+   "ts": "0:51:58"
+  },
+  {
+   "nome": "Empatia",
+   "definicao": "Precisa ser construída de forma concreta: mostrar como se entende a posição do outro, e não só declarar 'eu entendo'.",
+   "exemplo": "Na comédia romântica, o ápice raramente é uma declaração; é uma ação.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "0:58:41"
+  },
+  {
+   "nome": "Resposta reflexiva",
+   "definicao": "Resposta a um tensionamento que explora o sentido da queixa (o que 'objetificar' significa para o paciente). Opõe-se à resposta responsiva, que rebate o ataque ou se justifica.",
+   "exemplo": "Diante de 'você me objetificou', perguntar o que isso significa em vez de explicar por que não foi assim.",
+   "abordagem": "",
+   "ts": "1:09:22"
+  },
+  {
+   "nome": "Responsabilização do terapeuta",
+   "definicao": "Trazer para si a responsabilidade pelo problema da relação, até se hiperresponsabilizar. Desarma o conflito e mantém o problema tratável dentro da sessão. Apoia-se em Lacan: o analista é responsável até pela fantasia que o paciente tem sobre ele.",
+   "exemplo": "Na liderança: 'tô errado, você ganhou'.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:39:06"
+  },
+  {
+   "nome": "Intervenção de respiro",
+   "definicao": "Pergunta ou fala feita só para ganhar tempo ou manter o ritmo, sem uso clínico depois. Dilui a potência do que o terapeuta diz e atrapalha a escuta da resposta.",
+   "exemplo": "'Você consegue citar os momentos?' seguido de uma pergunta que ignora a resposta.",
+   "abordagem": "",
+   "ts": "1:25:39"
+  },
+  {
+   "nome": "Aquecimento",
+   "definicao": "Conceito de Moreno usado como critério de timing: nenhuma intervenção é impossível, a questão é quando fazê-la. Pedir especificidade, por exemplo, exige vínculo formado.",
+   "exemplo": "'Não tem nada tão estúpido que não tenha sido proposto por um clínico.'",
+   "abordagem": "Psicodrama",
+   "ts": "1:16:52"
+  },
+  {
+   "nome": "Jogo do ultimato",
+   "definicao": "Referência da teoria dos jogos que Alan chama de 'teoria de ultimato' para defender que, ao propor continuar, o terapeuta peça UMA chance, específica, com prazo e com mudança definida, mostrando segurança.",
+   "exemplo": "O namorado que pede 'mais uma chance' sem estar realmente comprometido não convence.",
+   "abordagem": "",
+   "ts": "1:33:04"
+  },
+  {
+   "nome": "Zona de desenvolvimento proximal",
+   "definicao": "Faixa ótima de dificuldade entre o tédio e o insuportável, onde há desenvolvimento. Alan a usa para justificar o 'desconforto máximo sem romper' na clínica e na aprendizagem. No vídeo aparece atribuída a Piaget; a literatura costuma atribuí-la a Vygotsky.",
+   "exemplo": "Aula trivial não empolga; aula difícil demais tem charme mas não motiva.",
+   "abordagem": "",
+   "ts": "1:42:29"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Roleplay de ruptura terapêutica",
+   "objetivo": "Diante de uma ruptura aberta (paciente comunica que quer encerrar), transformar a tensão em motor da terapia; manter o paciente é o mínimo.",
+   "competencias": [
+    "Relação terapêutica",
+    "Intervenção",
+    "Interpretação",
+    "Acolhimento e validação",
+    "Construção frasal"
+   ],
+   "configuracao": "Grupo online. Por rodada: uma participante no papel de paciente (caso real de uma terapia que ela abandonou ou quis abandonar), um voluntário no papel de terapeuta (pré-selecionado, com câmera) e os demais como observadores que pensam alternativas e anotam o que melhorar.",
+   "tempo": "Cerca de 80 minutos: roleplay de 2 a 4 minutos e feedback de 8 a 15 minutos por rodada; 2 casos com 2 rodadas cada.",
+   "materiais": "Casos reais da turma; vinhetas prontas de ruptura por confronto como reserva; tema anunciado no convite.",
+   "consigna": "Quem já fez terapia e saiu dela por algum motivo? Traga isso como se estivesse na última sessão, dizendo ao seu terapeuta que quer parar. Quem faz o terapeuta precisa, primeiro, manter a relação, mas isso é pouco: use o problema como motor da terapia. Quem está de fora pensa em como faria e observa o que dá para melhorar. Regra: não vale alterar a realidade; o que a paciente disser que aconteceu, aconteceu.",
+   "passos": [
+    "Apresentar a base teórica (antifragilidade; ruptura por confronto e minguante) e recortar o exercício no confronto.",
+    "Pedir um caso real e perguntar por que a terapia acabou.",
+    "Checar se houve confronto; se a pessoa minguou, pedir que fantasie como seria o confronto.",
+    "A paciente entrega a vinheta em primeira pessoa e o voluntário responde; a troca pode se estender um pouco.",
+    "Interromper quando houver material suficiente.",
+    "Feedback 1: perguntar à paciente se resolveria, se ela romperia, se voltaria de verdade.",
+    "Feedback 2: abrir ao grupo (oportunidades perdidas, o que poderia ser mais bem feito).",
+    "Feedback 3: o facilitador comenta em ordem cronológica, extrai regras gerais, dá nota e recapitula.",
+    "Pedir outro voluntário para refazer o mesmo caso com o que já foi ouvido.",
+    "Trocar de caso, com motivo de ruptura diferente, e repetir.",
+    "Fechar apontando saídas não exploradas e diagnosticando a turma."
+   ],
+   "feedback": "Primeiro critério é o efeito relatado pela paciente. Regras gerais: validar antes de ir ao transacional; não terceirizar a reflexão; responsabilizar-se; interpretar a ruptura como sintoma; escutar a palavra exata; mostrar que entendeu em vez de dizer 'entendo, porém'; não se justificar nem pedir desculpas; resposta reflexiva e não responsiva; não usar 'sou humano' como defesa; não exigir especificidade cedo; cortar perguntas de respiro; ser visual; pedir UMA chance concreta. Alan dá notas ('arroz com feijão'; '7 que pode virar 8,5').",
+   "exemplos_praticos": "Caso A (dependência e 'mistura' com a terapeuta): o voluntário 1 perguntou pelos benefícios e devolveu a reflexão, e a paciente ficaria refletindo sozinha; o voluntário 2 interpretou como deslocamento da dependência, e a paciente aprovou e disse que levaria aquilo à própria terapia, mas o 'entendo, porém' foi rápido demais e a troca 'encerrar'/'dar um tempo' passou batida. Caso B (sentir-se tratada como robô desde uma primeira sessão centrada em anamnese): o voluntário 2 disse 'entendo e agradeço', 'sou humano' e justificou a anamnese, e a paciente 'teria se fechado mais'; o voluntário 3 perguntou pelos momentos e por outras situações da vida e propôs continuar, e a paciente voltaria uma vez (nota 7 que pode virar 8,5). Saída não explorada: interpretar o que significa ser tratada como objeto.",
+   "variacoes": "Refazer a dinâmica em outro encontro; usar casos mais pesados (conduta grave do terapeuta), bem mais difíceis; presencialmente, deixar qualquer pessoa responder na hora; versão para ruptura minguante com relatos de abandono.",
+   "armadilhas": "Voluntário que nega o fato relatado (proibido); caso que na verdade foi de ruptura minguante (ajustar com fantasia); pouca gente se oferece (ter casos prontos e pré-selecionar); observadores que não querem criticar o colega (o facilitador faz a crítica, com humor).",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:27:12"
+  },
+  {
+   "nome": "Dinâmica - Relatos de abandono silencioso",
+   "objetivo": "Trabalhar a ruptura minguante (o paciente some sem confrontar), a forma mais comum de término não planejado.",
+   "competencias": [
+    "Relação terapêutica",
+    "Formulação de caso"
+   ],
+   "configuracao": "Grupo; proposta não realizada.",
+   "tempo": "Não definido.",
+   "materiais": "Relatos de terapias que acabaram, contando só como aconteceu o término.",
+   "consigna": "Tragam relatos de como terapias acabaram, para vermos padrões de quando o paciente vaza ou mingua.",
+   "passos": [
+    "Reunir relatos de términos de terapia descrevendo apenas como aconteceram.",
+    "Comparar os relatos em grupo em busca de padrões e sinais precoces de afastamento."
+   ],
+   "feedback": "",
+   "exemplos_praticos": "Não realizada: Alan achou que 'dava muito trabalho' e escolheu a dinâmica mais simples.",
+   "variacoes": "",
+   "armadilhas": "",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:47:31"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Mapa antes do caminho",
+   "descricao": "Abre com um panorama comparativo curto e declarado como tal, depois escolhe uma única posição para o dia.",
+   "exemplo": "'Vou gastar uns dois minutinhos com cada abordagem... nada disso importa hoje.'",
+   "ts": "0:01:16"
+  },
+  {
+   "movimento": "Expansão sob demanda",
+   "descricao": "Oferece falar de outras abordagens se a turma pedir pelo chat, sem perder o foco.",
+   "exemplo": "'Se quiserem, escrevam no chat mais uma abordagem que acham relevante.'",
+   "ts": "0:10:57"
+  },
+  {
+   "movimento": "Chute antes da resposta",
+   "descricao": "Faz a turma adivinhar antes de revelar (fator mais explicativo, quem conhece antifragilidade, tipos de ruptura) e comenta cada chute do chat.",
+   "exemplo": "'É jogo rápido, só chuta. Quero ver para onde vai a fantasia de vocês.'",
+   "ts": "0:25:09"
+  },
+  {
+   "movimento": "Gestão do ritmo",
+   "descricao": "Percebe que está rápido demais e desacelera no conceito central.",
+   "exemplo": "'Tô falando rápido até agora, deixa eu respirar um pouquinho.'",
+   "ts": "0:17:36"
+  },
+  {
+   "movimento": "Transparência sobre as fontes",
+   "descricao": "Separa o achado empírico da autora da leitura teórica dele; admite não lembrar o nome da autora.",
+   "exemplo": "'O que eu tô falando aqui não é a opinião da autora.'",
+   "ts": "0:16:32"
+  },
+  {
+   "movimento": "Casos reais com plano B e ajuste ao recorte",
+   "descricao": "Pede experiências reais da turma, tem casos prontos de reserva, checa se o caso cabe no exercício e pede que a pessoa fantasie o confronto quando necessário.",
+   "exemplo": "'Você trouxe isso para sua terapeuta ou minguou? Então vou te pedir para fantasiar um pouquinho.'",
+   "ts": "0:30:12"
+  },
+  {
+   "movimento": "Tarefa para os observadores",
+   "descricao": "Dá a quem assiste duas funções: pensar alternativas e observar para dar feedback. Avisa que haverá várias rodadas.",
+   "exemplo": "'As pessoas vão pensar como fariam e observar como ele vai fazer, para a gente dar feedback.'",
+   "ts": "0:32:09"
+  },
+  {
+   "movimento": "Combinado na hora certa",
+   "descricao": "Interrompe o roleplay para instalar a regra 'não vale alterar a realidade' no momento em que ela passa a importar, explicando de onde vem.",
+   "exemplo": "'Pera, pera... já fiz esse exercício e as pessoas são safadas.'",
+   "ts": "1:01:55"
+  },
+  {
+   "movimento": "A paciente como primeiro critério",
+   "descricao": "Antes de comentar, pergunta à participante-paciente que efeito real a resposta teria, ancorando o feedback no efeito e não no gosto do facilitador.",
+   "exemplo": "'Você voltaria de verdade ou está falando da boca para fora?'",
+   "ts": "1:23:09"
+  },
+  {
+   "movimento": "Do erro específico à regra geral",
+   "descricao": "Declara que seu papel é pegar erros e acertos específicos e transformá-los em regras gerais; quase todo comentário termina assim.",
+   "exemplo": "'Meu papel aqui é pegar sobretudo os erros específicos e construir disso regras gerais.'",
+   "ts": "0:37:12"
+  },
+  {
+   "movimento": "Analogias cotidianas",
+   "descricao": "Explica regras clínicas com namoro/DR, chefe, liderança, criação de filhos, delegacia e comédia romântica.",
+   "exemplo": "'Se sua namorada quer ter uma DR e sua resposta é: pensa aí...'",
+   "ts": "0:38:06"
+  },
+  {
+   "movimento": "Reformular e nomear a jogada",
+   "descricao": "Traduz a intervenção do voluntário para palavras simples e dá nome à categoria dela.",
+   "exemplo": "'A categoria é interpretar o problema como um problema clínico.'",
+   "ts": "0:47:18"
+  },
+  {
+   "movimento": "Segurar o gabarito",
+   "descricao": "Recusa responder de imediato para provocar a turma e pede alguém que faça melhor.",
+   "exemplo": "'Não vou te responder porque quero provocar as pessoas antes de dar um gabarito.'",
+   "ts": "0:42:05"
+  },
+  {
+   "movimento": "Grupo antes do facilitador",
+   "descricao": "Abre espaço para a turma comentar antes dele e reconhece quando alguém antecipa o comentário que ele guardava.",
+   "exemplo": "'Alguém quer me atravessar? Depois vai ser mais difícil.'",
+   "ts": "1:06:31"
+  },
+  {
+   "movimento": "Correção com humor e normalização do erro",
+   "descricao": "Dá 'puxões de orelha' leves, brinca com a timidez para criticar e afirma que errar é o objetivo.",
+   "exemplo": "'O objetivo aqui não é acertar, é errar para que as outras pessoas vejam.'",
+   "ts": "1:09:47"
+  },
+  {
+   "movimento": "Nota e caminho de melhora",
+   "descricao": "Calibra a expectativa com notas e mostra o que falta, percorrendo a intervenção em ordem cronológica.",
+   "exemplo": "'Achei um 7; dá para ir a 8,5 com coisas simples.'",
+   "ts": "1:23:26"
+  },
+  {
+   "movimento": "Autoexposição de defeitos",
+   "descricao": "Conta seus próprios vícios (esquadrinhar problemas com 30 perguntas) e como assume erros, encarnando a responsabilização que ensina.",
+   "exemplo": "'Essa é uma coisa que eu faço e deveria fazer menos.'",
+   "ts": "1:15:42"
+  },
+  {
+   "movimento": "Objeção como gancho para fechar o arco",
+   "descricao": "Recebe a contestação sobre o silêncio, distingue os tipos de silêncio e volta à tese inicial, aplicando-a ao próprio grupo.",
+   "exemplo": "'Seu objetivo não é deixar o paciente confortável...'",
+   "ts": "1:40:25"
+  },
+  {
+   "movimento": "Recapitulação e fechamento com diagnóstico",
+   "descricao": "Resume os comentários longos, diagnostica a turma (intervém bem, interpreta mal), anuncia os próximos passos e abre tempo informal fora da gravação.",
+   "exemplo": "'Recapitulando, porque os comentários foram longos...'",
+   "ts": "1:45:39"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Diante de um pedido de encerramento, traga a reflexão para dentro da sessão em vez de devolvê-la ao paciente.",
+   "justificativa": "Se a responsabilidade é sua, dá para resolver junto; jogar o problema para a vida do paciente tira-o da clínica e você perde meio de ação.",
+   "contexto": "Ruptura aberta.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:36:13"
+  },
+  {
+   "dica": "Valide antes de negociar; não comece perguntando pelos 'benefícios' da decisão.",
+   "justificativa": "Perguntar pelos benefícios leva a conversa ao transacional antes de o paciente se sentir ouvido.",
+   "contexto": "Primeira resposta a uma queixa sobre a terapia.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:40:18"
+  },
+  {
+   "dica": "Hiperresponsabilize-se pelo problema da relação.",
+   "justificativa": "Responsabilização desarma e reduz a tensão; o analista responde até pela fantasia que o paciente tem dele (Lacan).",
+   "contexto": "Discussões tensas, na clínica e na vida.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:41:20"
+  },
+  {
+   "dica": "Interprete a ruptura como sintoma e trate-o na relação.",
+   "justificativa": "O motivo da saída muitas vezes repete o padrão que trouxe o paciente; se a dependência apareceu na relação, é ali que dá para tratá-la, e sair seria só trocar de objeto.",
+   "contexto": "Quando a queixa sobre a terapia ecoa a queixa clínica.",
+   "competencia": "Interpretação",
+   "ts": "0:47:18"
+  },
+  {
+   "dica": "Escute a palavra exata que o paciente usa.",
+   "justificativa": "'Encerrar' e 'dar um tempo' são diferentes; a troca pode ser ato falho e matéria de intervenção. Ouvir só 'a ideia' é fantasiar.",
+   "contexto": "Sempre.",
+   "competencia": "Escuta clínica",
+   "ts": "0:50:04"
+  },
+  {
+   "dica": "Não conceda 'um tempo' sem hipótese clínica.",
+   "justificativa": "Se a pessoa foge porque a terapia funciona, a pausa confirma a fuga; nesse caso, interprete a fuga. Pausas fazem sentido quando o paciente está menos em crise (Jung).",
+   "contexto": "Pedido de pausa em meio à tensão.",
+   "competencia": "Formulação de caso",
+   "ts": "0:52:57"
+  },
+  {
+   "dica": "Mostre que entendeu em vez de dizer 'eu entendo, porém...'.",
+   "justificativa": "Mostrar é mais potente do que dizer; gastar um minuto construindo o entendimento dá ao paciente a chance de corrigir.",
+   "contexto": "Acolher uma crítica ou decisão.",
+   "competencia": "Construção frasal",
+   "ts": "0:58:41"
+  },
+  {
+   "dica": "Não se justifique nem peça desculpas; foque em como vai melhorar concretamente.",
+   "justificativa": "Justificar soa defensivo e devolve a culpa ao paciente; o foco na melhora renova o vínculo.",
+   "contexto": "Situações tensas e litigiosas.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:08:15"
+  },
+  {
+   "dica": "Dê respostas reflexivas, não responsivas.",
+   "justificativa": "Rebater a acusação tende a ser erro; explorar o que a queixa significa aprofunda o trabalho.",
+   "contexto": "Quando o paciente acusa ou critica.",
+   "competencia": "Intervenção",
+   "ts": "1:09:47"
+  },
+  {
+   "dica": "Vigie o 'entendo' automático e, às vezes, diga que não entendeu.",
+   "justificativa": "Sair do automático chama a atenção do paciente; o vício vira problema quando contradiz a realidade (dizer que entendeu sem ter elementos). Mal entender também constrói relação.",
+   "contexto": "Quando o paciente ainda não trouxe elementos concretos.",
+   "competencia": "Construção frasal",
+   "ts": "1:11:42"
+  },
+  {
+   "dica": "Mostre sua humanidade quando o paciente te idealiza, não quando te critica.",
+   "justificativa": "Na crítica, 'sou humano' soa defensivo; descer do pedestal é o contrapeso da idealização.",
+   "contexto": "Escolher o momento de revelar falhas.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:13:53"
+  },
+  {
+   "dica": "Não exija detalhes de quem está vulnerável; faça o aquecimento primeiro.",
+   "justificativa": "Pedir especificidade cedo demais é violento; nenhuma intervenção é impossível, a questão é o timing (Moreno).",
+   "contexto": "Início de ruptura ou revelação difícil.",
+   "competencia": "Intervenção",
+   "ts": "1:16:52"
+  },
+  {
+   "dica": "Corte as perguntas de respiro; use uma pausa breve e a expressão facial.",
+   "justificativa": "Perguntas só para ganhar tempo não são usadas, diluem a potência ('quanto menos o clínico fala, mais impacto') e fazem você não escutar a resposta.",
+   "contexto": "Quando perceber que está preenchendo silêncio.",
+   "competencia": "Intervenção",
+   "ts": "1:27:49"
+  },
+  {
+   "dica": "Torne as perguntas mais visuais e concretas.",
+   "justificativa": "Pedir que o paciente imagine a cena dá mais força à intervenção.",
+   "contexto": "Explorar expectativas e desejos.",
+   "competencia": "Construção frasal",
+   "ts": "1:29:50"
+  },
+  {
+   "dica": "Quando estiver perdido, leve o tema para a relação terapêutica ou pergunte em que outras situações da vida isso se repete.",
+   "justificativa": "É o 'macete infinito de interpretação': quase sempre abre uma direção.",
+   "contexto": "Falta de direção na sessão.",
+   "competencia": "Interpretação",
+   "ts": "1:29:50"
+  },
+  {
+   "dica": "Ao propor continuar, peça UMA chance, com prazo e mudança concretos, e comprometa-se.",
+   "justificativa": "O paciente com a ruptura na cabeça não dará duas chances; deixar a porta aberta não transmite segurança (jogo do ultimato, Never Split the Difference).",
+   "contexto": "Final de uma ruptura; vale também para emprego e relacionamentos.",
+   "competencia": "Intervenção",
+   "ts": "1:33:04"
+  },
+  {
+   "dica": "Diferencie o silêncio para pensar do silêncio analítico.",
+   "justificativa": "O silêncio recomendado é imperceptível, só o tempo de pensar a próxima fala, e não a pausa intencional para o paciente produzir algo.",
+   "contexto": "Pacientes que não toleram silêncio.",
+   "competencia": "Intervenção",
+   "ts": "1:39:36"
+  },
+  {
+   "dica": "Busque o máximo desconforto que não rompa a relação, não o conforto do paciente.",
+   "justificativa": "A relação é antifrágil; o desenvolvimento acontece na borda do suportável.",
+   "contexto": "Calibrar a intensidade das intervenções.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:40:25"
+  },
+  {
+   "dica": "Parta do fato que o paciente relata e trabalhe a partir do rompimento.",
+   "justificativa": "Negar a vivência do paciente encerra o diálogo.",
+   "contexto": "Quando o paciente aponta uma falha do terapeuta.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:01:55"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O fator relacional de maior poder explicativo para o sucesso clínico é a ruptura e o restabelecimento da aliança.",
+   "argumento": "Achado empírico da literatura de PBE: relações que quase se rompem e não se rompem são mais funcionais a longo prazo, mais do que genuinidade ou horizontalidade.",
+   "contraponto": "Modelos que priorizam genuinidade, horizontalidade ou discrição do analista.",
+   "implicacao": "Treinar o manejo de rupturas vale mais do que evitá-las.",
+   "quem": "Alan",
+   "ts": "0:15:19"
+  },
+  {
+   "tese": "A relação terapêutica é antifrágil, e isso é compatível com qualquer abordagem.",
+   "argumento": "Analogia com o sistema imune e com relacionamentos que sobrevivem a crises; a presença exigida não precisa ser a personalidade do terapeuta.",
+   "contraponto": "A intuição de que o oposto do frágil é o rígido ou o plástico.",
+   "implicacao": "Intervenções conservadoras demais fragilizam o vínculo; é preciso dialética e conflito.",
+   "quem": "Alan",
+   "ts": "0:21:48"
+  },
+  {
+   "tese": "A relação terapêutica segue as regras gerais das relações humanas.",
+   "argumento": "'Ou você não sabe namorar ou não sabe atender'; o que funciona numa DR ou numa negociação salarial funciona na clínica.",
+   "contraponto": "A ideia de que a relação analítica é totalmente especial.",
+   "implicacao": "Usar a experiência relacional cotidiana como bússola; a terapia convida o terapeuta a ser um ser humano mais amplo.",
+   "quem": "Alan",
+   "ts": "0:37:12"
+  },
+  {
+   "tese": "Responsabilizar-se quase sempre é acerto numa discussão tensa.",
+   "argumento": "Lacan: a psicanálise responsabiliza mais do que qualquer sistema jurídico ou religioso, e o analista responde até pela fantasia do paciente sobre ele.",
+   "contraponto": "A crítica de que a psicanálise desresponsabiliza o sujeito.",
+   "implicacao": "Trazer o problema para si e resolvê-lo em sessão.",
+   "quem": "Alan",
+   "ts": "0:39:06"
+  },
+  {
+   "tese": "Não existe regra em terapia; quem passa regra é picareta. Mesmo assim, máximas ajudam.",
+   "argumento": "As regras gerais servem como tendências, não como dogmas.",
+   "contraponto": "",
+   "implicacao": "Usar máximas clínicas como heurísticas.",
+   "quem": "Alan",
+   "ts": "1:08:15"
+  },
+  {
+   "tese": "O objetivo não é o conforto do paciente, e sim o máximo desconforto que não rompa; o mesmo vale para grupos de formação.",
+   "argumento": "Antifragilidade e zona ótima de desenvolvimento: abaixo do limite é chato, acima é insuportável. No grupo, é bom se acostumar a falar da própria vida e a receber feedback crítico.",
+   "contraponto": "Uma participante que não tolera silêncio e prefere perguntas.",
+   "implicacao": "Calibrar a tensão em vez de evitá-la; justifica usar casos pessoais e dar feedback direto.",
+   "quem": "Alan",
+   "ts": "1:40:25"
+  },
+  {
+   "tese": "A interpretação da ruptura como fuga é transteórica; só muda o vocabulário.",
+   "argumento": "Deslocamento, esquiva, esquiva experiencial e contato nomeiam a mesma leitura; para a ACT, é até mais óbvia.",
+   "contraponto": "A pergunta de uma participante sobre se uma abordagem comportamental diria o mesmo.",
+   "implicacao": "Aprender jogadas clínicas em vários vocabulários.",
+   "quem": "Alan",
+   "ts": "0:55:13"
+  },
+  {
+   "tese": "Não existe intervenção impossível; o que importa é o aquecimento.",
+   "argumento": "Tudo, por mais absurdo, já foi proposto por algum clínico; o critério é o timing (Moreno).",
+   "contraponto": "",
+   "implicacao": "Deixar intervenções invasivas, como pedir especificidade, para quando o vínculo estiver formado.",
+   "quem": "Alan",
+   "ts": "1:16:52"
+  },
+  {
+   "tese": "Quase sempre que alguém pede um tempo, o correto seria ter encerrado.",
+   "argumento": "Analogia com o namoro: na prática, o pedido de tempo costuma esconder fuga ou fim.",
+   "contraponto": "Em abstrato, pausas podem fortalecer a relação.",
+   "implicacao": "Checar a hipótese clínica antes de conceder uma pausa.",
+   "quem": "Alan",
+   "ts": "0:54:01"
+  },
+  {
+   "tese": "Piaget é mal lido: era um filósofo moral, não um psicólogo da criança.",
+   "argumento": "O projeto de Piaget era unificar biologia, psicologia e ciência moral; a universidade recorta os autores para caberem na ementa.",
+   "contraponto": "O ensino universitário de desenvolvimento infantil.",
+   "implicacao": "Ler os autores na fonte.",
+   "quem": "Alan",
+   "ts": "1:43:40"
+  },
+  {
+   "tese": "Os alunos da Allos intervêm bem e interpretam mal.",
+   "argumento": "Nas dinâmicas de interpretação houve 'atrocidades'; nesta, todos ficaram pelo menos na média.",
+   "contraponto": "Talvez o critério do próprio Alan seja excessivo.",
+   "implicacao": "Próximos encontros devem reforçar a interpretação.",
+   "quem": "Alan",
+   "ts": "1:45:39"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "A parte mais importante da relação terapêutica é saber romper e restabelecer a relação.",
+   "tema": "ruptura e reparo",
+   "ts": "0:15:19"
+  },
+  {
+   "texto": "Intervenções muito conservadoras são o análogo de proteger demais a criança: o sistema imune fica frágil.",
+   "tema": "antifragilidade",
+   "ts": "0:23:32"
+  },
+  {
+   "texto": "Ou você não está sabendo namorar, ou não está sabendo atender, porque as duas coisas são bem parecidas.",
+   "tema": "relação terapêutica e relações humanas",
+   "ts": "0:37:12"
+  },
+  {
+   "texto": "Você é responsável inclusive pelas suas fantasias e, se é o analista, pela fantasia que o paciente tem sobre você.",
+   "tema": "responsabilização",
+   "ts": "0:39:06"
+  },
+  {
+   "texto": "Responsabilização desarma muito as pessoas. Se a responsabilidade é sua, dá para resolver.",
+   "tema": "responsabilização",
+   "ts": "0:41:20"
+  },
+  {
+   "texto": "Sempre que puder mostrar que entendeu, é mais interessante do que informar que está entendendo.",
+   "tema": "empatia",
+   "ts": "0:58:41"
+  },
+  {
+   "texto": "Não existe regra em terapia. Quem passa regra é picareta.",
+   "tema": "máximas clínicas",
+   "ts": "1:08:15"
+  },
+  {
+   "texto": "O objetivo aqui não é acertar; é errar para que as outras pessoas vejam.",
+   "tema": "formação em grupo",
+   "ts": "1:09:47"
+  },
+  {
+   "texto": "Mal entender a pessoa também é profundamente construtor de relação terapêutica.",
+   "tema": "escuta",
+   "ts": "1:11:42"
+  },
+  {
+   "texto": "A hora de mostrar que você errou é quando a pessoa está te colocando no pedestal.",
+   "tema": "pessoa do terapeuta",
+   "ts": "1:13:53"
+  },
+  {
+   "texto": "Se a pessoa está numa posição de vulnerabilidade, exigir especificidade na descrição tende a ser violento.",
+   "tema": "intervenção",
+   "ts": "1:16:52"
+  },
+  {
+   "texto": "Quanto menos o clínico fala, mais impacto tem o que ele diz.",
+   "tema": "intervenção",
+   "ts": "1:26:42"
+  },
+  {
+   "texto": "Se você vai pedir uma chance, peça uma chance.",
+   "tema": "negociação na clínica",
+   "ts": "1:35:01"
+  },
+  {
+   "texto": "Seu objetivo não é deixar o paciente confortável; é deixá-lo o mais desconfortável possível sem romper.",
+   "tema": "antifragilidade",
+   "ts": "1:40:25"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "O que mais prediz o sucesso da terapia não é o terapeuta ser acolhedor o tempo todo.",
+   "mensagem": "A pesquisa aponta a ruptura e o reparo da aliança; relações que quase se rompem ficam mais fortes (antifragilidade).",
+   "roteiro": [
+    "Mito: boa terapia é terapia sem conflito",
+    "O fator mais estudado: a relação terapêutica",
+    "O que mais explica o sucesso: romper e restabelecer",
+    "Frágil × rígido × plástico × antifrágil",
+    "Sistema imune e namoro como exemplos",
+    "Implicação: intervenções conservadoras fragilizam"
+   ],
+   "corte_inicio": "0:14:16",
+   "corte_fim": "0:24:26"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Seu objetivo não é deixar o paciente confortável.",
+   "mensagem": "O desconforto máximo que não rompe a relação é onde a pessoa cresce, entre o tédio e o insuportável.",
+   "roteiro": [
+    "Frase de impacto",
+    "Analogia com criar filhos",
+    "Zona ótima de desenvolvimento",
+    "Aplicação na clínica e na formação"
+   ],
+   "corte_inicio": "1:40:25",
+   "corte_fim": "1:42:29"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "5 erros quando o paciente diz que quer parar a terapia.",
+   "mensagem": "Não devolva a reflexão, valide primeiro, mostre em vez de dizer 'entendo', não se justifique e peça UMA chance concreta.",
+   "roteiro": [
+    "Capa: 'Quero parar a terapia'",
+    "Erro 1: 'Reflete sobre isso'",
+    "Erro 2: 'Quais os benefícios?' antes de validar",
+    "Erro 3: 'Entendo, porém...'",
+    "Erro 4: justificar-se ou dizer 'sou humano'",
+    "Erro 5: deixar a porta aberta",
+    "O que fazer: responsabilizar-se e interpretar"
+   ],
+   "corte_inicio": "0:36:13",
+   "corte_fim": "0:41:20"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pare de dizer 'entendo' para o seu paciente.",
+   "mensagem": "Às vezes dizer que não entendeu aproxima mais; sair do automático chama atenção, como responder algo diferente de 'bom dia'.",
+   "roteiro": [
+    "O 'entendo' automático",
+    "O exemplo do bom dia",
+    "Quando o vício contradiz a realidade",
+    "Alternativa: 'me ajuda a visualizar'"
+   ],
+   "corte_inicio": "1:10:45",
+   "corte_fim": "1:12:48"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Como 5 abordagens pensam a relação terapêutica.",
+   "mensagem": "Imago (Freud), significante (Lacan), destino × caminho (comportamental e sistêmica), dialética e cooperação (TCC), dialética com a realidade (Jung).",
+   "roteiro": [
+    "O nome já posiciona: transferência, aliança, relação",
+    "Freud",
+    "Lacan",
+    "Comportamental e sistêmica de 1ª ordem",
+    "TCC",
+    "Junguiana",
+    "Terapeuta-mentor"
+   ],
+   "corte_inicio": "0:00:02",
+   "corte_fim": "0:10:57"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Corte as perguntas que você faz só para ganhar tempo.",
+   "mensagem": "Perguntas de respiro diluem sua fala e te impedem de escutar; respire e faça só a intervenção que importa.",
+   "roteiro": [
+    "O que é pergunta de respiro",
+    "Por que enfraquece a clínica",
+    "Silêncio breve e expressão facial",
+    "Menos intervenções, mais impacto"
+   ],
+   "corte_inicio": "1:25:39",
+   "corte_fim": "1:29:13"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como treinamos a ruptura da aliança no Aprimoramento.",
+   "mensagem": "Roleplay de 2 minutos, feedback de quem faz o paciente, do grupo e do facilitador, e nova rodada para fazer melhor (só o formato, sem casos).",
+   "roteiro": [
+    "Tema do encontro",
+    "Formato do roleplay",
+    "Feedback em três camadas",
+    "Convite para o grupo"
+   ],
+   "corte_inicio": "0:27:12",
+   "corte_fim": "0:28:14"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Transferência como imago parental com carga infantil."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Transferência como significante qualquer; frase sobre a psicanálise responsabilizar mais do que qualquer sistema jurídico ou religioso."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Relação dialética entre consciência e inconsciente; imagem de 'chupar o veneno da cobra'; 'férias' na terapia quando o paciente está menos neurótico."
+  },
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Influência na centralidade da relação terapêutica na pesquisa americana; exemplo de clínico que usa automatismos como o 'entendo'."
+  },
+  {
+   "nome": "Nassim Nicholas Taleb",
+   "contexto": "Conceito de antifragilidade (citado como 'Talep' na legenda)."
+  },
+  {
+   "nome": "Jacob Levy Moreno",
+   "contexto": "Aquecimento como critério de timing da intervenção."
+  },
+  {
+   "nome": "Jean Piaget",
+   "contexto": "Zona ótima de desenvolvimento (atribuição de Alan) e leitura de Piaget como filósofo moral."
+  },
+  {
+   "nome": "Friedrich Nietzsche",
+   "contexto": "Aforismo 'quem tem um porquê suporta qualquer como', ecoado por um chute do chat."
+  },
+  {
+   "nome": "Chris Voss",
+   "contexto": "Autor de Never Split the Difference (nome não dito no vídeo; Alan cita só o livro e o descreve como ex-negociador de crises)."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico (Alan)",
+  "objetivo": "Treinar competências clínicas específicas (aqui: manejo de ruptura na relação terapêutica) com teoria breve, roleplay e feedback que gera regras gerais.",
+  "publico": "Estudantes de psicologia e psicólogos em formação na Allos, de diferentes abordagens.",
+  "tamanho": "Grupo online médio; vários participantes ativos no chat e 5 a 6 falando em voz.",
+  "duracao": "Cerca de 1h50, mais alguns minutos após a gravação.",
+  "estrutura_padrao": "Panorama comparativo curto, bloco teórico com perguntas de chute, consigna, rodadas de roleplay com casos reais (feedback da paciente, do grupo e do facilitador), discussão, fechamento com diagnóstico da turma e próximos passos.",
+  "papel_facilitador": "Expõe a teoria, escolhe casos e voluntários, dá combinados, conduz o feedback transformando erros específicos em regras gerais, dá notas, modela a responsabilização e diagnostica a turma.",
+  "regras_combinados": "Participação por voz e, de preferência, câmera; voluntários pré-selecionados online; roleplay curto; não vale alterar a realidade do caso; o erro é material de aprendizagem; acostumar-se a falar da própria vida e a receber feedback crítico."
+ },
+ "reflexoes_do_facilitador": [
+  "Admite que acrescenta teoria própria (antifragilidade) a uma literatura empírica e que não é a posição da autora; admite não lembrar o nome dela.",
+  "Diz que já fez essa dinâmica antes e que as pessoas tentavam 'alterar a realidade', por isso criou o combinado.",
+  "Online, prefere pré-selecionar quem responde para não ficar confuso; presencialmente deixaria qualquer um responder.",
+  "Reconhece o próprio defeito de 'esquadrinhar' problemas com muitas perguntas e diz que deveria fazer menos.",
+  "Avalia que a turma vai melhor em intervir do que em interpretar e pondera se o próprio critério é excessivo; está 'positivamente surpreso' com a capacidade interventiva.",
+  "Pensou numa dinâmica mais trabalhosa sobre abandono minguante, mas 'fez o que é fácil'; considera refazer esta dinâmica.",
+  "Planeja reforçar interpretação com dinâmicas mais simples ou formação mais teórica.",
+  "Reconhece digressões ('perdão pelo parêntese longo') e justifica criticar professores universitários porque a crítica é construtiva e os alunos já recebem muito do ensino universitário."
+ ],
+ "referencias_a_outros_encontros": [
+  "Retoma um exercício anterior de escuta fenomenológica ('treinem essa porcaria'), provavelmente o encontro Alan 08 - Escuta em fenomenologia.",
+  "Menciona dinâmicas anteriores de interpretação em que houve 'atrocidades', o que indica que este encontro não foi o primeiro do ciclo, apesar do número 01.",
+  "Cita a época dos antigos 'grupos de estudo'.",
+  "Planos futuros: talvez refazer esta dinâmica; dinâmica sobre ruptura minguante; formação mais teórica em interpretação; talvez um encontro sobre negociação ou preço.",
+  "Após a gravação, cerca de 5 minutos abertos para dúvidas."
+ ],
+ "observacoes": "Legenda automática com bastante ruído. Os nomes dos participantes aparecem deformados (Sullivan/Súlivan/Sulvão; Giovani/Geovani); a nota os anonimiza como voluntários 1, 2 e 3 e os casos A e B, que são experiências reais das participantes como pacientes, descritas genericamente. Alan não lembra o nome da autora da tese de ruptura e reparo ('Gluson/Gelson' na legenda); a identificação com a linha de Safran, Muran e Eubanks é inferência do fichamento. 'Talep' = Taleb. 'Caetel/Caetão/Quitel' é um colega clínico com nome incerto, citado sobre um 'contrato' com prazo para pacientes em risco de suicídio, que Alan diz explicitamente para não reproduzir. A 'zona de desenvolvimento proximal' aparece atribuída a Piaget (normalmente é atribuída a Vygotsky). 'Psicologia atomista(?)' e a referência mitológica do 'veneno da cobra' em Jung estão pouco claras. Há divergência sobre se o voluntário 3 disse 'sugestão' ou 'proposta' (a transcrição registra 'posso fazer uma proposta?'); o ponto de Alan é a palavra 'uma'. Embora numerado como 01, o encontro faz referência a exercícios anteriores (escuta fenomenológica, interpretação)."
+}

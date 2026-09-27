@@ -1,0 +1,766 @@
+{
+ "id": "pd-02",
+ "nota": "PD 02 - Origem da prática deliberada e armadilha da automaticidade",
+ "pasta": "10 - Fichamentos/Prática Deliberada",
+ "titulo": "Origem da prática deliberada e armadilha da automaticidade",
+ "serie": "Introdução à Prática Deliberada",
+ "formato": "Curso de PD",
+ "facilitadores": [
+  "Bernardo"
+ ],
+ "resumo": "Segunda aula do curso introdutório de prática deliberada. Bernardo retoma a estagnação da psicoterapia e a pergunta sobre o que faz alguém ser 'fora da curva'. O grupo responde e o facilitador abre o debate talento × trabalho duro, sintetizado como 'sim e sim'. O foco é o trabalho duro, por ser controlável. Apresenta o estudo de Anders Ericsson (1993) com músicos: os melhores praticavam mais, mas sobretudo de outro modo (metas específicas, concentração, feedback, treinadores) e ainda dormiam mais. O grupo derruba a ideia de que atender 20 pacientes por dia forma um bom terapeuta. Explica a origem do termo prática deliberada (prática sistematizada e dividida em objetivos, como o dedilhado do violino), a metanálise de Macnamara, Hambrick e Oswald (2014, r = 0,35, maior que obesidade × mortalidade) e o mecanismo das representações mentais (o campeão de memorização). Fecha com a automaticidade como faca de dois gumes: o Neymar pode ser mais fácil de marcar, o terapeuta experiente perde detalhes por preconceitos teóricos, e a humildade vira condição técnica. Anuncia os pilares da próxima aula: supervisão, feedback e objetivos.",
+ "em_uma_frase": "Especialistas nascem e são construídos. Ericsson mostrou que o que distingue os melhores é como praticam, com metas, foco e feedback, e daí nasce a prática deliberada, que constrói representações mentais. A automaticidade que ela produz, porém, cega e estagna o experiente se não for vigiada.",
+ "competencias": [
+  "Desenvolvimento profissional",
+  "Pessoa do terapeuta",
+  "Feedback clínico",
+  "Escuta clínica",
+  "Articulação teoria-prática"
+ ],
+ "abordagens": [],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Retomada",
+   "descricao": "Recapitula a aula 1: 40 anos de estagnação, falta de acesso à própria competência, vieses do feedback do paciente e da autopercepção, praticar sem saber para quê, motorista confiante.",
+   "funcao": "Situar os recém-chegados e reativar a tese.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:04:24",
+   "bloco": "Rodada de respostas",
+   "descricao": "'O que faz uma pessoa ser fora da curva?' Autocrítica; fracionar a dificuldade com supervisor; brilho nos olhos; estudo e curiosidade; humildade.",
+   "funcao": "Levantar as teorias implícitas sobre excelência.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:08:02",
+   "bloco": "Teoria",
+   "descricao": "Nota que ninguém mencionou talento; apresenta o debate talento × trabalho duro (Michael Jordan e a genética).",
+   "funcao": "Introduzir o debate clássico.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:10:19",
+   "bloco": "Discussão",
+   "descricao": "Opiniões: direcionamento; 'trabalho sim, duro não' (burnout); sorte; combinação dos dois; superdotados relapsos; relevância social da especialidade.",
+   "funcao": "Explorar as nuances e divergências.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:14:08",
+   "bloco": "Teoria",
+   "descricao": "'Especialistas nascem ou são construídos? Sim e sim.' Talento multifatorial que precisa ser polido (as categorias de base do futebol); o curso foca no trabalho duro por ser controlável.",
+   "funcao": "Síntese e recorte do curso.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:17:33",
+   "bloco": "Teoria",
+   "descricao": "Ericsson (1993) com violinistas e pianistas: os melhores começaram cedo e praticavam sozinhos o dobro, mas o como importa mais que o quanto (metas, concentração, feedback, treinadores); os melhores dormiam mais.",
+   "funcao": "Evidência fundadora.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:19:55",
+   "bloco": "Discussão",
+   "descricao": "'Atender 20 pacientes por dia faz de alguém um bom terapeuta?' Sobrecarga, dessensibilização e esgotamento; qualidade antes de quantidade; motorista sem acidente; limites.",
+   "funcao": "Transpor o dado para a clínica.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:25:20",
+   "bloco": "Teoria",
+   "descricao": "Ericsson cunha 'prática deliberada': prática sistematizada e dividida em objetivos específicos (dedilhado + ritmo); feedback e visão do todo; aplicações em esporte, medicina, cirurgia, ensino e xadrez.",
+   "funcao": "Definição e origem do termo.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:29:13",
+   "bloco": "Teoria",
+   "descricao": "Metanálise de Macnamara, Hambrick e Oswald (2014): correlação de 0,35 entre PD e desempenho.",
+   "funcao": "Apresentar o tamanho do efeito.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:30:13",
+   "bloco": "Rodada de respostas",
+   "descricao": "Pergunta-âncora sobre obesidade, tabagismo e álcool; tabela comparativa de correlações (todas menores que 0,35; obesidade × mortalidade ≈ 0,08); contraste de investimento.",
+   "funcao": "Traduzir a estatística pelo senso comum.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:34:12",
+   "bloco": "Discussão",
+   "descricao": "Reações ('a prática leva à perfeição', 'depende da prática'); objeção: mortalidade pesa mais que desempenho; exemplo do cirurgião.",
+   "funcao": "Crítica da comparação.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:37:35",
+   "bloco": "Teoria",
+   "descricao": "A PD como método mais eficaz baseado em evidências; representação mental (xadrez; Ericsson e Pool); 'deliberada' = visão e deliberação; campeão de memorização; padrões clínicos (abrir e fechar sessão, rupturas).",
+   "funcao": "Explicar o mecanismo cognitivo.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "0:43:04",
+   "bloco": "Teoria",
+   "descricao": "'Os melhores veem mais'; neuroimagem de músicos novatos, intermediários e habilidosos; Neymar com ativação mínima.",
+   "funcao": "Explicar o mecanismo neural.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:45:49",
+   "bloco": "Rodada de respostas",
+   "descricao": "'O Neymar é mais competente?' O grupo responde que ele introjetou e que para ele é mais fácil. Virada: um defensor atento o marca mais facilmente, porque ele é refém do automatismo.",
+   "funcao": "Pergunta com reviravolta para produzir o insight.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:49:07",
+   "bloco": "Teoria",
+   "descricao": "Empregadores preferem 'crus'; automaticidade boa e ruim; citação de Ericsson sobre a perda do controle consciente.",
+   "funcao": "Conceito-chave.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:50:22",
+   "bloco": "Discussão",
+   "descricao": "Transposição para a clínica: a confiança sobe e a competência não; preconceitos teóricos; recém-formados × experientes; o automatismo dificulta achar padrões de erro; humildade ('o ápice é o início da queda').",
+   "funcao": "Implicações clínicas.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:55:19",
+   "bloco": "Teoria",
+   "descricao": "Profissão imprevisível; cautela e humildade; os automatismos protegem do desamparo, mas cegam para a especificidade do caso.",
+   "funcao": "Síntese final.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:56:23",
+   "bloco": "Feedback",
+   "descricao": "'O que fica para vocês?' Comentários dos participantes; meta-comentário sobre o formato (slide com pergunta, não para ser lido).",
+   "funcao": "Consolidar e avaliar a aula.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:59:49",
+   "bloco": "Tarefa",
+   "descricao": "Pedir feedback já é princípio de PD; anuncia a próxima aula (conceito e pilares: supervisão, feedback, objetivos, já no contexto da psicoterapia); reenvia as referências e pede leitura.",
+   "funcao": "Gancho e leitura.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:01:49",
+   "bloco": "Fechamento",
+   "descricao": "Despedida.",
+   "funcao": "Encerramento.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Prática deliberada",
+   "definicao": "Termo cunhado por Anders Ericsson para distinguir a prática dos músicos excepcionais da simples prática repetitiva. É prática sistematizada, dividida em objetivos específicos de treinamento, que reúne metas específicas, concentração total, medição e feedback contínuos e acesso a treinadores, num esforço sistemático para estender os limites atuais do desempenho. A palavra 'deliberada' remete a visão e deliberação: ver o todo e decidir o que treinar.",
+   "exemplo": "Treinar o dedilhado do violino até dominá-lo para depois integrá-lo ao ritmo da outra mão.",
+   "abordagem": "Transteórico",
+   "ts": "0:25:20"
+  },
+  {
+   "nome": "Talento versus trabalho duro",
+   "definicao": "Debate sobre a origem da excelência. De um lado, traços genéticos e biológicos; de outro, tudo o que está ao alcance ambiental (estudo, esforço, autocrítica). A síntese é 'sim e sim': o talento existe, mas vem cru e precisa ser polido pelo trabalho, e só o trabalho está sob nosso controle.",
+   "exemplo": "Michael Jordan (genética); jogadores talentosos que passam pelas categorias de base para serem polidos.",
+   "abordagem": "Transteórico",
+   "ts": "0:14:08"
+  },
+  {
+   "nome": "Desempenho especializado",
+   "definicao": "O desempenho dos melhores de uma área (virtuosos, grandes enxadristas, atletas de elite), objeto dos estudos de Ericsson. O engajamento prolongado em prática deliberada se mostrou central para ele numa ampla gama de atividades.",
+   "exemplo": "Violinistas que se tornaram virtuosos × os que acabaram tocando num conjunto local.",
+   "abordagem": "Transteórico",
+   "ts": "0:28:07"
+  },
+  {
+   "nome": "Qualidade da prática",
+   "definicao": "O princípio de que, embora trabalhar duro seja necessário, a quantidade de prática é muito menos importante do que o modo como o tempo de prática é usado. Inclui o descanso adequado.",
+   "exemplo": "Os melhores violinistas dormiam cerca de 60 horas por semana contra 54,6 dos medianos; atender 20 pacientes por dia não forma um bom terapeuta.",
+   "abordagem": "Transteórico",
+   "ts": "0:18:48"
+  },
+  {
+   "nome": "Decomposição de habilidades",
+   "definicao": "Dividir uma habilidade complexa em componentes treináveis separadamente, dominando cada parte para depois integrá-las. É um traço definidor da prática deliberada, antecipado por uma participante como 'fracionar a dificuldade'.",
+   "exemplo": "O dedilhado no violino, treinado antes de ser juntado ao ritmo.",
+   "abordagem": "Transteórico",
+   "ts": "0:26:43"
+  },
+  {
+   "nome": "Visão do todo",
+   "definicao": "O panorama geral (big picture) do próprio desempenho, obtido por observação e feedback, que permite deliberar sobre o ponto específico a treinar.",
+   "exemplo": "Observar como se pratica para descobrir onde se está errando.",
+   "abordagem": "Transteórico",
+   "ts": "0:38:39"
+  },
+  {
+   "nome": "Metanálise",
+   "definicao": "Método estatístico de comparação dos estudos reunidos numa revisão sistemática, que permite chegar a um resultado geral.",
+   "exemplo": "A metanálise de Macnamara, Hambrick e Oswald (2014) sobre prática deliberada em vários domínios.",
+   "abordagem": "Transteórico",
+   "ts": "0:29:13"
+  },
+  {
+   "nome": "Coeficiente de correlação",
+   "definicao": "Medida da força da associação entre duas variáveis: quanto maior, mais se pode afirmar uma ligação entre elas. A correlação de 0,35 entre prática deliberada e desempenho supera as de fatores de risco consagrados com a mortalidade.",
+   "exemplo": "Obesidade × mortalidade ≈ 0,08; prática deliberada × desempenho = 0,35.",
+   "abordagem": "Transteórico",
+   "ts": "0:32:23"
+  },
+  {
+   "nome": "Representação mental",
+   "definicao": "'Mapa' mental composto por padrões de informação, fatos, regras e relacionamentos que permite processar grandes quantidades de informação rapidamente (Ericsson e Pool). É o que a prática deliberada constrói e o que distingue os melhores ('veem mais').",
+   "exemplo": "O campeão de memorização que transformava sequências numéricas em imagens ('Homem-Aranha soltando teia'); na clínica, padrões para abrir e encerrar a sessão e lidar com rupturas.",
+   "abordagem": "Transteórico",
+   "ts": "0:37:35"
+  },
+  {
+   "nome": "Automaticidade",
+   "definicao": "Fase do desenvolvimento da expertise em que o desempenho exige pouco esforço consciente. É boa e ruim ao mesmo tempo: dá um nível mais alto de controle, mas coincide com a estagnação ou deterioração, porque as pessoas perdem o controle consciente sobre as próprias ações e não conseguem mais fazer ajustes intencionais (Ericsson).",
+   "exemplo": "O Neymar usa pouquíssima ativação cerebral para jogar, e por isso um defensor atento pode antecipar seus padrões.",
+   "abordagem": "Transteórico",
+   "ts": "0:49:07"
+  },
+  {
+   "nome": "Excesso de confiança",
+   "definicao": "Com a experiência, a confiança do terapeuta tende a aumentar, mas a competência não acompanha.",
+   "exemplo": "O motorista confiante que raspa o carro.",
+   "abordagem": "Transteórico",
+   "ts": "0:50:22"
+  },
+  {
+   "nome": "Preconceito teórico",
+   "definicao": "Mapa de ação pronto que o terapeuta experiente aplica ao reconhecer um 'tipo' de paciente ('já sei o que é, vou fazer isso e isso'), arriscando perder o detalhe decisivo do caso.",
+   "exemplo": "O profissional que já tem todo o mapeamento da ação para certos pacientes e perde o detalhe que faria a diferença.",
+   "abordagem": "Transteórico",
+   "ts": "0:50:22"
+  },
+  {
+   "nome": "Humildade clínica",
+   "definicao": "Postura de cautela e questionamento diante da imprevisibilidade de cada caso, preservando o receio de errar do iniciante. É condição para não agir por scripts automáticos.",
+   "exemplo": "Metáfora de um participante: ter acesso à árvore da sabedoria sem perder o 'temor a Deus'; 'o ápice é o início da queda'.",
+   "abordagem": "Transteórico",
+   "ts": "0:55:19"
+  },
+  {
+   "nome": "Estagnação dos resultados da psicoterapia",
+   "definicao": "Retomada da aula 1: nos últimos 40 anos a psicoterapia não ficou mais eficaz, o que motiva a preocupação com a formação prática.",
+   "exemplo": "",
+   "abordagem": "Transteórico",
+   "ts": "0:00:01"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Pergunta disparadora",
+   "objetivo": "Fazer o grupo formular suas crenças sobre excelência, talento, volume de prática e competência antes de ver os estudos, para que o dado confirme, refine ou derrube a intuição de forma memorável.",
+   "competencias": [
+    "Desenvolvimento profissional",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Grupo todo, online, com slides, microfone e chat; cerca de 10 participantes.",
+   "tempo": "5 ciclos ao longo da aula, de 3 a 10 min cada.",
+   "materiais": "Slides com a pergunta antes do estudo; tabela comparativa de correlações; imagens de neuroimagem.",
+   "consigna": "'O que vocês acreditam que faz uma pessoa ser fora da curva?' / 'Entre talento e trabalho duro, qual é a opinião de vocês?' / 'Tem gente que acha que precisa atender 20 pessoas por dia para se tornar um bom terapeuta. Será que é verdade?' / 'Obesidade, tabagismo e álcool prejudicam a saúde?' / 'Isso significa que o Neymar é mais competente do que os outros jogadores?'",
+   "passos": [
+    "Fazer a pergunta aberta, generalizando para qualquer área quando convier.",
+    "Colher várias respostas e nomeá-las em voz alta.",
+    "Apontar o que não apareceu (o talento) para abrir o debate seguinte.",
+    "Mostrar o estudo e ligá-lo às respostas do grupo.",
+    "Na pergunta final (Neymar), aceitar as respostas e acrescentar um elemento que as vira (o defensor atento)."
+   ],
+   "feedback": "Valida ('perfeito', 'ótima observação', 'excelente metáfora'), sintetiza e às vezes adota a formulação do participante. Acolhe objeções (mortalidade × desempenho) sem desqualificá-las.",
+   "exemplos_praticos": "Uma participante antecipou a definição de PD (fracionar a dificuldade com supervisor). O debate talento × trabalho duro trouxe matizes fora do slide (burnout, sorte, relevância social). O grupo rejeitou em peso a ideia dos 20 pacientes por dia. Na pergunta do Neymar, dois participantes deram respostas plausíveis, validadas antes da reviravolta.",
+   "variacoes": "Primeira aplicação no PD 01 (eficácia da psicoterapia, autoavaliação do terapeuta).",
+   "armadilhas": "Se o grupo antecipa o conteúdo, reconhecer e seguir o roteiro. A estatística pode ser contestada: acolher a objeção. Perguntas 'óbvias' funcionam como âncora, mas não devem soar como pegadinha humilhante.",
+   "nivel": "iniciante",
+   "funciona_online": true,
+   "ts": "0:04:24"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Retomar para incluir quem chegou",
+   "descricao": "Nota as 'carinhas novas' e faz uma recapitulação de cerca de 4 min da aula anterior, com a mesma analogia central.",
+   "exemplo": "Recapitula a estagnação e o motorista confiante.",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Generalizar a pergunta para fora da clínica",
+   "descricao": "Pergunta sobre excelência em qualquer área, o que reduz a exposição pessoal e amplia os exemplos.",
+   "exemplo": "'O que faz uma pessoa ser fora da curva numa área de atuação?'",
+   "ts": "0:04:24"
+  },
+  {
+   "movimento": "Nomear e empilhar as contribuições",
+   "descricao": "Repete em voz alta a lista construída pelo grupo.",
+   "exemplo": "'Autocrítica, brilho nos olhos, quebrar em pedaços...'",
+   "ts": "0:06:50"
+  },
+  {
+   "movimento": "Apontar a ausência",
+   "descricao": "Usa o que faltou nas respostas para abrir o tema seguinte.",
+   "exemplo": "'É interessante que ninguém mencionou a questão do talento.'",
+   "ts": "0:08:02"
+  },
+  {
+   "movimento": "Reconhecer a antecipação sem perder o roteiro",
+   "descricao": "Quando um participante antecipa o conteúdo, valida e adia.",
+   "exemplo": "'Você já adiantou a discussão... isso eu ainda vou falar.'",
+   "ts": "0:05:36"
+  },
+  {
+   "movimento": "Antecipar a objeção do público",
+   "descricao": "Nomeia o que o grupo deve estar pensando para então mostrar o detalhe não óbvio.",
+   "exemplo": "'Vocês devem estar pensando: isso é muito óbvio...'",
+   "ts": "0:18:48"
+  },
+  {
+   "movimento": "Traduzir a estatística com uma âncora de senso comum",
+   "descricao": "Antes da tabela de correlações, pergunta se obesidade e tabagismo fazem mal, e dá voz com humor à dificuldade do grupo.",
+   "exemplo": "'Vocês me perguntam, Bernardo, mas eu não estudei psicometria...'",
+   "ts": "0:30:13"
+  },
+  {
+   "movimento": "Anedota pessoal ilustrativa",
+   "descricao": "Usa uma conversa própria para concretizar um conceito abstrato.",
+   "exemplo": "O campeão de memorização e o 'Homem-Aranha soltando teia'.",
+   "ts": "0:38:39"
+  },
+  {
+   "movimento": "Verificar a compreensão e admitir a dificuldade",
+   "descricao": "Pergunta se o grupo está acompanhando e reconhece que a parte é difícil.",
+   "exemplo": "'Deu para entender essa parte?' / 'Essa parte é difícil de explicar.'",
+   "ts": "0:42:17"
+  },
+  {
+   "movimento": "Pergunta com reviravolta",
+   "descricao": "Valida as respostas previsíveis e acrescenta um elemento que muda a leitura.",
+   "exemplo": "'Para um defensor atento, pode ser até mais fácil marcar o Neymar.'",
+   "ts": "0:47:23"
+  },
+  {
+   "movimento": "Ler e integrar o chat",
+   "descricao": "Traz para a fala os comentários escritos.",
+   "exemplo": "'Cria vícios'; 'recém-formados se esforçam mais?'; 'o automatismo dificulta encontrar padrões de erro'.",
+   "ts": "0:50:22"
+  },
+  {
+   "movimento": "Adotar a metáfora do participante",
+   "descricao": "Toma a imagem trazida pelo grupo como síntese.",
+   "exemplo": "'Excelente a metáfora que você utilizou' ('o ápice é o início da queda').",
+   "ts": "0:54:11"
+  },
+  {
+   "movimento": "Acolher a objeção sem defensividade",
+   "descricao": "Concede o ponto e reposiciona o argumento.",
+   "exemplo": "Aceita que mortalidade pesa mais que desempenho, mas lembra a estagnação da psicoterapia.",
+   "ts": "0:35:01"
+  },
+  {
+   "movimento": "Meta-comentário sobre o formato",
+   "descricao": "Explica o uso do slide como disparador de pergunta e pergunta se o formato está agradando.",
+   "exemplo": "'Eu gosto de trazer um recurso visual que não está ali para ser lido... Vocês estão gostando desse jeito?'",
+   "ts": "0:58:26"
+  },
+  {
+   "movimento": "Modelar o conteúdo na forma",
+   "descricao": "Explicita que pedir feedback sobre a aula é, em si, aplicação da PD.",
+   "exemplo": "'Esses feedbacks que eu estou pedindo já fazem parte de prática deliberada.'",
+   "ts": "0:59:49"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Não aumente o número de atendimentos como estratégia de desenvolvimento.",
+   "justificativa": "Volume sem qualidade gera vícios, dessensibilização e esgotamento; poucos atendimentos bem pensados valem mais que muitos maus atendimentos.",
+   "contexto": "Ao montar a agenda, sobretudo no início da carreira.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:22:00"
+  },
+  {
+   "dica": "Deixe intervalos entre as sessões e respeite os próprios limites.",
+   "justificativa": "Emendar sessões desgasta e piora a escuta; sem respeitar os limites, 'você retrocede em vez de avançar'.",
+   "contexto": "Rotina de consultório.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:24:13"
+  },
+  {
+   "dica": "Comece com poucos casos.",
+   "justificativa": "No início, até formular hipóteses durante a sessão exige esforço consciente, e muitos casos de uma vez fazem o iniciante se perder.",
+   "contexto": "Primeiros atendimentos.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:23:11"
+  },
+  {
+   "dica": "Treine com metas específicas, concentração total e feedback.",
+   "justificativa": "No estudo de Ericsson, o como da prática pesa mais que o quanto.",
+   "contexto": "Planejamento de estudo, supervisão ou treino.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:18:48"
+  },
+  {
+   "dica": "Divida a habilidade clínica em componentes e treine um de cada vez.",
+   "justificativa": "É o princípio do dedilhado: dominar a parte para depois integrá-la ao todo.",
+   "contexto": "Ao escolher o que treinar.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:26:43"
+  },
+  {
+   "dica": "Construa conscientemente padrões para as situações recorrentes (abrir e encerrar a sessão, lidar com rupturas).",
+   "justificativa": "Representações mentais bem organizadas liberam atenção para o que é novo no caso.",
+   "contexto": "Em treino, fora da sessão.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:41:00"
+  },
+  {
+   "dica": "Revise de tempos em tempos o que ficou automático no seu jeito de atender.",
+   "justificativa": "O automatismo te torna previsível e impede ajustes intencionais; quem automatizou tem mais dificuldade de enxergar o que pode melhorar.",
+   "contexto": "Periodicamente, em supervisão ou autoavaliação.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:47:50"
+  },
+  {
+   "dica": "Desconfie do 'já sei o que é' nos primeiros minutos com um paciente.",
+   "justificativa": "Preconceitos teóricos fazem aplicar um mapeamento pronto e perder o detalhe que faria a diferença.",
+   "contexto": "Primeiras sessões e casos 'típicos'.",
+   "competencia": "Escuta clínica",
+   "ts": "0:50:22"
+  },
+  {
+   "dica": "Use o medo e a ansiedade diante de um caso como convite a perguntar o que você está fazendo.",
+   "justificativa": "São desprazerosos, mas tiram você do script automático.",
+   "contexto": "Casos que assustam ou surpreendem.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:54:11"
+  },
+  {
+   "dica": "Se você é recém-formado, não tente se livrar logo do esforço consciente: use-o.",
+   "justificativa": "O medo e a atenção do iniciante podem render mais que a experiência cheia de vícios.",
+   "contexto": "Início de carreira.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:51:44"
+  },
+  {
+   "dica": "Busque uma visão do todo do seu trabalho antes de escolher o que treinar.",
+   "justificativa": "A deliberação exige ver o big picture e, a partir dele, o ponto específico a melhorar; o feedback dá essa visão.",
+   "contexto": "Definição de objetivos de desenvolvimento.",
+   "competencia": "Feedback clínico",
+   "ts": "0:38:39"
+  },
+  {
+   "dica": "Descanse.",
+   "justificativa": "Os melhores violinistas do estudo dormiam mais que os medianos; descanso faz parte do desempenho.",
+   "contexto": "Rotina de trabalho e estudo.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:19:55"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Especialistas nascem e são construídos, mas o que interessa à formação é o trabalho duro.",
+   "argumento": "O talento tem base multifatorial, mas vem cru e precisa ser polido. A genética não está sob nosso controle, o trabalho está.",
+   "contraponto": "A visão puramente inatista e, do lado do grupo, a crítica ao 'duro' do trabalho duro (burnout).",
+   "implicacao": "Concentrar a formação no que pode ser treinado.",
+   "quem": "Bernardo",
+   "ts": "0:15:15"
+  },
+  {
+   "tese": "Como se pratica importa mais do que quanto se pratica.",
+   "argumento": "Ericsson (1993): os melhores músicos praticavam com metas, concentração, feedback e treinadores, e descansavam mais.",
+   "contraponto": "O senso comum de que 'a prática leva à perfeição' por mera repetição.",
+   "implicacao": "Planejar o treino pela qualidade, não pelas horas.",
+   "quem": "Bernardo",
+   "ts": "0:18:48"
+  },
+  {
+   "tese": "Atender muitos pacientes não torna ninguém um terapeuta melhor.",
+   "argumento": "O volume sem deliberação gera vícios, dessensibilização e esgotamento; o achado de Ericsson sobre qualidade e descanso vale para a clínica.",
+   "contraponto": "Quem acredita que é preciso atender 20 pacientes por dia para se desenvolver.",
+   "implicacao": "Uma agenda sustentável e prática deliberada fora da sessão.",
+   "quem": "Bernardo e participantes",
+   "ts": "0:19:55"
+  },
+  {
+   "tese": "A prática deliberada é o método mais eficaz baseado em evidências para melhorar o desempenho, e está subinvestida.",
+   "argumento": "Metanálise de 2014 com r = 0,35, maior que as correlações de obesidade, álcool e tabagismo com mortalidade, que recebem enormes investimentos.",
+   "contraponto": "Uma participante lembra que a mortalidade é mais grave que o desempenho; o facilitador concede, mas defende o desempenho clínico diante da estagnação.",
+   "implicacao": "Levar o treino de desempenho tão a sério quanto o estudo teórico.",
+   "quem": "Bernardo",
+   "ts": "0:29:13"
+  },
+  {
+   "tese": "A automaticidade é boa e ruim ao mesmo tempo, e coincide com a estagnação.",
+   "argumento": "Dá controle com menos esforço, mas tira o controle consciente e a capacidade de ajuste intencional (Ericsson) e torna o experto previsível (o Neymar).",
+   "contraponto": "A ideia de que quanto mais fácil e automático, mais competente.",
+   "implicacao": "O treino deve devolver à consciência o que ficou automático para que possa ser ajustado.",
+   "quem": "Bernardo",
+   "ts": "0:49:07"
+  },
+  {
+   "tese": "O terapeuta experiente não é necessariamente mais competente que o recém-formado, e pode ser pior.",
+   "argumento": "A confiança cresce e a competência não acompanha; o experiente traz preconceitos teóricos e vícios, o novato traz medo e atenção.",
+   "contraponto": "A crença de que a experiência pura faz a diferença. O facilitador ressalva que a experiência importa ('criar casca'), mas depende de como é aproveitada.",
+   "implicacao": "Avaliar os terapeutas pelo desempenho, não pelo tempo de carreira.",
+   "quem": "Bernardo",
+   "ts": "0:51:44"
+  },
+  {
+   "tese": "Numa profissão imprevisível, humildade e cautela são condições técnicas.",
+   "argumento": "Cada paciente traz o inesperado; os automatismos protegem do desamparo, mas cegam para a especificidade do caso.",
+   "contraponto": "O pedantismo de quem se vê como detentor do saber (contribuição de um participante).",
+   "implicacao": "Cultivar uma postura de questionamento contínuo sobre as próprias intervenções.",
+   "quem": "Bernardo e participante",
+   "ts": "0:55:19"
+  },
+  {
+   "tese": "Pedir e receber feedback sobre a própria condução já é prática deliberada.",
+   "argumento": "O feedback é um dos princípios da PD, a ser apresentado na aula seguinte.",
+   "contraponto": "",
+   "implicacao": "Quem conduz grupos de treino deve modelar a busca de feedback.",
+   "quem": "Bernardo",
+   "ts": "0:59:49"
+  },
+  {
+   "tese": "Slides não são ruins em si; são odiados porque são mal formulados e mal montados.",
+   "argumento": "O bom slide é um recurso visual que abre uma pergunta, não um texto para ser lido sem interação.",
+   "contraponto": "Quem rejeita aulas com slides.",
+   "implicacao": "Em grupos de formação, usar o slide como disparador de discussão.",
+   "quem": "Bernardo",
+   "ts": "0:58:26"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Não adianta nada a gente praticar, praticar, praticar sem saber para que está praticando.",
+   "tema": "Prática com propósito",
+   "ts": "0:02:31"
+  },
+  {
+   "texto": "Os especialistas nascem ou são construídos? A resposta é sim e sim.",
+   "tema": "Talento e trabalho duro",
+   "ts": "0:14:08"
+  },
+  {
+   "texto": "Trabalhar duro é necessário, mas a quantidade é muito menos importante do que o como os melhores gastam seu tempo de prática.",
+   "tema": "Qualidade da prática",
+   "ts": "0:18:48"
+  },
+  {
+   "texto": "Não basta separar um tempo para praticar: você tem que pensar em como está praticando.",
+   "tema": "Qualidade da prática",
+   "ts": "0:19:55"
+  },
+  {
+   "texto": "O 'deliberada' de prática deliberada tem a ver com visão e deliberação: ver o todo do que você faz e decidir o que treinar.",
+   "tema": "Definição de prática deliberada",
+   "ts": "0:37:35"
+  },
+  {
+   "texto": "Os melhores literalmente veem mais.",
+   "tema": "Representação mental",
+   "ts": "0:43:04"
+  },
+  {
+   "texto": "Para um defensor atento, pode ser até mais fácil marcar o Neymar: ele pode se tornar refém do próprio automatismo.",
+   "tema": "Automaticidade",
+   "ts": "0:47:23"
+  },
+  {
+   "texto": "As pessoas perdem o controle consciente sobre a produção de suas ações e não são mais capazes de fazer ajustes intencionais nelas. (Anders Ericsson, citado em aula)",
+   "tema": "Automaticidade",
+   "ts": "0:50:09"
+  },
+  {
+   "texto": "A confiança tende a aumentar; a competência não acompanha a tendência da confiança.",
+   "tema": "Confiança e competência",
+   "ts": "0:50:22"
+  },
+  {
+   "texto": "O diabo mora nos detalhes. Na psicoterapia é a mesma coisa.",
+   "tema": "Especificidade do caso",
+   "ts": "0:51:17"
+  },
+  {
+   "texto": "A experiência faz diferença, sim, mas não a experiência pura: depende de como a gente aproveita essa experiência.",
+   "tema": "Experiência",
+   "ts": "0:51:44"
+  },
+  {
+   "texto": "O ápice também é o início da queda. (participante)",
+   "tema": "Humildade clínica",
+   "ts": "0:54:11"
+  },
+  {
+   "texto": "Os automatismos nos protegem do desamparo, mas podem nos tornar cegos aos detalhes que o caso traz.",
+   "tema": "Automaticidade",
+   "ts": "0:56:23"
+  },
+  {
+   "texto": "Esses feedbacks que eu estou pedindo a vocês já fazem parte da prática deliberada.",
+   "tema": "Feedback",
+   "ts": "0:59:49"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Atender 20 pacientes por dia não faz de você um terapeuta melhor",
+   "mensagem": "O estudo de Ericsson com músicos mostrou que o como pesa mais que o quanto (metas, foco, feedback, treinador) e que os melhores ainda dormiam mais.",
+   "roteiro": [
+    "Capa: mais pacientes = mais experiência = melhor terapeuta?",
+    "O estudo de Ericsson (1993) com violinistas e pianistas",
+    "Os melhores praticavam mais, mas sobretudo de outro jeito",
+    "4 ingredientes: metas, concentração, feedback, treinador",
+    "E dormiam mais: 60 contra 54,6 horas por semana",
+    "Na clínica: sobrecarga gera vícios e dessensibilização",
+    "Fecho: qualidade antes de volume"
+   ],
+   "corte_inicio": "0:17:33",
+   "corte_fim": "0:25:20"
+  },
+  {
+   "formato": "reels",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Talento ou treino? Sim e sim",
+   "mensagem": "O talento existe, mas vem cru e precisa ser polido; só o trabalho está sob nosso controle.",
+   "roteiro": [
+    "Cena 1: especialistas nascem ou são construídos?",
+    "Cena 2: o exemplo do Michael Jordan",
+    "Cena 3: o talento precisa ser polido (categorias de base)",
+    "Cena 4: foque no que você controla"
+   ],
+   "corte_inicio": "0:14:08",
+   "corte_fim": "0:17:33"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "A prática deliberada prevê o desempenho mais do que a obesidade prevê a mortalidade",
+   "mensagem": "Metanálise de 2014: r = 0,35 entre prática deliberada e desempenho, acima de correlações de fatores de risco consagrados.",
+   "roteiro": [
+    "Capa: o número 0,35",
+    "O que é um coeficiente de correlação",
+    "A tabela: obesidade, álcool, tabagismo, inteligência, adesão",
+    "Todos abaixo de 0,35",
+    "Por que investimos tão pouco em treino?",
+    "Ressalva: mortalidade é mais grave, mas o desempenho clínico importa"
+   ],
+   "corte_inicio": "0:29:13",
+   "corte_fim": "0:34:12"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "O paradoxo do Neymar",
+   "mensagem": "O automatismo facilita, mas torna o experto previsível e incapaz de se ajustar, e o terapeuta experiente corre o mesmo risco.",
+   "roteiro": [
+    "Cena 1: o cérebro do Neymar quase não 'acende' ao jogar",
+    "Cena 2: então ele é mais competente?",
+    "Cena 3: para um defensor atento, é mais fácil marcá-lo",
+    "Cena 4: a citação de Ericsson sobre a perda do controle consciente",
+    "Cena 5: e o seu jeito de atender, ficou previsível?"
+   ],
+   "corte_inicio": "0:45:49",
+   "corte_fim": "0:50:22"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "O Homem-Aranha e o código de barras",
+   "mensagem": "Representações mentais agrupam informação em padrões; ter padrões conscientes para abrir e fechar a sessão libera atenção para o paciente.",
+   "roteiro": [
+    "Imagem: 0-1-2-3-4 = Homem-Aranha soltando teia",
+    "Legenda: o que os expertos fazem e como isso vale para a sessão"
+   ],
+   "corte_inicio": "0:38:39",
+   "corte_fim": "0:42:17"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Recém-formado ou experiente: quem atende melhor?",
+   "mensagem": "A experiência pura não garante competência; o medo e a atenção do iniciante podem ser vantagem.",
+   "roteiro": [
+    "Capa: a pergunta",
+    "O experiente gasta menos esforço",
+    "Mas chega com preconceitos teóricos",
+    "O diabo mora nos detalhes",
+    "O iniciante tem medo e por isso presta atenção",
+    "Fecho: a experiência vale pelo que você faz com ela"
+   ],
+   "corte_inicio": "0:50:22",
+   "corte_fim": "0:52:53"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Enquete: o que faz alguém ser fora da curva?",
+   "mensagem": "As respostas de um grupo de formação (autocrítica, curiosidade, fracionar a dificuldade) levam à prática deliberada.",
+   "roteiro": [
+    "Caixa de perguntas",
+    "Respostas do grupo",
+    "Revelação: o estudo de Ericsson"
+   ],
+   "corte_inicio": "0:04:24",
+   "corte_fim": "0:08:02"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Anders Ericsson",
+   "contexto": "Psicólogo sueco. Estudo de 1993 com violinistas e pianistas; cunhou o termo 'prática deliberada'; citado sobre a automaticidade e a perda do controle consciente."
+  },
+  {
+   "nome": "Robert Pool",
+   "contexto": "Coautor com Ericsson ('Ericsson e Pool'), citado sobre as representações mentais como mapas de padrões, fatos, regras e relacionamentos."
+  },
+  {
+   "nome": "Brooke Macnamara",
+   "contexto": "Primeira autora da metanálise de 2014 sobre prática deliberada e desempenho (r = 0,35). Na legenda aparece como 'Mcnamara'."
+  },
+  {
+   "nome": "David Hambrick",
+   "contexto": "Coautor da metanálise de 2014. Na legenda aparece como 'Henrick'."
+  },
+  {
+   "nome": "Frederick Oswald",
+   "contexto": "Coautor da metanálise de 2014."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Introdução à Prática Deliberada (curso do Núcleo de Prática Deliberada da Allos)",
+  "objetivo": "Introduzir o conceito, as evidências e os princípios da prática deliberada, passando da ciência da expertise em geral (música, esporte, xadrez) para a psicoterapia.",
+  "publico": "Grupo aberto de 'potenciais associados' da Allos: estudantes e psicólogos, alguns já atendendo, alguns vindos dos grupos do Alan.",
+  "tamanho": "Cerca de 10 participantes ativos online, com gente nova em relação à aula 1.",
+  "duracao": "Cerca de 1 hora por encontro, semanal (quinta-feira à noite), numa série de 8 encontros mais 1 extra.",
+  "estrutura_padrao": "Retomada da aula anterior → pergunta aberta ao grupo → estudo ou dado em slide → discussão → transposição para a clínica → síntese → rodada 'o que fica?' com feedback sobre o formato → anúncio da próxima aula e das leituras.",
+  "papel_facilitador": "Expositor-dialógico: perguntas antes dos dados, síntese das respostas, tradução de estatística, anedotas e perguntas com reviravolta. Modela a prática deliberada pedindo feedback.",
+  "regras_combinados": "Referências enviadas no grupo (WhatsApp) e reenviadas para quem faltou; espera-se leitura acompanhando o curso; aula gravada; participação por microfone e chat."
+ },
+ "reflexoes_do_facilitador": [
+  "'Essa parte é difícil de explicar, mas que bom que vocês entenderam' (representações mentais).",
+  "Explica o próprio uso de slides: um recurso visual que abre uma pergunta, não um texto para ser lido sem interação.",
+  "Pergunta se o formato está agradando ('às vezes também fica chato').",
+  "Hipótese dele: as pessoas odeiam slides porque são mal formulados e mal montados.",
+  "Explicita que pedir feedback sobre a aula já é aplicação de um princípio da prática deliberada."
+ ],
+ "referencias_a_outros_encontros": [
+  "Retoma a aula 1: estagnação de 40 anos, falta de acesso à própria competência, estudo longitudinal de queda de desempenho com a experiência.",
+  "Próxima aula: conceito e princípios fundamentais da PD, os pilares (supervisão, feedback, estabelecimento de objetivos), já no contexto da psicoterapia, deixando de lado música, xadrez e esporte.",
+  "As referências bibliográficas foram enviadas na aula anterior e serão reenviadas.",
+  "Uma participante menciona um grupo com o Alan sobre prática e performance e os livros enviados pelo facilitador no WhatsApp."
+ ],
+ "observacoes": "Facilitador: Bernardo (ele se nomeia ao simular a pergunta do grupo em 0:30:13; sobrenome não aparece). Os nomes dos autores da metanálise vêm deformados na legenda ('Mcnamara, Henrick e Oswald') e foram corrigidos para Macnamara, Hambrick e Oswald (Psychological Science, 2014). As fontes da tabela comparativa de correlações e do estudo de neuroimagem com o Neymar não são detalhadas. O facilitador inverte momentaneamente revisão sistemática e metanálise e se corrige. O dado do sono é dito como '5,4 horas a mais', com 60 × 54,6 horas por semana. O exemplo de um participante sobre um médico conhecido foi anonimizado. A legenda tem ruído ('Kameramá' = Kamehameha, 'APD' = a PD)."
+}

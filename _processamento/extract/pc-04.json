@@ -1,0 +1,1177 @@
+{
+  "id": "pc-04",
+  "nota": "Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados",
+  "pasta": "10 - Fichamentos/Prática Clínica",
+  "titulo": "Velocidade e criatividade clínica em atendimentos simulados",
+  "serie": "Prática clínica",
+  "formato": "Prática clínica",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Terceiro encontro do grupo de Prática clínica, no eixo 'didático por meio da visualização'. Alan conduz a leitura comentada de dois atendimentos de referência feitos no simulador de pacientes de IA da Allos, ambos rápidos: o de Alice, participante de estilo centrado na pessoa e experiencial (paciente jovem e intelectualizada; recusa elegante do discurso pronto, silêncio, pergunta imprevisível, tapete imaginário, tocar violoncelo sem ensaio; nota 97-98 do avaliador de IA), e o dele, interpretativo (menino de 10 anos que chega como detetive; Alan mantém o enquadre lúdico, lê 'A carta roubada', trabalha com várias hipóteses em suspenso e máximas). Entre as leituras, Alan defende que acelerar é menos violento do que ir com calma, que 'agressivo é não fazer', que a clínica memorável se diferencia do discurso corrente e que a velocidade (timing clínico) é o critério mais relevante para estabelecer uma clínica, inclusive comercialmente. O encontro estoura o horário e a comparação fica incompleta; o próximo passo anunciado é passar da visualização à execução, com vinhetas de construção de frase.",
+  "em_uma_frase": "Lendo dois atendimentos simulados de referência (um experiencial, outro interpretativo), Alan mostra que dá para acelerar a clínica desde a primeira sessão sem romper o vínculo e defende a velocidade como o critério clínico mais relevante para quem começa.",
+  "competencias": [
+    "Intervenção",
+    "Construção frasal",
+    "Relação terapêutica",
+    "Direção do tratamento",
+    "Primeira sessão e entrevistas iniciais",
+    "Interpretação",
+    "Aprofundamento",
+    "Psicoeducação",
+    "Escuta clínica",
+    "Feedback clínico",
+    "Desenvolvimento profissional"
+  ],
+  "abordagens": [
+    "Abordagem centrada na pessoa",
+    "Terapia sistêmica",
+    "Terapia cognitivo-comportamental",
+    "Psicanálise freudiana"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:00",
+      "bloco": "Abertura",
+      "descricao": "Apresentação do eixo (visualização, construção de frase, criatividade clínica) e da proposta: dois atendimentos de referência, ambos rápidos, um experiencial (Alice) e um interpretativo (Alan); anúncio de que desta vez vai elogiar.",
+      "funcao": "Nomear o erro-alvo (passividade e lentidão) e justificar ter duas referências em vez de um modelo único.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:03:41",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Logística: localizar o arquivo do log no grupo de WhatsApp; quem não está no grupo específico acompanha pela tela compartilhada.",
+      "funcao": "Garantir acesso de todos ao material.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:05:04",
+      "bloco": "Demonstração",
+      "descricao": "Alice lê a abertura da 1ª sessão: paciente simulada atrasada, intelectualizada, que insiste que veio por conta própria e cita Foucault.",
+      "funcao": "Apresentar o caso pelo texto literal.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:07:46",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta ao grupo se a abertura indica uma direção; enquete no chat: seguir a direção da paciente ou recusá-la.",
+      "funcao": "Comprometer cada participante com uma escolha antes de ver a da terapeuta.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:09:44",
+      "bloco": "Discussão",
+      "descricao": "A maioria seguiria; Alan diz que o caso 'tem cheiro de recusar' e antecipa o contraste entre a recusa de Alice e o seu 'abraçar o sintoma'.",
+      "funcao": "Mostrar que seguir é a escolha intuitiva por tensionar menos o vínculo.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:11:31",
+      "bloco": "Demonstração",
+      "descricao": "Intervenção 'você quer ser sujeito, mas me trouxe duas vozes que não são você'; Alice explica o raciocínio.",
+      "funcao": "Modelo de recusa que fortalece o vínculo.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:13:25",
+      "bloco": "Teoria",
+      "descricao": "Notar o que 'não seria normal' no discurso; regra geral 'de picareta' sobre o perigo de não agir; recusar não é 'te peguei', é psicoeducação implícita; iniciantes devem explicitar.",
+      "funcao": "Transformar a cena em princípios transferíveis.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:18:19",
+      "bloco": "Comparação de abordagens",
+      "descricao": "Alan diz que não faria aquela intervenção e faria uma com humor e ironia; marcador 'se a sessão acabasse aqui, a paciente sairia mexida?'; acelerar na primeira sessão.",
+      "funcao": "Mostrar estilos diferentes com a mesma função e oferecer um critério de qualidade.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:21:04",
+      "bloco": "Demonstração",
+      "descricao": "Silêncio: a paciente reconhece 'a técnica' e mesmo assim traz conteúdo próprio; Alan usa a metáfora do mágico que faz mágica para mágicos.",
+      "funcao": "Desfazer o medo de que pacientes informados neutralizem técnicas.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:25:43",
+      "bloco": "Discussão",
+      "descricao": "Um participante teria cedido; Alice conta que com IA não teme o conflito; Alan afirma o ritmo adequado e que acelerar é menos violento.",
+      "funcao": "Extrair o insight ético da velocidade.",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:28:09",
+      "bloco": "Demonstração",
+      "descricao": "Fim da 1ª sessão: a paciente diz que veio para um debate e as perguntas simples foram difíceis; Alan nomeia o assentimento tácito como marcador.",
+      "funcao": "Critério de qualidade para a primeira sessão.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:29:30",
+      "bloco": "Demonstração",
+      "descricao": "2ª sessão: argumento ensaiado sobre Bauman; Alan conta, como programador do simulador, que o modelo superou a instrução dada à personagem.",
+      "funcao": "Bastidores da ferramenta e leitura do sintoma que se repete.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:32:03",
+      "bloco": "Dinâmica",
+      "descricao": "Alan pede ao grupo que explique a intervenção do 'nome do meu cachorro de infância' antes de ler a continuação; um participante responde 'quebrar o script'.",
+      "funcao": "Treinar a leitura da função de uma intervenção criativa.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:35:18",
+      "bloco": "Demonstração",
+      "descricao": "Cachorro e nome da mãe; 'como é se abandonar?'; tapete imaginário, silêncio, insight sobre o violoncelo e lembrança do pai.",
+      "funcao": "Mostrar o arco experiencial da intervenção criativa.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:39:23",
+      "bloco": "Teoria",
+      "descricao": "Linha de desenvolvimento: da confrontação da voz pronta à pergunta imprevisível e à experiência cujo rumo nem a terapeuta conhece; o silêncio como leitmotiv (retorno ao diferente).",
+      "funcao": "Ensinar a graduar o imprevisível e a ler o retorno de um tema.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:44:40",
+      "bloco": "Demonstração",
+      "descricao": "Sentar no chão com a paciente; 'nunca falou o quê?'; mão no ombro; convite para tocar sem ensaio na próxima sessão.",
+      "funcao": "Técnica de pedir que a paciente diga ela mesma.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:47:23",
+      "bloco": "Teoria",
+      "descricao": "Clínica memorável e diferenciação do discurso corrente; argumento econômico (paciente que traz outros), motivação, 'não tem mistério atender direito', clínica e amizade.",
+      "funcao": "Parêntese motivacional que liga qualidade clínica a retenção e indicação.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:52:39",
+      "bloco": "Demonstração",
+      "descricao": "Sessões finais: a paciente toca sem ensaio, a terapeuta fica com os olhos marejados, 'isso quê?', a paciente manda mensagem para a amiga dentro da sessão.",
+      "funcao": "Mostrar ação concreta dentro do setting.",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:57:02",
+      "bloco": "Teoria",
+      "descricao": "Tarefa de casa é mais agressiva do que agir na sessão; exemplo real e anonimizado de uma intervenção antiga de Alan; 'agressivo é você não fazer'.",
+      "funcao": "Viés da inação e manejo do imprevisto.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "1:00:35",
+      "bloco": "Feedback",
+      "descricao": "Alice fecha o caso; Alan recapitula o arco, mostra a nota da IA (97, 97, 98), classifica o atendimento como ACP clássica com criatividade dentro do repertório e lembra que o feedback qualitativo sempre encontra o que melhorar.",
+      "funcao": "Fixar o atendimento como referência quantitativa e qualitativa.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "1:04:23",
+      "bloco": "Combinados",
+      "descricao": "Duas perguntas ao grupo: ficou claro o ponto sobre velocidade? Querem ver o segundo atendimento agora? O grupo prefere ver mais um exemplo.",
+      "funcao": "Checar o entendimento e negociar o tempo.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "1:07:44",
+      "bloco": "Demonstração",
+      "descricao": "Caso Enzo: preâmbulo, explicação dos comentários entre chaves e enquete 'manter ou quebrar o enquadre?'; o grupo manteria.",
+      "funcao": "Preparar o contraste com o atendimento de Alice.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "1:11:39",
+      "bloco": "Demonstração",
+      "descricao": "1ª sessão de Alan: árvore de decisão, 'não se aceitam pistas de bandeja', transparência das hipóteses, triangulação com o pai, recusa de patologizar, leitura de 'A carta roubada', lição da semana, assimetria.",
+      "funcao": "Mostrar como montar a moldura que depois permite acelerar.",
+      "duracao_min": 13
+    },
+    {
+      "ts": "1:24:27",
+      "bloco": "Discussão",
+      "descricao": "Um participante descreve a relação como 'huizinguiana', vertical dentro da brincadeira; outro pergunta por que não usar uma história que a criança conhece; Alan defende usar a linguagem dele sem baixar a régua.",
+      "funcao": "Debater a escolha da relação terapêutica e o nível da linguagem.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "1:30:35",
+      "bloco": "Demonstração",
+      "descricao": "Fim da 1ª sessão e 2ª sessão: padrões cotidianos trazidos pelo menino, frase do comissário Gordon, intervenções que não colam e reestruturação.",
+      "funcao": "Mostrar o erro como parte do método.",
+      "duracao_min": 7
+    },
+    {
+      "ts": "1:37:21",
+      "bloco": "Dúvidas",
+      "descricao": "'A mãe seria um gancho?' Alan explica que trabalha com hipóteses simultâneas e foi para os dois lados; normal x comum; espelhamento do gesto; pergunta direta sobre o pai que se cala.",
+      "funcao": "Ensinar a acelerar por interpretação.",
+      "duracao_min": 14
+    },
+    {
+      "ts": "1:51:53",
+      "bloco": "Combinados",
+      "descricao": "Consulta: continuar ou fechar? Horário estourado e outro grupo começando.",
+      "funcao": "Gestão do tempo.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "1:52:37",
+      "bloco": "Fechamento",
+      "descricao": "Síntese do acelerar interpretativo ('transpor o que o paciente pode ouvir não é problema se você sabe reestruturar'); próximo passo: da visualização à execução, com vinhetas de construção de frase.",
+      "funcao": "Consolidar e anunciar a continuidade do eixo.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "1:55:28",
+      "bloco": "Dúvidas",
+      "descricao": "Pergunta sobre o esquema de aprofundamento usado: nenhum; 'fazer o bolo crescer' (sistêmica); máximas clínicas e braqueologia; desfecho do caso (do investigador ao inventor).",
+      "funcao": "Ligar o caso ao repertório técnico do grupo.",
+      "duracao_min": 6
+    },
+    {
+      "ts": "2:01:48",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Como entrar no subgrupo de WhatsApp de Prática clínica; despedida.",
+      "funcao": "Logística.",
+      "duracao_min": 1
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Velocidade clínica",
+      "definicao": "O ritmo com que a condução produz efeitos clínicos, que Alan também chama de 'economia do tempo' e 'timing clínico'. Ele a considera o critério mais relevante para quem está estabelecendo uma clínica, porque evita a perda de pacientes nas primeiras sessões e gera indicação. Defende acelerar justamente no início do tratamento.",
+      "exemplo": "Em menos de 4 minutos a intervenção de Alice já teria deixado a paciente 'mexida' se a sessão acabasse ali.",
+      "abordagem": "",
+      "ts": "0:50:56"
+    },
+    {
+      "nome": "Criatividade clínica",
+      "definicao": "Uso de elementos inventivos da clínica para acelerar o caso e fazê-lo 'acontecer': perguntas imprevisíveis, experiências na sessão, contos, moldura lúdica. Alan associa a clínica mais inventiva a maior potência e a atendimentos memoráveis.",
+      "exemplo": "Pergunta sobre o nome do cachorro de infância da terapeuta; tapete imaginário; leitura de 'A carta roubada' para uma criança.",
+      "abordagem": "",
+      "ts": "0:19:05"
+    },
+    {
+      "nome": "Psicoeducação implícita e explícita",
+      "definicao": "A implícita mostra ao paciente, em ato, como a clínica funciona (o aqui e agora, a voz dele), sem teorizar. A explícita conta ao paciente o que o terapeuta está fazendo. Alan acha a implícita mais bonita e elegante, mas recomenda a explícita a quem está começando.",
+      "exemplo": "A recusa de Alice ao discurso pronto 'é o equivalente do que o pessoal de TCC faz com psicoeducação', só que sem explicitar.",
+      "abordagem": "Terapia cognitivo-comportamental",
+      "ts": "0:15:33"
+    },
+    {
+      "nome": "Assentimento tácito",
+      "definicao": "Concordância do paciente com a proposta clínica sem contrato explícito. Se até a 1ª ou no máximo a 2ª sessão o paciente não 'sacou' como a clínica funciona, provavelmente há erro na estrutura da condução.",
+      "exemplo": "A paciente diz que veio preparada para um debate intelectual e que as perguntas simples foram as mais difíceis; o menino entende sem explicação que está com um 'detetive sênior'.",
+      "abordagem": "",
+      "ts": "0:29:08"
+    },
+    {
+      "nome": "Viés da inação",
+      "definicao": "Tendência a temer apenas o risco de intervir e ignorar o custo de não intervir. Para Alan, as pessoas são conservadoras demais e 'ninguém está vendo o perigo que existe em não agir'; 'agressivo é você não fazer'.",
+      "exemplo": "Uma intervenção antiga (sugerir o bloqueio de uma parceira em sessão) precipitou um término, e a paciente depois reconheceu que teria ficado anos numa relação ruim.",
+      "abordagem": "",
+      "ts": "0:59:35"
+    },
+    {
+      "nome": "Silêncio terapêutico",
+      "definicao": "Silêncio que abre espaço para o paciente aparecer. Funciona mesmo quando o paciente conhece e nomeia a técnica, como a mágica que funciona para mágicos.",
+      "exemplo": "A paciente simulada diz 'é técnica, né?' e logo depois traz conteúdo próprio.",
+      "abordagem": "",
+      "ts": "0:23:32"
+    },
+    {
+      "nome": "Leitmotiv",
+      "definicao": "Termo da ópera para o tema que retorna. Aqui é o silêncio, que volta com novo significado porque o atendimento progrediu: 'não é mais um retorno ao mesmo, é um retorno ao diferente'.",
+      "exemplo": "O silêncio passa de 'espaço para eu falar' à lembrança de que, tocando violoncelo, a paciente não precisa saber o que dizer.",
+      "abordagem": "",
+      "ts": "0:43:41"
+    },
+    {
+      "nome": "Paciente simulado por inteligência artificial",
+      "definicao": "Personagem da ferramenta da Allos, programada por Alan, que os terapeutas atendem por escrito. Gera logs com comentários para o supervisor (entre chaves, invisíveis ao simulador) e recebe nota de um avaliador de IA (90 a 100 seria um 'Hall of Fame' interno).",
+      "exemplo": "A instrução da personagem era trazer um novo autor por semana, mas o modelo 'percebeu' que ela já estava autoconsciente e fez a paciente notar que repetia o padrão.",
+      "abordagem": "",
+      "ts": "0:30:23"
+    },
+    {
+      "nome": "Enquadre clínico",
+      "definicao": "A moldura da relação e do trabalho, que pode ser mantida ou quebrada. Manter o enquadre trazido pelo paciente pode permitir falar de temas insuportáveis 'como jogo' e ser totalmente transparente com as hipóteses.",
+      "exemplo": "Alan aceita a forma 'médico-detetive' que o pai usou para levar o menino à terapia, mas recusa o conteúdo (o inspetor da escola).",
+      "abordagem": "",
+      "ts": "1:11:39"
+    },
+    {
+      "nome": "Transparência de hipóteses",
+      "definicao": "Explicitar ao paciente o próprio raciocínio clínico. Alan diz que 'em regra é um acerto': é mais fácil conduzir como 'duas pessoas cooperando para entender um mistério' do que com um raciocínio obscuro para o paciente.",
+      "exemplo": "'Em regra, se você está anotando alguma coisa, está anotando para mostrar ao paciente.'",
+      "abordagem": "",
+      "ts": "1:14:43"
+    },
+    {
+      "nome": "Hipóteses em suspenso",
+      "definicao": "Manter várias direções clínicas abertas e tensionadas ao mesmo tempo, testá-las rápido, voltar atrás e escolher o gancho que vai acelerar. É o modo interpretativo de acelerar; Alan o aproxima da máxima sistêmica de 'fazer o bolo crescer em vez de resolver'.",
+      "exemplo": "Diante da mãe irritada e do padrão 'todos escondem algo', Alan vai para os dois lados: anuncia que vão descobrir o que o menino esconde e em seguida fala da mãe.",
+      "abordagem": "Terapia sistêmica",
+      "ts": "1:38:22"
+    },
+    {
+      "nome": "Máximas clínicas",
+      "definicao": "Aqui, frases de efeito criadas na sessão e usadas como 'lição da semana'. Aprofundam porque é o terapeuta quem dá as palavras ao paciente e dita o ritmo da clínica.",
+      "exemplo": "'Um detetive nunca acredita em coincidências'; 'a verdade está debaixo do nosso nariz'; 'existe diferença entre o normal e o comum'; 'não tem lugar errado, tem jeito errado de estar no lugar'.",
+      "abordagem": "",
+      "ts": "1:55:28"
+    },
+    {
+      "nome": "Braqueologia",
+      "definicao": "Termo como aparece na transcrição (grafia a conferir). Segundo Alan, é conectar pontos que a princípio não estão conectados, forçando a conexão mesmo que ela não faça sentido; várias vezes não faz, e isso não é problema.",
+      "exemplo": "Perguntar o que o inspetor, o tio, a professora e a mãe têm em comum.",
+      "abordagem": "",
+      "ts": "1:56:24"
+    },
+    {
+      "nome": "Esquemas de aprofundamento",
+      "definicao": "Estruturas de aprofundamento trabalhadas no grupo ('pente', 'ganchinhos'). Alan diz não ter usado nenhuma no caso do menino, e sim máximas e braqueologia.",
+      "exemplo": "Pergunta de um participante: 'foi pente ou aquela que abre vários ganchinhos?'",
+      "abordagem": "",
+      "ts": "1:55:28"
+    },
+    {
+      "nome": "Triangulação",
+      "definicao": "Trazer uma terceira figura para dentro do jogo terapêutico, aqui o pai, como se tivesse 'treinado' o menino para ser detetive.",
+      "exemplo": "'Seu pai não te trouxe aqui para ser um mero assistente; onde você recebeu esse treinamento?'",
+      "abordagem": "",
+      "ts": "1:15:50"
+    },
+    {
+      "nome": "Intervenção memorável",
+      "definicao": "Intervenção cujo 'empacotamento' a torna marcante. Mobiliza o paciente, diferencia a clínica do discurso corrente e faz o paciente contar a outros, o que Alan também defende como boa decisão de negócio.",
+      "exemplo": "Sentar no tapete, pôr a mão no ombro, pedir que a paciente toque o instrumento na sessão.",
+      "abordagem": "",
+      "ts": "0:47:23"
+    },
+    {
+      "nome": "Discurso corrente",
+      "definicao": "O que o paciente já ouviu 'cinquenta mil vezes'. O discurso clínico deve se diferenciar dele para sair da história ensaiada.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:48:17"
+    },
+    {
+      "nome": "História ensaiada",
+      "definicao": "A narrativa pronta que o paciente prepara (lendo, ensaiando durante a semana) e que 'não é ele agora'. A clínica inventiva procura quebrá-la, mesmo quando ela não é a questão central do caso.",
+      "exemplo": "A paciente chega à 2ª sessão com um argumento sobre autenticidade em Bauman e depois conta que ensaiava diante do espelho, o que explicava os atrasos.",
+      "abordagem": "",
+      "ts": "0:48:17"
+    },
+    {
+      "nome": "Holding clínico",
+      "definicao": "A sustentação construída na relação terapêutica que permite fazer intervenções muito diretas sem ruptura.",
+      "exemplo": "A pergunta direta ao menino sobre o pai que se cala quando a mãe grita é segurada pelo enquadre de detetive montado antes.",
+      "abordagem": "",
+      "ts": "1:48:53"
+    },
+    {
+      "nome": "Aliança terapêutica",
+      "definicao": "O vínculo pode ser fortalecido mesmo enquanto o terapeuta recusa o jogo do paciente ou o tensiona. Seguir o paciente 'tensiona menos o vínculo', mas não é a única forma de preservá-lo.",
+      "exemplo": "Alice recusa a posição da paciente e fortalece o vínculo ao mesmo tempo.",
+      "abordagem": "",
+      "ts": "0:10:32"
+    },
+    {
+      "nome": "Paranoia",
+      "definicao": "Na definição psicanalítica clássica lembrada por Alan, é observar a realidade e conectar os pontos. Seria uma hipótese tentadora para o menino que 'investiga' tudo, mas Alan a descarta e opta por uma leitura lúdica.",
+      "exemplo": "A pessoa que acha que o celular a escuta 'está só observando a realidade'.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "1:17:56"
+    },
+    {
+      "nome": "Assimetria na relação terapêutica",
+      "definicao": "Lugar de terapeuta 'sênior' escolhido de propósito para aquele caso. Não decorre de uma posição a priori sobre horizontalidade: é escolhido porque permite entregar mais do que o paciente consegue ver e ser aberto com as hipóteses.",
+      "exemplo": "A imagem de Sherlock e Watson; 'daqui em diante você estará nas mãos de um profissional'.",
+      "abordagem": "",
+      "ts": "1:23:29"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Leitura comentada de atendimento simulado",
+      "objetivo": "Fazer o grupo visualizar uma clínica veloz e criativa em atendimentos de referência, explicitando o raciocínio de cada intervenção e seus efeitos.",
+      "competencias": [
+        "Intervenção",
+        "Direção do tratamento",
+        "Relação terapêutica",
+        "Primeira sessão e entrevistas iniciais"
+      ],
+      "configuracao": "Online, grupo todo (número de presentes não informado); o autor do atendimento lê o log em tela compartilhada; os participantes acompanham pelo arquivo enviado no WhatsApp; o facilitador pausa e comenta.",
+      "tempo": "Cerca de 55 min para o primeiro atendimento e 45 min para o segundo.",
+      "materiais": "Logs escritos de atendimentos com paciente simulado por IA, com comentários do terapeuta entre chaves; chat para enquetes.",
+      "consigna": "A gente vai observar a sessão, lendo junto. Interrompam na hora da apresentação, tirem dúvidas, façam comentários. (Ao apresentador:) Leia literal, sobretudo as partes mais relevantes; se achar que pode pular, resuma.",
+      "passos": [
+        "Contextualizar o caso e por que aquele atendimento é referência.",
+        "Ler a abertura do paciente e parar para uma enquete (seguir ou recusar; manter ou quebrar o enquadre).",
+        "Pedir ao autor o raciocínio de cada intervenção-chave.",
+        "Nas intervenções criativas, parar antes da resposta do paciente e pedir que o grupo explique a intervenção.",
+        "Intercalar parênteses teóricos curtos (marcadores de qualidade, ética da velocidade, viés da inação).",
+        "Recapitular o arco do atendimento e mostrar a avaliação (nota da IA e comentário qualitativo).",
+        "Checar com o grupo se o ponto ficou claro e decidir se segue para o segundo atendimento."
+      ],
+      "feedback": "Critérios: a intervenção mexe com o paciente nos primeiros minutos? Recusa sem 'pegar em contradição'? Fortalece o vínculo enquanto tensiona? O paciente assente tacitamente à proposta clínica até a 1ª ou 2ª sessão? A intervenção se diferencia do discurso corrente? O terapeuta reestrutura quando a intervenção não cola?",
+      "exemplos_praticos": "A maioria disse no chat que seguiria a direção da paciente, o que permitiu mostrar a recusa elegante de Alice. Um participante teria 'cedido um pouquinho' antes de tensionar de novo. Alice contou que com IA não teme o conflito e que com pacientes reais talvez demorasse um pouco mais. No segundo atendimento, participantes questionaram a metáfora 'externa' e o abandono dos ganchos da mãe e do pai, e Alan respondeu a cada objeção.",
+      "variacoes": "Pedir que o grupo atenda o mesmo caso no simulador antes, para comparar a própria escolha com a de referência; contrastar dois estilos (experiencial x interpretativo) no mesmo encontro.",
+      "armadilhas": "Falta de tempo para a comparação final (aconteceu); logs longos exigem resumo; se o apresentador sai, o compartilhamento cai, por isso o facilitador deve ter o arquivo e o papel de organizador; expor um participante exige deixar claro que é elogio.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:05:04"
+    },
+    {
+      "nome": "Dinâmica - Enquete de direção clínica",
+      "objetivo": "Fazer cada participante se comprometer com uma direção clínica diante da primeira fala do paciente, antes de ver a escolha do terapeuta.",
+      "competencias": [
+        "Direção do tratamento",
+        "Escuta clínica"
+      ],
+      "configuracao": "Online, grupo todo, respostas no chat.",
+      "tempo": "2 a 5 min por enquete.",
+      "materiais": "Trecho de abertura de um atendimento; chat.",
+      "consigna": "Coloca aí no chat quem intuitivamente iria seguir a direção desenhada pela paciente e quem iria recusar, só com essa primeira informação. / Vocês tenderiam a manter o enquadramento ou quebrar o enquadramento?",
+      "passos": [
+        "Ler só a abertura do paciente.",
+        "Formular a escolha binária (seguir ou recusar; manter ou quebrar).",
+        "Ler o chat e comentar a distribuição.",
+        "Antecipar o que o terapeuta de referência fez e seguir a leitura."
+      ],
+      "feedback": "Não declara certo ou errado; nomeia o motivo provável da escolha majoritária ('tensiona menos o vínculo') e mostra que a escolha contrária pode ser feita sem custo relacional.",
+      "exemplos_praticos": "No caso da paciente intelectualizada, a maioria seguiria, e a terapeuta recusou. No caso do menino, a maioria manteria o enquadre, e Alan o manteve 'radicalmente'. Um participante objetou que a primeira fala ainda não define a direção.",
+      "variacoes": "Usar em qualquer ponto de decisão do log, não só na abertura; pedir justificativa de uma frase no chat.",
+      "armadilhas": "Poucas respostas no chat; tratar a enquete como gabarito em vez de ponto de partida.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:09:20"
+    },
+    {
+      "nome": "Dinâmica - Explique a intervenção",
+      "objetivo": "Treinar a leitura da função de uma intervenção criativa ou inusitada sem ver o efeito que ela produziu.",
+      "competencias": [
+        "Intervenção",
+        "Construção frasal"
+      ],
+      "configuracao": "Grupo todo, por voz; o autor da intervenção comenta depois.",
+      "tempo": "3 a 5 min.",
+      "materiais": "Log de atendimento com a intervenção destacada.",
+      "consigna": "Sem ficar vendo spoiler, quero que vocês me expliquem a intervenção que ela fez. Alguém me explica essa pergunta sem ler o que está escrito depois?",
+      "passos": [
+        "O facilitador recapitula o contexto até ali (tema da sessão anterior, sintoma, o que o paciente trouxe).",
+        "Lê a intervenção.",
+        "Pede explicações ao grupo.",
+        "Complementa com a própria leitura (princípio geral).",
+        "Pergunta ao autor se foi planejado ou intuitivo e se faria com um paciente real."
+      ],
+      "feedback": "Confirma a resposta e a amplia para o princípio (mostrar como a clínica funciona sem humilhar o paciente).",
+      "exemplos_praticos": "Um participante respondeu que a pergunta sobre o cachorro de infância servia para 'quebrar completamente qualquer possibilidade de script'. Alice disse que foi intuitivo e que já fez isso com pacientes reais; Alan: 'deveria fazer, que bom'.",
+      "variacoes": "Pedir alternativas de formulação com a mesma função (ponte para a construção frasal).",
+      "armadilhas": "Com intervenções óbvias, vira adivinhação de conteúdo.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:32:03"
+    },
+    {
+      "nome": "Dinâmica - Construção frasal",
+      "objetivo": "Passar da visualização à execução: o grupo constrói intervenções a partir de vinhetas, com foco em velocidade e potência clínica (anunciada para os próximos encontros).",
+      "competencias": [
+        "Construção frasal",
+        "Intervenção"
+      ],
+      "configuracao": "Grupo online (anunciada, não realizada neste encontro).",
+      "tempo": "",
+      "materiais": "Vinhetas clínicas.",
+      "consigna": "Trazer uma vinheta, deixar vocês fazerem a construção, avaliar a qualidade dessa construção e apresentar alternativas.",
+      "passos": [
+        "Apresentar a vinheta.",
+        "Participantes constroem a intervenção.",
+        "O facilitador avalia a qualidade.",
+        "Apresentar alternativas."
+      ],
+      "feedback": "Qualidade da construção e potência clínica (detalhes não informados neste encontro).",
+      "exemplos_praticos": "",
+      "variacoes": "",
+      "armadilhas": "",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "1:54:26"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Situar o encontro num eixo e anunciar a exceção",
+      "descricao": "Abre nomeando o eixo (visualização) e avisa que vai elogiar, algo raro no estilo dele, que é crítico. Marca o registro do dia: observar e aprender.",
+      "exemplo": "'A gente vai fazer uma coisa que eu raramente faço, que é elogiar.'",
+      "ts": "0:00:00"
+    },
+    {
+      "movimento": "Justificar a escolha do material",
+      "descricao": "Explica por que traz dois atendimentos diferentes e por que evita atender diante dos alunos: o estilo dele é específico, e ter mais de uma referência é importante.",
+      "exemplo": "'Eu acho que ter mais de uma referência é importante.'",
+      "ts": "0:00:51"
+    },
+    {
+      "movimento": "Convocar interrupções",
+      "descricao": "Autoriza e incentiva comentários e dúvidas durante a leitura.",
+      "exemplo": "'Façam como a [participante], interrompam a gente… isso é muito bem-vindo.'",
+      "ts": "0:02:46"
+    },
+    {
+      "movimento": "Não deixar ninguém perdido na logística",
+      "descricao": "Checa quem não achou o arquivo e promete, e cumpre, explicar no final como entrar no grupo.",
+      "exemplo": "'Levanta a mão quem não achou o arquivo, quem está perdido.'",
+      "ts": "0:04:00"
+    },
+    {
+      "movimento": "Comprometer o grupo antes da resposta",
+      "descricao": "Usa enquetes no chat e o pedido de explicar a intervenção sem ler a continuação, transformando a leitura passiva em raciocínio clínico.",
+      "exemplo": "'Coloca aí no chat quem iria seguir a direção e quem iria recusar.'",
+      "ts": "0:09:20"
+    },
+    {
+      "movimento": "Extrair o raciocínio do autor",
+      "descricao": "Põe o autor do atendimento no centro e pergunta pelo raciocínio e pela transferência para a clínica real.",
+      "exemplo": "'Faria isso com paciente real?' 'Faria. Já fiz.' 'Deveria fazer. Que bom.'",
+      "ts": "0:35:18"
+    },
+    {
+      "movimento": "Pausar, marcar e devolver",
+      "descricao": "Interrompe a leitura para marcar um ponto teórico ancorado na cena e devolve a palavra, pedindo desculpas pela interrupção.",
+      "exemplo": "'Deixa eu fazer uma pausa para marcar duas coisas'; 'pode seguir, Alice, perdão pela interrupção'.",
+      "ts": "0:30:23"
+    },
+    {
+      "movimento": "Contrastar com o próprio estilo",
+      "descricao": "Mostra que faria outra intervenção com a mesma função, evidenciando a variedade de formas.",
+      "exemplo": "'Essa é uma intervenção que eu não faria… eu iria com humor e ironia.'",
+      "ts": "0:18:19"
+    },
+    {
+      "movimento": "Ironizar a regra antes de dá-la",
+      "descricao": "Antepõe a ressalva de que não há regra geral em terapia e em seguida oferece uma regra útil, o que reduz o dogmatismo sem abrir mão da orientação.",
+      "exemplo": "'Qualquer pessoa que falar de regra geral em terapia é picareta… Dito isso, deixa eu dar uma regra geral.'",
+      "ts": "0:14:33"
+    },
+    {
+      "movimento": "Nomear o argumento que está usando",
+      "descricao": "Explicita que usa o argumento econômico de propósito, como alavanca de motivação para estudar.",
+      "exemplo": "'Por que estou dando destaque a esse argumento, que é um argumento esquisito?'",
+      "ts": "0:49:18"
+    },
+    {
+      "movimento": "Acolher a vulnerabilidade de quem apresenta",
+      "descricao": "Quando a apresentadora revela dificuldade pessoal com conflito, reconhece que não sabia e retoma o ponto geral sem expô-la.",
+      "exemplo": "'Isso é uma coisa engraçada, eu não sabia. Achei que era representativo do jeito que você clinicava.'",
+      "ts": "0:26:41"
+    },
+    {
+      "movimento": "Negociar o tempo com o grupo",
+      "descricao": "Faz perguntas explícitas sobre compreensão e sobre seguir ou parar, e repete a consulta quando o horário estoura.",
+      "exemplo": "'Ficou claro? Vocês querem ver uma outra versão ou a gente deixa para semana que vem?'",
+      "ts": "1:05:13"
+    },
+    {
+      "movimento": "Explicitar a árvore de decisão",
+      "descricao": "Transforma cada fala do log em uma escolha binária comentada; os metacomentários entre chaves ficam disponíveis para estudo posterior.",
+      "exemplo": "'Estou tentando falar em árvore de possibilidade de decisão para vocês verem como está o processo.'",
+      "ts": "1:12:40"
+    },
+    {
+      "movimento": "Reformular até o outro entender",
+      "descricao": "Diante de uma objeção, reformula várias vezes e com exemplos até o participante dizer que faz sentido.",
+      "exemplo": "Sobre usar uma história que a criança conhece: 'eu diria que usei a linguagem dele'.",
+      "ts": "1:26:22"
+    },
+    {
+      "movimento": "Assumir os erros como método",
+      "descricao": "Aponta as próprias intervenções que não colaram e como reestruturou, normalizando o erro.",
+      "exemplo": "'Vocês vão notar que de vez em quando não cola'; 'foi dando errado… fui batendo no limite do caso e reconfigurando'.",
+      "ts": "1:53:31"
+    },
+    {
+      "movimento": "Antecipar o desfecho quando falta tempo",
+      "descricao": "Em vez de cortar, conta 'dando um spoiler' para onde o caso vai.",
+      "exemplo": "Do investigador ao inventor: 'o segredo da sua vida é que não tem segredo nenhum'.",
+      "ts": "1:57:14"
+    },
+    {
+      "movimento": "Fechar com o que deve ficar marcado e o próximo passo",
+      "descricao": "Faz uma síntese curta e anuncia a passagem da visualização para a execução.",
+      "exemplo": "'O próximo passo vai ser a gente sair da visualização para a execução.'",
+      "ts": "1:54:26"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Acelere justamente na primeira sessão.",
+      "justificativa": "Perde-se muito paciente que não vê algo acontecendo na primeira sessão.",
+      "contexto": "Início do tratamento, quando o paciente ainda está conhecendo o terapeuta.",
+      "competencia": "Primeira sessão e entrevistas iniciais",
+      "ts": "0:20:01"
+    },
+    {
+      "dica": "Use o teste: se a sessão acabasse agora, o paciente sairia mexido?",
+      "justificativa": "A potência clínica aparece em poucos minutos; se nada aconteceu, falta velocidade.",
+      "contexto": "Autoavaliação dos primeiros minutos de atendimento.",
+      "competencia": "Intervenção",
+      "ts": "0:19:05"
+    },
+    {
+      "dica": "Pergunte pelo que 'não seria normal' no discurso (uma insistência, uma justificativa não pedida).",
+      "justificativa": "Ali costuma haver uma fantasia sobre a terapia ou uma experiência anterior.",
+      "contexto": "Abertura, quando o paciente repete algo sem necessidade.",
+      "competencia": "Escuta clínica",
+      "ts": "0:13:25"
+    },
+    {
+      "dica": "Ao recusar o jogo do paciente, não o pegue em contradição: mostre como sua clínica funciona.",
+      "justificativa": "Apontar hipocrisia tensiona; demonstrar o método (aqui e agora, a voz do paciente) aprofunda o vínculo.",
+      "contexto": "Discurso pronto e racionalização.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:15:33"
+    },
+    {
+      "dica": "Se você está começando, explicite ao paciente o que está fazendo.",
+      "justificativa": "A psicoeducação implícita é mais elegante, mas mais difícil; a explícita é mais segura.",
+      "contexto": "Ao propor um modo de trabalho diferente do esperado pelo paciente.",
+      "competencia": "Psicoeducação",
+      "ts": "0:16:29"
+    },
+    {
+      "dica": "Verifique até a 1ª ou 2ª sessão se o paciente 'sacou' como sua clínica funciona.",
+      "justificativa": "O assentimento tácito é um bom marcador de qualidade; sem ele, há erro na estrutura da condução.",
+      "contexto": "Fechamento das sessões iniciais.",
+      "competencia": "Primeira sessão e entrevistas iniciais",
+      "ts": "0:29:08"
+    },
+    {
+      "dica": "Não abandone uma técnica porque o paciente a conhece.",
+      "justificativa": "Como a mágica para mágicos, o silêncio e outras técnicas funcionam mesmo quando nomeadas.",
+      "contexto": "Pacientes que estudam psicologia ou são muito informados.",
+      "competencia": "Intervenção",
+      "ts": "0:23:32"
+    },
+    {
+      "dica": "Quebre a história ensaiada com uma pergunta que o paciente não teria como prever.",
+      "justificativa": "O discurso preparado 'não é ele agora'; a pergunta imprevisível tira o paciente do script sem humilhá-lo.",
+      "contexto": "Paciente que chega com argumento pronto.",
+      "competencia": "Construção frasal",
+      "ts": "0:33:44"
+    },
+    {
+      "dica": "Proponha experiências dentro da sessão (corpo, silêncio, imaginação) e aceite não saber aonde vão.",
+      "justificativa": "Pedir que o paciente se mostre além do planejado exige que o terapeuta também saia da caixa; se der errado, isso vira material da relação.",
+      "contexto": "Quando a direção clínica de sair do 'pronto' está clara.",
+      "competencia": "Intervenção",
+      "ts": "0:41:36"
+    },
+    {
+      "dica": "Deixe o paciente decidir quando termina um exercício experiencial.",
+      "justificativa": "Preserva a segurança e a agência do paciente.",
+      "contexto": "Exercícios de silêncio ou imaginação guiada.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:42:34"
+    },
+    {
+      "dica": "Peça que o paciente complete o que deixou implícito ('Nunca falou o quê?', 'Isso quê?').",
+      "justificativa": "Repetir dá destaque e é mais potente do que o terapeuta nomear, porque é o paciente quem reflete.",
+      "contexto": "Quando o paciente alude a algo sem dizer.",
+      "competencia": "Aprofundamento",
+      "ts": "0:45:32"
+    },
+    {
+      "dica": "Diferencie seu discurso do discurso corrente.",
+      "justificativa": "Perguntas que o paciente já ouviu mil vezes só produzem história ensaiada.",
+      "contexto": "Construção de perguntas e intervenções.",
+      "competencia": "Construção frasal",
+      "ts": "0:48:17"
+    },
+    {
+      "dica": "Cuide do 'empacotamento' da intervenção para que ela seja memorável.",
+      "justificativa": "Intervenções memoráveis mobilizam mais, e o paciente as conta a outros, o que faz a clínica crescer.",
+      "contexto": "Momentos-chave do tratamento.",
+      "competencia": "Intervenção",
+      "ts": "0:47:23"
+    },
+    {
+      "dica": "Prefira fazer a ação dentro da sessão a prescrevê-la como tarefa de casa.",
+      "justificativa": "Na sessão há um clínico para manejar as consequências; em casa, não.",
+      "contexto": "Ao propor uma ação concreta (mandar uma mensagem, conversar com alguém).",
+      "competencia": "Intervenção",
+      "ts": "0:57:52"
+    },
+    {
+      "dica": "Mesmo dentro da sessão, prepare espaço para o imprevisto de ações concretas.",
+      "justificativa": "A ação pode ter consequências negativas fora do consultório (rejeição, briga, término).",
+      "contexto": "Intervenções com efeitos na vida do paciente.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:58:42"
+    },
+    {
+      "dica": "Tenha mais medo do que você deixa de fazer do que do que você faz.",
+      "justificativa": "O custo da inação, deixar o paciente arrastar uma situação por anos, quase nunca é medido.",
+      "contexto": "Quando hesita porque 'o paciente não está pronto'.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:59:35"
+    },
+    {
+      "dica": "Treine intervenções mais ousadas com paciente simulado antes de levá-las a humanos.",
+      "justificativa": "Ganha-se confiança sem risco, sobretudo quem tem medo de conflito.",
+      "contexto": "Formação clínica.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:51:52"
+    },
+    {
+      "dica": "Antes de recusar o enquadre que o paciente traz, pergunte-se por que ele funciona.",
+      "justificativa": "Se o pai usou um recurso lúdico para levar a criança à terapia, ele provavelmente funciona e pode ser a moldura do tratamento.",
+      "contexto": "Crianças; pacientes que chegam com uma fantasia sobre o terapeuta.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:11:39"
+    },
+    {
+      "dica": "Aceite a forma e recuse o conteúdo.",
+      "justificativa": "Dá para manter o jogo do paciente e, ainda assim, não seguir o tema que ele propõe.",
+      "contexto": "Conteúdo trazido que parece defensivo ou irrelevante.",
+      "competencia": "Direção do tratamento",
+      "ts": "1:21:51"
+    },
+    {
+      "dica": "Seja transparente com suas hipóteses; anote para mostrar ao paciente.",
+      "justificativa": "É mais fácil conduzir como duas pessoas cooperando para entender um mistério do que com um raciocínio obscuro.",
+      "contexto": "Em regra, salvo em abordagens que pedem o contrário.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:14:43"
+    },
+    {
+      "dica": "Não patologize cedo o estilo de observação de uma criança.",
+      "justificativa": "'Juntar os pontos' pode parecer paranoia, mas pode ser só um jeito lúdico de observar a realidade.",
+      "contexto": "Crianças que 'investigam' tudo.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "1:17:56"
+    },
+    {
+      "dica": "Mantenha aberto, mesmo sem priorizar, qualquer tema que possa indicar risco.",
+      "justificativa": "Decidir que algo não é o foco agora não autoriza fechá-lo; pode haver abuso ou violência escondidos.",
+      "contexto": "Crianças que trazem adultos 'estranhos' da escola ou da família.",
+      "competencia": "Priorização clínica",
+      "ts": "1:22:44"
+    },
+    {
+      "dica": "Escolha o tipo de relação terapêutica depois de interagir com o paciente, não antes.",
+      "justificativa": "Opiniões prontas sobre horizontalidade atrapalham; a relação certa é a que permite trabalhar aquele caso.",
+      "contexto": "Primeiras sessões.",
+      "competencia": "Relação terapêutica",
+      "ts": "1:23:29"
+    },
+    {
+      "dica": "Trate a primeira sessão como a sessão que garante a segunda.",
+      "justificativa": "Nenhum tratamento acontece numa sessão; o importante é montar uma moldura que permita trabalhar depois.",
+      "contexto": "Planejamento do primeiro atendimento.",
+      "competencia": "Primeira sessão e entrevistas iniciais",
+      "ts": "1:25:20"
+    },
+    {
+      "dica": "Use a linguagem do paciente, mas entregue algo acima do que ele entende.",
+      "justificativa": "Quem não entende tudo fica engajado porque quer entender; baixar a régua quebra a expectativa de aprender algo novo.",
+      "contexto": "Paciente que espera um especialista.",
+      "competencia": "Construção frasal",
+      "ts": "1:28:15"
+    },
+    {
+      "dica": "Levante várias hipóteses ao mesmo tempo, teste rápido e volte atrás quando bater no limite do paciente.",
+      "justificativa": "É o modo interpretativo de acelerar; o erro vira dado para reestruturar.",
+      "contexto": "Muitos ganchos e ainda nenhuma direção clara.",
+      "competencia": "Interpretação",
+      "ts": "1:38:22"
+    },
+    {
+      "dica": "Crie máximas e uma 'lição da semana' com as palavras do paciente.",
+      "justificativa": "Quem dá as palavras dita o ritmo e aprofunda; a frase ajuda o paciente a levar a sessão para a vida.",
+      "contexto": "Enquadres lúdicos ou psicoeducativos.",
+      "competencia": "Aprofundamento",
+      "ts": "1:56:24"
+    },
+    {
+      "dica": "Espelhe o gesto do paciente e pergunte o que ele sentia naquele momento.",
+      "justificativa": "Traz o corpo para a sessão e, mesmo sem compreensão imediata, prepara uma volta ao tema.",
+      "contexto": "Gesto que se repete junto de certos temas.",
+      "competencia": "Intervenção",
+      "ts": "1:43:38"
+    },
+    {
+      "dica": "Num momento-chave, quebre a postura que você vinha sustentando.",
+      "justificativa": "A mudança de registro dá peso à pergunta direta.",
+      "contexto": "Ao tocar o tema mais carregado.",
+      "competencia": "Intervenção",
+      "ts": "1:47:48"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Terapeutas erram mais por passividade do que por excesso; o perigo real é não agir.",
+      "argumento": "Todos têm medo de uma construção agressiva demais, mas não do que deveriam temer: simplesmente levar a coisa do jeito que está indo.",
+      "contraponto": "Participantes que guardariam a recusa 'na manga'; a ressalva de que regra geral em terapia é 'coisa de picareta'.",
+      "implicacao": "Medir também o custo do que não se faz.",
+      "quem": "Alan",
+      "ts": "0:14:33"
+    },
+    {
+      "tese": "Acelerar é menos violento do que ir com calma.",
+      "argumento": "Acelerando, o paciente mostra quando não aguenta; indo devagar, é o terapeuta que decide pelo paciente o que ele aguenta.",
+      "contraponto": "A intuição de que ir devagar protege o paciente e o vínculo.",
+      "implicacao": "Ritmo mais rápido desde a primeira sessão, com atenção à resposta do paciente.",
+      "quem": "Alan",
+      "ts": "0:27:33"
+    },
+    {
+      "tese": "Agressivo é não intervir.",
+      "argumento": "Uma intervenção antiga (sugerir em sessão o bloqueio de uma parceira) precipitou um término, e a paciente depois reconheceu que teria ficado anos numa relação ruim.",
+      "contraponto": "Quem acha esse tipo de intervenção agressiva demais.",
+      "implicacao": "Temer mais as intervenções não feitas por achar que o paciente não está pronto.",
+      "quem": "Alan",
+      "ts": "0:59:35"
+    },
+    {
+      "tese": "A velocidade (timing clínico) é talvez o critério clínico mais relevante para começar a estabelecer uma clínica.",
+      "argumento": "Evita a perda de pacientes nas primeiras sessões e gera indicação; é relevante clínica e comercialmente.",
+      "contraponto": "O ensino que só fala do que é certo, nunca do que dá dinheiro.",
+      "implicacao": "Fazer da velocidade o foco do treino.",
+      "quem": "Alan",
+      "ts": "0:50:56"
+    },
+    {
+      "tese": "Assumir que qualidade clínica também é decisão econômica aumenta a motivação para estudar.",
+      "argumento": "A parte mais difícil do estudo é a motivação, e somos movidos a incentivos ('cãezinhos de Pavlov'); quase sempre dá para alinhar atender bem e ganhar mais.",
+      "contraponto": "O pudor de falar de dinheiro na formação.",
+      "implicacao": "Usar o argumento de negócio para sustentar o esforço de treino.",
+      "quem": "Alan",
+      "ts": "0:50:10"
+    },
+    {
+      "tese": "Atender direito não tem mistério; o que falta é trabalho.",
+      "argumento": "Com abertura e vontade, 'em duas semanas' de intensivo se atende direito; mesmo com acompanhamento gratuito disponível, poucos o fazem porque dá trabalho.",
+      "contraponto": "A mística da clínica como dom ou coisa de muitos anos.",
+      "implicacao": "Formação baseada em treino e revisão, não em talento.",
+      "quem": "Alan",
+      "ts": "0:50:10"
+    },
+    {
+      "tese": "Psicoeducação implícita é mais elegante, mas iniciantes devem explicitar.",
+      "argumento": "Mostrar a clínica em ato dispensa o contrato, mas é difícil; explicar é mais fácil e mais seguro.",
+      "contraponto": "Quem acha 'cringe' fazer psicoeducação.",
+      "implicacao": "Começar explicitando e migrar para o implícito com a experiência.",
+      "quem": "Alan",
+      "ts": "0:16:29"
+    },
+    {
+      "tese": "A clínica inventiva, que sai do discurso corrente, é mais potente.",
+      "argumento": "Perguntas já ouvidas produzem histórias ensaiadas; intervenções memoráveis mobilizam e são lembradas.",
+      "contraponto": "A clínica 'dentro da caixa'.",
+      "implicacao": "Investir em forma, 'empacotamento' e surpresa.",
+      "quem": "Alan",
+      "ts": "0:48:17"
+    },
+    {
+      "tese": "Agir dentro da sessão é menos agressivo do que prescrever tarefa para casa.",
+      "argumento": "Na sessão há um clínico para manejar as consequências; fora dela o paciente está sozinho, fora do enquadre.",
+      "contraponto": "A impressão de que terapias que agem na sessão são agressivas.",
+      "implicacao": "Trazer a ação para o setting.",
+      "quem": "Alan",
+      "ts": "0:57:52"
+    },
+    {
+      "tese": "Conhecer a técnica não impede que ela funcione.",
+      "argumento": "Metáfora do mágico que faz mágica para mágicos; a paciente simulada nomeia o silêncio terapêutico e mesmo assim se abre.",
+      "contraponto": "O receio de que o paciente informado desarme a técnica.",
+      "implicacao": "Menos cerimônia ao atender pessoas da área psi.",
+      "quem": "Alan",
+      "ts": "0:22:43"
+    },
+    {
+      "tese": "Não se deve ter opinião a priori sobre horizontalidade ou verticalidade da relação terapêutica.",
+      "argumento": "A relação adequada depende do caso; no caso do menino, a assimetria lúdica permitiu uma transparência total das hipóteses.",
+      "contraponto": "Posições prontas ('a relação tem que ser mais horizontal').",
+      "implicacao": "Escolher a relação na interação e justificá-la pelo que ela permite.",
+      "quem": "Alan",
+      "ts": "1:23:29"
+    },
+    {
+      "tese": "Baixar a régua é um erro pedagógico e clínico.",
+      "argumento": "Quem não entende fica engajado porque quer entender; basta mantê-lo engajado, sem seguir o ritmo dele.",
+      "contraponto": "O professor que quer ser didático; o participante que sugeriu uma história infantil conhecida; a versão antiga do avaliador de IA.",
+      "implicacao": "Falar um passo à frente do paciente ou do aluno, sustentado pelo enquadre.",
+      "quem": "Alan",
+      "ts": "1:28:58"
+    },
+    {
+      "tese": "Passar do que o paciente consegue ouvir não é um problema clínico, se houver capacidade de reestruturar pela relação terapêutica.",
+      "argumento": "No caso do menino, várias intervenções não foram acompanhadas; a consequência foi só ele ficar um pouco perdido, e a moldura permitiu realinhar.",
+      "contraponto": "O cuidado excessivo em só dizer o que o paciente já está pronto para ouvir.",
+      "implicacao": "Errar rápido e reconfigurar.",
+      "quem": "Alan",
+      "ts": "1:53:31"
+    },
+    {
+      "tese": "O objetivo da primeira sessão é garantir que a segunda aconteça.",
+      "argumento": "Nenhum tratamento acontece numa sessão; o que importa é montar a moldura que depois permite acelerar.",
+      "contraponto": "A expectativa de resolver algo no primeiro encontro.",
+      "implicacao": "Avaliar a primeira sessão pela adesão à proposta, não por resultados.",
+      "quem": "Alan",
+      "ts": "1:25:20"
+    },
+    {
+      "tese": "Ter mais de uma referência de atendimento é importante na formação.",
+      "argumento": "O jeito de Alan atender é muito específico; mostrar só o dele favoreceria a imitação de um estilo.",
+      "contraponto": "Aprender por um único modelo.",
+      "implicacao": "Contrastar estilos (experiencial x interpretativo) no mesmo encontro.",
+      "quem": "Alan",
+      "ts": "0:00:51"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Qualquer pessoa que falar de regra geral em terapia é picareta. Não existe regra geral em terapia. Dito isso, deixa eu dar uma regra geral para vocês.",
+      "tema": "Regras gerais",
+      "ts": "0:14:33"
+    },
+    {
+      "texto": "Todo mundo tem muito medo de errar, mas ninguém está vendo o perigo que existe em não agir.",
+      "tema": "Viés da inação",
+      "ts": "0:14:33"
+    },
+    {
+      "texto": "Quando você está acelerando, está deixando o paciente te contar quando ele não aguenta mais. Quando você está indo com calma, é você que está decidindo pelo paciente o que ele aguenta.",
+      "tema": "Ética da velocidade",
+      "ts": "0:27:33"
+    },
+    {
+      "texto": "Mesmo quando você conhece o truque, a mágica acontece.",
+      "tema": "Técnica e paciente informado",
+      "ts": "0:22:43"
+    },
+    {
+      "texto": "Esse tipo de assentimento tácito é um bom marcador de qualidade clínica.",
+      "tema": "Primeira sessão",
+      "ts": "0:29:08"
+    },
+    {
+      "texto": "Se você está pedindo que a pessoa se mostre para além daquilo que está planejado, seria contraditório fazer um atendimento todo dentro da caixa.",
+      "tema": "Criatividade clínica",
+      "ts": "0:40:27"
+    },
+    {
+      "texto": "Se as perguntas que você faz são perguntas que a pessoa já ouviu 50.000 vezes, o que ela está te contando é uma história ensaiada.",
+      "tema": "Discurso corrente",
+      "ts": "0:48:17"
+    },
+    {
+      "texto": "Normalmente, na aula, a gente escuta o que é o certo; a gente não escuta o que dá dinheiro.",
+      "tema": "Clínica e negócio",
+      "ts": "0:50:10"
+    },
+    {
+      "texto": "As coisas que fazem uma boa clínica são muito parecidas com as coisas que fazem você ser um amigo interessante.",
+      "tema": "Clínica e vida",
+      "ts": "0:51:52"
+    },
+    {
+      "texto": "Agressivo é você não fazer. Esse peso do que você não faz é uma coisa que quase ninguém mede.",
+      "tema": "Viés da inação",
+      "ts": "0:59:35"
+    },
+    {
+      "texto": "Meu jeito de atender é: somos dois idiotas tentando entender o que está acontecendo na sua vida.",
+      "tema": "Relação terapêutica",
+      "ts": "1:25:20"
+    },
+    {
+      "texto": "Qual é o objetivo de uma primeira sessão? Garantir que a próxima sessão aconteça. Nenhum tratamento acontece numa sessão.",
+      "tema": "Primeira sessão",
+      "ts": "1:25:20"
+    },
+    {
+      "texto": "O aluno que não entende está engajado porque quer entender. Você só precisa mantê-lo engajado; não precisa manter o passo dele.",
+      "tema": "Pedagogia e clínica",
+      "ts": "1:28:58"
+    },
+    {
+      "texto": "Transpor o que o paciente é capaz de ouvir neste momento não é um problema clínico. O que você precisa ter é a capacidade de reestruturar isso a partir da relação terapêutica.",
+      "tema": "Velocidade interpretativa",
+      "ts": "1:53:31"
+    },
+    {
+      "texto": "Quem dita o ritmo da clínica sou eu: sou eu que estou dando as palavras para o paciente.",
+      "tema": "Máximas clínicas",
+      "ts": "1:56:24"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "reels",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Ir devagar com o paciente é mais gentil? Talvez não.",
+      "mensagem": "Acelerando, o paciente mostra o que aguenta; indo devagar, você decide por ele o que ele aguenta.",
+      "roteiro": [
+        "Cena 1: a crença comum de que ir devagar protege.",
+        "Cena 2: a inversão de Alan: quem decide o que o paciente aguenta?",
+        "Cena 3: acelerar com atenção à resposta do paciente."
+      ],
+      "corte_inicio": "0:27:33",
+      "corte_fim": "0:28:09"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "O erro que ninguém mede na terapia: o que você deixou de fazer.",
+      "mensagem": "Viés da inação: terapeutas temem errar por excesso e ignoram o custo de não intervir.",
+      "roteiro": [
+        "Slide 1: 'Não existe regra geral em terapia. Dito isso…'",
+        "Slide 2: todo mundo tem medo de errar.",
+        "Slide 3: ninguém mede o perigo de não agir.",
+        "Slide 4: 'agressivo é não fazer'.",
+        "Slide 5: pergunta para o leitor: que intervenção você está adiando por achar que o paciente não está pronto?"
+      ],
+      "corte_inicio": "0:14:33",
+      "corte_fim": "0:15:33"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Psicoeducação sem dar aula.",
+      "mensagem": "Psicoeducação implícita (mostrar em ato como a terapia funciona) x explícita (explicar); o assentimento tácito como marcador da primeira sessão.",
+      "roteiro": [
+        "Slide 1: dá para psicoeducar sem explicar nada?",
+        "Slide 2: implícita: mostrar o método em ato.",
+        "Slide 3: explícita: dizer o que você está fazendo (recomendada a iniciantes).",
+        "Slide 4: o paciente 'sacou' como sua clínica funciona até a 2ª sessão?"
+      ],
+      "corte_inicio": "0:15:33",
+      "corte_fim": "0:17:19"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Seu paciente sabe qual é a técnica? Ela funciona mesmo assim.",
+      "mensagem": "Como a mágica feita para mágicos: conhecer o truque não impede o efeito; menos cerimônia com pacientes da área psi.",
+      "roteiro": [
+        "Cena 1: 'é técnica, né?'",
+        "Cena 2: a metáfora do mágico.",
+        "Cena 3: por que ler Freud não substitui fazer terapia."
+      ],
+      "corte_inicio": "0:22:43",
+      "corte_fim": "0:24:27"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Pare de fazer as perguntas que seu paciente já ouviu 50 mil vezes.",
+      "mensagem": "Diferenciar-se do discurso corrente quebra a história ensaiada; intervenções memoráveis mobilizam e são lembradas.",
+      "roteiro": [
+        "Slide 1: pergunta batida gera história ensaiada.",
+        "Slide 2: o que é discurso corrente.",
+        "Slide 3: o 'empacotamento' da intervenção importa.",
+        "Slide 4: clínica inventiva é mais potente."
+      ],
+      "corte_inicio": "0:47:23",
+      "corte_fim": "0:49:18"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Clínica boa também é bom negócio (e tudo bem dizer isso).",
+      "mensagem": "O timing clínico evita perder pacientes nas primeiras sessões e gera indicação; assumir isso aumenta a motivação para treinar.",
+      "roteiro": [
+        "Cena 1: 'na aula a gente escuta o que é certo, não o que dá dinheiro'.",
+        "Cena 2: a motivação é a parte mais difícil do estudo.",
+        "Cena 3: velocidade clínica como critério de clínica e de negócio."
+      ],
+      "corte_inicio": "0:50:10",
+      "corte_fim": "0:51:52"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "O objetivo da primeira sessão é garantir a segunda.",
+      "mensagem": "Nenhum tratamento acontece numa sessão; a primeira monta a moldura que depois permite acelerar. 'Somos dois idiotas tentando entender sua vida.'",
+      "roteiro": [
+        "Frase central sobre a primeira sessão.",
+        "Legenda sobre relação terapêutica e transparência de hipóteses."
+      ],
+      "corte_inicio": "1:24:27",
+      "corte_fim": "1:26:22"
+    },
+    {
+      "formato": "stories",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Como a gente treina: lendo atendimentos de referência e parando antes da resposta do paciente.",
+      "mensagem": "Enquete 'seguir ou recusar?' e 'explique a intervenção' como forma de treinar raciocínio clínico em grupo.",
+      "roteiro": [
+        "Story 1: enquete 'você seguiria ou recusaria o tema do paciente?'",
+        "Story 2: 'explique esta intervenção antes de ver o que aconteceu'.",
+        "Story 3: convite para o grupo."
+      ],
+      "corte_inicio": "0:32:03",
+      "corte_fim": "0:34:43"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Michel Foucault",
+      "contexto": "Citado pela paciente simulada (instituições de saúde transformam o indivíduo em objeto); a terapeuta usa isso para apontar que ela fala por outras vozes."
+    },
+    {
+      "nome": "Zygmunt Bauman",
+      "contexto": "A paciente simulada chega à 2ª sessão com um argumento ensaiado sobre autenticidade e modernidade líquida."
+    },
+    {
+      "nome": "Edgar Allan Poe",
+      "contexto": "Alan lê 'A carta roubada' ao menino na 1ª sessão: o mistério está debaixo do nariz; base das máximas sobre o óbvio e o comum."
+    },
+    {
+      "nome": "Johan Huizinga",
+      "contexto": "Citado por um participante (Homo ludens) para descrever a relação de Alan como 'vertical dentro da brincadeira'."
+    },
+    {
+      "nome": "Ivan Pavlov",
+      "contexto": "Metáfora de Alan sobre incentivos ('somos cãezinhos de Pavlov') no argumento econômico sobre motivação."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Prática clínica (série de 6 encontros com Alan)",
+    "objetivo": "Treinar a condução clínica, neste trecho da série com foco em velocidade, economia do tempo e potência clínica. O eixo 'didático por meio da visualização' (ler atendimentos de referência) precede a execução (exercícios de construção de frase com vinhetas).",
+    "publico": "Terapeutas e estudantes ligados à Allos que atendem pacientes simulados na ferramenta da instituição; também chegam pessoas por link aberto da comunidade.",
+    "tamanho": "Grupo online; número exato não informado (presentes participam por voz e chat; vários saem quando o horário estoura).",
+    "duracao": "Cerca de 2 horas, semanal; neste encontro previsto para acabar mais cedo, mas estourou o horário (outro grupo da Allos começava em seguida).",
+    "estrutura_padrao": "Abertura com o eixo e o tema → leitura comentada de logs de atendimento simulado apresentados pelo autor → enquetes no chat e perguntas de predição em pontos de decisão → parênteses teóricos do facilitador → recapitulação e avaliação (nota da IA e comentário qualitativo) → checagem com o grupo → fechamento com o próximo passo.",
+    "papel_facilitador": "Escolhe e contextualiza os atendimentos de referência, pausa a leitura para marcar princípios, extrai o raciocínio do autor, provoca o grupo a se posicionar, contrasta com o próprio estilo, negocia o tempo e sintetiza. Também é o programador do simulador e comenta os bastidores da ferramenta.",
+    "regras_combinados": "Interromper e comentar é bem-vindo; participação por voz e chat; materiais e logs enviados no subgrupo de WhatsApp 'Prática clínica' (dentro da comunidade da Allos); encontro gravado; quem não atendeu o caso pode atendê-lo depois na plataforma."
+  },
+  "reflexoes_do_facilitador": [
+    "Diz que raramente elogia: seu estilo de formação é 'muito mais para criticar'.",
+    "Sempre foi reticente em atender diante dos alunos, não por ética, mas porque acha seu jeito de atender muito específico; por isso traz duas referências.",
+    "O atendimento que mostra não é exatamente como ele atende: foi feito para mostrar a uma terapeuta nova como ser veloz e direto sem romper o vínculo. Na vida real diz ser mais agressivo.",
+    "Admite não ter lido o log de Alice, só os comentários de outras pessoas sobre ele.",
+    "Como programador do simulador, reconhece que a personagem saiu do desenho previsto (a 'intuição' do modelo superou a instrução dada).",
+    "Reconhece que várias de suas intervenções no caso do menino 'não colaram' e que ele foi reestruturando; a versão antiga do avaliador de IA marcou como erro a linguagem sofisticada usada com a criança.",
+    "Constata que estourou o horário apesar de ter dito que acabaria cedo, e que a comparação entre os dois atendimentos, objetivo do encontro, não pôde ser feita como queria.",
+    "Diz que, se Alice tivesse feito o mesmo atendimento numa dinâmica presencial, teria passado 1h30 apontando problemas: sempre há o que melhorar."
+  ],
+  "referencias_a_outros_encontros": [
+    "A ferramenta de paciente simulado vinha sendo usada 'nas últimas semanas' no grupo.",
+    "Próximo passo anunciado: 'na próxima semana ou na outra', sair da visualização para a execução, com exercícios de construção de frase e potência clínica a partir de vinhetas.",
+    "Talvez retome na semana seguinte a comparação dos dois atendimentos e o fechamento do caso do menino, ou avance para um tema novo dentro do mesmo eixo (velocidade, economia).",
+    "Menção confusa a que 'segunda não tem grupo 16 (?)', possivelmente uma data sem encontro.",
+    "Um participante cita os esquemas de aprofundamento 'pente' e 'ganchinhos', trabalhados em outro momento da formação (ver Alan 06 - Esquemas de aprofundamento).",
+    "Menção às avaliações da Allos com atendimento de 20 minutos, ao 'intensivão' e ao acompanhamento individual presencial em BH.",
+    "No 'Hall of Fame' (nome interno) do aplicativo ficariam os atendimentos com nota de 90 a 100, para estudo."
+  ],
+  "observacoes": "Facilitador identificado como Alan: é chamado pelo nome por participantes (1:37:21, 1:55:28, 1:58:21) e se apresenta como programador do simulador. Alice é uma participante (tem acesso 'de aluna') que apresenta o próprio atendimento na primeira metade; sai por volta de 1:30:25, e a leitura do segundo log fica mais difícil. Os dois casos são simulados (pacientes de IA); a paciente simulada aparece com grafias variadas (Loíse, Luíse, Louise (?)) e o menino é o caso 'Enzo'. Há um exemplo real antigo de Alan (intervenção de bloqueio de parceira, na época da faculdade), registrado de forma anonimizada. Termos incertos na transcrição: 'braqueologia' (?), mantido como aparece e também usado em mon-03; 'label tef' interpretado como leitmotiv; 'penetenteller' = Penn & Teller; 'PS atendendo' (0:57:02), possivelmente vídeos de Fritz Perls (?), não incluído nos autores; 'lacanhando' (0:57:52) ininteligível; 'Miat' (0:51:52), provavelmente o simulador/IA. Um participante menciona a comunidade 'categoria de base' (?) no WhatsApp. O encontro termina sem a comparação final planejada entre os dois estilos."
+}

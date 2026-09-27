@@ -1,0 +1,848 @@
+{
+  "id": "acervo-25",
+  "nota": "Acervo 25 - Linguagem clínica e função da intervenção",
+  "pasta": "10 - Fichamentos/Aprimoramento (Acervo)",
+  "titulo": "Linguagem clínica e função da intervenção",
+  "serie": "Aprimoramento Clínico (Acervo)",
+  "formato": "Aprimoramento clínico",
+  "facilitadores": [
+    "Diogo"
+  ],
+  "resumo": "Diogo conduz uma roda reflexiva sobre o uso da linguagem na clínica, com três perguntas disparadoras encadeadas e demonstrações próprias. A primeira pergunta ('vocês se preocupam com a linguagem?') revela três dificuldades distintas: clareza para orientar, tradução de conceitos técnicos e metáforas, fazer o paciente refletir sem entregar a resposta. A segunda ('elas se resolvem igual?') leva à tese central: o comum é treino e reescolha do que falar; o específico depende da função clínica da intervenção. Diogo analisa um erro próprio de construção frasal ('insegurança no corpo' entendida como 'com o corpo'), o que abre um debate sobre corrigir na hora ou deixar o paciente seguir, autocorreção do terapeuta, psicologização e o custo de cada escolha. A terceira pergunta ('formal ou informal?') leva à distinção 'formal não é técnico', a evitar jargão em sessão, à exceção da nomeação que dá sentido, ao alerta sobre a patologização via ChatGPT e à checagem do sentido pessoal até de palavras comuns.",
+  "em_uma_frase": "Dificuldades de linguagem parecidas pedem soluções diferentes porque a escolha das palavras depende da função clínica da intervenção; em sessão, pode ser formal, mas evite o técnico.",
+  "competencias": [
+    "Construção frasal",
+    "Intervenção",
+    "Psicoeducação",
+    "Aprofundamento",
+    "Relação terapêutica",
+    "Priorização clínica",
+    "Escuta clínica",
+    "Articulação teoria-prática",
+    "Desenvolvimento profissional"
+  ],
+  "abordagens": [
+    "Análise do comportamento",
+    "Terapias contextuais",
+    "Abordagem centrada na pessoa",
+    "Psicanálise freudiana"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:00",
+      "bloco": "Abertura",
+      "descricao": "A gravação começa no fim da explicação do funcionamento; Diogo checa dúvidas e explica que os exercícios variam entre estudo de caso, roleplay e discussão.",
+      "funcao": "Situar novatos quanto aos formatos do Aprimoramento.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:00:34",
+      "bloco": "Teoria",
+      "descricao": "Por que dominar a linguagem: exemplos contrastivos (repetição semântica versus ênfase de voz); objetivos do exercício (registro formal e informal, vícios, figuras como a metáfora).",
+      "funcao": "Teoria mínima por contraste: a forma muda o efeito.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:04:25",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Problemas de áudio.",
+      "funcao": "—",
+      "duracao_min": 0.5
+    },
+    {
+      "ts": "0:04:49",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta 1: vocês costumam se preocupar com o uso da linguagem na clínica?",
+      "funcao": "Ativar a autopercepção de cada participante.",
+      "duracao_min": 1.5
+    },
+    {
+      "ts": "0:06:08",
+      "bloco": "Rodada de respostas",
+      "descricao": "Surgem três dificuldades: clareza ao orientar grupos terapêuticos, tradução de conceitos e metáforas, espelhar incongruências sem dar a resposta; Diogo parafraseia e concretiza cada uma.",
+      "funcao": "Diagnóstico das dificuldades do grupo.",
+      "duracao_min": 9
+    },
+    {
+      "ts": "0:15:25",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta 2: essas dificuldades se resolvem de maneira semelhante? Respostas do grupo (treino, estudo, auto-observação).",
+      "funcao": "Pergunta de segunda ordem que obriga a categorizar.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:18:34",
+      "bloco": "Teoria",
+      "descricao": "O comum (repensar o que falar: palavras, construção, momento, tamanho da frase) e o específico (a função clínica de cada intervenção).",
+      "funcao": "Separar o genérico do específico.",
+      "duracao_min": 2.5
+    },
+    {
+      "ts": "0:21:07",
+      "bloco": "Demonstração",
+      "descricao": "Diogo analisa um erro próprio: 'como essa insegurança se dá no seu corpo?' entendido como 'com o corpo'; correção imediata e hipótese de esquiva.",
+      "funcao": "Modelar a análise de uma intervenção falha segundo sua função.",
+      "duracao_min": 7.5
+    },
+    {
+      "ts": "0:28:59",
+      "bloco": "Dúvidas",
+      "descricao": "Um participante pergunta se não é melhor deixar o paciente responder e acrescentar a intervenção depois; Diogo segura a própria resposta e devolve ao grupo.",
+      "funcao": "Raciocínio coletivo antes da opinião do facilitador.",
+      "duracao_min": 2.5
+    },
+    {
+      "ts": "0:31:26",
+      "bloco": "Bate-papo/Outro",
+      "descricao": "Formulário de presença: horas complementares e avaliação da condução.",
+      "funcao": "Logística e avaliação do grupo.",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:32:22",
+      "bloco": "Discussão",
+      "descricao": "Vantagens (material novo, projeção) e riscos (esquiva do terapeuta); autocorreção como modelo; 'tudo é material?' versus psicologizar tudo.",
+      "funcao": "Aprofundar pela divergência.",
+      "duracao_min": 11
+    },
+    {
+      "ts": "0:43:42",
+      "bloco": "Feedback",
+      "descricao": "Silêncio do grupo; Diogo responde: sacrifício de uma das intervenções; não abrir tema novo no fim da sessão.",
+      "funcao": "Fechar a questão com critério.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:46:55",
+      "bloco": "Teoria",
+      "descricao": "Síntese: a linguagem se define pela função (refletir com perguntas abertas e espelho sem rótulo; clareza para orientar e investigar; tradução para psicoeducar).",
+      "funcao": "Consolidar o princípio central.",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:51:09",
+      "bloco": "Discussão",
+      "descricao": "Checagem de compreensão chamando participantes pelo nome.",
+      "funcao": "Verificar entendimento.",
+      "duracao_min": 0.5
+    },
+    {
+      "ts": "0:51:45",
+      "bloco": "Dinâmica",
+      "descricao": "Pergunta 3: linguagem formal ou informal na clínica? Quem não atende imagina. Respostas: ACP e autenticidade; 'depende do paciente'; preferência pelo informal.",
+      "funcao": "Aplicar o princípio a uma escolha concreta.",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:54:44",
+      "bloco": "Teoria",
+      "descricao": "Formal não é técnico; demonstração de 'autenticidade' em dois registros; evitar termos técnicos (reforço, obnubilado); exceção da nomeação (violência psicológica); patologização via ChatGPT; checar o sentido de palavras comuns (permissivo).",
+      "funcao": "Distinção conceitual com demonstração ao vivo.",
+      "duracao_min": 8.5
+    },
+    {
+      "ts": "1:03:08",
+      "bloco": "Fechamento",
+      "descricao": "Encerra pelo horário (corte abrupto).",
+      "funcao": "—",
+      "duracao_min": 0.5
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Linguagem clínica",
+      "definicao": "O uso da língua pelo terapeuta: escolha de palavras, construção de frase, momento de falar, tamanho da frase, registro e figuras de linguagem. É 'um nível que parece menor, mas pode ser bem determinante para o processo'.",
+      "exemplo": "Saber construir uma metáfora ou modular a voz para enfatizar.",
+      "abordagem": "",
+      "ts": "0:01:34"
+    },
+    {
+      "nome": "Ênfase prosódica",
+      "definicao": "Dar ênfase a um elemento da frase pela modulação da voz, em contraste com a construção semântica (repetir palavras intensificadoras). As duas têm o mesmo objetivo e efeitos diferentes.",
+      "exemplo": "'Muito, muito, muito importante' versus 'super importante' com ênfase de voz.",
+      "abordagem": "",
+      "ts": "0:02:36"
+    },
+    {
+      "nome": "Registro formal e informal",
+      "definicao": "O grau de formalidade da fala do terapeuta. O informal pode favorecer o vínculo e a espontaneidade; o formal pode ajudar certos pacientes a se organizarem. Nenhum dos dois implica tecnicismo.",
+      "exemplo": "Participante da ACP que fala 'como falaria num ambiente normal'.",
+      "abordagem": "",
+      "ts": "0:53:36"
+    },
+    {
+      "nome": "Linguagem técnica",
+      "definicao": "Jargão teórico que, em geral, não descreve a vivência do paciente e não é compreendido por leigos; deve ser traduzido. Formal não é o mesmo que técnico.",
+      "exemplo": "'Obnubilado', 'reforço', 'fusão cognitiva'.",
+      "abordagem": "",
+      "ts": "0:57:34"
+    },
+    {
+      "nome": "Metáfora",
+      "definicao": "Figura de linguagem com potência clínica. Aparece como dificuldade (ser mais metafórico e menos literal) e como tema de um exercício anterior do Diogo.",
+      "exemplo": "Participante que gostaria de explicar por imagens em vez de literalmente.",
+      "abordagem": "",
+      "ts": "0:03:38"
+    },
+    {
+      "nome": "Função clínica da intervenção",
+      "definicao": "O objetivo que uma intervenção cumpre (fazer refletir, orientar, investigar, traduzir ou psicoeducar). Define a linguagem adequada, por isso dificuldades de comunicação parecidas pedem soluções diferentes.",
+      "exemplo": "Querer clareza sobre o foco corporal é diferente de querer que o paciente reflita livremente.",
+      "abordagem": "",
+      "ts": "0:20:58"
+    },
+    {
+      "nome": "Espelhamento",
+      "definicao": "Devolver ao paciente o que o terapeuta observa. Funciona quando mostra sem nomear o estado; falha quando entrega o rótulo pronto.",
+      "exemplo": "'Vou te mostrar o que eu vi no jeito que você falou comigo' versus 'estou vendo que você está ansioso'.",
+      "abordagem": "",
+      "ts": "0:48:57"
+    },
+    {
+      "nome": "Pergunta aberta",
+      "definicao": "Pergunta que não se responde com sim ou não; instrumento para que o paciente reflita. Perguntas fechadas são 'péssimas' quando o objetivo é a reflexão.",
+      "exemplo": "",
+      "abordagem": "",
+      "ts": "0:47:34"
+    },
+    {
+      "nome": "Incongruência entre discurso e expressão",
+      "definicao": "Quando o que o paciente diz não bate com o que ele demonstra; é ocasião privilegiada para o espelhamento.",
+      "exemplo": "Dizer 'não, está tudo bem' de um jeito que claramente não está.",
+      "abordagem": "Abordagem centrada na pessoa",
+      "ts": "0:48:13"
+    },
+    {
+      "nome": "Fusão cognitiva",
+      "definicao": "Conceito da ACT citado como exemplo de termo técnico que precisa ser traduzido para a vivência do paciente.",
+      "exemplo": "'Você se sente muito apegado aos seus pensamentos?'",
+      "abordagem": "Terapias contextuais",
+      "ts": "0:11:40"
+    },
+    {
+      "nome": "Autenticidade",
+      "definicao": "Princípio da ACP, relevante tanto no terapeuta quanto no paciente. Definição formal: manifestação em que o indivíduo não se comporta em função de um agente externo, mas das próprias preferências, vontades, opiniões e valores. Informal: ser você mesmo, não ser quem os outros esperam de você.",
+      "exemplo": "Demonstração dos dois registros; 'valor' é apontado como termo técnico da ACT.",
+      "abordagem": "Abordagem centrada na pessoa",
+      "ts": "0:55:21"
+    },
+    {
+      "nome": "Psicologização",
+      "definicao": "Atribuir sentido clínico a acasos e intercorrências. O que acontece na sessão é relevante, mas não deve ser tomado de cara como fundamental ou ligado à queixa.",
+      "exemplo": "Tomar como evitação o paciente que bebe água durante a sessão, quando ele pode só estar com sede.",
+      "abordagem": "",
+      "ts": "0:40:14"
+    },
+    {
+      "nome": "Esquiva",
+      "definicao": "Comportamento de desviar de algo aversivo. Aparece como hipótese sobre a paciente (narrar para não sentir) e como risco do terapeuta (deixar um erro passar para não admiti-lo).",
+      "exemplo": "Paciente muito falante que se foca na narrativa dos eventos e se afasta do que sente.",
+      "abordagem": "Análise do comportamento",
+      "ts": "0:25:01"
+    },
+    {
+      "nome": "Somatização",
+      "definicao": "Manifestação corporal de estados emocionais, que Diogo queria investigar; em geral é desagradável e foge ao controle da pessoa.",
+      "exemplo": "Insegurança manifestada como dor de barriga ou tremedeira.",
+      "abordagem": "",
+      "ts": "0:22:37"
+    },
+    {
+      "nome": "Projeção",
+      "definicao": "O mal-entendido do paciente sobre uma pergunta pode revelar conteúdo projetado, material novo possivelmente mais rico do que o planejado.",
+      "exemplo": "Paciente que responde a uma pergunta diferente da que foi feita.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:33:38"
+    },
+    {
+      "nome": "Transferência",
+      "definicao": "Citada, junto com a projeção, como leitura possível do conteúdo que surge quando o paciente entende errado a intervenção.",
+      "exemplo": "",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "0:33:38"
+    },
+    {
+      "nome": "Autocorreção do terapeuta",
+      "definicao": "Reconhecer e corrigir em sessão uma fala mal formulada. Preserva a intervenção necessária e dá ao paciente um modelo relacional seguro ('errei, corrigi e está tudo bem').",
+      "exemplo": "'Desculpa, eu não me fiz claro; eu quis dizer…'",
+      "abordagem": "",
+      "ts": "0:37:46"
+    },
+    {
+      "nome": "Sacrifício clínico",
+      "definicao": "O custo de oportunidade entre intervenções concorrentes: seguir o tema novo perde a investigação original; voltar a ela pode dar ao paciente a impressão de que o que ele disse importava pouco.",
+      "exemplo": "Perder a investigação da insegurança no corpo para seguir a baixa autoestima corporal.",
+      "abordagem": "",
+      "ts": "0:44:45"
+    },
+    {
+      "nome": "Nomeação",
+      "definicao": "Dar nome técnico ou legal a uma vivência quando isso ajuda o paciente a significar o sofrimento. É a exceção à regra de evitar termos técnicos.",
+      "exemplo": "'Isso aí foi violência psicológica.'",
+      "abordagem": "",
+      "ts": "0:59:42"
+    },
+    {
+      "nome": "Patologização",
+      "definicao": "Transformar sofrimentos em rótulos diagnósticos. É amplificada por redes sociais e pela busca em IA, e o terapeuta pode reproduzi-la sem querer ao usar termos técnicos.",
+      "exemplo": "'GPT, meu psicólogo disse que eu pareço borderline.'",
+      "abordagem": "",
+      "ts": "1:00:27"
+    },
+    {
+      "nome": "Obnubilação da consciência",
+      "definicao": "Estado de rebaixamento do nível de consciência descrito na psicopatologia; exemplo de termo técnico que não ajuda o paciente a entender sua vivência.",
+      "exemplo": "Semelhante a estar 'grogue', mas sem uso de substância.",
+      "abordagem": "",
+      "ts": "0:59:05"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Roda reflexiva sobre linguagem clínica",
+      "objetivo": "Tornar os participantes conscientes do próprio uso da linguagem em sessão e ensiná-los a diagnosticar o tipo de dificuldade de linguagem que têm, escolhendo as palavras segundo a função clínica da intervenção.",
+      "competencias": [
+        "Construção frasal",
+        "Intervenção",
+        "Psicoeducação",
+        "Aprofundamento"
+      ],
+      "configuracao": "Grupo todo, online (Google Meet), cerca de 7 a 8 participantes (estudantes, estagiários e terapeutas iniciantes); participação por microfone e chat.",
+      "tempo": "Cerca de 60 minutos, com três perguntas em sequência.",
+      "materiais": "Frases contrastivas preparadas; um exemplo de intervenção mal entendida; um conceito para demonstrar registros; formulário de presença.",
+      "consigna": "1) 'Vocês costumam se preocupar com o uso da linguagem na clínica de vocês?' 2) 'Essas dificuldades que vocês trouxeram se resolvem de maneira semelhante?' 3) 'Vocês utilizariam uma linguagem mais formal ou mais informal na clínica?' (quem não atende imagina como seria).",
+      "passos": [
+        "Teoria mínima por contraste: a mesma ênfase feita por repetição de palavras e por modulação da voz.",
+        "Pergunta 1 e rodada de respostas; para cada resposta, parafrasear, perguntar 'por que você acha isso?' e concretizar com um exemplo hipotético.",
+        "Apontar explicitamente que as dificuldades são de naturezas diferentes (clareza, tradução, reflexão sem entregar a resposta).",
+        "Pergunta 2, de segunda ordem: as dificuldades se resolvem igual?",
+        "Separar o comum (treino, repensar palavras, construção, momento, tamanho) do específico (a função clínica) e ilustrar com um erro próprio de construção frasal.",
+        "Devolver ao grupo as perguntas dos participantes antes de opinar.",
+        "Sintetizar o mapa de função e linguagem: perguntas abertas e espelho sem rótulo para refletir; clareza para orientar e investigar; tradução para psicoeducar.",
+        "Pergunta 3, aplicada ao registro; demonstrar que formal não é técnico e discutir termos técnicos, nomeação e patologização."
+      ],
+      "feedback": "O critério é a adequação da linguagem à função da intervenção: para fazer refletir, nada de sim ou não nem de rótulo entregue; para orientar, clareza; para traduzir, nada de tecnicismo e checagem do sentido que as palavras têm para o paciente. Diogo corrige distinções conceituais ao vivo (formal não é técnico) e valoriza a autocrítica dos participantes com contrapesos ('não se coloque unicamente como causador').",
+      "exemplos_praticos": "Uma participante que conduz grupos terapêuticos recebe o retorno de que suas instruções são confusas; outra tem dificuldade de traduzir conceitos da ACT e de ser metafórica; uma terceira consegue apontar incongruências por escrito, mas não falando. Uma participante grava as próprias intervenções para revê-las. Um participante levanta a dúvida entre corrigir na hora ou acrescentar depois, que gera o debate mais rico; em um momento o grupo silencia e o facilitador responde.",
+      "variacoes": "Diogo menciona um exercício anterior dedicado só às metáforas. Uma adaptação ao estilo Alan (sugestão da nota, não feita no encontro): cada participante reescreve a mesma intervenção em versões para funções diferentes e recebe feedback.",
+      "armadilhas": "Exemplos do facilitador puxando longas digressões ('a gente deu uma volta muito grande'); problemas de áudio que cortam falas (resolvidos com recapitulação); grupo pequeno que silencia diante de uma pergunta aberta; fim abrupto sem fechamento.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:04:49"
+    },
+    {
+      "nome": "Dinâmica - Técnico, formal e informal",
+      "objetivo": "Perceber a diferença entre linguagem técnica, formal e informal e treinar a tradução de conceitos para a vivência do paciente.",
+      "competencias": [
+        "Psicoeducação",
+        "Construção frasal",
+        "Articulação teoria-prática"
+      ],
+      "configuracao": "No encontro, foi uma demonstração do facilitador para o grupo todo (online), não praticada pelos participantes.",
+      "tempo": "2 a 3 minutos por conceito.",
+      "materiais": "Um conceito da abordagem de algum participante.",
+      "consigna": "Diogo encena o pedido 'Diogo, define autenticidade' e responde: 'Vou trazer uma definição formal e uma definição informal.'",
+      "passos": [
+        "Escolher um conceito da abordagem de alguém do grupo (no encontro, autenticidade, da ACP).",
+        "Dar a definição formal.",
+        "Verificar se ela contém termo técnico ('valor', na ACT): se contém, é técnica; sem ele, fica só formal.",
+        "Dar a definição informal ('ser você mesmo, não ser quem os outros esperam de você').",
+        "Perguntar ao grupo se deu para ver a diferença entre os níveis."
+      ],
+      "feedback": "A versão informal precisa ser compreensível para um leigo e descrever a vivência; a formal pode existir sem jargão.",
+      "exemplos_praticos": "A demonstração respondeu a uma participante que preferia o informal 'para não gerar dúvidas', confundindo formal com técnico.",
+      "variacoes": "Adaptação possível (não feita no encontro): cada participante repete os passos com um conceito da própria abordagem (fusão cognitiva, reforço, recalque) e o grupo avalia a versão informal.",
+      "armadilhas": "Achar que o informal dispensa checar o sentido: até palavras comuns ('permissivo') precisam ser verificadas com o paciente.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:55:21"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Explicar a variedade de formatos do Aprimoramento",
+      "descricao": "Diante da pergunta 'é estudo de caso?', explica que depende do exercício: estudo de caso, roleplay ao vivo ou discussão.",
+      "exemplo": "'Vão ter exercícios que têm estudo de caso, outros que têm roleplay.'",
+      "ts": "0:00:34"
+    },
+    {
+      "movimento": "Teoria mínima por contraste",
+      "descricao": "Em vez de definir linguagem, mostra duas frases com o mesmo objetivo e efeitos diferentes.",
+      "exemplo": "'Muito, muito, muito importante' versus ênfase na voz.",
+      "ts": "0:01:34"
+    },
+    {
+      "movimento": "Parafrasear e confirmar",
+      "descricao": "Reformula o que o participante disse, pergunta se entendeu certo e pede a razão.",
+      "exemplo": "'Você tá dizendo que… ou eu entendi errado? Consegue dizer por que acha que sua linguagem é confusa?'",
+      "ts": "0:07:20"
+    },
+    {
+      "movimento": "Concretizar com uma hipótese",
+      "descricao": "Transforma uma dificuldade abstrata em uma cena concreta para o participante confirmar.",
+      "exemplo": "'Me veio uma imagem: você perguntaria \"você se sente rígido?\"'",
+      "ts": "0:10:36"
+    },
+    {
+      "movimento": "Chamar atenção para a diferença entre as respostas",
+      "descricao": "Pede que o grupo note que as dificuldades são de naturezas diferentes antes de discuti-las.",
+      "exemplo": "'Fiquem com os ouvidos atentos a essa diferença; são habilidades que se treinam de formas diferentes.'",
+      "ts": "0:11:40"
+    },
+    {
+      "movimento": "Pergunta de segunda ordem",
+      "descricao": "Pergunta se os problemas se resolvem igual, em vez de como resolver cada um, o que obriga a categorizar.",
+      "exemplo": "'Vocês acham que essas três dificuldades se resolvem de maneira semelhante?'",
+      "ts": "0:15:25"
+    },
+    {
+      "movimento": "Recapitular quando o áudio falha",
+      "descricao": "Repete para o grupo o que uma participante com som ruim disse.",
+      "exemplo": "'Retomando, não sei se todo mundo conseguiu ouvir…'",
+      "ts": "0:17:29"
+    },
+    {
+      "movimento": "Expor o próprio erro clínico",
+      "descricao": "Usa uma intervenção malsucedida da própria prática como material de análise.",
+      "exemplo": "A pergunta sobre 'insegurança no corpo' mal entendida.",
+      "ts": "0:21:07"
+    },
+    {
+      "movimento": "Segurar a própria resposta, com metacomentário",
+      "descricao": "Começa a responder e se interrompe para devolver a pergunta ao grupo, ligando o gesto ao conteúdo (não entregar respostas).",
+      "exemplo": "'Não, mentira, não vou responder, vou deixar o pessoal responder antes. Eu não quero dar resposta também, Gabi; você me alertou.'",
+      "ts": "0:30:26"
+    },
+    {
+      "movimento": "Pedir desculpas por ter entendido errado",
+      "descricao": "Ao perceber que interpretou mal uma participante, se retrata e pede que ela repita, fazendo em ato a autocorreção discutida.",
+      "exemplo": "'Eu vou me desculpar… você pode me explicar de novo qual era a desvantagem?'",
+      "ts": "0:36:39"
+    },
+    {
+      "movimento": "Pergunta para refinar",
+      "descricao": "Testa o limite de uma posição com um caso-limite.",
+      "exemplo": "'Se o paciente entendeu errado uma vez só, você acha isso material relevante?'",
+      "ts": "0:39:30"
+    },
+    {
+      "movimento": "Lidar com o silêncio",
+      "descricao": "Espera, comenta com leveza e dá a própria resposta.",
+      "exemplo": "'Fiquei pensando: poxa, que pena. Mas tudo bem.'",
+      "ts": "0:43:52"
+    },
+    {
+      "movimento": "Reconhecer a digressão e reconduzir",
+      "descricao": "Admite o desvio e volta ao fio principal.",
+      "exemplo": "'A gente deu uma volta muito grande… mas o ponto é que o uso da linguagem depende da função clínica.'",
+      "ts": "0:46:55"
+    },
+    {
+      "movimento": "Checar compreensão pelo nome e incluir quem não atende",
+      "descricao": "Chama nominalmente quem esteve quieto e pede que quem não atende imagine.",
+      "exemplo": "'Tão conseguindo acompanhar ou tá confuso?'; 'pensem em como vocês imaginam que seria'.",
+      "ts": "0:51:09"
+    },
+    {
+      "movimento": "Corrigir uma distinção com demonstração ao vivo",
+      "descricao": "Diante da confusão entre formal e técnico, demonstra na hora e se põe à disposição para ser corrigido.",
+      "exemplo": "Definição formal e informal de autenticidade; 'se não deu, vocês me corrigem'.",
+      "ts": "0:55:21"
+    },
+    {
+      "movimento": "Formulário como avaliação da condução",
+      "descricao": "Explica que o formulário serve para horas complementares e também para criticar e propor melhorias ao grupo e à condução.",
+      "exemplo": "'Esse formulário também ajuda a avaliar o grupo e a minha condução.'",
+      "ts": "0:31:26"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Para enfatizar, module a voz em vez de repetir intensificadores.",
+      "justificativa": "'Muito, muito, muito' é uma construção semântica menos elegante; a ênfase prosódica produz outro efeito.",
+      "contexto": "Psicoeducação, sinalizar algo importante.",
+      "competencia": "Construção frasal",
+      "ts": "0:01:34"
+    },
+    {
+      "dica": "Não pergunte usando o conceito; traduza-o para a experiência.",
+      "justificativa": "'Você se sente rígido?' usa jargão; 'você se sente muito apegado aos seus pensamentos?' fala da vivência.",
+      "contexto": "Ao investigar construtos da sua abordagem.",
+      "competencia": "Psicoeducação",
+      "ts": "0:11:40"
+    },
+    {
+      "dica": "Grave e reveja suas intervenções.",
+      "justificativa": "Permite ver como poderia ter construído a frase de outro jeito; ter consciência disso já é um passo (participante; Diogo endossa).",
+      "contexto": "Treino fora da sessão, com consentimento.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:18:34"
+    },
+    {
+      "dica": "Se o problema é de linguagem, repense o que falar: palavras, construção, momento e tamanho da frase.",
+      "justificativa": "Essas escolhas, inclusive interromper ou não o paciente, mudam o efeito da intervenção.",
+      "contexto": "Sempre que uma intervenção não chega.",
+      "competencia": "Construção frasal",
+      "ts": "0:19:46"
+    },
+    {
+      "dica": "Defina a função da intervenção antes de escolher as palavras.",
+      "justificativa": "Fazer refletir, orientar, investigar e traduzir pedem linguagens diferentes.",
+      "contexto": "Ao planejar ou avaliar intervenções.",
+      "competencia": "Intervenção",
+      "ts": "0:27:57"
+    },
+    {
+      "dica": "Ao investigar a manifestação corporal de um sentimento, seja específico e dê exemplos.",
+      "justificativa": "'Como isso se dá no seu corpo?' pode ser entendido como 'com o seu corpo'; exemplos concretos ('dor de barriga, tremedeira') desfazem a ambiguidade.",
+      "contexto": "Investigação de somatização.",
+      "competencia": "Construção frasal",
+      "ts": "0:22:37"
+    },
+    {
+      "dica": "Quando o paciente entender errado, corrija-se de forma simples.",
+      "justificativa": "'Desculpa, não me fiz claro' preserva a intervenção e dá um modelo de que errar e corrigir é seguro, especialmente para pacientes perfeccionistas.",
+      "contexto": "Mal-entendidos em sessão.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:37:46"
+    },
+    {
+      "dica": "Deixe o mal-entendido correr quando ele trouxer material rico, e não por esquiva.",
+      "justificativa": "Pode revelar projeção ou transferência, mas deixar passar para não admitir o erro é uma esquiva do terapeuta.",
+      "contexto": "Avaliar a riqueza do conteúdo novo.",
+      "competencia": "Intervenção",
+      "ts": "0:32:22"
+    },
+    {
+      "dica": "Saiba que corrigir depois tem custo e escolha qual intervenção sacrificar.",
+      "justificativa": "Voltar ao tema original pode soar como se o que o paciente disse não importasse; seguir o novo perde a investigação inicial.",
+      "contexto": "Quando o paciente foi para outro assunto relevante.",
+      "competencia": "Priorização clínica",
+      "ts": "0:44:45"
+    },
+    {
+      "dica": "Não abra tema novo na reta final da sessão.",
+      "justificativa": "Não há tempo de explorá-lo com propriedade; no exemplo, faltavam 10 minutos com uma paciente muito falante.",
+      "contexto": "Últimos minutos da sessão.",
+      "competencia": "Abertura e encerramento de sessão",
+      "ts": "0:45:43"
+    },
+    {
+      "dica": "Não psicologize um evento isolado.",
+      "justificativa": "Um mal-entendido único ou beber água pode ser só intercorrência; superinterpretar distorce a compreensão do caso.",
+      "contexto": "Antes de tomar um detalhe como dado clínico.",
+      "competencia": "Escuta clínica",
+      "ts": "0:41:23"
+    },
+    {
+      "dica": "Se o paciente não entende com frequência, revise sua clareza, mas não se culpe sozinho.",
+      "justificativa": "A recorrência sugere um problema de formulação, mas pode ser também o modo como o paciente escuta.",
+      "contexto": "Mal-entendidos repetidos.",
+      "competencia": "Construção frasal",
+      "ts": "0:40:14"
+    },
+    {
+      "dica": "Para fazer refletir, evite perguntas de sim ou não e espelhos que entregam o rótulo.",
+      "justificativa": "'Estou vendo que você está ansioso' dá a resposta pronta; pergunta fechada não gera reflexão.",
+      "contexto": "Quando o objetivo é que o paciente conclua por si.",
+      "competencia": "Aprofundamento",
+      "ts": "0:47:34"
+    },
+    {
+      "dica": "Diante de discurso incongruente, espelhe o que você viu, sem nomear o estado.",
+      "justificativa": "'Vou te mostrar o que eu vi no jeito que você falou comigo' coloca o paciente em contato com o que aparece e faz disso o instrumento da reflexão.",
+      "contexto": "'Está tudo bem' dito de um jeito que claramente não está.",
+      "competencia": "Intervenção",
+      "ts": "0:48:57"
+    },
+    {
+      "dica": "Pode ser formal, mas evite o técnico.",
+      "justificativa": "Formalidade não exige jargão; alguns pacientes se organizam melhor no formal, outros criam vínculo no informal.",
+      "contexto": "Ao escolher o registro com cada paciente.",
+      "competencia": "Construção frasal",
+      "ts": "1:00:55"
+    },
+    {
+      "dica": "Troque o termo técnico por uma palavra comum.",
+      "justificativa": "'Obnubilado' ou 'reforço' não ajudam o leigo a significar a vivência; 'permissivo' é mais acessível.",
+      "contexto": "Devolutivas e psicoeducação.",
+      "competencia": "Psicoeducação",
+      "ts": "0:59:42"
+    },
+    {
+      "dica": "Nomeie quando o nome dá sentido à vivência.",
+      "justificativa": "'Isso foi violência psicológica' ajuda a pessoa a significar o sofrimento, e o termo tem definição legal.",
+      "contexto": "Situações de violência ou abuso não reconhecidas como tal.",
+      "competencia": "Intervenção",
+      "ts": "0:59:42"
+    },
+    {
+      "dica": "Cuidado com rótulos diagnósticos na fala.",
+      "justificativa": "O paciente vai pesquisar ('meu psicólogo disse que pareço borderline') e pode se patologizar.",
+      "contexto": "Sempre que for tentado a nomear um quadro.",
+      "competencia": "Psicodiagnóstico",
+      "ts": "1:00:27"
+    },
+    {
+      "dica": "Cheque o sentido pessoal até das palavras comuns.",
+      "justificativa": "'Permissivo' significa coisas diferentes para cada pessoa; os pormenores permitem compreender e intervir de verdade.",
+      "contexto": "Quando o paciente (ou você) usa palavras carregadas.",
+      "competencia": "Escuta clínica",
+      "ts": "1:01:59"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "A linguagem da intervenção deve ser escolhida pela função clínica.",
+      "argumento": "Dificuldades aparentemente iguais ('não fui claro') têm naturezas diferentes (vocabulário, clareza, reflexão) e pedem soluções diferentes; a mesma frase pode ser boa para uma função e péssima para outra.",
+      "contraponto": "Melhorar a comunicação como um 'falar melhor' genérico; Diogo reconhece a parte comum (treino, reescolha de palavras).",
+      "implicacao": "Antes de treinar a frase, identificar o objetivo da intervenção.",
+      "quem": "Diogo",
+      "ts": "0:20:58"
+    },
+    {
+      "tese": "Em geral, evite termos técnicos em sessão.",
+      "argumento": "O termo técnico não descreve a vivência, o leigo não o entende e ele alimenta rótulos e patologização (pesquisados no ChatGPT).",
+      "contraponto": "Não é absoluto: com quem conhece o termo pode funcionar ('reforço' usado com Diogo), e a nomeação pode dar sentido ('violência psicológica').",
+      "implicacao": "Traduzir e checar o sentido com o paciente.",
+      "quem": "Diogo",
+      "ts": "0:56:41"
+    },
+    {
+      "tese": "Formal não é técnico.",
+      "argumento": "Dá para definir um conceito formalmente sem jargão, e a formalidade pode ajudar alguns pacientes a se organizarem.",
+      "contraponto": "Participante que preferia o informal 'para não gerar dúvidas', confundindo formalidade com tecnicismo.",
+      "implicacao": "Ajustar o registro ao paciente e investigar por que cada registro funciona.",
+      "quem": "Diogo",
+      "ts": "0:54:44"
+    },
+    {
+      "tese": "Nem tudo que acontece na sessão é material clínico.",
+      "argumento": "Há acasos e intercorrências; psicologizar tudo distorce a compreensão do caso ('às vezes o paciente só está com sede').",
+      "contraponto": "Uma participante defende que 'tudo que acontece na clínica é material'; Diogo aceita o pressuposto de relevância, mas não o de centralidade automática.",
+      "implicacao": "Dar peso a um evento pela recorrência e pelo contexto.",
+      "quem": "Diogo",
+      "ts": "0:40:14"
+    },
+    {
+      "tese": "O terapeuta não precisa sustentar a máscara de quem nunca erra.",
+      "argumento": "Corrigir-se mantém a intervenção necessária e oferece um modelo relacional seguro ('errei, corrigi, está tudo bem'), valioso para perfeccionistas.",
+      "contraponto": "Deixar o mal-entendido correr para se proteger (esquiva do terapeuta).",
+      "implicacao": "Autocorreção explícita e simples.",
+      "quem": "participante e Diogo",
+      "ts": "0:37:46"
+    },
+    {
+      "tese": "Um mal-entendido do paciente pode ser dado clínico, não só erro de comunicação.",
+      "argumento": "Com uma paciente muito falante, entender 'com o corpo' em vez de 'no corpo' pode ser um desvio do contato com o que sente.",
+      "contraponto": "O próprio Diogo pondera: só quatro sessões, é hipótese; e não se deve psicologizar tudo.",
+      "implicacao": "Registrar a hipótese e testá-la ao longo das sessões.",
+      "quem": "Diogo",
+      "ts": "0:25:01"
+    },
+    {
+      "tese": "Linguagem clínica se melhora com treino e estudo.",
+      "argumento": "Auto-observação, gravação das próprias intervenções e estudo de formas de dizer sem dar conselho rígido.",
+      "contraponto": "Diogo concorda e acrescenta que o como também depende da função.",
+      "implicacao": "Prática deliberada de construção frasal.",
+      "quem": "participante",
+      "ts": "0:18:34"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "São construções diferentes: apesar de terem o mesmo objetivo, são intervenções diferentes e podem ter efeitos diferentes.",
+      "tema": "linguagem",
+      "ts": "0:02:36"
+    },
+    {
+      "texto": "A ideia é ficar mais consciente da nossa atuação num nível que parece menor, mas pode ser bem determinante para o processo.",
+      "tema": "linguagem",
+      "ts": "0:03:38"
+    },
+    {
+      "texto": "Se o nosso problema está na linguagem, a gente tem que repensar o que falar.",
+      "tema": "construção frasal",
+      "ts": "0:18:34"
+    },
+    {
+      "texto": "Os problemas de cada uma estão associados a funções diferentes na clínica.",
+      "tema": "função da intervenção",
+      "ts": "0:20:58"
+    },
+    {
+      "texto": "A gente não precisa se vestir como os certinhos que não erram. (participante)",
+      "tema": "autocorreção",
+      "ts": "0:35:36"
+    },
+    {
+      "texto": "A postura do terapeuta oferece, numa relação segura, um modelo: errei, corrigi e está tudo bem; ninguém vai me matar.",
+      "tema": "autocorreção",
+      "ts": "0:37:46"
+    },
+    {
+      "texto": "Paciente que bebe água durante a sessão não necessariamente está evitando o conteúdo; às vezes só está com sede.",
+      "tema": "psicologização",
+      "ts": "0:41:23"
+    },
+    {
+      "texto": "Se você quer que o paciente reflita, uma pergunta de sim ou não seria péssima.",
+      "tema": "pergunta aberta",
+      "ts": "0:47:34"
+    },
+    {
+      "texto": "Formal não quer dizer técnico.",
+      "tema": "registro",
+      "ts": "0:54:44"
+    },
+    {
+      "texto": "Autenticidade é ser você mesmo; é não ser quem os outros esperam de você.",
+      "tema": "tradução de conceitos",
+      "ts": "0:56:11"
+    },
+    {
+      "texto": "Podem usar o formal; só não precisam usar o técnico junto.",
+      "tema": "registro",
+      "ts": "1:00:55"
+    },
+    {
+      "texto": "A ideia geral é importante, mas é super importante verificar os pormenores: o que é ser permissivo para alguém.",
+      "tema": "escuta",
+      "ts": "1:01:59"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Formal não é técnico.",
+      "mensagem": "Três registros (técnico, formal, informal) com o exemplo da autenticidade; você pode ser formal sem jargão.",
+      "roteiro": [
+        "Capa: 'Falar difícil não é falar formal'",
+        "Técnico: definição com jargão",
+        "Formal: sem jargão",
+        "Informal: 'ser você mesmo'",
+        "Quando usar cada um",
+        "CTA: qual registro você usa?"
+      ],
+      "corte_inicio": "0:54:44",
+      "corte_fim": "0:56:41"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Pare de dizer 'você está ansioso'.",
+      "mensagem": "Para fazer refletir, use pergunta aberta ou espelho sem rótulo: 'vou te mostrar o que eu vi no jeito que você falou'.",
+      "roteiro": [
+        "Cena 1: 'está tudo bem' dito com expressão tensa",
+        "Cena 2 (errado): 'você está ansioso'",
+        "Cena 3 (melhor): espelhar o que foi visto",
+        "Texto: não entregue a resposta"
+      ],
+      "corte_inicio": "0:47:34",
+      "corte_fim": "0:49:42"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Às vezes o paciente só está com sede.",
+      "mensagem": "Nem tudo é material clínico; psicologizar tudo distorce a compreensão do caso.",
+      "roteiro": [
+        "Frase de impacto",
+        "Legenda: recorrência e contexto dão peso a um evento"
+      ],
+      "corte_inicio": "0:40:14",
+      "corte_fim": "0:42:32"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Sua dificuldade de comunicação na clínica é de qual tipo?",
+      "mensagem": "Clareza, tradução ou reflexão sem entregar a resposta: cada uma se treina de um jeito, porque cumpre uma função diferente.",
+      "roteiro": [
+        "Capa: 'Não sei me expressar na sessão'",
+        "Tipo 1: clareza para orientar",
+        "Tipo 2: traduzir conceitos",
+        "Tipo 3: fazer refletir sem entregar a resposta",
+        "O comum: repensar palavras, construção, momento, tamanho",
+        "O específico: a função da intervenção"
+      ],
+      "corte_inicio": "0:15:25",
+      "corte_fim": "0:21:07"
+    },
+    {
+      "formato": "reels",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Errei, corrigi e está tudo bem.",
+      "mensagem": "A autocorreção do terapeuta é um modelo relacional, especialmente para quem precisa estar sempre certo.",
+      "roteiro": [
+        "Fala: 'desculpa, não me fiz claro'",
+        "Por que isso é terapêutico",
+        "Contra a máscara do terapeuta infalível"
+      ],
+      "corte_inicio": "0:35:36",
+      "corte_fim": "0:38:49"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "'Obnubilado'? O perigo dos rótulos na era do ChatGPT.",
+      "mensagem": "Termos técnicos confundem e alimentam a patologização; nomear só quando dá sentido (ex.: violência psicológica).",
+      "roteiro": [
+        "Capa: o paciente vai pesquisar o que você disse",
+        "Termo técnico não descreve vivência",
+        "Exceção: nomear que dá sentido",
+        "Até palavras comuns precisam ser checadas"
+      ],
+      "corte_inicio": "0:58:42",
+      "corte_fim": "1:00:55"
+    },
+    {
+      "formato": "stories",
+      "pilar": "bastidores-dos-grupos",
+      "gancho": "Você fala de modo formal ou informal com seus pacientes?",
+      "mensagem": "As respostas de um grupo de aprimoramento e a distinção formal/técnico.",
+      "roteiro": [
+        "Enquete formal x informal",
+        "Respostas do grupo (ACP, 'depende do paciente')",
+        "Resultado + 'formal não é técnico'"
+      ],
+      "corte_inicio": "0:52:15",
+      "corte_fim": "0:54:44"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Sigmund Freud",
+      "contexto": "Frase atribuída a Freud sobre o charuto que às vezes é só um charuto, usada contra a psicologização de tudo (atribuição historicamente discutida)."
+    },
+    {
+      "nome": "Paulo Dalgalarrondo",
+      "contexto": "Livro de psicopatologia e semiologia dos transtornos mentais, citado como fonte do termo 'obnubilação', exemplo de termo técnico inadequado em sessão."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Roda reflexiva do Aprimoramento Clínico (formato do Diogo)",
+    "objetivo": "Treinar habilidades clínicas globais por meio de discussão guiada: perguntas disparadoras encadeadas (da autopercepção à categorização e à aplicação), com síntese de princípios e demonstrações do facilitador.",
+    "publico": "Estudantes de psicologia (alguns em busca de estágio), estagiários e terapeutas iniciantes de abordagens variadas (ACP, ACT, análise do comportamento, psicanálise); aberto a novatos.",
+    "tamanho": "Cerca de 7 a 8 participantes neste encontro.",
+    "duracao": "Cerca de 1h (gravação de 1h03, encerrada no horário de forma abrupta).",
+    "estrutura_padrao": "1) Abertura com dúvidas sobre o funcionamento (os exercícios variam entre estudo de caso, roleplay e discussão); 2) Teoria mínima por contraste de exemplos; 3) Pergunta 1 (autopercepção) e rodada com paráfrase, 'por quê?' e concretização; 4) Marcar as diferenças entre as respostas; 5) Pergunta 2 de segunda ordem (as dificuldades se resolvem igual?); 6) Síntese comum/específico e demonstração com erro próprio; 7) Perguntas dos participantes devolvidas ao grupo; 8) Formulário de presença no meio do encontro; 9) Síntese do princípio central; 10) Pergunta 3 aplicada (registro formal ou informal) e demonstração ao vivo; 11) Fechamento. Comparado ao Alan (teoria mínima, exercício de produção de respostas, feedback individual), aqui não há produção de intervenções pelos participantes: treina-se a metacognição sobre a linguagem e o julgamento clínico; as demonstrações do facilitador aproximam do modelo do Alan.",
+    "papel_facilitador": "Mediador socrático e sintetizador: parafraseia e confirma, concretiza com hipóteses, aponta diferenças entre respostas, faz perguntas de segunda ordem, expõe os próprios erros clínicos como material, segura a própria resposta para o grupo pensar primeiro (com metacomentário), se corrige quando entende mal, lida com o silêncio respondendo ele mesmo e reconduz digressões.",
+    "regras_combinados": "Participação por microfone ou chat, conforme o conforto de cada um; quem não atende responde imaginando; formulário de presença (horas complementares e avaliação crítica da condução); o facilitador se põe à disposição para ser corrigido."
+  },
+  "reflexoes_do_facilitador": [
+    "Ao começar a responder a pergunta de um participante, se interrompe: 'não quero dar resposta também; você me alertou com a sua pergunta para não fazer isso aqui no grupo' (ligando a condução ao conteúdo sobre não entregar respostas).",
+    "Pede desculpas por ter entendido errado a fala de uma participante e pede que ela repita.",
+    "Reconhece que um exemplo seu levou a uma digressão longa ('a gente deu uma volta muito grande').",
+    "Lamenta o silêncio do grupo diante de uma pergunta ('poxa, que pena, mas tudo bem') e responde ele mesmo.",
+    "Explica que o formulário serve para avaliar o grupo e a condução dele, e pede críticas e propostas.",
+    "Expõe uma intervenção clínica própria que não ficou clara e a analisa como erro de construção frasal e possível dado clínico."
+  ],
+  "referencias_a_outros_encontros": [
+    "Exercício anterior do Aprimoramento sobre metáforas (efeitos e potência clínica), feito 'antes do carnaval' (provavelmente 'Acervo 12 - Funções da metáfora na clínica', também do Diogo; não verificado).",
+    "Uma participante menciona que construção de frase é tema frequente nos 'grupos de prática' da Allos.",
+    "Diogo cita uma história de uma professora que cometeu um erro clínico e ficou tudo bem, prometida para outro momento (não contada).",
+    "Ver também 'Acervo 24 - Cuidados básicos de saúde na clínica' (mesmo facilitador e mesmo formato) e 'Acervo 23 - Comunicação não verbal na clínica' (Diogo)."
+  ],
+  "observacoes": "Facilitador: Diogo (analista do comportamento; já formado neste encontro: 'eu não tô mais na faculdade'). O título original ('Encontro 49 e Encontro 50') não informa o tema. A gravação começa com a abertura já em andamento e termina abruptamente ('vou interromper o grupo por agora'). Há vários problemas de áudio de uma participante (trechos baixos). Ruídos de legenda: 'Fake/FF' = Felipe; 'Tácia/Taça/Tásia' = mesma participante; 'Tainá/Tina/Ainá' = mesma participante; 'ACP' às vezes transcrito como 'CP'; 'Dalgalahondo' = Dalgalarrondo; 'xuto/cachimbo' = a frase atribuída a Freud sobre o charuto. Diogo diz 'a partir dos 40 minutos finais da sessão', mas pelo contexto quer dizer os minutos finais (faltavam 10). O caso clínico citado por Diogo (paciente adulta muito falante, insegurança na vida afetiva) foi anonimizado. O contexto de trabalho de uma participante (grupos terapêuticos com pacientes internados e medicados) foi mantido genérico. A 'Dinâmica - Técnico, formal e informal' foi só demonstrada pelo facilitador, não praticada pelo grupo."
+}

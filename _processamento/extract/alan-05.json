@@ -1,0 +1,1047 @@
+{
+ "id": "alan-05",
+ "nota": "Alan 05 - Cosmovisão e clínica 2",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Cosmovisão e clínica 2",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Segundo encontro sobre cosmovisão e clínica (o primeiro foi conduzido por Artur, na ausência de Alan). Alan define cosmovisão de forma ampla, incluindo crenças políticas, religiosas, éticas, teóricas e normas legais/CRP, e propõe quatro perguntas disparadoras propositalmente mal formuladas, que o grupo aprimora ao respondê-las: quão dialética é sua abordagem, quão fenomenológica ela é, se a ética é imanente ou transcendente e se um cego pode guiar alguém. A discussão mostra três sentidos incompatíveis de dialética (presença, especular/hegeliana, pergunta e resposta), desmonta a oposição entre observar e saber via círculo hermenêutico, sustenta que a ACP não interpreta por causa da liberdade sartriana e não por fenomenologia, e conclui que doutrina e 'clínica nova para cada paciente' são dois absolutos. No fechamento, Alan aplica as perguntas a como tratar um paciente negro ou cristão, recomenda saber sempre o que se pensa moralmente mesmo sem comunicar, e adia o exercício prático de adequação de linguagem. Ele reconhece ter sido prolixo e pede feedback sobre o formato.",
+ "em_uma_frase": "Antes de decidir se sua cosmovisão entra na clínica, você precisa saber que dialética pratica, quanto a teoria governa sua observação, se sua ética é dada de antemão ou construída em cada caso e se precisa viver o que acredita — e Alan testa isso com quatro perguntas propositalmente mal formuladas.",
+ "competencias": [
+  "Articulação teoria-prática",
+  "Pessoa do terapeuta",
+  "Relação terapêutica",
+  "Direção do tratamento",
+  "Interpretação",
+  "Escuta clínica",
+  "Intervenção"
+ ],
+ "abordagens": [
+  "Abordagem centrada na pessoa",
+  "Fenomenologia e existencialismo",
+  "Psicanálise freudiana",
+  "Psicologia analítica junguiana",
+  "Terapias contextuais",
+  "Terapia cognitivo-comportamental",
+  "Gestalt-terapia",
+  "Psicodrama"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Abertura",
+   "descricao": "Anuncia tema e plano (teoria comparando abordagens + exercício); explica que Artur conduziu o encontro anterior de forma mais aberta.",
+   "funcao": "Situar o grupo e sinalizar que haverá direção.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:00",
+   "bloco": "Combinados",
+   "descricao": "Pede que levante a mão quem não tem microfone ou não quer participar; avisa que vai polemizar.",
+   "funcao": "Mapear participação e preparar para a provocação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:38",
+   "bloco": "Teoria",
+   "descricao": "Definição ampla de cosmovisão (política, religião, filosofia de vida, ética clínica, certezas teóricas, normas legais/CRP).",
+   "funcao": "Mostrar que a teoria também é cosmovisão.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:04:18",
+   "bloco": "Combinados",
+   "descricao": "Explica o formato: 3–5 perguntas disparadoras, respostas por crença pessoal ou abordagem, linha contínua em degradê entre extremos, depois exercício de linguagem.",
+   "funcao": "Dar o mapa do encontro.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:05:19",
+   "bloco": "Dinâmica",
+   "descricao": "Lança a Pergunta 1 (quão dialética é sua abordagem, papel do clínico; pode dar nota); reformula diante do silêncio.",
+   "funcao": "Disparar a discussão.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:06:26",
+   "bloco": "Rodada de respostas",
+   "descricao": "Seis respostas longas tensionadas uma a uma (ACT, crítica à pergunta, transferência/Paulo Freire, terapeuta que opina, relativismo moderado com bate-volta, 'toda clínica é dialética').",
+   "funcao": "Explicitar pressupostos e contradições de cada participante.",
+   "duracao_min": 38
+  },
+  {
+   "ts": "0:44:46",
+   "bloco": "Rodada de respostas",
+   "descricao": "Leitura do chat; esclarece que a gravação é interna; adia o tema do suicídio.",
+   "funcao": "Incluir quem não tem microfone e dar segurança.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:46:54",
+   "bloco": "Feedback",
+   "descricao": "Síntese 1: três sentidos de dialética (presença; especular/Hegel com a citação do botão-flor-fruto; pergunta e resposta/Gadamer e Platão).",
+   "funcao": "Transformar a 'maçaroca' em distinções conceituais.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:51:19",
+   "bloco": "Dinâmica",
+   "descricao": "Lança a Pergunta 2 (quão fenomenológica, papel da teoria) já com definição, para acelerar.",
+   "funcao": "Segunda pergunta com mais controle de tempo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:53:32",
+   "bloco": "Rodada de respostas",
+   "descricao": "Respostas; meta-comentário de que todas as perguntas são ruins de propósito; pede a abordagem de cada um no chat.",
+   "funcao": "Revelar a lógica do dispositivo.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:00:24",
+   "bloco": "Teoria",
+   "descricao": "Círculo hermenêutico (exemplo do sorvete), querela dos métodos (filologia x história, Dilthey, Hegel, Marx), sujeito que observa (Nietzsche, atitude).",
+   "funcao": "Mostrar que não há observação sem pré-compreensão.",
+   "duracao_min": 7
+  },
+  {
+   "ts": "1:07:34",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Caso-teste na ACP (paciente negra); individualização x recorrência estatística; ACP não interpreta por liberdade (Sartre).",
+   "funcao": "Testar a coerência entre abordagem declarada e prática.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "1:17:48",
+   "bloco": "Teoria",
+   "descricao": "Troca de 'chapéu' para aula: duas distinções e as intervenções de Rogers (reflexo simples, reflexo de sentimento, elucidação, eu autêntico, intervenção paradoxal).",
+   "funcao": "Desfazer confusão com exposição direta.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:25:21",
+   "bloco": "Feedback",
+   "descricao": "Síntese 2: fatos x método; frase atribuída a Foucault; teoria x método.",
+   "funcao": "Amarrar a Pergunta 2.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:28:12",
+   "bloco": "Dinâmica",
+   "descricao": "Revela as quatro perguntas e lança a Pergunta 3 (ética imanente ou transcendente).",
+   "funcao": "Última pergunta discutida.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:29:43",
+   "bloco": "Rodada de respostas",
+   "descricao": "Posição transcendente (dois passos, Platão), posição imanente (contraexemplos, crítica ao utilitarismo), mapa do contínuo.",
+   "funcao": "Clarificar posições só o suficiente.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "1:40:29",
+   "bloco": "Discussão",
+   "descricao": "Ética do mundo x ética da clínica (inversão); doutrina x nova clínica para cada paciente; 'os dois polos são um só'.",
+   "funcao": "Aprofundar com o interlocutor mais ativo.",
+   "duracao_min": 13
+  },
+  {
+   "ts": "1:53:29",
+   "bloco": "Fechamento",
+   "descricao": "Apresenta a Pergunta 4 (um cego pode guiar alguém?); aplica as perguntas a tratar paciente negro/cristão (Jung, Dunker); recomenda saber o que se pensa.",
+   "funcao": "Dar sentido retroativo ao percurso.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "2:02:32",
+   "bloco": "Tarefa",
+   "descricao": "Avalia o formato; adia o exercício de adequação de linguagem; apresenta a concordância do paciente.",
+   "funcao": "Ponte para o próximo encontro.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "2:04:30",
+   "bloco": "Fechamento",
+   "descricao": "Encerra, recapitula as quatro perguntas, para a gravação e pede feedback sobre a metodologia.",
+   "funcao": "Recapitular e colher avaliação.",
+   "duracao_min": 3
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Cosmovisão",
+   "definicao": "Conjunto de tudo em que o clínico acredita e que molda sua leitura de natureza, sociedade e sujeito: crenças políticas (sentido amplo), religiosas, filosofia de vida, crenças éticas sobre a clínica, certezas teóricas da abordagem e normas legais/CRP. A teoria psicológica também é cosmovisão.",
+   "exemplo": "Os saberes teóricos que 'você guarda do ladinho do peito' também são cosmovisão.",
+   "abordagem": "",
+   "ts": "0:01:38"
+  },
+  {
+   "nome": "Dialética",
+   "definicao": "Grau e modo de implicação do terapeuta na construção da clínica: monólogo ou presença de um outro real, espelho ou confronto. Alan mostra que a palavra tem pelo menos três sentidos incompatíveis, de modo que toda abordagem é dialética em algum sentido.",
+   "exemplo": "A pergunta 'quão dialética é sua abordagem' é mal formulada de propósito para revelar os diferentes sentidos.",
+   "abordagem": "",
+   "ts": "0:06:26"
+  },
+  {
+   "nome": "Dialética da presença",
+   "definicao": "Sentido em que ser mais dialético é ser mais eu, mais verdadeiro, mais presente no aqui e agora, escutando e também falando.",
+   "exemplo": "Participantes que usam autorrevelação e se colocam na sessão.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:46:54"
+  },
+  {
+   "nome": "Dialética especular",
+   "definicao": "Dialética hegeliana da transformação ('quiásmica'): um momento refuta e supera o anterior; sai-se do A e volta-se a um A diferente. Alan a aproxima da psicanálise (ou de certa psicanálise).",
+   "exemplo": "Citação de Hegel: o botão é refutado pela flor, a flor pelo fruto, formas que se repelem como incompatíveis.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:48:00"
+  },
+  {
+   "nome": "Dialética da pergunta e da resposta",
+   "definicao": "Dialética grega/platônica retomada por Gadamer comentando Heidegger: o sentido da pergunta só se realiza quando deixa pairar a resposta, deixa em aberto o que se quer compreender. O terapeuta conduz perguntando, sem impor sua posição.",
+   "exemplo": "Platão não diz sua posição e confronta; apresenta o confronto como pergunta. 'A estátua já estava na rocha.'",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "0:50:00"
+  },
+  {
+   "nome": "Fusão de horizontes",
+   "definicao": "Encontro entre os 'fundos de vividos' do intérprete e do outro (ou do texto); é nesse encontro que a compreensão acontece.",
+   "exemplo": "",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "0:18:05"
+  },
+  {
+   "nome": "Maiêutica",
+   "definicao": "O 'parto' da resposta pela pergunta: a posição inicial da pessoa é a rocha bruta e a pergunta faz dela estátua. Um participante critica a 'maiêutica meio falsa', que só finge perguntar.",
+   "exemplo": "'A estátua já estava na rocha.'",
+   "abordagem": "",
+   "ts": "0:50:00"
+  },
+  {
+   "nome": "Neutralidade do terapeuta",
+   "definicao": "Posição supostamente isenta que, quando não examinada, se torna o lugar da manipulação mais eficaz, porque a ênfase num fenômeno e não em outro já constrói uma história.",
+   "exemplo": "Ao 'só mostrar consequências' ('tá vendo o que aconteceu depois que você largou sua mulher?'), o terapeuta já direciona.",
+   "abordagem": "",
+   "ts": "0:38:07"
+  },
+  {
+   "nome": "Autorrevelação",
+   "definicao": "O terapeuta traz algo de si (história, gostos, estado emocional). Na ACP corresponde ao 'eu autêntico' (termo do professor Lucas), usado como último recurso e não descrito por Rogers nos livros.",
+   "exemplo": "Vídeo em que Rogers diz ao cliente que está com muito sono.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:23:21"
+  },
+  {
+   "nome": "Primazia do fenômeno",
+   "definicao": "Critério do 'quão fenomenológica' é uma abordagem: quanto o fenômeno prevalece sobre o saber prévio. O oposto é o fenômeno ser sobreestruturado por teoria, que Alan descreve como recorrência estatística codificada em linguagem teórica; a fenomenologia é a aposta na individualização.",
+   "exemplo": "Aplicar ao paciente o que 'pessoas negras costumam passar' é teoria, não fenômeno.",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "0:52:22"
+  },
+  {
+   "nome": "Círculo hermenêutico",
+   "definicao": "Só se compreende a parte com uma pré-concepção do todo; toda observação pressupõe hipóteses. Daí o impasse: sem cosmovisão não se entendem os fatos.",
+   "exemplo": "O convite para tomar sorvete significa coisas diferentes conforme o que se sabe da pessoa e da cultura (falar de trabalho ou flertar).",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "1:01:16"
+  },
+  {
+   "nome": "Hermenêutica",
+   "definicao": "Teoria e arte da interpretação. Alan lembra que Heidegger e Gadamer, fenomenólogos filósofos, eram hermeneutas e por isso consideravam fundamental interpretar.",
+   "exemplo": "",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "1:15:31"
+  },
+  {
+   "nome": "Querela dos métodos",
+   "definicao": "Debate no nascimento da história entre a filologia (entender o passado é colecionar fatos; quanto menos hipótese, mais perto da realidade) e a história de Dilthey (sem saber a direção do todo, nenhum fenômeno faz sentido).",
+   "exemplo": "Marx: sem entender o todo da história como luta de classes, não se dá sentido ao evento histórico.",
+   "abordagem": "",
+   "ts": "1:02:24"
+  },
+  {
+   "nome": "Equação pessoal",
+   "definicao": "O quanto o sujeito que observa, com seu tipo e sua atitude, é impeditivo ou condição da observação, além do saber teórico. 'Quem sabe é um sujeito também.'",
+   "exemplo": "Nietzsche: para entender a história é preciso entender o tipo de homem que a tornou possível.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "2:06:16"
+  },
+  {
+   "nome": "Redução fenomenológica",
+   "definicao": "Método de chegar ao 'centro experiencial' do fenômeno. Por ser um método, também implica uma visão de mundo, o que aproxima a fenomenologia de uma teoria.",
+   "exemplo": "As intervenções não interpretativas da ACP visam esse centro.",
+   "abordagem": "Fenomenologia e existencialismo",
+   "ts": "1:25:21"
+  },
+  {
+   "nome": "Liberdade existencial",
+   "definicao": "Fundamento, 'majoritariamente sartriano', da recusa da ACP em interpretar: posicionar o paciente com um conceito externo (entregar-lhe o significante) tira dele a liberdade de se posicionar e dar sentido à própria existência.",
+   "exemplo": "Tratar o paciente como 'homem negro' a priori retira dele a liberdade de dizer o que é.",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:16:49"
+  },
+  {
+   "nome": "Reflexo simples",
+   "definicao": "Intervenção rogeriana de organizar o pensamento do paciente e devolvê-lo, conferindo com ele. Não é 'espelhamento', termo do psicodrama.",
+   "exemplo": "'Então o que você está falando é isso, isso e isso?'",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:20:04"
+  },
+  {
+   "nome": "Reflexo de sentimento",
+   "definicao": "Intervenção rogeriana que descreve como o fato ressoa emocionalmente no paciente, sem usar conceito externo.",
+   "exemplo": "'Me parece que, quando você conta isso da sua mãe, você está muito triste.'",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:21:01"
+  },
+  {
+   "nome": "Elucidação",
+   "definicao": "Intervenção rogeriana que devolve a experiência do paciente corrigindo-a ou denunciando o funcionamento. É o 'campo cinza' e o máximo permitido antes de virar interpretação, porque não traz conceito do terapeuta nem de teórico.",
+   "exemplo": "'Quando você conta essa história, não parece raiva da sua mãe, parece tristeza.'",
+   "abordagem": "Abordagem centrada na pessoa",
+   "ts": "1:22:01"
+  },
+  {
+   "nome": "Ética imanente e ética transcendente",
+   "definicao": "Os limites éticos e a direção da clínica são transcendentes (sabidos de antemão) ou imanentes (emergem de cada situação terapêutica)? A maioria combina um núcleo rígido a priori com uma ética descoberta na imanência.",
+   "exemplo": "'Existe um mundo possível em que é ético espancar uma criança?'",
+   "abordagem": "",
+   "ts": "1:28:12"
+  },
+  {
+   "nome": "Utilitarismo",
+   "definicao": "Critério ético do maior benefício ou do menor malefício. Alan o critica como régua clínica porque o cálculo interpessoal é inviável, contraexemplos clássicos 'justificariam' violências e quase toda ação prejudica alguém.",
+   "exemplo": "Contraexemplo clássico em que a soma de felicidade de muitos justificaria uma violência contra uma pessoa.",
+   "abordagem": "",
+   "ts": "1:38:31"
+  },
+  {
+   "nome": "Relativismo",
+   "definicao": "Posição de que não há resposta certa para os dilemas do paciente. Na versão moderada que apareceu, a realidade ainda 'tem um dizer' por meio das consequências.",
+   "exemplo": "'Você não vai dar sua opinião sobre ele morar na rua, mas o frio da noite vai.'",
+   "abordagem": "",
+   "ts": "0:29:48"
+  },
+  {
+   "nome": "Absoluto metodológico",
+   "definicao": "O método como 'ética da clínica'. Os polos são a doutrina ('sei como fazer porque conheço psicanálise') e a clínica reinventada a cada paciente (questionar associação livre, frequência, espaço). Ambos são absolutos.",
+   "exemplo": "'Será mesmo que preciso de associação livre? Por que uma vez por semana?'",
+   "abordagem": "",
+   "ts": "1:48:54"
+  },
+  {
+   "nome": "Concordância do paciente",
+   "definicao": "O paciente precisa entender e concordar com a intervenção para implementá-la na vida. Não significa pensar como o terapeuta. Justifica a adequação da linguagem ao ponto de vista do paciente.",
+   "exemplo": "'Existem duas vidas: a que você conta pro supervisor e a do seu paciente.'",
+   "abordagem": "",
+   "ts": "2:03:35"
+  },
+  {
+   "nome": "Transformação pessoal do terapeuta",
+   "definicao": "A pergunta 'um cego pode guiar alguém?': ser bom analista exige transformação pessoal e viver as próprias crenças? Posições: técnica (não exige), 'o cego não guia' (exige) e Jung (às vezes a falha do analista é a via do processo redentor).",
+   "exemplo": "'Dá para ser um bom analista sendo um merda?'",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:53:29"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Perguntas disparadoras",
+   "objetivo": "Explicitar e tensionar os pressupostos (teóricos, éticos, políticos, religiosos) de cada clínico, mostrando que palavras-chave como 'dialética', 'fenomenológico' e 'ético' mudam de sentido entre abordagens, para preparar a discussão sobre o lugar da cosmovisão na clínica.",
+   "competencias": [
+    "Articulação teoria-prática",
+    "Pessoa do terapeuta",
+    "Relação terapêutica",
+    "Direção do tratamento"
+   ],
+   "configuracao": "Grupo todo, online (microfone e chat), participantes de abordagens diversas, um facilitador; neste dia o grupo era pequeno.",
+   "tempo": "Planejado: 4 perguntas e um exercício em cerca de 2h. Real: P1 ~45 min, P2 ~37 min, P3 ~25 min, P4 só apresentada.",
+   "materiais": "4 perguntas com reformulações concretas; definições curtas de reserva; citações para colar no chat (Hegel, Gadamer, frase atribuída a Foucault); casos-teste e contraexemplos hipotéticos; imagem de uma linha contínua entre dois polos.",
+   "consigna": "Vou fazer de três a cinco perguntas disparadoras, abertas e semifilosóficas. Respondam com base na sua crença pessoal ou no que sabem da abordagem que dizem defender, de forma qualitativa ou com uma nota. Eu vou tensionar a discussão e a gente vai montando uma linha contínua entre um extremo e outro para ver onde as escolas ficam. Perguntas: (1) quão dialética é sua abordagem e qual o papel do clínico; (2) quão fenomenológica é sua abordagem e qual o papel da teoria; (3) a ética é imanente ou transcendente, necessária ou contingente; (4) um cego pode guiar alguém.",
+   "passos": [
+    "Combinar a participação: mão levantada para quem não tem microfone ou não quer falar; chat liberado; avisar que vai polemizar.",
+    "Dar a definição ampla de cosmovisão, incluindo a teoria.",
+    "Lançar a pergunta (com opção de nota de 0 a 10); se houver silêncio, reformulá-la em perguntas concretas.",
+    "Ouvir uma resposta e tensioná-la antes de passar à próxima (contradição interna, contraexemplo, bate-volta de perguntas rápidas), só o suficiente para clarificar a posição.",
+    "Transformar respostas vagas ('a relação terapêutica me protege') em pedido do elemento concreto.",
+    "Ler o chat em voz alta e integrar quem está sem microfone.",
+    "Sintetizar em dois tempos: primeiro a 'maçaroca', depois a diferenciação em sentidos nomeados, ligados a autores e abordagens.",
+    "Revelar que as perguntas são ruins de propósito e que o grupo as aprimora ao respondê-las.",
+    "Usar casos-teste pedindo resposta do ponto de vista da abordagem, não opinião pessoal.",
+    "Se houver confusão, trocar explicitamente o 'chapéu' de problematizar pelo de dar aula.",
+    "Amarrar as perguntas ao tema central (tratar um paciente negro ou cristão 'como tal'?) e recapitular."
+   ],
+   "feedback": "Não há resposta certa. Critérios: coerência interna da posição, precisão conceitual (em que sentido de 'dialética'?), consciência do processo ('o que preciso fazer para tornar minha resposta possível') e coragem pessoal para responder pelo próprio estilo em vez de se esconder atrás da teoria. Apontar que a pergunta está mal formulada é tratado como acerto. Respostas autênticas e inversões inesperadas são elogiadas.",
+   "exemplos_praticos": "P1: uma participante de ACT que diz dar 'todo espaço ao paciente' é confrontada com a contradição e explica que é só no início, depois usa autorrevelação atrelada a objetivos; um participante dá nota 8 citando transferência e Paulo Freire; um participante que opina diretamente é confrontado com o exemplo dos dois alunos; uma participante relativista passa por um bate-volta sobre violência, pressa e manipulação. P2: o participante de ACP cai no caso-teste da paciente negra e reconhece recorrer a um saber de grupo. P3: a posição imanente recua diante do contraexemplo extremo; a inversão entre ética do mundo e ética da clínica leva à conclusão de que 'os dois polos são um só'.",
+   "variacoes": "Cronometrar ~20 min por pergunta ou usar só duas para garantir tempo de prática; dar a definição de antemão para acelerar (Alan reconhece que isso 'mata a graça'); montar explicitamente o contínuo entre os polos para cada pergunta; fechar aplicando as quatro respostas a um caso concreto.",
+   "armadilhas": "A discussão pode engolir todo o tempo (Alan não chegou à prática). Grupo pequeno ou sem microfone deixa a condução unilateral. Pressão excessiva inibe. Contraexemplos extremos exigem ajuste de tom, sobretudo quando gravado. Parênteses teóricos longos fazem o facilitador se perder. Temas estacionados ('me cobra') podem não ser retomados.",
+   "nivel": "avançado",
+   "funciona_online": true,
+   "ts": "0:04:18"
+  },
+  {
+   "nome": "Dinâmica - Adequação de linguagem",
+   "objetivo": "Treinar como adequar a intervenção (e a própria cosmovisão, quando ela precisa aparecer) à linguagem e ao ponto de vista do paciente.",
+   "competencias": [
+    "Intervenção",
+    "Relação terapêutica"
+   ],
+   "configuracao": "Não detalhada (proposta, não realizada neste encontro).",
+   "tempo": "Não informado.",
+   "materiais": "Não informado.",
+   "consigna": "Como você adequa a sua cosmovisão, se achar que ela tem que aparecer, à linguagem do paciente?",
+   "passos": [],
+   "feedback": "Critério implícito: a concordância do paciente — a intervenção precisa ser entendida e aceita para ser implementada.",
+   "exemplos_praticos": "Não realizada; adiada para 'possivelmente a semana que vem'.",
+   "variacoes": "",
+   "armadilhas": "",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:05:19"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Anunciar o mapa do encontro",
+   "descricao": "Diz no início o que vai fazer, em que ordem e o que espera da participação.",
+   "exemplo": "'Três a cinco perguntas disparadoras [...] depois um exercício sobre linguagem e cosmovisão.'",
+   "ts": "0:04:18"
+  },
+  {
+   "movimento": "Mapear a participação antes de começar",
+   "descricao": "Pede que levante a mão quem não tem microfone ou não quer falar, legitima o chat e avisa que vai polemizar.",
+   "exemplo": "'Levanta a mão quem não tem microfone ou de jeito nenhum quer participar.'",
+   "ts": "0:01:00"
+  },
+  {
+   "movimento": "Reformular diante do silêncio",
+   "descricao": "Em vez de esperar, desdobra a pergunta abstrata em perguntas concretas e cobra participação com humor.",
+   "exemplo": "'Deixa eu dar mais contexto porque ninguém quis conversar comigo'; 'liga aí o microfone, pelo amor de Deus'.",
+   "ts": "0:06:26"
+  },
+  {
+   "movimento": "Tensionar pela contradição interna",
+   "descricao": "Não diz 'está errado'; mostra que duas afirmações da própria pessoa não combinam. Assume isso como método de produção de conhecimento.",
+   "exemplo": "'Você disse que é o mais dialética possível e que o espaço é do paciente; se é troca, o espaço é tão seu quanto dele.'",
+   "ts": "0:08:29"
+  },
+  {
+   "movimento": "Perguntas ruins de propósito",
+   "descricao": "Formula mal as perguntas para que o grupo as aprimore ao respondê-las; trata a crítica à pergunta como acerto.",
+   "exemplo": "'O Henrique estragou a brincadeira: a graça é que a pergunta está mal formulada.'",
+   "ts": "0:18:05"
+  },
+  {
+   "movimento": "Analogias e contraexemplos provocativos",
+   "descricao": "Usa situações hipotéticas e extremas para testar posições.",
+   "exemplo": "O professor e os dois alunos; 'o frio da noite vai contar a opinião'; 'é ético espancar uma criança?'.",
+   "ts": "0:24:12"
+  },
+  {
+   "movimento": "Bate-volta nomeado",
+   "descricao": "Série de perguntas rápidas para clarificar uma posição, anunciando a intenção para delimitar a pressão.",
+   "exemplo": "'Vou fazer algumas perguntinhas rápidas, é um bate-volta [...] estou clarificando posições.'",
+   "ts": "0:31:13"
+  },
+  {
+   "movimento": "Estacionar temas",
+   "descricao": "Adia contribuições que pertencem a outro momento, sem desqualificá-las (nem sempre retoma).",
+   "exemplo": "'Guarda isso e me cobra'; 'segura, segura, a gente chega lá'.",
+   "ts": "0:26:25"
+  },
+  {
+   "movimento": "Parafrasear e 'mastigar' contribuições",
+   "descricao": "Reformula o que o participante disse para o grupo e pede confirmação.",
+   "exemplo": "'Li certo o seu comentário?'; 'tô só tentando mastigar o que você já trouxe'.",
+   "ts": "1:06:41"
+  },
+  {
+   "movimento": "Integrar o chat",
+   "descricao": "Lê comentários de quem está sem microfone, pede mais contexto e que declarem a abordagem; prefere que dúvidas sejam esclarecidas para o grupo.",
+   "exemplo": "'Joga aqui no chat qual é a abordagem de vocês, para fazer o check teórico.'",
+   "ts": "0:58:15"
+  },
+  {
+   "movimento": "Síntese em dois tempos",
+   "descricao": "Primeiro acumula a 'maçaroca' de respostas, depois diferencia em categorias nomeadas e ligadas a autores.",
+   "exemplo": "Síntese das três dialéticas a partir das respostas.",
+   "ts": "0:46:54"
+  },
+  {
+   "movimento": "Caso-teste de coerência",
+   "descricao": "Propõe um caso que testa se a prática bate com a abordagem declarada e pede que o grupo avalie do ponto de vista da abordagem, amortecendo com humor.",
+   "exemplo": "'Pergunta simples, igual toda pergunta sacana: ao atender uma paciente negra pela ACP, leva em conta questões socioeconômicas?'",
+   "ts": "1:09:20"
+  },
+  {
+   "movimento": "Troca explícita de chapéu",
+   "descricao": "Anuncia a passagem de problematizar para dar aula quando percebe confusão.",
+   "exemplo": "'Estou tirando meu chapéu de problematizar e colocando meu chapéu de dar uma aula simples.'",
+   "ts": "1:17:48"
+  },
+  {
+   "movimento": "Calibrar pressão e tom",
+   "descricao": "Pressiona só o necessário para clarificar, baixa o tom dos exemplos por causa da gravação e elogia respostas autênticas.",
+   "exemplo": "'Vou problematizar só o suficiente para esclarecer a posição para você e para as outras pessoas.'",
+   "ts": "1:35:41"
+  },
+  {
+   "movimento": "Fechar com recapitulação e pedido de feedback",
+   "descricao": "Recapitula as perguntas, admite falhas de condução e pergunta ao grupo se deve repetir o formato.",
+   "exemplo": "'Quero comentários sobre se eu devo fazer mais coisas assim ou se faltou a prática.'",
+   "ts": "2:07:19"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Deixe explícita para o paciente a proposta clínica e o papel dele nela.",
+   "justificativa": "Com a proposta clara, o paciente sabe como engajar e você evita o 'remédio que funciona demais' (dar ao paciente que busca ortodoxia a resposta que uma parte dele procura, não a que lhe faz bem).",
+   "contexto": "Sempre que for diretivo ou der opinião.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:26:25"
+  },
+  {
+   "dica": "Se você dá opiniões diretas, construa ativamente o espaço para o paciente discordar.",
+   "justificativa": "Há pacientes com uma noção 'bancária' da relação que aceitam calados, como o aluno que não questiona o professor.",
+   "contexto": "Pacientes passivos ou que buscam um mestre.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:24:12"
+  },
+  {
+   "dica": "Não confunda neutralidade com desresponsabilização.",
+   "justificativa": "Apresentar consequências de forma fria quando as opções têm pesos morais muito diferentes ou envolvem terceiros vulneráveis pode ser violento e 'usar a teoria para ser covarde'.",
+   "contexto": "Dilemas com violência e terceiros.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:31:13"
+  },
+  {
+   "dica": "Avalie a urgência e, se necessário, seja diretivo orientado pelos valores do próprio paciente.",
+   "justificativa": "Risco de suicídio, abandono da terapia ou decisões impulsivas e irreversíveis podem exigir pressa.",
+   "contexto": "Situações de crise.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:34:30"
+  },
+  {
+   "dica": "Vigie suas ênfases ao 'apenas mostrar consequências'.",
+   "justificativa": "A seleção de um fenômeno e não de outro já constrói uma história; é na suposta neutralidade que mais se manipula.",
+   "contexto": "Ao elucidar escolhas do paciente.",
+   "competencia": "Intervenção",
+   "ts": "0:38:07"
+  },
+  {
+   "dica": "Substitua 'a relação terapêutica me protege' pela identificação do elemento concreto que você faz.",
+   "justificativa": "É uma resposta teórica e pouco precisa; ter consciência do processo permite fazer melhor.",
+   "contexto": "Supervisão e autossupervisão.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:40:46"
+  },
+  {
+   "dica": "Assuma, ao menos para você, o que pensa sobre o paciente.",
+   "justificativa": "É menos perigoso do que deixar isso agir implícita e inconscientemente, e a diferença de posição é o que permite dizer algo útil (não ser um 'duplo' do paciente).",
+   "contexto": "Quando algo do paciente te mobiliza.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:43:46"
+  },
+  {
+   "dica": "Reconheça o método e a pré-compreensão que tornam visíveis os 'fatos' do caso.",
+   "justificativa": "Toda observação pressupõe hipóteses (círculo hermenêutico); é preciso examinar o 'regime de discurso' que permite chamar fatos de fatos.",
+   "contexto": "Formulação de caso e supervisão.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:01:16"
+  },
+  {
+   "dica": "Examine a si mesmo como observador (tipo, atitude, equação pessoal), não só o seu saber.",
+   "justificativa": "Quem sabe é um sujeito também; sua disposição filtra o que você percebe.",
+   "contexto": "Diante de leituras muito seguras ou repetitivas.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:06:41"
+  },
+  {
+   "dica": "Pergunte o que é 'ser X' (negro, cristão etc.) para aquele paciente, em vez de aplicar a média do grupo.",
+   "justificativa": "Saber sobre o grupo é teoria apriorística, o oposto da individualização fenomenológica; 'você nunca está na posição de ninguém'.",
+   "contexto": "Especialmente se você se declara fenomenológico ou da ACP.",
+   "competencia": "Escuta clínica",
+   "ts": "1:10:45"
+  },
+  {
+   "dica": "Na ACP, busque o conceito no discurso do paciente (reflexo simples, reflexo de sentimento, elucidação) em vez de trazê-lo de fora.",
+   "justificativa": "Entregar um conceito externo prende o paciente a ele e tira sua liberdade de dizer de si; a elucidação permite corrigir a experiência sem sair dela.",
+   "contexto": "Intervenção de linha rogeriana.",
+   "competencia": "Interpretação",
+   "ts": "1:21:01"
+  },
+  {
+   "dica": "Guarde a autorrevelação para depois e só a use quando for terapêutica.",
+   "justificativa": "É um último recurso, para quando o paciente está muito 'agarrado', e deve estar atrelada ao objetivo terapêutico, não ao início do processo.",
+   "contexto": "Impasses e fases avançadas.",
+   "competencia": "Intervenção",
+   "ts": "1:23:21"
+  },
+  {
+   "dica": "Chame 'reflexo' de reflexo, não de 'espelhamento'.",
+   "justificativa": "'Espelhamento' é termo do psicodrama; a confusão atrapalha a comparação entre abordagens.",
+   "contexto": "Ao estudar ou ensinar a ACP.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:20:04"
+  },
+  {
+   "dica": "Defina o processo pelo qual você decide o que é eticamente inegociável, e não só a lista de proibições.",
+   "justificativa": "O que é leve para o terapeuta pode não ser para o paciente; é preciso saber se a régua é o CRP, a religião, a filosofia, a moral pessoal ou a do paciente.",
+   "contexto": "Construção da ética clínica pessoal.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:36:47"
+  },
+  {
+   "dica": "Não use o saldo de benefício e malefício como régua ética única.",
+   "justificativa": "O cálculo interpessoal é inviável, contraexemplos utilitaristas levam a absurdos e quase toda ação prejudica alguém.",
+   "contexto": "Dilemas éticos na clínica.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:38:31"
+  },
+  {
+   "dica": "Questione, diante de cada paciente, os elementos do seu método (associação livre, frequência semanal, espaço exclusivo do paciente).",
+   "justificativa": "A 'ética da clínica' é o método, e ele pode estar mais adequado à doutrina do que ao paciente.",
+   "contexto": "Quando o formato não serve ao caso.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:49:53"
+  },
+  {
+   "dica": "Mesmo que não vá comunicar, saiba o que você pensa moralmente sobre o dilema do paciente.",
+   "justificativa": "Refletir moralmente funciona como assepsia contra projeções.",
+   "contexto": "Escolhas do paciente com carga moral.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "2:00:27"
+  },
+  {
+   "dica": "Aja moralmente na sua própria vida, não apenas reflita.",
+   "justificativa": "É o que está em jogo na pergunta 'um cego pode guiar alguém?'.",
+   "contexto": "Desenvolvimento pessoal do terapeuta.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "2:01:30"
+  },
+  {
+   "dica": "Adeque a linguagem da intervenção ao ponto de vista do paciente.",
+   "justificativa": "Sem concordância não há implementação; o caso brilhante na supervisão pode coexistir com a vida do paciente inalterada.",
+   "contexto": "Especialmente quando as cosmovisões divergem.",
+   "competencia": "Intervenção",
+   "ts": "2:03:35"
+  },
+  {
+   "dica": "Se você se declara dialético, admita que o espaço da terapia também é seu.",
+   "justificativa": "O máximo de troca implica duas presenças; dizer que 'o espaço é só do paciente' contradiz a dialética declarada.",
+   "contexto": "Ao definir seu papel clínico.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:08:29"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Toda abordagem é dialética; o que muda é o sentido de 'dialética' (presença, especular/confronto, pergunta e resposta).",
+   "argumento": "Cada participante se apropriou da palavra com um sentido diferente, e os sentidos são parcialmente incompatíveis.",
+   "contraponto": "A ideia de que a psicanálise é 'menos presença' que a Gestalt; são jeitos diferentes de estar ali.",
+   "implicacao": "Dizer como você se implica, não quanto.",
+   "quem": "Alan",
+   "ts": "0:20:01"
+  },
+  {
+   "tese": "A suposta neutralidade é o lugar em que mais se manipula.",
+   "argumento": "Não temos consciência o tempo todo de onde partimos, e a ênfase ao elucidar consequências constrói uma história.",
+   "contraponto": "'Só dou autonomia e mostro consequências'; uma participante acrescenta que é menos perigoso assumir as próprias posições.",
+   "implicacao": "Consciência da própria posição em vez de ocultação.",
+   "quem": "Alan",
+   "ts": "0:38:07"
+  },
+  {
+   "tese": "Se o terapeuta pensasse exatamente como o paciente, seria um duplo dele e a terapia não funcionaria.",
+   "argumento": "É a distância e a posição diferente que permitem dizer algo útil.",
+   "contraponto": "A ideia de que o terapeuta deve se apagar.",
+   "implicacao": "Bancar a própria posição e vigiar seu excesso pela consciência.",
+   "quem": "Alan (a partir de uma participante)",
+   "ts": "0:43:46"
+  },
+  {
+   "tese": "Não existe observação sem teoria: sem cosmovisão não se entendem os fatos.",
+   "argumento": "Círculo hermenêutico (o sorvete), a querela dos métodos (Dilthey contra a filologia) e o fato de que todo método traz hipóteses teóricas.",
+   "contraponto": "'Primeiro os fatos, depois a teoria'; a filologia como coleção de fatos.",
+   "implicacao": "Examinar o regime de discurso antes de afirmar fatos clínicos.",
+   "quem": "Alan",
+   "ts": "1:02:24"
+  },
+  {
+   "tese": "Teoria psicológica é recorrência estatística codificada em linguagem teórica; a fenomenologia é a aposta na individualização.",
+   "argumento": "O complexo de Édipo e a estrutura cognitiva generalizam padrões; aplicá-los ao indivíduo é dedução, não observação.",
+   "contraponto": "Quem se declara fenomenológico e aplica saberes de grupo ao paciente.",
+   "implicacao": "Perguntar o que aquela experiência é para aquele sujeito.",
+   "quem": "Alan",
+   "ts": "1:14:38"
+  },
+  {
+   "tese": "A ACP não interpreta por causa da liberdade (Sartre), e não por ser fenomenológica.",
+   "argumento": "Os fenomenólogos filósofos (Heidegger, Gadamer) interpretam; a recusa da ACP vem da ideia de que posicionar o paciente tira sua liberdade.",
+   "contraponto": "O ensino de faculdade de que 'a ACP é fenomenologia'.",
+   "implicacao": "Discutir a ACP pelo eixo da liberdade, não do método interpretativo.",
+   "quem": "Alan",
+   "ts": "1:15:31"
+  },
+  {
+   "tese": "Rogers faz em atendimento mais do que prescreve nos livros.",
+   "argumento": "Há vídeos em que usa autorrevelação ('eu autêntico'), ausente de sua lista de reflexo simples, reflexo de sentimento e elucidação.",
+   "contraponto": "A leitura literal dos livros como descrição da prática.",
+   "implicacao": "Estudar abordagens também por atendimentos gravados.",
+   "quem": "Alan (apoiado no professor Lucas)",
+   "ts": "1:23:21"
+  },
+  {
+   "tese": "O utilitarismo não serve como régua ética clínica.",
+   "argumento": "O cálculo de benefício interpessoal é inviável, contraexemplos clássicos justificariam violências óbvias, e a via do menor malefício falha porque quase toda ação prejudica alguém.",
+   "contraponto": "A posição de que é ético o que traz benefício na relação.",
+   "implicacao": "Explicitar outra fonte para o núcleo ético inegociável.",
+   "quem": "Alan",
+   "ts": "1:38:31"
+  },
+  {
+   "tese": "A maioria dos clínicos combina um núcleo ético rígido a priori com uma ética descoberta na imanência; os extremos são 'tudo transcendente' e 'nenhum núcleo'.",
+   "argumento": "Mapeamento das respostas do grupo e exemplos históricos de transgressão no polo sem núcleo.",
+   "contraponto": "Relativismo total e dogmatismo total.",
+   "implicacao": "Saber em que ponto do contínuo você está.",
+   "quem": "Alan",
+   "ts": "1:39:33"
+  },
+  {
+   "tese": "Entre método doutrinário e 'nova clínica para cada paciente', os dois polos são um só: sempre se tem uma posição absoluta, mesmo que seja relativizar.",
+   "argumento": "Reinventar tudo a cada caso também é uma regra.",
+   "contraponto": "A ilusão de uma clínica sem pressupostos.",
+   "implicacao": "Assumir o próprio absoluto e flexibilizá-lo conscientemente.",
+   "quem": "Participante, endossado por Alan",
+   "ts": "1:53:12"
+  },
+  {
+   "tese": "A ética da clínica (autonomia, direito de o paciente dizer de si) é absoluta; a ética do mundo é imanente e deve ser discutida abertamente na clínica.",
+   "argumento": "Sem uma âncora não há como analisar; fechar temas a priori impede o paciente de falar da própria sombra.",
+   "contraponto": "O uso comum, que considera a ética da clínica circunstancial e a do mundo absoluta.",
+   "implicacao": "Discutir valores do paciente sem preconceito, mantendo firme a posição metodológica.",
+   "quem": "Participante (elogiado por Alan)",
+   "ts": "1:43:20"
+  },
+  {
+   "tese": "Afirmações como 'não pode haver psicanalista bolsonarista' só se sustentam a partir de uma ética transcendente à clínica.",
+   "argumento": "Mesmo lida caridosamente (alguém psicologicamente bolsonarista), a afirmação pressupõe saber de antemão o que é bom e dar a isso implicação clínica.",
+   "contraponto": "Christian Dunker.",
+   "implicacao": "Explicitar a própria posição ética antes de julgar colegas ou pacientes por cosmovisão.",
+   "quem": "Alan",
+   "ts": "1:59:54"
+  },
+  {
+   "tese": "O terapeuta deve sempre saber o que pensa moralmente, mesmo que não comunique, e agir moralmente na própria vida.",
+   "argumento": "Funciona como assepsia contra projeções; responde à pergunta 'um cego pode guiar alguém?'.",
+   "contraponto": "'Minhas opiniões não importam, só a do paciente.'",
+   "implicacao": "Reflexão moral deliberada sobre os dilemas dos pacientes.",
+   "quem": "Alan",
+   "ts": "2:00:27"
+  },
+  {
+   "tese": "A concordância do paciente é fundamental.",
+   "argumento": "Se ele não entende ou não concorda com a intervenção, não a implementa; há 'duas vidas', a do caso contado ao supervisor e a real do paciente.",
+   "contraponto": "O terapeuta satisfeito com a elegância da própria formulação.",
+   "implicacao": "Adequar a linguagem à do paciente.",
+   "quem": "Alan",
+   "ts": "2:03:35"
+  },
+  {
+   "tese": "O conhecimento é produzido pelo confronto: convidar alguém a falar é colocá-lo contra a parede.",
+   "argumento": "É a forma de condução que Alan assume nos grupos que coordena.",
+   "contraponto": "Grupos de exposição passiva ou de concordância.",
+   "implicacao": "Formar pela problematização das respostas.",
+   "quem": "Alan",
+   "ts": "0:08:29"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Eu tenho a tendência de convidar as pessoas para falar só para colocá-las contra a parede. Eu acho que é assim que o conhecimento é produzido.",
+   "tema": "facilitação",
+   "ts": "0:08:29"
+  },
+  {
+   "texto": "Não é que a psicanálise seja menos presença do que o gestalt-terapeuta no aqui e agora: são jeitos diferentes de estar ali.",
+   "tema": "dialética",
+   "ts": "0:20:01"
+  },
+  {
+   "texto": "Tirar tanto assim o seu corpo não é, no fundo, usar a teoria para ser covarde?",
+   "tema": "ética e neutralidade",
+   "ts": "0:33:14"
+  },
+  {
+   "texto": "É justamente dessa posição de suposta neutralidade que a gente muitas vezes é particularmente manipulador.",
+   "tema": "neutralidade",
+   "ts": "0:38:07"
+  },
+  {
+   "texto": "Tendo consciência, a gente consegue fazer melhor.",
+   "tema": "consciência do processo",
+   "ts": "0:40:46"
+  },
+  {
+   "texto": "Quanto mais eu sei, mais eu enxergo o que eu sei no que eu enxergo.",
+   "tema": "teoria e observação",
+   "ts": "0:55:31"
+  },
+  {
+   "texto": "Todas as perguntas que eu estou fazendo são perguntas ruins. A graça é o aprimoramento da própria pergunta pelo desenvolver das respostas.",
+   "tema": "estrutura do grupo",
+   "ts": "0:55:31"
+  },
+  {
+   "texto": "Se eu não tenho uma cosmovisão, eu não entendo os fatos.",
+   "tema": "hermenêutica",
+   "ts": "1:02:24"
+  },
+  {
+   "texto": "Você nunca está na posição de ninguém.",
+   "tema": "fenomenologia",
+   "ts": "1:12:00"
+  },
+  {
+   "texto": "O que é teoria psicológica? Uma recorrência estatística que foi codificada por meio de linguagem teórica.",
+   "tema": "teoria",
+   "ts": "1:14:38"
+  },
+  {
+   "texto": "Diante de uma contradição, precisamos fazer uma distinção.",
+   "tema": "método de pensamento",
+   "ts": "1:17:48"
+  },
+  {
+   "texto": "Você sempre tem uma posição absoluta, mesmo que a sua posição absoluta seja relativizar as coisas.",
+   "tema": "ética e método",
+   "ts": "1:53:12"
+  },
+  {
+   "texto": "Mesmo que você não vá falar para o seu paciente o que você pensa, você deveria sempre saber o que você pensa.",
+   "tema": "pessoa do terapeuta",
+   "ts": "2:00:27"
+  },
+  {
+   "texto": "Existem duas vidas: a que você conta para o seu supervisor e acha o máximo, e a vida do seu paciente.",
+   "tema": "concordância do paciente",
+   "ts": "2:03:35"
+  },
+  {
+   "texto": "Aprimoramento é pra prática.",
+   "tema": "formação",
+   "ts": "2:07:19"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Todo terapeuta diz que é dialético. Mas qual dialética?",
+   "mensagem": "Há pelo menos três sentidos de dialética (presença, especular hegeliana, pergunta e resposta gadameriana); psicanálise não é menos presença, é outra presença.",
+   "roteiro": [
+    "Capa: 'Você é um terapeuta dialético? Depende do que você chama de dialética.'",
+    "Dialética da presença: estar mais presente, falar e escutar.",
+    "Dialética especular (Hegel): o botão, a flor e o fruto.",
+    "Dialética da pergunta e resposta (Gadamer): perguntar deixando a resposta pairar.",
+    "Não é mais ou menos presença: são jeitos diferentes de estar ali.",
+    "Pergunta final: qual é a sua?"
+   ],
+   "corte_inicio": "0:46:54",
+   "corte_fim": "0:51:19"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Por que a ACP não interpreta? Não é por ser fenomenologia.",
+   "mensagem": "Os fenomenólogos filósofos interpretam; a recusa da ACP vem da liberdade sartriana. Rogers descreve três intervenções e faz uma quarta.",
+   "roteiro": [
+    "Capa: 'A ACP não interpreta porque é fenomenológica?'",
+    "Heidegger e Gadamer eram hermeneutas: interpretavam.",
+    "O motivo é a liberdade: entregar um conceito tira do paciente o direito de se dizer.",
+    "Reflexo simples, reflexo de sentimento, elucidação.",
+    "E a que Rogers faz nos vídeos: o 'eu autêntico'."
+   ],
+   "corte_inicio": "1:15:31",
+   "corte_fim": "1:24:22"
+  },
+  {
+   "formato": "reels",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Você acha que observa o paciente sem teoria? O sorvete prova que não.",
+   "mensagem": "Círculo hermenêutico: toda observação pressupõe uma pré-compreensão do todo; quanto mais sei, mais vejo o que sei.",
+   "roteiro": [
+    "Um convite para tomar sorvete.",
+    "Com quem e em que contexto muda o sentido.",
+    "Sem pré-compreensão do todo, a parte não faz sentido.",
+    "Na clínica: examine a teoria que está guiando seu olhar."
+   ],
+   "corte_inicio": "1:01:16",
+   "corte_fim": "1:02:24"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "A neutralidade é onde o terapeuta mais manipula.",
+   "mensagem": "A ênfase ao 'mostrar consequências' já constrói uma história; é melhor ter consciência da própria posição do que fingir neutralidade.",
+   "roteiro": [
+    "Frase de impacto.",
+    "Exemplo: escolher o que enfatizar já direciona.",
+    "Alternativa: saber de onde você fala."
+   ],
+   "corte_inicio": "0:37:45",
+   "corte_fim": "0:39:46"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Você não precisa dizer ao paciente o que pensa. Mas precisa saber.",
+   "mensagem": "A reflexão moral do terapeuta funciona como assepsia contra projeções; e mais do que refletir, agir moralmente na própria vida.",
+   "roteiro": [
+    "Frase central.",
+    "Por quê: evitar projeções.",
+    "E a pergunta: um cego pode guiar alguém?"
+   ],
+   "corte_inicio": "2:00:27",
+   "corte_fim": "2:01:30"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Duas vidas: a do caso que você conta na supervisão e a do seu paciente.",
+   "mensagem": "Sem a concordância do paciente a intervenção não vira mudança; por isso é preciso adequar a linguagem ao ponto de vista dele.",
+   "roteiro": [
+    "Frase das duas vidas.",
+    "Concordância não é o paciente pensar como você.",
+    "Adequação de linguagem."
+   ],
+   "corte_inicio": "2:03:35",
+   "corte_fim": "2:04:30"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Quatro perguntas que todo clínico deveria responder antes de falar de cosmovisão na clínica.",
+   "mensagem": "Dialética, fenomenologia, ética imanente ou transcendente e 'um cego pode guiar alguém?' — e o formato de grupo com perguntas propositalmente ruins que o grupo corrige.",
+   "roteiro": [
+    "Capa com as quatro perguntas.",
+    "Uma por slide com a provocação.",
+    "Como funciona no grupo: perguntas ruins de propósito.",
+    "Convite para o aprimoramento."
+   ],
+   "corte_inicio": "1:28:12",
+   "corte_fim": "1:29:19"
+  },
+  {
+   "formato": "stories",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Dá para ser um bom terapeuta sem transformação pessoal?",
+   "mensagem": "Três posições: é técnica; o cego não guia; e a posição de Jung, em que a falha do analista pode ser a via da cura.",
+   "roteiro": [
+    "Enquete sim/não.",
+    "Resultado + as três posições.",
+    "Caixa de perguntas: e você?"
+   ],
+   "corte_inicio": "1:53:29",
+   "corte_fim": "1:55:24"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "G. W. F. Hegel",
+   "contexto": "Dialética especular/da transformação; citação do botão, da flor e do fruto; absoluto da história."
+  },
+  {
+   "nome": "Martin Heidegger",
+   "contexto": "Dialética da pergunta e da resposta; fenomenologia como hermenêutica, que interpreta."
+  },
+  {
+   "nome": "Hans-Georg Gadamer",
+   "contexto": "Citação sobre o sentido da pergunta que deixa a resposta pairar; fusão de horizontes; 'não existe teoria hermenêutica'."
+  },
+  {
+   "nome": "Platão",
+   "contexto": "Dialética dos diálogos e maiêutica; argumento contra o teatro como analogia da ética transcendente."
+  },
+  {
+   "nome": "Wilhelm Dilthey",
+   "contexto": "Querela dos métodos: sem a direção da história não se entende nenhum fenômeno histórico."
+  },
+  {
+   "nome": "Karl Marx",
+   "contexto": "Luta de classes como pré-compreensão do todo da história."
+  },
+  {
+   "nome": "Friedrich Nietzsche",
+   "contexto": "Considerações extemporâneas (texto sobre a história): entender o tipo de homem que tornou a história possível; análise tipológica."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Tipologia e atitude; 'não tenho uma teoria'; texto 'A vida simbólica' (católicos psicologicamente católicos não seriam neuróticos); posição de que o cego pode guiar."
+  },
+  {
+   "nome": "Carl Rogers",
+   "contexto": "Intervenções da ACP (reflexo simples, reflexo de sentimento, elucidação) e autorrevelação vista em vídeo."
+  },
+  {
+   "nome": "Jean-Paul Sartre",
+   "contexto": "Liberdade como fundamento da recusa da ACP em interpretar."
+  },
+  {
+   "nome": "Edmund Husserl",
+   "contexto": "Um dos autores da 'mistureba' filosófica da ACP."
+  },
+  {
+   "nome": "Michel Foucault",
+   "contexto": "Frase atribuída (com dúvida do próprio Alan): examinar o regime de discurso que permite chamar fatos de fatos."
+  },
+  {
+   "nome": "Christian Dunker",
+   "contexto": "Afirmação de que não pode haver psicanalista bolsonarista, usada como exemplo de ética transcendente à clínica."
+  },
+  {
+   "nome": "Paulo Freire",
+   "contexto": "Citado por um participante como exemplo de dialética (trazer o próprio mundo para a atuação)."
+  },
+  {
+   "nome": "Fritz Perls",
+   "contexto": "Identificação incerta (legenda: 'PS', ligado à Gestalt): exemplo do polo em que não há núcleo ético (sexo com paciente como 'terapêutico')."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico do Alan",
+  "objetivo": "Aprimorar competências clínicas comparando abordagens; neste encontro, refletir sobre o lugar da cosmovisão na clínica por meio de perguntas disparadoras.",
+  "publico": "Psicólogos e estudantes de psicologia de abordagens diversas (ACT, TCC, ACP, junguianos, psicanálise).",
+  "tamanho": "Grupo online; neste dia com pouca gente (número não informado), vários sem microfone participando pelo chat.",
+  "duracao": "Cerca de 2 horas, à noite (termina depois das 21h).",
+  "estrutura_padrao": "Segundo Alan: primeiro uma parte teórica 'levemente estruturada comparando abordagens', depois um exercício prático; neste encontro a parte teórica/discussão ocupou todo o tempo.",
+  "papel_facilitador": "Provocador socrático que tensiona respostas, sintetiza e diferencia conceitos, dá aula quando há confusão, gerencia tempo e chat e pede feedback sobre a metodologia.",
+  "regras_combinados": "Participação ativa incentivada (microfone ou chat); aviso de que haverá polêmica; gravação apenas para uso interno ('podem se mostrar mais'); não passar de 2 horas."
+ },
+ "reflexoes_do_facilitador": [
+  "A proposta dele é diferente da de Artur no encontro anterior (mais aberto, posição junguiana); ele quer traçar a diretriz do processo.",
+  "Com pouca gente e sem os participantes habituais, teme que o encontro fique unilateral.",
+  "'Estou começando a desconfiar que eu sou prolixo demais para o tanto que eu gosto de fazer as coisas.'",
+  "O ideal seria descobrir as definições em conjunto, como na primeira pergunta, mas passa a dá-las para acelerar, reconhecendo que isso 'mata a graça da dinâmica'.",
+  "'Fiz um parêntese tão grande que eu me perdi nele.'",
+  "'Desculpa, eu não consegui chegar na parte prática, eu sempre falho em ser sucinto.'",
+  "'Me desorganizei no início'; decide pressionar poucas pessoas e só o suficiente para clarificar.",
+  "Baixa o tom dos exemplos porque o encontro está sendo gravado.",
+  "Usa termos imprecisos que funcionam em português ('a decisão do fraco').",
+  "A proposta foi menos concreta e mais abstrata, mas essas questões dão direção às articulações entre cosmovisão e clínica.",
+  "'Se eu fosse mais competente ou dispusesse de mais tempo' teria chegado à prática; não quer segurar o grupo por mais de 2 horas.",
+  "Gosta de propor metodologias diferentes para sentir o que o grupo prefere; pede feedback: mais coisas assim ou faltou prática? 'Aprimoramento é pra prática.'"
+ ],
+ "referencias_a_outros_encontros": [
+  "Alan 04 - Cosmovisão e clínica 1: conduzido por Artur (junguiano) na ausência do Alan, mais aberto à discussão; Alan não viu a gravação.",
+  "Uma participante retoma algo que disse 'no último encontro' ('não é sobre mim, é pra pessoa').",
+  "O exercício de adequação de linguagem foi adiado para 'possivelmente a semana que vem'.",
+  "Alan menciona que costuma estruturar comparando abordagens 'igual normalmente faço' e que os aprimoramentos são gravados só para uso interno.",
+  "Alan quer trazer o professor Lucas (referência sobre intervenções da ACP) mais para a Allos."
+ ],
+ "observacoes": "Transcrição automática com muito ruído; nomes de participantes variam (ex.: 'Artur Barrez', 'Isaac', 'Zac' parecem se referir ao mesmo participante em alguns trechos). Participantes foram anonimizados na nota. 'PS' da Gestalt foi interpretado como Perls (?). A nomenclatura das três dialéticas varia entre a síntese (0:51:19: presença, confronto/refutação, pergunta) e a recapitulação final (2:05:15: pergunta-resposta, especular/Hegel-psicanálise, confronto/junguiana). Na fala, Dilthey aparece como quem 'dá margem' a Hegel, o que é cronologicamente discutível. A 'linha contínua em degradê' prometida não foi desenhada explicitamente; os posicionamentos foram organizados verbalmente (sobretudo na P3). A quarta pergunta e o exercício prático não foram realizados. Os exemplos clínicos são hipotéticos, criados por Alan ou pelos participantes; não há caso real identificável."
+}

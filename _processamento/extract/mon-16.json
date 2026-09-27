@@ -1,0 +1,885 @@
+{
+ "id": "mon-16",
+ "nota": "Monitoria 16 - Diogo - Autenticidade e ser verdadeiro na clínica",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Autenticidade e ser verdadeiro na clínica",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo, analista do comportamento, usa o formato de 'apresentação de caso': mostra na tela o chat da sua primeira sessão com uma paciente simulada por IA (rígida, muito exigente, queixa de dores de cabeça) e comenta cada decisão, a serviço de um pressuposto, o de ser verdadeiro na clínica. Reconstrói o raciocínio investigativo: seguir as perspectivas que 'florescem', descartar uma hipótese delirante pela taxa de base, definir ele mesmo um termo diante do discurso rebuscado, verificar a generalidade do problema e enganchar na última fala em vez de 'quebrar resistência'. Faz uma autorrevelação ('senti um aperto no peito'), que a paciente recusa, confronta contradições, usa a metáfora do ronco da fome e propõe rever os critérios de exigência. Depois recua para engajar a paciente com a linguagem dela (funcionalidade). Conclui que ser verdadeiro aprofunda e permite confrontar sem acusar, mas ameaça o vínculo: deve ser feito cedo na sessão e usado como ferramenta. A discussão final trata de uma hipótese alternativa ('ela não se suporta'), de setting leve × generalização, de queixa × demanda e do alívio de 'não é A, é B'.",
+ "em_uma_frase": "Ser verdadeiro com o paciente (dizer o que se sente e pensa) abre aprofundamento e confronto sem acusação, mas é uma ferramenta a dosar: custa vínculo, pede tempo de sessão e exige saber recuar.",
+ "competencias": [
+  "Relação terapêutica",
+  "Intervenção",
+  "Pessoa do terapeuta",
+  "Direção do tratamento",
+  "Primeira sessão e entrevistas iniciais",
+  "Escuta clínica",
+  "Formulação de caso",
+  "Acolhimento e validação",
+  "Articulação teoria-prática"
+ ],
+ "abordagens": [
+  "Análise do comportamento",
+  "Terapias contextuais",
+  "Terapia cognitivo-comportamental",
+  "Psicanálise freudiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Abertura",
+   "descricao": "Apresenta a ferramenta de pacientes simulados por IA (EXIO (?)) e a proposta de trazer reflexões e pressupostos, não o relato do caso.",
+   "funcao": "Enquadrar o formato de apresentação de caso.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:19",
+   "bloco": "Combinados",
+   "descricao": "Tema do dia (autenticidade), grupo mais curto que o habitual, tela compartilhada com o chat da sessão.",
+   "funcao": "Definir foco e tempo.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:19",
+   "bloco": "Teoria",
+   "descricao": "Brincadeiras sobre a análise do comportamento (ratos, chocolate, manipulação); o terapeuta sempre controla o comportamento do cliente; modelagem de comportamentos clinicamente relevantes.",
+   "funcao": "Desfazer estereótipos e dar o fundamento teórico do tema.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:03:25",
+   "bloco": "Demonstração",
+   "descricao": "Abertura genérica da sessão; a paciente antecipa o motivo da consulta; queixa pragmática.",
+   "funcao": "Mostrar a leitura do conteúdo espontâneo.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:06:08",
+   "bloco": "Dúvidas",
+   "descricao": "Pergunta sobre uso de áudio na ferramenta (só texto).",
+   "funcao": "Logística.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:06:08",
+   "bloco": "Demonstração",
+   "descricao": "Perguntas lógicas e investigativas (duração, gatilhos, 'quem são os terceiros?'); escolha de investigar as perspectivas em vez do concreto.",
+   "funcao": "Raciocínio investigativo passo a passo.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:09:25",
+   "bloco": "Demonstração",
+   "descricao": "Dúvida entre autopercepção quase delirante e realidade; perguntas concretas; percebe o limite da IA e desiste de insistir.",
+   "funcao": "Testar hipótese sem bater em ponta de faca.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:11:29",
+   "bloco": "Demonstração",
+   "descricao": "Resumo-intervenção; 'o que você chama de incompetência?'; Diogo define 'não conseguir fazer o simples'.",
+   "funcao": "Manejo de discurso rebuscado.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:15:32",
+   "bloco": "Demonstração",
+   "descricao": "O próprio incômodo do terapeuta como dado; pergunta se acontece em todos os eventos.",
+   "funcao": "Usar a experiência do terapeuta como hipótese.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:16:34",
+   "bloco": "Discussão",
+   "descricao": "Chat: 'traduzir o paciente gera insight?' (depende); a 'superioridade' como posição moral.",
+   "funcao": "Nuançar ideias do grupo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:18:28",
+   "bloco": "Demonstração",
+   "descricao": "Princípio 'se em todo lugar tem problema, o problema não é o lugar'; busca de exceções.",
+   "funcao": "Critério antes de uma intervenção mais forte.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:19:34",
+   "bloco": "Dúvidas",
+   "descricao": "Uma participante pergunta se a hipótese delirante sumiu; resposta pela taxa de base e pela coerência do discurso.",
+   "funcao": "Explicitar o descarte de hipótese.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:22:44",
+   "bloco": "Demonstração",
+   "descricao": "Exceções de confiança; hipótese sobre a criação familiar.",
+   "funcao": "Formular hipótese de origem.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:23:40",
+   "bloco": "Teoria",
+   "descricao": "Enganchar na última fala × quebrar resistência (objeção psicanalítica antecipada).",
+   "funcao": "Justificar a priorização.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:25:54",
+   "bloco": "Demonstração",
+   "descricao": "Teste da generalização ('todo evento tem alto rigor?'); percepção × dado de realidade; crença periférica ou nuclear.",
+   "funcao": "Distinguir crença de fato.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:26:57",
+   "bloco": "Demonstração",
+   "descricao": "Intervenção autêntica 'senti um aperto no peito'; a paciente recusa; aparte sobre o zoom da tela.",
+   "funcao": "Núcleo do tema do dia.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:27:55",
+   "bloco": "Discussão",
+   "descricao": "Participantes perguntam a intenção (emoção × razão; lidar com emoções em geral); Diogo explica as três funções da autorrevelação.",
+   "funcao": "Esclarecer o porquê da intervenção.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:31:06",
+   "bloco": "Demonstração",
+   "descricao": "Confronto da contradição (emoções como distração); 'você não sente emoções?'; 'Será?'; a paciente pede especificidade.",
+   "funcao": "Confronto em graus.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:36:37",
+   "bloco": "Feedback",
+   "descricao": "Autocrítica: risco de virar disputa de visões; erro de digitação na intervenção.",
+   "funcao": "Modelar autocrítica.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:39:12",
+   "bloco": "Demonstração",
+   "descricao": "Metáfora do ronco da fome; sugestão do chat de pedir exemplo de perda de controle; a paciente aceita a analogia com limites.",
+   "funcao": "Reformular sintoma como sinal.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:42:38",
+   "bloco": "Teoria",
+   "descricao": "Perguntar 'já tentou conversar?' invalida; usar o 'nada funciona' como sinal de que a solução está em outro lugar.",
+   "funcao": "Dica técnica generalizável.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:43:39",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Link de presença.",
+   "funcao": "Administração.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:44:47",
+   "bloco": "Demonstração",
+   "descricao": "'Talvez o ponto seja avaliar seus critérios de exigência'; lógica de tudo ou nada; valor × crença.",
+   "funcao": "Intervenção central.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:46:39",
+   "bloco": "Demonstração",
+   "descricao": "Recuo e engajamento pela linguagem da funcionalidade; fim da sessão; plano de simular atraso nas próximas sessões.",
+   "funcao": "Manejo do fim da sessão.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:48:54",
+   "bloco": "Fechamento",
+   "descricao": "Conclusões sobre ser verdadeiro: ganhos, riscos, timing, ferramenta; 'martelo e prego'.",
+   "funcao": "Síntese do tema.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:52:02",
+   "bloco": "Discussão",
+   "descricao": "Hipótese de uma participante ('ela não se suporta'); setting leve × generalização; Diogo relativiza o próprio argumento.",
+   "funcao": "Hipóteses alternativas.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:56:35",
+   "bloco": "Discussão",
+   "descricao": "A sessão como teste; qual é a queixa?; queixa × demanda.",
+   "funcao": "Direção do tratamento.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:59:01",
+   "bloco": "Discussão",
+   "descricao": "Hipótese × intervenção; intervenção 'forçada'; 'não é A, é B'.",
+   "funcao": "Precisão conceitual e risco/benefício da reformulação.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:01:36",
+   "bloco": "Fechamento",
+   "descricao": "Agradece e para a gravação.",
+   "funcao": "Encerramento.",
+   "duracao_min": 0
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Autenticidade do terapeuta",
+   "definicao": "'Ser verdadeiro na clínica': comunicar ao paciente o que genuinamente se sente ou pensa sobre o que ele traz. Permite aprofundar e confrontar sem dizer que o paciente está errado, mas pode gerar oposição e ameaçar o vínculo. Por isso é ferramenta, não postura permanente.",
+   "exemplo": "'Nossa, senti um aperto no peito ao ouvir isso', dito a uma paciente que descrevia uma vida de vigilância e rigor.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:26:57"
+  },
+  {
+   "nome": "Autorrevelação do terapeuta",
+   "definicao": "Forma concreta da autenticidade: revelar a própria reação. Aqui teve três funções: sondar como era para a paciente, emocionalmente, sustentar o rigor; expor-se de forma genuína; introduzir implicitamente a perspectiva de que outra pessoa pode viver aquilo de outro jeito.",
+   "exemplo": "Preferida a 'como você se sente ao ouvir isso?' justamente para trazer a percepção de outro.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:29:16"
+  },
+  {
+   "nome": "Controle do comportamento",
+   "definicao": "Na análise do comportamento, o terapeuta sempre controla o comportamento do cliente, porque este sempre ocorre em função da posição do terapeuta. Não é manipulação: como isso sempre acontece, usa-se conscientemente para decidir quais comportamentos evocar e quando trabalhá-los.",
+   "exemplo": "Resposta bem-humorada às piadas do chat sobre 'atender ratos' e 'manipular pacientes'.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:02:22"
+  },
+  {
+   "nome": "Comportamento clinicamente relevante",
+   "definicao": "Comportamentos do paciente que podem ser evocados e modelados na própria relação terapêutica. Ser verdadeiro é uma forma de influenciá-los.",
+   "exemplo": "Diogo planeja simular um atraso nas próximas sessões para observar a reação da paciente.",
+   "abordagem": "Terapias contextuais",
+   "ts": "0:02:22"
+  },
+  {
+   "nome": "Confronto terapêutico",
+   "definicao": "Questionar uma contradição ou a lógica do paciente a partir de um ponto racional, em graus, do explícito ao mínimo ('Será?'). O risco é o paciente tomar a posição do terapeuta como o problema e a sessão virar disputa de visões.",
+   "exemplo": "Se emoções são distrações, o incômodo com a incompetência não seria também uma distração?",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:31:06"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Leitura psicanalítica da fuga do tema principal, que Diogo aceita como possível, mas não enfrenta por 'quebra': se toda a construção é resistência, quebrá-la não adianta, e é preciso seguir o caminho que o paciente dá.",
+   "exemplo": "'Psicanalistas de plantão devem estar gritando comigo.'",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:24:46"
+  },
+  {
+   "nome": "Racionalização",
+   "definicao": "Defesa pela qual a paciente transforma o incômodo em 'resposta racional', um sinal de eficiência, para não reconhecê-lo como emoção.",
+   "exemplo": "Resposta da paciente ao confronto sobre a contradição entre emoção e distração.",
+   "abordagem": "",
+   "ts": "0:31:06"
+  },
+  {
+   "nome": "Queixa e demanda",
+   "definicao": "A queixa é o que o paciente traz (parar de ter dor de cabeça); a demanda é o que o terapeuta lê como trabalho necessário (reavaliar o rigor). Acrescentar uma queixa à do paciente pode invalidá-lo, por isso a demanda deve ser ligada explicitamente à queixa.",
+   "exemplo": "Reavaliar critérios → atingi-los melhor → desgastar-se menos → ter menos dor de cabeça (cadeia 'artificial', mas ilustrativa).",
+   "abordagem": "",
+   "ts": "0:58:00"
+  },
+  {
+   "nome": "Diagnóstico diferencial",
+   "definicao": "Decisão entre autopercepção quase delirante e rigor comum com base na taxa de base (alto rigor com os outros é muito mais comum do que psicose), na coerência do discurso com o ambiente descrito e nos limites da ferramenta de IA.",
+   "exemplo": "Hipótese delirante descartada depois de perguntas concretas sobre trabalho e família.",
+   "abordagem": "",
+   "ts": "0:19:34"
+  },
+  {
+   "nome": "Crença nuclear",
+   "definicao": "Nível mais profundo de crença, contraposto ao 'periférico', usado para lembrar que o que a paciente diz sobre o mundo é percepção, não dado de realidade.",
+   "exemplo": "'Todo evento tem alto grau de rigor naturalmente.'",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:25:54"
+  },
+  {
+   "nome": "Pensamento dicotômico",
+   "definicao": "Lógica de tudo ou nada: ou é medíocre ou é excelente, sem o 'bom' no meio.",
+   "exemplo": "A paciente recusa rever critérios por entender que isso seria aceitar a mediocridade.",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "0:45:40"
+  },
+  {
+   "nome": "Metáfora terapêutica",
+   "definicao": "Imagem oferecida pelo terapeuta para reformular a experiência do paciente. Aqui, o ronco da fome: silenciar o som não resolve, porque ele indica uma necessidade invisível. Emoções seriam sinal, não ruído.",
+   "exemplo": "'Você já ouviu sua barriga roncar de fome?'",
+   "abordagem": "",
+   "ts": "0:39:12"
+  },
+  {
+   "nome": "Generalização",
+   "definicao": "Transferência dos ganhos da sessão para a vida real. Preocupação comportamental: um setting leve demais, oposto à vida do paciente, pode produzir mudança rápida em sessão e difícil de generalizar. Diogo relativiza o argumento pela própria experiência.",
+   "exemplo": "Uma terapeuta que criou um ambiente completamente livre viu surgirem novos repertórios.",
+   "abordagem": "Análise do comportamento",
+   "ts": "0:54:20"
+  },
+  {
+   "nome": "Vício da última fala",
+   "definicao": "Conceito do Alan (retomar o último fenômeno por reflexo). Serve de contraste: Diogo engancha na última fala com justificativa explícita, porque o paciente mudou de tema por conta própria e isso sinaliza importância.",
+   "exemplo": "Seguir a volta da paciente aos eventos em vez de retomar a governanta.",
+   "abordagem": "",
+   "ts": "0:23:40"
+  },
+  {
+   "nome": "Hipótese clínica",
+   "definicao": "Para Diogo, uma boa hipótese costuma apontar para uma intervenção, e é também por isso que ela é boa.",
+   "exemplo": "A hipótese de uma participante ('ela não se suporta') é elogiada por indicar um caminho clínico.",
+   "abordagem": "",
+   "ts": "0:54:20"
+  },
+  {
+   "nome": "Aliança terapêutica",
+   "definicao": "O vínculo que a franqueza pode ameaçar: quanto mais verdadeiro o terapeuta, mais o paciente pode se opor. É o motivo para recuar no fim da sessão e engajar pela linguagem do paciente.",
+   "exemplo": "Recuo final: 'quem sabe não encontramos algo de funcional na revisão de seus critérios'.",
+   "abordagem": "",
+   "ts": "0:48:54"
+  },
+  {
+   "nome": "Tradução do discurso do paciente",
+   "definicao": "Devolver com outras palavras o que o paciente quis dizer. Pode gerar insight, porque às vezes só repetir cria algo novo, mas uma conclusão simplista reduz o discurso.",
+   "exemplo": "Discussão com o chat sobre se a tradução 'gera muito insight'.",
+   "abordagem": "",
+   "ts": "0:16:34"
+  },
+  {
+   "nome": "Paciente simulado por inteligência artificial",
+   "definicao": "Ferramenta de treino para associados em que uma IA encarna um paciente com queixa e funcionamento próprios, sem uma forma certa de atender. Tem limites, como não fornecer certos dados concretos.",
+   "exemplo": "A IA se recusa a nomear a família ou a empresa da paciente.",
+   "abordagem": "",
+   "ts": "0:00:01"
+  },
+  {
+   "nome": "Contratransferência",
+   "definicao": "O incômodo do terapeuta com a paciente ('em 15 minutos já estou achando um saco') usado como hipótese sobre as outras relações dela. Diogo não usa o termo; a ligação é do fichamento.",
+   "exemplo": "Daí a pergunta se aquilo acontece em todos os eventos.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:15:32"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Apresentação de caso com paciente de IA",
+   "objetivo": "Extrair de um atendimento simulado um pressuposto clínico generalizável (aqui, ser verdadeiro na clínica), mostrando o raciocínio por trás de cada intervenção.",
+   "competencias": [
+    "Intervenção",
+    "Relação terapêutica",
+    "Pessoa do terapeuta",
+    "Direção do tratamento"
+   ],
+   "configuracao": "Online; um apresentador (nesta sessão, o próprio supervisor) com o chat do atendimento na tela; grupo pequeno comentando por voz e chat.",
+   "tempo": "Cerca de 50 min de apresentação comentada e 10 min de discussão.",
+   "materiais": "Ferramenta de pacientes simulados por IA (acesso de associados); registro escrito da sessão; compartilhamento de tela com zoom.",
+   "consigna": "Tragam insights, análises e reflexões que o atendimento suscitou, não sobre o caso específico, mas sobre um pressuposto da clínica.",
+   "passos": [
+    "Anunciar o tema (o pressuposto) no título do encontro.",
+    "Mostrar a abertura da sessão e as primeiras falas do paciente, lendo só as relevantes.",
+    "Para cada intervenção, dizer a intenção, as alternativas consideradas e por que foram descartadas.",
+    "Parar para responder ao chat e às perguntas.",
+    "Marcar explicitamente os momentos em que o tema aparece e seus efeitos.",
+    "Fazer autocrítica: onde errou, o que faria diferente.",
+    "Fechar com as implicações do tema e abrir para hipóteses alternativas do grupo."
+   ],
+   "feedback": "Aqui o feedback é sobre o próprio trabalho do supervisor. Os critérios implícitos são justificar cada escolha por hipótese, pesar os efeitos no vínculo e distinguir hipótese de intervenção. Às contribuições do grupo ele responde com 'depende', validando e acrescentando uma ressalva.",
+   "exemplos_praticos": "Participantes questionaram a intenção da autorrevelação, perguntaram se a hipótese delirante tinha caído, sugeriram pedir um exemplo de perda de controle e propuseram a hipótese 'ela não se suporta'. Diogo respondeu a cada uma com critério clínico.",
+   "variacoes": "O apresentador pode ser um participante (ver mon-17); o foco pode ser outro pressuposto clínico; a sessão simulada pode continuar em encontros seguintes (Diogo planeja simular um atraso).",
+   "armadilhas": "Ler todas as falas; virar relato de caso sem pressuposto; tela sem zoom; limites da IA, que não fornece certos dados concretos; a simulação permite uma 'audácia' que talvez não se sustente na clínica real.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:00:01"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Anuncia um pressuposto, não um caso",
+   "descricao": "Subordina todo o material a uma lição generalizável desde o título.",
+   "exemplo": "'O título de hoje não é paciente número tal, sessão 12, mas uma análise sobre autenticidade.'",
+   "ts": "0:01:19"
+  },
+  {
+   "movimento": "Humor e autoironia para psicoeducar",
+   "descricao": "Usa as piadas do chat sobre a análise do comportamento para desfazer estereótipos e explicar o controle do comportamento.",
+   "exemplo": "'Não, eu não atendo ratos'; 'vou parar de ler o chat por punição'.",
+   "ts": "0:01:19"
+  },
+  {
+   "movimento": "Pensa em voz alta e antecipa objeções",
+   "descricao": "Formula a crítica possível à própria escolha e responde a ela.",
+   "exemplo": "'Ah, Diogo, você tinha material legal ali, por que falou de evento?'; 'psicanalistas de plantão devem estar gritando comigo'.",
+   "ts": "0:23:40"
+  },
+  {
+   "movimento": "Expõe os próprios erros",
+   "descricao": "Mostra erros e dúvidas sobre o próprio atendimento, autorizando o erro como material de aprendizagem.",
+   "exemplo": "Erro de digitação ('aqui eu errei'); intervenção 'um pouco forçada'; 'não sei se na vida real teria coragem de bancar'.",
+   "ts": "0:37:56"
+  },
+  {
+   "movimento": "Integra o chat com respostas nuançadas",
+   "descricao": "Lê comentários em tempo real e responde muitas vezes com 'depende', validando e acrescentando uma ressalva.",
+   "exemplo": "Tradução do paciente gera insight? 'Depende'; 'superior' é uma posição moral.",
+   "ts": "0:16:34"
+  },
+  {
+   "movimento": "Esclarece a intenção mal lida",
+   "descricao": "Quando o grupo atribui uma intenção errada à intervenção, corrige e detalha a função exata.",
+   "exemplo": "Não era trazer emoção contra razão nem ver como ela lida com emoções em geral, mas como ela sente o rigor e a perspectiva do outro.",
+   "ts": "0:29:16"
+  },
+  {
+   "movimento": "Valida e acrescenta ressalva, admitindo tropeços",
+   "descricao": "Elogia a hipótese de uma participante, levanta uma ressalva teórica e reconhece que já errou com esse argumento.",
+   "exemplo": "'Faz muito sentido… a minha única ressalva…'; 'eu já quebrei a cara com esse argumento'.",
+   "ts": "0:54:20"
+  },
+  {
+   "movimento": "Aceita correção e repara",
+   "descricao": "Quando uma participante diz que falava de hipótese, não de intervenção, pede desculpas e explica de onde veio a confusão.",
+   "exemplo": "'Desculpa, coloquei palavras na sua boca.'",
+   "ts": "1:00:11"
+  },
+  {
+   "movimento": "Cuida da experiência do grupo",
+   "descricao": "Ajusta o zoom da tela, combina que peçam zoom quando precisarem e solta o link de presença.",
+   "exemplo": "'Quando for assim, fiquem à vontade para interromper e pedir o zoom.'",
+   "ts": "0:27:55"
+  },
+  {
+   "movimento": "Fecha com síntese de implicações",
+   "descricao": "Resume ganhos, riscos, timing e estatuto da ferramenta antes de abrir a discussão.",
+   "exemplo": "'Não comece a fazer isso nos 20 minutos finais.'",
+   "ts": "0:48:54"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Abra com uma pergunta genérica quando não souber nada do paciente e observe o que ele antecipa.",
+   "justificativa": "O que vem sem ser perguntado é conteúdo do paciente.",
+   "contexto": "Primeira sessão.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:03:25"
+  },
+  {
+   "dica": "Quando o conteúdo subjetivo começar a aparecer, priorize investigar as perspectivas antes dos dados concretos.",
+   "justificativa": "É nelas que aparece o funcionamento.",
+   "contexto": "O paciente comenta como vê as coisas sem que se pergunte.",
+   "competencia": "Escuta clínica",
+   "ts": "0:08:24"
+  },
+  {
+   "dica": "Pergunte o concreto só quando ele decide entre hipóteses, e desista se não vier.",
+   "justificativa": "Insistir no que não é o foco é 'bater em ponta de faca'.",
+   "contexto": "Dúvida diagnóstica relevante.",
+   "competencia": "Psicodiagnóstico",
+   "ts": "0:09:25"
+  },
+  {
+   "dica": "Pese a taxa de base ao considerar hipóteses graves.",
+   "justificativa": "Rigor excessivo com os outros é muito mais comum do que psicose.",
+   "contexto": "Autodescrições grandiosas, mas coerentes com o contexto.",
+   "competencia": "Psicodiagnóstico",
+   "ts": "0:19:34"
+  },
+  {
+   "dica": "Diante de discurso rebuscado, ofereça você uma definição simples e concreta.",
+   "justificativa": "A elaboração excessiva pode ser defesa, e ancorar um sentido permite avançar.",
+   "contexto": "O paciente se perde em falas longas e elaboradas.",
+   "competencia": "Intervenção",
+   "ts": "0:14:23"
+  },
+  {
+   "dica": "Use o seu incômodo como hipótese sobre as outras relações do paciente.",
+   "justificativa": "Se você se irrita em 15 minutos, é provável que outras pessoas também.",
+   "contexto": "Reação forte do terapeuta no início do atendimento.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:15:32"
+  },
+  {
+   "dica": "Não rotule o paciente como 'superior'.",
+   "justificativa": "É uma posição moral; pode ser convicção genuína, insegurança ou aprendizagem.",
+   "contexto": "Pacientes arrogantes ou irritantes.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:17:34"
+  },
+  {
+   "dica": "Antes de uma intervenção forte, verifique se o problema aparece em todos os ambientes e procure as exceções.",
+   "justificativa": "Se aparece em todo lugar, provavelmente envolve o comportamento da pessoa; as exceções dão pistas de origem.",
+   "contexto": "Queixas centradas nos outros.",
+   "competencia": "Formulação de caso",
+   "ts": "0:18:28"
+  },
+  {
+   "dica": "Se o paciente mudou de tema por conta própria, enganche a intervenção nessa última fala.",
+   "justificativa": "O novo tema importa agora, e a resposta anterior pode ter sido por educação.",
+   "contexto": "O paciente volta a um assunto que parece periférico.",
+   "competencia": "Priorização clínica",
+   "ts": "0:23:40"
+  },
+  {
+   "dica": "Prefira seguir o caminho do paciente a 'quebrar' a resistência.",
+   "justificativa": "Quebrar não adianta; o caminho do paciente leva 'ao ouro'.",
+   "contexto": "Sinais de defesa.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:24:46"
+  },
+  {
+   "dica": "Use a autorrevelação para introduzir a perspectiva do outro, em vez de perguntar 'como você se sente?'.",
+   "justificativa": "Sonda o emocional e mostra implicitamente que outra pessoa pode viver aquilo de outro jeito.",
+   "contexto": "Paciente fechado na própria lógica.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:29:16"
+  },
+  {
+   "dica": "Não trate a recusa de uma autorrevelação como fracasso automático.",
+   "justificativa": "A recusa informa sobre o funcionamento do paciente.",
+   "contexto": "O paciente nega sentir o que o terapeuta sentiu.",
+   "competencia": "Intervenção",
+   "ts": "0:27:55"
+  },
+  {
+   "dica": "Se o confronto virar disputa de visões, devolva o foco ao paciente.",
+   "justificativa": "O debate afasta das questões dele e ameaça o vínculo.",
+   "contexto": "O paciente passa a atacar a posição do terapeuta.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:36:37"
+  },
+  {
+   "dica": "Use metáforas corporais para mostrar que um sintoma é sinal.",
+   "justificativa": "Silenciar o ronco não mata a fome.",
+   "contexto": "O paciente trata emoções ou incômodos como ruído a eliminar.",
+   "competencia": "Intervenção",
+   "ts": "0:39:12"
+  },
+  {
+   "dica": "Não mude de linha no meio de um confronto em curso.",
+   "justificativa": "Pode colocar o paciente na posição de 'vencer o terapeuta'.",
+   "contexto": "Uma boa ideia alternativa aparece no meio do embate.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:40:18"
+  },
+  {
+   "dica": "Não pergunte 'você já tentou conversar com ele?'; use o 'já tentei de tudo' como sinal de que a solução está em outro lugar.",
+   "justificativa": "A pergunta é óbvia e invalida.",
+   "contexto": "Queixas interpessoais recorrentes.",
+   "competencia": "Acolhimento e validação",
+   "ts": "0:42:38"
+  },
+  {
+   "dica": "Para engajar um paciente resistente, traduza a proposta para os valores dele.",
+   "justificativa": "Pedir que abra mão do que valoriza o afasta.",
+   "contexto": "Fim da sessão, depois de confrontos.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:46:39"
+  },
+  {
+   "dica": "Faça intervenções verdadeiras e confrontativas cedo na sessão.",
+   "justificativa": "É preciso tempo para avaliar o efeito ou recuar.",
+   "contexto": "Nunca nos 20 minutos finais.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:48:54"
+  },
+  {
+   "dica": "Ao propor uma demanda além da queixa, mostre como ela serve à queixa.",
+   "justificativa": "Acrescentar uma queixa nova pode invalidar o paciente.",
+   "contexto": "Alinhamento de objetivos.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:58:00"
+  },
+  {
+   "dica": "Ao revelar que 'não é A, é B', avalie se a revelação vai assustar ou aliviar.",
+   "justificativa": "Às vezes B é mais simples, e o alívio de não ser A é enorme.",
+   "contexto": "Reformulação do problema do paciente.",
+   "competencia": "Intervenção",
+   "ts": "1:00:11"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O terapeuta sempre controla o comportamento do cliente, e isso não é manipulação.",
+   "argumento": "O comportamento do paciente sempre ocorre em função da posição do terapeuta; como isso sempre acontece, o melhor é usá-lo conscientemente.",
+   "contraponto": "O estereótipo de que a análise do comportamento é manipuladora.",
+   "implicacao": "Escolher quais comportamentos evocar e quando; ser verdadeiro é um desses instrumentos.",
+   "quem": "Diogo",
+   "ts": "0:02:22"
+  },
+  {
+   "tese": "Ser verdadeiro na clínica é uma ferramenta, não uma postura para o tempo inteiro.",
+   "argumento": "Aprofunda e permite confrontar sem acusar, mas gera oposição e ameaça o vínculo.",
+   "contraponto": "'Para quem tem um martelo, todo problema é prego' (lembrado por uma participante).",
+   "implicacao": "Usar cedo na sessão, avaliar o efeito e saber recuar.",
+   "quem": "Diogo",
+   "ts": "0:48:54"
+  },
+  {
+   "tese": "Se o problema aparece em todos os ambientes, ele provavelmente está em algo que a pessoa faz ou deixa de fazer.",
+   "argumento": "Leitura comportamental da recorrência.",
+   "contraponto": "A explicação da paciente de que os outros é que são incompetentes.",
+   "implicacao": "Verificar a generalidade e as exceções antes de uma intervenção forte.",
+   "quem": "Diogo",
+   "ts": "0:18:28"
+  },
+  {
+   "tese": "Não adianta quebrar resistências; o terapeuta deve seguir o caminho que o paciente oferece.",
+   "argumento": "Se toda a construção é resistência, forçá-la não produz nada; o caminho do paciente leva ao essencial.",
+   "contraponto": "Leitura psicanalítica de que fugir do tema é resistência a ser trabalhada (Diogo concorda com a leitura, não com a estratégia de quebra).",
+   "implicacao": "Enganchar na última fala quando o paciente muda de tema.",
+   "quem": "Diogo",
+   "ts": "0:24:46"
+  },
+  {
+   "tese": "Traduzir o paciente nem sempre gera insight.",
+   "argumento": "Às vezes a repetição cria algo novo; às vezes uma conclusão simplista reduz o discurso.",
+   "contraponto": "Comentário do chat de que a tradução 'gera muito insight'.",
+   "implicacao": "Traduzir com cuidado e medir o efeito.",
+   "quem": "Diogo",
+   "ts": "0:16:34"
+  },
+  {
+   "tese": "Um setting leve demais pode dificultar a generalização dos ganhos, mas às vezes é justamente ele que muda tudo.",
+   "argumento": "O que é fácil no consultório pode não passar para a vida; porém Diogo viu uma terapeuta criar um ambiente livre em que surgiram novos repertórios ('sem zerar o ambiente aversivo, não muda nada').",
+   "contraponto": "O próprio argumento anterior de Diogo, com o qual admite ter 'quebrado a cara'.",
+   "implicacao": "Não descartar a proposta de um espaço diferente, cuidando da ponte para a vida real e do risco de desestruturar.",
+   "quem": "Diogo",
+   "ts": "0:55:33"
+  },
+  {
+   "tese": "Conversar abertamente, dizendo o ponto concreto, pode ser mais produtivo do que esperar que o paciente chegue sozinho.",
+   "argumento": "Na sessão, a franqueza levantou resistência, mas também material importante e uma abertura ('faz sentido investigar').",
+   "contraponto": "Psicólogos que não gostam de trazer o ponto concreto para que o paciente chegue por si.",
+   "implicacao": "Franqueza dosada como via de engajamento.",
+   "quem": "Diogo",
+   "ts": "0:49:59"
+  },
+  {
+   "tese": "Não cabe ao terapeuta resolver o problema; cabe ao paciente.",
+   "argumento": "O objetivo da primeira sessão não era resolver, e sim abrir caminho e gerar uma 'mini motivação'.",
+   "contraponto": "A pressão de resolver tudo na primeira sessão.",
+   "implicacao": "Medir o sucesso inicial pela abertura e pela motivação, não pela resolução.",
+   "quem": "Diogo",
+   "ts": "0:50:58"
+  },
+  {
+   "tese": "Uma boa hipótese clínica aponta para uma intervenção.",
+   "argumento": "Diogo elogia a hipótese de uma participante porque 'aponta para um caminho clínico' e explica que confundiu hipótese com intervenção por isso.",
+   "contraponto": "A participante distingue hipótese de intervenção, e Diogo aceita.",
+   "implicacao": "Avaliar hipóteses também pelo que permitem fazer.",
+   "quem": "Diogo",
+   "ts": "1:00:11"
+  },
+  {
+   "tese": "Propor uma demanda além da queixa pode invalidar o paciente, a não ser que ela seja amarrada à queixa.",
+   "argumento": "O paciente vem por A; ouvir que o problema é outro pode soar como desqualificação.",
+   "contraponto": "A prática de redefinir logo o motivo da terapia.",
+   "implicacao": "Construir a ponte explícita queixa → demanda.",
+   "quem": "Diogo",
+   "ts": "0:58:00"
+  },
+  {
+   "tese": "A hipótese de que a paciente 'não se suporta' (cobrada a vida toda, repete 'ruído' como pedido de socorro) é plausível.",
+   "argumento": "Todos os recursos que ela tem não resolveram, o que sugere que o problema não está onde ela procura.",
+   "contraponto": "Diogo: boa hipótese, mas é preciso primeiro falar a língua da paciente, que negou sentir 'peso'.",
+   "implicacao": "Guardar a hipótese para quando o vínculo permitir espelhá-la.",
+   "quem": "Participante",
+   "ts": "0:52:02"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "O comportamento do paciente sempre ocorre em função da posição do terapeuta; como isso sempre acontece, a gente usa isso como ferramenta de trabalho.",
+   "tema": "Análise do comportamento",
+   "ts": "0:02:22"
+  },
+  {
+   "texto": "Se em todo lugar que a pessoa vai tem um problema, é sinal de que não são os lugares que são o problema.",
+   "tema": "Formulação de caso",
+   "ts": "0:18:28"
+  },
+  {
+   "texto": "Superior também é uma posição moral.",
+   "tema": "Postura do terapeuta",
+   "ts": "0:17:34"
+  },
+  {
+   "texto": "Se isso tudo foi resistência, não adiantaria eu quebrar a resistência: eu tenho que seguir o caminho que a paciente me dá para chegar no ouro.",
+   "tema": "Resistência",
+   "ts": "0:24:46"
+  },
+  {
+   "texto": "Trazer a tradução do paciente nem sempre gera insight: uma conclusão simplista também pode reduzir o discurso dele.",
+   "tema": "Intervenção",
+   "ts": "0:16:34"
+  },
+  {
+   "texto": "O ruído não é um problema por si só; ele é um indicador.",
+   "tema": "Emoções como sinal",
+   "ts": "0:40:18"
+  },
+  {
+   "texto": "Não vou nem perguntar se você já tentou conversar, porque é óbvio que você já tentou.",
+   "tema": "Validação",
+   "ts": "0:42:38"
+  },
+  {
+   "texto": "Quando a gente é verdadeiro, dá para confrontar o paciente sem dizer que ele está errado, trazendo a nossa própria percepção.",
+   "tema": "Autenticidade",
+   "ts": "0:48:54"
+  },
+  {
+   "texto": "Não comece a fazer isso nos 20 minutos finais: você precisa de tempo para ver se algo novo surge ou se tem que dar uma recuada.",
+   "tema": "Timing",
+   "ts": "0:48:54"
+  },
+  {
+   "texto": "Em alguns momentos isso é necessário, mas não para a clínica o tempo inteiro. É uma ferramenta.",
+   "tema": "Autenticidade",
+   "ts": "0:49:59"
+  },
+  {
+   "texto": "Eu preciso falar a linguagem dela antes de dizer que ela não está se suportando.",
+   "tema": "Relação terapêutica",
+   "ts": "0:56:35"
+  },
+  {
+   "texto": "Acrescentar uma queixa à queixa do paciente pode fazê-lo se sentir invalidado.",
+   "tema": "Queixa e demanda",
+   "ts": "0:58:00"
+  },
+  {
+   "texto": "Às vezes o alívio de não ser A é muito grande.",
+   "tema": "Reformulação do problema",
+   "ts": "1:00:11"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Ser verdadeiro com o paciente: quando dizer o que você sente",
+   "mensagem": "A autorrevelação é ferramenta: sonda o emocional e mostra outra perspectiva, mas deve vir cedo, ter o efeito medido e permitir recuo.",
+   "roteiro": [
+    "O que é 'ser verdadeiro' na clínica",
+    "Para que serve: sondar e mostrar outra perspectiva",
+    "Risco: oposição e vínculo ameaçado",
+    "Regra 1: nunca nos 20 minutos finais",
+    "Regra 2: meça o efeito e saiba recuar",
+    "É ferramenta, não postura"
+   ],
+   "corte_inicio": "0:48:54",
+   "corte_fim": "0:50:58"
+  },
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Pare de perguntar 'você já tentou conversar com ele?'",
+   "mensagem": "A pergunta óbvia invalida; o 'nada funciona' é o sinal de que a solução está em outro lugar (usar só a explicação geral, sem o caso).",
+   "roteiro": [
+    "A pergunta que todo terapeuta faz",
+    "Por que ela invalida",
+    "O que fazer com o 'já tentei de tudo'"
+   ],
+   "corte_inicio": "0:42:38",
+   "corte_fim": "0:43:39"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "O analista do comportamento manipula o paciente?",
+   "mensagem": "Todo terapeuta influencia o comportamento do paciente; a diferença é fazê-lo com consciência e com propósito clínico.",
+   "roteiro": [
+    "Mitos: ratos, chocolate, manipulação",
+    "O comportamento ocorre em função do terapeuta",
+    "Usar isso como ferramenta",
+    "Exemplo: ser verdadeiro"
+   ],
+   "corte_inicio": "0:01:19",
+   "corte_fim": "0:03:25"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Queixa não é demanda, mas cuidado ao dizer isso",
+   "mensagem": "Propor uma demanda além da queixa sem ligá-la à queixa pode invalidar o paciente.",
+   "roteiro": [
+    "Queixa × demanda",
+    "O risco de invalidar",
+    "Como amarrar a demanda à queixa"
+   ],
+   "corte_inicio": "0:58:00",
+   "corte_fim": "0:59:01"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Emoção não é ruído, é ronco de fome",
+   "mensagem": "Silenciar o sinal não resolve a necessidade que ele indica (reencenar a metáfora sem material do caso).",
+   "roteiro": [
+    "A barriga ronca",
+    "Silenciar resolve?",
+    "Emoção como indicador"
+   ],
+   "corte_inicio": "0:40:18",
+   "corte_fim": "0:41:22"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Quando não é A, é B: o alívio de descobrir o problema certo",
+   "mensagem": "Reformular o problema pode assustar, mas também aliviar.",
+   "roteiro": [
+    "Chegar sofrendo por A",
+    "Descobrir que é B",
+    "Por que isso às vezes alivia"
+   ],
+   "corte_inicio": "1:00:11",
+   "corte_fim": "1:01:36"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Treinar atendimento com pacientes de IA",
+   "mensagem": "Nas monitorias, quem atende pacientes simulados traz ao grupo um pressuposto clínico, não o caso.",
+   "roteiro": [
+    "A ferramenta",
+    "O formato da apresentação",
+    "Tema do dia"
+   ],
+   "corte_inicio": "0:00:01",
+   "corte_fim": "0:01:19"
+  }
+ ],
+ "autores": [],
+ "formato_grupo": {
+  "nome": "Monitoria (Diogo): apresentação de caso com paciente de IA",
+  "objetivo": "A partir de atendimentos com pacientes simulados por IA, trazer ao grupo reflexões e pressupostos clínicos (aqui, autenticidade), e não o relato do caso em si.",
+  "publico": "Associados e participantes da formação clínica da Allos, de várias abordagens.",
+  "tamanho": "Grupo pequeno; algumas participantes falam por voz e outras comentam no chat; parte sai antes do fim.",
+  "duracao": "Cerca de 1 hora (mais curta que o habitual de 1h30, por limitação de tempo do supervisor).",
+  "estrutura_padrao": "Apresentação do formato e do tema → apresentação comentada do chat do atendimento (intenção, alternativas e efeitos de cada intervenção), com pausas para o chat → autocrítica → síntese das implicações do tema → discussão de hipóteses alternativas → encerramento com a gravação interrompida.",
+  "papel_facilitador": "Nesta sessão, o próprio supervisor apresenta o caso: modela o raciocínio clínico em voz alta, antecipa objeções, expõe erros, responde ao chat e valida com ressalvas as hipóteses do grupo.",
+  "regras_combinados": "Falar por voz ou chat; pedir zoom quando a tela estiver ilegível; link de presença; o foco é o pressuposto, não o caso; a gravação é interrompida no fim."
+ },
+ "reflexoes_do_facilitador": [
+  "Admite que talvez não tenha sido interessante questionar se 'todo ruído precisa ser silenciado', porque isso começou a virar discussão de visões em vez de foco na paciente.",
+  "Aponta um erro de digitação na própria intervenção e observa que algo parecido pode acontecer na fala.",
+  "Diz que achou a própria intervenção 'um pouco forçada' e que não sabe se na vida real teria coragem de bancá-la; a simulação lhe permitiu mais audácia.",
+  "Reconhece que já 'quebrou a cara' com o argumento de que um setting leve demais dificulta a generalização.",
+  "Admite que deveria ter soltado o link de presença mais cedo e que percebeu tarde que a tela estava sem zoom.",
+  "Pede desculpas por 'colocar palavras na boca' de uma participante ao confundir hipótese com intervenção."
+ ],
+ "referencias_a_outros_encontros": [
+  "Parte do grupo tinha participado de outro grupo de Diogo cerca de 20 minutos antes, no qual se discutiu resistência.",
+  "Diogo planeja continuar o atendimento simulado nas próximas sessões (simular um atraso para observar a reação da paciente).",
+  "Diogo menciona a técnica de enganchar na última fala como algo 'que a gente comenta muito aqui na aula'."
+ ],
+ "observacoes": "Transcrição automática com bastante ruído. O nome da ferramenta de IA aparece como 'Exio/EXIO' (?). O paciente é simulado por IA, identificado só por codinome, e os dados do caso são fictícios. Participantes são citadas apenas genericamente. Os comentários do chat não aparecem, só o que Diogo lê em voz alta. A duração declarada é menor que a habitual. O vocabulário da FAP (comportamentos clinicamente relevantes) aparece sem nomear a abordagem; ela é nomeada em mon-17. As ligações com Congruência e Contratransferência são do fichamento, não da fala."
+}

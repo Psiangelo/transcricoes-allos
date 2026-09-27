@@ -1,0 +1,861 @@
+{
+ "id": "mon-21",
+ "nota": "Monitoria 21 - Diogo - Sete passos da tomada de decisão clínica",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Sete passos da tomada de decisão clínica",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Diogo"
+ ],
+ "resumo": "Diogo conduz uma monitoria temática sobre tomada de decisão clínica. Uma terapeuta psicanalista traz um caso real (um adolescente com comportamentos de risco, atendido num serviço público) e conta as três direções que deu ao tratamento: vínculo, não negligenciar o risco e responsabilização. Com perguntas sobre a ordem, o objetivo, os meios e uma cadeia de porquês, Diogo extrai e nomeia no chat sete passos: conhecer as variáveis, hierarquizar, definir o objetivo de médio e longo prazo, definir os objetivos de curto prazo como requisitos, avaliar a eficácia, analisar o tipo de informação e reavaliar a compreensão do caso. Ele insiste que os passos não são lineares (metáfora do jardim) e valem tanto para uma intervenção quanto para o processo. No fim, a monitorada e os ouvintes aprovam o modelo, e Diogo explica que é uma sistematização própria, feita a partir das discussões da Allos.",
+ "em_uma_frase": "A partir de um caso real, Diogo extrai com perguntas um roteiro de sete passos para decidir na clínica (variáveis, hierarquia, objetivo, requisitos, eficácia, tipo de informação e releitura do caso), a ser percorrido como um jardim, não como uma estrada.",
+ "competencias": [
+  "Priorização clínica",
+  "Direção do tratamento",
+  "Formulação de caso",
+  "Intervenção",
+  "Relação terapêutica",
+  "Primeira sessão e entrevistas iniciais",
+  "Pessoa do terapeuta",
+  "Desenvolvimento profissional"
+ ],
+ "abordagens": [
+  "Psicanálise freudiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:07",
+   "bloco": "Abertura",
+   "descricao": "Diogo apresenta a monitoria a uma recém-chegada: formato novo no cronograma, acompanhamento individual, uso de atendimentos com a ferramenta de IA e abertura a casos gerais.",
+   "funcao": "Situar o formato e o histórico.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:02:24",
+   "bloco": "Combinados",
+   "descricao": "Procura um caso (IA, real ou de livro) e explica as duas vias da monitoria: dificuldades do terapeuta e temas predeterminados, como no Aprimoramento.",
+   "funcao": "Garantir material e explicar o formato a um novato.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:06:37",
+   "bloco": "Teoria",
+   "descricao": "Tomada de decisão como escolha entre opções excludentes (trânsito versus sorvete e bala). Toda intervenção tem uma função. Dilema entre explorar e acolher.",
+   "funcao": "Enquadrar o tema enquanto a monitorada se prepara.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:09:54",
+   "bloco": "Dinâmica",
+   "descricao": "A monitorada apresenta o caso real (adolescente) e as próprias intervenções.",
+   "funcao": "Trazer o material.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:18:06",
+   "bloco": "Combinados",
+   "descricao": "Diogo elogia a apresentação e define que a conversa será com a monitorada; os ouvintes anotam e comentam no fim.",
+   "funcao": "Proteger o foco individual.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:19:28",
+   "bloco": "Discussão",
+   "descricao": "As três direções do tratamento (vínculo, risco, responsabilização), anotadas no chat, e a dificuldade de trabalhá-las ao mesmo tempo.",
+   "funcao": "Tornar explícitas as decisões implícitas.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:23:42",
+   "bloco": "Discussão",
+   "descricao": "'Por que essa ordem?' A monitorada justifica pela desconfiança e pelo teste do adolescente, pela recorrência do risco e pela responsabilização como objetivo com adolescentes.",
+   "funcao": "Explicitar critérios de prioridade.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:27:32",
+   "bloco": "Teoria",
+   "descricao": "Passo 1 (variáveis; queixa e demanda; setting; linguagem; lugar de fala) e passo 2 (hierarquia; primeira sessão; protocolo de risco de suicídio).",
+   "funcao": "Nomear o que já apareceu na prática.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:35:18",
+   "bloco": "Discussão",
+   "descricao": "'Por que a responsabilização?' Contexto social, repetição da história familiar, sonho próprio, pensamento crítico. Passo 3 (objetivo de médio e longo prazo).",
+   "funcao": "Ligar a leitura do caso ao objetivo.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:43:08",
+   "bloco": "Discussão",
+   "descricao": "'O que você fez?' Confronto nas brechas, nomeação, jogos, questionar as convicções. Cadeia de porquês e passo 4 (objetivos de curto prazo como requisitos).",
+   "funcao": "Mostrar a cadeia intervenção → objetivo.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:51:05",
+   "bloco": "Teoria",
+   "descricao": "Ressalva da não linearidade (inconsciente atemporal) e metáfora do jardim.",
+   "funcao": "Evitar a leitura mecânica do modelo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:53:14",
+   "bloco": "Discussão",
+   "descricao": "'Como foi durante?' Tentativa e erro, supervisão, critérios de boa e má intervenção. Passo 5 (avaliar a eficácia).",
+   "funcao": "Ensinar a avaliar intervenções.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:57:20",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Metacomentário sobre soar como coach e sobre o caráter transversal às abordagens.",
+   "funcao": "Legitimar o tema e convidar a crítica.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:58:20",
+   "bloco": "Discussão",
+   "descricao": "'Surgiu informação nova?' Mudança de sala, sinais de ansiedade, fatos trazidos pela mãe, atestado recusado. Passo 6 (tipo de informação).",
+   "funcao": "Classificar o material que chega.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:07:25",
+   "bloco": "Discussão",
+   "descricao": "O que se sofisticou: a função dos comportamentos e uma relação mais informal com autorrevelação. Passo 7 (reavaliar a compreensão; hermenêutica).",
+   "funcao": "Fechar o ciclo e reabri-lo.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:11:25",
+   "bloco": "Retomada",
+   "descricao": "A monitorada reconhece os sete passos na sessão e no processo; Diogo mostra que valem para qualquer intervenção.",
+   "funcao": "Integração.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:15:43",
+   "bloco": "Feedback",
+   "descricao": "A monitorada avalia a utilidade; depois os ouvintes dizem se é relevante ou 'batido'.",
+   "funcao": "Avaliar o encontro.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:17:45",
+   "bloco": "Dúvidas",
+   "descricao": "Pergunta sobre o referencial dos sete passos; Diogo: sistematização própria a partir das discussões da Allos, sem artigo de base.",
+   "funcao": "Transparência epistemológica.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:20:21",
+   "bloco": "Fechamento",
+   "descricao": "Retoma a objeção de que a clínica é caótica com a metáfora do jardim: os passos se interpenetram. Fim da gravação.",
+   "funcao": "Fechar com a ressalva principal.",
+   "duracao_min": 2
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Tomada de decisão clínica",
+   "definicao": "Escolha entre possibilidades de investigação ou intervenção mutuamente excludentes, guiada pela intenção do terapeuta. Diogo a sistematiza em sete passos não lineares: conhecer as variáveis, hierarquizar, definir o objetivo de médio e longo prazo, definir os objetivos de curto prazo (requisitos), avaliar a eficácia da intervenção, analisar o tipo de informação levantada e avaliar a compreensão do caso. Vale para uma intervenção e para o processo inteiro.",
+   "exemplo": "Trânsito: pegar o caminho do bairro exclui o do centro; comprar sorvete e bala não é decisão nesse sentido.",
+   "abordagem": "Transteórico",
+   "ts": "0:07:46"
+  },
+  {
+   "nome": "Função da intervenção",
+   "definicao": "Toda pergunta ou intervenção deve ter um objetivo, o que se quer produzir naquele momento. Não se trata de função no sentido comportamental. Intervenções vazias, sem significado, devem ser evitadas.",
+   "exemplo": "Continuar explorando um tema forte ou acolher o desconforto do paciente depende do que se quer produzir.",
+   "abordagem": "Transteórico",
+   "ts": "0:08:47"
+  },
+  {
+   "nome": "Queixa e demanda",
+   "definicao": "Diogo chama de queixa as palavras do paciente sobre o que o traz e de demanda (ou objetivo) o que o caso pede além da queixa. Admite que é uma escolha de vocabulário.",
+   "exemplo": "A monitorada falava em 'demanda' para o motivo da procura; Diogo diferencia esse motivo do objetivo do caso.",
+   "abordagem": "Transteórico",
+   "ts": "0:29:17"
+  },
+  {
+   "nome": "Setting terapêutico",
+   "definicao": "Padrão, mas maleável: materiais, brinquedos abertos para qualquer criança, lápis e papel para atividades concretas com adultos, e a linguagem do clínico, sobretudo online. Mudanças de setting podem mudar a fala do paciente e a do terapeuta.",
+   "exemplo": "Numa sala diferente, sem brinquedos, o paciente revelou algo que nunca tinha contado.",
+   "abordagem": "Transteórico",
+   "ts": "0:29:17"
+  },
+  {
+   "nome": "Lugar de fala",
+   "definicao": "Cuidado para não presumir que se conhece a vivência de quem tem outro gênero, classe, etnia ou sexualidade, e nem a de todos que compartilham os mesmos marcadores do terapeuta.",
+   "exemplo": "Diogo, homem, atendendo uma mulher, não se coloca num lugar de fala que não é o dele.",
+   "abordagem": "Transteórico",
+   "ts": "0:30:28"
+  },
+  {
+   "nome": "Máximas clínicas",
+   "definicao": "Aqui aparece a máxima atribuída a Alan: a função do primeiro encontro é fazer o segundo acontecer. O objetivo inicial não é conhecer o sujeito nem formar vínculo como fim; o vínculo serve para garantir o retorno.",
+   "exemplo": "",
+   "abordagem": "Transteórico",
+   "ts": "0:32:14"
+  },
+  {
+   "nome": "Avaliação de risco de suicídio",
+   "definicao": "Prioridade acima de qualquer outra. Diante de sinal de risco, para-se tudo e segue-se o protocolo: avisar o paciente de que o sigilo será rompido só sobre isso, contatar um responsável na hora, retirar meios e proteger ambientes da casa. Justificativas: dever legal e profissional de preservar a vida (negligência se omitir) e o argumento pragmático de que o paciente precisa estar vivo para ser atendido.",
+   "exemplo": "Dado como exemplo-limite de hierarquia; não era o caso da monitorada.",
+   "abordagem": "Transteórico",
+   "ts": "0:33:13"
+  },
+  {
+   "nome": "Sigilo profissional",
+   "definicao": "Rompido apenas no que diz respeito ao risco à vida. Na clínica com adolescentes, os pais costumam questioná-lo.",
+   "exemplo": "A mãe do paciente questionou onde estava escrito que a terapeuta não contaria as coisas a ela.",
+   "abordagem": "Transteórico",
+   "ts": "0:14:46"
+  },
+  {
+   "nome": "Objetivos da terapia",
+   "definicao": "O objetivo de médio e longo prazo (passo 3) nasce de compreender 'sobre o que é o caso', a sua 'pedra fundamental'. Saber aonde se quer chegar porque se sabe do que o caso precisa.",
+   "exemplo": "Pensamento crítico e responsabilização do adolescente sobre os próprios atos.",
+   "abordagem": "Transteórico",
+   "ts": "0:43:08"
+  },
+  {
+   "nome": "Objetivo de curto prazo",
+   "definicao": "Requisito intermediário para o grande objetivo (passo 4), descoberto por uma cadeia de porquês. A cadeia não é necessariamente linear.",
+   "exemplo": "Questionar convicções → mostrar que não é intocável → contato com o que sente → consciência dos atos → responsabilização.",
+   "abordagem": "Transteórico",
+   "ts": "0:51:05"
+  },
+  {
+   "nome": "Hermenêutica",
+   "definicao": "No passo 7, a pergunta 'minha leitura está correta?': a compreensão do caso se refaz porque o caso muda a cada sessão; filosoficamente, o paciente nunca é o mesmo depois de uma sessão.",
+   "exemplo": "A monitorada tenta não 'viciar' a leitura para que outras coisas possam surgir.",
+   "abordagem": "Transteórico",
+   "ts": "1:10:06"
+  },
+  {
+   "nome": "Pragmatismo",
+   "definicao": "Nível em que se pergunta quanto o caso efetivamente mudou, ao lado do nível filosófico. Também sustenta o argumento de que o paciente precisa estar vivo para ser atendido.",
+   "exemplo": "",
+   "abordagem": "Transteórico",
+   "ts": "1:10:06"
+  },
+  {
+   "nome": "Função do comportamento",
+   "definicao": "O papel que um comportamento cumpre na vida do paciente; a monitorada quis entendê-lo antes de apontar o risco.",
+   "exemplo": "Adrenalina como único momento de sentir-se feliz; status e lugar no grupo.",
+   "abordagem": "Transteórico",
+   "ts": "0:22:28"
+  },
+  {
+   "nome": "Confronto terapêutico",
+   "definicao": "Questionar convicções e nomear contradições 'nas brechas' do vínculo, sem postura pedagógica ou corretiva.",
+   "exemplo": "Diante de uma certeza ('se voltasse atrás faria de novo'), perguntar se ele estava mesmo certo na situação narrada.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:44:41"
+  },
+  {
+   "nome": "Nomeação",
+   "definicao": "Dizer ao paciente o que ele faz sem perceber, para que ele note que o terapeuta não só ouve, mas vê.",
+   "exemplo": "Nomear que ele contava algo grave rindo; nomear a dificuldade de perder observada num jogo.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:45:58"
+  },
+  {
+   "nome": "Responsabilização do paciente",
+   "definicao": "Colocar o paciente, mesmo adolescente, em posição de responder pelos próprios desejos e ações. Para a monitorada, é o objetivo de toda terapia com adolescentes (separação dos pais, autonomia).",
+   "exemplo": "Ter 'um sonho que é próprio dele' e responsabilizar-se pelo caminho até ele.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:37:39"
+  },
+  {
+   "nome": "Associação livre",
+   "definicao": "Usada como critério de avaliação das intervenções: as ruins eram as que faziam o paciente parar de falar livremente (muito objetivas, curtas ou com interpretação antecipada).",
+   "exemplo": "Uma pergunta precoce sobre risco foi negada; semanas depois ele próprio reconheceu o risco.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:54:50"
+  },
+  {
+   "nome": "Resistência",
+   "definicao": "Um dos tipos de informação a identificar no passo 6. É um recurso do paciente como outros, mas merece destaque porque pode aparecer como impedimento ao processo.",
+   "exemplo": "A monitorada reconhece também uma resistência sua: ainda não nomeou a ansiedade que percebe no paciente.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:05:54"
+  },
+  {
+   "nome": "Transferência",
+   "definicao": "Movimento em que o paciente quer que o terapeuta o ache 'muito maneiro'; percebido no início e depois desfeito.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:02:14"
+  },
+  {
+   "nome": "Autorrevelação do terapeuta",
+   "definicao": "Contar uma experiência pessoal para tornar a relação mais flexível sem perder o lugar de terapeuta nem banalizar o espaço.",
+   "exemplo": "A terapeuta contou um acidente semelhante e isso abriu a conversa sobre o caminho legal para o que o paciente deseja.",
+   "abordagem": "Transteórico",
+   "ts": "1:07:46"
+  },
+  {
+   "nome": "Inconsciente",
+   "definicao": "Atemporal e sem a lógica cartesiana de 'A leva a B, que leva a C', embora tenha sentidos analisáveis. Por isso os passos e objetivos não seguem uma ordem linear.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:51:05"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Sete passos da tomada de decisão clínica",
+   "objetivo": "Tornar consciente e sistemático o processo de decisão que o terapeuta faz intuitivamente, extraindo um modelo geral de um caso concreto.",
+   "competencias": [
+    "Priorização clínica",
+    "Direção do tratamento",
+    "Formulação de caso",
+    "Intervenção"
+   ],
+   "configuracao": "Online; uma terapeuta traz um caso e conversa com o monitor; os ouvintes anotam e comentam só no fim; o chat serve de quadro.",
+   "tempo": "Cerca de 60 minutos de diálogo e 10 de feedback.",
+   "materiais": "Um caso em andamento (real anonimizado, simulado por IA ou de livro); chat da videochamada para registrar decisões e passos.",
+   "consigna": "Conte o seu caso. Você consegue perceber a relevância da tomada de decisão nele? Quais decisões você tomou, em que ordem e por quê?",
+   "passos": [
+    "O monitorado apresenta o caso e as próprias intervenções.",
+    "O monitor pede as decisões principais e as anota no chat.",
+    "Pergunta pela ordem, pelo objetivo, pelos meios e encadeia porquês até o grande objetivo.",
+    "Pergunta se o monitorado identifica as etapas que apareceram e revela e nomeia cada passo à medida que o caso o ilustra.",
+    "Pergunta pelo que deu errado, pelo que surgiu de novo e pelo que mudou na leitura do caso (passos 5 a 7).",
+    "Integra: o monitorado vê os sete passos na sessão e no processo?",
+    "Colhe o feedback do monitorado e depois dos ouvintes."
+   ],
+   "feedback": "Não julga as escolhas ('não estou aqui para questionar se foi a melhor ordem'). Verifica se cada decisão é justificável e se liga ao objetivo do caso. Parafraseia e pede confirmação, aceitando as correções do monitorado.",
+   "exemplos_praticos": "A monitorada identifica a hierarquização, mas não ainda a definição de objetivos. Descreve como tentativa e erro o que depois consegue organizar nos sete passos. No fim, formula sozinha que mais importante do que chegar aonde queria é entender aonde chegou.",
+   "variacoes": "Funciona com caso de IA ou de livro, e para alguns temas até sem caso em andamento. Pode ser aplicada a uma única intervenção dentro da sessão.",
+   "armadilhas": "Ler o modelo como sequência rígida (Diogo usa a metáfora do jardim); soar como coaching; o caso real exige cuidado com o sigilo diante do grupo; ouvintes que saem no meio.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:19:28"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Explica o formato a quem chega",
+   "descricao": "Apresenta a monitoria, sua história recente e a ferramenta de IA para uma participante nova.",
+   "exemplo": "'Um novo formato que entrou no nosso cronograma recentemente.'",
+   "ts": "0:00:07"
+  },
+  {
+   "movimento": "Flexibiliza a origem do caso",
+   "descricao": "Aceita caso de IA, caso real ou de livro para garantir material e convida um novato a trazer um na semana seguinte.",
+   "exemplo": "'Pode não ser um caso que atendeu, pode ser de livro didático.'",
+   "ts": "0:04:01"
+  },
+  {
+   "movimento": "Aproveita a espera para ensinar",
+   "descricao": "Enquanto a monitorada se prepara, apresenta o tema com analogias do cotidiano.",
+   "exemplo": "Trânsito pelo bairro ou pelo centro; sorvete e bala.",
+   "ts": "0:06:37"
+  },
+  {
+   "movimento": "Contrata a participação",
+   "descricao": "Define o foco na monitorada e pede que os ouvintes anotem e falem no fim.",
+   "exemplo": "'Neste momento o foco é que eu fique com ela, e não que vocês comentem ativamente.'",
+   "ts": "0:18:06"
+  },
+  {
+   "movimento": "Usa o chat como quadro",
+   "descricao": "Registra as decisões da monitorada e os passos ('TD1, TD2...') e pede que todos acompanhem.",
+   "exemplo": "'Agora eu vou pedir para que todos olhem o chat.'",
+   "ts": "0:20:42"
+  },
+  {
+   "movimento": "Elicita antes de nomear",
+   "descricao": "Pergunta se a monitorada reconhece as etapas que ele vinha levantando antes de revelá-las.",
+   "exemplo": "'Eu levantei duas etapas. Você conseguiria identificar quais foram?'",
+   "ts": "0:27:32"
+  },
+  {
+   "movimento": "Cadeia de porquês",
+   "descricao": "Pergunta 'por que isso é relevante?' repetidamente, até ligar a intervenção ao grande objetivo, e depois mostra a cadeia inteira.",
+   "exemplo": "Questionar convicções → mostrar que não é intocável → contato com o sofrimento → consciência → responsabilização.",
+   "ts": "0:50:02"
+  },
+  {
+   "movimento": "Parafraseia e confirma",
+   "descricao": "Resume o que entendeu e pergunta se é isso, aceitando as correções de vocabulário.",
+   "exemplo": "'Determinado é uma palavra forte, influenciado talvez.'",
+   "ts": "0:40:10"
+  },
+  {
+   "movimento": "Alterna o caso e exemplos próprios",
+   "descricao": "Usa exemplos do próprio consultório e um exemplo-limite fora do caso para ilustrar os passos.",
+   "exemplo": "Armário com brinquedos; homem atendendo mulher; protocolo de risco de suicídio.",
+   "ts": "0:29:17"
+  },
+  {
+   "movimento": "Declara que não avalia a ordem",
+   "descricao": "Explicita que o objetivo não é julgar as escolhas, e sim ensinar o processo.",
+   "exemplo": "'Não estou aqui para questionar se essa foi a melhor ordem.'",
+   "ts": "0:35:18"
+  },
+  {
+   "movimento": "Ressalva na língua do monitorado",
+   "descricao": "Previne contra a linearidade do modelo usando uma referência psicanalítica.",
+   "exemplo": "O inconsciente é atemporal e não segue a lógica cartesiana.",
+   "ts": "0:51:05"
+  },
+  {
+   "movimento": "Verbaliza o silêncio",
+   "descricao": "Diante do silêncio, diz o que presume e convida a correção.",
+   "exemplo": "'Estou contando que faz sentido. Se estiver errado, me corrija sempre.'",
+   "ts": "0:56:18"
+  },
+  {
+   "movimento": "Metacomentário sobre a própria linguagem",
+   "descricao": "Antecipa a crítica de que o vocabulário soa como coaching e convida o grupo a sugerir outros nomes.",
+   "exemplo": "'Se estiver parecendo muito papo de coach, vocês podem me sinalizar.'",
+   "ts": "0:57:20"
+  },
+  {
+   "movimento": "Integração final",
+   "descricao": "Pergunta se a monitorada vê os sete passos no atendimento, na sessão e no processo.",
+   "exemplo": "'Você consegue visualizar esses sete momentos no seu atendimento?'",
+   "ts": "1:11:25"
+  },
+  {
+   "movimento": "Feedback em duas rodadas e transparência",
+   "descricao": "Colhe primeiro a avaliação da monitorada, depois a dos ouvintes, abrindo espaço para críticas; revela que o modelo é sistematização própria e fecha incorporando a objeção de uma ouvinte.",
+   "exemplo": "'É algo que faz diferença ou já é batido, óbvio demais?'",
+   "ts": "1:17:06"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Antes de intervir, pergunte-se qual é a função da intervenção.",
+   "justificativa": "Intervenções vazias não levam a lugar nenhum; a escolha depende do que você quer produzir.",
+   "contexto": "Sempre, especialmente diante de várias opções.",
+   "competencia": "Intervenção",
+   "ts": "0:08:47"
+  },
+  {
+   "dica": "Mapeie as variáveis do caso antes de decidir.",
+   "justificativa": "Não se hierarquiza o que não foi identificado (vínculo, risco, objetivo, rede de apoio, setting, linguagem, marcadores sociais).",
+   "contexto": "No início e a cada virada do caso.",
+   "competencia": "Formulação de caso",
+   "ts": "0:28:06"
+  },
+  {
+   "dica": "Separe a queixa (palavras do paciente) da demanda ou objetivo (o que o caso pede).",
+   "justificativa": "O caso pode pedir mais do que o paciente traz como motivo.",
+   "contexto": "Formulação inicial.",
+   "competencia": "Formulação de caso",
+   "ts": "0:29:17"
+  },
+  {
+   "dica": "Adapte a linguagem e o setting ao paciente e cuide do lugar de fala.",
+   "justificativa": "A linguagem faz parte do setting; presumir que se conhece a vivência do outro atrapalha.",
+   "contexto": "Crianças, adolescentes, diferenças sociais marcadas.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:30:28"
+  },
+  {
+   "dica": "Na primeira sessão, priorize garantir a segunda.",
+   "justificativa": "Sem retorno não há tratamento; o vínculo é o meio para isso.",
+   "contexto": "Primeiros contatos.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:32:14"
+  },
+  {
+   "dica": "Diante de risco de suicídio, pare tudo e siga o protocolo: avise que o sigilo será rompido só sobre isso, contate um responsável na hora e oriente a retirar meios.",
+   "justificativa": "A vida vem antes de qualquer prioridade; omitir-se pode ser negligência; o paciente precisa estar vivo para ser atendido.",
+   "contexto": "Qualquer sinal de risco.",
+   "competencia": "Priorização clínica",
+   "ts": "0:33:13"
+  },
+  {
+   "dica": "Com adolescentes, construa o vínculo antes de confrontar.",
+   "justificativa": "Costumam desconfiar de adultos e testar o terapeuta; o material genuíno aparece depois.",
+   "contexto": "Primeiras semanas (prática relatada pela monitorada).",
+   "competencia": "Relação terapêutica",
+   "ts": "0:24:55"
+  },
+  {
+   "dica": "Entenda a função do comportamento de risco, mas não fique só nisso: depois de algumas semanas, nomeie o risco.",
+   "justificativa": "Sustentar indefinidamente a escuta da função pode virar negligência.",
+   "contexto": "Comportamentos de risco recorrentes.",
+   "competencia": "Priorização clínica",
+   "ts": "0:26:11"
+  },
+  {
+   "dica": "Troque a postura pedagógica pela pergunta que expõe a contradição.",
+   "justificativa": "Corrigir quebra o vínculo; perguntar 'se não é problema, por que você escondia?' traz o princípio de realidade sem julgamento.",
+   "contexto": "Quando o paciente minimiza o que faz.",
+   "competencia": "Intervenção",
+   "ts": "0:15:57"
+  },
+  {
+   "dica": "Confronte nas brechas e nomeie o que o paciente conta rindo.",
+   "justificativa": "Mostra que o terapeuta não só ouve, mas vê, sem romper o vínculo.",
+   "contexto": "Quando o vínculo já permite (prática relatada pela monitorada).",
+   "competencia": "Intervenção",
+   "ts": "0:44:41"
+  },
+  {
+   "dica": "Use jogos para observar padrões e nomeá-los.",
+   "justificativa": "No brincar aparecem a dificuldade de perder e a necessidade de controle.",
+   "contexto": "Setting com recursos lúdicos, inclusive com adolescentes.",
+   "competencia": "Escuta clínica",
+   "ts": "0:45:58"
+  },
+  {
+   "dica": "Encadeie porquês até o grande objetivo.",
+   "justificativa": "Verifica se cada intervenção de curto prazo é requisito do objetivo do caso.",
+   "contexto": "Ao planejar e na supervisão.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:50:02"
+  },
+  {
+   "dica": "Julgue a intervenção pelo efeito sobre a fala livre do paciente.",
+   "justificativa": "Intervenções muito objetivas, curtas ou antecipadas travavam a associação livre.",
+   "contexto": "Sobretudo no início do tratamento.",
+   "competencia": "Intervenção",
+   "ts": "0:54:50"
+  },
+  {
+   "dica": "Não antecipe a interpretação: espere o paciente se escutar.",
+   "justificativa": "O terapeuta pode perceber antes, mas o paciente só reconhece quando traz os próprios elementos.",
+   "contexto": "Quando a leitura está à frente do paciente.",
+   "competencia": "Interpretação",
+   "ts": "0:54:50"
+  },
+  {
+   "dica": "Se a intervenção não chegou aonde você queria, volte ao requisito que falta.",
+   "justificativa": "O fracasso mostra o que ainda não foi construído.",
+   "contexto": "Depois de uma intervenção negada ou sem efeito.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:57:20"
+  },
+  {
+   "dica": "Pergunte que tipo de informação a novidade traz: corrobora, mostra evolução, é resistência?",
+   "justificativa": "Cada tipo leva a uma decisão diferente.",
+   "contexto": "Sempre que surge material novo.",
+   "competencia": "Formulação de caso",
+   "ts": "1:04:52"
+  },
+  {
+   "dica": "Trate mudanças de setting como variável clínica.",
+   "justificativa": "Uma sala diferente mudou a fala do paciente e a da terapeuta, e surgiu uma revelação importante.",
+   "contexto": "Quando o espaço muda (prática relatada pela monitorada).",
+   "competencia": "Relação terapêutica",
+   "ts": "0:59:33"
+  },
+  {
+   "dica": "Mantenha a leitura do caso aberta, sem viciá-la.",
+   "justificativa": "O paciente muda a cada sessão, e a leitura precisa acompanhar.",
+   "contexto": "A cada sessão e supervisão.",
+   "competencia": "Formulação de caso",
+   "ts": "1:07:04"
+  },
+  {
+   "dica": "Use a autorrevelação com parcimônia, sem perder o lugar.",
+   "justificativa": "Pode tornar a relação mais flexível e abrir conversas úteis ao objetivo do caso.",
+   "contexto": "Vínculo consolidado e objetivo claro (prática relatada pela monitorada).",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "1:07:46"
+  },
+  {
+   "dica": "Aplique a rota de decisão também dentro da sessão, a cada intervenção.",
+   "justificativa": "Os passos correm rápido e de forma indireta na sessão e são retomados depois, na supervisão e no estudo.",
+   "contexto": "Qualquer intervenção.",
+   "competencia": "Intervenção",
+   "ts": "1:13:39"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "Toda intervenção deve ter uma função; não há intervenção vazia.",
+   "argumento": "Diante de muitas possibilidades, só a intenção permite escolher; sem objetivo, a sessão vira uma conversa qualquer.",
+   "contraponto": "A intervenção por fazer. Diogo afasta o sentido estritamente comportamental de 'função'.",
+   "implicacao": "Explicitar o objetivo de cada intervenção na supervisão.",
+   "quem": "Diogo",
+   "ts": "0:08:47"
+  },
+  {
+   "tese": "A tomada de decisão clínica pode ser sistematizada em sete passos transversais às abordagens.",
+   "argumento": "A monitorada, psicanalista, percorreu todos eles sem perceber; decidir é necessário a toda abordagem.",
+   "contraponto": "Uma participante lembra que a clínica é caótica e só depois se entende; Diogo aceita que os passos são guias, não uma ordem fixa. O modelo não vem de artigo, e sim de sistematização própria das discussões da Allos.",
+   "implicacao": "Usar o roteiro como checklist reflexivo, não como receita.",
+   "quem": "Diogo",
+   "ts": "1:17:45"
+  },
+  {
+   "tese": "Falar em decisão, eficácia e resultado não é 'papo de coach'.",
+   "argumento": "Decidir é necessário a vários processos e a toda abordagem.",
+   "contraponto": "A desconfiança de que o vocabulário soe mercadológico; Diogo convida o grupo a sugerir outros nomes.",
+   "implicacao": "Adotar a linguagem sem importar a lógica do coaching.",
+   "quem": "Diogo",
+   "ts": "0:57:20"
+  },
+  {
+   "tese": "O risco de suicídio está acima de qualquer outra prioridade, inclusive do sigilo.",
+   "argumento": "Dever legal e profissional de preservar a vida (segundo Diogo, da Constituição às normas da profissão) e o argumento pragmático de que o paciente precisa estar vivo para ser atendido.",
+   "contraponto": "A omissão como negligência; o sigilo é rompido apenas no que diz respeito ao risco.",
+   "implicacao": "Conhecer e seguir o protocolo.",
+   "quem": "Diogo",
+   "ts": "0:33:13"
+  },
+  {
+   "tese": "A função da primeira sessão é fazer a segunda acontecer.",
+   "argumento": "O objetivo inicial não é conhecer o sujeito nem formar vínculo como fim, mas garantir o retorno; o vínculo serve a isso.",
+   "contraponto": "",
+   "implicacao": "Medir a primeira sessão pelo retorno do paciente.",
+   "quem": "Diogo, citando Alan",
+   "ts": "0:32:14"
+  },
+  {
+   "tese": "O processo clínico é um jardim, não uma estrada.",
+   "argumento": "Os objetivos se misturam; o inconsciente é atemporal e não segue a lógica cartesiana; volta-se aos mesmos pontos quando é preciso.",
+   "contraponto": "A leitura linear do próprio modelo de sete passos.",
+   "implicacao": "Revisitar prioridades e objetivos sem culpa de 'voltar atrás'.",
+   "quem": "Diogo",
+   "ts": "0:52:36"
+  },
+  {
+   "tese": "A compreensão do caso tem de ser reavaliada continuamente.",
+   "argumento": "Hermenêutica: o paciente nunca é o mesmo depois de uma sessão.",
+   "contraponto": "",
+   "implicacao": "Toda informação nova é uma ocasião para testar a leitura.",
+   "quem": "Diogo",
+   "ts": "1:10:06"
+  },
+  {
+   "tese": "Com adolescentes, a responsabilização é o objetivo de toda terapia.",
+   "argumento": "Separar-se dos pais e tornar-se autônomo, saindo do lugar de objeto e da repetição das histórias dos adultos à sua volta.",
+   "contraponto": "Não se trata de tirar o paciente do lugar social que lhe dá status, e sim de dar a ele pensamento crítico sobre esse lugar.",
+   "implicacao": "Primeiro o vínculo, depois nomear riscos, depois responsabilizar.",
+   "quem": "A monitorada",
+   "ts": "0:26:11"
+  },
+  {
+   "tese": "Com adolescentes em risco, não ser pedagógico não é o mesmo que ser negligente.",
+   "argumento": "Corrigir quebra o vínculo, mas ignorar o risco é falha profissional; a saída é apontar e questionar sem julgar.",
+   "contraponto": "A postura puramente corretiva e a postura puramente compreensiva.",
+   "implicacao": "Depois de entender a função, nomear o risco.",
+   "quem": "A monitorada, endossada por Diogo",
+   "ts": "0:21:44"
+  },
+  {
+   "tese": "O supervisor ensina mais explicitando o processo de decisão do que julgando a decisão.",
+   "argumento": "Diogo declara que não vai avaliar se a ordem foi a melhor, e sim ajudar a entender o processo.",
+   "contraponto": "Supervisões que dão um veredito sobre a escolha (como Alan faz com frequência na mon-02).",
+   "implicacao": "Devolver ao terapeuta um método, não um veredito.",
+   "quem": "Diogo",
+   "ts": "0:35:18"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Toda intervenção precisa ter uma função. A gente não pode fazer intervenções vazias, sem significado.",
+   "tema": "função da intervenção",
+   "ts": "0:08:47"
+  },
+  {
+   "texto": "Assim que você decide por uma das opções, a outra se torna inacessível.",
+   "tema": "tomada de decisão",
+   "ts": "0:07:46"
+  },
+  {
+   "texto": "Queixa são as palavras do paciente; demanda é o que eu chamo de objetivo.",
+   "tema": "queixa e demanda",
+   "ts": "0:29:17"
+  },
+  {
+   "texto": "Qual é a função do primeiro encontro? Fazer o segundo acontecer.",
+   "tema": "primeira sessão (Diogo citando Alan)",
+   "ts": "0:32:14"
+  },
+  {
+   "texto": "O paciente que a gente atende precisa estar vivo para ser atendido.",
+   "tema": "risco de suicídio",
+   "ts": "0:34:24"
+  },
+  {
+   "texto": "Não é uma estrada em que você pega uma reta, depois uma curva, e chega no destino. É mais como passear por um jardim.",
+   "tema": "não linearidade",
+   "ts": "0:52:36"
+  },
+  {
+   "texto": "Tomada de decisão é importante para vários processos e não é só papo de coach.",
+   "tema": "tomada de decisão",
+   "ts": "0:57:20"
+  },
+  {
+   "texto": "Minha leitura está correta?",
+   "tema": "hermenêutica",
+   "ts": "1:10:06"
+  },
+  {
+   "texto": "O paciente nunca é o mesmo depois de uma sessão.",
+   "tema": "reavaliação do caso",
+   "ts": "1:10:06"
+  },
+  {
+   "texto": "Mais importante do que chegar aonde eu queria é entender aonde chegou, e ir para onde foi junto com ele.",
+   "tema": "avaliação da intervenção (a monitorada)",
+   "ts": "1:12:42"
+  },
+  {
+   "texto": "A rigor, qualquer intervenção que você faz pode usar essa rota.",
+   "tema": "tomada de decisão",
+   "ts": "1:13:39"
+  },
+  {
+   "texto": "A gente tenta organizar, categorizar, pôr em passo a passo, mas a troca é mais caótica. Ela acontece, e depois a gente tenta entender.",
+   "tema": "limites dos modelos (uma participante)",
+   "ts": "1:17:48"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "7 perguntas para decidir o que fazer na sessão",
+   "mensagem": "Tomada de decisão clínica em sete passos, para uma intervenção ou para o processo inteiro.",
+   "roteiro": [
+    "1. O que está em jogo? (variáveis)",
+    "2. O que vem primeiro? (hierarquia)",
+    "3. Aonde quero chegar? (objetivo do caso)",
+    "4. Que requisitos levam até lá? (curto prazo)",
+    "5. Aonde a intervenção me levou? (eficácia)",
+    "6. Que tipo de informação surgiu?",
+    "7. Minha leitura ainda está correta?",
+    "Não é estrada, é jardim"
+   ],
+   "corte_inicio": "1:11:25",
+   "corte_fim": "1:15:43"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Não existe intervenção neutra",
+   "mensagem": "Toda pergunta tem uma função, e escolher uma é abrir mão da outra.",
+   "roteiro": [
+    "Trânsito: bairro ou centro, não os dois",
+    "Sorvete e bala: isso não é decisão",
+    "Na clínica: explorar ou acolher?",
+    "Toda intervenção precisa de uma função"
+   ],
+   "corte_inicio": "0:06:37",
+   "corte_fim": "0:09:38"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Para que serve a primeira sessão?",
+   "mensagem": "Para a segunda acontecer; o vínculo é meio, não fim.",
+   "roteiro": [
+    "Não é conhecer tudo",
+    "Não é só formar vínculo",
+    "É garantir o retorno"
+   ],
+   "corte_inicio": "0:32:14",
+   "corte_fim": "0:33:13"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "A clínica não é uma estrada, é um jardim",
+   "mensagem": "Modelos passo a passo ajudam, desde que não sejam lidos como sequência rígida.",
+   "roteiro": [
+    "Estrada: reta, curva, destino",
+    "Jardim: pontos para visitar e revisitar",
+    "Os passos se interpenetram",
+    "O objetivo é o passeio: compreender o caso"
+   ],
+   "corte_inicio": "0:51:05",
+   "corte_fim": "0:53:14"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Queixa não é demanda",
+   "mensagem": "A queixa é o que o paciente diz; a demanda (objetivo) é o que o caso pede.",
+   "roteiro": [
+    "Queixa: palavras do paciente",
+    "Demanda/objetivo: o que o caso pede",
+    "Por que diferenciar muda a direção do tratamento"
+   ],
+   "corte_inicio": "0:28:06",
+   "corte_fim": "0:29:17"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Risco de suicídio: por que tudo para",
+   "mensagem": "É a prioridade máxima: sigilo rompido só sobre isso, contato com responsável, retirada de meios (conferir com as orientações do CFP antes de publicar).",
+   "roteiro": [
+    "Hierarquia: a vida vem antes",
+    "Avise o paciente do que será comunicado e a quem",
+    "Contate o responsável na hora",
+    "Retire meios, proteja ambientes",
+    "O paciente precisa estar vivo para ser atendido"
+   ],
+   "corte_inicio": "0:33:13",
+   "corte_fim": "0:35:18"
+  },
+  {
+   "formato": "reels",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Falar em eficácia na terapia é papo de coach?",
+   "mensagem": "Decidir e avaliar o efeito das intervenções é necessário em qualquer abordagem.",
+   "roteiro": [
+    "A desconfiança com a palavra 'eficácia'",
+    "Decidir é inevitável",
+    "Vale para toda abordagem"
+   ],
+   "corte_inicio": "0:57:20",
+   "corte_fim": "0:58:20"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "De onde vêm os modelos que usamos nos grupos?",
+   "mensagem": "Os sete passos nasceram das discussões coletivas da Allos, sistematizadas para a monitoria.",
+   "roteiro": [
+    "Pergunta de uma participante",
+    "Não veio de um artigo",
+    "Veio das discussões em grupo",
+    "Sistematizado para ensinar"
+   ],
+   "corte_inicio": "1:17:45",
+   "corte_fim": "1:18:51"
+  }
+ ],
+ "autores": [],
+ "formato_grupo": {
+  "nome": "Monitoria com Diogo (monitoria temática com caso)",
+  "objetivo": "Acompanhamento de foco individual em que um terapeuta traz um caso e o monitor trabalha, a partir dele, uma habilidade clínica predeterminada (aqui, tomada de decisão). No futuro, pretende focar mais nas dificuldades do terapeuta.",
+  "publico": "Terapeutas e estudantes da Allos; alguns usam a ferramenta de paciente simulado por IA; recém-chegados como ouvintes.",
+  "tamanho": "Uma monitorada e cerca de cinco ouvintes, alguns saindo ao longo do encontro.",
+  "duracao": "Cerca de 1h20.",
+  "estrutura_padrao": "Apresentação do formato → busca de caso (IA, real ou de livro) → mini-teoria do tema → apresentação do caso → diálogo monitor-monitorado com elicitação e nomeação dos passos no chat → integração → feedback do monitorado → feedback dos ouvintes → fechamento.",
+  "papel_facilitador": "Pergunta, elicita, parafraseia e nomeia; usa o chat como quadro; não julga as escolhas do terapeuta; faz ressalvas epistemológicas e colhe feedback.",
+  "regras_combinados": "Foco na conversa entre monitor e monitorado; ouvintes anotam e comentam no fim; câmera e microfone opcionais; o caso pode ser de IA, real ou de livro."
+ },
+ "reflexoes_do_facilitador": [
+  "Teme que o vocabulário de decisão, eficácia e resultado soe como coaching e pede que o grupo avise e sugira outros nomes.",
+  "Diz que tenta usar uma linguagem ampla, sem os termos de nenhuma abordagem.",
+  "Declara que não está ali para questionar se a ordem escolhida pela monitorada foi a melhor.",
+  "Admite com franqueza que os sete passos não estavam sistematizados antes: organizou-os ao planejar o grupo, a partir das discussões coletivas.",
+  "Reconhece, a partir da fala de uma participante, que a ordem dos passos não é fixa, e reforça a metáfora do jardim."
+ ],
+ "referencias_a_outros_encontros": [
+  "Menciona o grupo de prática da noite anterior (dilema entre explorar um tema e acolher o paciente).",
+  "Diz que a monitoria vinha trabalhando atendimentos com a ferramenta de IA e agora se abre a casos gerais.",
+  "Compara as monitorias temáticas ao Aprimoramento Clínico.",
+  "Cita Alan, 'presidente da associação', na máxima sobre a primeira sessão."
+ ],
+ "observacoes": "Caso real trazido pela monitorada; foi anonimizado de propósito (sem idade exata, clube, detalhes das ilegalidades, profissões dos pais ou local). A legenda troca nomes (monitorada como 'Tai', 'Tainal', 'Tásia'). A menção à Constituição como base do dever de preservar a vida foi registrada como dita e deve ser conferida no Código de Ética do Psicólogo e nas orientações do CFP. A monitorada relata atender numa sala de ludoterapia de um serviço público e ter levado o caso à supervisão do serviço duas vezes."
+}

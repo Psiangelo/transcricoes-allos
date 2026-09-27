@@ -1,0 +1,1075 @@
+{
+  "id": "pc-05",
+  "nota": "Prática Clínica 05 - Setting e taxonomia das habilidades clínicas",
+  "pasta": "10 - Fichamentos/Prática Clínica",
+  "titulo": "Setting e taxonomia das habilidades clínicas",
+  "serie": "Prática Clínica",
+  "formato": "Prática clínica",
+  "facilitadores": [
+    "Alan"
+  ],
+  "resumo": "Alan retoma a gradação teoria→prática do 1º encontro e dedica este 4º encontro à 'descrição verbal': propõe uma taxonomia provisória e não canônica das habilidades clínicas (escuta, raciocínio, comunicação e setting) para dar ao grupo vocabulário de feedback. Desenvolve só o setting, com exemplos (tempo de resposta ao paciente, fantasia prévia, aparência, voz e idade, pontualidade, online e câmera, duração e frequência das sessões) e a tese de que há regras gerais com exceções em três níveis: caso, momento e manejo. Ao notar que as perguntas concretas rendiam, metacomunica e transforma o resto do encontro num plantão de dúvidas (silêncio, plantão sem câmera e verdade do paciente, especialização × generalismo). Nas respostas defende que não existem clínicas no plural, que o paciente não precisa querer mudar nem dizer a verdade, e que experiência e formação não se correlacionam com resultado (treino às cegas, cristalização de modelos mentais, teoria como defesa). Fecha dizendo que erro clínico não existe tanto: o que existe é não saber lidar com o que aconteceu.",
+  "em_uma_frase": "Uma taxonomia provisória das habilidades clínicas vira pretexto para desnaturalizar o setting e, num plantão de dúvidas concretas, para defender que o que importa não é o jeito certo de se portar, e sim o que o terapeuta faz com aquilo que aconteceu.",
+  "competencias": [
+    "Relação terapêutica",
+    "Pessoa do terapeuta",
+    "Escuta clínica",
+    "Intervenção",
+    "Direção do tratamento",
+    "Abertura e encerramento de sessão",
+    "Psicodiagnóstico",
+    "Articulação teoria-prática",
+    "Desenvolvimento profissional"
+  ],
+  "abordagens": [
+    "Abordagem centrada na pessoa",
+    "Psicanálise freudiana",
+    "Psicologia analítica junguiana",
+    "Terapias contextuais",
+    "Fenomenologia e existencialismo"
+  ],
+  "estrutura": [
+    {
+      "ts": "0:00:08",
+      "bloco": "Abertura",
+      "descricao": "Encontro mais curto; a série ainda testa formatos",
+      "funcao": "Baixar a expectativa e legitimar a experimentação",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:01:23",
+      "bloco": "Retomada",
+      "descricao": "Linha progressiva teoria→prática do 1º encontro; o que a série já fez (atendimento ao vivo, simulador, visualização); falta a descrição verbal",
+      "funcao": "Situar o encontro na gradação da série",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:04:06",
+      "bloco": "Abertura",
+      "descricao": "Proposta: tornar visíveis as habilidades clínicas relevantes e criar vocabulário de feedback",
+      "funcao": "Justificar a curadoria do dia",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:06:08",
+      "bloco": "Teoria",
+      "descricao": "Disclaimers: taxonomia não canônica, não cristalizar; fontes (experiência, observação, dados da clínica da Allos, literatura baseada em evidências)",
+      "funcao": "Vacinar contra o uso rígido de listas",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:09:25",
+      "bloco": "Teoria",
+      "descricao": "Quatro macrocategorias (escuta, raciocínio, comunicação, setting), com mudança de 3 para 4 ao vivo; por que não 'relação terapêutica'",
+      "funcao": "Dar um mapa neutro entre abordagens",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:12:00",
+      "bloco": "Teoria",
+      "descricao": "O setting começa antes da clínica: tempo de resposta no WhatsApp; fantasia prévia (ser atendido por Freud); sugestão",
+      "funcao": "Mostrar que o periférico pesa no resultado",
+      "duracao_min": 4
+    },
+    {
+      "ts": "0:15:54",
+      "bloco": "Teoria",
+      "descricao": "Credibilidade: regra geral × exceção; roupa, aparência, voz, idade; três níveis (caso, momento, manejo)",
+      "funcao": "Trocar regras fixas por raciocínio",
+      "duracao_min": 6
+    },
+    {
+      "ts": "0:21:59",
+      "bloco": "Teoria",
+      "descricao": "Pontualidade, quebras de setting, online (olhar para a câmera, espaço), sair do pedestal",
+      "funcao": "Ampliar o repertório de variáveis de setting",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:24:19",
+      "bloco": "Teoria",
+      "descricao": "Pesquisa da pandemia: pacientes preferiam câmera desligada, terapeutas cansavam menos",
+      "funcao": "Desnaturalizar um hábito com um dado",
+      "duracao_min": 5
+    },
+    {
+      "ts": "0:29:06",
+      "bloco": "Teoria",
+      "descricao": "Síntese: o problema do setting é a falta de categoria; exame de consciência",
+      "funcao": "Nomear o objetivo: automático × motivo",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:30:20",
+      "bloco": "Teoria",
+      "descricao": "Tempo e frequência: por que 50 minutos e uma vez por semana? A primeira geração atendia todo dia",
+      "funcao": "Mostrar a arbitrariedade de uma convenção",
+      "duracao_min": 3
+    },
+    {
+      "ts": "0:33:05",
+      "bloco": "Dúvidas",
+      "descricao": "Prolongar sessões produtivas? 'Alguém te explicou o porquê da regra?'; problematizar × dar dica; toda pessoa é exceção; diferenciação",
+      "funcao": "Corrigir a leitura prescritiva do conteúdo",
+      "duracao_min": 9
+    },
+    {
+      "ts": "0:41:54",
+      "bloco": "Dúvidas",
+      "descricao": "Dificuldade de sustentar o silêncio: contexto; metáfora da dança; autorrevelação; treino com amigos; 'silêncio é um palavrão'",
+      "funcao": "Primeira rodada de dúvidas concretas",
+      "duracao_min": 10
+    },
+    {
+      "ts": "0:51:53",
+      "bloco": "Dúvidas",
+      "descricao": "Relato de desconforto em plantão online com pacientes de câmera fechada",
+      "funcao": "Trazer uma dificuldade vivida",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:53:06",
+      "bloco": "Combinados",
+      "descricao": "Metacomunicação: fica só no setting e abre meia hora de dúvidas, com consulta ao grupo",
+      "funcao": "Ajustar o plano de forma transparente",
+      "duracao_min": 1
+    },
+    {
+      "ts": "0:54:09",
+      "bloco": "Dúvidas",
+      "descricao": "Perguntas de contexto sobre o plantão (instituição, número de sessões, encaminhamento)",
+      "funcao": "Contextualizar antes de responder",
+      "duracao_min": 2
+    },
+    {
+      "ts": "0:56:17",
+      "bloco": "Discussão",
+      "descricao": "Não existem clínicas no plural; escuta de perto × de longe; plantão da faculdade e a 'dúvida histérica'",
+      "funcao": "Responder pelo geral antes do específico",
+      "duracao_min": 6
+    },
+    {
+      "ts": "1:02:37",
+      "bloco": "Discussão",
+      "descricao": "A verdade do paciente: perguntas em cadeia (propaganda); mudar sem querer; tudo é material clínico; levar o desconforto para análise",
+      "funcao": "Desmontar uma premissa implícita",
+      "duracao_min": 10
+    },
+    {
+      "ts": "1:12:36",
+      "bloco": "Dúvidas",
+      "descricao": "Pergunta: e as especializações (infância, autismo)? A analogia com a medicina",
+      "funcao": "Tensionar a tese",
+      "duracao_min": 3
+    },
+    {
+      "ts": "1:15:51",
+      "bloco": "Teoria",
+      "descricao": "Especialização × generalismo (futebol americano × MMA); doença × sujeito doente; maçãs",
+      "funcao": "Separar a resposta em componentes",
+      "duracao_min": 5
+    },
+    {
+      "ts": "1:20:57",
+      "bloco": "Teoria",
+      "descricao": "Sem correlação entre experiência e resultado; treino às cegas (Hayes?); Yalom e os momentos memoráveis",
+      "funcao": "Trazer dado e argumento",
+      "duracao_min": 4
+    },
+    {
+      "ts": "1:25:05",
+      "bloco": "Teoria",
+      "descricao": "Jung: economia cognitiva e cristalização de modelos; estudo sobre gênero e raça nos EUA",
+      "funcao": "Explicar o mecanismo",
+      "duracao_min": 5
+    },
+    {
+      "ts": "1:30:23",
+      "bloco": "Teoria",
+      "descricao": "Teoria como defesa contra a realidade; reinventar a psicologia a cada caso",
+      "funcao": "Fechar a tríade argumentativa",
+      "duracao_min": 2
+    },
+    {
+      "ts": "1:32:37",
+      "bloco": "Discussão",
+      "descricao": "Participante: a clínica infantil começa com preconceitos; relato de caso de estágio (anonimizado)",
+      "funcao": "Testemunho que confirma e complica a tese",
+      "duracao_min": 4
+    },
+    {
+      "ts": "1:36:31",
+      "bloco": "Discussão",
+      "descricao": "'Em que medida o paciente não é sempre outra pessoa, inclusive para ele mesmo?' (complexo parcial)",
+      "funcao": "Estender a fala da participante",
+      "duracao_min": 1
+    },
+    {
+      "ts": "1:37:26",
+      "bloco": "Fechamento",
+      "descricao": "Síntese do setting (paciente, momento, manejo); o caso relatado como exemplo de manejo; erro clínico × não saber lidar",
+      "funcao": "Amarrar as dúvidas no tema do dia",
+      "duracao_min": 2
+    },
+    {
+      "ts": "1:39:19",
+      "bloco": "Fechamento",
+      "descricao": "Agradecimentos; recomendação do 1º encontro; link de presença; consulta sobre o próximo formato",
+      "funcao": "Encerramento e abertura do próximo",
+      "duracao_min": 2
+    }
+  ],
+  "conceitos": [
+    {
+      "nome": "Macrocategorias de habilidades clínicas",
+      "definicao": "Taxonomia provisória que divide as habilidades clínicas em escuta, raciocínio, comunicação e setting. Os nomes foram escolhidos por serem neutros entre abordagens. Serve para dar vocabulário de feedback, não para ser cristalizada; a relação terapêutica cabe dentro dessas quatro.",
+      "exemplo": "Alan muda de três para quatro categorias ao vivo para mostrar que ela não é canônica.",
+      "abordagem": "",
+      "ts": "0:09:25"
+    },
+    {
+      "nome": "Progressão teórico-prática da formação",
+      "definicao": "Gradação do aprendizado clínico: ouvir teoria, ouvir descrições concretas, visualizar alguém competente, atender e ver o resultado, atender, gravar e receber crítica específica. A série Prática Clínica percorre esses níveis de forma não linear.",
+      "exemplo": "Este encontro ocupa o nível da descrição verbal.",
+      "abordagem": "",
+      "ts": "0:01:23"
+    },
+    {
+      "nome": "Setting",
+      "definicao": "Tudo o que não é o encontro clínico em si, do trivial ao de impacto gigantesco: tempo de resposta ao paciente, fantasia prévia, aparência, pontualidade, canal online, câmera, duração e frequência das sessões. Começa antes da primeira sessão.",
+      "exemplo": "Na clínica da Allos, organizar a resposta rápida no WhatsApp reduziu muito a perda de pacientes.",
+      "abordagem": "",
+      "ts": "0:12:00"
+    },
+    {
+      "nome": "Quebra de setting",
+      "definicao": "Alteração deliberada do enquadre usada como intervenção (atraso proposital, mudança de lugar ou de duração). Funciona melhor quando a relação já está estabelecida e o fenômeno está na realidade compartilhada, e não só na cabeça do terapeuta.",
+      "exemplo": "Chegar atrasado de propósito com um paciente que fantasia que o terapeuta se importa demais com ele.",
+      "abordagem": "",
+      "ts": "0:23:05"
+    },
+    {
+      "nome": "Regra geral e exceção",
+      "definicao": "Há regras gerais (arrumar-se passa credibilidade, voz agradável facilita), mas as exceções aparecem em três níveis: a pessoa, o momento do caso e o manejo do terapeuta, que é o mais relevante. Toda pessoa atendida é uma exceção.",
+      "exemplo": "Camisa de time e short podem fazer todo sentido num caso ou momento específico.",
+      "abordagem": "",
+      "ts": "0:15:54"
+    },
+    {
+      "nome": "Sugestão",
+      "definicao": "Efeito da reputação e da 'embalagem' do terapeuta sobre como o paciente chega e o que espera. Clínicos famosos reconhecem que sua visão da clínica é enviesada pelo tipo de paciente que os procura.",
+      "exemplo": "Ser atendido por Freud, sobre quem 300 pessoas já comentaram.",
+      "abordagem": "",
+      "ts": "0:14:01"
+    },
+    {
+      "nome": "Autorrevelação",
+      "definicao": "Contar ao paciente algo de si, como uma insegurança ou o fato de estar aprendendo uma habilidade, no momento oportuno. É a forma de condução explícita mais coerente com a ACP.",
+      "exemplo": "Dizer ao paciente que sustentar o silêncio é difícil para você e que gostaria de tentar com ele.",
+      "abordagem": "Abordagem centrada na pessoa",
+      "ts": "0:47:07"
+    },
+    {
+      "nome": "Metacomunicação",
+      "definicao": "Falar sobre o próprio processo: com o paciente (o que se está fazendo e por quê) ou com o grupo (mudança de plano do encontro).",
+      "exemplo": "Alan interrompe para 'uma metacomunicação com o grupo' e propõe trocar a exposição por dúvidas concretas.",
+      "abordagem": "",
+      "ts": "0:53:06"
+    },
+    {
+      "nome": "Condução explícita",
+      "definicao": "Conduzir o paciente sabendo ele que está sendo conduzido e para onde. É mais fácil e eficaz que a condução oculta, que é 'mais mágica' e exige muita experiência.",
+      "exemplo": "Metáfora da dança: explicar ao parceiro os passos em vez de conduzi-lo sem aviso.",
+      "abordagem": "",
+      "ts": "0:44:09"
+    },
+    {
+      "nome": "Silêncio clínico",
+      "definicao": "'Silêncio é um palavrão': a palavra encapsula fenômenos diferentes, com implicações clínicas diferentes. Pede uma taxonomia própria.",
+      "exemplo": "Como 'amor', que serve para o ex e para a lasanha.",
+      "abordagem": "",
+      "ts": "0:50:31"
+    },
+    {
+      "nome": "Clínica no singular",
+      "definicao": "Tese de que não existem clínicas especiais (da criança, do autista, de casal, breve, de plantão), só atender direito ou não. As instituições podem ter objetivos e restrições que adequam o 'atender bem'.",
+      "exemplo": "A divisão em nichos faz sentido comercial para quem vende cursos.",
+      "abordagem": "",
+      "ts": "0:56:17"
+    },
+    {
+      "nome": "Escuta de perto e escuta de longe",
+      "definicao": "Escutar de longe é escutar categorialmente, e aí a nomenclatura clínica se aplica. Escutar de perto, com esmero e carinho, faz o caso escapar dos rótulos e surgir algo novo e sem nome. Ambas são opções clínicas.",
+      "exemplo": "De longe há 'problemas matrimoniais'; de perto, isso se mistura com a família e com algo absolutamente da pessoa.",
+      "abordagem": "",
+      "ts": "0:59:13"
+    },
+    {
+      "nome": "Doença e sujeito doente",
+      "definicao": "A medicina trabalha, em regra, no nível da doença; a psicologia pode trabalhar com a doença ou com o sujeito doente, idiossincrático e único. A escolha depende da implicação de quem escuta, não da complexidade do caso.",
+      "exemplo": "De longe todo joelho (e toda maçã) é igual; de perto são absolutamente diferentes.",
+      "abordagem": "",
+      "ts": "1:16:55"
+    },
+    {
+      "nome": "Material clínico",
+      "definicao": "Tudo que o paciente faz ou diz pode ser trabalhado: mentira, relato de terceiros, racionalização, sonho inventado. Basta mudar a lente.",
+      "exemplo": "Se o paciente conta como sua a história de uma amiga, passa a contar uma história sobre a amiga, e continua havendo material.",
+      "abordagem": "",
+      "ts": "1:08:44"
+    },
+    {
+      "nome": "Desejo de mudança do paciente",
+      "definicao": "Questionado como pré-requisito da terapia. O mundo (propaganda, família, pressão econômica) muda as pessoas sem que elas queiram, logo a terapia também pode.",
+      "exemplo": "Propaganda feita por quem não conhece você muda o seu comportamento.",
+      "abordagem": "",
+      "ts": "1:05:33"
+    },
+    {
+      "nome": "Expertise clínica",
+      "definicao": "Aqui, a constatação de que, em média, experiência e formação não se correlacionam positivamente com o sucesso clínico, o que precisa ser explicado.",
+      "exemplo": "Recém-formados não ficam atrás de colegas com 5 ou 10 anos, como ocorre também com professores universitários.",
+      "abordagem": "",
+      "ts": "1:20:57"
+    },
+    {
+      "nome": "Treino às cegas",
+      "definicao": "Explicação para a estagnação dos terapeutas: melhorar exige ver o resultado de cada ação, e o terapeuta não tem forma sistemática de saber se o paciente melhora nem o que causou a melhora.",
+      "exemplo": "Treinar arremessos de basquete vendado; Yalom descobre que os pacientes lembram de momentos aleatórios, não das grandes interpretações.",
+      "abordagem": "Terapias contextuais",
+      "ts": "1:23:06"
+    },
+    {
+      "nome": "Cristalização de modelos mentais",
+      "definicao": "Por economia de energia, o cérebro troca a realidade complexa por modelos simplificados. Na clínica, experiência vira preconceito e o terapeuta deixa de escutar. Só se combate com atenção consciente.",
+      "exemplo": "O casal que tem a mesma briga há 30 anos e já não se ouve.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:26:04"
+    },
+    {
+      "nome": "Teoria como defesa",
+      "definicao": "Buscar teoria e rótulos para se proteger da realidade difícil do caso (e do inconsciente), em vez de compreendê-lo. Alternativa: aprender a formular teoria para cada caso.",
+      "exemplo": "O iniciante perdido diante de uma criança que não fala corre atrás de curso e troca a criança por um diagnóstico.",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "1:30:23"
+    },
+    {
+      "nome": "Complexo parcial",
+      "definicao": "Parte autônoma da psique (termo junguiano) que pode ser quem fala no paciente. Por isso o paciente é sempre, em alguma medida, 'outra pessoa', inclusive para si mesmo.",
+      "exemplo": "Na clínica infantil 'quem traz é sempre outra pessoa' (os pais), mas isso vale para qualquer paciente.",
+      "abordagem": "Psicologia analítica junguiana",
+      "ts": "1:36:31"
+    },
+    {
+      "nome": "Manejo do erro clínico",
+      "definicao": "O erro importa menos que o que se constrói depois. 'Erro clínico não existe tanto; o que existe é não saber lidar com o que aconteceu.'",
+      "exemplo": "Uma intervenção espontânea de uma participante num estágio ganhou sentido clínico pelo que ela construiu em seguida.",
+      "abordagem": "",
+      "ts": "1:39:19"
+    },
+    {
+      "nome": "Plantão psicológico",
+      "definicao": "Atendimento pontual ou breve com encaminhamentos. Para Alan, não tem uma regra própria além de atender bem dentro do objetivo da instituição, e os plantões são mais diferentes que semelhantes entre si.",
+      "exemplo": "Na faculdade de Alan, todo plantão desembocava em atendimento clínico.",
+      "abordagem": "",
+      "ts": "1:01:32"
+    },
+    {
+      "nome": "Dúvida histérica",
+      "definicao": "Em vocabulário psicanalítico, levar o paciente a se questionar e a formular uma demanda de terapia. Era o objetivo do plantão proposto por uma professora psicanalista na faculdade de Alan.",
+      "exemplo": "",
+      "abordagem": "Psicanálise freudiana",
+      "ts": "1:01:32"
+    },
+    {
+      "nome": "Especialização e generalismo",
+      "definicao": "Há campos em que especializar é prioritário (futebol americano, funções numa empresa) e campos em que é veneno (MMA). A psicoterapia se parece mais com o MMA.",
+      "exemplo": "Nos EUA, terapeutas especializados em gênero e raça tiveram desempenho pior com esses pacientes que os generalistas.",
+      "abordagem": "",
+      "ts": "1:15:51"
+    }
+  ],
+  "dinamicas": [
+    {
+      "nome": "Dinâmica - Dúvidas concretas",
+      "objetivo": "Partir de dificuldades reais dos participantes para desenvolver raciocínio clínico e extrair lições gerais para o grupo.",
+      "competencias": [
+        "Articulação teoria-prática",
+        "Pessoa do terapeuta",
+        "Direção do tratamento",
+        "Desenvolvimento profissional"
+      ],
+      "configuracao": "Grupo todo, online; os participantes levantam a mão e falam ao microfone, os demais acompanham pelo chat. Três participantes trouxeram dúvidas.",
+      "tempo": "Cerca de 30 min previstos; na prática, cerca de 55 min.",
+      "materiais": "Nenhum (sala de videoconferência com chat).",
+      "consigna": "Gostei dessa interação de dúvidas concretas. Podemos fazer isso durante meia hora? Vi que tinha mais gente com a mão levantada.",
+      "passos": [
+        "O participante traz a dúvida ou o incômodo nos próprios termos.",
+        "O facilitador pergunta o contexto: abordagem, se atende, quantos pacientes, regras da instituição.",
+        "Escolhe o registro (teórico ou direto) e declara que vai responder a pessoa e tornar a dúvida útil para todos.",
+        "Responde primeiro o geral (tese, regra geral, metáfora) e depois o caso específico, muitas vezes por perguntas em cadeia.",
+        "Dá uma saída prática concreta.",
+        "Aponta a direção do que não cabe no grupo (análise, intervisão, taxonomia pessoal).",
+        "Checa com o participante e passa ao próximo."
+      ],
+      "feedback": "Retifica leituras prescritivas ('eu não disse isso', 'não é uma dica') sem desqualificar; reconhece quando o participante antecipa o argumento; pede para ser corrigido se faltar algo.",
+      "exemplos_praticos": "Uma pergunta sobre prolongar sessões produtivas virou a discussão problematizar × dar dica; a dificuldade com o silêncio virou a metáfora da dança, a autorrevelação e o treino com amigos; o desconforto com pacientes de câmera fechada num plantão virou a tese das clínicas no plural e a de que a verdade do paciente não é necessária; uma pergunta sobre especializações virou a tríade argumentativa sobre experiência e generalismo; o relato de um caso de estágio (intervenção espontânea que abriu o vínculo com uma criança) virou o exemplo de fechamento sobre manejo.",
+      "variacoes": "Limitar cada dúvida a cerca de 10 minutos; recolher dúvidas por escrito no chat e agrupá-las por categoria (escuta, raciocínio, comunicação, setting).",
+      "armadilhas": "As respostas crescem e tomam o encontro (a taxonomia planejada ficou para depois); o participante pode ouvir a resposta como receita; casos trazidos podem conter detalhes identificáveis numa gravação.",
+      "nivel": "intermediário",
+      "funciona_online": true,
+      "ts": "0:41:54"
+    },
+    {
+      "nome": "Dinâmica - Treino fora da clínica",
+      "objetivo": "Treinar uma habilidade clínica específica (aqui, sustentar o silêncio) em situações de baixo risco antes de levá-la ao paciente.",
+      "competencias": [
+        "Desenvolvimento profissional",
+        "Pessoa do terapeuta",
+        "Escuta clínica"
+      ],
+      "configuracao": "Individual, no cotidiano (tarefa proposta, não realizada no encontro).",
+      "tempo": "Contínuo.",
+      "materiais": "Nenhum.",
+      "consigna": "Toda habilidade clínica que você for trabalhar, usa amigo de cobaia. Tenta trabalhar o silêncio quando está conversando com as pessoas; se ficar sem graça, ri e diz que está treinando para a clínica.",
+      "passos": [
+        "Escolher uma habilidade (ex.: silêncio).",
+        "Praticá-la em conversas cotidianas.",
+        "Se houver desconforto, explicitar ao interlocutor que é treino.",
+        "Montar uma taxonomia pessoal dos tipos de silêncio e das implicações de cada um.",
+        "Na clínica, com a relação estabelecida, contar ao paciente que está treinando aquilo e por quê (autorrevelação, se coerente com a abordagem)."
+      ],
+      "feedback": "Sem feedback no encontro; critério implícito: conseguir fazer (não só saber) e distinguir tipos de silêncio.",
+      "exemplos_praticos": "A participante disse que nunca tinha pensado nisso e que vai aderir.",
+      "variacoes": "Serve para qualquer habilidade de escutar, falar e pensar ('ser um bom namorado e ser um bom analista não é tão diferente').",
+      "armadilhas": "Tratar 'silêncio' como fenômeno único; levar à clínica algo ainda não treinado sem avisar o paciente.",
+      "nivel": "iniciante",
+      "funciona_online": true,
+      "ts": "0:48:40"
+    }
+  ],
+  "movimentos_facilitacao": [
+    {
+      "movimento": "Anunciar formato em teste",
+      "descricao": "Declara que ainda não tem direção fechada e que vai testar formatos para ver qual o grupo prefere, o que legitima mudar de rota.",
+      "exemplo": "'Estou testando diferentes direções para depois ver qual formato vocês acham mais interessante.'",
+      "ts": "0:00:13"
+    },
+    {
+      "movimento": "Retomar o mapa da série",
+      "descricao": "Recapitula a gradação teoria→prática e mostra o que já foi feito e o que faltava, justificando a curadoria do dia.",
+      "exemplo": "'Teve uma parte que eu não trabalhei, que é a descrição verbal.'",
+      "ts": "0:01:23"
+    },
+    {
+      "movimento": "Disclaimers negativos",
+      "descricao": "Antes do conteúdo, diz o que o encontro não é, para não passar uma impressão errada.",
+      "exemplo": "'Essa taxonomia não é canônica; não quero que vocês cristalizem o atendimento nessas categorias.'",
+      "ts": "0:06:08"
+    },
+    {
+      "movimento": "Desautorizar a própria taxonomia ao vivo",
+      "descricao": "Muda de ideia no meio da frase e usa isso como prova de que as categorias são fluidas; pede com humor que não anotem.",
+      "exemplo": "'Quatro. Acabei de mudar de ideia. Olha só como as coisas não são canônicas.'",
+      "ts": "0:09:52"
+    },
+    {
+      "movimento": "Encenar a objeção",
+      "descricao": "Formula a pergunta que um aluno faria e a responde.",
+      "exemplo": "'Alan, mas por que você não falou de relação terapêutica?'",
+      "ts": "0:11:03"
+    },
+    {
+      "movimento": "Exemplos caricatos, visuais e institucionais",
+      "descricao": "Ancora a abstração em imagens memoráveis e em dados da clínica da Allos.",
+      "exemplo": "Ser atendido por Freud, a camisa de time, a dança, a propaganda, as maçãs, o basquete vendado.",
+      "ts": "0:14:01"
+    },
+    {
+      "movimento": "Pergunta socrática que devolve a regra",
+      "descricao": "Em vez de dizer se a regra está certa, pergunta pela justificativa e devolve a responsabilidade.",
+      "exemplo": "'Alguém te explicou o porquê dessa regra?' 'Não.' 'Então você vai seguir por quê?'",
+      "ts": "0:33:05"
+    },
+    {
+      "movimento": "Retificar sem expor",
+      "descricao": "Corrige a leitura prescritiva do participante, explica por que evita dar dicas e convida o grupo a confrontá-lo se algo soar como dica.",
+      "exemplo": "'Deixa eu só retificar, porque eu não disse isso. Eu não estou dando dica.'",
+      "ts": "0:34:18"
+    },
+    {
+      "movimento": "Perguntar o contexto antes de responder",
+      "descricao": "Coleta abordagem, situação de atendimento e regras institucionais antes de opinar.",
+      "exemplo": "'Você tem abordagem de preferência? Tem oportunidade de atender? Quantos pacientes?'",
+      "ts": "0:43:02"
+    },
+    {
+      "movimento": "Explicitar a estratégia de resposta",
+      "descricao": "Diz que vai responder a pessoa e, ao mesmo tempo, transformar a dúvida em algo útil para todos; escolhe o registro em voz alta.",
+      "exemplo": "'Respondo mais teoricamente ou direto e concreto? Deixa eu ser direto.'",
+      "ts": "0:43:02"
+    },
+    {
+      "movimento": "Responder até um ponto e apontar a direção",
+      "descricao": "Declara o que não vai desenvolver por limite de tempo ou do formato de grupo e deixa uma direção de estudo ou reflexão.",
+      "exemplo": "'Essa é a parte da resposta que já não cabe na estrutura de grupo, mas a direção dela é...'",
+      "ts": "1:09:54"
+    },
+    {
+      "movimento": "Metacomunicar e mudar o plano com consentimento",
+      "descricao": "Interrompe o roteiro, propõe outro formato e consulta o grupo antes de seguir.",
+      "exemplo": "'Primeiro uma metacomunicação com o grupo... Alguém é contra? Fecha o parêntese da metacomunicação.'",
+      "ts": "0:53:06"
+    },
+    {
+      "movimento": "Perguntas em cadeia",
+      "descricao": "Leva a participante a construir o argumento com perguntas sucessivas e reconhece quando ela antecipa a conclusão.",
+      "exemplo": "Verdade → 'você acredita em propaganda?' → 'e os outros acreditam?'",
+      "ts": "1:03:28"
+    },
+    {
+      "movimento": "Estruturar a resposta em componentes",
+      "descricao": "Divide respostas longas em partes numeradas, admite onde ficou em cima do muro e pede para ser corrigido.",
+      "exemplo": "'Deixa eu separar a resposta em componentes... se faltar alguma coisa, você puxa minha orelha.'",
+      "ts": "1:15:51"
+    },
+    {
+      "movimento": "Esgaçar a fala do participante e usá-la no fechamento",
+      "descricao": "Generaliza uma frase do participante e usa o relato dele para amarrar o tema do dia.",
+      "exemplo": "'Quem traz é sempre outra pessoa' vira 'em que medida o paciente não é sempre outra pessoa, inclusive para ele mesmo?'",
+      "ts": "1:36:31"
+    },
+    {
+      "movimento": "Administrar o tempo às claras e consultar sobre o próximo encontro",
+      "descricao": "Anuncia quando se delonga, avisa do compromisso, encerra mais cedo e pergunta ao grupo que formato prefere.",
+      "exemplo": "'Vocês têm uma posição? Não gostaram desse formato? Se ninguém tiver, eu decido e comunico.'",
+      "ts": "1:40:27"
+    }
+  ],
+  "dicas_clinicas": [
+    {
+      "dica": "Responda rápido a quem procura atendimento; organize-se ou delegue a uma pessoa ou a uma máquina.",
+      "justificativa": "Na clínica da Allos, a demora fazia perder muitos pacientes, com impacto maior que as diferenças de competência.",
+      "contexto": "Primeiro contato e agendamento.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:12:58"
+    },
+    {
+      "dica": "Leve em conta a fantasia prévia com que o paciente chega a você.",
+      "justificativa": "Reputação e 'embalagem' funcionam como sugestão.",
+      "contexto": "Primeiras sessões.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:14:01"
+    },
+    {
+      "dica": "Não finja que suas características fixas (idade, aparência, voz) não existem; trabalhe-as na relação quando fizer sentido.",
+      "justificativa": "Provavelmente passam pela cabeça do paciente; não trabalhar tende a ser uma resposta ruim.",
+      "contexto": "Diferenças marcadas, como terapeuta muito mais novo que o paciente.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:19:49"
+    },
+    {
+      "dica": "Antes de trazer à sessão algo sobre você, verifique se aquilo está na realidade compartilhada.",
+      "justificativa": "Se era só insegurança sua, a intervenção fica esquisita e não anda.",
+      "contexto": "Autorrevelações e quebras de setting.",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "0:20:55"
+    },
+    {
+      "dica": "Reserve as quebras de setting para quando a relação já estiver estabelecida.",
+      "justificativa": "Quando dão errado, criam um 'climão' e podem prejudicar a relação.",
+      "contexto": "Fases mais avançadas do tratamento.",
+      "competencia": "Intervenção",
+      "ts": "0:23:05"
+    },
+    {
+      "dica": "No online, lembre que olhar para a câmera é olhar no olho; use isso de propósito.",
+      "justificativa": "Olhar para o rosto na tela não produz contato ocular; quebrar o próprio padrão pode ser significativo.",
+      "contexto": "Atendimento por vídeo.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:23:05"
+    },
+    {
+      "dica": "Para sair do pedestal em que o paciente o coloca, desarrume-se um pouco ou admita uma falha clínica.",
+      "justificativa": "Mostra que o terapeuta também é humano.",
+      "contexto": "Idealização excessiva do terapeuta.",
+      "competencia": "Relação terapêutica",
+      "ts": "0:24:19"
+    },
+    {
+      "dica": "Considere atender com a câmera desligada ou por ligação.",
+      "justificativa": "Na pesquisa feita durante a pandemia, os pacientes preferiram e os terapeutas se cansaram menos; quase ninguém reflete sobre isso.",
+      "contexto": "Avaliar caso a caso; dado datado.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:28:07"
+    },
+    {
+      "dica": "Saiba justificar a duração e a frequência das suas sessões; não siga a regra dos 50 minutos só porque alguém disse.",
+      "justificativa": "São convenções econômico-financeiras naturalizadas; sabendo o porquê, o tempo vira ferramenta.",
+      "contexto": "Montagem da clínica e intervenções de setting.",
+      "competencia": "Abertura e encerramento de sessão",
+      "ts": "0:33:05"
+    },
+    {
+      "dica": "Só altere o tempo da sessão quando a mudança estiver amarrada a um sentido clínico.",
+      "justificativa": "Encurtar por falta de tempo não produz efeito clínico; mandar embora cedo sem sentido pode prejudicar a relação.",
+      "contexto": "Sessões em que 'nada acontece' ou momentos de crise.",
+      "competencia": "Abertura e encerramento de sessão",
+      "ts": "0:37:51"
+    },
+    {
+      "dica": "Diferencie sua clínica do que os amigos do paciente oferecem.",
+      "justificativa": "Se funcionasse, bastaria ele ter amigos; diferenciação faz bem.",
+      "contexto": "Sempre.",
+      "competencia": "Direção do tratamento",
+      "ts": "0:38:59"
+    },
+    {
+      "dica": "Para aprender algo novo com o paciente, conte a ele o que você está fazendo.",
+      "justificativa": "É muito mais fácil conduzir quem sabe que está sendo conduzido; entender o processo aumenta o engajamento.",
+      "contexto": "Relação já desenhada; na ACP, como autorrevelação.",
+      "competencia": "Intervenção",
+      "ts": "0:46:04"
+    },
+    {
+      "dica": "Treine habilidades com amigos antes de levá-las à clínica.",
+      "justificativa": "O custo de errar é baixo, e basta explicar que está treinando.",
+      "contexto": "Sobretudo com poucos pacientes.",
+      "competencia": "Desenvolvimento profissional",
+      "ts": "0:48:40"
+    },
+    {
+      "dica": "Monte a sua própria taxonomia do silêncio.",
+      "justificativa": "'Silêncio' encapsula fenômenos com implicações clínicas diferentes.",
+      "contexto": "Ao estudar uma técnica que parece única.",
+      "competencia": "Escuta clínica",
+      "ts": "0:50:31"
+    },
+    {
+      "dica": "Em plantões e outros enquadres, pense em 'atender direito', trate cada caso como único e adeque-se à proposta da instituição.",
+      "justificativa": "Plantões são mais diferentes que semelhantes; a instituição define o objetivo.",
+      "contexto": "Estágios, plantões, empresas, igrejas.",
+      "competencia": "Direção do tratamento",
+      "ts": "1:00:22"
+    },
+    {
+      "dica": "Não exija que o paciente diga a verdade: mude a lente.",
+      "justificativa": "Se ele conta a história de outra pessoa, você ainda tem material e pode perguntar por que ele traz aquilo.",
+      "contexto": "Suspeita de mentira ou de relato de terceiros.",
+      "competencia": "Escuta clínica",
+      "ts": "1:07:46"
+    },
+    {
+      "dica": "Trate a racionalização como fantasia.",
+      "justificativa": "Tudo que o paciente faz é material clínico.",
+      "contexto": "Paciente que 'só racionaliza'.",
+      "competencia": "Intervenção",
+      "ts": "1:08:44"
+    },
+    {
+      "dica": "Se o paciente não traz sonhos, peça que invente um.",
+      "justificativa": "A fantasia acordada não é menos real que a produzida dormindo.",
+      "contexto": "Abordagens que trabalham com sonhos.",
+      "competencia": "Intervenção",
+      "ts": "1:08:44"
+    },
+    {
+      "dica": "Quando você sabe que teoricamente não precisa de algo mas sente desconforto sem isso, leve a pergunta 'por que esse desconforto aparece?' para análise ou intervisão.",
+      "justificativa": "Saber e conseguir são diferentes, e a diferença está na pessoa do terapeuta.",
+      "contexto": "Incômodos persistentes (silêncio, câmera fechada).",
+      "competencia": "Pessoa do terapeuta",
+      "ts": "1:10:53"
+    },
+    {
+      "dica": "Diante de um paciente que mente, escolha no caso entre a aceitação radical da mentira e o confronto com a realidade.",
+      "justificativa": "Os dois caminhos podem produzir efeitos clínicos, e não há resposta óbvia.",
+      "contexto": "Suspeita de relato falso.",
+      "competencia": "Direção do tratamento",
+      "ts": "1:12:06"
+    },
+    {
+      "dica": "Lute conscientemente contra seus modelos prontos e escute cada paciente como se não conhecesse o quadro.",
+      "justificativa": "O cérebro economiza energia trocando a realidade por modelos, e a experiência vira preconceito.",
+      "contexto": "Áreas em que você se considera experiente.",
+      "competencia": "Escuta clínica",
+      "ts": "1:28:08"
+    },
+    {
+      "dica": "Escute a fala dos pais sobre a criança, e a do próprio paciente sobre si, como 'outra pessoa' falando.",
+      "justificativa": "Muitas vezes quem fala é o sintoma ou um complexo parcial; basta mudar o ângulo.",
+      "contexto": "Clínica infantil e qualquer relato.",
+      "competencia": "Escuta clínica",
+      "ts": "1:36:31"
+    },
+    {
+      "dica": "Quando algo inesperado ou espontâneo acontece, invista no que você constrói depois.",
+      "justificativa": "O sentido clínico vem do manejo, não da intenção prévia.",
+      "contexto": "Intervenções impulsivas, erros, perdas de paciência.",
+      "competencia": "Intervenção",
+      "ts": "1:38:18"
+    }
+  ],
+  "posicionamentos": [
+    {
+      "tese": "Taxonomias de habilidades clínicas devem ser fluidas, nunca canônicas.",
+      "argumento": "Cristalizar categorias faz olhar para os subcomponentes e perder de vista atender bem a pessoa.",
+      "contraponto": "Grades de avaliação com subcritérios; por isso o simulador da Allos só dá nota geral.",
+      "implicacao": "Usar categorias como lentes de reflexão e feedback, não como checklist.",
+      "quem": "Alan",
+      "ts": "0:06:08"
+    },
+    {
+      "tese": "Fatores de setting aparentemente banais pesam tanto quanto (ou mais que) a competência clínica.",
+      "argumento": "Na clínica da Allos, responder rápido reduziu muito a perda de pacientes, com impacto maior que a diferença entre o mais e o menos competente.",
+      "contraponto": "A ideia de que o resultado depende só da técnica em sessão.",
+      "implicacao": "Cuidar de agendamento, resposta, pontualidade e canal como parte da clínica.",
+      "quem": "Alan",
+      "ts": "0:14:01"
+    },
+    {
+      "tese": "Não existe jeito certo de passar credibilidade ou de se portar; há regras gerais e exceções em três níveis (pessoa, momento, manejo), e o manejo é o mais importante.",
+      "argumento": "Exemplos de roupa, aparência, voz, idade e pontualidade; a paciente que desistiu por achar o terapeuta bonito demais.",
+      "contraponto": "Manuais de postura e aparência do terapeuta.",
+      "implicacao": "Perguntar o que fazer com o que se é e com o que aconteceu.",
+      "quem": "Alan",
+      "ts": "0:15:54"
+    },
+    {
+      "tese": "Sessões de 50 minutos uma vez por semana são uma convenção econômico-financeira, não clínica.",
+      "argumento": "Quase ninguém sabe justificá-la; a primeira geração (Freud, Jung) atendia todo dia; é improvável que toda a multiplicidade humana se resolva nesse formato.",
+      "contraponto": "A regra passada sem justificativa aos iniciantes.",
+      "implicacao": "O tempo pode virar ferramenta, pontual ou como regra da clínica.",
+      "quem": "Alan",
+      "ts": "0:36:46"
+    },
+    {
+      "tese": "Dica clínica para quem não entende a problemática epistemológica da psicologia é mais veneno do que ajuda.",
+      "argumento": "Sem base epistêmica a dica vira regra, e a clínica é feita de exceções: toda pessoa atendida é uma exceção.",
+      "contraponto": "O ensino por dicas e receitas.",
+      "implicacao": "Na Allos, dicas e posições fortes vêm depois do módulo de epistemologia.",
+      "quem": "Alan",
+      "ts": "0:34:43"
+    },
+    {
+      "tese": "Todas as posições teóricas da psicologia são profundamente unilaterais.",
+      "argumento": "É difícil crer que todos os problemas humanos sejam edípicos ou que todos apenas pensem errado.",
+      "contraponto": "Psicanálise e TCC tomadas como explicação universal.",
+      "implicacao": "Buscar diferenciação e desconfiar de regras únicas.",
+      "quem": "Alan",
+      "ts": "0:40:03"
+    },
+    {
+      "tese": "Não existem clínicas no plural (da criança, do autista, de casal, breve, de plantão), só atender direito ou não.",
+      "argumento": "A divisão é comercial (nichos de curso); 'clínica da criança' supõe que as crianças são mais similares que diferentes; escutadas com esmero, as categorias se dissolvem.",
+      "contraponto": "Modelo médico de especialidades e mercado de especializações; ressalva: instituições têm objetivos legítimos; Alan admite não ter tempo para sustentar a tese a contento.",
+      "implicacao": "Estudar para escutar melhor cada caso, não para se certificar num nicho.",
+      "quem": "Alan",
+      "ts": "0:56:17"
+    },
+    {
+      "tese": "O paciente não precisa querer mudar nem dizer a verdade para a terapia funcionar.",
+      "argumento": "Propaganda, família e pressão econômica mudam as pessoas sem que elas queiram e sem conhecer a verdade delas.",
+      "contraponto": "A crença, ensinada na faculdade, de que o paciente precisa querer mudar; talvez certos jeitos de fazer terapia precisem disso.",
+      "implicacao": "Trabalhar mentira, relato de terceiros e racionalização como material clínico.",
+      "quem": "Alan",
+      "ts": "1:05:33"
+    },
+    {
+      "tese": "A psicologia pode trabalhar com a doença ou com o sujeito doente, e a escolha depende da implicação de quem escuta, não da complexidade do caso.",
+      "argumento": "A medicina trabalha no nível da doença (de longe, todo joelho é igual); na psicologia, a escuta com esmero transforma o problema genérico num sujeito idiossincrático.",
+      "contraponto": "A analogia com a medicina usada para defender especialidades; a ideia de casos 'de livro' × 'complexos'.",
+      "implicacao": "Decidir conscientemente de que distância escutar.",
+      "quem": "Alan",
+      "ts": "1:16:55"
+    },
+    {
+      "tese": "Na psicoterapia, especialização é mais veneno que solução, e experiência e formação não garantem melhora.",
+      "argumento": "Ausência de correlação entre experiência ou formação e resultado; estudo americano sobre terapias de gênero e raça; explicações: treino às cegas (Hayes?) e cristalização de modelos (Jung).",
+      "contraponto": "Pós-graduações e anos de prática como garantia; Alan admite possíveis vieses do estudo e da psicoterapia americana.",
+      "implicacao": "Buscar feedback sobre resultados e combater ativamente os modelos prontos.",
+      "quem": "Alan",
+      "ts": "1:20:57"
+    },
+    {
+      "tese": "Conhecimento clínico acumulado é indiferenciável da cristalização de preconceitos.",
+      "argumento": "Economia cognitiva do cérebro; o casal que repete a mesma briga há 30 anos.",
+      "contraponto": "A experiência como garantia de boa escuta.",
+      "implicacao": "A experiência só ajuda com atenção consciente para continuar escutando.",
+      "quem": "Alan",
+      "ts": "1:27:09"
+    },
+    {
+      "tese": "Buscamos teoria para nos defender da realidade (e do inconsciente), não para compreender o caso.",
+      "argumento": "O iniciante diante de um caso difícil corre atrás de curso e rótulo que o apaziguam; tema 'clássico' da primeira geração de psicanalistas.",
+      "contraponto": "O estudo de teóricos como fim.",
+      "implicacao": "Aprender psicologia deveria ser aprender a formular teoria para cada caso.",
+      "quem": "Alan",
+      "ts": "1:30:23"
+    },
+    {
+      "tese": "Explicar ao paciente o processo clínico aumenta o engajamento.",
+      "argumento": "A clínica não é truque de mágica nem fábrica de salsicha; estudantes de psicologia, que sabem como funciona, estão entre os que mais gostam de terapia.",
+      "contraponto": "A condução oculta, possível mas mais difícil e 'mais mágica'.",
+      "implicacao": "Metacomunicar intenções e treinos ao paciente.",
+      "quem": "Alan",
+      "ts": "0:47:44"
+    },
+    {
+      "tese": "Erro clínico não existe tanto; o que existe é não saber lidar com o que aconteceu.",
+      "argumento": "A intervenção espontânea relatada por uma participante ganhou sentido clínico pelo que ela construiu depois.",
+      "contraponto": "A busca ansiosa pelo acerto prévio.",
+      "implicacao": "Deslocar o foco do acerto para o manejo posterior.",
+      "quem": "Alan",
+      "ts": "1:39:19"
+    }
+  ],
+  "citacoes": [
+    {
+      "texto": "Se vocês me perguntarem semana que vem quais são as categorias clinicamente relevantes, eu possivelmente vou descrever outros nomes.",
+      "tema": "taxonomia não canônica",
+      "ts": "0:06:08"
+    },
+    {
+      "texto": "O setting começa antes da sua clínica começar.",
+      "tema": "setting",
+      "ts": "0:12:00"
+    },
+    {
+      "texto": "Não existe um jeito certo de passar credibilidade; existe o jeito certo para aquele paciente específico.",
+      "tema": "regra geral e exceção",
+      "ts": "0:15:54"
+    },
+    {
+      "texto": "Alguém te explicou o porquê dessa regra? Então você vai seguir por quê?",
+      "tema": "duração da sessão",
+      "ts": "0:33:05"
+    },
+    {
+      "texto": "Dica para quem não entende direito as problemáticas epistêmicas da psicologia é mais veneno do que ajuda.",
+      "tema": "epistemologia e formação",
+      "ts": "0:34:43"
+    },
+    {
+      "texto": "Você nunca vai pegar o paciente médio de psicologia. Toda pessoa que você atende é uma exceção, à sua própria maneira.",
+      "tema": "singularidade",
+      "ts": "0:35:49"
+    },
+    {
+      "texto": "Você não quer que a sua clínica seja parecida com o que os amigos do seu paciente falam com ele, porque, se funcionasse, bastaria ele ter amigos.",
+      "tema": "diferenciação",
+      "ts": "0:38:59"
+    },
+    {
+      "texto": "É muito mais fácil conduzir alguém quando a pessoa sabe que está sendo conduzida e quer ser conduzida nessa direção.",
+      "tema": "condução explícita",
+      "ts": "0:46:04"
+    },
+    {
+      "texto": "Silêncio é um palavrão: uma palavra que encapsula fenômenos demais.",
+      "tema": "silêncio",
+      "ts": "0:50:31"
+    },
+    {
+      "texto": "Só existem duas coisas: atender direito ou não atender direito.",
+      "tema": "clínica no singular",
+      "ts": "0:56:17"
+    },
+    {
+      "texto": "Quanto mais carinho você põe na escuta, menos palavras genéricas dão conta da especificidade do problema daquela pessoa.",
+      "tema": "escuta",
+      "ts": "0:59:13"
+    },
+    {
+      "texto": "Tudo que a pessoa fizer é material clínico.",
+      "tema": "material clínico",
+      "ts": "1:08:44"
+    },
+    {
+      "texto": "Não dá para melhorar cego.",
+      "tema": "expertise e feedback",
+      "ts": "1:23:06"
+    },
+    {
+      "texto": "A gente busca teoria para se defender da realidade.",
+      "tema": "teoria como defesa",
+      "ts": "1:30:23"
+    },
+    {
+      "texto": "Em que medida o paciente não é sempre outra pessoa, inclusive para ele mesmo?",
+      "tema": "escuta",
+      "ts": "1:36:31"
+    },
+    {
+      "texto": "Erro clínico não existe tanto. O que existe é não saber lidar com o que aconteceu.",
+      "tema": "manejo",
+      "ts": "1:39:19"
+    }
+  ],
+  "ideias_conteudo": [
+    {
+      "formato": "carrossel",
+      "pilar": "clinica-na-pratica",
+      "gancho": "O seu setting começa antes da primeira sessão.",
+      "mensagem": "Tempo de resposta, fantasia prévia, câmera, pontualidade e duração não são detalhes: são clínica.",
+      "roteiro": [
+        "Capa: seu setting começa antes da primeira sessão",
+        "Responder rápido pesa mais do que parece",
+        "A fantasia com que o paciente chega",
+        "Aparência, voz e idade: regra geral × exceção",
+        "Câmera, pontualidade, duração: automático ou motivo?",
+        "Pergunta final: o que você faz no automático?"
+      ],
+      "corte_inicio": "0:12:00",
+      "corte_fim": "0:15:54"
+    },
+    {
+      "formato": "reels",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Por que a sua sessão dura 50 minutos?",
+      "mensagem": "Se você não sabe justificar, está seguindo uma convenção econômica, não clínica; o tempo pode ser ferramenta.",
+      "roteiro": [
+        "Pergunta direta à câmera",
+        "Freud e Jung atendiam todo dia",
+        "Prolongar ou encurtar só com sentido clínico",
+        "Fecho: saiba o porquê"
+      ],
+      "corte_inicio": "0:30:20",
+      "corte_fim": "0:31:46"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Câmera ligada ou desligada? O que os pacientes preferiram na pandemia.",
+      "mensagem": "Na pesquisa, os pacientes preferiram a câmera desligada e os terapeutas se cansaram menos; o dado é datado, mas a pergunta merece ser feita.",
+      "roteiro": [
+        "Capa com a pergunta",
+        "O pressuposto: ver o corpo é essencial",
+        "O dado da pesquisa",
+        "Ressalvas do contexto",
+        "Hipóteses para os dois lados",
+        "Considere, não automatize"
+      ],
+      "corte_inicio": "0:24:19",
+      "corte_fim": "0:29:06"
+    },
+    {
+      "formato": "carrossel",
+      "pilar": "ciencia-e-mitos",
+      "gancho": "Mais anos de clínica = terapeuta melhor? Em média, não.",
+      "mensagem": "Experiência e formação não se correlacionam com resultado; explicações: treino às cegas e cristalização de modelos mentais. Dá para escapar com feedback e atenção consciente.",
+      "roteiro": [
+        "Capa com o mito",
+        "O dado",
+        "Explicação 1: treinar vendado (basquete)",
+        "Yalom e os momentos memoráveis",
+        "Explicação 2: economia cognitiva e preconceito",
+        "Explicação 3: teoria como defesa",
+        "Como escapar"
+      ],
+      "corte_inicio": "1:20:57",
+      "corte_fim": "1:28:08"
+    },
+    {
+      "formato": "reels",
+      "pilar": "formacao-do-psicologo",
+      "gancho": "Não consegue sustentar o silêncio? Treine com seus amigos.",
+      "mensagem": "É mais fácil conduzir quem sabe que está sendo conduzido (metáfora da dança); treine fora da clínica e conte ao paciente o que você está fazendo.",
+      "roteiro": [
+        "A dificuldade",
+        "A metáfora da dança",
+        "Conte ao paciente",
+        "Use amigos de cobaia"
+      ],
+      "corte_inicio": "0:44:09",
+      "corte_fim": "0:46:04"
+    },
+    {
+      "formato": "post",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Não existe clínica da criança. Existe atender direito.",
+      "mensagem": "A divisão da clínica em nichos é comercial; escutada de perto, cada pessoa escapa às categorias.",
+      "roteiro": [
+        "Frase de impacto",
+        "Argumento comercial × técnico",
+        "Escuta de perto × de longe"
+      ],
+      "corte_inicio": "0:56:17",
+      "corte_fim": "0:59:13"
+    },
+    {
+      "formato": "reels",
+      "pilar": "clinica-na-pratica",
+      "gancho": "Seu paciente só racionaliza? Trate a racionalização como fantasia.",
+      "mensagem": "Tudo que o paciente faz é material clínico; se ele não traz sonhos, peça que invente um.",
+      "roteiro": [
+        "A queixa comum do terapeuta",
+        "Mudar a lente",
+        "O sonho inventado"
+      ],
+      "corte_inicio": "1:08:44",
+      "corte_fim": "1:09:54"
+    },
+    {
+      "formato": "stories",
+      "pilar": "maximas-e-reflexoes",
+      "gancho": "Erro clínico não existe tanto.",
+      "mensagem": "O que existe é não saber lidar com o que aconteceu; o sentido vem do manejo posterior.",
+      "roteiro": [
+        "Frase",
+        "Enquete: você já errou numa sessão?",
+        "O que você construiu depois?"
+      ],
+      "corte_inicio": "1:39:19",
+      "corte_fim": "1:39:45"
+    }
+  ],
+  "autores": [
+    {
+      "nome": "Sigmund Freud",
+      "contexto": "Exemplo da fantasia prévia de quem é atendido por um clínico famoso; a primeira geração atendia todo dia; Freud 'atendeu' por carta ao pai de uma criança."
+    },
+    {
+      "nome": "Carl Jung",
+      "contexto": "Referência de Alan para a explicação da piora média com a experiência (troca da realidade por modelos simplificados, cristalização) e para o termo 'complexo parcial'; atendia todo dia. No chat, confirma-se que Jung é a referência, 'embora não em A prática da psicoterapia'."
+    },
+    {
+      "nome": "Steven Hayes",
+      "contexto": "Identificação incerta (transcrito como 'Reis', associado à ACT/TCC): a explicação do 'treino às cegas', pela qual terapeutas não melhoram porque não recebem feedback sistemático sobre resultados."
+    },
+    {
+      "nome": "Irvin Yalom",
+      "contexto": "Livro em que entrevistou pacientes sobre o momento mais memorável da terapia: ele lembrava das grandes interpretações, eles de gestos aleatórios."
+    }
+  ],
+  "formato_grupo": {
+    "nome": "Prática Clínica (série de 6 encontros conduzida por Alan)",
+    "objetivo": "Desenvolver habilidade clínica prática percorrendo, de forma não linear, a gradação do aprendizado: descrição verbal das habilidades, visualização de atendimento competente, atendimento simulado (simulador com IA), atendimento ao vivo diante do grupo com comentários, gravação e crítica. Neste 4º encontro: criar vocabulário comum (escuta, raciocínio, comunicação, setting) para nomear acertos e erros.",
+    "publico": "Estudantes de psicologia e psicólogos iniciantes, muitos no primeiro contato com a Allos (há estagiárias em estágio obrigatório, plantonistas e profissionais com especializações).",
+    "tamanho": "Grupo online; neste encontro três participantes falam ao microfone e os demais reagem por chat e 'joinha'. O número total não é informado.",
+    "duracao": "Encontros semanais; o padrão das aulas é 1h30, e os de Alan costumam chegar a 2h. Este teve 1:41, encerrado cerca de 15 minutos antes.",
+    "estrutura_padrao": "Série experimental: cada encontro testa um nível da gradação teoria→prática e um formato diferente, e Alan pede ao grupo que avalie qual prefere. Neste encontro: abertura e retomada da série → disclaimers → taxonomia de categorias → uma categoria (setting) desenvolvida com exemplos problematizadores → conversão, por metacomunicação, num plantão de dúvidas concretas (cerca de 55 min) → fechamento que amarra as dúvidas ao tema, com consulta sobre o formato seguinte e link de presença.",
+    "papel_facilitador": "Curador e experimentador de formatos: expõe e problematiza em vez de prescrever (evita dicas antes de o grupo passar por epistemologia); transforma dúvidas individuais em lições gerais; pergunta o contexto antes de responder; responde até um ponto e aponta a direção; metacomunica e muda o plano com consentimento do grupo; sustenta teses fortes, admitindo limites de tempo e de argumentação.",
+    "regras_combinados": "Encontros gravados e disponíveis na plataforma (a organização manda o link no grupo específico da prática); link de presença a assinar; recomenda-se assistir ao 1º encontro, o único 'indispensável'; câmera aberta é desejada mas opcional; participação por mão levantada, microfone ou chat; não transformar a taxonomia em cânone; o grupo pode 'colocar o facilitador contra a parede' se algo soar como dica."
+  },
+  "reflexoes_do_facilitador": [
+    "Admite ter sido 'levemente incapaz' de dar uma direção clara ao grupo no início e diz estar testando formatos para o grupo escolher.",
+    "Percebeu que a série ainda não tinha trabalhado a descrição verbal e por isso montou este encontro.",
+    "A visualização de um atendimento seu no encontro anterior 'ficou pela metade' por falta de tempo.",
+    "Muda ao vivo de três para quatro categorias e usa isso como prova de que a taxonomia não é canônica.",
+    "Reconhece que está 'se delongando' e acelera para o fechamento do setting.",
+    "Diz que não terá tempo para sustentar 'a contento' a tese de que não existem clínicas no plural, mas faz questão de registrá-la como crença forte.",
+    "Declara que fica mais confortável fazendo esse tipo de comentário depois que as pessoas passam pelo módulo de epistemologia.",
+    "Admite ter ficado 'em cima do muro' na primeira parte da resposta sobre especialização e ter sido pouco visual na primeira explicação.",
+    "Troca o plano (escuta, comunicação, raciocínio) por dúvidas concretas porque gostou da interação e consulta o grupo.",
+    "Ao fim, pergunta se o grupo gostou do formato e diz que decidirá o próximo encontro se ninguém opinar."
+  ],
+  "referencias_a_outros_encontros": [
+    "1º encontro da série (pc-01): a linha progressiva teoria→prática; Alan o recomenda como o único indispensável para acompanhar o grupo.",
+    "Um encontro anterior da série em que uma participante atendeu ao vivo diante do grupo, com comentários de Alan (pc-02, Prática Clínica 02 - Atendimento ao vivo e ecos da palavra).",
+    "Uso de um simulador de atendimento (paciente de IA) em que todos podem entrar como visitante; a avaliação estaria desligada.",
+    "'Semana passada, se não me engano' (provavelmente pc-04, 3º encontro): visualização de um bom atendimento de uma colega; a visualização de um atendimento do próprio Alan não coube no tempo.",
+    "Próximo encontro (pc-06): talvez escuta, comunicação e raciocínio, 'talvez com outros nomes', ou outro formato, a decidir.",
+    "Módulo de epistemologia da formação da Allos, citado como pré-requisito para receber dicas e posições fortes."
+  ],
+  "observacoes": "Transcrição automática com ruído razoável. 'Reis' foi interpretado como Steven Hayes (?) pela associação com a ACT e pela pronúncia brasileira; como o argumento do 'treino às cegas' também é associado a Scott D. Miller e Tony Rousmaniere, a atribuição precisa ser confirmada. 'Yalon/Valon' = Irvin Yalom. 'ALS/ALOS/AVOS/ATOS' = Allos; 'sete/set' = setting; 'Clinicola' = clínica da Allos (?). O facilitador é Alan (apresenta-se no 1º encontro da série; aqui aparece como 'Ala' numa objeção encenada). Ângelo aparece como apoio da organização (manda o link da plataforma). Participantes não identificados pelo nome na nota. O relato de caso de uma participante (criança pequena não verbal num estágio escolar) foi anonimizado e reduzido ao ponto pedagógico. O exemplo da paciente que 'se corta' é hipotético, dado por Alan. As taxonomias de Alan são declaradamente provisórias. Só a categoria 'setting' foi desenvolvida; escuta, raciocínio e comunicação ficaram para outro encontro."
+}

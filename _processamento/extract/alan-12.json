@@ -1,0 +1,947 @@
+{
+ "id": "alan-12",
+ "nota": "Alan 12 - Formulação de caso 1",
+ "pasta": "02 - Encontros do Alan",
+ "titulo": "Formulação de caso 1",
+ "serie": "Aprimoramento clínico - Alan",
+ "formato": "Aprimoramento clínico",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Depois de ouvir que o encontro anterior (especial de Dia dos Namorados) ficou excessivamente teórico, Alan propõe um encontro quase sem teoria: uma intervisão em que ele lê, no papel do terapeuta que atendeu, um caso composto (real com um personagem inventado) e os participantes atuam como supervisores. Ele define três critérios (interpretar de forma correta ou rica, comunicar entre abordagens, dar direção concreta) e, no papel, cobra concretude, defende-se com teoria e rebate tentativas de pegá-lo em contradição. Surgem direções como nomear o 'elefante na sala' na abertura da próxima sessão, aproximar-se do paciente em vez de recuar e interpretar o 'corte' feito pelo paciente. No meta-comentário final, Alan diagnostica três vícios do grupo (caçar contradição, calar diante de justificativas teóricas, não interpretar o material do caso), faz autocrítica sobre a dose de provocação e conclui que precisa demonstrar para ensinar intervisão. Fecha co-planejando a continuação e afirmando que apresentação de caso é transformar prática em teoria.",
+ "em_uma_frase": "Alan troca a aula teórica por uma intervisão ao vivo em que faz o papel do terapeuta perdido, e no fim mostra que o grupo discutiu a relação e a ética do terapeuta, calou diante da teoria e quase não interpretou o caso.",
+ "competencias": [
+  "Formulação de caso",
+  "Interpretação",
+  "Direção do tratamento",
+  "Relação terapêutica",
+  "Feedback clínico",
+  "Articulação teoria-prática",
+  "Pessoa do terapeuta"
+ ],
+ "abordagens": [
+  "Psicologia analítica junguiana",
+  "Psicanálise lacaniana",
+  "Psicanálise freudiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:01",
+   "bloco": "Abertura",
+   "descricao": "Menciona dúvidas teóricas discutidas antes de gravar (aquecimento). Autocrítica: o encontro anterior (especial de Dia dos Namorados) 'deu um tantinho errado' e ficou 'excessivamente teórico'; propõe um exercício quase sem teoria, que pode levar dois encontros.",
+   "funcao": "Mostrar que o feedback do grupo foi ouvido e justificar a mudança de formato.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:00:52",
+   "bloco": "Teoria",
+   "descricao": "Estudo de caso: péssimo como ciência (vieses, relatos distorcidos: pacientes de Jung e Freud contam outra história), fundamental como arte; a psicologia clínica fica entre arte e ciência, é saber tácito, um 'saber fazer' aristotélico.",
+   "funcao": "Moldura mínima que justifica aprender fazendo.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:02:52",
+   "bloco": "Teoria",
+   "descricao": "'Não existem casos difíceis': todo caso é difícil e é o olhar do analista que torna o caso interessante; se há distância entre o caso e a sua prática, reveja sua prática; casos viram teoria (paradigmáticos).",
+   "funcao": "Deslocar o foco do caso exótico para a capacidade interpretativa.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:04:53",
+   "bloco": "Combinados",
+   "descricao": "Enquete 'quem leu o caso antes?' (cerca de 1/4); papéis de supervisores/colegas de intervisão; caso escrito 'na ordem da dúvida'; três objetivos (interpretar, comunicar entre abordagens, dar direção); papel duplo (personagem e facilitador; ideia descartada do chapéu); 'não vou falar nada sobre interpretação, quero ver vocês se virando'.",
+   "funcao": "Explicitar critérios de avaliação e o enquadre do role-play.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:09:15",
+   "bloco": "Demonstração",
+   "descricao": "Leitura em primeira pessoa do caso composto: terapeuta aceita atender, a pedido da paciente, um rapaz intelectualizado e instável; após três sessões de teste intelectual, o rapaz inverte os lugares (fala em 'encantar', 'brinquedo', insinua desejo do terapeuta pela paciente e faz o 'corte' saindo no meio da sessão). Termina com pedido de direção e prazo.",
+   "funcao": "Entregar material clínico denso, com subtexto e urgência.",
+   "duracao_min": 22
+  },
+  {
+   "ts": "0:31:52",
+   "bloco": "Rodada de respostas",
+   "descricao": "Perguntas de esclarecimento (por que aceitou atender, implicações, por que ficou em choque), comentários do chat (projeção, rivalidade, controle do setting), 'tá, e daí? o que eu faço?', pergunta sobre encaminhar. Alan pede voz em vez de chat.",
+   "funcao": "Forçar a passagem da compreensão para a direção clínica.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:39:38",
+   "bloco": "Rodada de respostas",
+   "descricao": "Sugestão de levar o medo para a relação; o personagem cria o dilema 'ou é espontâneo ou é planejado' e cobra ajuda concreta ('vocês estão falando coisas genéricas').",
+   "funcao": "Exigir especificidade (quando, como, com que entrada).",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:44:06",
+   "bloco": "Discussão",
+   "descricao": "Envolvimento pessoal: metáfora junguiana do nome secreto de Rá; perguntas sobre as fantasias do terapeuta com a paciente; 'contratransferência é fato, não problema'.",
+   "funcao": "Plantar teoria 'de autoridade' para testar se o grupo a questiona.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:53:08",
+   "bloco": "Feedback",
+   "descricao": "Diogo: envolvimento como questão de longo prazo; contradição entre 'impressão' e 'concreto' no relato; proposta de trabalhar o 'elefante na sala' abrindo a próxima sessão com o atendimento anterior. O personagem aceita.",
+   "funcao": "Modelo de supervisão que liga crítica a ação concreta.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:01:02",
+   "bloco": "Rodada de respostas",
+   "descricao": "Como lidar com fantasias (nomear a natureza e conectar ao caso); natureza da projeção da paciente (posição professoral); sugestões de aproximar-se do paciente e de 'ser o brinquedo dele'; risco contra timing.",
+   "funcao": "Gerar hipóteses de direção.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "1:11:22",
+   "bloco": "Discussão",
+   "descricao": "Comparação com uma série de TV sobre uma terapeuta que se envolve com pessoas da vida da paciente; ética da proximidade (personagem: o problema é falta de transparência); insistência nas fantasias do terapeuta.",
+   "funcao": "O grupo 'morde a isca' provocativa (reconhecido depois por Alan).",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:17:20",
+   "bloco": "Rodada de respostas",
+   "descricao": "Interpretação do material verbal: o que é 'brinquedo', hipótese de disputa pelo lugar na vida da paciente, 'encantar' e o 'corte' feito pelo paciente, pergunta 'quem ele tentava encantar?'.",
+   "funcao": "Único trecho de leitura do material verbal do caso.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "1:28:17",
+   "bloco": "Discussão",
+   "descricao": "Alan anuncia fechamento; participante acusa o personagem de também ter fugido (distinção entre fuga do desertor e do prisioneiro, atribuída a Tolkien); tentativa de contradição sobre viver às custas dos outros; fantasias compulsórias na leitura junguiana ('advogados de Jung de plantão').",
+   "funcao": "Mostrar como distinções finas desmontam 'pegadinhas'.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "1:37:08",
+   "bloco": "Rodada de respostas",
+   "descricao": "Leitura seletiva do chat; por que não perguntou o motivo da terapia (o personagem acha que perderia o paciente); inteligência e inadaptação social assumidas como 'fantasia projetiva' do terapeuta.",
+   "funcao": "Fechar pendências e explicitar projeções do terapeuta.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "1:46:56",
+   "bloco": "Feedback",
+   "descricao": "Meta-comentário fora do papel: pergunta se a dinâmica foi difícil demais e se funcionou; conta o raciocínio do design; diagnostica caça a contradições, silêncio diante da teoria e falta de interpretação; autocrítica sobre ter 'pesado a mão'.",
+   "funcao": "Transformar o exercício em aprendizagem sobre como se faz intervisão.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "1:51:29",
+   "bloco": "Discussão",
+   "descricao": "Participantes: tendência a projetar 'o que eu faria' e a perguntar 'o que você acha?' em vez de interpretar; Alan: a teoria vira licença para opinar ('está escrito no Lacan').",
+   "funcao": "Consolidar critérios de boa intervisão.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:55:33",
+   "bloco": "Discussão",
+   "descricao": "Como mudar a estrutura da intervisão: 'preciso demonstrar'; projeto de grupo de intervisão com 10 a 12 casos (formação de supervisores); revela que o caso é real com um personagem inventado.",
+   "funcao": "Planejamento pedagógico em voz alta.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:57:57",
+   "bloco": "Tarefa",
+   "descricao": "Opções para a semana seguinte: continuar o caso aplicando uma das hipóteses (Diogo, dois outros participantes) ou voltar ao caso num exercício hermenêutico sem falar da relação nem do terapeuta; participante sugere mostrar o efeito de interpretações certas e erradas.",
+   "funcao": "Co-planejamento; ponte para Alan 13.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:59:50",
+   "bloco": "Dúvidas",
+   "descricao": "Participante teme pelo sigilo ao apresentar um caso; Alan: separar central de periférico; apresentação de caso é articulação teoria-prática, não o caso em si.",
+   "funcao": "Fechar com um princípio aplicável fora do grupo.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "2:02:02",
+   "bloco": "Fechamento",
+   "descricao": "Encerra a gravação; a conversa continua fora do registro.",
+   "funcao": "Encerramento.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Estudo de caso",
+   "definicao": "Relato e análise de um atendimento singular. Como construção de conhecimento científico é fraco ('meio porco'): relatores são enviesados e reconstroem ou distorcem os casos. Como ferramenta de formação na arte clínica é fundamental.",
+   "exemplo": "Pacientes de Jung descrevem os atendimentos de forma muito diferente dos registros dele; com Freud o contraste é ainda maior.",
+   "abordagem": "",
+   "ts": "0:00:52"
+  },
+  {
+   "nome": "Psicologia clínica como arte",
+   "definicao": "A psicologia clínica está num caminho nebuloso entre arte e ciência; tem uma dimensão tácita, que não pode ser plenamente expressa nem ensinada por livros, sendo um saber do fazer no sentido aristotélico.",
+   "exemplo": "'Você não lê um livro de psicologia e sai atendendo'; comparação com aprender piano ou pintura.",
+   "abordagem": "",
+   "ts": "0:01:50"
+  },
+  {
+   "nome": "Caso paradigmático",
+   "definicao": "Caso que, pelo olhar do clínico, se transforma em teoria, tornando-se exemplar ou canônico. Para Alan, todo caso pode ser paradigmático; transformar um caso aleatório em paradigmático é o objetivo da apresentação de caso.",
+   "exemplo": "Quem chega com uma dúvida pontual sobre um caso descobre que ele é 'o início de toda uma nova psicologia'.",
+   "abordagem": "",
+   "ts": "0:04:03"
+  },
+  {
+   "nome": "Intervisão",
+   "definicao": "Discussão de caso entre pares cujo objetivo é ajudar o colega: interpretar o caso de forma correta ou rica, comunicar a interpretação entre abordagens e dar direção concreta. Diferente da apresentação de caso, que visa produzir teoria.",
+   "exemplo": "A dinâmica do encontro simula uma intervisão com Alan no papel de terapeuta perdido.",
+   "abordagem": "",
+   "ts": "0:05:47"
+  },
+  {
+   "nome": "Supervisão clínica",
+   "definicao": "Aparece como 'formação de supervisores': supervisionar exige interpretar e dirigir; devolver ao colega perdido 'o que você acha?' ou apenas opinar não ajuda.",
+   "exemplo": "Crítica de um participante ao maneirismo de professores de faculdade que perguntam 'o que você acha que isso significa?' para esconder que não sabem.",
+   "abordagem": "",
+   "ts": "1:54:27"
+  },
+  {
+   "nome": "Transferência",
+   "definicao": "Tratada como 'um fato' do qual não se foge. No caso, a paciente repete com o terapeuta o encanto que sente por quem ocupa uma posição professoral.",
+   "exemplo": "A paciente vê um paralelo entre o fascínio da namorada pelo rapaz e o seu próprio 'maravilhamento' na terapia.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:38:34"
+  },
+  {
+   "nome": "Contratransferência",
+   "definicao": "Afetos e fantasias do terapeuta em relação ao paciente. O personagem sustenta que é 'um fato, não um problema'; participantes respondem que o problema está no manejo. O personagem propõe dois passos: interpretar a natureza da fantasia e conectá-la à função que tem no caso.",
+   "exemplo": "Apaixonamento que é na verdade orgulho (professor de ginástica); preguiça do terapeuta que reflete a imobilidade do paciente.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:01:02"
+  },
+  {
+   "nome": "Projeção",
+   "definicao": "Atribuir ao outro o próprio funcionamento. O personagem corrige a pergunta: 'ninguém projeta algo nas pessoas em geral'; é preciso perguntar qual a natureza da projeção e sobre quem ela recai.",
+   "exemplo": "O rapaz supõe que o terapeuta trata as pessoas como objeto porque ele próprio as vê assim; a paciente projeta encanto em figuras professorais.",
+   "abordagem": "",
+   "ts": "1:03:01"
+  },
+  {
+   "nome": "Corte da sessão",
+   "definicao": "Recurso lacaniano de encerrar a sessão num ponto significativo. No caso, é o paciente quem 'faz o corte', misturando a explicação sobre o corte com a ideia de ser terapeuta de si mesmo, e mantendo a relação de mestre ao pedir avaliação.",
+   "exemplo": "O paciente sai no meio da sessão após um silêncio e pede que o terapeuta lhe diga depois se fez direito.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:29:58"
+  },
+  {
+   "nome": "Nome secreto de Rá",
+   "definicao": "Metáfora comentada por Jung em Símbolos da transformação: diante de uma picada de cobra, o sacerdote egípcio contava a história do nome secreto de Rá, elevava o doente à posição de deus, sugava o veneno e o engolia. Usada (no papel) para defender que a cura exige que o terapeuta receba e suporte a neurose do paciente.",
+   "exemplo": "'O processo de cura não tem a ver com chupar e cuspir, tem a ver com chupar e engolir.' Réplica: 'qual é o veneno dele?'",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:44:23"
+  },
+  {
+   "nome": "Elefante na sala",
+   "definicao": "Máxima de supervisão (trazida por Diogo, citando seu supervisor): o que é evidente e não foi falado deve ser trabalhado explicitamente, por exemplo abrindo a sessão com o que aconteceu na anterior.",
+   "exemplo": "'Quero falar contigo sobre o atendimento passado.'",
+   "abordagem": "",
+   "ts": "0:58:19"
+  },
+  {
+   "nome": "Timing da intervenção",
+   "definicao": "Questão de quando e com que 'entrada' levar um tema à sessão. O personagem opõe espontâneo e planejado ('não existe espontaneamente planejado'); participantes defendem ter a possibilidade em mente e reconhecer o contexto, ou expressar o que se sente no momento.",
+   "exemplo": "Levar ao paciente o medo que o terapeuta sente dele.",
+   "abordagem": "",
+   "ts": "0:41:54"
+  },
+  {
+   "nome": "Argumento de autoridade",
+   "definicao": "Encerrar uma discussão clínica citando um autor. Alan observa que o grupo parou toda vez que ele deu uma justificativa teórica: 'quando a pessoa citou o autor, ganhou'.",
+   "exemplo": "'É igual brincadeira de criança: se rimou, é verdade'; 'está escrito no Lacan, essa é a minha opinião'.",
+   "abordagem": "",
+   "ts": "1:49:24"
+  },
+  {
+   "nome": "Máximas clínicas",
+   "definicao": "Diogo cita o vídeo de máximas do próprio Alan para contestar o personagem: é muito fácil dizer que algo não é nada ou não interfere, porque isso deixa o trabalho clínico mais fácil.",
+   "exemplo": "Uso da máxima contra a minimização da contratransferência.",
+   "abordagem": "",
+   "ts": "0:55:11"
+  },
+  {
+   "nome": "Sigilo clínico",
+   "definicao": "Na apresentação de caso, é preciso distinguir o central do periférico: dá para trocar cidade e acrescentar elementos irrelevantes; às vezes trocar o gênero muda pouco, às vezes muda tudo. Como a apresentação visa a teoria, quase tudo sobre a vida da pessoa pode ser alterado.",
+   "exemplo": "Resposta a uma participante insegura em apresentar um caso.",
+   "abordagem": "",
+   "ts": "1:59:50"
+  },
+  {
+   "nome": "Duas fugas",
+   "definicao": "Distinção atribuída a Tolkien (?) entre a fuga do desertor, que abandona um compromisso assumido, e a fuga do prisioneiro, que é um ato de vontade. Usada (no papel) para diferenciar recuar para se reagrupar de fugir.",
+   "exemplo": "Resposta a quem igualou a saída do paciente com o recuo do terapeuta em choque.",
+   "abordagem": "",
+   "ts": "1:30:38"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Intervisão de caso",
+   "objetivo": "Simular uma intervisão real para treinar interpretação de caso, comunicação da interpretação entre abordagens e capacidade de dar direção clínica concreta; observar como o grupo supervisiona intuitivamente e devolver isso no meta-comentário.",
+   "competencias": [
+    "Formulação de caso",
+    "Interpretação",
+    "Direção do tratamento",
+    "Feedback clínico",
+    "Relação terapêutica",
+    "Pessoa do terapeuta"
+   ],
+   "configuracao": "Grupo todo, online (vídeo e chat), cerca de 20 participantes; o facilitador faz o papel do terapeuta que traz o caso e os participantes são supervisores/colegas de intervisão.",
+   "tempo": "Cerca de 2 h: enquadre 9 min, leitura 22 min, intervisão cerca de 75 min, meta-comentário e planejamento cerca de 13 min, dúvidas 3 min. Alan previa dois encontros para o caso.",
+   "materiais": "Caso escrito pelo facilitador (composto: real com um personagem inventado), enviado antes por escrito aos associados; leitura prévia opcional.",
+   "consigna": "Vou ler este caso como a pessoa que o atendeu; imaginem que sou eu, com todos os meus defeitos. Vocês estão na posição de supervisores, de colegas numa intervisão, e o objetivo é me dar uma direção para o caso. O caso está escrito na ordem da dúvida: eu conto o que aconteceu, mas não sei para onde ir. Vou prestar atenção em três coisas: se vocês interpretam o caso de maneira correta ou pelo menos rica; como comunicam essa interpretação, já que há gente de abordagens diferentes; e se conseguem concretamente me dar uma direção. Às vezes vou estar no papel, perdido; às vezes vou pressionar o raciocínio de vocês. Não vou falar nada sobre interpretação: quero ver vocês se virando.",
+   "passos": [
+    "Moldura mínima (cerca de 5 min): estudo de caso como arte e não como ciência; 'não existem casos difíceis'.",
+    "Enquete rápida: quem leu o material antes (para calibrar o formato).",
+    "Consigna com os três critérios (interpretar, comunicar, dirigir) e aviso do papel duplo; declarar que não haverá teoria.",
+    "Leitura do caso em primeira pessoa (cerca de 20 min): contexto, histórico de sessões, diálogo crítico reconstruído, reação emocional do terapeuta, pedido final com prazo.",
+    "Intervisão: participantes perguntam e sugerem; o facilitador responde sempre como o terapeuta, com resistências, projeções e justificativas teóricas; pede fala em vez de chat para perceber o tom.",
+    "Cobrança de concretude: diante de interpretações soltas, perguntar 'e daí? o que eu faço? quando? com que entrada? o que eu espero?'.",
+    "Registrar as hipóteses de direção que aparecem.",
+    "Leitura seletiva do chat no fim (só comentários ainda pertinentes).",
+    "Meta-comentário fora do papel (cerca de 15 min): perguntar se foi difícil demais e se funcionou, contar o raciocínio do design, devolver padrões observados.",
+    "Co-planejar a continuação (próxima sessão do caso ou releitura hermenêutica)."
+   ],
+   "feedback": "Durante o exercício, o feedback é indireto e dentro do papel: o personagem recusa comentários genéricos, exige que preocupações se liguem a algo concreto do caso, aceita sugestões que trazem ação e justificativa ('consigo ver isso funcionando') e rebate contradições com distinções. No fim, os critérios ficam explícitos: interpretar o material verbal do paciente antes de discutir o terapeuta; não parar diante de citações de autores; não gastar energia caçando contradição; ligar todo argumento ao caso; terminar com diretrizes utilizáveis na próxima sessão.",
+   "exemplos_praticos": "Comentários iniciais foram de esclarecimento e de motivação do terapeuta. Um comentário do chat leu o paciente como alguém que projeta uma figura rival, seduz, testa e tenta controlar o setting ('faz sentido, mas e daí?'). Uma participante sugeriu encaminhar por excesso de envolvimento. A sugestão de levar o medo para a relação empacou no dilema espontâneo/planejado. Diogo deu a intervenção mais completa (envolvimento de longo prazo, contradição impressão/fato, abrir a próxima sessão falando do atendimento anterior). Dois participantes sugeriram aproximar-se em vez de recuar ('seja o brinquedo dele'; 'quando não dá para antecipar a jogada, antecipe o jogador'). Uma participante trabalhou os significantes 'encantar' e 'corte'. Muito tempo foi gasto na ética das fantasias do terapeuta e em contradições, justamente o que Alan criticou.",
+   "variacoes": "A: na semana seguinte, aplicar uma das hipóteses do grupo e narrar a sessão seguinte como se tivesse acontecido. B: voltar ao mesmo caso num exercício hermenêutico, deixando claro que não é para falar da relação nem do terapeuta. C (sugestão de participante): mostrar como uma interpretação errada ou certa afeta a sessão. D (projeto): grupo fixo de intervisão com 10 a 12 casos, como formação de supervisores, com o facilitador conduzindo mais de perto.",
+   "armadilhas": "Personagem ou caso provocativos demais viram 'isca' e desviam o grupo para a moral do terapeuta (autocrítica de Alan). Deixar a intervisão totalmente livre reproduz 'o processo natural da faculdade' (opinião, projeção, 'o que você acha?'); a solução é demonstrar e direcionar. A autoridade do facilitador pode inibir o questionamento da teoria. O papel duplo gera ambiguidade (Alan cogitou um chapéu para sinalizar). Metade do grupo saiu antes do meta-comentário.",
+   "nivel": "avançado",
+   "funciona_online": true,
+   "ts": "0:04:53"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Autocrítica pública e mudança de formato",
+   "descricao": "Abre relatando a crítica recebida ao encontro anterior e propõe o oposto, mostrando que o feedback molda o grupo.",
+   "exemplo": "'Fiquei triste no final com o jeito que as coisas aconteceram (...) ficou excessivamente teórico. E aí eu queria ir para o outro lado.'",
+   "ts": "0:00:01"
+  },
+  {
+   "movimento": "Teoria mínima como moldura",
+   "descricao": "Em cerca de 4 minutos justifica por que o exercício existe (estudo de caso como arte; não existem casos difíceis) sem ensinar o conteúdo que o grupo deve produzir.",
+   "exemplo": "'Do ponto de vista de uma arte, um estudo de caso é fundamental.'",
+   "ts": "0:00:52"
+  },
+  {
+   "movimento": "Enquete de calibragem com humor",
+   "descricao": "Pergunta quem leu o material para testar se vale mandar antes, brincando com a honestidade das respostas.",
+   "exemplo": "'Um quarto falou que leu; eu acho que um oitavo deve ter lido de verdade.'",
+   "ts": "0:05:47"
+  },
+  {
+   "movimento": "Critérios explícitos antes do exercício",
+   "descricao": "Declara, repete e resume os três objetivos que vai observar, e checa se ficaram claros.",
+   "exemplo": "Interpretar, comunicar entre abordagens, dar direção; 'ficou claro os objetivos do exercício?'",
+   "ts": "0:07:01"
+  },
+  {
+   "movimento": "Anúncio do papel duplo",
+   "descricao": "Explica que alternará entre personagem e facilitador que pressiona o raciocínio; brinca com a ideia descartada de usar uma fedora para sinalizar a troca.",
+   "exemplo": "'Achei que isso era insultar a inteligência de vocês (...) esse é o insulto do chapéu.'",
+   "ts": "0:07:58"
+  },
+  {
+   "movimento": "Retirada deliberada de apoio",
+   "descricao": "Anuncia que não dará teoria nem direção, para ver o que o grupo produz sozinho.",
+   "exemplo": "'Eu não vou falar nada sobre interpretação (...) eu quero ver vocês se virando.'",
+   "ts": "0:08:56"
+  },
+  {
+   "movimento": "Pedido com prazo",
+   "descricao": "Termina a leitura do caso com uma demanda concreta e datada, forçando o grupo a produzir conduta e não só compreensão.",
+   "exemplo": "'A nossa sessão é na sexta agora, e aí eu preciso ter algum direcionamento.'",
+   "ts": "0:30:57"
+  },
+  {
+   "movimento": "Voz em vez de chat",
+   "descricao": "Pede que as pessoas falem em vez de escrever, para poder perceber o tom.",
+   "exemplo": "'Se vocês puderem falar, aí eu consigo ver o tom que vocês estão usando.'",
+   "ts": "0:37:41"
+  },
+  {
+   "movimento": "Pressão por concretude no papel",
+   "descricao": "Recusa interpretações soltas e comentários genéricos, exigindo o como, o quando e a entrada da intervenção.",
+   "exemplo": "'Vocês estão falando coisas completamente genéricas. Eu quero ajuda concreta: como eu comunico, quando, que tipo de entrada, o que eu espero?'",
+   "ts": "0:42:47"
+  },
+  {
+   "movimento": "Dilemas e redistribuição da palavra",
+   "descricao": "Cria dilemas (espontâneo contra planejado) para testar o raciocínio e, quando trava, chama outras pessoas.",
+   "exemplo": "'E alguma outra pessoa consegue me ajudar com o planejamento ou trazer um outro assunto?'",
+   "ts": "0:43:53"
+  },
+  {
+   "movimento": "Teoria de autoridade como teste",
+   "descricao": "Defende o personagem com Jung e a história da psicologia para ver se alguém contesta; depois mostra que ninguém contestou.",
+   "exemplo": "Metáfora do nome secreto de Rá; 'Jung atendia a prima dele'.",
+   "ts": "0:44:23"
+  },
+  {
+   "movimento": "Validar sugestões boas com justificativa",
+   "descricao": "Quando uma sugestão tem ação e razão, o personagem a compra e explica por quê, modelando o que é uma direção útil.",
+   "exemplo": "'Consigo ver isso funcionando (...) até porque ele já começou a sessão passada falando sobre a relação de vocês.'",
+   "ts": "1:00:09"
+  },
+  {
+   "movimento": "Reformulação para checar o entendimento",
+   "descricao": "Parafraseia a proposta do participante para verificar se entendeu.",
+   "exemplo": "'Então (...) eu preciso ocupar essa posição de ser um baita analista, senão perco o link com ele.'",
+   "ts": "1:08:18"
+  },
+  {
+   "movimento": "Distinções contra pegadinhas",
+   "descricao": "Responde tentativas de contradição com distinções conceituais, modelando que só se comparam coisas da mesma natureza.",
+   "exemplo": "Fuga do desertor contra fuga do prisioneiro; 'se for assim, tudo é poeira estelar'.",
+   "ts": "1:30:38"
+  },
+  {
+   "movimento": "Humor para aliviar tensão",
+   "descricao": "Usa piadas curtas sem interromper o fluxo.",
+   "exemplo": "'Os advogados de Jung de plantão'; bombom como 'presente misterioso' para quem descobrir o personagem inventado.",
+   "ts": "1:36:41"
+  },
+  {
+   "movimento": "Gestão do tempo em voz alta",
+   "descricao": "Anuncia o fechamento, filtra o chat, avisa quanto tempo vai usar no meta-comentário e libera quem precisa sair.",
+   "exemplo": "'Vou passar rápido no chat e faço o encerramento. Metade aqui das pessoas já foi embora'; 'vou gastar uns 15 minutinhos (...) se precisarem sair, saem'.",
+   "ts": "1:28:17"
+  },
+  {
+   "movimento": "Sinalizar a saída do papel",
+   "descricao": "Lembra explicitamente quando está falando como personagem.",
+   "exemplo": "'Lembrando que eu tô falando enquanto o personagem que está atendendo.'",
+   "ts": "1:37:59"
+  },
+  {
+   "movimento": "Meta-debrief com perguntas antes do diagnóstico",
+   "descricao": "Pergunta ao grupo se a dinâmica foi difícil demais e se funcionou, depois conta o raciocínio do design e só então nomeia os padrões observados.",
+   "exemplo": "'Vocês acharam que a dinâmica é estruturalmente muito difícil? E se funcionou?'",
+   "ts": "1:46:56"
+  },
+  {
+   "movimento": "Co-planejamento com o grupo",
+   "descricao": "Apresenta opções para o próximo encontro e ouve sugestões antes de decidir.",
+   "exemplo": "Continuar o caso aplicando uma hipótese ou fazer um exercício hermenêutico; 'vou pensar a respeito'.",
+   "ts": "1:57:57"
+  },
+  {
+   "movimento": "Fechar convertendo dúvida em princípio",
+   "descricao": "Transforma uma insegurança prática de uma participante (sigilo) numa tese geral sobre apresentação de caso.",
+   "exemplo": "'Apresentação de caso não é sobre o caso, é sobre a articulação que você faz entre a teoria e a prática.'",
+   "ts": "2:00:54"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Trate todo caso como potencialmente paradigmático.",
+   "justificativa": "Não existem casos difíceis ou fáceis; é o olhar do clínico que torna o caso interessante, e uma dúvida pontual costuma abrir uma teoria nova.",
+   "contexto": "Estudo, supervisão e apresentação de casos.",
+   "competencia": "Formulação de caso",
+   "ts": "0:02:52"
+  },
+  {
+   "dica": "Se os casos discutidos parecem distantes da sua clínica, reveja sua prática.",
+   "justificativa": "Para Alan, todos os casos podem virar teoria; a distância indica pobreza do olhar, não do caso.",
+   "contexto": "Autoavaliação do clínico em formação.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:04:03"
+  },
+  {
+   "dica": "Use o estudo de caso para desenvolver a arte clínica, não como evidência científica.",
+   "justificativa": "Relatos de caso são enviesados e reconstruídos (pacientes de Jung e Freud contam outra história).",
+   "contexto": "Leitura de casos clássicos e escrita dos próprios.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "0:00:52"
+  },
+  {
+   "dica": "Se há um elefante na sala, abra a sessão seguinte nomeando o que aconteceu na anterior.",
+   "justificativa": "Conversar sobre a sessão é um objeto mais palpável; o terapeuta antecipa o movimento em vez de ser pego de surpresa, dá continuidade ao tema que o paciente trouxe (a relação) e pode abrir espaço para ele falar de modo mais leve.",
+   "contexto": "Após sessão que terminou em choque, ruptura ou saída abrupta (sugestão de Diogo, citando seu supervisor).",
+   "competencia": "Relação terapêutica",
+   "ts": "0:58:19"
+  },
+  {
+   "dica": "Antes de manejar uma fantasia transferencial ou contratransferencial, dê nome à natureza dela.",
+   "justificativa": "Somos ruins em nomear afetos; o que parece apaixonamento pode ser orgulho.",
+   "contexto": "Quando surgem afetos fortes na relação.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:01:02"
+  },
+  {
+   "dica": "Conecte o afeto que você sente à função que ele tem no caso.",
+   "justificativa": "A contratransferência vira informação clínica: a preguiça que o terapeuta sente pode refletir a imobilidade do paciente.",
+   "contexto": "Formulação de caso.",
+   "competencia": "Formulação de caso",
+   "ts": "1:01:58"
+  },
+  {
+   "dica": "Pergunte pela natureza e pelo destinatário da projeção, não por projeções 'em geral'.",
+   "justificativa": "Ninguém projeta nas pessoas em geral; a projeção sempre tem forma e alvo específicos.",
+   "contexto": "Ao formular hipóteses sobre padrões relacionais do paciente.",
+   "competencia": "Interpretação",
+   "ts": "1:03:01"
+  },
+  {
+   "dica": "No seu relato, separe impressão de fato.",
+   "justificativa": "O relato do terapeuta passou de 'minha impressão é' para 'foi concretamente persecutório'; parte do que se atribui ao paciente vem da percepção do terapeuta.",
+   "contexto": "Ao levar um caso para supervisão ou registrar a sessão.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:57:50"
+  },
+  {
+   "dica": "Pergunte ao paciente o que ele quer dizer com palavras estranhas ou carregadas antes de supor o sentido.",
+   "justificativa": "O terapeuta leu 'brinquedo' como sexual sem apoio nas palavras do paciente; interpretar esse significante era o que faltava.",
+   "contexto": "Termos metafóricos, repetidos ou ambíguos.",
+   "competencia": "Escuta clínica",
+   "ts": "1:17:20"
+  },
+  {
+   "dica": "Não ponha palavras na boca do paciente: parta da construção que ele fez.",
+   "justificativa": "Se a 'disputa' é hipótese sua, perguntar 'o que vocês disputam?' impõe um enquadre que o paciente não criou.",
+   "contexto": "Ao converter uma hipótese em pergunta ou interpretação (fala no papel).",
+   "competencia": "Intervenção",
+   "ts": "1:22:59"
+  },
+  {
+   "dica": "Intervenha quando tiver algo a dizer, não para ganhar tempo.",
+   "justificativa": "Devolver a pergunta ao paciente só para 'respirar' é uma intervenção vazia.",
+   "contexto": "Momentos de alta intensidade na sessão (regra citada pelo personagem).",
+   "competencia": "Intervenção",
+   "ts": "0:23:20"
+  },
+  {
+   "dica": "Garanta que o contexto da sessão dê sentido à intervenção que você planejou.",
+   "justificativa": "Uma intervenção sem gancho no momento soa diretiva e estranha.",
+   "contexto": "Ao decidir levar um sentimento seu (ex.: medo do paciente) para a relação (fala no papel).",
+   "competencia": "Intervenção",
+   "ts": "0:41:54"
+  },
+  {
+   "dica": "Em choque, não responda no calor: recue para se reagrupar.",
+   "justificativa": "Excessivamente misturado, a resposta provavelmente não seria adequada; recuar por escolha é 'fuga do prisioneiro', não 'do desertor'.",
+   "contexto": "Após falas invasivas ou intimidadoras do paciente (fala no papel).",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:29:58"
+  },
+  {
+   "dica": "Com pacientes que testam o terapeuta intelectualmente, aceite o teste antes de perguntar o motivo da terapia.",
+   "justificativa": "O personagem avalia que trocar a disputa intelectual por uma pergunta pessoal seria recusar o jogo e perder o paciente, e que 'maneirismos de psicologia barata' afastam pacientes com mais capital cultural (reconhece que pode ser preconceito pessoal). Contraponto: uma participante prefere sempre perguntar por que a pessoa buscou terapia.",
+   "contexto": "Primeiras sessões com pacientes desafiadores (fala no papel).",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "1:38:56"
+  },
+  {
+   "dica": "Com pacientes para quem jogadas confortáveis não funcionam, considere uma intervenção de risco.",
+   "justificativa": "Manter a estagnação pode custar a confiança construída; o paciente pode esperar uma quebra de expectativa. Contraponto do personagem: timing, porque às vezes reagrupar vale mais.",
+   "contexto": "Quando o paciente coloca o terapeuta numa posição e a relação depende de sustentá-la (sugestões de participantes).",
+   "competencia": "Direção do tratamento",
+   "ts": "1:07:07"
+  },
+  {
+   "dica": "Explique ao paciente as possíveis consequências de atender alguém do círculo dele.",
+   "justificativa": "Evita que o paciente imagine que o terapeuta vai contar segredos do outro e protege a relação terapêutica existente.",
+   "contexto": "Pedidos para atender parceiro, amigo ou familiar de um paciente (fala no papel).",
+   "competencia": "Relação terapêutica",
+   "ts": "0:32:23"
+  },
+  {
+   "dica": "Na intervisão, ancore todo argumento no caso, não em um autor.",
+   "justificativa": "A citação encerra o debate sem mostrar utilidade para aquele paciente; conseguir justificar uma posição com Jung não a torna interessante para o caso.",
+   "contexto": "Supervisão e intervisão.",
+   "competencia": "Feedback clínico",
+   "ts": "1:53:24"
+  },
+  {
+   "dica": "Na intervisão, comece interpretando o material do paciente antes de discutir o terapeuta.",
+   "justificativa": "O grupo foi para a relação e para a ética do terapeuta, e o colega sairia confuso, com poucas diretrizes.",
+   "contexto": "Ao receber o caso de um colega.",
+   "competencia": "Feedback clínico",
+   "ts": "1:49:24"
+  },
+  {
+   "dica": "Não devolva ao colega perdido um 'o que você acha?'.",
+   "justificativa": "É um maneirismo para esconder que não se sabe; quem está perdido precisa de ajuda para interpretar.",
+   "contexto": "Supervisão e intervisão (fala de participante).",
+   "competencia": "Feedback clínico",
+   "ts": "1:54:27"
+  },
+  {
+   "dica": "Ao apresentar um caso, altere o periférico e preserve o central para proteger o sigilo.",
+   "justificativa": "Dá para trocar cidade e detalhes irrelevantes; em alguns casos até o gênero, em outros não. O que importa é a teoria que o caso produz.",
+   "contexto": "Apresentações de caso, aulas, supervisões.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:59:50"
+  },
+  {
+   "dica": "Numa apresentação de caso, mire a teoria que o caso produz, não o relato do caso.",
+   "justificativa": "Dicas são papel da intervisão; a apresentação treina transformar um caso aleatório em paradigmático, e basta 'aquele momento, aquela intervenção'.",
+   "contexto": "Preparação de apresentações de caso.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "2:00:54"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O estudo de caso é ciência ruim, mas arte indispensável; a psicologia clínica é saber tácito, entre arte e ciência.",
+   "argumento": "Os relatos são enviesados e distorcidos (pacientes de Jung e Freud contam outra história); a clínica é um 'saber fazer' que não se aprende lendo.",
+   "contraponto": "Quem trata relato de caso como evidência ou acha que teoria basta para clinicar.",
+   "implicacao": "Formar clínicos com casos, exercícios e demonstração.",
+   "quem": "Alan",
+   "ts": "0:00:52"
+  },
+  {
+   "tese": "Não existem casos difíceis; é o olhar do analista que torna o caso interessante.",
+   "argumento": "Analogia literária: um bom intérprete torna 'Atirei o pau no gato' mais interessante que Crime e castigo.",
+   "contraponto": "Alan admite que alguns casos, como alguns textos, convidam mais à reflexão.",
+   "implicacao": "Distância entre os casos estudados e a própria clínica pede revisão da prática.",
+   "quem": "Alan",
+   "ts": "0:02:52"
+  },
+  {
+   "tese": "Psicólogos param de pensar diante de uma citação teórica ('quando citou o autor, ganhou').",
+   "argumento": "Toda vez que Alan deu uma justificativa teórica no papel, a conversa parou e ninguém questionou; falta hábito de questionar Freud, Jung etc.",
+   "contraponto": "O próprio Alan considera que pode ser efeito da posição de autoridade que ocupa no grupo.",
+   "implicacao": "A intervisão precisa treinar a crítica de justificativas teóricas à luz do caso.",
+   "quem": "Alan",
+   "ts": "1:48:52"
+  },
+  {
+   "tese": "Justificar uma conduta com um autor não a torna boa para o caso.",
+   "argumento": "Fica 'a impressão de que é permitido ao psicólogo ter opinião' vestida de teoria ('está escrito no Lacan').",
+   "contraponto": "Participante acrescenta que muitas práticas históricas eram erradas e não podem ser tomadas ao pé da letra.",
+   "implicacao": "O argumento clínico tem que se ancorar no material do caso.",
+   "quem": "Alan",
+   "ts": "1:53:24"
+  },
+  {
+   "tese": "Uma intervisão que não interpreta o caso não ajuda o colega.",
+   "argumento": "O grupo foi para a relação e para o terapeuta; o terapeuta sairia com poucas diretrizes e continuaria confuso, sem saber o que é 'brinquedo'.",
+   "contraponto": "Participante: a tendência geral é projetar 'o que eu faria no lugar dele'; Alan concorda, mas lê isso como licença para opinar.",
+   "implicacao": "Estruturar a intervisão para começar pela interpretação do material ('pôr a bola no chão').",
+   "quem": "Alan",
+   "ts": "1:49:24"
+  },
+  {
+   "tese": "Caçar contradição no colega é improdutivo.",
+   "argumento": "Alan não vê utilidade; no papel mostra que aproximar coisas de natureza diferente para achar contradição faz perder o objeto ('tudo é poeira estelar').",
+   "contraponto": "A contradição apontada por Diogo (impressão contra fato) foi útil porque ligada a consequência clínica.",
+   "implicacao": "Apontar contradições só quando mudam a direção do caso.",
+   "quem": "Alan",
+   "ts": "1:47:47"
+  },
+  {
+   "tese": "Para ensinar supervisão e intervisão é preciso demonstrar, não só abrir espaço.",
+   "argumento": "Deixada livre, a discussão repetiu 'o processo natural da faculdade'.",
+   "contraponto": "Participante sugere que o exemplo venha antes da estrutura, mostrando o efeito de interpretações certas e erradas na sessão.",
+   "implicacao": "Grupos de intervisão com casos reais e condução ativa (formação de supervisores).",
+   "quem": "Alan",
+   "ts": "1:56:22"
+  },
+  {
+   "tese": "Apresentação de caso não é sobre o caso; é sobre a articulação entre teoria e prática.",
+   "argumento": "Dicas para o caso são tarefa da intervisão; a apresentação treina transformar um caso aleatório em paradigmático e canônico, por isso quase todos os dados podem ser trocados.",
+   "contraponto": "O receio de que alterar dados para proteger o sigilo empobreça a apresentação.",
+   "implicacao": "Sigilo e qualidade não competem, desde que se preserve o central.",
+   "quem": "Alan",
+   "ts": "2:00:54"
+  },
+  {
+   "tese": "(No papel) Envolver-se com a neurose do paciente é o mecanismo da cura; contratransferência é um fato, não um problema.",
+   "argumento": "Metáfora do nome secreto de Rá (sugar e engolir o veneno); o terapeuta saudável suporta a doença e responde de forma diferente, e o paciente transpõe isso para a vida.",
+   "contraponto": "Participantes: o problema é o manejo ('você nem sabe qual é o veneno'); Diogo cita a máxima do próprio Alan de que é fácil demais dizer que algo não interfere.",
+   "implicacao": "Nem evitar nem banalizar o envolvimento; identificar qual é o 'veneno'.",
+   "quem": "Alan (no papel do terapeuta)",
+   "ts": "0:44:23"
+  },
+  {
+   "tese": "(No papel) O estranhamento com a proximidade entre terapeuta e paciente é de quem nunca clinicou de verdade.",
+   "argumento": "A história da psicologia é feita de atravessamentos (Jung atendeu a prima; outro pioneiro, nome ininteligível, talvez Fritz Perls (?), teve relações com paciente); muitos clínicos atendem conhecidos.",
+   "contraponto": "Diogo e outros apontam que isso pode comprometer o caso; Alan depois reconhece que a posição do personagem era provocação ('isca').",
+   "implicacao": "Material de debate, não recomendação.",
+   "quem": "Alan (no papel do terapeuta)",
+   "ts": "0:54:18"
+  },
+  {
+   "tese": "(No papel) Ou é espontâneo ou é planejado; não existe espontaneamente planejado.",
+   "argumento": "Se há intenção prévia de dizer algo, o terapeuta não está concentrado no que acontece ali; se é um tema, precisa pensar como comunicá-lo.",
+   "contraponto": "Participantes: ter a possibilidade em mente e reconhecer o contexto quando surgir; expressar o que se sente no momento não é planejar.",
+   "implicacao": "Discutir como preparar temas para a sessão sem perder a presença.",
+   "quem": "Alan (no papel do terapeuta)",
+   "ts": "0:43:21"
+  },
+  {
+   "tese": "(No papel) 'Maneirismos de psicologia barata' desengajam pacientes de maior capital cultural ou intelectual.",
+   "argumento": "Um paciente que testa o terapeuta tecnicamente iria embora diante de 'como foi a semana?' ou de uma anamnese.",
+   "contraponto": "Participante que sempre pergunta o motivo da busca por terapia; o personagem admite que pode ser preconceito pessoal.",
+   "implicacao": "Ajustar linguagem e porta de entrada ao estilo do paciente.",
+   "quem": "Alan (no papel do terapeuta)",
+   "ts": "1:41:02"
+  },
+  {
+   "tese": "(No papel) Existem fugas e fugas: recuar para se reagrupar não é deserção.",
+   "argumento": "Distinção atribuída a Tolkien (?) entre a fuga do desertor (quebra de compromisso) e a do prisioneiro (ato de vontade).",
+   "contraponto": "Participante que igualou a saída do paciente ao recuo do terapeuta.",
+   "implicacao": "Não reagir no calor pode ser decisão clínica.",
+   "quem": "Alan (no papel do terapeuta)",
+   "ts": "1:30:38"
+  },
+  {
+   "tese": "(No papel) Pensamentos e fantasias involuntários não são necessariamente sintoma; a consciência é atravessada o tempo todo.",
+   "argumento": "Flashes aleatórios surgem ao cozinhar ou em qualquer atividade sem prejudicá-la; 'quem você deseja não é vontade sua'.",
+   "contraponto": "Participante com leitura junguiana: o que aparece de forma compulsória vem do inconsciente e aponta um problema da atitude consciente; outro: só é neurótico se paralisa.",
+   "implicacao": "Debate aberto sobre quando uma fantasia do terapeuta é clinicamente relevante.",
+   "quem": "Alan (no papel do terapeuta)",
+   "ts": "1:34:30"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Do ponto de vista da construção de conhecimento científico, o estudo de caso é meio porco. Do ponto de vista de uma arte, um estudo de caso é fundamental.",
+   "tema": "Estudo de caso",
+   "ts": "0:01:50"
+  },
+  {
+   "texto": "Você não lê um livro de psicologia e consegue sair atendendo. Tem algo nela que é da ordem do fazer.",
+   "tema": "Clínica como arte",
+   "ts": "0:01:50"
+  },
+  {
+   "texto": "Não existem casos difíceis. Isso é pleonasmo: todo caso é difícil. É o olhar do analista que torna o caso interessante.",
+   "tema": "Caso paradigmático",
+   "ts": "0:02:52"
+  },
+  {
+   "texto": "Se vocês acharem que existe uma distância grande entre o que está acontecendo no caso e a prática clínica de vocês, eu convidaria vocês a rever a prática clínica de vocês.",
+   "tema": "Formação",
+   "ts": "0:04:03"
+  },
+  {
+   "texto": "A pessoa vem com uma dúvida pontual sobre um caso e descobre que esse caso é o início de toda uma nova psicologia.",
+   "tema": "Caso paradigmático",
+   "ts": "0:04:03"
+  },
+  {
+   "texto": "Eu não vou falar nada sobre interpretação. Eu quero ver vocês se virando.",
+   "tema": "Facilitação",
+   "ts": "0:08:56"
+  },
+  {
+   "texto": "O processo de cura não tem a ver com chupar e cuspir o veneno; tem a ver com chupar e engolir. (no papel)",
+   "tema": "Envolvimento do terapeuta",
+   "ts": "0:44:23"
+  },
+  {
+   "texto": "Ou é espontâneo ou é planejado. Não existe espontaneamente planejado. (no papel)",
+   "tema": "Timing da intervenção",
+   "ts": "0:43:21"
+  },
+  {
+   "texto": "Se tem um elefante na sala, tente trabalhar com ele. (Diogo, citando seu supervisor)",
+   "tema": "Supervisão",
+   "ts": "0:58:19"
+  },
+  {
+   "texto": "Boa psicologia tem seus riscos. (no papel)",
+   "tema": "Direção do tratamento",
+   "ts": "1:11:13"
+  },
+  {
+   "texto": "Quando a pessoa citou o autor, ganhou. É igual brincadeira de criança: se rimou, é verdade.",
+   "tema": "Argumento de autoridade",
+   "ts": "1:49:24"
+  },
+  {
+   "texto": "Faltou alguém que pusesse a bola no chão e falasse: vamos interpretar o caso.",
+   "tema": "Intervisão",
+   "ts": "1:49:24"
+  },
+  {
+   "texto": "Não é porque eu consigo justificar uma posição terapêutica bizarra a partir de um comentário do Jung que isso passou a ser interessante para o caso.",
+   "tema": "Argumento de autoridade",
+   "ts": "1:53:24"
+  },
+  {
+   "texto": "Para a supervisão e a intervisão começarem a funcionar, eu preciso demonstrar.",
+   "tema": "Formação de supervisores",
+   "ts": "1:56:22"
+  },
+  {
+   "texto": "Apresentação de caso não é sobre o caso; é sobre a articulação que você faz entre a teoria e a prática, sobre transformar um caso aleatório num caso paradigmático.",
+   "tema": "Apresentação de caso",
+   "ts": "2:00:54"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "ciencia-e-mitos",
+   "gancho": "Estudo de caso é ciência ruim, e você precisa dele mesmo assim.",
+   "mensagem": "Como evidência, relatos de caso são enviesados (até os de Freud e Jung); como formação na arte clínica, são insubstituíveis.",
+   "roteiro": [
+    "Capa: 'Estudo de caso é ciência ruim?'",
+    "Por que é ruim como ciência: vieses, reconstrução, relatos divergentes dos pacientes",
+    "Por que é essencial como arte: a clínica é saber tácito, um saber fazer",
+    "Como usar: estudar casos para treinar o olhar, não para provar eficácia",
+    "CTA: qual caso clássico mais formou seu olhar?"
+   ],
+   "corte_inicio": "0:00:52",
+   "corte_fim": "0:02:52"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Não existe caso difícil.",
+   "mensagem": "Todo caso é difícil; é o olhar do clínico que torna um caso interessante. Se os casos estudados parecem distantes da sua clínica, reveja a sua clínica.",
+   "roteiro": [
+    "Frase de impacto: 'caso difícil é pleonasmo'",
+    "Analogia: Atirei o pau no gato contra Crime e castigo",
+    "Fechamento: o caso vira teoria quando o olhar é bom"
+   ],
+   "corte_inicio": "0:02:52",
+   "corte_fim": "0:04:53"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "3 vícios que estragam uma intervisão.",
+   "mensagem": "Caçar contradição no colega, calar diante de 'o autor X disse' e discutir o terapeuta em vez de interpretar o caso (e devolver 'o que você acha?' a quem está perdido).",
+   "roteiro": [
+    "Capa: 'Sua intervisão ajuda ou só opina?'",
+    "Vício 1: caçar contradição",
+    "Vício 2: quando citou o autor, ganhou",
+    "Vício 3: ninguém põe a bola no chão para interpretar",
+    "Bônus: 'o que você acha?' não é ajuda",
+    "O que fazer: interpretar, ligar ao caso, sair com diretriz"
+   ],
+   "corte_inicio": "1:47:47",
+   "corte_fim": "1:55:20"
+  },
+  {
+   "formato": "post",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Apresentação de caso não é sobre o caso.",
+   "mensagem": "É sobre transformar prática em teoria; por isso dá para trocar quase todos os dados e proteger o sigilo.",
+   "roteiro": [
+    "Frase-título",
+    "Diferença entre intervisão (ajuda no caso) e apresentação (produz teoria)",
+    "Sigilo: central contra periférico"
+   ],
+   "corte_inicio": "1:59:50",
+   "corte_fim": "2:02:41"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Sentiu algo forte por um paciente? 2 passos.",
+   "mensagem": "Primeiro nomeie a natureza do afeto (paixão pode ser orgulho); depois pergunte que função ele tem no caso (sua preguiça pode falar da imobilidade do paciente).",
+   "roteiro": [
+    "Capa: contratransferência não é defeito, é dado",
+    "Passo 1: nomear a natureza (exemplo do orgulho)",
+    "Passo 2: conectar à função no caso (exemplo da preguiça)",
+    "Leve para a supervisão"
+   ],
+   "corte_inicio": "1:01:02",
+   "corte_fim": "1:02:59"
+  },
+  {
+   "formato": "reels",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Hoje o facilitador foi o terapeuta perdido.",
+   "mensagem": "Como funciona uma intervisão em que o condutor faz o papel de quem traz o caso, com três critérios (interpretar, comunicar, dirigir) e nenhuma teoria. Mostrar só o enquadre, sem o caso.",
+   "roteiro": [
+    "Cena: 'hoje eu não vou dar teoria'",
+    "Os três critérios",
+    "O papel duplo (e o chapéu que ficou em casa)",
+    "Convite para o grupo"
+   ],
+   "corte_inicio": "0:04:53",
+   "corte_fim": "0:09:15"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Quando o grupo diz que ficou teórico demais.",
+   "mensagem": "Um facilitador que ouve a crítica e muda o formato do encontro seguinte.",
+   "roteiro": [
+    "Enquete: você prefere teoria ou prática nos grupos?",
+    "Trecho da autocrítica",
+    "Como ficou o encontro seguinte"
+   ],
+   "corte_inicio": "0:00:01",
+   "corte_fim": "0:00:52"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Carl Jung",
+   "contexto": "Pacientes descrevem os atendimentos diferente dos registros dele (limite do estudo de caso); metáfora do nome secreto de Rá em Símbolos da transformação; atendeu a prima (usado no papel); caso do rapaz que escreveu a tese da própria neurose sustentado por uma tia (segundo a fala); leitura junguiana das fantasias compulsórias por participantes."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Contraste entre os relatos de caso e a opinião dos pacientes, com historiadores mais duros com ele; exemplo de autor citado como autoridade."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Corte da sessão (o paciente 'faz o corte' que um lacaniano faria); exemplo de citação como autoridade ('está escrito no Lacan')."
+  },
+  {
+   "nome": "Aristóteles",
+   "contexto": "Clínica como arte, um saber do fazer."
+  },
+  {
+   "nome": "J. R. R. Tolkien",
+   "contexto": "Distinção entre a fuga do desertor e a fuga do prisioneiro (atribuição com dúvida: 'token' na legenda)."
+  },
+  {
+   "nome": "Ernest Hemingway",
+   "contexto": "Exemplo de texto que convida mais à reflexão ('Fegas Way' na legenda)."
+  },
+  {
+   "nome": "Fiódor Dostoiévski",
+   "contexto": "Crime e castigo como exemplo de texto que convida à reflexão."
+  },
+  {
+   "nome": "Fritz Perls (?)",
+   "contexto": "Possível referência ('o PS' na legenda) a um pioneiro que teria tido relações com paciente, citado pelo personagem; também menção a Esalen ('Asalém' na legenda)."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Aprimoramento Clínico do Alan",
+  "objetivo": "Desenvolver competências clínicas por meio de breve moldura teórica e exercícios práticos; neste encontro, treinar interpretação, comunicação e direção clínica numa intervisão simulada.",
+  "publico": "Psicólogos e estudantes associados à Allos, de abordagens variadas; o material prévio foi enviado apenas aos associados.",
+  "tamanho": "Cerca de 20 participantes (5 pessoas equivaliam a cerca de 1/4); metade saiu antes do meta-comentário.",
+  "duracao": "Cerca de 2 horas ('vai dar duas horas de grupo').",
+  "estrutura_padrao": "Normalmente um bloco teórico seguido de exercício; neste encontro, teoria mínima (cerca de 4 min), consigna com critérios, leitura de caso em role-play, intervisão longa, meta-comentário, co-planejamento e dúvidas.",
+  "papel_facilitador": "Desenha o exercício, faz o papel do terapeuta que traz o caso, pressiona o raciocínio, retém teoria de propósito e, no fim, sai do papel para dar feedback estrutural e fazer autocrítica.",
+  "regras_combinados": "Participantes são supervisores/colegas de intervisão; preferir falar a usar o chat; o facilitador alterna entre personagem e facilitador; perguntas e comentários podem ser feitos durante a leitura; parte da conversa ocorre antes e depois da gravação."
+ },
+ "reflexoes_do_facilitador": [
+  "O encontro anterior (especial de Dia dos Namorados, Alan 18 - Terapia de casal) o deixou triste: achou que 'deu um tantinho errado', e a crítica que ouviu foi que ficou excessivamente teórico. Ressalva que ninguém o criticou diretamente e que ele 'distorce muito as coisas que são ditas'. Por isso propôs um encontro quase sem teoria.",
+  "Usou a enquete sobre quem leu o caso para testar se vale mais a pena mandar o material antes ou fazer a leitura no momento (cerca de 1/4 disse que leu; ele aposta em 1/8).",
+  "Pensou em usar um chapéu (fedora) para marcar quando fala como personagem, mas achou que seria 'insultar a inteligência' do grupo; promete trazer se quiserem.",
+  "Previa que o caso precisaria de dois encontros.",
+  "Admite que talvez tenha 'pesado a mão' na dificuldade estrutural: o caso e a posição do terapeuta eram provocadores ('o terapeuta falar que tem fantasias sexuais com a paciente e que isso não é um problema é claramente isca'), e a personalidade de quem responde faz parte da dificuldade. Mas conclui que o problema principal não foi esse.",
+  "Reconhece que o silêncio do grupo diante da teoria pode ter a ver com a posição que ele ocupa, e que é difícil separar o 'Alan fazendo roleplay' do 'Alan que sabe teoria'.",
+  "Sua leitura é que a dinâmica não foi boa: um terapeuta real sairia com poucas diretrizes e continuaria confuso.",
+  "Aceita que deixou a intervisão livre demais e conclui que precisa demonstrar; num próximo formato vai comentar para onde a discussão tem de ir. Precisa ver isso acontecer mais vezes para estruturar uma solução.",
+  "Misturou um personagem inventado a um caso real porque 'caso real demais é um problema também'.",
+  "Tem 'excesso de teses' sobre como mudar a estrutura da intervisão; pensa num grupo de intervisão com 10 a 12 casos, como formação de supervisores ('decanos')."
+ ],
+ "referencias_a_outros_encontros": [
+  "Encontro anterior: 'especial de Dia dos Namorados', correspondente a Alan 18 - Terapia de casal (na transcrição do Alan 18, ele diz que não lembrava que era Dia dos Namorados e mudou o tema), criticado por ter ficado teórico demais.",
+  "Continuação: Alan 13 - Formulação de caso 2 retoma o mesmo caso; lá Alan diz que 'passou exercício' (formulações escritas) e que vai inverter a estrutura habitual (primeiro os participantes arriscam, depois ele explica por abordagem).",
+  "Planejamento discutido: na semana seguinte, continuar o caso aplicando uma das hipóteses (de Diogo e de dois participantes) ou voltar ao caso num exercício hermenêutico sem falar da relação nem do terapeuta.",
+  "Menção a outros formatos da Allos: grupo de aprimoramento, grupo de práticas, intervisões; projeto de grupo de intervisão ou formação de supervisores.",
+  "Diogo cita o vídeo de máximas clínicas de Alan no YouTube.",
+  "Houve discussão de 'dúvidas teóricas aleatórias' (sobre cientificidade, com Diogo) antes da gravação."
+ ],
+ "observacoes": "Legenda automática com ruído considerável; trechos da conversa (antes e depois) não foram gravados. O caso é composto (real com um personagem inventado) e narrado por Alan no papel do terapeuta; nomes, cidade, escola e idades foram omitidos na nota por privacidade, e só os significantes necessários à interpretação ('brinquedo', 'encantar', 'corte') foram mantidos. Várias falas do personagem são provocações deliberadas (fantasias sexuais com a paciente, ética da proximidade, 'psicólogo pode ficar com paciente?') e não devem ser usadas como recomendação nem em conteúdo público. Termos incertos: 'Fegas Way' = Hemingway; 'token' = Tolkien (?); 'Dips' = provavelmente a série Gypsy (?); 'Asalém' = Esalen (?); 'o PS' = possivelmente Fritz Perls (?); 'éticos' na fala sobre casos provavelmente é 'épicos' (?). Participantes citados na nota por função (Diogo, que coordena a parte clínica, é nomeado por ser facilitador na Allos)."
+}

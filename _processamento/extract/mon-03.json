@@ -1,0 +1,758 @@
+{
+ "id": "mon-03",
+ "nota": "Monitoria 03 - Alan - Análise da linguagem do paciente",
+ "pasta": "10 - Fichamentos/Monitorias",
+ "titulo": "Análise da linguagem do paciente",
+ "serie": "Monitorias",
+ "formato": "Monitoria",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Monitoria individual (o vídeo começa já em andamento) sobre o atendimento escrito de um paciente simulado que diz que o nome não importa. Alan analisa uma intervenção dupla da monitorada, ensina a fazer uma intervenção de cada vez e a cortar palavras extras, e mostra que o gesto 'procedimental' de nomear o paciente poderia ser a intervenção mais potente. Em seguida conduz o exercício de dividir uma única fala do paciente em fenômenos e reagrupá-los, levando a monitorada a sair do tema (queixas corporais) para a forma da linguagem: uma posição vacilante ('sei lá', 'depende') que, pelo critério de completude, amalgama tudo, como um significante mestre. A leitura é traduzida como assujeitamento e ligada ao caso Dora e à retificação subjetiva: o paciente mingua o próprio nome e convoca a terapeuta a protagonizar, e o trabalho será resistir a esse convite. Um aparte diferencia braqueologia (Žižek), amplificação, significante mestre e leitmotiv. Fecha com três lições (a importância do início, a análise fina do discurso, a retificação subjetiva) e um pedido de feedback.",
+ "em_uma_frase": "Fatiando e reagrupando uma única fala do paciente, Alan mostra que as palavras aparentemente banais revelam a posição do paciente e o lugar que ele oferece ao terapeuta, e que o início quase sempre dá o tom do texto inteiro.",
+ "competencias": [
+  "Escuta clínica",
+  "Interpretação",
+  "Construção frasal",
+  "Intervenção",
+  "Priorização clínica",
+  "Abertura e encerramento de sessão",
+  "Feedback clínico"
+ ],
+ "abordagens": [
+  "Psicanálise lacaniana",
+  "Psicanálise freudiana",
+  "Psicologia analítica junguiana"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:00",
+   "bloco": "Combinados",
+   "descricao": "O vídeo começa no meio; Alan combina que vai 'jogar' com a monitorada enquanto o grupo aprende por observação e comenta pelo chat ou microfone.",
+   "funcao": "Definir papéis: uma pessoa trabalha, o grupo observa.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:00:08",
+   "bloco": "Feedback",
+   "descricao": "Análise da intervenção dupla da monitorada: justificativa de cada parte, regra de uma intervenção por vez, palavras extras, alternativas reescritas.",
+   "funcao": "Corrigir a construção frasal com justificativa.",
+   "duracao_min": 5
+  },
+  {
+   "ts": "0:04:45",
+   "bloco": "Demonstração",
+   "descricao": "Leitura da segunda fala do paciente simulado.",
+   "funcao": "Material para o exercício.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:05:51",
+   "bloco": "Dinâmica",
+   "descricao": "Consigna: dividir a fala em fenômenos e contar quantas coisas acontecem.",
+   "funcao": "Treinar escuta fina.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:07:01",
+   "bloco": "Dinâmica",
+   "descricao": "Segmentação da primeira parte: 'sei lá', o nome da terapeuta (comentário do chat), 'depende do dia' / 'viu', 'vazio mesmo', queixas corporais, agrupamentos e lista de fenômenos.",
+   "funcao": "Análise e síntese com intervenções possíveis.",
+   "duracao_min": 10
+  },
+  {
+   "ts": "0:16:50",
+   "bloco": "Teoria",
+   "descricao": "Explica o que está fazendo: escansão da fala nos pontos de intervenção, análise e síntese.",
+   "funcao": "Tornar o método explícito.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:17:51",
+   "bloco": "Dinâmica",
+   "descricao": "Segunda parte: 'entalada', da topologia à linguagem, o 'depende' como tom geral.",
+   "funcao": "Deslocar do conteúdo para a forma.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:21:04",
+   "bloco": "Teoria",
+   "descricao": "Critério de completude (aula de hermenêutica), significante mestre, constelação de complexos.",
+   "funcao": "Dar um critério para escolher entre interpretações.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:22:43",
+   "bloco": "Discussão",
+   "descricao": "Comentário do chat (imagens de ingestão), assujeitamento, caso Dora, retificação subjetiva, convite a 'ser' o nome.",
+   "funcao": "Articular leitura e direção clínica em várias linguagens teóricas.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:26:32",
+   "bloco": "Dinâmica",
+   "descricao": "'Sabe?' como repetição de 'viu'; o nome da terapeuta; o paciente convoca a terapeuta como protagonista.",
+   "funcao": "Recolher a pista guardada e derivar a direção.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:28:33",
+   "bloco": "Feedback",
+   "descricao": "Verifica como a monitorada fechou a sessão (explicitude, vocativo).",
+   "funcao": "Ligar início e fim do atendimento.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:29:40",
+   "bloco": "Dinâmica",
+   "descricao": "Última parte da fala ('a maioria do tempo é só isso... o que sobra').",
+   "funcao": "Completar a segmentação.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:31:07",
+   "bloco": "Teoria",
+   "descricao": "Braqueologia (Žižek), significante mestre (Lacan), amplificação (Jung), leitmotiv; o significante como imagem acústica.",
+   "funcao": "Responder dúvidas do chat e diferenciar ferramentas de leitura.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:39:21",
+   "bloco": "Fechamento",
+   "descricao": "Experimento de monitorias de uma hora; três lições: a importância do início, a análise fina do discurso, a retificação subjetiva.",
+   "funcao": "Consolidação.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:42:58",
+   "bloco": "Fechamento",
+   "descricao": "Pede feedback sobre a condução fora da gravação; anuncia a intervisão (cronograma A).",
+   "funcao": "Avaliação do formato e transição.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Significante mestre",
+   "definicao": "Significante sem o qual toda a cadeia perde sentido; é o que dá sentido à fala. Fica parado e as coisas vão até ele: captura e 'coloniza' o resto do texto em seu nome, como um complexo parcial muito ativado.",
+   "exemplo": "A posição vacilante do 'sei lá' ou do 'depende' como elemento que amalgama a fala do paciente.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:21:04"
+  },
+  {
+   "nome": "Significante",
+   "definicao": "Imagem acústica, menos que a palavra (que é imagem acústica mais sentido). Permite escutar sentidos não intencionais.",
+   "exemplo": "Em 'sei lá', a palavra significa 'desconheço', mas a imagem acústica deixa ouvir o 'lá' como posicional.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:38:34"
+  },
+  {
+   "nome": "Critério de completude",
+   "definicao": "Critério hermenêutico para comparar interpretações: uma interpretação bem feita não deixa nada de fora e põe todos os elementos sob o mesmo signo.",
+   "exemplo": "O 'vazio' é só mais um elemento; a vacilação liga todos.",
+   "abordagem": "",
+   "ts": "0:21:04"
+  },
+  {
+   "nome": "Escansão",
+   "definicao": "Recorte da fala do paciente nos momentos em que caberia uma intervenção, combinando análise (separar pedaços) e síntese (ver quais pedaços são o mesmo). Termo reconstruído da transcrição (?).",
+   "exemplo": "Inventário de cinco ou seis fenômenos numa única fala.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:16:50"
+  },
+  {
+   "nome": "Braqueologia",
+   "definicao": "Termo como aparece na transcrição (grafia a conferir). Segundo Alan, é a leitura usada por Žižek em Absolute Recoil: ligar dois fragmentos aparentemente desconectados e lê-los como se se completassem literalmente, abandonando a leitura original. Baseia-se na ideia de que, para o inconsciente, a ordem do discurso é uma fantasia.",
+   "exemplo": "Žižek conecta duas cenas do Anel do Nibelungo, de Wagner, como se uma viesse logo depois da outra.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:32:55"
+  },
+  {
+   "nome": "Amplificação",
+   "definicao": "Método junguiano: retirar uma inflexão de outro texto que não completa literalmente o primeiro, mas lhe dá contexto e o enriquece; ficam duas leituras possíveis.",
+   "exemplo": "Diferenciada da braqueologia, em que só resta uma leitura.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:36:03"
+  },
+  {
+   "nome": "Leitmotiv",
+   "definicao": "Motivo que circula, progride, repete e se transforma ao longo do texto; é ele que se move (ao contrário do significante mestre). Na clínica, também o 'motivo no bolso' que o terapeuta guarda para produzir repetição.",
+   "exemplo": "'Te chamarei de [nome]' como motivo a ser retomado adiante.",
+   "abordagem": "",
+   "ts": "0:38:18"
+  },
+  {
+   "nome": "Complexo",
+   "definicao": "Na tradução junguiana da leitura: os fenômenos da fala são complexos parciais se manifestando, e busca-se a constelação principal de complexos.",
+   "exemplo": "O 'vazio' aparece como vários outros; a vacilação é o amálgama.",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "0:21:54"
+  },
+  {
+   "nome": "Retificação subjetiva",
+   "definicao": "Movimento de levar o paciente a se implicar naquilo de que se queixa, saindo da posição de objeto ou vítima. Alan o aponta como presente em muitos casos.",
+   "exemplo": "Freud mostrando a Dora que ela era 'a cavilha' da situação.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:42:07"
+  },
+  {
+   "nome": "Assujeitamento",
+   "definicao": "Posição de quem não toma posse da própria vida e se coloca como vítima dela; leitura da monitorada para o 'sei lá' e o 'depende'.",
+   "exemplo": "'Me chama do que quiser'; 'é aqui, ali, não sei, depende'.",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "0:23:40"
+  },
+  {
+   "nome": "Caso Dora",
+   "definicao": "Caso de Freud em que a paciente se via como objeto dos desejos do pai até Freud mostrar sua implicação na situação; modelo de retificação subjetiva.",
+   "exemplo": "'Você é a cavilha dessa situação.'",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:24:49"
+  },
+  {
+   "nome": "Complexo de Édipo",
+   "definicao": "Paradigma da análise; seu 'spoiler' é que o sujeito está implicado no próprio drama ('o problema é você').",
+   "exemplo": "Usado para justificar a importância de convidar o paciente a ser sujeito.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "0:24:49"
+  },
+  {
+   "nome": "Nomeação",
+   "definicao": "Dar ou marcar o nome do paciente como intervenção que o convida a ocupar um lugar de sujeito; chamar atenção para nomes e linguagem é relevante desde o início.",
+   "exemplo": "'Te chamarei de [nome]' dito a um paciente que afirma que o nome não importa.",
+   "abordagem": "",
+   "ts": "0:03:53"
+  },
+  {
+   "nome": "Caminho de menor resistência",
+   "definicao": "Com duas frentes na mesma intervenção, o paciente resistente responde à mais fácil e ignora a outra.",
+   "exemplo": "Responder só 'tá bom, pode ser [nome]' e ignorar a pergunta.",
+   "abordagem": "",
+   "ts": "0:01:54"
+  },
+  {
+   "nome": "Final presente no início",
+   "definicao": "O que se encontra no fim da jornada já estava no começo; o início quase sempre dá o tom do texto inteiro. Alan chama isso de verdade psicológica profunda.",
+   "exemplo": "A primeira imagem de uma série de sonhos dá o spoiler da série; ao rever uma série, o que só ficava óbvio no episódio 7 já estava no 1.",
+   "abordagem": "",
+   "ts": "0:40:10"
+  },
+  {
+   "nome": "Demanda dirigida ao terapeuta",
+   "definicao": "O lugar que o paciente oferece ao terapeuta na própria fala; aqui, o de protagonista do processo, enquanto o paciente mingua.",
+   "exemplo": "Os 'viu', os 'sabe' e o nome da terapeuta repetidos.",
+   "abordagem": "",
+   "ts": "0:26:42"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Segmentação da fala do paciente",
+   "objetivo": "Treinar a escuta da linguagem: dividir uma fala em fenômenos (análise), reagrupar os que são o mesmo (síntese), identificar o elemento que amalgama e mapear pontos de intervenção. Alan chama o trabalho de 'escansão' e 'exercício de braqueologia'.",
+   "competencias": [
+    "Escuta clínica",
+    "Interpretação",
+    "Priorização clínica"
+   ],
+   "configuracao": "Individual (supervisor e uma monitorada) diante do grupo, que observa e contribui pelo chat; online.",
+   "tempo": "Cerca de 30–35 min para uma fala de um parágrafo.",
+   "materiais": "Transcrição escrita do atendimento simulado, compartilhada na tela; idealmente, um recurso para colorir os trechos.",
+   "consigna": "Divida para mim os fenômenos que você conta como separados. Vamos contar quantas coisas estão acontecendo nessa única fala. Até onde você acha que vai a primeira parte?",
+   "passos": [
+    "Ler a fala inteira.",
+    "A monitorada marca onde termina cada parte.",
+    "O supervisor propõe cortes mais finos (separar marcadores como 'viu') ou mais amplos (agrupar trechos).",
+    "Para cada pedaço, esboçar intervenções ou interpretações possíveis.",
+    "Pedir conexões: com qual pedaço anterior este se conecta?",
+    "Listar e numerar os fenômenos.",
+    "Aplicar o critério de completude para achar o elemento que amalgama.",
+    "Registrar as hipóteses concorrentes e as pistas guardadas 'no bolso' para uso futuro."
+   ],
+   "feedback": "Critérios: nada é 'só maneirismo'; olhar a forma, não só o tema; a melhor leitura é a que deixa menos coisas de fora. As leituras da monitorada são validadas como 'possíveis' e contrastadas com uma alternativa; o supervisor empurra quando há resposta melhor ('pensa mais um pouquinho').",
+   "exemplos_praticos": "A monitorada segmentou pelo sentido e pelo tema (vazio, somático, demanda externa). Alan cortou nos marcadores de linguagem e agrupou pela forma (vacilação, 'não é exatamente ele mesmo'). O chat trouxe o nome da terapeuta como fenômeno e as imagens de ingestão como leitura alternativa. A monitorada formulou o 'assujeitamento', validado por Alan.",
+   "variacoes": "Traduzir a leitura para várias linguagens teóricas (Lacan, Freud, Jung, humanistas); marcar os grupos com cores; fazer um atendimento inteiro sobre a primeira fala quando o tempo de roleplay é curto; ligar fragmentos distantes (braqueologia).",
+   "armadilhas": "Ficar preso ao conteúdo (corpo) e perder a forma; procurar 'a' interpretação correta; tratar palavras como vício de fala; confundir braqueologia com amplificação; estourar o tempo.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:05:51"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Combinar papéis",
+   "descricao": "Explica que vai trabalhar com a monitorada enquanto o grupo aprende por observação e pode comentar pelo microfone ou pelo chat.",
+   "exemplo": "'Vou ficar jogando com ela; vocês vão aprender por observação.'",
+   "ts": "0:00:28"
+  },
+  {
+   "movimento": "Pedir justificativa do que ficou implícito",
+   "descricao": "Nota que a monitorada justificou só metade da intervenção e pede o raciocínio da outra parte.",
+   "exemplo": "'Quando eu te perguntei, você falou só da segunda parte. Me justifica a primeira.'",
+   "ts": "0:00:28"
+  },
+  {
+   "movimento": "Regra com razões e alternativa concreta",
+   "descricao": "Dá a regra de uma intervenção por vez com duas justificativas e reescreve a intervenção de duas maneiras.",
+   "exemplo": "'Te chamarei de [nome]' sozinho, ou com um toque de psicoeducação sobre nomes.",
+   "ts": "0:02:55"
+  },
+  {
+   "movimento": "Validar antes de avançar",
+   "descricao": "Reconhece o que estava bom antes de seguir.",
+   "exemplo": "'No geral gostei, só acho que podia ter dividido a intervenção.'",
+   "ts": "0:04:45"
+  },
+  {
+   "movimento": "Incorporar o chat e creditar",
+   "descricao": "Traz comentários dos observadores para a construção, citando quem contribuiu e ligando à fala da monitorada.",
+   "exemplo": "Observação de um participante sobre o nome da terapeuta; leitura das imagens de ingestão.",
+   "ts": "0:08:05"
+  },
+  {
+   "movimento": "Plantar pistas e voltar a elas",
+   "descricao": "Separa um detalhe e anuncia que vai guardá-lo; retoma-o quando reaparece, criando suspense pedagógico.",
+   "exemplo": "O 'viu' guardado no bolso volta como 'sabe?'.",
+   "ts": "0:09:31"
+  },
+  {
+   "movimento": "Recapitular para quem chegou depois",
+   "descricao": "Resume o que foi comentado antes da chegada da monitorada para integrá-la.",
+   "exemplo": "Retoma a hipótese adleriana sobre o nome que 'não importa'.",
+   "ts": "0:09:31"
+  },
+  {
+   "movimento": "Modelar intervenções ao vivo",
+   "descricao": "Improvisa intervenções sobre detalhes da fala para mostrar seu valor e acolhe variações da monitorada.",
+   "exemplo": "'Então hoje é um vazio mesmo... de vez em quando é um vazio de mentira?'",
+   "ts": "0:10:36"
+  },
+  {
+   "movimento": "Alternar cortes finos e amplos",
+   "descricao": "Às vezes divide mais que a monitorada, às vezes agrupa, para mostrar que segmentar é uma escolha interpretativa.",
+   "exemplo": "'Aqui eu vou fazer o contrário, vou tentar expandir.'",
+   "ts": "0:11:48"
+  },
+  {
+   "movimento": "Deslocar sem desqualificar",
+   "descricao": "Reconhece a leitura da monitorada como possível e oferece outra, dizendo que o objetivo é ampliar o olhar e não achar a correta.",
+   "exemplo": "'Essa é uma interpretação possível... o principal não é qual é a interpretação correta.'",
+   "ts": "0:18:25"
+  },
+  {
+   "movimento": "Empurrar para uma resposta melhor",
+   "descricao": "Quando a resposta é aceitável mas não a melhor, pede mais reflexão sem entregar a resposta.",
+   "exemplo": "'Pensa mais um pouquinho, porque aqui eu acho que tem uma resposta mais certa.'",
+   "ts": "0:17:51"
+  },
+  {
+   "movimento": "Traduzir entre línguas teóricas",
+   "descricao": "Reformula a mesma ideia em lacanês, em linguagem junguiana e em Freud para encontrar a língua da monitorada.",
+   "exemplo": "'Se a gente quiser falar lacanês, eu sei que você não gosta muito...'",
+   "ts": "0:21:04"
+  },
+  {
+   "movimento": "Conectar com outras atividades da formação",
+   "descricao": "Liga o exercício a aulas e conversas anteriores.",
+   "exemplo": "A terceira aula de hermenêutica sobre critérios de interpretação.",
+   "ts": "0:21:04"
+  },
+  {
+   "movimento": "Reconhecer a potência intuitiva",
+   "descricao": "Mostra ao monitorado que um gesto feito sem intenção tinha grande valor clínico, incentivando que o faça com consciência.",
+   "exemplo": "'Isso que você fez tinha muito mais potência do que você imagina.'",
+   "ts": "0:25:45"
+  },
+  {
+   "movimento": "Responder dúvidas com diferenciações e imagens",
+   "descricao": "Diante de perguntas do chat, diferencia conceitos próximos com critérios simples e imagens.",
+   "exemplo": "'A diferença é quem se mexe.'",
+   "ts": "0:38:18"
+  },
+  {
+   "movimento": "Administrar o tempo em voz alta",
+   "descricao": "Adia a leitura do chat, explica o experimento de monitorias de uma hora e ironiza a própria dificuldade de terminar no horário.",
+   "exemplo": "'Eu sou a pessoa mais enrolada do mundo para acabar as coisas.'",
+   "ts": "0:39:21"
+  },
+  {
+   "movimento": "Fechar com lições numeradas",
+   "descricao": "Condensa o encontro em três aprendizados, com expectativa modesta.",
+   "exemplo": "'Se vocês aprenderem 10%, já é alguma coisa.'",
+   "ts": "0:39:21"
+  },
+  {
+   "movimento": "Pedir feedback sobre a própria condução",
+   "descricao": "Pergunta o que pode melhorar e se o formato foi cansativo, justificando o valor do formato individual.",
+   "exemplo": "'O que eu posso melhorar... se foi muito chatinho esse movimento.'",
+   "ts": "0:42:58"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Faça uma intervenção por vez.",
+   "justificativa": "Evita que o paciente fuja pelo caminho de menor resistência e que uma parte apague a outra.",
+   "contexto": "Sempre, sobretudo com pacientes resistentes.",
+   "competencia": "Intervenção",
+   "ts": "0:01:54"
+  },
+  {
+   "dica": "Corte palavras extras.",
+   "justificativa": "Elas tiram potência da intervenção.",
+   "contexto": "Ao revisar construções, especialmente em psicanálise.",
+   "competencia": "Construção frasal",
+   "ts": "0:02:55"
+  },
+  {
+   "dica": "Diante de 'meu nome não importa', nomeie e deixe a nomeação trabalhar sozinha.",
+   "justificativa": "Convida o paciente a ocupar um lugar de sujeito e cria um motivo para repetir depois.",
+   "contexto": "Início do tratamento com pacientes que se apagam.",
+   "competencia": "Intervenção",
+   "ts": "0:03:53"
+  },
+  {
+   "dica": "Não hesite em enquadrar explicitamente o trabalho com a linguagem.",
+   "justificativa": "Um pouco de psicoeducação sobre nomes e palavras não é incompatível com a psicanálise.",
+   "contexto": "Início da sessão.",
+   "competencia": "Psicoeducação",
+   "ts": "0:03:53"
+  },
+  {
+   "dica": "Preste muita atenção ao início do atendimento.",
+   "justificativa": "Quase sempre o início dá o tom e contém o 'spoiler' do resto.",
+   "contexto": "Primeiras falas e primeiras sessões.",
+   "competencia": "Escuta clínica",
+   "ts": "0:40:10"
+  },
+  {
+   "dica": "Guarde um 'motivo' no bolso.",
+   "justificativa": "Uma palavra ou gesto do começo pode ser retomado depois para produzir repetição e sentido.",
+   "contexto": "Fechar sessões, retomar temas.",
+   "competencia": "Intervenção",
+   "ts": "0:25:45"
+  },
+  {
+   "dica": "Escute os marcadores banais ('sei lá', 'depende', 'viu', 'sabe', 'mesmo').",
+   "justificativa": "Revelam a posição do paciente e para quem ele fala.",
+   "contexto": "Qualquer fala, sobretudo quando o conteúdo parece pobre.",
+   "competencia": "Escuta clínica",
+   "ts": "0:10:36"
+  },
+  {
+   "dica": "Separe e depois reagrupe a fala do paciente.",
+   "justificativa": "A análise mostra pontos de intervenção; a síntese mostra os temas.",
+   "contexto": "Ao estudar transcrições ou preparar supervisão.",
+   "competencia": "Escuta clínica",
+   "ts": "0:16:50"
+  },
+  {
+   "dica": "Busque a ligação pela forma, não só pelo tema.",
+   "justificativa": "O padrão de linguagem costuma ser mais geral e abrangente que o conteúdo.",
+   "contexto": "Quando várias queixas parecem desconexas.",
+   "competencia": "Interpretação",
+   "ts": "0:19:48"
+  },
+  {
+   "dica": "Escolha a interpretação que deixa menos coisas de fora.",
+   "justificativa": "O critério de completude indica a leitura mais potente.",
+   "contexto": "Entre hipóteses concorrentes.",
+   "competencia": "Interpretação",
+   "ts": "0:21:04"
+  },
+  {
+   "dica": "Observe a quem o paciente dá protagonismo na própria fala.",
+   "justificativa": "Se ele convoca o terapeuta e mingua a si mesmo, a tarefa é resistir ao convite e promover a retificação subjetiva.",
+   "contexto": "Pacientes passivos ou que se veem como vítimas da própria vida.",
+   "competencia": "Relação terapêutica",
+   "ts": "0:27:49"
+  },
+  {
+   "dica": "Retome no fechamento a construção central da sessão.",
+   "justificativa": "Amarra início e fim e renova o convite; na escrita, o nome como vocativo, com pausa, fica bem explícito.",
+   "contexto": "Encerramento de sessão.",
+   "competencia": "Abertura e encerramento de sessão",
+   "ts": "0:29:40"
+  },
+  {
+   "dica": "Mesmo com pouco tempo de roleplay, aprofunde uma só fala.",
+   "justificativa": "Dá para fazer o atendimento inteiro sobre a primeira fala do paciente.",
+   "contexto": "Treinos curtos.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:41:08"
+  },
+  {
+   "dica": "Mantenha pelo menos duas hipóteses vivas e teste-as nas falas seguintes.",
+   "justificativa": "Leituras diferentes (somática × forma da linguagem) podem se mostrar mais ou menos pertinentes adiante.",
+   "contexto": "Formulação ao longo das primeiras sessões.",
+   "competencia": "Formulação de caso",
+   "ts": "0:42:07"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "O que se encontra no fim da jornada já estava no início.",
+   "argumento": "Vale para filmes, séries, sequências de sonhos e vidas; a primeira imagem costuma dar o spoiler.",
+   "contraponto": "Tratar o começo da sessão como protocolo ou aquecimento.",
+   "implicacao": "Dar peso interpretativo às primeiras falas e aos gestos iniciais, inclusive os 'procedimentais'.",
+   "quem": "Alan",
+   "ts": "0:40:10"
+  },
+  {
+   "tese": "Uma única fala basta para um atendimento inteiro.",
+   "argumento": "Assim como Jung escreveu um seminário a partir de um parágrafo, uma fala bem analisada rende muito.",
+   "contraponto": "Quem reclama de ter só 20 ou 30 minutos de roleplay.",
+   "implicacao": "Treinar profundidade em vez de quantidade.",
+   "quem": "Alan",
+   "ts": "0:41:08"
+  },
+  {
+   "tese": "A melhor interpretação é a mais completa.",
+   "argumento": "Critério hermenêutico: quando a interpretação é bem feita, nada fica de fora.",
+   "contraponto": "Escolher a interpretação pelo tema mais saliente (o vazio, o corpo).",
+   "implicacao": "Testar hipóteses contra todos os elementos da fala.",
+   "quem": "Alan",
+   "ts": "0:21:04"
+  },
+  {
+   "tese": "A psicoeducação pontual não é incompatível com a psicanálise.",
+   "argumento": "Chamar a atenção para nomes e linguagem é coerente com a própria teoria.",
+   "contraponto": "Uma pureza técnica que proibiria explicar qualquer coisa ao paciente.",
+   "implicacao": "Pode-se enquadrar explicitamente o trabalho com a linguagem desde o início.",
+   "quem": "Alan",
+   "ts": "0:03:53"
+  },
+  {
+   "tese": "O modo como o paciente fala revela mais do que o tema de que ele fala.",
+   "argumento": "A forma (vacilação, apresentar algo que 'não é exatamente ele mesmo') conecta todos os fenômenos; o tema corporal é uma leitura possível, porém menos abrangente.",
+   "contraponto": "Escuta centrada no conteúdo e na topologia.",
+   "implicacao": "Escutar a linguagem como modo de ser no mundo.",
+   "quem": "Alan",
+   "ts": "0:19:48"
+  },
+  {
+   "tese": "A monitoria individual e detalhada tem um valor que outros formatos não oferecem.",
+   "argumento": "É uma 'concessão' de ir bem no detalhe, algo que não cabe em outros momentos.",
+   "contraponto": "A possível impressão de que o formato é cansativo para quem só observa.",
+   "implicacao": "Manter momentos de supervisão aprofundada de uma pessoa só.",
+   "quem": "Alan",
+   "ts": "0:42:58"
+  },
+  {
+   "tese": "Monitorias deveriam caber em uma hora.",
+   "argumento": "Alan quer testar atividades mais curtas; 'se eu conseguir, todo mundo consegue'.",
+   "contraponto": "A tendência dele próprio a se estender.",
+   "implicacao": "Planejar o fechamento e sacrificar partes (como a leitura do chat) para cumprir o tempo.",
+   "quem": "Alan",
+   "ts": "0:39:21"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "É sempre interessante a gente fazer uma intervenção de cada vez.",
+   "tema": "intervenção",
+   "ts": "0:01:54"
+  },
+  {
+   "texto": "Às vezes uma segunda intervenção mais potente acaba apagando a primeira para o paciente.",
+   "tema": "intervenção",
+   "ts": "0:02:55"
+  },
+  {
+   "texto": "Palavras extras tiram potência.",
+   "tema": "construção frasal",
+   "ts": "0:02:55"
+  },
+  {
+   "texto": "Esse exercício de quebrar a fala do paciente permite trabalhar com mais cuidado a linguagem.",
+   "tema": "escuta",
+   "ts": "0:11:48"
+  },
+  {
+   "texto": "O principal não é qual é a interpretação correta; é perceber que dá para sair um pouco do que está na topologia para entrar no que está na linguagem.",
+   "tema": "interpretação",
+   "ts": "0:18:25"
+  },
+  {
+   "texto": "A primeira palavra do paciente te dá o tom de tudo que vai vir depois.",
+   "tema": "escuta",
+   "ts": "0:19:48"
+  },
+  {
+   "texto": "Quando uma interpretação é bem feita, nada fica de fora.",
+   "tema": "hermenêutica",
+   "ts": "0:21:04"
+  },
+  {
+   "texto": "Do ponto de vista do inconsciente, essa ordem não existe. Essa ordem é uma fantasia.",
+   "tema": "linguagem e inconsciente",
+   "ts": "0:33:56"
+  },
+  {
+   "texto": "O significante mestre fica parado e as coisas vão até ele; o leitmotiv é que se mexe.",
+   "tema": "teoria",
+   "ts": "0:37:02"
+  },
+  {
+   "texto": "Quase sempre o início dá o tom do texto inteiro.",
+   "tema": "início da sessão",
+   "ts": "0:40:10"
+  },
+  {
+   "texto": "Coisas que você acha que está fazendo de maneira procedimental, com frequência, lá na frente, vão se provar muito fundamentais.",
+   "tema": "início da sessão",
+   "ts": "0:40:10"
+  },
+  {
+   "texto": "Aquilo que você encontra ao final da jornada já estava presente desde o início: é uma verdade psicológica bastante profunda.",
+   "tema": "máxima",
+   "ts": "0:40:10"
+  },
+  {
+   "texto": "Dá para você fazer o atendimento inteiro na primeira fala do paciente.",
+   "tema": "formação",
+   "ts": "0:41:08"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "reels",
+   "pilar": "clinica-na-pratica",
+   "gancho": "O começo da sessão já contém o spoiler do tratamento.",
+   "mensagem": "O que parece procedimental no início costuma ser o mais importante; exemplos de filmes, séries e sonhos.",
+   "roteiro": [
+    "Gancho: 'O fim da terapia já está na primeira fala'",
+    "Exemplo: rever uma série e perceber que tudo estava no episódio 1",
+    "Exemplo: a primeira imagem de uma série de sonhos",
+    "Dica: preste atenção nos primeiros minutos"
+   ],
+   "corte_inicio": "0:40:10",
+   "corte_fim": "0:41:08"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Uma intervenção de cada vez: dois motivos.",
+   "mensagem": "O paciente escolhe a parte mais fácil e a parte mais forte apaga a outra; palavras extras tiram potência.",
+   "roteiro": [
+    "Capa: 'Você faz duas intervenções numa frase?'",
+    "Motivo 1: caminho de menor resistência",
+    "Motivo 2: uma intervenção apaga a outra",
+    "Bônus: palavras extras tiram potência",
+    "Como fazer: divida e espere a resposta"
+   ],
+   "corte_inicio": "0:01:54",
+   "corte_fim": "0:03:53"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Como saber se uma interpretação é melhor que outra?",
+   "mensagem": "O critério de completude: a boa interpretação não deixa nada de fora.",
+   "roteiro": [
+    "Capa: a pergunta",
+    "O critério de completude",
+    "Teste: sua hipótese explica todos os elementos?",
+    "Tema saliente × forma que amarra tudo"
+   ],
+   "corte_inicio": "0:21:04",
+   "corte_fim": "0:22:43"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Amplificação, significante mestre ou braqueologia?",
+   "mensagem": "Três maneiras de ligar fragmentos de um discurso (Jung, Lacan, Žižek); a diferença está em quem se move e em quantas leituras restam.",
+   "roteiro": [
+    "Capa",
+    "Amplificação (Jung): enriquece, ficam duas leituras",
+    "Significante mestre (Lacan): tudo gira em torno de um centro",
+    "Braqueologia (Žižek): completa literalmente, fica uma leitura",
+    "Leitmotiv: o motivo que se move"
+   ],
+   "corte_inicio": "0:34:57",
+   "corte_fim": "0:38:34"
+  },
+  {
+   "formato": "post",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "Dá para fazer uma sessão inteira com uma só fala.",
+   "mensagem": "No treino clínico, profundidade vale mais que quantidade.",
+   "roteiro": [
+    "Frase de Alan",
+    "Legenda: como estudar uma fala em camadas"
+   ],
+   "corte_inicio": "0:41:08",
+   "corte_fim": "0:42:07"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Como treinamos escuta na Allos: fatiar a fala e reagrupar.",
+   "mensagem": "Análise e síntese como exercício de monitoria, sem expor material de caso.",
+   "roteiro": [
+    "Story 1: a consigna 'quantas coisas acontecem nesta fala?'",
+    "Story 2: separar (análise) e juntar (síntese)",
+    "Story 3: convite para os grupos"
+   ],
+   "corte_inicio": "0:16:50",
+   "corte_fim": "0:17:51"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Caso Dora como modelo de retificação subjetiva; Édipo como paradigma da análise."
+  },
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "Significante mestre e significante como imagem acústica, para achar o elemento que amalgama a fala."
+  },
+  {
+   "nome": "Slavoj Žižek",
+   "contexto": "Absolute Recoil: origem do termo 'braqueologia' (como transcrito), a leitura que liga fragmentos como se se completassem; descrito como 'lacaniano esquisito, mais hegeliano'. Uma das referências de Alan para pensar a psicanálise."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "Amplificação, complexos parciais e constelação; exemplo de um seminário inteiro escrito a partir de um parágrafo."
+  },
+  {
+   "nome": "Alfred Adler",
+   "contexto": "Hipótese de fenomenologia 'adleriana': usar a própria insignificância e invisibilidade para chamar atenção."
+  },
+  {
+   "nome": "Gilles Deleuze",
+   "contexto": "Vocabulário de 'máquina imperial' e 'buraco negro' para descrever o significante mestre (identificação incerta na transcrição (?))."
+  },
+  {
+   "nome": "Richard Wagner",
+   "contexto": "O Anel do Nibelungo, fonte do exemplo de Žižek ao ligar duas cenas."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Monitoria (formato standard) com Alan",
+  "objetivo": "Supervisionar em detalhe o atendimento escrito de uma pessoa (roleplay com paciente simulado) e demonstrar ferramentas de monitoria; nesta, o eixo é a linguagem, a escolha vocabular, a interpretação e a priorização.",
+  "publico": "Participantes da formação clínica da Allos (monitorados e observadores).",
+  "tamanho": "Uma monitorada e um grupo observador que comenta pelo chat (número não informado).",
+  "duracao": "Alvo de 1 hora (experimento declarado), mais cerca de 5 min de conversa sem gravação.",
+  "estrutura_padrao": "Combinados → feedback da intervenção → leitura da fala do paciente → exercício de segmentação → aparte teórico → três lições → feedback do grupo sem gravação → próxima atividade do cronograma (intervisão).",
+  "papel_facilitador": "Trabalha com a monitorada em primeiro plano, modela intervenções, integra o chat, traduz entre referenciais e administra o tempo.",
+  "regras_combinados": "Uma pessoa trabalha e o grupo aprende por observação; comentários pelo microfone ou chat (lidos eventualmente); gravação interrompida para o feedback; cronograma A (com intervisão) e cronograma básico."
+ },
+ "reflexoes_do_facilitador": [
+  "Quer que as monitorias durem só uma hora e trata isso como teste: 'sou a pessoa mais enrolada do mundo para acabar as coisas'.",
+  "Admite ter se confundido na ordem do texto ('eu que sequelei aqui').",
+  "Lamenta não poder colorir o texto na tela para mostrar os agrupamentos.",
+  "Pergunta se o movimento foi 'muito chatinho' para quem observa e defende o formato individual como uma concessão de profundidade que outros momentos não permitem.",
+  "Deixa a leitura dos comentários do chat para depois para caber no tempo.",
+  "Diz que gostaria de, no futuro, escrever um livro inteiro sobre um só parágrafo de alguns autores de psicologia, quando a IA estiver mais competente."
+ ],
+ "referencias_a_outros_encontros": [
+  "Antes da gravação ou da chegada da monitorada, Alan já tinha comentado as duas primeiras interações do atendimento (hipótese adleriana).",
+  "Terceira aula de hermenêutica da formação, sobre critérios para saber quando uma interpretação é melhor que outra.",
+  "Conversa anterior entre Alan e a monitorada sobre método e significante mestre.",
+  "Menção a 'como fiz da última vez' em outra monitoria.",
+  "Próxima vez: retomar o caso a partir da segunda intervenção da monitorada e ver a pertinência das hipóteses.",
+  "Em seguida viria a intervisão (cronograma A, 'secreto para a maior parte das pessoas'); para o cronograma básico, outra atividade às 16h.",
+  "Citada em mon-01 como a monitoria 'de linguagem' da série."
+ ],
+ "observacoes": "Caso simulado (roleplay escrito; 'o ECO (?) imita o paciente' sugere uma ferramenta de simulação). O nome que a terapeuta deu ao paciente fictício foi substituído por [nome] na nota. O vídeo começa com a monitoria em andamento e termina de forma abrupta. Termos incertos: 'braqueologia' (grafia a conferir; talvez 'braquilogia' (?)), 'escansão' (transcrito como 'escão'), a atribuição a Deleuze ('The L'), 'passagens do Toy' (Tolkien? Tolstói? (?)) e o seminário de Jung citado (não especificado). A nota passou da faixa de palavras sugerida por causa da densidade do encontro."
+}

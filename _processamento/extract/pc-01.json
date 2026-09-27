@@ -1,0 +1,1102 @@
+{
+ "id": "pc-01",
+ "nota": "Prática Clínica 01 - Performance, prática e paciente simulado por IA",
+ "pasta": "10 - Fichamentos/Prática Clínica",
+ "titulo": "Performance, prática e paciente simulado por IA",
+ "serie": "Prática Clínica",
+ "formato": "Prática clínica",
+ "facilitadores": [
+  "Alan"
+ ],
+ "resumo": "Primeiro encontro da série, dedicado a apresentar a proposta. Alan fixa os combinados (câmera opcional, participação não negociável, crítica individual dura) e defende que a clínica se aprende como qualquer habilidade: treinando movimentos específicos com feedback de alguém de fora, e não acumulando opiniões de autores nem só atendendo ('performance é jogar pelada'). Monta uma escada que vai de ouvir uma opinião até praticar com feedback e discute por que a faculdade não oferece isso (supervisão por relato, nota, economia). Na parte prática, os participantes atendem por texto um paciente simulado por IA num dilema ético (homem religioso em conflito com uma atração sexual que contraria seus valores). O debrief gera teses sobre o pedido disfarçado, o peso da execução, a teoria como escudo, as fontes da confiança clínica e a intervenção ex cathedra e post factum, além de um mapa comparado de quem dá a direção do tratamento em cada abordagem. Termina com o contrato da série (um elemento por semana, simulações e exercícios variados, Mapa de competências) e uma apresentação da Allos.",
+ "em_uma_frase": "A clínica se aprende treinando movimentos específicos com feedback, e não 'jogando pelada' nem colecionando opiniões de autores. A amostra do método é um paciente simulado por IA que encena um dilema sobre quem dá a direção do tratamento.",
+ "competencias": [
+  "Desenvolvimento profissional",
+  "Escuta clínica",
+  "Direção do tratamento",
+  "Intervenção",
+  "Relação terapêutica",
+  "Articulação teoria-prática",
+  "Construção frasal",
+  "Primeira sessão e entrevistas iniciais"
+ ],
+ "abordagens": [
+  "Gestalt-terapia",
+  "Psicologia analítica junguiana",
+  "Psicanálise lacaniana",
+  "Psicanálise freudiana",
+  "Terapia cognitivo-comportamental",
+  "Análise do comportamento",
+  "Terapia sistêmica",
+  "Abordagem centrada na pessoa",
+  "Terapias contextuais"
+ ],
+ "estrutura": [
+  {
+   "ts": "0:00:10",
+   "bloco": "Abertura",
+   "descricao": "Alan se apresenta como presidente da Allos e anuncia que vai apresentar a proposta das próximas semanas e dar um gostinho prático.",
+   "funcao": "Situar um público que, na maioria, tem o primeiro contato com a Allos.",
+   "duracao_min": 1
+  },
+  {
+   "ts": "0:01:03",
+   "bloco": "Combinados",
+   "descricao": "Câmera opcional (ou avisar se estiver perdido); participação por microfone ou chat não negociável; crítica individual dura ('carrasco').",
+   "funcao": "Estabelecer o contrato de um grupo de prática.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:02:30",
+   "bloco": "Abertura",
+   "descricao": "Roteiro do dia: o que pensa sobre ensino, espaço para críticas, prática com tecnologia didática.",
+   "funcao": "Antecipar a sequência e declarar a intenção de persuadir.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "0:04:12",
+   "bloco": "Teoria",
+   "descricao": "Crítica ao ensino de psicologia: metáforas esportivas, aula de natação, escada da opinião à prática, performance e prática, lacuna entre raciocínio e execução, vídeo de sessão como tabu, vocabulário dos elementos clínicos (construção de frase, entonação), incentivos e economia da faculdade.",
+   "funcao": "Justificar o método antes de aplicá-lo.",
+   "duracao_min": 17
+  },
+  {
+   "ts": "0:21:27",
+   "bloco": "Discussão",
+   "descricao": "Uma participante teme colegas rasos que vão clinicar. Alan tensiona: raciocínio teórico não prediz atendimento, é fácil ver o ruim e difícil ver o excelente, clinicar mais ou menos é fácil, a metáfora do UFC.",
+   "funcao": "Usar a fala do grupo para aprofundar a tese e aliviar a ansiedade dos iniciantes.",
+   "duracao_min": 9
+  },
+  {
+   "ts": "0:30:55",
+   "bloco": "Discussão",
+   "descricao": "Comentário sobre o foco das faculdades em pesquisa e sobre os estágios. Alan responde com ciência e arte, a origem da Allos e seus pilares (motivação, liberdade, remuneração).",
+   "funcao": "Recortar o grupo para quem quer clinicar.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "0:34:10",
+   "bloco": "Dinâmica",
+   "descricao": "Apresentação do simulador e envio do link. Quem já entrou começa a atender enquanto ele resolve problemas de acesso.",
+   "funcao": "Transição para a prática sem tempo morto.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:38:06",
+   "bloco": "Dinâmica",
+   "descricao": "Consigna: caso feito para treinar uma habilidade específica (não revelada), dilema ético, fazer o caso progredir. Explica a lógica do paciente de IA como substituto do colega de roleplay.",
+   "funcao": "Enquadrar o exercício como desafio.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "0:41:55",
+   "bloco": "Dinâmica",
+   "descricao": "Cerca de oito minutos de atendimento individual e silencioso por texto.",
+   "funcao": "Execução individual.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "0:50:19",
+   "bloco": "Rodada de respostas",
+   "descricao": "Debrief: mapear a experiência; participante que investigou o caminho até a busca de ajuda; participante que fez condução genérica; regra do pedido disfarçado; a execução pode sustentar uma direção imprecisa.",
+   "funcao": "Transformar a experiência em princípios clínicos.",
+   "duracao_min": 18
+  },
+  {
+   "ts": "1:08:30",
+   "bloco": "Feedback",
+   "descricao": "Participante que 'jogou verde para colher maduro'. Parêntese: teoria como escudo e três fontes de confiança clínica (teórico, interpretação, método).",
+   "funcao": "Nomear o nível em que cada um se apoia.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:14:46",
+   "bloco": "Demonstração",
+   "descricao": "Exercício ao vivo: dar sentido à tensão do paciente em linguagem religiosa, depois psicológica, depois outra. Distinção entre intervenção ex cathedra e post factum.",
+   "funcao": "Treinar a antecipação de direções clínicas.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:22:51",
+   "bloco": "Rodada de respostas",
+   "descricao": "Termômetro binário de dificuldade (mão levantada). Caso deixado em suspense e pedido de palpite sobre a habilidade-alvo.",
+   "funcao": "Calibrar a dificuldade do próximo exercício e manter a curiosidade.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:26:56",
+   "bloco": "Comparação de abordagens",
+   "descricao": "Dilema ético: quem dá a direção do tratamento em análise do comportamento, sistêmica, ACP, Gestalt, Lacan, TCC, Jung e coaching.",
+   "funcao": "Mostrar o caso como pergunta de psicologia comparada e os limites da teoria.",
+   "duracao_min": 8
+  },
+  {
+   "ts": "1:35:19",
+   "bloco": "Combinados",
+   "descricao": "Proposta da série: 'academia' com vários exercícios para o mesmo músculo; simulação por texto em aula, durante a semana ou em tempo real; um elemento por semana; diferença em relação aos outros horários do grupo de prática.",
+   "funcao": "Contrato pedagógico da série.",
+   "duracao_min": 3
+  },
+  {
+   "ts": "1:38:45",
+   "bloco": "Teoria",
+   "descricao": "O simulador: conta Allos, log para o supervisor, relatório com notas por categoria, ranking, teoria de resposta ao item, versões presenciais.",
+   "funcao": "Mostrar a infraestrutura de mensuração.",
+   "duracao_min": 2
+  },
+  {
+   "ts": "1:40:22",
+   "bloco": "Dúvidas",
+   "descricao": "A proposta faz sentido? Como as habilidades serão escolhidas; sugestão de um questionário de inseguranças respondida com o Mapa de competências e exemplos de exercícios (cinco palavras, variação de agressividade).",
+   "funcao": "Ajustar expectativas e apresentar o instrumento de diagnóstico.",
+   "duracao_min": 6
+  },
+  {
+   "ts": "1:46:52",
+   "bloco": "Fechamento",
+   "descricao": "Canal aberto por áudio; Alan não faz supervisão de casos reais; recapitulação; pedido para trazer colegas; preferência pelo presencial.",
+   "funcao": "Fechar o contrato e engajar para a próxima semana.",
+   "duracao_min": 4
+  },
+  {
+   "ts": "1:50:29",
+   "bloco": "Bate-papo/Outro",
+   "descricao": "Resposta a um participante já formado: o que é a Allos (associação sem fins lucrativos, bolsas, formação gratuita, seleção por pares, dados, comunidade, editora, editais).",
+   "funcao": "Institucional e recrutamento.",
+   "duracao_min": 11
+  },
+  {
+   "ts": "2:01:58",
+   "bloco": "Fechamento",
+   "descricao": "Fim oficial; pede para parar a gravação e fica para conversar.",
+   "funcao": "Encerramento.",
+   "duracao_min": 1
+  }
+ ],
+ "conceitos": [
+  {
+   "nome": "Performance e prática",
+   "definicao": "Performance é atender, 'jogar pelada': fazer o todo sem refletir, sem conhecer os próprios movimentos e sem feedback específico. Prática é exercitar uma habilidade específica, treinar um trecho do todo, com feedback de alguém de fora. Dá para performar psicologia por dez anos sem nunca ter praticado.",
+   "exemplo": "Jogar vôlei aos domingos não melhora o jogador; o treino com técnico, sim. Na esgrima, alguém precisa corrigir o arresto até sair.",
+   "abordagem": "",
+   "ts": "0:12:25"
+  },
+  {
+   "nome": "Escada do aprendizado clínico",
+   "definicao": "Degraus de proximidade com a prática: 1) ouvir uma opinião (awareness de que uma categoria é relevante); 2) ver alguém competente fazendo, primeiro um atendimento completo e depois o movimento isolado, repetido pelo professor; 3) performance não estruturada; 4) prática com feedback. Os complementos são revisar o próprio atendimento em vídeo e saber nomear os elementos da clínica.",
+   "exemplo": "Ver a seleção de vôlei jogando é diferente de ver alguém repetir 'só o mortal' até você entender.",
+   "abordagem": "",
+   "ts": "0:08:46"
+  },
+  {
+   "nome": "Lacuna entre raciocínio e execução",
+   "definicao": "O raciocínio clínico de iniciantes costuma ser razoável, porque a formação treina raciocínio. O que falha é executar o que se planejou, e por isso a execução precisa ser treinada à parte.",
+   "exemplo": "Saber que o mortal é pular, grupar e jogar a cabeça para frente não é dar um mortal.",
+   "abordagem": "",
+   "ts": "0:13:19"
+  },
+  {
+   "nome": "Tecnologia didática",
+   "definicao": "Metodologias de ensino e aprendizagem criadas pela Allos para treinar a clínica, digitais (paciente de IA, simulador) ou de dinâmica de grupo. Para Alan, a tecnologia principal é a didática, não a IA.",
+   "exemplo": "Simulação por texto, roleplay com pausas, exercícios com restrição.",
+   "abordagem": "",
+   "ts": "0:03:22"
+  },
+  {
+   "nome": "Paciente simulado por inteligência artificial",
+   "definicao": "Uma IA instruída pelo facilitador para encenar um paciente com camadas de complexidade, no papel que um colega faria num roleplay. É ruim para clinicar e boa para ser paciente, 'uma máquina de macaquear o comportamento humano'.",
+   "exemplo": "O caso Marcos César, no simulador da Allos, atendido por texto.",
+   "abordagem": "",
+   "ts": "0:40:09"
+  },
+  {
+   "nome": "Caso simulado em camadas",
+   "definicao": "Um caso com base factual fixa em que algumas informações só aparecem conforme as perguntas feitas e o vínculo estabelecido. Por isso, participantes diferentes recebem relatos diferentes do mesmo paciente.",
+   "exemplo": "Uma participante não ouviu falar das terapias anteriores do paciente porque fez outras perguntas.",
+   "abordagem": "",
+   "ts": "1:05:59"
+  },
+  {
+   "nome": "Pedido disfarçado",
+   "definicao": "Quando o paciente conta como foram as terapias anteriores, isso costuma ser uma instrução velada. O que falhou quer dizer 'não faça isso'; o que funcionou, 'faça assim'. Captar isso é boa escuta, mas não significa entregar ao paciente a direção do tratamento.",
+   "exemplo": "'Todos me faziam perguntas genéricas e concluíam que eu tinha de me aceitar' equivale a 'não seja genérico e não seja mais um a dizer que eu preciso me aceitar'.",
+   "abordagem": "",
+   "ts": "1:00:27"
+  },
+  {
+   "nome": "Teoria como escudo",
+   "definicao": "Em regra, estuda-se teoria para se defender da angústia de não saber diante do paciente, e não para entendê-lo. Com escuta fina, a clínica é sempre mais completa que as categorias do teórico.",
+   "exemplo": "Diante de um paciente autista, sem saber o que fazer, a pessoa corre para um curso ou para o que dizem os psicanalistas. 'De pertinho, nenhuma maçã é igual a outra.'",
+   "abordagem": "",
+   "ts": "1:09:40"
+  },
+  {
+   "nome": "Fontes da confiança clínica",
+   "definicao": "A segurança do clínico pode estar lastreada num teórico, na interpretação do caso ou no método. Quem depende da interpretação tende a interpretar depressa para fugir da angústia e fica angustiado enquanto não entende. Quem confia no método pode agir sem entender tudo.",
+   "exemplo": "Na psicanálise, confiar de verdade na associação livre e na atenção flutuante; o participante que 'jogou verde para colher maduro'.",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:12:18"
+  },
+  {
+   "nome": "Intervenção ex cathedra e post factum",
+   "definicao": "Divisão didática. Na intervenção ex cathedra, dá para avaliar a adequação antes do contato com os fatos, sem esperar a resposta do paciente. Na post factum, só se avalia no diálogo. Treinar o vislumbre ex cathedra das direções possíveis desenvolve a intuição clínica, útil até nas clínicas mais dialógicas.",
+   "exemplo": "O questionamento socrático é post factum. Formular de antemão o sentido da tensão do paciente em linguagem religiosa ou junguiana é ex cathedra.",
+   "abordagem": "",
+   "ts": "1:19:20"
+  },
+  {
+   "nome": "Ciclo de contato",
+   "definicao": "Referencial gestáltico usado por uma participante (e reformulado por Alan) para avaliar se a decisão do paciente foi refletida, em contato, ou introjetada.",
+   "exemplo": "Verificar se o pedido do paciente é introjeção de um grupo ou decisão própria.",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:55:40"
+  },
+  {
+   "nome": "Introjeção",
+   "definicao": "Uma decisão ou valor incorporado sem contato nem reflexão. É o primeiro critério que a leitura gestáltica usaria no caso, e o paciente simulado parecia ter refletido sobre o que pedia.",
+   "exemplo": "",
+   "abordagem": "Gestalt-terapia",
+   "ts": "0:55:40"
+  },
+  {
+   "nome": "Integração da sombra",
+   "definicao": "A construção junguiana oferecida por um participante para ressignificar a tensão do paciente: reconhecer como parte de si o que ele combate, rumo a uma conexão maior com a totalidade psíquica (o Si-mesmo), para além de entender racionalmente ou subjugar.",
+   "exemplo": "Alan acrescenta que, com um paciente interessado em psicologia, daria até para usar o percurso alquímico da nigredo à albedo (?).",
+   "abordagem": "Psicologia analítica junguiana",
+   "ts": "1:17:54"
+  },
+  {
+   "nome": "Empirismo colaborativo",
+   "definicao": "Na TCC, a direção do tratamento é construída pelos dois, empiricamente: o paciente tem uma posição, o terapeuta vai corrigindo e juntos chegam a uma conclusão.",
+   "exemplo": "",
+   "abordagem": "Terapia cognitivo-comportamental",
+   "ts": "1:33:32"
+  },
+  {
+   "nome": "Travessia da fantasia",
+   "definicao": "Em Lacan, a meta de toda análise, definida pela teoria antes da experiência clínica. Por isso, na leitura de Alan, quem dá a direção é o teórico, e não o analista nem o paciente.",
+   "exemplo": "",
+   "abordagem": "Psicanálise lacaniana",
+   "ts": "1:32:37"
+  },
+  {
+   "nome": "Autonomia do paciente",
+   "definicao": "A posição de escolas como a análise do comportamento 'raiz', a sistêmica de primeira ordem e, com peso na liberdade, a ACP: o paciente dá a direção e o clínico pavimenta o caminho. No limite, essa lógica tornou eticamente aceitáveis, para alguns autores, pedidos como a conversão.",
+   "exemplo": "'Quem é você para decidir pela vida da pessoa?'",
+   "abordagem": "Análise do comportamento",
+   "ts": "1:28:57"
+  },
+  {
+   "nome": "Terapia de conversão",
+   "definicao": "O exemplo-limite do dilema ético sobre quem dá a direção. Alan lembra que Steven Hayes, na fase de analista do comportamento, escreveu dois artigos ensinando essa prática e depois reviu a posição publicamente.",
+   "exemplo": "",
+   "abordagem": "Terapias contextuais",
+   "ts": "1:29:53"
+  },
+  {
+   "nome": "Psicologia comparada",
+   "definicao": "O campo em que o caso nasceu: antes do simulador, Alan o usava para apresentar dilemas éticos, mostrando como cada escola responde à pergunta de quem dá a direção do tratamento.",
+   "exemplo": "O mapa: paciente (análise do comportamento, sistêmica, ACP), teórico (Gestalt, Lacan), clínico (coaching, psicologia positiva), os dois (TCC), dialética (Jung).",
+   "abordagem": "",
+   "ts": "1:28:05"
+  },
+  {
+   "nome": "Psicologia clínica como arte",
+   "definicao": "A psicologia é uma ciência ampla, mas a clínica é arte: como no desenho, há teoria, mas também talento, performance e prática.",
+   "exemplo": "Teoria do desenho em comparação com a prática de desenhar.",
+   "abordagem": "",
+   "ts": "0:32:24"
+  },
+  {
+   "nome": "Mapa de competências",
+   "definicao": "O instrumento da Allos (que Alan chama de 'mapa de habilidades') com mais de 120 perguntas disparadoras sobre a estrutura da clínica. Cada pergunta tem campos para a resposta, a dificuldade, como a pessoa acha que deveria fazer, comentários, nota do supervisor, leituras e exercícios recomendados. Dá ao aluno as categorias que ele não teria para descrever suas dificuldades.",
+   "exemplo": "'Quem dá a direção do tratamento?'; 'Quais são seus critérios de alta?' Uma psicóloga formada havia seis anos nunca tinha pensado neles.",
+   "abordagem": "",
+   "ts": "1:42:01"
+  },
+  {
+   "nome": "Mensuração da competência clínica",
+   "definicao": "A busca de uma 'arena' que mostre quão bem cada um atende e o que precisa melhorar, como o UFC fez com as artes marciais. Na Allos, isso vira o simulador com relatórios por categoria, ranking e teoria de resposta ao item para calibrar a dificuldade.",
+   "exemplo": "Hoje quase ninguém acha o caratê muito útil, porque quem o pratica perde no confronto com regras comuns.",
+   "abordagem": "",
+   "ts": "0:28:26"
+  },
+  {
+   "nome": "Treino com restrição",
+   "definicao": "Exercício com repertório limitado de propósito, para isolar uma habilidade.",
+   "exemplo": "Atender um colega por 10 minutos podendo usar só cinco palavras, para treinar o uso do corpo.",
+   "abordagem": "",
+   "ts": "1:45:14"
+  },
+  {
+   "nome": "Prática deliberada",
+   "definicao": "Alan não usa o termo neste encontro, mas a distinção entre performance e prática (treinar habilidades específicas com feedback externo) descreve a mesma ideia.",
+   "exemplo": "",
+   "abordagem": "",
+   "ts": "0:30:04"
+  },
+  {
+   "nome": "Associação livre",
+   "definicao": "Citada como exemplo de confiança no método: deixar o paciente associar livremente, sem precisar entender tudo, confiando que o processo funciona.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:13:54"
+  },
+  {
+   "nome": "Atenção flutuante",
+   "definicao": "Par da associação livre no exemplo de confiança no método: o analista não precisa aprofundar nem fixar a atenção, e confia no dispositivo.",
+   "exemplo": "",
+   "abordagem": "Psicanálise freudiana",
+   "ts": "1:13:54"
+  }
+ ],
+ "dinamicas": [
+  {
+   "nome": "Dinâmica - Simulação com paciente de IA",
+   "objetivo": "Atender por texto um paciente simulado em camadas, feito para treinar uma habilidade específica não revelada (dentro da formação de vínculo), e usar a experiência para discutir clínica de verdade.",
+   "competencias": [
+    "Relação terapêutica",
+    "Escuta clínica",
+    "Direção do tratamento",
+    "Primeira sessão e entrevistas iniciais"
+   ],
+   "configuracao": "Individual, online, cada um no simulador da Allos (entrada como visitante, sem correção automática nem envio ao supervisor nesse modo). Depois, debate com o grupo todo.",
+   "tempo": "Cerca de 8 minutos de atendimento mais uns 30 minutos de debrief (mais uns 8 minutos de logística de acesso).",
+   "materiais": "Simulador com paciente de IA (caso 'Marcos César', simulado); link enviado no grupo de WhatsApp.",
+   "consigna": "Esse caso é um dilema ético e eu quero ver vocês tentando atender. Vocês têm liberdade para vários manejos. Progredir é o paciente sair de onde está e chegar num lugar mais interessante: provocar insight, dar uma solução ética para o que está acontecendo.",
+   "passos": [
+    "Enviar o link; quem não conseguir entrar levanta a mão; quem já entrou começa a atender durante a logística.",
+    "Explicar a lógica da IA como paciente e o plano (rodada, pausa, pressão e conversa, nova rodada, spoiler do manejo).",
+    "Pedir mãos levantadas para saber quem está atendendo de fato; ficar em silêncio.",
+    "Chamar de volta: fazer a última intervenção e voltar para a reunião.",
+    "Mapear a experiência: foi fácil? O paciente acompanhou a direção? Vieram informações novas ou você ficou preso?",
+    "Jogar com as falas: pedir exemplos contrastantes, traduzir para a abordagem de cada um, conectar respostas de pessoas diferentes.",
+    "Termômetro binário de dificuldade.",
+    "Não revelar a habilidade-alvo; pedir palpites e anunciar o retorno ao caso com análise de log."
+   ],
+   "feedback": "O caso progride quando o paciente se desloca e há insight. Alan valoriza extrair o pedido implícito, posicionar-se com clareza em vez de fazer perguntas protocolares, não repetir o que o paciente diz ter falhado e dar sentido à tensão na linguagem do paciente. Aceita evidência contrária e credita a boa execução mesmo numa direção que ele considerava imprecisa.",
+   "exemplos_praticos": "Uma participante perguntou pelo caminho até a busca de ajuda e obteve o relato das terapias anteriores (lido como pedido disfarçado). Outra seguiu uma exploração rumo à aceitação, o caminho que o paciente dizia rejeitar, e mesmo assim obteve resposta receptiva. Um participante tentou dar sentido à tensão sem saber qual seria ('joguei verde'). No termômetro, a maioria ficou calada; um participante disse que o caso seria difícil por envolvê-lo emocionalmente.",
+   "variacoes": "Simulação por texto em aula (raciocínio), por texto ao longo da semana (reescrever, olhar a palavra do paciente), em tempo real com alguém fazendo o paciente (timing, frase, entonação, relação). Retorno ao caso examinando o log de um participante em grupo. Com conta, o log vai ao supervisor e a pessoa recebe relatório por categoria.",
+   "armadilhas": "A logística de acesso consome tempo. Pacientes que falam muito, em frases longas, dificultam a construção coletiva. O tema é eticamente sensível e pede enquadre ético combinado. O objetivo não é aprender a atender a IA.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "0:34:10"
+  },
+  {
+   "nome": "Dinâmica - Mesmo raciocínio em outras linguagens",
+   "objetivo": "Treinar o vislumbre ex cathedra das direções clínicas: formular de antemão uma hipótese de sentido e expressá-la em linguagens diferentes, sobretudo na que o paciente valoriza.",
+   "competencias": [
+    "Intervenção",
+    "Articulação teoria-prática"
+   ],
+   "configuracao": "Grupo todo, online; um participante no centro com o facilitador e depois abertura a outros.",
+   "tempo": "6 a 8 minutos.",
+   "materiais": "Um caso ou uma intervenção já discutida.",
+   "consigna": "Você consegue, na linguagem do paciente, expressar isso? Agora, sem nomenclatura religiosa, consegue fazer a mesma construção em linguagem psicológica? Alguém consegue fazer a mesma construção em outra linguagem?",
+   "passos": [
+    "Reformular a intenção do participante: e se a tensão que você apresenta como problema for a solução, tiver um porquê?",
+    "Pedir a hipótese 'no seco' na linguagem religiosa do paciente.",
+    "Pedir a mesma construção em linguagem psicológica.",
+    "Abrir para outras linguagens e separar as respostas que atendem ao pedido do exercício das que são clinicamente boas mas treinam outra coisa."
+   ],
+   "feedback": "Alan valida em palavras mais simples e pede confirmação. Lembra que gostar de uma linguagem não faz dela um acerto clínico. O critério é responder ao pedido do exercício (ex cathedra), e não só dar uma resposta clinicamente adequada.",
+   "exemplos_praticos": "Linguagem religiosa: o 'espinho na carne' de Paulo, a tensão como cruz que santifica, um problema que vira desafio edificante. Linguagem psicológica: integração da sombra rumo ao Si-mesmo (Jung). Uma participante respondeu com questionamento socrático a partir da metáfora do próprio paciente, e Alan classificou a resposta como post factum.",
+   "variacoes": "Pedir três ou mais linguagens para a mesma hipótese (religiosa, técnica, metáfora do paciente).",
+   "armadilhas": "Responder com intervenções que dependem do diálogo (post factum). Confundir a preferência do paciente por uma linguagem com acerto clínico.",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:14:46"
+  },
+  {
+   "nome": "Dinâmica - Atender com cinco palavras",
+   "objetivo": "Treinar o uso do corpo e da expressão não verbal no atendimento, restringindo a fala.",
+   "competencias": [
+    "Relação terapêutica",
+    "Intervenção"
+   ],
+   "configuracao": "Duplas (um atende o outro).",
+   "tempo": "10 minutos de atendimento.",
+   "materiais": "",
+   "consigna": "Você vai atender o colega, mas só pode usar cinco palavras ao longo de 10 minutos.",
+   "passos": [
+    "Formar duplas.",
+    "Um faz o paciente e o outro atende usando no máximo cinco palavras em 10 minutos."
+   ],
+   "feedback": "Só mencionada; não executada neste encontro.",
+   "exemplos_praticos": "",
+   "variacoes": "",
+   "armadilhas": "",
+   "nivel": "intermediário",
+   "funciona_online": false,
+   "ts": "1:45:14"
+  },
+  {
+   "nome": "Dinâmica - Variação de intervenção",
+   "objetivo": "Treinar a construção de frases, graduando a agressividade da mesma intervenção.",
+   "competencias": [
+    "Construção frasal",
+    "Intervenção"
+   ],
+   "configuracao": "Grupo que assiste a um roleplay.",
+   "tempo": "",
+   "materiais": "Um roleplay em andamento.",
+   "consigna": "Pausa o roleplay, pega a última frase do clínico: como deixar mais agressiva? Mais ainda? Agora menos agressiva, menos ainda.",
+   "passos": [
+    "Pausar o roleplay.",
+    "Isolar a última intervenção do clínico.",
+    "O grupo reformula em graus crescentes e decrescentes de agressividade."
+   ],
+   "feedback": "Só mencionada como 'uma que eu gosto de usar muito'; não executada neste encontro.",
+   "exemplos_praticos": "",
+   "variacoes": "",
+   "armadilhas": "",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:46:05"
+  },
+  {
+   "nome": "Dinâmica - Leitura comentada de atendimento simulado",
+   "objetivo": "Examinar em grupo, elemento por elemento, o log de um participante que atendeu o paciente simulado.",
+   "competencias": [
+    "Intervenção",
+    "Escuta clínica"
+   ],
+   "configuracao": "Grupo todo, com o log de um participante (ou tela compartilhada).",
+   "tempo": "",
+   "materiais": "Histórico (log) de uma simulação.",
+   "consigna": "Vamos ver, elemento por elemento, como ela foi fazendo essa construção.",
+   "passos": [
+    "Escolher o log de alguém que conversou mais com o caso.",
+    "Ler em grupo e comentar cada intervenção."
+   ],
+   "feedback": "Anunciada para a volta ao caso; não executada neste encontro.",
+   "exemplos_praticos": "",
+   "variacoes": "",
+   "armadilhas": "",
+   "nivel": "intermediário",
+   "funciona_online": true,
+   "ts": "1:24:41"
+  }
+ ],
+ "movimentos_facilitacao": [
+  {
+   "movimento": "Contrato explícito na entrada",
+   "descricao": "Anuncia de bate-pronto o que é negociável (câmera) e o que não é (participar), e oferece uma saída a quem não quer se expor: assistir à gravação.",
+   "exemplo": "'Este é um grupo de prática. Todo mundo que está vindo aqui está vindo para praticar.'",
+   "ts": "0:01:47"
+  },
+  {
+   "movimento": "Declarar intenção e roteiro",
+   "descricao": "Diz que vai tentar persuadir o grupo, mostrar uma prática e abrir para críticas, e cumpre essa ordem.",
+   "exemplo": "'Vou tentar persuadir vocês de por que é assim que a gente aprende psicologia.'",
+   "ts": "0:03:22"
+  },
+  {
+   "movimento": "Metáforas visuais como andaime provisório",
+   "descricao": "Usa metáforas esportivas para tornar visual o argumento e avisa que vai abandoná-las depois do primeiro dia.",
+   "exemplo": "Vôlei, natação, mortal, esgrima, UFC.",
+   "ts": "0:05:10"
+  },
+  {
+   "movimento": "Comentário como combustível",
+   "descricao": "Pede discordância, tensiona o que o participante trouxe, concorda com parte e contesta outra, para aprofundar a tese.",
+   "exemplo": "Com a participante que julga os colegas rasos: difícil ver quem é bom, fácil ver quem é ruim.",
+   "ts": "0:21:27"
+  },
+  {
+   "movimento": "Sem tempo morto",
+   "descricao": "Enquanto resolve o acesso de uns, pede que os outros já comecem o exercício.",
+   "exemplo": "'Quem já acessou, já pode ir atendendo o caso.'",
+   "ts": "0:37:14"
+  },
+  {
+   "movimento": "Silêncio cronometrado e interrupção honesta",
+   "descricao": "Fica em silêncio para o grupo se concentrar e interrompe antes do prometido, assumindo isso com humor.",
+   "exemplo": "'Virtude não é uma paciência de que eu disponho.'",
+   "ts": "0:50:19"
+  },
+  {
+   "movimento": "Mapear antes de corrigir",
+   "descricao": "Abre o debrief perguntando pela experiência de cada um, porque a resposta do paciente depende de como se conduz.",
+   "exemplo": "'Foi fácil a condução? Você adquiriu informações novas ou ficou preso?'",
+   "ts": "0:50:57"
+  },
+  {
+   "movimento": "Interromper para jogar com a fala",
+   "descricao": "Avisa que vai interromper e pede exemplos contrastantes para tornar concreto o raciocínio do participante.",
+   "exemplo": "'Me dá um exemplo de informação que te deixaria mais propensa a concordar e um que te deixaria menos.'",
+   "ts": "0:51:35"
+  },
+  {
+   "movimento": "Traduzir para a abordagem do participante",
+   "descricao": "Pergunta a linha de cada um e reformula o raciocínio nos termos dela, pedindo correção, sem deixar a pessoa 'fugir para a saia do autor favorito'.",
+   "exemplo": "Reformula em termos de ciclo de contato e introjeção para a gestalt-terapeuta.",
+   "ts": "0:53:16"
+  },
+  {
+   "movimento": "Amarração por contraste",
+   "descricao": "Chama quem fez o caminho típico (condução genérica) para contrastar com quem extraiu o pedido e mostra que o erro de um é o que o paciente denunciou ao outro.",
+   "exemplo": "'Alguém pode comentar comigo que tenha feito uma condução genérica?'",
+   "ts": "0:57:46"
+  },
+  {
+   "movimento": "Acolher evidência contrária",
+   "descricao": "Quando o dado do participante contradiz sua previsão, reconhece e transforma isso numa tese nova.",
+   "exemplo": "A resposta receptiva do paciente leva à tese de que a execução pode sustentar uma direção imprecisa.",
+   "ts": "1:06:51"
+  },
+  {
+   "movimento": "Parênteses clínicos",
+   "descricao": "Usa o exercício como pretexto para discutir clínica real e declara isso.",
+   "exemplo": "'Não quero que vocês aprendam a atender a IA; quero discutir clínica de verdade.'",
+   "ts": "1:08:47"
+  },
+  {
+   "movimento": "Elogio seguido de desafio",
+   "descricao": "Valoriza a escolha do participante (confiança no método) e em seguida pede uma habilidade complementar (vislumbrar possibilidades).",
+   "exemplo": "'Acabei de elogiar a intervenção sem porquê; agora deixa eu te dar outra perspectiva.'",
+   "ts": "1:14:46"
+  },
+  {
+   "movimento": "Reformular simples e validar",
+   "descricao": "Repete em palavras mais simples o que o participante disse, para o grupo, e pede confirmação.",
+   "exemplo": "'Vou dizer com palavras mais simples, porque nós não somos muito espertos.'",
+   "ts": "1:16:07"
+  },
+  {
+   "movimento": "Separar resposta boa de resposta ao exercício",
+   "descricao": "Distingue uma resposta clinicamente adequada da que atende ao objetivo de treino.",
+   "exemplo": "'O treinador te pediu uma coisa para desenvolver essa habilidade e você não fez, mas fez o gol.'",
+   "ts": "1:21:08"
+  },
+  {
+   "movimento": "Termômetro binário com provocação",
+   "descricao": "Pede mãos levantadas para 'difícil' ou 'fácil' e, diante do silêncio, provoca e explica que precisa do dado para calibrar o próximo caso.",
+   "exemplo": "'Os mornos serão cuspidos... isso é sério, me ajudem a fazer essa baliza.'",
+   "ts": "1:23:53"
+  },
+  {
+   "movimento": "Gabarito em suspense",
+   "descricao": "Não revela a habilidade-alvo, pede palpites e dá pistas graduais para manter a curiosidade até o retorno ao caso.",
+   "exemplo": "'Formação de vínculo é macro demais; um dos elementos importantes está dentro dela.'",
+   "ts": "1:26:40"
+  },
+  {
+   "movimento": "Canal informal e limites de papel",
+   "descricao": "Convida sugestões por áudio no privado e explicita que não é supervisor de casos reais.",
+   "exemplo": "'Se me contarem casos reais, vou usar para construção teórica; papel de supervisor eu evito fortemente.'",
+   "ts": "1:46:52"
+  }
+ ],
+ "dicas_clinicas": [
+  {
+   "dica": "Trate o relato do paciente sobre terapias anteriores como um pedido.",
+   "justificativa": "O que não funcionou quer dizer 'não faça isso'; o que funcionou, 'faça assim'.",
+   "contexto": "Entrevistas iniciais, sobretudo com quem já passou por outros terapeutas.",
+   "competencia": "Escuta clínica",
+   "ts": "1:00:27"
+  },
+  {
+   "dica": "Escute o pedido sem entregar a ele a direção do tratamento.",
+   "justificativa": "Captar o pedido é boa escuta, mas o paciente não necessariamente sabe o que o ajuda ('o lobo cuidando do galinheiro').",
+   "contexto": "Quando o paciente dita o método.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:02:26"
+  },
+  {
+   "dica": "Não repita o caminho que o paciente diz ter fracassado.",
+   "justificativa": "Tentar duas vezes a mesma coisa é burrice, e o paciente tende a reagir mal.",
+   "contexto": "Relatos de condução genérica ou de direções que ele rejeita.",
+   "competencia": "Relação terapêutica",
+   "ts": "1:03:18"
+  },
+  {
+   "dica": "Posicione-se: deixe claro se e como vai ajudar, em vez de só fazer perguntas protocolares.",
+   "justificativa": "A condução genérica, 'meio anamnese', é o que esse tipo de paciente descreve como inútil.",
+   "contexto": "Primeiros contatos com demandas delicadas.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:57:46"
+  },
+  {
+   "dica": "Pergunte pelo caminho até a busca de ajuda.",
+   "justificativa": "A pergunta 'como foi seu caminho até chegar aqui?' trouxe as tentativas anteriores e o pedido implícito.",
+   "contexto": "Primeira sessão.",
+   "competencia": "Primeira sessão e entrevistas iniciais",
+   "ts": "0:56:43"
+  },
+  {
+   "dica": "Invista na qualidade da execução.",
+   "justificativa": "A mesma direção clínica, bem executada, pode funcionar; mal executada, não anda.",
+   "contexto": "Sempre, sobretudo quando a direção não é óbvia.",
+   "competencia": "Intervenção",
+   "ts": "1:06:51"
+  },
+  {
+   "dica": "Use a entonação como intervenção.",
+   "justificativa": "Acentuar 'sua' em 'como foi a sua semana?' redireciona quem costuma falar dos outros, sem precisar explicar.",
+   "contexto": "Abertura de sessão, quando o paciente desvia de si.",
+   "competencia": "Construção frasal",
+   "ts": "0:17:50"
+  },
+  {
+   "dica": "Construa a frase inteira antes de falar e escolha a ordem das palavras.",
+   "justificativa": "Mudar de ideia no meio enfraquece a intervenção, e a ordem entre sujeito e predicado muda o que fica em destaque.",
+   "contexto": "Intervenções importantes.",
+   "competencia": "Construção frasal",
+   "ts": "0:16:55"
+  },
+  {
+   "dica": "Antes de uma intervenção complexa, vislumbre as direções possíveis.",
+   "justificativa": "Isso prepara o terapeuta para o material que pode surgir, mesmo numa clínica dialógica.",
+   "contexto": "Interpretações e intervenções de maior alcance.",
+   "competencia": "Intervenção",
+   "ts": "1:14:46"
+  },
+  {
+   "dica": "Traduza a hipótese para a linguagem que o paciente valoriza.",
+   "justificativa": "A mesma construção pode ser dita em linguagem religiosa ou psicológica, e o paciente a acolhe melhor na dele.",
+   "contexto": "Pacientes com universo simbólico forte.",
+   "competencia": "Intervenção",
+   "ts": "1:16:07"
+  },
+  {
+   "dica": "Arriscar uma pergunta sem saber a resposta ('jogar verde') é legítimo quando você confia no método.",
+   "justificativa": "Não é preciso entender o caso para saber que o ato é clinicamente interessante.",
+   "contexto": "Explorar o sentido de um sintoma ou conflito.",
+   "competencia": "Intervenção",
+   "ts": "1:13:54"
+  },
+  {
+   "dica": "Desconfie da pressa em interpretar.",
+   "justificativa": "Se sua segurança depende de 'ter entendido o caso', você vai interpretar rápido demais para fugir da angústia.",
+   "contexto": "Início de casos confusos.",
+   "competencia": "Articulação teoria-prática",
+   "ts": "1:13:06"
+  },
+  {
+   "dica": "Escute no detalhe em vez de se apoiar no conceito.",
+   "justificativa": "Quanto mais fino o ouvido, menos as categorias prontas descrevem o caso; a teoria vira escudo.",
+   "contexto": "Casos 'típicos' em que o rótulo tenta substituir a escuta.",
+   "competencia": "Escuta clínica",
+   "ts": "1:11:20"
+  },
+  {
+   "dica": "Explicite o pressuposto que sustenta sua direção clínica.",
+   "justificativa": "Por trás de 'investigar se a decisão é dele' havia a premissa de que decisões próprias são mais saudáveis. Explicitá-la permite testá-la, em vez de se esconder atrás do autor.",
+   "contexto": "Dilemas éticos e conflitos de valores.",
+   "competencia": "Direção do tratamento",
+   "ts": "0:54:18"
+  },
+  {
+   "dica": "Saiba quem dá a direção do tratamento na sua abordagem e se isso serve ao caso.",
+   "justificativa": "A maioria não sabe nem a resposta da própria teoria, quanto mais a adequada ao caso.",
+   "contexto": "Contrato terapêutico; pedidos eticamente sensíveis.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:43:45"
+  },
+  {
+   "dica": "Tenha critérios explícitos de alta.",
+   "justificativa": "Dá para atender bem por anos sem nunca ter pensado em como e por que dar alta.",
+   "contexto": "Planejamento do tratamento.",
+   "competencia": "Direção do tratamento",
+   "ts": "1:44:20"
+  },
+  {
+   "dica": "Mostre seu atendimento a alguém, e não só o relato dele.",
+   "justificativa": "O supervisor que ouve só o relato recebe o que você lembrou e se sentiu confortável para contar, e a performance não refletida não melhora.",
+   "contexto": "Supervisão e formação continuada.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "0:18:40"
+  },
+  {
+   "dica": "Treine raciocínio por escrito e execução em tempo real.",
+   "justificativa": "O texto, sobretudo ao longo da semana, dá tempo de pensar e de olhar a palavra do paciente; o tempo real treina timing, frase, entonação e relação.",
+   "contexto": "Montar a própria rotina de prática.",
+   "competencia": "Desenvolvimento profissional",
+   "ts": "1:36:10"
+  },
+  {
+   "dica": "Se está começando e ansioso, lembre que clinicar razoavelmente já ajuda.",
+   "justificativa": "Muitos pacientes (o adolescente, por exemplo) já se atrapalham o bastante; não atrapalhar é um patamar alcançável.",
+   "contexto": "Primeiros atendimentos.",
+   "competencia": "Pessoa do terapeuta",
+   "ts": "0:26:01"
+  }
+ ],
+ "posicionamentos": [
+  {
+   "tese": "A faculdade de psicologia ensina a falar sobre clínica, e não a fazer clínica.",
+   "argumento": "Qualquer habilidade se aprende com prática e treino de partes. O currículo parece uma aula de natação que começa pela história da natação, e os egressos chegam despreparados.",
+   "contraponto": "Um participante lembra o foco das universidades em pesquisa; Alan concorda que a psicologia é ampla e que a faculdade serve para outras coisas.",
+   "implicacao": "Formação clínica centrada em treino de habilidades com feedback.",
+   "quem": "Alan",
+   "ts": "0:06:00"
+  },
+  {
+   "tese": "Ensino sem crítica individual não existe.",
+   "argumento": "Sem alguém de fora que observe e corrija, não há como saber se você está chegando lá.",
+   "contraponto": "O desconforto natural com críticas, que Alan reconhece.",
+   "implicacao": "Grupos com exposição individual e feedback franco, com combinado prévio.",
+   "quem": "Alan",
+   "ts": "0:02:30"
+  },
+  {
+   "tese": "Performance não é prática; anos de atendimento não produzem competência por si.",
+   "argumento": "Quem atende há dez anos sem refletir, sem nomear seus movimentos e sem feedback específico só 'jogou pelada'.",
+   "contraponto": "A ideia de que a experiência acumulada basta.",
+   "implicacao": "Exercícios de habilidades específicas, revisão de atendimentos, observação externa.",
+   "quem": "Alan",
+   "ts": "0:12:25"
+  },
+  {
+   "tese": "A prática é escassa nas faculdades por razão econômica, e não didática.",
+   "argumento": "Um professor para 70 alunos, um supervisor para três; nenhuma faculdade acha, de verdade, que menos prática é melhor.",
+   "contraponto": "Justificativas pedagógicas do currículo.",
+   "implicacao": "Modelos em que o incentivo depende da qualidade prática, como na Allos, onde bons alunos trazem pacientes.",
+   "quem": "Alan",
+   "ts": "0:19:39"
+  },
+  {
+   "tese": "O raciocínio teórico não prediz a qualidade do atendimento; é fácil ver quem atende mal e difícil ver quem atende bem.",
+   "argumento": "Alan errou ao usar a proficiência teórica como critério no início da Allos (os pacientes discordaram). Com o belo e o feio é igual: o feio é consenso.",
+   "contraponto": "A participante que julga os colegas pela profundidade das falas; Alan concorda só quanto a detectar o ruim.",
+   "implicacao": "Avaliar vendo a pessoa atender.",
+   "quem": "Alan",
+   "ts": "0:22:44"
+  },
+  {
+   "tese": "Paciente e aluno, em regra, não sabem o que é melhor para eles.",
+   "argumento": "Tendem ao agradável, e não ao desafiador; aprender exige estresse, como um músculo.",
+   "contraponto": "'O cliente sabe o que quer'. Alan admite exagerar e mantém que escutar o pedido é boa escuta.",
+   "implicacao": "Não entregar a direção a quem está sendo ajudado.",
+   "quem": "Alan",
+   "ts": "0:23:30"
+  },
+  {
+   "tese": "Clinicar mais ou menos é fácil; clinicar bem é dificílimo.",
+   "argumento": "Não atrapalhar já ajuda muitos pacientes; a teoria da psicoterapia é complicadíssima e executá-la bem é mais difícil ainda.",
+   "contraponto": "",
+   "implicacao": "Aliviar a ansiedade de iniciantes sem baixar a exigência.",
+   "quem": "Alan",
+   "ts": "0:25:05"
+  },
+  {
+   "tese": "A psicologia precisa de uma arena que meça quão bem cada um atende.",
+   "argumento": "Como o UFC com as artes marciais, regras comuns e confronto revelariam o que funciona e o que cada um precisa melhorar.",
+   "contraponto": "A pluralidade de escolas em que cada uma se acha a melhor; montar a arena é difícil.",
+   "implicacao": "Simulador com relatórios, ranking e teoria de resposta ao item; uso de dados na clínica ('não gosto muito de PBE, mas gosto de ganhar').",
+   "quem": "Alan",
+   "ts": "0:28:26"
+  },
+  {
+   "tese": "Estuda-se teoria mais para se defender do paciente do que para entendê-lo.",
+   "argumento": "A angústia de não saber leva ao autor, ao manual e ao supervisor; escuta fina ultrapassa as categorias.",
+   "contraponto": "A teoria vista como instrumento de compreensão.",
+   "implicacao": "Deslocar a confiança do teórico e da interpretação para o método e a escuta.",
+   "quem": "Alan",
+   "ts": "1:09:40"
+  },
+  {
+   "tese": "A IA é ruim para clinicar e boa para simular paciente.",
+   "argumento": "É uma máquina de macaquear comportamento humano e reproduz camadas e consistência factual.",
+   "contraponto": "O entusiasmo com IA terapeuta; o próprio Alan relativiza a IA como só mais um jeito de fazer o que já fazia pessoalmente.",
+   "implicacao": "Usar a IA como parceira de roleplay e treino.",
+   "quem": "Alan",
+   "ts": "0:41:04"
+  },
+  {
+   "tese": "A execução pesa tanto quanto a direção clínica escolhida.",
+   "argumento": "Uma direção imprecisa, bem executada, pode fazer o caso andar, como nos relatórios da clínica-escola.",
+   "contraponto": "A previsão inicial do próprio Alan sobre a condução da participante.",
+   "implicacao": "Treinar a entrega (frase, entonação, timing), e não só o raciocínio.",
+   "quem": "Alan",
+   "ts": "1:06:51"
+  },
+  {
+   "tese": "Até a clínica mais dialógica precisa da habilidade de antecipar consequências.",
+   "argumento": "Intuir as direções possíveis continua útil mesmo numa clínica do aqui e agora.",
+   "contraponto": "'Minha clínica é dialética' ou 'é do aqui e agora'.",
+   "implicacao": "Exercícios ex cathedra de vislumbre de hipóteses.",
+   "quem": "Alan",
+   "ts": "1:22:00"
+  },
+  {
+   "tese": "Saber teoria comparada não substitui saber atender.",
+   "argumento": "Dá para entender quem dirige o tratamento em 300 abordagens e não conseguir atender o paciente simulado.",
+   "contraponto": "",
+   "implicacao": "Os parênteses teóricos servem ao treino, que é o centro do grupo.",
+   "quem": "Alan",
+   "ts": "1:35:19"
+  },
+  {
+   "tese": "Perguntar às pessoas quais são suas dificuldades não funciona como diagnóstico.",
+   "argumento": "Sem categorias, elas não sabem descrever o que lhes falta; vê-las atender é mais preciso.",
+   "contraponto": "A sugestão de uma participante de um questionário de inseguranças.",
+   "implicacao": "Avaliação por gravação e simulação, e um Mapa de perguntas estruturais que fornece as categorias.",
+   "quem": "Alan",
+   "ts": "1:42:56"
+  }
+ ],
+ "citacoes": [
+  {
+   "texto": "Ela aprendeu a falar sobre psicanálise. Ela não aprendeu a fazer.",
+   "tema": "formação",
+   "ts": "0:08:46"
+  },
+  {
+   "texto": "Ensino sem crítica individual nem existe.",
+   "tema": "didática",
+   "ts": "0:02:30"
+  },
+  {
+   "texto": "Performance é jogar pelada. Tem gente que atende há dez anos e nunca praticou psicologia de fato.",
+   "tema": "performance e prática",
+   "ts": "0:12:25"
+  },
+  {
+   "texto": "O raciocínio das pessoas com frequência é melhor do que a execução.",
+   "tema": "raciocínio e execução",
+   "ts": "0:13:19"
+  },
+  {
+   "texto": "Eu posso jogar pelada infinitamente e não vou ficar bom, porque não estou refletindo sobre o que faço. E para refletir eu preciso de outra pessoa olhando.",
+   "tema": "feedback",
+   "ts": "0:14:11"
+  },
+  {
+   "texto": "Ver vídeo de sessão é hipertabu no Brasil.",
+   "tema": "formação",
+   "ts": "0:15:03"
+  },
+  {
+   "texto": "A gente pode discutir por décadas se pagode é melhor que rock, mas eu tocando pagode toco pior que o Thiaguinho.",
+   "tema": "avaliação de competência",
+   "ts": "0:24:14"
+  },
+  {
+   "texto": "Clinicar não é tão difícil assim. Difícil é clinicar bem.",
+   "tema": "iniciantes",
+   "ts": "0:25:05"
+  },
+  {
+   "texto": "Praticar é pegar uma habilidade e desenvolver ela. É treinar uma coisa específica.",
+   "tema": "prática",
+   "ts": "0:30:04"
+  },
+  {
+   "texto": "A IA, para clinicar, é bem ruim; para ser paciente, é bem boa. Ela é uma máquina de macaquear o comportamento humano.",
+   "tema": "paciente simulado",
+   "ts": "0:41:04"
+  },
+  {
+   "texto": "Quando o paciente te conta como foram as terapias anteriores, isso tem muito cheiro de pedido disfarçado.",
+   "tema": "escuta",
+   "ts": "1:00:27"
+  },
+  {
+   "texto": "A gente não estuda teoria para entender o paciente. A gente estuda teoria para se defender dele.",
+   "tema": "teoria como escudo",
+   "ts": "1:09:40"
+  },
+  {
+   "texto": "De pertinho, nenhuma maçã é igual a outra.",
+   "tema": "escuta do singular",
+   "ts": "1:12:18"
+  },
+  {
+   "texto": "Você pode entender como é isso em trezentas abordagens diferentes e não conseguir atender o paciente.",
+   "tema": "teoria e prática",
+   "ts": "1:35:19"
+  },
+  {
+   "texto": "Você tem vários exercícios diferentes para o mesmo músculo.",
+   "tema": "didática",
+   "ts": "1:35:19"
+  }
+ ],
+ "ideias_conteudo": [
+  {
+   "formato": "carrossel",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Se você aprendesse a nadar como aprende psicologia, se afogaria.",
+   "mensagem": "A formação começa pela história e pela teoria e só depois 'joga na piscina'; habilidades se aprendem subindo uma escada até a prática com feedback.",
+   "roteiro": [
+    "A aula de natação absurda: seis meses de história da natação.",
+    "É assim que a faculdade de psicologia funciona.",
+    "Degrau 1: ouvir uma opinião.",
+    "Degrau 2: ver alguém competente fazendo (o todo e o movimento isolado).",
+    "Degrau 3: performance ('pelada').",
+    "Degrau 4: prática com feedback.",
+    "Pergunta final: em que degrau você está?"
+   ],
+   "corte_inicio": "0:06:00",
+   "corte_fim": "0:07:50"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Atender há 10 anos não é praticar há 10 anos.",
+   "mensagem": "Performance (atender sem refletir) não é prática (treinar uma habilidade específica com feedback de alguém de fora).",
+   "roteiro": [
+    "Gancho.",
+    "Pelada e treino com técnico.",
+    "O que falta: nomear o movimento, alguém observando, feedback específico.",
+    "Convite: escolha uma habilidade e peça que alguém veja você fazer."
+   ],
+   "corte_inicio": "0:12:25",
+   "corte_fim": "0:13:19"
+  },
+  {
+   "formato": "reels",
+   "pilar": "maximas-e-reflexoes",
+   "gancho": "A gente estuda teoria para se defender do paciente.",
+   "mensagem": "A teoria acalma a angústia de não saber, mas a escuta fina vê o que nenhum conceito descreve ('de perto nenhuma maçã é igual').",
+   "roteiro": [
+    "Gancho.",
+    "A angústia de não saber e a corrida ao manual.",
+    "A maçã de perto.",
+    "Confiar no método em vez de no autor."
+   ],
+   "corte_inicio": "1:09:40",
+   "corte_fim": "1:11:20"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "abordagens-em-dialogo",
+   "gancho": "Quem manda na direção da terapia? Depende da sua abordagem.",
+   "mensagem": "Paciente (análise do comportamento, sistêmica, ACP), teórico (Gestalt, Lacan), clínico (coaching), os dois (TCC), dialética entre inconsciente e consciência (Jung).",
+   "roteiro": [
+    "A pergunta.",
+    "O paciente dirige.",
+    "O teórico dirige.",
+    "O clínico dirige.",
+    "Os dois, empiricamente.",
+    "A bússola junguiana.",
+    "E na sua clínica?"
+   ],
+   "corte_inicio": "1:28:57",
+   "corte_fim": "1:35:19"
+  },
+  {
+   "formato": "post",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Quando o paciente fala do terapeuta anterior, ele está te dando instruções.",
+   "mensagem": "O relato de terapias anteriores é um pedido disfarçado, mas escutar o pedido não é obedecer a ele.",
+   "roteiro": [
+    "O que falhou quer dizer 'não faça'.",
+    "O que funcionou quer dizer 'faça assim'.",
+    "O limite: o lobo e o galinheiro."
+   ],
+   "corte_inicio": "1:00:27",
+   "corte_fim": "1:02:26"
+  },
+  {
+   "formato": "reels",
+   "pilar": "formacao-do-psicologo",
+   "gancho": "Clinicar mais ou menos é fácil. Difícil é clinicar bem.",
+   "mensagem": "É fácil ver quem atende mal e difícil reconhecer a excelência; para o iniciante, não atrapalhar já é um bom começo.",
+   "roteiro": [
+    "Pagode e Thiaguinho.",
+    "O feio é consenso, o belo não.",
+    "O adolescente que já se atrapalha sozinho.",
+    "Mas atender bem tem mais de sete cabeças."
+   ],
+   "corte_inicio": "0:24:14",
+   "corte_fim": "0:26:48"
+  },
+  {
+   "formato": "stories",
+   "pilar": "bastidores-dos-grupos",
+   "gancho": "Por que nossos alunos atendem uma IA (e a IA não atende ninguém).",
+   "mensagem": "A IA é ruim para clinicar e boa para simular paciente; o treino por texto trabalha raciocínio, e o tempo real trabalha timing e entonação.",
+   "roteiro": [
+    "IA como paciente, e não como terapeuta.",
+    "Caso em camadas.",
+    "Texto em comparação com tempo real."
+   ],
+   "corte_inicio": "0:41:04",
+   "corte_fim": "0:41:38"
+  },
+  {
+   "formato": "carrossel",
+   "pilar": "clinica-na-pratica",
+   "gancho": "Tem intervenção que você pode julgar antes de o paciente responder.",
+   "mensagem": "Intervenção ex cathedra e post factum, e por que treinar a antecipação das direções clínicas.",
+   "roteiro": [
+    "Definição de ex cathedra.",
+    "Definição de post factum (questionamento socrático).",
+    "Por que treinar o vislumbre.",
+    "Exercício: a mesma hipótese em duas linguagens."
+   ],
+   "corte_inicio": "1:19:20",
+   "corte_fim": "1:22:00"
+  }
+ ],
+ "autores": [
+  {
+   "nome": "Jacques Lacan",
+   "contexto": "O Seminário 11 como exemplo da opinião de um autor sobre os elementos da clínica; a travessia da fantasia como direção definida pela teoria."
+  },
+  {
+   "nome": "Judith Beck",
+   "contexto": "Os livros dela como exemplo de opinião de autor sobre os elementos clínicos relevantes; piada de que o estagiário da Allos atende melhor que alguém treinado por ela, com o mesmo instrumento de mensuração."
+  },
+  {
+   "nome": "Steven Hayes",
+   "contexto": "Criador da ACT; escreveu dois artigos sobre práticas de conversão na fase de analista do comportamento e depois fez uma retratação pública. Exemplo do dilema de quem dá a direção."
+  },
+  {
+   "nome": "Carl Jung",
+   "contexto": "O inconsciente como bússola e a direção como dialética consciente (texto no volume 18/1 (?)); integração da sombra e Si-mesmo na construção de um participante."
+  },
+  {
+   "nome": "Fritz Perls",
+   "contexto": "'Perls e colegas' definiram uma noção de cura (awareness, contato) que faz o teórico dirigir o tratamento na Gestalt."
+  },
+  {
+   "nome": "Sigmund Freud",
+   "contexto": "Citado como aquele atrás de quem se corre quando a angústia de não saber aperta (teoria como escudo)."
+  },
+  {
+   "nome": "Gilles Deleuze",
+   "contexto": "Exemplo de autor difícil de entender, para mostrar a complexidade teórica da psicoterapia (a transcrição traz 'Delus' (?))."
+  },
+  {
+   "nome": "Paulo de Tarso",
+   "contexto": "O 'espinho na carne', usado por um participante para dar sentido religioso à tensão do paciente simulado."
+  }
+ ],
+ "formato_grupo": {
+  "nome": "Prática Clínica: horário do Alan (que ele chama de 'aprimoramento') no grupo de prática da formação online da Allos",
+  "objetivo": "Treinar habilidades clínicas específicas, nomeadas pelo facilitador, com exercícios, simulações e feedback individual, em vez de só performar atendimentos. Mapear as habilidades relevantes e como cada participante está nelas. Neste primeiro encontro, o objetivo declarado é persuadir o grupo da proposta e dar uma amostra do método.",
+  "publico": "Estudantes de psicologia (vários nos últimos períodos) e alguns psicólogos formados, na maioria em primeiro contato com a Allos, mais membros da Allos. Aberto; a formação geral é gratuita e tem cerca de 60% de não formados.",
+  "tamanho": "Grupo online aberto, número exato não informado. Seis a oito pessoas falam ao microfone, outras participam pelo chat e algumas chegam atrasadas.",
+  "duracao": "Série de 6 encontros semanais (o 2º gravado em duas partes). Os encontros de Alan duram cerca de 2h (os demais grupos da Allos, 1h20 a 1h30); oficialmente até 16h15. Este teve 2h02 gravadas.",
+  "estrutura_padrao": "Proposta para a série: a cada semana, um elemento ou habilidade específica, às vezes anunciado, às vezes revelado depois. Alternância entre desafios ('mais experimentos') e treino. Modalidades: simulação com paciente de IA por texto em aula (cerca de 10 minutos, para raciocínio), simulação durante a semana, roleplay em tempo real (timing, frase, entonação, relação), exercícios em dupla, análise em grupo de logs de simulação, exercícios para fazer fora (com colegas ou parceiros), perguntas do Mapa de competências. Nas primeiras semanas, as habilidades são escolhidas pelo facilitador; depois, a partir dos erros cometidos pelo grupo ou de necessidades de membros da Allos. Estrutura deste 1º encontro: combinados, exposição crítica sobre o ensino, comentários, simulação individual, debrief com parênteses teóricos, termômetro de dificuldade, comparação de abordagens, contrato da série, dúvidas e apresentação institucional.",
+  "papel_facilitador": "Expõe e argumenta com metáforas; cria os casos simulados e escolhe as habilidades-alvo; convoca participantes individualmente e os pressiona ('contra a parede'); dá crítica individual franca; traduz os raciocínios para a abordagem de cada participante; nomeia habilidades e níveis; faz parênteses teóricos e comparações entre abordagens; calibra a dificuldade pelo retorno do grupo. Não faz supervisão de casos reais (está sem CRP ativo): casos reais trazidos viram construção teórica.",
+  "regras_combinados": "Câmera opcional, mas desejada, sobretudo nos trechos teóricos (ou avisar quando estiver perdido). Participação por microfone ou chat não negociável; quem só quer ouvir assiste à gravação. Crítica individual franca. Não repassar o link do simulador (custo por token). Usar conta Allos para salvar logs e enviá-los ao supervisor. Sugestões por áudio no privado. Tarefas semanais evitadas ao máximo. Materiais e links pelo grupo de WhatsApp de prática. Liberdade para sair a qualquer hora."
+ },
+ "reflexoes_do_facilitador": [
+  "Diz ser 'uma pessoa um pouco chata' e 'carrasco' nos comentários, e avisa que vai tentar controlar a linguagem.",
+  "Reconhece que fala muito ('eu falo muito', 'minha papagaiada') e que o primeiro encontro é menos prático do que ele gostaria.",
+  "Interrompe o exercício antes do tempo prometido: 'virtude não é uma paciência de que eu disponho'.",
+  "Admite que, no início da Allos, errou ao usar a proficiência teórica como critério de quem estava apto a atender; os pacientes discordavam dos seus preferidos.",
+  "Previu que uma participante teria mais problemas com a condução e reconheceu o erro diante da resposta receptiva do paciente simulado.",
+  "Decide não colar no debate as falas desse paciente, porque ele fala muito e em frases longas; próximos casos serão mais adequados à construção coletiva.",
+  "Diz não gostar de grupo online e preferir o presencial; só entrou neste cronograma para 'dar um gás' e pretende voltar a atuar só presencialmente em alguns meses.",
+  "Admite que a formação teórica da Allos ficou 'de escanteio' por uns três meses e está sendo corrigida.",
+  "'Nomes não são o forte da casa' (sobre o Mapa).",
+  "Diz que vai evitar ao máximo passar tarefas para a semana, porque sabe que as pessoas não fazem."
+ ],
+ "referencias_a_outros_encontros": [
+  "Primeiro encontro de uma série de 6 (o 2º gravado em duas partes); Alan anuncia que vai trabalhar um elemento específico por semana.",
+  "Na semana seguinte haverá outra simulação, com um caso mais difícil, calibrado pelo termômetro deste encontro.",
+  "O caso Marcos César será retomado examinando em grupo o log de alguém que conversou mais com ele, e só então a habilidade-alvo será revelada.",
+  "Na semana seguinte haverá espaço para falar de vagas e da entrada na Allos.",
+  "Na semana anterior, Alan teve uma reunião com pessoas da Allos sobre as habilidades clínicas que servem de 'gabarito' para o caso.",
+  "O grupo de prática tem três horários: o de Alan ('aprimoramento', focado em habilidades específicas) e dois outros de prática 'para performar'.",
+  "Alan compartilha o link da última reunião geral mensal da Allos (interna, não divulgar).",
+  "Menciona o caso Tamires, outro caso do simulador, e versões presenciais das dinâmicas (convite para ir a BH nas férias)."
+ ],
+ "observacoes": "Legenda automática com bastante ruído: 'ALOS/ALS/aulas/aos' = Allos; 'Reis DCT' = Steven Hayes (ACT); 'Juditbeck' = Judith Beck; 'Delus' = provavelmente Deleuze (?); 'Negredo até o Bedo' = nigredo até albedo (?); o texto de Jung no '18/1' (volume 18/1 das Obras Completas?) não foi identificado. Não foram registrados alguns trechos ininteligíveis ('IPS literes', 'O Yungian seus antinambiates', o endereço do simulador ditado em voz). O facilitador se identifica como Alan logo no início (0:00:10). O caso atendido é simulado por IA (caso 'Marcos César'); a descrição foi mantida genérica e as falas do paciente não foram copiadas. O caso toca um tema eticamente sensível (pedido ligado a práticas de conversão); Alan o trata como dilema de psicologia comparada e não menciona a Resolução CFP 01/1999, o que foi apontado como pergunta para aprofundar. Participantes foram anonimizados. A habilidade-alvo do caso não é revelada neste encontro. De 1:50:29 a 2:01:58, o encontro vira apresentação institucional da Allos (bolsas, taxa de aprovação de 4%, 60/40 não formados, editora, revista, editais)."
+}

@@ -29,13 +29,13 @@ aliases: ["Monitoria Diogo - Monitoria Thainá", "Monitoria 21 - Diogo"]
 
 ## Resumo
 
-Diogo apresenta a monitoria a quem está chegando. É um formato novo no cronograma da Allos, de acompanhamento mais individual, que vinha sendo usado para discutir atendimentos feitos com a **ferramenta de paciente simulado por IA** (um chatbot de texto em teste, aberto a poucas pessoas) e agora se abre para casos em geral. A monitoria tem duas vias: as dificuldades do terapeuta, que devem ser o foco no futuro, e temas predeterminados, "que nem o Aprimoramento Clínico". O tema do dia é **tomada de decisão clínica** {{ts:mon-21@0:00:07}} {{ts:mon-21@0:04:22}} {{ts:mon-21@0:05:17}}. Como ninguém tem um caso de IA para trazer, ele aceita até casos de livro, e uma participante se oferece para trazer um caso real que atende.
+Diogo apresenta a monitoria a quem está chegando. É um formato novo no cronograma da Allos, de acompanhamento mais individual, que vinha sendo usado para discutir atendimentos feitos com a **ferramenta de paciente simulado por IA** (um chatbot de texto em teste, aberto a poucas pessoas) e agora se abre para casos em geral. A monitoria tem duas vias: as dificuldades do terapeuta, que devem ser o foco no futuro, e temas predeterminados, "que nem o Aprimoramento Clínico". O tema do dia é **tomada de decisão clínica** [▶ 0:00:07](https://www.youtube.com/watch?v=vzdTMHyqipM&t=7s) [▶ 0:04:22](https://www.youtube.com/watch?v=vzdTMHyqipM&t=262s) [▶ 0:05:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=317s). Como ninguém tem um caso de IA para trazer, ele aceita até casos de livro, e uma participante se oferece para trazer um caso real que atende.
 
-Enquanto ela se organiza, Diogo introduz o tema. Tomada de decisão, no recorte do dia, vale para situações em que **escolher uma opção torna a outra inacessível**, como sair do trânsito pelo bairro ou pelo centro, e não para escolhas acumuláveis, como comprar sorvete e bala. Na clínica, há sempre muitas possibilidades de investigação e intervenção, e a escolha depende da intenção: **toda intervenção tem de ter uma função**. O dilema típico é seguir explorando um ponto forte ou acolher um paciente desconfortável {{ts:mon-21@0:06:37}} {{ts:mon-21@0:07:46}} {{ts:mon-21@0:08:47}}.
+Enquanto ela se organiza, Diogo introduz o tema. Tomada de decisão, no recorte do dia, vale para situações em que **escolher uma opção torna a outra inacessível**, como sair do trânsito pelo bairro ou pelo centro, e não para escolhas acumuláveis, como comprar sorvete e bala. Na clínica, há sempre muitas possibilidades de investigação e intervenção, e a escolha depende da intenção: **toda intervenção tem de ter uma função**. O dilema típico é seguir explorando um ponto forte ou acolher um paciente desconfortável [▶ 0:06:37](https://www.youtube.com/watch?v=vzdTMHyqipM&t=397s) [▶ 0:07:46](https://www.youtube.com/watch?v=vzdTMHyqipM&t=466s) [▶ 0:08:47](https://www.youtube.com/watch?v=vzdTMHyqipM&t=527s).
 
-A monitorada apresenta o caso, um adolescente atendido num serviço público, e conta as três direções que deu ao atendimento: primeiro o vínculo, depois não ser negligente com os comportamentos de risco, e agora tratá-lo como sujeito responsável pela própria vida {{ts:mon-21@0:19:28}}. Diogo escreve esses pontos no chat e, com perguntas sobre a ordem ("por que nessa ordem?"), o objetivo ("por que a responsabilização?"), os meios ("o que você fez?") e a cadeia de porquês ("e por que isso é relevante?"), vai revelando e nomeando, um a um, os **sete passos** que estavam implícitos na prática dela. A cada passo, ele alterna um exemplo dele (setting, lugar de fala, risco de suicídio) e o material do caso.
+A monitorada apresenta o caso, um adolescente atendido num serviço público, e conta as três direções que deu ao atendimento: primeiro o vínculo, depois não ser negligente com os comportamentos de risco, e agora tratá-lo como sujeito responsável pela própria vida [▶ 0:19:28](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1168s). Diogo escreve esses pontos no chat e, com perguntas sobre a ordem ("por que nessa ordem?"), o objetivo ("por que a responsabilização?"), os meios ("o que você fez?") e a cadeia de porquês ("e por que isso é relevante?"), vai revelando e nomeando, um a um, os **sete passos** que estavam implícitos na prática dela. A cada passo, ele alterna um exemplo dele (setting, lugar de fala, risco de suicídio) e o material do caso.
 
-No fim, a monitorada reconhece os sete passos no próprio atendimento, "só que nunca de forma consciente", e diz que o roteiro ajuda a não se perder e a não fazer "terapia sem objetivo" {{ts:mon-21@1:11:25}} {{ts:mon-21@1:16:03}}. Os ouvintes aprovam. Uma pergunta de onde vem o modelo, e Diogo responde com franqueza: não é de um artigo, é uma sistematização dele, feita ao planejar o encontro, a partir das discussões coletivas da Allos {{ts:mon-21@1:17:45}}. Ele fecha retomando uma objeção da mesma participante (a clínica é mais caótica do que qualquer lista) com a metáfora do **jardim**: os passos não têm ordem fixa e se interpenetram {{ts:mon-21@1:20:21}}.
+No fim, a monitorada reconhece os sete passos no próprio atendimento, "só que nunca de forma consciente", e diz que o roteiro ajuda a não se perder e a não fazer "terapia sem objetivo" [▶ 1:11:25](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4285s) [▶ 1:16:03](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4563s). Os ouvintes aprovam. Uma pergunta de onde vem o modelo, e Diogo responde com franqueza: não é de um artigo, é uma sistematização dele, feita ao planejar o encontro, a partir das discussões coletivas da Allos [▶ 1:17:45](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4665s). Ele fecha retomando uma objeção da mesma participante (a clínica é mais caótica do que qualquer lista) com a metáfora do **jardim**: os passos não têm ordem fixa e se interpenetram [▶ 1:20:21](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4821s).
 
 ## Caso em discussão (anonimizado)
 
@@ -43,84 +43,84 @@ No fim, a monitorada reconhece os sete passos no próprio atendimento, "só que 
 
 ## Lições de supervisão
 
-1. **Toda intervenção precisa ter função.** Não se trata de função no sentido comportamental, mas de objetivo: "a gente não pode fazer intervenções vazias, sem significado". A tomada de decisão entra justamente quando há várias intervenções possíveis e só uma pode ser feita agora. {{ts:mon-21@0:08:47}}
-2. **Passo 1: conheça as variáveis em jogo.** No caso, eram o vínculo, o risco e o objetivo do caso. Em geral, entram também a rede de apoio, o setting, a linguagem do clínico e as questões sociais (idade, etnia, classe, gênero, sexualidade). Diferencie **queixa** (as palavras do paciente) de **demanda**, que Diogo chama de objetivo: "o que o caso pede para além do que o paciente traz". {{ts:mon-21@0:28:06}} {{ts:mon-21@0:29:17}} {{ts:mon-21@0:31:23}}
-3. **Passo 2: hierarquize.** A monitorada priorizou o vínculo porque adolescentes custam a confiar em adultos, sobretudo num serviço público, e testam o terapeuta. Diogo cita Alan: a função do primeiro encontro é fazer o segundo acontecer. No topo de qualquer hierarquia está o **risco de suicídio**, que exige parar tudo e seguir o protocolo. {{ts:mon-21@0:24:55}} {{ts:mon-21@0:32:14}} {{ts:mon-21@0:33:13}}
-4. **Passo 3: saiba aonde quer chegar, porque sabe do que o caso precisa.** Para a monitorada, o grande objetivo é o pensamento crítico e a responsabilização. A ideia não é arrancar o paciente do lugar social que lhe dá status, mas fazê-lo sair da posição de repetir as histórias dos homens à sua volta e poder ter "um sonho que é próprio dele". Diogo chama isso de "pedra fundamental do caso". {{ts:mon-21@0:36:07}} {{ts:mon-21@0:37:39}} {{ts:mon-21@0:42:37}} {{ts:mon-21@0:43:08}}
-5. **Passo 4: encadeie os objetivos de curto prazo como requisitos.** Diogo pergunta repetidamente "por que isso é relevante?" e mostra a cadeia. Questionar as convicções mostra que ele não é "intocável"; isso o põe em contato com o que sente; isso gera consciência dos próprios atos; e a consciência leva à responsabilização, que é o grande objetivo. {{ts:mon-21@0:46:49}} {{ts:mon-21@0:49:51}} {{ts:mon-21@0:50:02}} {{ts:mon-21@0:51:05}}
-6. **Os passos não são lineares.** O inconsciente é atemporal e não segue a lógica cartesiana de A leva a B, que leva a C. Os objetivos se misturam e funcionam como guias. A imagem é a do **jardim**, e não a da estrada: há pontos pelos quais é preciso passar, e dá para voltar a eles quantas vezes for necessário. {{ts:mon-21@0:51:05}} {{ts:mon-21@0:52:36}}
-7. **Passo 5: avalie a eficácia pelo lugar aonde a intervenção te levou.** A monitorada considerava ruins as intervenções que travavam a fala livre, as muito objetivas ou curtas e as que antecipavam a interpretação. Por exemplo, perguntou cedo demais se ele se punha em risco, ele negou, e semanas depois ele mesmo reconheceu. Diogo: se falta um requisito, volte um passo. {{ts:mon-21@0:54:50}} {{ts:mon-21@0:57:20}}
-8. **Passo 6: classifique a informação que surge.** A informação nova corrobora a hipótese? Mostra evolução? É resistência, projeção, algo do passado? No caso, as novidades cabiam "no mesmo guarda-chuva": confirmavam a leitura e indicavam evolução. {{ts:mon-21@1:03:28}} {{ts:mon-21@1:04:52}} {{ts:mon-21@1:05:54}}
-9. **Passo 7: reavalie a compreensão do caso.** A monitorada tenta "não viciar" a leitura. Diogo liga isso à hermenêutica ("minha leitura está correta?"): o paciente nunca é o mesmo depois de uma sessão, e, conforme a relevância da mudança, é preciso uma nova compreensão do caso. {{ts:mon-21@1:07:04}} {{ts:mon-21@1:10:06}}
-10. **O roteiro serve para uma intervenção e para o processo inteiro.** Dentro da sessão, os passos correm rápido e às vezes de forma indireta. Fora dela, na supervisão e no estudo, são retomados. Os passos 3 e 4 são os mais específicos. {{ts:mon-21@1:12:42}} {{ts:mon-21@1:13:39}} {{ts:mon-21@1:14:44}}
-11. **O supervisor não precisa julgar a ordem para ensinar a decidir.** Diogo diz explicitamente que não está ali para questionar se a ordem escolhida pela monitorada foi a melhor, mas para mostrar como funciona o processo de decisão. {{ts:mon-21@0:35:18}}
-12. **Tomada de decisão não é "papo de coach" nem pertence a uma abordagem.** Diogo se preocupa com o vocabulário de eficácia e resultado e convida o grupo a apontar se soar como coaching. Diz que tenta usar uma linguagem ampla, sem os termos de nenhuma abordagem. {{ts:mon-21@0:57:20}} {{ts:mon-21@0:58:20}}
+1. **Toda intervenção precisa ter função.** Não se trata de função no sentido comportamental, mas de objetivo: "a gente não pode fazer intervenções vazias, sem significado". A tomada de decisão entra justamente quando há várias intervenções possíveis e só uma pode ser feita agora. [▶ 0:08:47](https://www.youtube.com/watch?v=vzdTMHyqipM&t=527s)
+2. **Passo 1: conheça as variáveis em jogo.** No caso, eram o vínculo, o risco e o objetivo do caso. Em geral, entram também a rede de apoio, o setting, a linguagem do clínico e as questões sociais (idade, etnia, classe, gênero, sexualidade). Diferencie **queixa** (as palavras do paciente) de **demanda**, que Diogo chama de objetivo: "o que o caso pede para além do que o paciente traz". [▶ 0:28:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1686s) [▶ 0:29:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1757s) [▶ 0:31:23](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1883s)
+3. **Passo 2: hierarquize.** A monitorada priorizou o vínculo porque adolescentes custam a confiar em adultos, sobretudo num serviço público, e testam o terapeuta. Diogo cita Alan: a função do primeiro encontro é fazer o segundo acontecer. No topo de qualquer hierarquia está o **risco de suicídio**, que exige parar tudo e seguir o protocolo. [▶ 0:24:55](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1495s) [▶ 0:32:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1934s) [▶ 0:33:13](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1993s)
+4. **Passo 3: saiba aonde quer chegar, porque sabe do que o caso precisa.** Para a monitorada, o grande objetivo é o pensamento crítico e a responsabilização. A ideia não é arrancar o paciente do lugar social que lhe dá status, mas fazê-lo sair da posição de repetir as histórias dos homens à sua volta e poder ter "um sonho que é próprio dele". Diogo chama isso de "pedra fundamental do caso". [▶ 0:36:07](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2167s) [▶ 0:37:39](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2259s) [▶ 0:42:37](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2557s) [▶ 0:43:08](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2588s)
+5. **Passo 4: encadeie os objetivos de curto prazo como requisitos.** Diogo pergunta repetidamente "por que isso é relevante?" e mostra a cadeia. Questionar as convicções mostra que ele não é "intocável"; isso o põe em contato com o que sente; isso gera consciência dos próprios atos; e a consciência leva à responsabilização, que é o grande objetivo. [▶ 0:46:49](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2809s) [▶ 0:49:51](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2991s) [▶ 0:50:02](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3002s) [▶ 0:51:05](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3065s)
+6. **Os passos não são lineares.** O inconsciente é atemporal e não segue a lógica cartesiana de A leva a B, que leva a C. Os objetivos se misturam e funcionam como guias. A imagem é a do **jardim**, e não a da estrada: há pontos pelos quais é preciso passar, e dá para voltar a eles quantas vezes for necessário. [▶ 0:51:05](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3065s) [▶ 0:52:36](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3156s)
+7. **Passo 5: avalie a eficácia pelo lugar aonde a intervenção te levou.** A monitorada considerava ruins as intervenções que travavam a fala livre, as muito objetivas ou curtas e as que antecipavam a interpretação. Por exemplo, perguntou cedo demais se ele se punha em risco, ele negou, e semanas depois ele mesmo reconheceu. Diogo: se falta um requisito, volte um passo. [▶ 0:54:50](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3290s) [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s)
+8. **Passo 6: classifique a informação que surge.** A informação nova corrobora a hipótese? Mostra evolução? É resistência, projeção, algo do passado? No caso, as novidades cabiam "no mesmo guarda-chuva": confirmavam a leitura e indicavam evolução. [▶ 1:03:28](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3808s) [▶ 1:04:52](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3892s) [▶ 1:05:54](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3954s)
+9. **Passo 7: reavalie a compreensão do caso.** A monitorada tenta "não viciar" a leitura. Diogo liga isso à hermenêutica ("minha leitura está correta?"): o paciente nunca é o mesmo depois de uma sessão, e, conforme a relevância da mudança, é preciso uma nova compreensão do caso. [▶ 1:07:04](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4024s) [▶ 1:10:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4206s)
+10. **O roteiro serve para uma intervenção e para o processo inteiro.** Dentro da sessão, os passos correm rápido e às vezes de forma indireta. Fora dela, na supervisão e no estudo, são retomados. Os passos 3 e 4 são os mais específicos. [▶ 1:12:42](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4362s) [▶ 1:13:39](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4419s) [▶ 1:14:44](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4484s)
+11. **O supervisor não precisa julgar a ordem para ensinar a decidir.** Diogo diz explicitamente que não está ali para questionar se a ordem escolhida pela monitorada foi a melhor, mas para mostrar como funciona o processo de decisão. [▶ 0:35:18](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2118s)
+12. **Tomada de decisão não é "papo de coach" nem pertence a uma abordagem.** Diogo se preocupa com o vocabulário de eficácia e resultado e convida o grupo a apontar se soar como coaching. Diz que tenta usar uma linguagem ampla, sem os termos de nenhuma abordagem. [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s) [▶ 0:58:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3500s)
 
 ## Estrutura do encontro
 
 | Início | Bloco | O que acontece | Função pedagógica |
 |---|---|---|---|
-| {{ts:mon-21@0:00:07}} | Abertura | Diogo apresenta a monitoria a uma recém-chegada: formato novo, acompanhamento individual, uso de atendimentos com a ferramenta de IA, abertura a casos gerais. | Situar o formato e o histórico. |
-| {{ts:mon-21@0:02:24}} | Combinados | Busca de um caso: casos de IA, casos reais ou até de livro. Explica as duas vias da monitoria (dificuldades do terapeuta e temas predeterminados). | Garantir material e explicar o formato a um novato. |
-| {{ts:mon-21@0:06:37}} | Teoria | Tema do dia: tomada de decisão (trânsito versus sorvete e bala). Toda intervenção tem função. Dilema entre explorar e acolher. | Enquadrar o tema enquanto a monitorada se prepara. |
-| {{ts:mon-21@0:09:54}} | Dinâmica | A monitorada apresenta o caso real do adolescente e conta suas intervenções. | Trazer o material. |
-| {{ts:mon-21@0:18:06}} | Combinados | Diogo elogia a apresentação e define que a conversa será com a monitorada. Os ouvintes anotam e comentam no fim. | Proteger o foco individual. |
-| {{ts:mon-21@0:19:28}} | Discussão | Por que decidir importa neste caso: vínculo, risco, responsabilização. Diogo escreve no chat. Dificuldade de trabalhar os três ao mesmo tempo. | Tornar explícitas as decisões implícitas. |
-| {{ts:mon-21@0:23:42}} | Discussão | "Por que essa ordem?" A monitorada justifica: adolescente testa, risco recorrente, responsabilização como objetivo com adolescentes. | Explicitar critérios de prioridade. |
-| {{ts:mon-21@0:27:32}} | Teoria | Revelação dos passos 1 (conhecer as variáveis: queixa e demanda, setting, linguagem, lugar de fala) e 2 (hierarquizar: primeira sessão, risco de suicídio). | Nomear o que já apareceu na prática. |
-| {{ts:mon-21@0:35:18}} | Discussão | "Por que a responsabilização?" Contexto, repetição familiar, sonho próprio, pensamento crítico. Passo 3 (objetivo de médio e longo prazo). | Ligar a leitura do caso ao objetivo. |
-| {{ts:mon-21@0:43:08}} | Discussão | "O que você fez?" Confronto nas brechas, nomeação, jogos, questionar as convicções. Cadeia de porquês e passo 4 (objetivos de curto prazo como requisitos). | Mostrar a cadeia intervenção → objetivo. |
-| {{ts:mon-21@0:51:05}} | Teoria | Ressalva: não é linear (inconsciente atemporal). Metáfora do jardim. | Evitar a leitura mecânica do modelo. |
-| {{ts:mon-21@0:53:14}} | Discussão | "Como foi durante?" Tentativa e erro, supervisão, critérios de boa e má intervenção. Passo 5 (avaliar a eficácia). | Ensinar a avaliar intervenções. |
-| {{ts:mon-21@0:57:20}} | Bate-papo/Outro | Metacomentário sobre linguagem de coach e sobre o caráter transversal às abordagens. | Legitimar o tema e convidar a crítica. |
-| {{ts:mon-21@0:58:20}} | Discussão | "Surgiu informação nova?" Mudança de sala, ansiedade, namoro não contado, atestado recusado. Passo 6 (tipo de informação). | Classificar o material que chega. |
-| {{ts:mon-21@1:07:25}} | Discussão | O que se sofisticou: a função dos comportamentos, a relação mais informal, a autorrevelação. Passo 7 (reavaliar a compreensão; hermenêutica). | Fechar o ciclo e reabri-lo. |
-| {{ts:mon-21@1:11:25}} | Retomada | A monitorada reconhece os sete passos na sessão e no processo. Diogo mostra que valem para qualquer intervenção. | Integração. |
-| {{ts:mon-21@1:15:43}} | Feedback | A monitorada avalia a utilidade. Depois, os ouvintes (se é relevante ou "batido"). | Avaliar o encontro com todos. |
-| {{ts:mon-21@1:17:45}} | Dúvidas | Pergunta sobre o referencial dos sete passos: sistematização própria, sem artigo. | Transparência epistemológica. |
-| {{ts:mon-21@1:20:21}} | Fechamento | Retoma a objeção de que a clínica é caótica com a metáfora do jardim: os passos se interpenetram. Fim da gravação. | Fechar com a ressalva principal. |
+| [▶ 0:00:07](https://www.youtube.com/watch?v=vzdTMHyqipM&t=7s) | Abertura | Diogo apresenta a monitoria a uma recém-chegada: formato novo, acompanhamento individual, uso de atendimentos com a ferramenta de IA, abertura a casos gerais. | Situar o formato e o histórico. |
+| [▶ 0:02:24](https://www.youtube.com/watch?v=vzdTMHyqipM&t=144s) | Combinados | Busca de um caso: casos de IA, casos reais ou até de livro. Explica as duas vias da monitoria (dificuldades do terapeuta e temas predeterminados). | Garantir material e explicar o formato a um novato. |
+| [▶ 0:06:37](https://www.youtube.com/watch?v=vzdTMHyqipM&t=397s) | Teoria | Tema do dia: tomada de decisão (trânsito versus sorvete e bala). Toda intervenção tem função. Dilema entre explorar e acolher. | Enquadrar o tema enquanto a monitorada se prepara. |
+| [▶ 0:09:54](https://www.youtube.com/watch?v=vzdTMHyqipM&t=594s) | Dinâmica | A monitorada apresenta o caso real do adolescente e conta suas intervenções. | Trazer o material. |
+| [▶ 0:18:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1086s) | Combinados | Diogo elogia a apresentação e define que a conversa será com a monitorada. Os ouvintes anotam e comentam no fim. | Proteger o foco individual. |
+| [▶ 0:19:28](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1168s) | Discussão | Por que decidir importa neste caso: vínculo, risco, responsabilização. Diogo escreve no chat. Dificuldade de trabalhar os três ao mesmo tempo. | Tornar explícitas as decisões implícitas. |
+| [▶ 0:23:42](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1422s) | Discussão | "Por que essa ordem?" A monitorada justifica: adolescente testa, risco recorrente, responsabilização como objetivo com adolescentes. | Explicitar critérios de prioridade. |
+| [▶ 0:27:32](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1652s) | Teoria | Revelação dos passos 1 (conhecer as variáveis: queixa e demanda, setting, linguagem, lugar de fala) e 2 (hierarquizar: primeira sessão, risco de suicídio). | Nomear o que já apareceu na prática. |
+| [▶ 0:35:18](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2118s) | Discussão | "Por que a responsabilização?" Contexto, repetição familiar, sonho próprio, pensamento crítico. Passo 3 (objetivo de médio e longo prazo). | Ligar a leitura do caso ao objetivo. |
+| [▶ 0:43:08](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2588s) | Discussão | "O que você fez?" Confronto nas brechas, nomeação, jogos, questionar as convicções. Cadeia de porquês e passo 4 (objetivos de curto prazo como requisitos). | Mostrar a cadeia intervenção → objetivo. |
+| [▶ 0:51:05](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3065s) | Teoria | Ressalva: não é linear (inconsciente atemporal). Metáfora do jardim. | Evitar a leitura mecânica do modelo. |
+| [▶ 0:53:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3194s) | Discussão | "Como foi durante?" Tentativa e erro, supervisão, critérios de boa e má intervenção. Passo 5 (avaliar a eficácia). | Ensinar a avaliar intervenções. |
+| [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s) | Bate-papo/Outro | Metacomentário sobre linguagem de coach e sobre o caráter transversal às abordagens. | Legitimar o tema e convidar a crítica. |
+| [▶ 0:58:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3500s) | Discussão | "Surgiu informação nova?" Mudança de sala, ansiedade, namoro não contado, atestado recusado. Passo 6 (tipo de informação). | Classificar o material que chega. |
+| [▶ 1:07:25](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4045s) | Discussão | O que se sofisticou: a função dos comportamentos, a relação mais informal, a autorrevelação. Passo 7 (reavaliar a compreensão; hermenêutica). | Fechar o ciclo e reabri-lo. |
+| [▶ 1:11:25](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4285s) | Retomada | A monitorada reconhece os sete passos na sessão e no processo. Diogo mostra que valem para qualquer intervenção. | Integração. |
+| [▶ 1:15:43](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4543s) | Feedback | A monitorada avalia a utilidade. Depois, os ouvintes (se é relevante ou "batido"). | Avaliar o encontro com todos. |
+| [▶ 1:17:45](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4665s) | Dúvidas | Pergunta sobre o referencial dos sete passos: sistematização própria, sem artigo. | Transparência epistemológica. |
+| [▶ 1:20:21](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4821s) | Fechamento | Retoma a objeção de que a clínica é caótica com a metáfora do jardim: os passos se interpenetram. Fim da gravação. | Fechar com a ressalva principal. |
 
 ## Conteúdo teórico
 
-### O que é tomada de decisão no recorte do encontro {{ts:mon-21@0:06:37}}
-É uma competência global, usada em qualquer situação em que é preciso agir de um modo específico diante de várias possibilidades. No recorte do dia, porém, interessa o caso em que **uma opção exclui a outra**: no trânsito, ou vou pelo bairro ou pelo centro. Quem tem dinheiro pode comprar sorvete e bala, então aí não há decisão nesse sentido {{ts:mon-21@0:07:46}}. Na clínica, as possibilidades de investigação e intervenção dependem da **intenção**, isto é, do que se quer produzir naquele momento. Daí a máxima: toda intervenção tem um objetivo {{ts:mon-21@0:08:47}}. O dilema-modelo, retomado de um grupo de prática da noite anterior, é continuar explorando um tema muito relevante ou acolher um paciente que está desconfortável.
+### O que é tomada de decisão no recorte do encontro [▶ 0:06:37](https://www.youtube.com/watch?v=vzdTMHyqipM&t=397s)
+É uma competência global, usada em qualquer situação em que é preciso agir de um modo específico diante de várias possibilidades. No recorte do dia, porém, interessa o caso em que **uma opção exclui a outra**: no trânsito, ou vou pelo bairro ou pelo centro. Quem tem dinheiro pode comprar sorvete e bala, então aí não há decisão nesse sentido [▶ 0:07:46](https://www.youtube.com/watch?v=vzdTMHyqipM&t=466s). Na clínica, as possibilidades de investigação e intervenção dependem da **intenção**, isto é, do que se quer produzir naquele momento. Daí a máxima: toda intervenção tem um objetivo [▶ 0:08:47](https://www.youtube.com/watch?v=vzdTMHyqipM&t=527s). O dilema-modelo, retomado de um grupo de prática da noite anterior, é continuar explorando um tema muito relevante ou acolher um paciente que está desconfortável.
 
-### Os sete passos {{ts:mon-21@0:27:32}}
+### Os sete passos [▶ 0:27:32](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1652s)
 Diogo vai escrevendo os passos no chat como "TD1, TD2...". A lista final é esta:
 
 | Passo | Nome | Pergunta-guia | Exemplo do caso |
 |---|---|---|---|
-| 1 | Conhecer as variáveis | O que está em jogo? | Vínculo, risco, objetivo do caso {{ts:mon-21@0:28:06}} |
-| 2 | Hierarquizar | O que vem primeiro? | Vínculo antes de confrontar; o risco como urgência {{ts:mon-21@0:32:14}} |
-| 3 | Definir o objetivo de médio e longo prazo | Aonde quero chegar, e por quê? | Pensamento crítico e responsabilização {{ts:mon-21@0:43:08}} |
-| 4 | Definir os objetivos de curto prazo | Que requisitos levam até lá? | Questionar convicções → contato com o sofrimento → consciência {{ts:mon-21@0:51:05}} |
-| 5 | Avaliar a eficácia da intervenção | Aonde ela me levou, e aonde eu queria chegar? | A pergunta sobre risco negada cedo demais {{ts:mon-21@0:57:20}} |
-| 6 | Analisar o tipo de informação levantada | Corrobora, mostra evolução, é resistência? | Novidades "no mesmo guarda-chuva" {{ts:mon-21@1:04:52}} |
-| 7 | Avaliar a compreensão do caso | Minha leitura está correta? | Leitura "não viciada", função dos comportamentos {{ts:mon-21@1:10:06}} |
+| 1 | Conhecer as variáveis | O que está em jogo? | Vínculo, risco, objetivo do caso [▶ 0:28:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1686s) |
+| 2 | Hierarquizar | O que vem primeiro? | Vínculo antes de confrontar; o risco como urgência [▶ 0:32:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1934s) |
+| 3 | Definir o objetivo de médio e longo prazo | Aonde quero chegar, e por quê? | Pensamento crítico e responsabilização [▶ 0:43:08](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2588s) |
+| 4 | Definir os objetivos de curto prazo | Que requisitos levam até lá? | Questionar convicções → contato com o sofrimento → consciência [▶ 0:51:05](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3065s) |
+| 5 | Avaliar a eficácia da intervenção | Aonde ela me levou, e aonde eu queria chegar? | A pergunta sobre risco negada cedo demais [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s) |
+| 6 | Analisar o tipo de informação levantada | Corrobora, mostra evolução, é resistência? | Novidades "no mesmo guarda-chuva" [▶ 1:04:52](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3892s) |
+| 7 | Avaliar a compreensão do caso | Minha leitura está correta? | Leitura "não viciada", função dos comportamentos [▶ 1:10:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4206s) |
 
-### Passo 1: variáveis, queixa e demanda, setting e lugar de fala {{ts:mon-21@0:28:06}}
-- Variáveis globais citadas: vínculo, comportamento de risco, objetivo do caso, rede de apoio, construção do setting, linguagem do clínico e questões sociais. Diogo reconhece que não é uma lista completa do que se deve observar {{ts:mon-21@0:31:23}}.
-- **Queixa e demanda:** Diogo usa "queixa" para as palavras do paciente e "demanda" para o objetivo, ou seja, o que o caso pede além da queixa. Admite que é uma questão de vocabulário ("chamem como quiserem") {{ts:mon-21@0:29:17}}.
-- **Setting:** é padrão, mas maleável. No consultório presencial dele há um armário com lápis e papel para atividades concretas com adultos e brinquedos "bem abertos" para qualquer criança que chegue, e os recursos específicos vêm depois. No online, brincar é mais difícil, e o setting passa muito pela linguagem {{ts:mon-21@0:29:17}} {{ts:mon-21@0:30:28}}.
-- **Linguagem e lugar de fala:** com um adolescente, fala-se diferente do que com um adulto. Um terapeuta homem que atende uma mulher não deve presumir que conhece a vivência dela, e nem a de todos os homens. A atenção aumenta quando aparecem etnia, classe, gênero e sexualidade {{ts:mon-21@0:30:28}}.
+### Passo 1: variáveis, queixa e demanda, setting e lugar de fala [▶ 0:28:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1686s)
+- Variáveis globais citadas: vínculo, comportamento de risco, objetivo do caso, rede de apoio, construção do setting, linguagem do clínico e questões sociais. Diogo reconhece que não é uma lista completa do que se deve observar [▶ 0:31:23](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1883s).
+- **Queixa e demanda:** Diogo usa "queixa" para as palavras do paciente e "demanda" para o objetivo, ou seja, o que o caso pede além da queixa. Admite que é uma questão de vocabulário ("chamem como quiserem") [▶ 0:29:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1757s).
+- **Setting:** é padrão, mas maleável. No consultório presencial dele há um armário com lápis e papel para atividades concretas com adultos e brinquedos "bem abertos" para qualquer criança que chegue, e os recursos específicos vêm depois. No online, brincar é mais difícil, e o setting passa muito pela linguagem [▶ 0:29:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1757s) [▶ 0:30:28](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1828s).
+- **Linguagem e lugar de fala:** com um adolescente, fala-se diferente do que com um adulto. Um terapeuta homem que atende uma mulher não deve presumir que conhece a vivência dela, e nem a de todos os homens. A atenção aumenta quando aparecem etnia, classe, gênero e sexualidade [▶ 0:30:28](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1828s).
 
-### Passo 2: hierarquia, primeira sessão e risco de suicídio {{ts:mon-21@0:32:14}}
+### Passo 2: hierarquia, primeira sessão e risco de suicídio [▶ 0:32:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1934s)
 - **A função da primeira sessão é fazer a segunda acontecer** (máxima que Diogo atribui a Alan, "presidente da associação", e a outros autores). O objetivo não é conhecer o sujeito nem, por si, formar vínculo. O vínculo aproxima esse objetivo porque a conexão garante o retorno.
-- **Risco de suicídio**, na descrição de Diogo: quando o paciente sinaliza chance de tentativa, "para tudo" e segue-se o protocolo. Informa-se ao paciente que o sigilo será rompido **só sobre isso**, com um responsável com quem ele tenha contato. Contata-se essa pessoa na hora para combinar os próximos passos, retirar da casa objetos que permitam a tentativa e ter cuidado com escadas e janelas {{ts:mon-21@0:33:13}}.
-- A justificativa tem dois níveis. O normativo: o dever do profissional de saúde de preservar a vida, que Diogo associa à Constituição e às normas da profissão, e não agir pode ser negligência. O pragmático: "o paciente precisa estar vivo para ser atendido" {{ts:mon-21@0:34:24}}.
+- **Risco de suicídio**, na descrição de Diogo: quando o paciente sinaliza chance de tentativa, "para tudo" e segue-se o protocolo. Informa-se ao paciente que o sigilo será rompido **só sobre isso**, com um responsável com quem ele tenha contato. Contata-se essa pessoa na hora para combinar os próximos passos, retirar da casa objetos que permitam a tentativa e ter cuidado com escadas e janelas [▶ 0:33:13](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1993s).
+- A justificativa tem dois níveis. O normativo: o dever do profissional de saúde de preservar a vida, que Diogo associa à Constituição e às normas da profissão, e não agir pode ser negligência. O pragmático: "o paciente precisa estar vivo para ser atendido" [▶ 0:34:24](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2064s).
 
-### Passos 3 e 4: objetivo do caso e cadeia de requisitos {{ts:mon-21@0:43:08}}
-O passo 3 responde "aonde quero chegar?", e a resposta vem da compreensão de "sobre o que é o caso". O passo 4 desce do objetivo às intervenções por uma **cadeia de porquês**. Diogo pergunta "por que você fazia isso?", depois "por que isso é relevante?", e repete até chegar ao grande objetivo {{ts:mon-21@0:50:02}}. A cadeia não é necessariamente linear, e a ressalva psicanalítica é explícita: o inconsciente é atemporal e tem sentidos analisáveis, mas não segue a lógica cartesiana {{ts:mon-21@0:51:05}}.
+### Passos 3 e 4: objetivo do caso e cadeia de requisitos [▶ 0:43:08](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2588s)
+O passo 3 responde "aonde quero chegar?", e a resposta vem da compreensão de "sobre o que é o caso". O passo 4 desce do objetivo às intervenções por uma **cadeia de porquês**. Diogo pergunta "por que você fazia isso?", depois "por que isso é relevante?", e repete até chegar ao grande objetivo [▶ 0:50:02](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3002s). A cadeia não é necessariamente linear, e a ressalva psicanalítica é explícita: o inconsciente é atemporal e tem sentidos analisáveis, mas não segue a lógica cartesiana [▶ 0:51:05](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3065s).
 
-### Passos 5 e 6: eficácia e tipo de informação {{ts:mon-21@0:57:20}}
+### Passos 5 e 6: eficácia e tipo de informação [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s)
 - **Eficácia:** compare onde a intervenção deixou você com onde você queria chegar. Se o objetivo era debater riscos e o paciente ainda nem os reconhece, falta um requisito, e é preciso voltar ao passo 4.
-- **Tipo de informação:** diante do que surge, pergunte se corrobora a hipótese, se mostra evolução ou se é resistência, projeção, fuga da realidade ou algo de origem passada. Diogo ressalva que a resistência é um recurso do paciente como os outros, mas merece destaque porque pode aparecer como impedimento ao processo {{ts:mon-21@1:05:54}}.
+- **Tipo de informação:** diante do que surge, pergunte se corrobora a hipótese, se mostra evolução ou se é resistência, projeção, fuga da realidade ou algo de origem passada. Diogo ressalva que a resistência é um recurso do paciente como os outros, mas merece destaque porque pode aparecer como impedimento ao processo [▶ 1:05:54](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3954s).
 
-### Passo 7: hermenêutica e reavaliação {{ts:mon-21@1:10:06}}
+### Passo 7: hermenêutica e reavaliação [▶ 1:10:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4206s)
 A pergunta é "minha leitura está correta?". Diogo retoma "o princípio da hermenêutica": o caso muda conforme é atendido. No nível pragmático, pergunta-se quanto ele muda. No nível filosófico, o paciente nunca é o mesmo depois de uma sessão. Conforme a relevância da mudança, uma nova compreensão se faz necessária.
 
-### A metáfora do jardim {{ts:mon-21@0:52:36}}
-O processo não é uma estrada, com reta, curva e destino. É um passeio por um jardim grande, em que o objetivo é o próprio passeio: há flores, monumentos e bancos por onde é preciso passar, e é possível voltar a eles. No fechamento, Diogo mostra a interpenetração dos passos. Ao avaliar a eficácia (passo 5), já se reformula a compreensão (7). Ao hierarquizar (2), já se compreende o caso e se planejam intervenções. Ao planejá-las, já se antecipa o tipo de informação que costuma surgir (6) {{ts:mon-21@1:20:21}} {{ts:mon-21@1:21:36}}.
+### A metáfora do jardim [▶ 0:52:36](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3156s)
+O processo não é uma estrada, com reta, curva e destino. É um passeio por um jardim grande, em que o objetivo é o próprio passeio: há flores, monumentos e bancos por onde é preciso passar, e é possível voltar a eles. No fechamento, Diogo mostra a interpenetração dos passos. Ao avaliar a eficácia (passo 5), já se reformula a compreensão (7). Ao hierarquizar (2), já se compreende o caso e se planejam intervenções. Ao planejá-las, já se antecipa o tipo de informação que costuma surgir (6) [▶ 1:20:21](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4821s) [▶ 1:21:36](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4896s).
 
 ## Dinâmica(s)
 
@@ -130,7 +130,7 @@ O processo não é uma estrada, com reta, curva e destino. É um passeio por um 
 - **Configuração:** online; uma terapeuta traz um caso real e conversa com o monitor; os ouvintes anotam e comentam só no fim; o chat serve de quadro.
 - **Tempo aproximado:** 60 minutos de diálogo e 10 de feedback.
 - **Materiais:** um caso em andamento (real, simulado por IA ou de livro); o chat da videochamada para registrar as decisões e os passos.
-- **Consigna (adaptada):** "Conte o seu caso. Você consegue perceber a relevância da tomada de decisão neste caso? Quais decisões você tomou e em que ordem?" {{ts:mon-21@0:19:07}}
+- **Consigna (adaptada):** "Conte o seu caso. Você consegue perceber a relevância da tomada de decisão neste caso? Quais decisões você tomou e em que ordem?" [▶ 0:19:07](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1147s)
 - **Passo a passo:**
   1. O monitorado apresenta o caso e as próprias intervenções.
   2. O monitor pede as decisões principais e as anota no chat.
@@ -139,32 +139,32 @@ O processo não é uma estrada, com reta, curva e destino. É um passeio por um 
   5. Pergunta pelo que deu errado, pelo que surgiu de novo e pelo que mudou na leitura do caso (passos 5 a 7).
   6. Integra: o monitorado consegue ver os sete passos na sessão e no processo?
   7. Colhe o feedback do monitorado e dos ouvintes.
-- **Como o facilitador dá feedback / critérios de qualidade:** não julga as escolhas ("não estou aqui para questionar se foi a melhor ordem"). Avalia se a decisão é **justificável** e se liga ao objetivo do caso. Parafraseia e pede confirmação ("é isso?"). Aceita as correções de vocabulário da monitorada ("determinado é forte, influenciado talvez"). {{ts:mon-21@0:35:18}} {{ts:mon-21@0:40:10}}
-- **O que aconteceu na prática:** a monitorada acerta a hierarquização ao nomear as etapas, mas ainda não a definição de objetivos. Descreve como tentativa e erro o que depois consegue organizar nos sete passos. No fim, formula sozinha que "mais importante do que chegar onde eu queria é entender aonde chegou". {{ts:mon-21@0:28:06}} {{ts:mon-21@0:53:24}} {{ts:mon-21@1:12:42}}
-- **Variações e armadilhas:** funciona com um caso simulado ou de livro, e para alguns temas até sem caso em andamento {{ts:mon-21@0:05:17}}. Armadilhas: (1) ler o modelo como sequência rígida, o que Diogo combate com o jardim; (2) soar como coaching; (3) o caso real exige cuidado com o sigilo diante do grupo; (4) ouvintes que saem ao longo do encontro. A variação sugerida pela conversa é aplicar os sete passos a uma única intervenção, dentro da sessão.
+- **Como o facilitador dá feedback / critérios de qualidade:** não julga as escolhas ("não estou aqui para questionar se foi a melhor ordem"). Avalia se a decisão é **justificável** e se liga ao objetivo do caso. Parafraseia e pede confirmação ("é isso?"). Aceita as correções de vocabulário da monitorada ("determinado é forte, influenciado talvez"). [▶ 0:35:18](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2118s) [▶ 0:40:10](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2410s)
+- **O que aconteceu na prática:** a monitorada acerta a hierarquização ao nomear as etapas, mas ainda não a definição de objetivos. Descreve como tentativa e erro o que depois consegue organizar nos sete passos. No fim, formula sozinha que "mais importante do que chegar onde eu queria é entender aonde chegou". [▶ 0:28:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1686s) [▶ 0:53:24](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3204s) [▶ 1:12:42](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4362s)
+- **Variações e armadilhas:** funciona com um caso simulado ou de livro, e para alguns temas até sem caso em andamento [▶ 0:05:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=317s). Armadilhas: (1) ler o modelo como sequência rígida, o que Diogo combate com o jardim; (2) soar como coaching; (3) o caso real exige cuidado com o sigilo diante do grupo; (4) ouvintes que saem ao longo do encontro. A variação sugerida pela conversa é aplicar os sete passos a uma única intervenção, dentro da sessão.
 - **Nível:** intermediário (pede um caso em andamento e alguma experiência). **Funciona online:** sim.
 
 ## Dicas clínicas
 
-- **Antes de intervir, pergunte-se qual é a função da intervenção** — *Por quê:* intervenções vazias não levam a lugar nenhum, e a escolha depende do que você quer produzir. *Quando:* sempre, sobretudo diante de várias opções. {{ts:mon-21@0:08:47}}
-- **Mapeie as variáveis do caso antes de decidir** — *Por quê:* não dá para hierarquizar o que não foi identificado (vínculo, risco, objetivo, rede de apoio, setting, linguagem, marcadores sociais). *Quando:* no início e a cada virada do caso. {{ts:mon-21@0:28:06}} {{ts:mon-21@0:31:23}}
-- **Separe a queixa (palavras do paciente) da demanda ou objetivo (o que o caso pede)** — *Por quê:* o caso pode pedir mais do que o paciente traz como motivo. *Quando:* na formulação inicial. {{ts:mon-21@0:29:17}}
-- **Adapte a linguagem e o setting ao paciente e cuide do lugar de fala** — *Por quê:* a linguagem faz parte do setting, e presumir que se conhece a vivência do outro (de gênero, de classe, de etnia) atrapalha. *Quando:* adolescentes, crianças, diferenças sociais marcadas. {{ts:mon-21@0:30:28}}
-- **Na primeira sessão, priorize garantir a segunda** — *Por quê:* sem retorno não há tratamento, e o vínculo é o meio para isso. *Quando:* primeiros contatos. {{ts:mon-21@0:32:14}}
-- **Diante de risco de suicídio, pare tudo e siga o protocolo** — *Por quê:* a vida vem antes de qualquer outra prioridade, e omitir-se pode ser negligência. *Como:* avise que o sigilo será rompido só sobre isso, contate um responsável na hora, oriente a retirar meios e a proteger os ambientes da casa. *Quando:* sempre que houver sinal de risco. {{ts:mon-21@0:33:13}} {{ts:mon-21@0:34:24}}
-- **Com adolescentes, construa o vínculo antes de confrontar** — *Por quê:* costumam desconfiar de adultos e testam o terapeuta, e o material genuíno aparece depois. *Quando:* primeiras semanas (prática relatada pela monitorada). {{ts:mon-21@0:24:55}}
-- **Entenda a função do comportamento de risco, mas não fique só nisso** — *Por quê:* sustentar indefinidamente a escuta da função pode virar negligência. Depois de algumas semanas, nomeie o risco. *Quando:* riscos recorrentes. {{ts:mon-21@0:26:11}}
-- **Troque a postura pedagógica pela pergunta que expõe a contradição** — *Por quê:* corrigir quebra o vínculo, e questionar ("se não é problema, por que você escondia?") traz o princípio de realidade sem julgamento. *Quando:* quando o paciente minimiza o que faz. {{ts:mon-21@0:15:57}}
-- **Confronte nas brechas e nomeie o que o paciente conta rindo** — *Por quê:* mostra que o terapeuta não só ouve, mas vê, sem romper o vínculo. *Quando:* quando o vínculo já permite (prática relatada pela monitorada). {{ts:mon-21@0:44:41}}
-- **Use jogos para observar padrões e nomeá-los** — *Por quê:* no brincar aparecem a dificuldade de perder e a necessidade de controle ("ou é muito bom ou nem tenta"). *Quando:* setting com recursos lúdicos, inclusive com adolescentes. {{ts:mon-21@0:44:41}} {{ts:mon-21@0:45:58}}
-- **Encadeie porquês até o grande objetivo** — *Por quê:* verifica se cada intervenção de curto prazo é requisito do objetivo do caso. *Quando:* ao planejar e na supervisão. {{ts:mon-21@0:50:02}}
-- **Julgue a intervenção pelo efeito sobre a fala do paciente** — *Por quê:* as intervenções muito objetivas, curtas ou antecipadas travavam a associação livre. *Quando:* sobretudo no início do tratamento. {{ts:mon-21@0:54:50}}
-- **Não antecipe a interpretação: espere o paciente se escutar** — *Por quê:* o terapeuta pode perceber antes, mas o paciente só reconhece quando traz os próprios elementos (a pergunta sobre risco foi negada cedo e reconhecida depois). *Quando:* sempre que a leitura estiver "à frente" do paciente. {{ts:mon-21@0:54:50}}
-- **Se a intervenção não chegou aonde você queria, volte ao requisito** — *Por quê:* o fracasso mostra o que ainda não foi construído. *Quando:* depois de uma intervenção que foi negada ou não produziu efeito. {{ts:mon-21@0:57:20}}
-- **Pergunte que tipo de informação a novidade traz** — *Por quê:* corroborar, mostrar evolução ou resistir levam a decisões diferentes. *Quando:* sempre que surge material novo. {{ts:mon-21@1:04:52}}
-- **Trate mudanças de setting como variável** — *Por quê:* uma sala diferente mudou a fala do paciente e a da terapeuta, e foi nela que surgiu uma revelação importante. *Quando:* quando o espaço muda (prática relatada pela monitorada). {{ts:mon-21@0:59:33}}
-- **Mantenha a leitura do caso aberta, sem viciá-la** — *Por quê:* o paciente muda a cada sessão, e a leitura precisa acompanhar. *Quando:* a cada sessão e em cada supervisão. {{ts:mon-21@1:07:04}} {{ts:mon-21@1:10:06}}
-- **Use a autorrevelação com parcimônia, sem perder o lugar** — *Por quê:* no relato da monitorada, contar uma experiência pessoal semelhante tornou a relação mais flexível e abriu a conversa sobre o caminho legal para o que o paciente deseja. *Quando:* com o vínculo consolidado e um objetivo claro. {{ts:mon-21@1:07:46}} {{ts:mon-21@1:08:59}}
+- **Antes de intervir, pergunte-se qual é a função da intervenção** — *Por quê:* intervenções vazias não levam a lugar nenhum, e a escolha depende do que você quer produzir. *Quando:* sempre, sobretudo diante de várias opções. [▶ 0:08:47](https://www.youtube.com/watch?v=vzdTMHyqipM&t=527s)
+- **Mapeie as variáveis do caso antes de decidir** — *Por quê:* não dá para hierarquizar o que não foi identificado (vínculo, risco, objetivo, rede de apoio, setting, linguagem, marcadores sociais). *Quando:* no início e a cada virada do caso. [▶ 0:28:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1686s) [▶ 0:31:23](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1883s)
+- **Separe a queixa (palavras do paciente) da demanda ou objetivo (o que o caso pede)** — *Por quê:* o caso pode pedir mais do que o paciente traz como motivo. *Quando:* na formulação inicial. [▶ 0:29:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1757s)
+- **Adapte a linguagem e o setting ao paciente e cuide do lugar de fala** — *Por quê:* a linguagem faz parte do setting, e presumir que se conhece a vivência do outro (de gênero, de classe, de etnia) atrapalha. *Quando:* adolescentes, crianças, diferenças sociais marcadas. [▶ 0:30:28](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1828s)
+- **Na primeira sessão, priorize garantir a segunda** — *Por quê:* sem retorno não há tratamento, e o vínculo é o meio para isso. *Quando:* primeiros contatos. [▶ 0:32:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1934s)
+- **Diante de risco de suicídio, pare tudo e siga o protocolo** — *Por quê:* a vida vem antes de qualquer outra prioridade, e omitir-se pode ser negligência. *Como:* avise que o sigilo será rompido só sobre isso, contate um responsável na hora, oriente a retirar meios e a proteger os ambientes da casa. *Quando:* sempre que houver sinal de risco. [▶ 0:33:13](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1993s) [▶ 0:34:24](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2064s)
+- **Com adolescentes, construa o vínculo antes de confrontar** — *Por quê:* costumam desconfiar de adultos e testam o terapeuta, e o material genuíno aparece depois. *Quando:* primeiras semanas (prática relatada pela monitorada). [▶ 0:24:55](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1495s)
+- **Entenda a função do comportamento de risco, mas não fique só nisso** — *Por quê:* sustentar indefinidamente a escuta da função pode virar negligência. Depois de algumas semanas, nomeie o risco. *Quando:* riscos recorrentes. [▶ 0:26:11](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1571s)
+- **Troque a postura pedagógica pela pergunta que expõe a contradição** — *Por quê:* corrigir quebra o vínculo, e questionar ("se não é problema, por que você escondia?") traz o princípio de realidade sem julgamento. *Quando:* quando o paciente minimiza o que faz. [▶ 0:15:57](https://www.youtube.com/watch?v=vzdTMHyqipM&t=957s)
+- **Confronte nas brechas e nomeie o que o paciente conta rindo** — *Por quê:* mostra que o terapeuta não só ouve, mas vê, sem romper o vínculo. *Quando:* quando o vínculo já permite (prática relatada pela monitorada). [▶ 0:44:41](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2681s)
+- **Use jogos para observar padrões e nomeá-los** — *Por quê:* no brincar aparecem a dificuldade de perder e a necessidade de controle ("ou é muito bom ou nem tenta"). *Quando:* setting com recursos lúdicos, inclusive com adolescentes. [▶ 0:44:41](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2681s) [▶ 0:45:58](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2758s)
+- **Encadeie porquês até o grande objetivo** — *Por quê:* verifica se cada intervenção de curto prazo é requisito do objetivo do caso. *Quando:* ao planejar e na supervisão. [▶ 0:50:02](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3002s)
+- **Julgue a intervenção pelo efeito sobre a fala do paciente** — *Por quê:* as intervenções muito objetivas, curtas ou antecipadas travavam a associação livre. *Quando:* sobretudo no início do tratamento. [▶ 0:54:50](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3290s)
+- **Não antecipe a interpretação: espere o paciente se escutar** — *Por quê:* o terapeuta pode perceber antes, mas o paciente só reconhece quando traz os próprios elementos (a pergunta sobre risco foi negada cedo e reconhecida depois). *Quando:* sempre que a leitura estiver "à frente" do paciente. [▶ 0:54:50](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3290s)
+- **Se a intervenção não chegou aonde você queria, volte ao requisito** — *Por quê:* o fracasso mostra o que ainda não foi construído. *Quando:* depois de uma intervenção que foi negada ou não produziu efeito. [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s)
+- **Pergunte que tipo de informação a novidade traz** — *Por quê:* corroborar, mostrar evolução ou resistir levam a decisões diferentes. *Quando:* sempre que surge material novo. [▶ 1:04:52](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3892s)
+- **Trate mudanças de setting como variável** — *Por quê:* uma sala diferente mudou a fala do paciente e a da terapeuta, e foi nela que surgiu uma revelação importante. *Quando:* quando o espaço muda (prática relatada pela monitorada). [▶ 0:59:33](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3573s)
+- **Mantenha a leitura do caso aberta, sem viciá-la** — *Por quê:* o paciente muda a cada sessão, e a leitura precisa acompanhar. *Quando:* a cada sessão e em cada supervisão. [▶ 1:07:04](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4024s) [▶ 1:10:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4206s)
+- **Use a autorrevelação com parcimônia, sem perder o lugar** — *Por quê:* no relato da monitorada, contar uma experiência pessoal semelhante tornou a relação mais flexível e abriu a conversa sobre o caminho legal para o que o paciente deseja. *Quando:* com o vínculo consolidado e um objetivo claro. [▶ 1:07:46](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4066s) [▶ 1:08:59](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4139s)
 
 ## Teses e posicionamentos
 
@@ -172,72 +172,72 @@ O processo não é uma estrada, com reta, curva e destino. É um passeio por um 
   - *Argumento:* diante de muitas possibilidades, só a intenção permite escolher. Sem objetivo, a sessão vira "uma conversa qualquer".
   - *Contra quem / contraponto:* a intervenção feita por fazer. Diogo afasta o sentido estritamente comportamental de "função".
   - *Implicação prática:* explicitar o objetivo de cada intervenção na supervisão.
-  - {{ts:mon-21@0:08:47}} {{ts:mon-21@1:16:03}}
+  - [▶ 0:08:47](https://www.youtube.com/watch?v=vzdTMHyqipM&t=527s) [▶ 1:16:03](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4563s)
   - *Quem:* Diogo, com o endosso da monitorada.
 - **Tese:** a tomada de decisão clínica pode ser sistematizada em sete passos que valem para qualquer abordagem.
   - *Argumento:* a própria monitorada, psicanalista, percorreu todos eles sem perceber. Decidir é necessário a toda abordagem.
   - *Contra quem / contraponto:* uma participante lembra que a clínica é caótica e que só depois se entende o que aconteceu. Diogo aceita: os passos são guias, não uma ordem fixa. A origem do modelo é declarada: sistematização própria a partir das discussões da Allos, sem artigo de base.
   - *Implicação prática:* usar o roteiro como checklist reflexivo, não como receita.
-  - {{ts:mon-21@0:58:20}} {{ts:mon-21@1:17:45}} {{ts:mon-21@1:20:21}}
+  - [▶ 0:58:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3500s) [▶ 1:17:45](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4665s) [▶ 1:20:21](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4821s)
 - **Tese:** falar em decisão, eficácia e resultado não é "papo de coach".
   - *Argumento:* decidir é necessário a vários processos e a toda abordagem.
   - *Contra quem / contraponto:* a desconfiança, que Diogo antecipa, de que o vocabulário soe mercadológico. Ele convida o grupo a sugerir outros nomes.
   - *Implicação prática:* adotar a linguagem sem importar a lógica do coaching.
-  - {{ts:mon-21@0:57:20}}
+  - [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s)
 - **Tese:** o risco de suicídio está acima de qualquer outra prioridade clínica, inclusive do sigilo.
   - *Argumento:* dever legal e profissional de preservar a vida, e, pragmaticamente, o paciente precisa estar vivo para ser atendido.
   - *Contra quem / contraponto:* a omissão, que configura negligência. O sigilo é rompido apenas no que diz respeito ao risco.
   - *Implicação prática:* conhecer e seguir o protocolo (aviso ao paciente, contato com responsável, retirada de meios).
-  - {{ts:mon-21@0:33:13}} {{ts:mon-21@0:34:24}}
+  - [▶ 0:33:13](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1993s) [▶ 0:34:24](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2064s)
 - **Tese:** a função da primeira sessão é fazer a segunda acontecer.
   - *Argumento:* o objetivo inicial não é conhecer o sujeito nem formar vínculo como fim, mas garantir o retorno. O vínculo serve a isso.
   - *Quem:* Diogo, citando Alan e "outros autores".
   - *Implicação prática:* medir a primeira sessão pelo retorno do paciente.
-  - {{ts:mon-21@0:32:14}}
+  - [▶ 0:32:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1934s)
 - **Tese:** o processo clínico é um jardim, não uma estrada.
   - *Argumento:* os objetivos se misturam, e o inconsciente é atemporal e não obedece à lógica cartesiana. Volta-se aos mesmos pontos quando é necessário.
   - *Contra quem / contraponto:* a leitura linear do próprio modelo de sete passos.
   - *Implicação prática:* revisitar prioridades e objetivos sem culpa de "voltar atrás".
-  - {{ts:mon-21@0:51:05}} {{ts:mon-21@0:52:36}} {{ts:mon-21@1:20:21}}
+  - [▶ 0:51:05](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3065s) [▶ 0:52:36](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3156s) [▶ 1:20:21](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4821s)
 - **Tese:** a compreensão do caso tem de ser reavaliada continuamente.
   - *Argumento:* hermenêutica, ou seja, o paciente nunca é o mesmo depois de uma sessão.
   - *Implicação prática:* toda informação nova é uma ocasião para testar a leitura.
-  - {{ts:mon-21@1:10:06}}
+  - [▶ 1:10:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4206s)
 - **Tese (da monitorada):** com adolescentes, a responsabilização é o objetivo de toda terapia.
   - *Argumento:* separar-se dos pais e tornar-se autônomo e responsável pela própria vida, ou seja, sair do lugar de objeto e de repetir a história dos adultos à sua volta.
   - *Contraponto:* a responsabilização não passa por arrancar o paciente do lugar social que lhe dá status, e sim por dar a ele pensamento crítico sobre esse lugar.
   - *Implicação prática:* primeiro o vínculo, depois a nomeação dos riscos, depois a responsabilização.
-  - {{ts:mon-21@0:26:11}} {{ts:mon-21@0:37:39}} {{ts:mon-21@0:42:37}}
+  - [▶ 0:26:11](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1571s) [▶ 0:37:39](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2259s) [▶ 0:42:37](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2557s)
 - **Tese:** o supervisor ensina mais explicitando o processo de decisão do que julgando a decisão.
   - *Argumento:* Diogo declara que não vai avaliar se a ordem foi a melhor, e sim ajudar a entender o processo.
   - *Implicação prática:* supervisões que devolvem ao terapeuta um método, não um veredito.
-  - {{ts:mon-21@0:35:18}}
+  - [▶ 0:35:18](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2118s)
 
 ## Como o facilitador conduz
 
-- **Explica o formato e a história da monitoria a quem chega.** Cita o novo lugar no cronograma, a ferramenta de IA em teste e a abertura a casos gerais. {{ts:mon-21@0:00:07}} {{ts:mon-21@0:01:33}}
-- **É flexível para conseguir material.** Aceita caso de IA, caso real ou até de livro, e diz a um novato que pode trazer um caso na semana seguinte. {{ts:mon-21@0:04:01}} {{ts:mon-21@0:05:17}}
-- **Aproveita a espera para ensinar o tema.** Enquanto a monitorada se prepara, apresenta o conceito com analogias do cotidiano (trânsito, sorvete e bala). {{ts:mon-21@0:06:37}}
-- **Contrata a participação.** O foco é na monitorada, e os ouvintes anotam e falam no fim. Aceita a sugestão de um participante de anotar os comentários. {{ts:mon-21@0:18:06}} {{ts:mon-21@0:19:07}}
-- **Elogia a apresentação do caso** por trazer não só informações, mas as intervenções e uma construção do caso. {{ts:mon-21@0:18:06}}
-- **Usa o chat como quadro.** Escreve as decisões da monitorada e os passos ("TD1, TD2...") e pede que todos acompanhem. {{ts:mon-21@0:20:42}} {{ts:mon-21@0:28:06}}
-- **Elicita antes de nomear.** "Eu levantei duas etapas ao longo da conversa. Você consegue identificar quais?" Só depois revela. {{ts:mon-21@0:27:32}}
-- **Encadeia porquês.** "Por que você questionava?", "por que era relevante mostrar que ele não era intocável?", "por que é necessário ele entrar em contato com o que sente?", e depois mostra a cadeia inteira. {{ts:mon-21@0:46:49}} {{ts:mon-21@0:49:04}} {{ts:mon-21@0:50:02}}
-- **Parafraseia e confirma.** "Pelo que eu entendi... é isso?", e aceita a correção ("determinado é forte, influenciado talvez"). {{ts:mon-21@0:38:54}} {{ts:mon-21@0:40:10}} {{ts:mon-21@0:41:30}}
-- **Alterna o caso e exemplos próprios.** Traz a sala com brinquedos, o homem que atende uma mulher e o risco de suicídio como exemplo-limite ("não era o caso dela"). {{ts:mon-21@0:29:17}} {{ts:mon-21@0:34:24}}
-- **Declara a própria posição de supervisor.** Não julga a ordem, ensina o processo. {{ts:mon-21@0:35:18}}
-- **Faz ressalvas epistemológicas no momento certo.** Ao fechar o passo 4, previne contra a linearidade com uma referência psicanalítica (o inconsciente atemporal), a língua da monitorada. {{ts:mon-21@0:51:05}}
-- **Lida com o silêncio verbalizando a hipótese.** "Estou contando que faz sentido. Se estiver errado, me corrija sempre." {{ts:mon-21@0:56:18}}
-- **Faz metacomentário sobre a própria linguagem.** Teme soar como coach e convida a crítica. {{ts:mon-21@0:57:20}}
-- **Integra no fim.** Pergunta se a monitorada vê os sete passos no atendimento e se os vê na sessão ou no processo. {{ts:mon-21@1:11:25}}
-- **Colhe feedback em duas rodadas.** Primeiro da monitorada, depois dos ouvintes, com espaço explícito para críticas ("é batido? óbvio demais?"). {{ts:mon-21@1:15:43}} {{ts:mon-21@1:17:06}}
-- **É transparente sobre a origem do modelo** e fecha incorporando a objeção de uma ouvinte. {{ts:mon-21@1:17:45}} {{ts:mon-21@1:20:21}}
+- **Explica o formato e a história da monitoria a quem chega.** Cita o novo lugar no cronograma, a ferramenta de IA em teste e a abertura a casos gerais. [▶ 0:00:07](https://www.youtube.com/watch?v=vzdTMHyqipM&t=7s) [▶ 0:01:33](https://www.youtube.com/watch?v=vzdTMHyqipM&t=93s)
+- **É flexível para conseguir material.** Aceita caso de IA, caso real ou até de livro, e diz a um novato que pode trazer um caso na semana seguinte. [▶ 0:04:01](https://www.youtube.com/watch?v=vzdTMHyqipM&t=241s) [▶ 0:05:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=317s)
+- **Aproveita a espera para ensinar o tema.** Enquanto a monitorada se prepara, apresenta o conceito com analogias do cotidiano (trânsito, sorvete e bala). [▶ 0:06:37](https://www.youtube.com/watch?v=vzdTMHyqipM&t=397s)
+- **Contrata a participação.** O foco é na monitorada, e os ouvintes anotam e falam no fim. Aceita a sugestão de um participante de anotar os comentários. [▶ 0:18:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1086s) [▶ 0:19:07](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1147s)
+- **Elogia a apresentação do caso** por trazer não só informações, mas as intervenções e uma construção do caso. [▶ 0:18:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1086s)
+- **Usa o chat como quadro.** Escreve as decisões da monitorada e os passos ("TD1, TD2...") e pede que todos acompanhem. [▶ 0:20:42](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1242s) [▶ 0:28:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1686s)
+- **Elicita antes de nomear.** "Eu levantei duas etapas ao longo da conversa. Você consegue identificar quais?" Só depois revela. [▶ 0:27:32](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1652s)
+- **Encadeia porquês.** "Por que você questionava?", "por que era relevante mostrar que ele não era intocável?", "por que é necessário ele entrar em contato com o que sente?", e depois mostra a cadeia inteira. [▶ 0:46:49](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2809s) [▶ 0:49:04](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2944s) [▶ 0:50:02](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3002s)
+- **Parafraseia e confirma.** "Pelo que eu entendi... é isso?", e aceita a correção ("determinado é forte, influenciado talvez"). [▶ 0:38:54](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2334s) [▶ 0:40:10](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2410s) [▶ 0:41:30](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2490s)
+- **Alterna o caso e exemplos próprios.** Traz a sala com brinquedos, o homem que atende uma mulher e o risco de suicídio como exemplo-limite ("não era o caso dela"). [▶ 0:29:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1757s) [▶ 0:34:24](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2064s)
+- **Declara a própria posição de supervisor.** Não julga a ordem, ensina o processo. [▶ 0:35:18](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2118s)
+- **Faz ressalvas epistemológicas no momento certo.** Ao fechar o passo 4, previne contra a linearidade com uma referência psicanalítica (o inconsciente atemporal), a língua da monitorada. [▶ 0:51:05](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3065s)
+- **Lida com o silêncio verbalizando a hipótese.** "Estou contando que faz sentido. Se estiver errado, me corrija sempre." [▶ 0:56:18](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3378s)
+- **Faz metacomentário sobre a própria linguagem.** Teme soar como coach e convida a crítica. [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s)
+- **Integra no fim.** Pergunta se a monitorada vê os sete passos no atendimento e se os vê na sessão ou no processo. [▶ 1:11:25](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4285s)
+- **Colhe feedback em duas rodadas.** Primeiro da monitorada, depois dos ouvintes, com espaço explícito para críticas ("é batido? óbvio demais?"). [▶ 1:15:43](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4543s) [▶ 1:17:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4626s)
+- **É transparente sobre a origem do modelo** e fecha incorporando a objeção de uma ouvinte. [▶ 1:17:45](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4665s) [▶ 1:20:21](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4821s)
 
 **Comparação com Alan.** Alan também tomou "tomada de decisão" como foco em [[Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica]], mas de outro modo.
 - **Nível de análise.** Alan trabalha no nível micro, fala a fala num atendimento simulado. Avalia as escolhas ("ali era o momento de encerrar a sessão"), propõe variações de frase e termina com um diagnóstico de força e lacuna e uma tarefa. Diogo trabalha no nível macro do processo, num caso real narrado, e **se abstém de avaliar** as escolhas para extrair delas um **método geral** explícito, escrito no chat como numa aula.
 - **O que o grupo leva.** Com Alan, o grupo aprende pela observação de um raciocínio ao vivo. Com Diogo, leva um esquema numerado (os ouvintes dizem que estão "copiando os passos").
 - **Pontos em comum.** Os dois usam metáforas para evitar a leitura mecânica (Alan, o gato e o camaleão; Diogo, o jardim). Os dois relativizam o certo e o errado e buscam o raciocínio por trás da intervenção.
-- **Referência explícita a Alan.** Diogo o cita como autoridade na máxima sobre a primeira sessão e descreve a monitoria temática como parecida com o Aprimoramento Clínico. Diogo também evita de propósito os termos específicos de abordagem, enquanto Alan, na mon-02, recorre livremente a vocabulário teórico (por exemplo, o "lugar de mestre" lacaniano). {{ts:mon-21@0:05:17}} {{ts:mon-21@0:32:14}} {{ts:mon-21@0:58:20}}
+- **Referência explícita a Alan.** Diogo o cita como autoridade na máxima sobre a primeira sessão e descreve a monitoria temática como parecida com o Aprimoramento Clínico. Diogo também evita de propósito os termos específicos de abordagem, enquanto Alan, na mon-02, recorre livremente a vocabulário teórico (por exemplo, o "lugar de mestre" lacaniano). [▶ 0:05:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=317s) [▶ 0:32:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1934s) [▶ 0:58:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3500s)
 
 ## Conceitos-chave
 
@@ -265,40 +265,40 @@ O processo não é uma estrada, com reta, curva e destino. É um passeio por um 
 
 ## Frases para guardar
 
-> "Toda intervenção precisa ter uma função. A gente não pode fazer intervenções vazias, sem significado." {{ts:mon-21@0:08:47}}
+> "Toda intervenção precisa ter uma função. A gente não pode fazer intervenções vazias, sem significado." [▶ 0:08:47](https://www.youtube.com/watch?v=vzdTMHyqipM&t=527s)
 
-> "Assim que você decide por uma das opções, a outra se torna inacessível." {{ts:mon-21@0:07:46}}
+> "Assim que você decide por uma das opções, a outra se torna inacessível." [▶ 0:07:46](https://www.youtube.com/watch?v=vzdTMHyqipM&t=466s)
 
-> "Queixa são as palavras do paciente; demanda é o que eu chamo de objetivo." {{ts:mon-21@0:29:17}}
+> "Queixa são as palavras do paciente; demanda é o que eu chamo de objetivo." [▶ 0:29:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1757s)
 
-> "Qual é a função do primeiro encontro? Fazer o segundo acontecer." (Diogo citando Alan) {{ts:mon-21@0:32:14}}
+> "Qual é a função do primeiro encontro? Fazer o segundo acontecer." (Diogo citando Alan) [▶ 0:32:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1934s)
 
-> "O paciente que a gente atende precisa estar vivo para ser atendido." {{ts:mon-21@0:34:24}}
+> "O paciente que a gente atende precisa estar vivo para ser atendido." [▶ 0:34:24](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2064s)
 
-> "Não é uma estrada em que você pega uma reta, depois uma curva, e chega no destino. É mais como passear por um jardim." {{ts:mon-21@0:52:36}}
+> "Não é uma estrada em que você pega uma reta, depois uma curva, e chega no destino. É mais como passear por um jardim." [▶ 0:52:36](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3156s)
 
-> "Tomada de decisão é importante para vários processos e não é só papo de coach." {{ts:mon-21@0:57:20}}
+> "Tomada de decisão é importante para vários processos e não é só papo de coach." [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s)
 
-> "Minha leitura está correta?" {{ts:mon-21@1:10:06}}
+> "Minha leitura está correta?" [▶ 1:10:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4206s)
 
-> "O paciente nunca é o mesmo depois de uma sessão." {{ts:mon-21@1:10:06}}
+> "O paciente nunca é o mesmo depois de uma sessão." [▶ 1:10:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4206s)
 
-> "Mais importante do que chegar aonde eu queria é entender aonde chegou, e ir para onde foi junto com ele." (a monitorada) {{ts:mon-21@1:12:42}}
+> "Mais importante do que chegar aonde eu queria é entender aonde chegou, e ir para onde foi junto com ele." (a monitorada) [▶ 1:12:42](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4362s)
 
-> "A rigor, qualquer intervenção que você faz pode usar essa rota." {{ts:mon-21@1:13:39}}
+> "A rigor, qualquer intervenção que você faz pode usar essa rota." [▶ 1:13:39](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4419s)
 
-> "A gente tenta organizar, categorizar, pôr em passo a passo, mas a troca é mais caótica. Ela acontece, e depois a gente tenta entender." (uma participante) {{ts:mon-21@1:17:48}}
+> "A gente tenta organizar, categorizar, pôr em passo a passo, mas a troca é mais caótica. Ela acontece, e depois a gente tenta entender." (uma participante) [▶ 1:17:48](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4668s)
 
 ## Ideias de conteúdo
 
-- **Carrossel · clinica-na-pratica:** "7 perguntas para decidir o que fazer na sessão" → um slide por passo: variáveis, hierarquia, objetivo, requisitos, eficácia, tipo de informação, releitura do caso. Corte sugerido: {{ts:mon-21@1:11:25}}–{{ts:mon-21@1:15:43}}
-- **Reels · maximas-e-reflexoes:** "Não existe intervenção neutra" → toda pergunta tem uma função, e escolher uma é abrir mão da outra (trânsito versus sorvete e bala). Corte sugerido: {{ts:mon-21@0:06:37}}–{{ts:mon-21@0:09:38}}
-- **Post · maximas-e-reflexoes:** "Para que serve a primeira sessão?" → para a segunda acontecer. Corte sugerido: {{ts:mon-21@0:32:14}}–{{ts:mon-21@0:33:13}}
-- **Carrossel · formacao-do-psicologo:** "A clínica não é uma estrada, é um jardim" → por que modelos passo a passo precisam de flexibilidade. Corte sugerido: {{ts:mon-21@0:51:05}}–{{ts:mon-21@0:53:14}} e {{ts:mon-21@1:20:21}}–{{ts:mon-21@1:21:36}}
-- **Post · clinica-na-pratica:** "Queixa não é demanda" → a diferença entre o que o paciente diz e o que o caso pede. Corte sugerido: {{ts:mon-21@0:28:06}}–{{ts:mon-21@0:29:17}}
-- **Carrossel · clinica-na-pratica:** "Risco de suicídio: por que tudo para" → prioridade máxima, sigilo rompido só sobre isso, contato com responsável, retirada de meios (conferir com as orientações do CFP antes de publicar). Corte sugerido: {{ts:mon-21@0:33:13}}–{{ts:mon-21@0:35:18}}
-- **Reels · ciencia-e-mitos:** "Falar em eficácia na terapia é papo de coach?" → decidir e avaliar resultado é necessário em qualquer abordagem. Corte sugerido: {{ts:mon-21@0:57:20}}–{{ts:mon-21@0:58:20}}
-- **Stories · bastidores-dos-grupos:** "De onde vêm os modelos que usamos nos grupos?" → os sete passos nasceram das discussões coletivas da Allos. Corte sugerido: {{ts:mon-21@1:17:45}}–{{ts:mon-21@1:18:51}}
+- **Carrossel · clinica-na-pratica:** "7 perguntas para decidir o que fazer na sessão" → um slide por passo: variáveis, hierarquia, objetivo, requisitos, eficácia, tipo de informação, releitura do caso. Corte sugerido: [▶ 1:11:25](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4285s)–[▶ 1:15:43](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4543s)
+- **Reels · maximas-e-reflexoes:** "Não existe intervenção neutra" → toda pergunta tem uma função, e escolher uma é abrir mão da outra (trânsito versus sorvete e bala). Corte sugerido: [▶ 0:06:37](https://www.youtube.com/watch?v=vzdTMHyqipM&t=397s)–[▶ 0:09:38](https://www.youtube.com/watch?v=vzdTMHyqipM&t=578s)
+- **Post · maximas-e-reflexoes:** "Para que serve a primeira sessão?" → para a segunda acontecer. Corte sugerido: [▶ 0:32:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1934s)–[▶ 0:33:13](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1993s)
+- **Carrossel · formacao-do-psicologo:** "A clínica não é uma estrada, é um jardim" → por que modelos passo a passo precisam de flexibilidade. Corte sugerido: [▶ 0:51:05](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3065s)–[▶ 0:53:14](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3194s) e [▶ 1:20:21](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4821s)–[▶ 1:21:36](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4896s)
+- **Post · clinica-na-pratica:** "Queixa não é demanda" → a diferença entre o que o paciente diz e o que o caso pede. Corte sugerido: [▶ 0:28:06](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1686s)–[▶ 0:29:17](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1757s)
+- **Carrossel · clinica-na-pratica:** "Risco de suicídio: por que tudo para" → prioridade máxima, sigilo rompido só sobre isso, contato com responsável, retirada de meios (conferir com as orientações do CFP antes de publicar). Corte sugerido: [▶ 0:33:13](https://www.youtube.com/watch?v=vzdTMHyqipM&t=1993s)–[▶ 0:35:18](https://www.youtube.com/watch?v=vzdTMHyqipM&t=2118s)
+- **Reels · ciencia-e-mitos:** "Falar em eficácia na terapia é papo de coach?" → decidir e avaliar resultado é necessário em qualquer abordagem. Corte sugerido: [▶ 0:57:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3440s)–[▶ 0:58:20](https://www.youtube.com/watch?v=vzdTMHyqipM&t=3500s)
+- **Stories · bastidores-dos-grupos:** "De onde vêm os modelos que usamos nos grupos?" → os sete passos nasceram das discussões coletivas da Allos. Corte sugerido: [▶ 1:17:45](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4665s)–[▶ 1:18:51](https://www.youtube.com/watch?v=vzdTMHyqipM&t=4731s)
 
 ## Para replicar este encontro
 
