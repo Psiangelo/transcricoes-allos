@@ -139,7 +139,7 @@ Transcrições feitas a partir da legenda do YouTube (automática, em português
 - [Palácio Mental - Sua memória é MUITO MELHOR do que você pensa!](Playlist%20-%20Como%20Estudar/02%20-%20Pal%C3%A1cio%20Mental%20-%20Sua%20mem%C3%B3ria%20%C3%A9%20MUITO%20MELHOR%20do%20que%20voc%C3%AA%20pensa!.md)
 - [Teoria e Prática - Memória e Articulações Clínicas](Playlist%20-%20Como%20Estudar/03%20-%20Teoria%20e%20Pr%C3%A1tica%20-%20Mem%C3%B3ria%20e%20Articula%C3%A7%C3%B5es%20Cl%C3%ADnicas.md)
 - [Prontuário NÃO É construção de caso!](Playlist%20-%20Como%20Estudar/04%20-%20Prontu%C3%A1rio%20N%C3%83O%20%C3%89%20constru%C3%A7%C3%A3o%20de%20caso!.md)
-- [Forgetting Curve #psychology #clinicalpsychology #psychotherapy #memory #forgetting](Playlist%20-%20Como%20Estudar/05%20-%20Forgetting%20Curve%20#psychology%20#clinicalpsychology%20#psychotherapy%20#memory%20#forgetting.md)
+- [Forgetting Curve #psychology #clinicalpsychology #psychotherapy #memory #forgetting](Playlist%20-%20Como%20Estudar/05%20-%20Forgetting%20Curve.md)
 - [Why don't the books you read bring you financial success?](Playlist%20-%20Como%20Estudar/06%20-%20Why%20don't%20the%20books%20you%20read%20bring%20you%20financial%20success.md)
 
 ## Playlist - CumbucaCast (2)
@@ -149,10 +149,10 @@ Transcrições feitas a partir da legenda do YouTube (automática, em português
 
 ## Playlist - Psicologia Geral - Allos Formação (11)
 
-- [Psychotherapy: Why Clinical Protocols Are Limited? #psychology #clinical #science](Playlist%20-%20Psicologia%20Geral%20-%20Allos%20Forma%C3%A7%C3%A3o/01%20-%20Psychotherapy%20Why%20Clinical%20Protocols%20Are%20Limited%20#psychology%20#clinical%20#science.md)
+- [Psychotherapy: Why Clinical Protocols Are Limited? #psychology #clinical #science](Playlist%20-%20Psicologia%20Geral%20-%20Allos%20Forma%C3%A7%C3%A3o/01%20-%20Psychotherapy%20Why%20Clinical%20Protocols%20Are%20Limited.md)
 - [General Psychology - Lesson 8: Process-Based Psychology](Playlist%20-%20Psicologia%20Geral%20-%20Allos%20Forma%C3%A7%C3%A3o/02%20-%20General%20Psychology%20-%20Lesson%208%20Process-Based%20Psychology.md)
 - [General Psychology - Lecture 7: Measurement-Based Psychology](Playlist%20-%20Psicologia%20Geral%20-%20Allos%20Forma%C3%A7%C3%A3o/03%20-%20General%20Psychology%20-%20Lecture%207%20Measurement-Based%20Psychology.md)
-- [Psychotherapy: Common Mistakes and Deliberate Practice #psychology #clinic #health](Playlist%20-%20Psicologia%20Geral%20-%20Allos%20Forma%C3%A7%C3%A3o/04%20-%20Psychotherapy%20Common%20Mistakes%20and%20Deliberate%20Practice%20#psychology%20#clinic%20#health.md)
+- [Psychotherapy: Common Mistakes and Deliberate Practice #psychology #clinic #health](Playlist%20-%20Psicologia%20Geral%20-%20Allos%20Forma%C3%A7%C3%A3o/04%20-%20Psychotherapy%20Common%20Mistakes%20and%20Deliberate%20Practice.md)
 - [General Psychology - Class 6: Deliberate Practice](Playlist%20-%20Psicologia%20Geral%20-%20Allos%20Forma%C3%A7%C3%A3o/05%20-%20General%20Psychology%20-%20Class%206%20Deliberate%20Practice.md)
 - [General Psychology - Class 5: Evidence-Based Psychology](Playlist%20-%20Psicologia%20Geral%20-%20Allos%20Forma%C3%A7%C3%A3o/06%20-%20General%20Psychology%20-%20Class%205%20Evidence-Based%20Psychology.md)
 - [General Psychology - Lesson 4: The Role of the DSM in the Development of Psychology.](Playlist%20-%20Psicologia%20Geral%20-%20Allos%20Forma%C3%A7%C3%A3o/07%20-%20General%20Psychology%20-%20Lesson%204%20The%20Role%20of%20the%20DSM%20in%20the%20Development%20of%20Psychology.md)
