@@ -4,7 +4,7 @@ serie: "Aprimoramento Clínico (Acervo)"
 fonte_id: acervo-10
 numero: 10
 titulo_original: "Encontro 19 e Encontro 20"
-facilitadores: ["Gabriel (?)"]
+facilitadores: ["Gabriel"]
 formato: "Aprimoramento clínico"
 video: "https://www.youtube.com/watch?v=uM6cQavLzeg"
 duracao: "0:45:19"
@@ -24,11 +24,11 @@ aliases: ["Encontro 19 e Encontro 20", "Acervo 10", "Quebra de vínculo terapêu
 > Uma boa intervenção não se resume a ler o caso e priorizar: também é manejar as ferramentas (fala, voz, corpo) e **manejar as consequências** do que se disse. Como a relação terapêutica é **antifrágil**, uma ruptura bem reparada a deixa mais forte. O grupo treina isso num roleplay de quebra de vínculo em que "não vale alterar a realidade".
 
 > [!info] Ficha
-> **Facilitador:** Gabriel (?) · **Duração:** 0:45:19 · **Formato:** Aprimoramento clínico (online; grupo pequeno, de cerca de 5 para 3 participantes ao longo do encontro) · **Competências:** [[Intervenção]], [[Relação terapêutica]], [[Acolhimento e validação]], [[Construção frasal]]
+> **Facilitador:** Gabriel (identificado pelas falas; ver aviso abaixo) · **Duração:** 0:45:19 · **Formato:** Aprimoramento clínico (online; grupo pequeno, de cerca de 5 para 3 participantes ao longo do encontro) · **Competências:** [[Intervenção]], [[Relação terapêutica]], [[Acolhimento e validação]], [[Construção frasal]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=uM6cQavLzeg) · **Transcrição:** [[10 - Encontro 19 e Encontro 20]]
 
 > [!warning] Identificação do facilitador
-> O facilitador não se apresenta na gravação. Uma participante o chama de "Gabriel" ({{ts:acervo-10@0:01:35}}), por isso o "(?)". Nos primeiros 12 minutos participa também uma segunda pessoa, que parece ser colega da equipe: ela sai para atender e incentiva a turma a participar. Não foi identificada. A gravação começa com o encontro já em andamento.
+> O facilitador não se apresenta na gravação. Uma participante o chama de "Gabriel" ({{ts:acervo-10@0:01:35}}), e o encontro dá continuidade a um encontro sobre priorização ("como vocês viram na semana passada"), tema que Gabriel conduziu em [[Acervo 01 - Critérios de priorização na escuta]], com o mesmo estilo de levantar critérios em abstrato. Rodolfo, facilitador de outros encontros do Acervo, é mencionado como tendo saído. Uma segunda pessoa, aparentemente colega da equipe, participa dos primeiros 12 minutos e sai para atender; ela não foi identificada. A gravação começa com o encontro já em andamento.
 
 ## Resumo
 
@@ -296,7 +296,7 @@ Reconstruído do retorno do facilitador ao roleplay:
 
 ## Relacionados
 - Encontros do Alan: [[Alan 01 - Relação terapêutica tensionada]] (origem da dinâmica e da teoria) · [[Alan 15 - Priorização clínica 2]] (lista de critérios) · [[Alan 17 - Qualidade da intervenção]] · [[Alan 03 - Distância, intensidade, forma e conteúdo]] · [[Alan 02 - Construção frasal]]
-- Acervo: [[Acervo 09 - Como receber feedback negativo do paciente]] (Diogo; o paciente critica o terapeuta)
+- Acervo: [[Acervo 01 - Critérios de priorização na escuta]] (Gabriel; provável encontro anterior do mesmo ciclo) · [[Acervo 09 - Como receber feedback negativo do paciente]] (Diogo; o paciente critica o terapeuta)
 - Competências: [[Intervenção]] · [[Relação terapêutica]] · [[Acolhimento e validação]] · [[Construção frasal]] · [[Interpretação]] · [[Priorização clínica]]
 - Conceitos: [[Antifragilidade]] · [[Ruptura e reparo da aliança]] · [[Responsabilização do terapeuta]] · [[Manejo das consequências da intervenção]] · [[Qualidade da intervenção]] · [[Máximas clínicas]]
 - Dinâmicas: [[Dinâmica - Roleplay de ruptura terapêutica]] · [[Dinâmica - Critérios de uma boa intervenção]] · [[Dinâmica - Lista de critérios de priorização]]

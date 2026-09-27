@@ -211,7 +211,7 @@ Rodolfo diz não conhecer maneiras de confrontar sem ser agressivo e sugere que 
 - **Para na hora e registra literalmente:** "OK, parou"; anota a frase e, quando ela escapa, reconstrói com o autor e o grupo ("eu vacilei, era para eu ter anotado"). {{ts:acervo-02@0:10:00}} {{ts:acervo-02@0:28:11}}
 - **Primeiro o grupo, depois o autor:** "Primeiro eu vou perguntar pro pessoal, depois pergunto para você qual era a tua intenção". {{ts:acervo-02@0:10:36}}
 - **Guarda o núcleo sem desqualificar:** repete "me parece que é outra intervenção" e reconhece que "tudo isso são possibilidades de intervenção", explicando o que cada proposta faz de diferente. {{ts:acervo-02@0:17:24}} {{ts:acervo-02@0:17:38}}
-- **Nomeia a alavanca pelo exemplo do grupo:** "Olha só o que a Tainá fez: saiu de uma pergunta para uma afirmação". {{ts:acervo-02@0:30:08}}
+- **Nomeia a alavanca pelo exemplo do grupo:** "Olha só o que ela fez: saiu de uma pergunta para uma afirmação". {{ts:acervo-02@0:30:08}}
 - **Muda de direção quando o grupo trava:** passa de intensificar para suavizar ("acho mais fácil começar por baixo") e oferece seu próprio modelo quando a autora se frustra. {{ts:acervo-02@0:16:26}} {{ts:acervo-02@0:19:00}}
 - **Troca o material quando ele não serve:** percebe que a âncora exploratória não se presta ao exercício e parte para outra vinheta. {{ts:acervo-02@0:23:31}}
 - **Convida quem está calado, pelo nome e sem obrigar:** "Tô sentindo falta de vocês, gente... fiquem à vontade para participar, caso vocês queiram". Usa o humor quando ninguém se voluntaria ("o silêncio das pessoas tá dizendo tudo"). {{ts:acervo-02@0:33:54}} {{ts:acervo-02@0:24:07}}
