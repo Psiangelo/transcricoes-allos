@@ -4,7 +4,7 @@ serie: "Introdução à Prática Deliberada"
 fonte_id: pd-07
 numero: 7
 titulo_original: "7º Introdução a PD"
-facilitadores: ["Facilitador não identificado"]
+facilitadores: ["Bernardo"]
 formato: "Curso de PD"
 video: "https://www.youtube.com/watch?v=CgJ7V3S3CT0"
 duracao: "0:53:00"
@@ -12,7 +12,7 @@ transcricao: "[[07 - 7º Introdução a PD]]"
 competencias: ["[[Feedback clínico]]", "[[Desenvolvimento profissional]]", "[[Relação terapêutica]]", "[[Construção frasal]]", "[[Pessoa do terapeuta]]"]
 abordagens: []
 dinamicas: ["[[Dinâmica - Leitura comentada de caso de supervisão]]"]
-conceitos: ["[[Prática deliberada]]", "[[Supervisão clínica]]", "[[Dados, informação e insight]]", "[[Responsabilização do terapeuta]]", "[[Session Rating Scale]]", "[[Outcome Rating Scale]]", "[[Taxa de desistência]]", "[[Taxa de deterioração]]", "[[Paciente bonzinho]]", "[[Efeito Hawthorne]]", "[[Administração colaborativa de escalas]]", "[[Feedback negativo do paciente]]", "[[Gravação de sessão]]", "[[Consentimento para gravação de sessão]]", "[[Objetivo de aprendizagem]]", "[[Mapa de competências]]", "[[Metáfora da tocha na caverna]]", "[[Aliança terapêutica]]"]
+conceitos: ["[[Prática deliberada]]", "[[Supervisão clínica]]", "[[Dados, informação e insight]]", "[[Responsabilização do terapeuta]]", "[[Session Rating Scale]]", "[[Outcome Rating Scale]]", "[[Taxa de desistência]]", "[[Taxa de deterioração]]", "[[Paciente bonzinho]]", "[[Efeito Hawthorne]]", "[[Administração colaborativa de escalas]]", "[[Feedback negativo do paciente]]", "[[Gravação de sessão]]", "[[Consentimento para gravação de sessão]]", "[[Objetivo de aprendizagem]]", "[[Mapa de competências]]", "[[Metáfora da tocha na caverna]]", "[[Aliança terapêutica]]", "[[Dados amigáveis]]", "[[Terceirização da responsabilidade]]", "[[Primazia do fenômeno clínico]]"]
 autores: ["[[Scott D. Miller]]"]
 tags: [allos/pratica-deliberada, competencia/feedback-clinico, competencia/desenvolvimento-profissional, competencia/relacao-terapeutica, competencia/construcao-frasal, competencia/pessoa-do-terapeuta]
 aliases: ["7º Introdução a PD", "PD 07", "Caso Eta (parte 1)"]
@@ -24,7 +24,7 @@ aliases: ["7º Introdução a PD", "PD 07", "Caso Eta (parte 1)"]
 > Pela leitura comentada de um caso fictício do livro *Better Results*, o encontro mostra a supervisão em prática deliberada funcionando. Uma terapeuta com abandono e deterioração acima da média descobre, cruzando métricas e gravações, que a própria gentileza ao apresentar a escala de aliança inflava as notas. Ela corrige isso com um roteiro direto e ajustes de uma palavra, e os números melhoram. A lição: dados viram informação, informação vira objetivo de aprendizagem, e o problema pode estar no terapeuta, não na "resistência" do paciente.
 
 > [!info] Ficha
-> **Facilitador:** não identificado na gravação (o mesmo membro da equipe da Allos que conduz o curso) · **Duração:** 0:53:00 · **Formato:** Curso de PD (online; "encontro de leitura" de caso com slides; cerca de 5 a 6 participantes) · **Competências:** [[Feedback clínico]], [[Desenvolvimento profissional]], [[Relação terapêutica]], [[Construção frasal]], [[Pessoa do terapeuta]]
+> **Facilitador:** Bernardo (Núcleo de Prática Deliberada da Allos; diz o próprio nome ao recém-chegado em {{ts:pd-07@0:48:36}} e explica que aparece como "Allos" na chamada porque usa a conta da instituição) · **Duração:** 0:53:00 · **Formato:** Curso de PD (online; "encontro de leitura" de caso com slides; cerca de 5 a 6 participantes) · **Competências:** [[Feedback clínico]], [[Desenvolvimento profissional]], [[Relação terapêutica]], [[Construção frasal]], [[Pessoa do terapeuta]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=CgJ7V3S3CT0) · **Transcrição:** [[07 - 7º Introdução a PD]]
 
 ## Resumo
@@ -280,6 +280,9 @@ Um participante recém-chegado, estudante que atende em clínica-escola, conta q
 - [[Prática deliberada]] — aqui vista em ação: dados e gravação cruzados na supervisão, um objetivo de aprendizagem, ajustes mínimos e revisão periódica.
 - [[Dados, informação e insight]] — os números só servem quando lapidados em informação sobre a performance e daí em direção para agir.
 - [[Responsabilização do terapeuta]] — trocar a explicação "o paciente resiste" pela pergunta "o que eu tenho a ver com isso?", guiada pelos dados.
+- [[Terceirização da responsabilidade]] — pôr o insucesso "nas costas do paciente" (não implicação, resistência, gravidade do quadro), como fez a supervisão tradicional de Eta.
+- [[Primazia do fenômeno clínico]] — "erro capital teorizar antes de ter dados": primeiro os fatos, depois a teoria.
+- [[Dados amigáveis]] — todo dado honesto, mesmo desprazeroso, é útil porque mostra o que mudar; as notas mais baixas de Eta foram boa notícia.
 - [[Session Rating Scale]] — escala de aliança aplicada na sessão; a média inicial "boa demais" (40) foi a pista do caso; o corte clínico citado é 36.
 - [[Outcome Rating Scale]] — escala de bem-estar geral; no caso, o escore inicial dos clientes era compatível com amostras ambulatoriais.
 - [[Taxa de desistência]] — abandono sem aviso antes de melhora mensurável (Eta: 28% contra 20%).
@@ -350,6 +353,7 @@ Roteiro para ~50 minutos, grupo online, com slides do caso em forma de diálogo.
 - Para quem atende em clínica-escola sem poder gravar, que substitutos dão acesso à performance real (roleplay gravado, observação ao vivo, transcrição logo após a sessão)?
 
 ## Relacionados
+- [[PD 05 - Problemas da mensuração, aliança e auto-observação]] (a aula "de duas semanas antes" sobre aplicar escalas, paciente bonzinho e efeito Hawthorne)
 - [[PD 06 - Métricas de resultado e a tocha na caverna]] (as métricas usadas no caso)
 - [[PD 08 - Monitoramento rotineiro e como pedir feedback]] (Eta, parte 2)
 - [[Prática deliberada]] · [[Supervisão clínica]] · [[Session Rating Scale]] · [[Paciente bonzinho]] · [[Gravação de sessão]]

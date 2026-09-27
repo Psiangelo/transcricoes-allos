@@ -4,15 +4,15 @@ serie: "Introdução à Prática Deliberada"
 fonte_id: pd-08
 numero: 8
 titulo_original: "8º Introdução a PD"
-facilitadores: ["Facilitador não identificado"]
+facilitadores: ["Bernardo"]
 formato: "Curso de PD"
 video: "https://www.youtube.com/watch?v=14Zp9T2ptSA"
 duracao: "0:43:57"
 transcricao: "[[08 - 8º Introdução a PD]]"
 competencias: ["[[Feedback clínico]]", "[[Construção frasal]]", "[[Desenvolvimento profissional]]", "[[Relação terapêutica]]", "[[Direção do tratamento]]", "[[Abertura e encerramento de sessão]]", "[[Pessoa do terapeuta]]"]
 abordagens: []
-dinamicas: ["[[Dinâmica - Leitura comentada de caso de supervisão]]"]
-conceitos: ["[[Prática deliberada]]", "[[Consistência do terapeuta]]", "[[Efeito do terapeuta]]", "[[Fatores extraterapêuticos]]", "[[Monitoramento rotineiro de resultados]]", "[[Zona de risco de deterioração]]", "[[Platô de desempenho]]", "[[Princípios da pergunta de feedback]]", "[[Efeito Hawthorne]]", "[[Paciente bonzinho]]", "[[Session Rating Scale]]", "[[Outcome Rating Scale]]", "[[Gravação de sessão]]", "[[Mapa de competências]]", "[[Objetivo de aprendizagem]]", "[[Supervisão clínica]]", "[[Metáfora da tocha na caverna]]", "[[Psicologia baseada em medidas]]"]
+dinamicas: ["[[Dinâmica - Pergunta disparadora]]", "[[Dinâmica - Leitura comentada de caso de supervisão]]"]
+conceitos: ["[[Prática deliberada]]", "[[Consistência do terapeuta]]", "[[Efeito do terapeuta]]", "[[Fatores extraterapêuticos]]", "[[Monitoramento rotineiro de resultados]]", "[[Zona de risco de deterioração]]", "[[Platô de desempenho]]", "[[Princípios da pergunta de feedback]]", "[[Efeito Hawthorne]]", "[[Paciente bonzinho]]", "[[Session Rating Scale]]", "[[Outcome Rating Scale]]", "[[Gravação de sessão]]", "[[Mapa de competências]]", "[[Objetivo de aprendizagem]]", "[[Supervisão clínica]]", "[[Metáfora da tocha na caverna]]", "[[Psicologia baseada em medidas]]", "[[Auto-observação]]"]
 autores: ["[[Scott D. Miller]]", "[[David Saxon]]", "[[Michael Barkham]]"]
 tags: [allos/pratica-deliberada, competencia/feedback-clinico, competencia/construcao-frasal, competencia/desenvolvimento-profissional, competencia/relacao-terapeutica, competencia/direcao-do-tratamento, competencia/abertura-encerramento, competencia/pessoa-do-terapeuta]
 aliases: ["8º Introdução a PD", "PD 08", "Caso Eta (parte 2)"]
@@ -24,7 +24,7 @@ aliases: ["8º Introdução a PD", "PD 08", "Caso Eta (parte 2)"]
 > Nenhum terapeuta consegue ser consistente como um McDonald's: a eficácia varia entre terapeutas, entre pacientes e ao longo do dia, e boa parte do desfecho depende de fatores de fora da terapia. O monitoramento rotineiro de resultados funciona como um alarme contra esse imprevisível, mas não diz o que fazer. Para isso é preciso supervisão com gravação. A segunda parte do caso Eta mostra a supervisão lapidando uma única pergunta de feedback até torná-la descritiva, específica e impessoal.
 
 > [!info] Ficha
-> **Facilitador:** não identificado na gravação (o mesmo membro da equipe da Allos que conduz o curso) · **Duração:** 0:43:57 · **Formato:** Curso de PD (online, exposição com slides e leitura comentada de caso; cerca de 5 a 7 participantes) · **Competências:** [[Feedback clínico]], [[Construção frasal]], [[Desenvolvimento profissional]], [[Relação terapêutica]], [[Direção do tratamento]]
+> **Facilitador:** Bernardo (Núcleo de Prática Deliberada da Allos; ver [[PD 07 - Caso Eta e o modo de aplicar escalas]]) · **Duração:** 0:43:57 · **Formato:** Curso de PD (online, exposição com slides e leitura comentada de caso; cerca de 5 a 7 participantes) · **Competências:** [[Feedback clínico]], [[Construção frasal]], [[Desenvolvimento profissional]], [[Relação terapêutica]], [[Direção do tratamento]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=14Zp9T2ptSA) · **Transcrição:** [[08 - 8º Introdução a PD]]
 
 ## Resumo
@@ -152,6 +152,22 @@ O resultado de Eta com essas perguntas "a gente vai ver posteriormente", mas iss
 
 ## Dinâmica(s)
 
+### [[Dinâmica - Pergunta disparadora]]
+- **Objetivo:** ativar a experiência do grupo e levá-lo a formular uma posição antes de ver os dados. Aqui, perceber sozinho que o terapeuta não é consistente, o que prepara a entrada do monitoramento rotineiro.
+- **Competência treinada:** [[Desenvolvimento profissional]], [[Pessoa do terapeuta]]
+- **Configuração:** grupo todo, online, respostas voluntárias por microfone.
+- **Tempo aproximado:** cerca de 4 a 5 minutos.
+- **Consigna (o que o facilitador pede):** "É possível ser consistente como terapeuta? Que que vocês acham? Elaborem aí para mim." {{ts:pd-08@0:09:39}}
+- **Passo a passo:**
+  1. Lançar a pergunta e sustentar o silêncio inicial.
+  2. Pedir que quem respondeu curto ("acho que não") elabore, chamando pelo nome.
+  3. Ao perceber que o grupo entende o termo de outro jeito, defini-lo com um exemplo concreto (o McDonald's) {{ts:pd-08@0:11:43}}.
+  4. Deixar as participantes reformularem a resposta com a nova definição.
+  5. Fechar integrando as respostas e passando à evidência (Saxon e Barkham) {{ts:pd-08@0:14:00}}.
+- **Como o facilitador dá feedback / critérios de qualidade:** valida ("boa resposta, tem fatores aí que realmente fazem sentido") e incorpora o argumento da participante (a imprevisibilidade de cada paciente) à própria síntese.
+- **O que aconteceu na prática:** uma participante respondeu que não, porque "o ser humano não é uma máquina" e "a nossa ferramenta de trabalho somos nós mesmas". Outra, depois da definição, achou que dá para ser consistente em algumas coisas, mas não no processo como um todo {{ts:pd-08@0:10:31}}.
+- **Variações e armadilhas:** um termo ambíguo ("consistente") pode levar o grupo a responder outra pergunta. Vale ter à mão o exemplo que define o termo. Completar com "quem aí já sentiu isso?" puxa a experiência pessoal (a sessão ruim no fim do dia) {{ts:pd-08@0:14:15}}.
+
 ### [[Dinâmica - Leitura comentada de caso de supervisão]]
 - **Objetivo:** mostrar, por dentro de uma supervisão, como uma única microintervenção (a pergunta de feedback) é analisada por princípios e reescrita até funcionar.
 - **Competência treinada:** [[Feedback clínico]], [[Construção frasal]]
@@ -275,6 +291,7 @@ O resultado de Eta com essas perguntas "a gente vai ver posteriormente", mas iss
 - [[Supervisão clínica]] — lugar onde medida e gravação viram informação e objetivos de aprendizagem.
 - [[Objetivo de aprendizagem]] — aqui, a forma de pedir feedback; poderia ser a reação à tristeza da paciente, a abertura, o contrato.
 - [[Metáfora da tocha na caverna]] — a medida mostra o penhasco, mas não diz o que fazer diante dele.
+- [[Auto-observação]] — ver-se atendendo; sem gravação, exige um salto metacognitivo "quase totalmente abstrato", e a gravação nos torna ouvintes de nós mesmos.
 
 ## Frases para guardar
 > "É difícil demais separar o joio do trigo só com o nosso julgamento." {{ts:pd-08@0:03:06}}
@@ -334,8 +351,10 @@ Roteiro para ~45 minutos, grupo online, com slides.
 ## Relacionados
 - [[PD 07 - Caso Eta e o modo de aplicar escalas]] (parte 1 do caso)
 - [[PD 06 - Métricas de resultado e a tocha na caverna]] (as métricas e a metáfora)
+- [[PD 05 - Problemas da mensuração, aliança e auto-observação]] (efeito Hawthorne, a criança e o pote de doces, auto-observação)
+- [[PD 09 - Como a Allos chegou à prática deliberada]] (encontro extra com o Alan)
 - [[Prática deliberada]] · [[Monitoramento rotineiro de resultados]] · [[Princípios da pergunta de feedback]] · [[Platô de desempenho]] · [[Efeito do terapeuta]]
 - [[Feedback clínico]] · [[Construção frasal]] · [[Relação terapêutica]] · [[Direção do tratamento]] · [[Abertura e encerramento de sessão]] · [[Pessoa do terapeuta]] · [[Desenvolvimento profissional]]
 - [[Acervo 09 - Como receber feedback negativo do paciente]]
-- [[Dinâmica - Leitura comentada de caso de supervisão]]
+- [[Dinâmica - Pergunta disparadora]] · [[Dinâmica - Leitura comentada de caso de supervisão]]
 - [[Scott D. Miller]] · [[David Saxon]] · [[Michael Barkham]]

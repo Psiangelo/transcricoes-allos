@@ -4,7 +4,7 @@ serie: "Introdução à Prática Deliberada"
 fonte_id: pd-06
 numero: 6
 titulo_original: "6º Introdução a PD"
-facilitadores: ["Facilitador não identificado"]
+facilitadores: ["Bernardo"]
 formato: "Curso de PD"
 video: "https://www.youtube.com/watch?v=MHDlojceuEk"
 duracao: "0:56:23"
@@ -12,7 +12,7 @@ transcricao: "[[06 - 6º Introdução a PD]]"
 competencias: ["[[Desenvolvimento profissional]]", "[[Feedback clínico]]", "[[Relação terapêutica]]", "[[Direção do tratamento]]"]
 abordagens: []
 dinamicas: []
-conceitos: ["[[Prática deliberada]]", "[[Psicologia baseada em medidas]]", "[[Metáfora da tocha na caverna]]", "[[Metrificação de resultados]]", "[[Tamanho de efeito]]", "[[Tamanho de efeito relativo]]", "[[Mudança clinicamente significativa]]", "[[Índice de mudança confiável]]", "[[Nota de corte clínica]]", "[[Taxa de deterioração]]", "[[Taxa de desistência]]", "[[Outcome Rating Scale]]", "[[Session Rating Scale]]", "[[Aliança terapêutica]]", "[[Mapa de competências]]", "[[Objetivo de aprendizagem]]", "[[Gravação de sessão]]", "[[Supervisão clínica]]", "[[Efeito do terapeuta]]"]
+conceitos: ["[[Prática deliberada]]", "[[Psicologia baseada em medidas]]", "[[Metáfora da tocha na caverna]]", "[[Metrificação de resultados]]", "[[Tamanho de efeito]]", "[[Tamanho de efeito relativo]]", "[[Mudança clinicamente significativa]]", "[[Índice de mudança confiável]]", "[[Nota de corte clínica]]", "[[Taxa de deterioração]]", "[[Taxa de desistência]]", "[[Outcome Rating Scale]]", "[[Session Rating Scale]]", "[[Aliança terapêutica]]", "[[Mapa de competências]]", "[[Objetivo de aprendizagem]]", "[[Gravação de sessão]]", "[[Supervisão clínica]]", "[[Efeito do terapeuta]]", "[[Linha de base]]"]
 autores: ["[[Scott D. Miller]]", "[[Zac Imel]]"]
 tags: [allos/pratica-deliberada, competencia/desenvolvimento-profissional, competencia/feedback-clinico, competencia/relacao-terapeutica, competencia/direcao-do-tratamento]
 aliases: ["6º Introdução a PD", "PD 06", "Metrificação em prática deliberada"]
@@ -24,7 +24,7 @@ aliases: ["6º Introdução a PD", "PD 06", "Metrificação em prática delibera
 > A prática deliberada é um ciclo (dados, supervisão, objetivo de aprendizagem, exercício, aplicação), e a mensuração é só a "tocha" desse ciclo: ilumina, mas não ensina a caminhar. O encontro mostra como transformar os escores das escalas em métricas (tamanho de efeito, efeito relativo, mudança clinicamente significativa, deterioração, desistência) e defende a posição da Allos de que os fundamentos clínicos podem ser treinados antes dos números e sem depender deles.
 
 > [!info] Ficha
-> **Facilitador:** não identificado na gravação (membro da equipe da Allos que conduz o curso; não é o Alan, a quem ele se refere em terceira pessoa) · **Duração:** 0:56:23 · **Formato:** Curso de PD (aula expositiva online com slides, grupo pequeno, com 4 a 6 participantes) · **Competências:** [[Desenvolvimento profissional]], [[Feedback clínico]], [[Relação terapêutica]], [[Direção do tratamento]]
+> **Facilitador:** Bernardo (Núcleo de Prática Deliberada da Allos; ele não diz o nome nesta gravação, que é confirmado no [[PD 07 - Caso Eta e o modo de aplicar escalas]]; não é o Alan, a quem se refere em terceira pessoa) · **Duração:** 0:56:23 · **Formato:** Curso de PD (aula expositiva online com slides, grupo pequeno, com 4 a 6 participantes) · **Competências:** [[Desenvolvimento profissional]], [[Feedback clínico]], [[Relação terapêutica]], [[Direção do tratamento]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=MHDlojceuEk) · **Transcrição:** [[06 - 6º Introdução a PD]]
 
 ## Resumo
@@ -267,6 +267,7 @@ Ressalvas finais {{ts:pd-06@0:54:14}}: as técnicas de medição fazem parte da 
 - [[Objetivo de aprendizagem]] — habilidade específica escolhida com o supervisor a partir dos dados (ex.: abrir a sessão, lidar com ruptura, encerrar).
 - [[Gravação de sessão]] — recurso opcional, com consentimento, para observar a própria atuação à distância.
 - [[Supervisão clínica]] — na PD, o lugar onde dados, gravações e mapa se juntam e viram informação e objetivos.
+- [[Linha de base]] — como o paciente está antes do tratamento; ponto de partida para ler o progresso ao longo e ao fim dele.
 
 ## Frases para guardar
 > "Prática deliberada não é só repetir, repetir, repetir: é repetir com objetivo." {{ts:pd-06@0:01:00}}
@@ -325,7 +326,9 @@ Roteiro para ~55 minutos, grupo pequeno online, com slides.
 ## Relacionados
 - [[Prática deliberada]] · [[Psicologia baseada em medidas]] · [[Metáfora da tocha na caverna]] · [[Mapa de competências]] · [[Supervisão clínica]]
 - [[Desenvolvimento profissional]] · [[Feedback clínico]] · [[Relação terapêutica]] · [[Direção do tratamento]]
+- [[PD 05 - Problemas da mensuração, aliança e auto-observação]] (encontro anterior: ORS, SRS e problemas de aplicação)
 - [[PD 07 - Caso Eta e o modo de aplicar escalas]] (continuação: a supervisão em PD na prática)
 - [[PD 08 - Monitoramento rotineiro e como pedir feedback]]
 - [[Acervo 09 - Como receber feedback negativo do paciente]] (o feedback do paciente como métrica de resultado num grupo de aprimoramento)
+- [[PD 09 - Como a Allos chegou à prática deliberada]] (o Alan conta a própria conversa com Scott Miller e as divergências da Allos)
 - [[Scott D. Miller]] · [[Zac Imel]]
