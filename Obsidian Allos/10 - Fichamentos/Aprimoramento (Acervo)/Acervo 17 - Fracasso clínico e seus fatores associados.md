@@ -315,4 +315,6 @@ O Aprimoramento do Alan segue, em geral, **teoria mínima → exercício → fee
 - Competências: [[Relação terapêutica]] · [[Pessoa do terapeuta]] · [[Intervenção]] · [[Desenvolvimento profissional]] · [[Direção do tratamento]] · [[Acolhimento e validação]]
 - Conceitos: [[Timing da intervenção]] · [[Confronto terapêutico]] · [[Estágios de mudança]] · [[Ruptura e reparo da aliança]] · [[Caso Glória]] · [[Caso Dora]]
 - Encontros do Alan: [[Alan 01 - Relação terapêutica tensionada]] (ruptura e responsabilização do terapeuta) · [[Alan 17 - Qualidade da intervenção]] (timing de intervenções agressivas, Caso Glória) · [[Alan 12 - Formulação de caso 1]] (intervisão)
-- Outros fichamentos do Acervo: [[Acervo 18 - Hipótese clínica e intervenção]]
+- Outros encontros de Diogo: [[Acervo 15 - Habilidades terapêuticas e os usos da empatia]] (mesma linha de livro de habilidades terapêuticas de autores comportamentais) · [[Acervo 09 - Como receber feedback negativo do paciente]] · [[Monitoria 15 - Diogo - Responsabilização e vínculo na primeira sessão]]
+- Monitorias de João sobre temas vizinhos: [[Monitoria 06 - João de Bragança - Critérios de uma terapia ruim]] (Caso Glória) · [[Monitoria 07 - João de Bragança - Limites do terapeuta e confronto]]
+- Outros fichamentos do Acervo: [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] · [[Acervo 18 - Hipótese clínica e intervenção]]

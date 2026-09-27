@@ -335,4 +335,6 @@ A sequência **conceito (curto) → exercício → feedback → rodada de aprend
 - Conceitos: [[Hipótese clínica]] · [[Intervenção como teste de hipótese]] · [[Círculo hermenêutico]] · [[Criatividade clínica]] · [[Intensidade da intervenção]]
 - Encontros do Alan: [[Alan 16 - Intervenção]] (mesmo núcleo: da hipótese à intervenção; "batata quente") · [[Alan 17 - Qualidade da intervenção]] · [[Alan 03 - Distância, intensidade, forma e conteúdo]] · [[Alan 02 - Construção frasal]] · [[Alan 13 - Formulação de caso 2]]
 - Dinâmicas afins: [[Dinâmica - Batata quente de hipóteses]] · [[Dinâmica - Variação de intervenção]]
+- Outro encontro de Gabriel: [[Acervo 10 - Qualidade da intervenção e ruptura do vínculo]]
+- Temas vizinhos: [[Acervo 02 - Intensidade e agressividade da intervenção]] (potência da intervenção, a que uma participante alude) · [[Monitoria 17 - Diogo - Perguntas abertas, hipótese e movimento clínico]] · [[Monitoria 10 - João de Bragança - Dor somática, resistência e hipóteses revisáveis]]
 - Outros fichamentos do Acervo: [[Acervo 17 - Fracasso clínico e seus fatores associados]]

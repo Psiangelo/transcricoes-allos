@@ -311,4 +311,4 @@ O formato mantém o espírito do aprimoramento (competência transteórica, part
 - Competências: [[Intervenção]] · [[Psicoeducação]] · [[Aprofundamento]] · [[Escuta clínica]] · [[Interpretação]] · [[Pessoa do terapeuta]]
 - Conceitos: [[Metáfora]] · [[Resistência]] · [[Fantasias do terapeuta]] · [[Contratransferência]] · [[Amplificação]] · [[Psicologia transteórica]]
 - Encontros do Alan: [[Alan 07 - Psicoeducação]] (metáfora como "transporte" e a lembrança de que, na Grécia, os caminhões de mudança levam escrito *metaphorá*, coincidência curiosa com a frase-estímulo deste encontro) · [[Alan 16 - Intervenção]] ([[Dinâmica - Hipóteses a partir de uma frase]], um exercício vizinho) · [[Alan 06 - Esquemas de aprofundamento]] · [[Alan 02 - Construção frasal]]
-- Acervo: [[Acervo 11 - Vício em trabalho, precarização e saúde mental]] (encontro anterior; Diogo e Vinícius aparecem como participantes)
+- Acervo: [[Acervo 11 - Vício em trabalho, precarização e saúde mental]] (vídeo anterior do acervo, uma mesa de estudos em que Diogo e Vinícius aparecem como participantes)
