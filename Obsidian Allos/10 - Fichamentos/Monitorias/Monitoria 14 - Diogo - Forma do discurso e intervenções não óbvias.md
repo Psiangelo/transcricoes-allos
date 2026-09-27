@@ -67,7 +67,7 @@ O encontro termina antes da hora porque a monitorada tem outro compromisso, num 
 | {{ts:mon-14@0:00:03}} | Abertura | Boas-vindas a um novo ouvinte; explicação do sistema de monitoria e do paciente de IA; anúncio do experimento de tema aberto | Situar ouvintes e quem assiste à gravação; enquadrar a monitoria como acompanhamento individual |
 | {{ts:mon-14@0:01:36}} | Retomada | A monitorada relembra as últimas intervenções; Diogo resume a monitoria anterior (empatia e relação terapêutica) e o perfil do paciente | Reativar o fio do caso, que atravessa várias semanas |
 | {{ts:mon-14@0:03:58}} | Combinados | A monitorada explica o critério da intervenção (priorizou a última fala, o que não fazia antes); combinam que ela lê e ele pausa | Explicitar critérios de priorização; distribuir papéis |
-| {{ts:mon-14@0:04:xx}} | Dinâmica | Leitura da resposta do paciente (metáfora do livro enfadonho) e pergunta aberta: "o que você apreende?" | Treinar escuta antes de qualquer correção |
+| {{ts:mon-14@0:05:14}} | Dinâmica | Leitura da resposta do paciente (metáfora do livro enfadonho) e pergunta aberta: "o que você apreende?" | Treinar escuta antes de qualquer correção |
 | {{ts:mon-14@0:07:09}} | Discussão | Metáfora na clínica: potência ou esquiva; função do discurso; retificação subjetiva; argumento das 168 horas | Julgar recursos do paciente pela função; ligar leitura e objetivo terapêutico |
 | {{ts:mon-14@0:12:24}} | Teoria | Forma e conteúdo: a forma abstrata e distante como conteúdo (passividade, não implicação) | Dar à monitorada uma ferramenta de análise do discurso |
 | {{ts:mon-14@0:14:52}} | Dinâmica | Leitura da resposta sobre "coautoria" e do "papel de parede"; a monitorada justifica a escolha da exceção | Explicitar o raciocínio de priorização |

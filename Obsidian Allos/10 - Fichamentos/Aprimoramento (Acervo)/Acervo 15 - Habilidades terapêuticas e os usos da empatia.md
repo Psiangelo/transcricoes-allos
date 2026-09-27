@@ -5,7 +5,7 @@ fonte_id: acervo-15
 numero: 15
 titulo_original: "Encontro 29 e Encontro 30"
 facilitadores: ["Diogo"]
-formato: "Aprimoramento clínico"
+formato: "Aprimoramento clínico (roda de discussão conceitual)"
 video: "https://www.youtube.com/watch?v=eHYies2o_GA"
 duracao: "0:43:01"
 transcricao: "[[15 - Encontro 29 e Encontro 30]]"
@@ -282,4 +282,4 @@ Um participante pergunta sobre devolver ao paciente o que ele disse. Diogo diz q
 - Competências: [[Acolhimento e validação]] · [[Escuta clínica]] · [[Intervenção]] · [[Construção frasal]] · [[Relação terapêutica]] · [[Formulação de caso]] · [[Pessoa do terapeuta]] · [[Articulação teoria-prática]]
 - Conceitos: [[Empatia]] · [[Habilidades terapêuticas]] · [[Função da intervenção]] · [[Repertório cultural]] · [[Exame psíquico]] · [[Setting terapêutico]]
 - Encontros do Alan com pontos de contato: [[Alan 02 - Construção frasal]] · [[Alan 03 - Distância, intensidade, forma e conteúdo]] · [[Alan 16 - Intervenção]]
-- Outro encontro do mesmo facilitador: [[Acervo 16 - Duelo de abordagens e encerramento de sessão]]
+- Outros encontros do mesmo facilitador (Diogo): [[Acervo 16 - Duelo de abordagens e encerramento de sessão]] · [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]] · [[Acervo 09 - Como receber feedback negativo do paciente]] · [[Acervo 14 - Crenças e valores divergentes entre paciente e terapeuta]] · [[Acervo 17 - Fracasso clínico e seus fatores associados]] · [[Acervo 24 - Cuidados básicos de saúde na clínica]]

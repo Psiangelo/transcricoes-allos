@@ -366,4 +366,5 @@ O Duelo de abordagens inverte a proporção do modelo do Alan (teoria mínima �
 - Conceitos: [[Funcionamento do discurso]] · [[Pergunta estruturada]] · [[Expectativas do paciente]] · [[Hipótese clínica]] · [[Responsabilização]] · [[Parâmetros da intervenção (distância, intensidade, forma e conteúdo)]] · [[Contratransferência]]
 - Abordagens em cena: [[Psicanálise freudiana]] · [[Fenomenologia e existencialismo]] · [[Terapias contextuais]] · [[Terapia cognitivo-comportamental]]
 - Encontros do Alan com pontos de contato: [[Alan 02 - Construção frasal]] · [[Alan 03 - Distância, intensidade, forma e conteúdo]] · [[Alan 16 - Intervenção]] · [[Alan 17 - Qualidade da intervenção]]
-- Outro encontro do mesmo facilitador: [[Acervo 15 - Habilidades terapêuticas e os usos da empatia]]
+- Outros encontros do mesmo facilitador (Diogo): [[Acervo 15 - Habilidades terapêuticas e os usos da empatia]] · [[Acervo 06 - Estereótipos, preconceitos e fantasias sobre o paciente]] · [[Acervo 09 - Como receber feedback negativo do paciente]] · [[Acervo 17 - Fracasso clínico e seus fatores associados]]
+- Temas vizinhos no Acervo: [[Acervo 22 - Formas de encerrar a sessão]] (encerramento) · [[Acervo 07 - Violência estrutural e plantão psicológico]] (plantão psicológico) · [[Acervo 04 - Construção frasal em roleplay com pausas]] (formulação da frase)
