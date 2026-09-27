@@ -285,5 +285,5 @@ Diogo reúne o que o grupo levantou:
 ## Relacionados
 - Competências: [[Relação terapêutica]] · [[Acolhimento e validação]] · [[Psicoeducação]] · [[Primeira sessão e entrevistas iniciais]] · [[Abertura e encerramento de sessão]] · [[Intervenção]] · [[Construção frasal]] · [[Priorização clínica]] · [[Articulação teoria-prática]]
 - Conceitos: [[Psicologização]] · [[Diagnóstico diferencial]] · [[Pergunta validante]] · [[Discrepância entre saber e agir]] · [[Timing clínico]] · [[Análise funcional]]
-- Encontros: [[Acervo 25 - Linguagem clínica e função da intervenção]] (mesmo facilitador e mesmo formato) · [[Alan 07 - Psicoeducação]] · [[Alan 01 - Relação terapêutica tensionada]]
+- Encontros: [[Acervo 25 - Linguagem clínica e função da intervenção]] (mesmo facilitador e mesmo formato) · [[Acervo 17 - Fracasso clínico e seus fatores associados]] (Diogo; provavelmente o encontro sobre fracasso e timing citado em {{ts:acervo-24@0:37:04}}) · [[Acervo 23 - Comunicação não verbal na clínica]] (Diogo) · [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] (tema vizinho: corpo) · [[Alan 07 - Psicoeducação]] · [[Alan 01 - Relação terapêutica tensionada]]
 - Abordagens: [[Análise do comportamento]] · [[Psicologia analítica junguiana]] · [[Psicanálise freudiana]] · [[Gestalt-terapia]]
