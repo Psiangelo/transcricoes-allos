@@ -325,4 +325,4 @@ Este encontro é, em essência, uma **réplica do formato de [[Alan 02 - Constru
 ## Relacionados
 - Competências: [[Construção frasal]] · [[Intervenção]] · [[Abertura e encerramento de sessão]] · [[Relação terapêutica]] · [[Aprofundamento]] · [[Priorização clínica]]
 - Encontros do Alan: [[Alan 02 - Construção frasal]] (mesma dinâmica) · [[Alan 03 - Distância, intensidade, forma e conteúdo]] (variação de intervenção) · [[Alan 17 - Qualidade da intervenção]] (intensidade) · [[Alan 01 - Relação terapêutica tensionada]] (tensão na relação)
-- Acervo: [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] (confronto e vínculo)
+- Acervo: [[Acervo 02 - Intensidade e agressividade da intervenção]] (mesmo facilitador, intensidade da intervenção) · [[Acervo 05 - O corpo na clínica e a discrepância fala-corpo]] (mesmo facilitador, roleplay com observadores) · [[Acervo 03 - Intervenção confrontativa com vídeo de Fritz Perls]] (confronto e vínculo)

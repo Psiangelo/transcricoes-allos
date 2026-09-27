@@ -64,7 +64,7 @@ O encontro termina antes da hora porque a monitorada tem outro compromisso, num 
 
 | Início | Bloco | O que acontece | Função pedagógica |
 |---|---|---|---|
-| {{ts:mon-14@0:00:03}} | Abertura | Boas-vindas a um novo ouvinte; explicação do sistema de monitoria e do paciente de IA; anúncio do experimento de tema aberto | Situar ouvintes e quem assiste à gravação; enquadrar a monitoria como acompanhamento individual |
+| {{ts:mon-14@0:00:03}} | Abertura | Boas-vindas a um ouvinte (que já tinha ido a uma monitoria com João); explicação do sistema de monitoria e do paciente de IA; anúncio do experimento de tema aberto | Situar ouvintes e quem assiste à gravação; enquadrar a monitoria como acompanhamento individual |
 | {{ts:mon-14@0:01:36}} | Retomada | A monitorada relembra as últimas intervenções; Diogo resume a monitoria anterior (empatia e relação terapêutica) e o perfil do paciente | Reativar o fio do caso, que atravessa várias semanas |
 | {{ts:mon-14@0:03:58}} | Combinados | A monitorada explica o critério da intervenção (priorizou a última fala, o que não fazia antes); combinam que ela lê e ele pausa | Explicitar critérios de priorização; distribuir papéis |
 | {{ts:mon-14@0:05:14}} | Dinâmica | Leitura da resposta do paciente (metáfora do livro enfadonho) e pergunta aberta: "o que você apreende?" | Treinar escuta antes de qualquer correção |

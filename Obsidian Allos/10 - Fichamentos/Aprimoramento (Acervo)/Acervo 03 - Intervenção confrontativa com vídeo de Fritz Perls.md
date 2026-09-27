@@ -24,7 +24,7 @@ aliases: ["Encontro 5 e Encontro 6", "Acervo 03"]
 > O grupo parte dos próprios receios diante da intervenção confrontativa e monta, junto com o facilitador, critérios para usá-la: vínculo forte, paciente "parado" e contradição no discurso. Depois testa esses critérios contra o atendimento de Fritz Perls no [[Caso Glória]]. Aparecem usos que o grupo não tinha previsto: produzir significado novo, bloquear a esquiva e observar ao vivo como o paciente lida com o desconforto.
 
 > [!info] Ficha
-> **Facilitador:** não identificado (homem, clínico da Allos que atende e cita a própria graduação; num trecho parece dizer o próprio nome, "Jô" ou "João" (?)) · **Duração:** 0:46:54 (encerrado antes da 1h30 habitual) · **Formato:** Aprimoramento clínico em formato de **roda de discussão com análise de vídeo** (online: mão levantada, microfone, chat, tela compartilhada) · **Competências:** [[Intervenção]], [[Relação terapêutica]], [[Aprofundamento]], [[Articulação teoria-prática]], [[Pessoa do terapeuta]]
+> **Facilitador:** não identificado (homem, clínico da Allos que atende e cita a própria graduação; num trecho parece dizer o próprio nome, "Jô" ou "João" (?); nada na gravação confirma se é o Diogo, facilitador regular do grupo nessa fase) · **Duração:** 0:46:54 (encerrado antes da 1h30 habitual) · **Formato:** Aprimoramento clínico em formato de **roda de discussão com análise de vídeo** (online: mão levantada, microfone, chat, tela compartilhada) · **Competências:** [[Intervenção]], [[Relação terapêutica]], [[Aprofundamento]], [[Articulação teoria-prática]], [[Pessoa do terapeuta]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=Sk5AoNbsnbs) · **Transcrição:** [[03 - Encontro 5 e Encontro 6]]
 
 ## Resumo
@@ -295,4 +295,4 @@ No Aprimoramento do Alan, o ciclo típico é **teoria mínima → exercício de 
 - Competências: [[Intervenção]] · [[Relação terapêutica]] · [[Aprofundamento]] · [[Articulação teoria-prática]] · [[Pessoa do terapeuta]]
 - Abordagem e autor: [[Gestalt-terapia]] · [[Fritz Perls]] · [[Caso Glória]]
 - Encontros do Alan: [[Alan 01 - Relação terapêutica tensionada]] (confronto e ruptura) · [[Alan 03 - Distância, intensidade, forma e conteúdo]] (intensidade) · [[Alan 15 - Priorização clínica 2]] (apontamento de contradição) · [[Alan 17 - Qualidade da intervenção]] (Caso Glória, intensidade)
-- Acervo: [[Acervo 04 - Construção frasal em roleplay com pausas]] (potência *versus* agressividade da frase)
+- Acervo: [[Acervo 02 - Intensidade e agressividade da intervenção]] (intensidade da intervenção) · [[Acervo 04 - Construção frasal em roleplay com pausas]] (potência *versus* agressividade da frase)

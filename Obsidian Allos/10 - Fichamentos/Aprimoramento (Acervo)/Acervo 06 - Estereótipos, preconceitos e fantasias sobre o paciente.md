@@ -12,7 +12,7 @@ transcricao: "[[06 - Encontro 11 e Encontro 12]]"
 competencias: ["[[Pessoa do terapeuta]]", "[[Escuta clínica]]", "[[Formulação de caso]]", "[[Intervenção]]", "[[Relação terapêutica]]"]
 abordagens: ["[[Análise do comportamento]]", "[[Psicanálise freudiana]]"]
 dinamicas: ["[[Dinâmica - Observável, subjetivo e fantasioso]]"]
-conceitos: ["[[Estereótipo]]", "[[Preconceito]]", "[[Decisão clínica individualizada]]", "[[Observação e inferência]]", "[[Fantasia do terapeuta]]", "[[Imagem do paciente]]", "[[Hipótese clínica]]", "[[Contratransferência]]", "[[Comportamento clinicamente relevante]]", "[[Supervisão clínica]]", "[[Neutralidade]]", "[[Associação livre]]", "[[Análise de contingência]]"]
+conceitos: ["[[Estereótipo]]", "[[Preconceito]]", "[[Decisão clínica individualizada]]", "[[Observação e inferência]]", "[[Fantasia do terapeuta]]", "[[Imagem do paciente]]", "[[Hipótese clínica]]", "[[Contratransferência]]", "[[Comportamento clinicamente relevante]]", "[[Supervisão clínica]]", "[[Neutralidade]]", "[[Etarismo]]", "[[Associação livre]]", "[[Análise de contingência]]"]
 autores: []
 tags: [allos/acervo, competencia/pessoa-do-terapeuta, competencia/escuta, competencia/formulacao-de-caso, competencia/intervencao, competencia/relacao-terapeutica, abordagem/analise-do-comportamento, abordagem/psicanalise]
 aliases: ["Encontro 11 e Encontro 12", "Acervo 06", "Estereótipos e fantasias na clínica"]
@@ -247,6 +247,7 @@ Diogo amarra as falas:
 - [[Comportamento clinicamente relevante]] — comportamentos do paciente que aparecem na sessão e podem ser eliciados para testar hipóteses. Uma participante de orientação comportamental os prefere a pedir concordância.
 - [[Supervisão clínica]] — espaço para perguntar "de onde isso me atravessa?" e para trabalhar fantasias por imagens compartilhadas.
 - [[Neutralidade]] — ideal da formação acadêmica que o grupo questiona: o terapeuta não se destitui da própria personalidade, então deve usá-la com consciência.
+- [[Etarismo]] — preconceito etário que uma participante percebeu em si ao estranhar a "sabedoria de pessoa mais velha" numa paciente adolescente.
 - [[Associação livre]] — citada como exemplo de técnica específica (psicanálise) que o aprimoramento *não* treina.
 - [[Análise de contingência]] — citada como exemplo de técnica específica (análise do comportamento) que o aprimoramento *não* treina.
 

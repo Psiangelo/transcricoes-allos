@@ -117,7 +117,7 @@ Malu acrescenta uma camada clínica: o plantão costuma chegar com uma **transfe
 
 ### Online × presencial {{ts:acervo-20@0:38:12}}
 
-Cindy, que faz plantão online em outro projeto, relata que "a presença é diferente": muitas pessoas marcam e não comparecem, e parece haver uma barreira. Malu pondera que isso pode ter a ver também com o fato de ser **agendado**, e não só online. Para ela, o plantão presencial é um **lugar de resistência**: uma "brecha" num dia caótico, às vezes o único momento do dia em que alguém olhou para aquela pessoa {{ts:acervo-20@0:41:42}}. Mas nem o presencial garante essa brecha. Ela lembra de uma mãe que não conseguia falar porque os filhos pequenos não deixavam, e diz esperar que o online preserve algo dessa potência.
+Uma das plantonistas (provavelmente Cindy (?)), que faz plantão online em outro projeto, relata que "a presença é diferente": muitas pessoas marcam e não comparecem, e parece haver uma barreira. Malu pondera que isso pode ter a ver também com o fato de ser **agendado**, e não só online. Para ela, o plantão presencial é um **lugar de resistência**: uma "brecha" num dia caótico, às vezes o único momento do dia em que alguém olhou para aquela pessoa {{ts:acervo-20@0:41:42}}. Mas nem o presencial garante essa brecha. Ela lembra de uma mãe que não conseguia falar porque os filhos pequenos não deixavam, e diz esperar que o online preserve algo dessa potência.
 
 ### Validar a gravidade e usar a raiva {{ts:acervo-20@0:54:59}}
 
@@ -196,7 +196,7 @@ Malu observa que muitas mães, depois de relatar algo claramente grave, fecham c
   - *Argumento:* o presencial abre uma brecha num dia caótico; no online, há mais faltas, uma barreira de presença e talvez uma expectativa de "telemedicina".
   - *Contra quem / contraponto:* Malu pondera que parte do problema pode ser o agendamento, não só o meio online.
   - *Implicação prática:* preparar os plantonistas para acolher a distância e reduzir faltas.
-  - {{ts:acervo-20@0:38:21}} (Cindy e Malu)
+  - {{ts:acervo-20@0:38:21}} {{ts:acervo-20@0:41:42}} (Cindy (?) e Malu)
 
 ## Como o facilitador conduz
 
@@ -208,7 +208,7 @@ Malu observa que muitas mães, depois de relatar algo claramente grave, fecham c
 - **Meta-comentário sobre o ritmo:** "estou passando um pouquinho rápido porque sou meio rápida e quero discutir com vocês depois." {{ts:acervo-20@0:14:02}}
 - **Fecha a exposição com uma vinheta e uma pergunta aberta ao grupo:** "E a gente faz o quê?" (mas responde logo em seguida). {{ts:acervo-20@0:25:41}}
 - **Abre a discussão pelo que o grupo já sabe:** "O que vocês acharam? O que vocês sabem sobre plantão psicológico? Me contem." {{ts:acervo-20@0:30:21}}
-- **Co-facilitação complementar:** Malu contextualiza, traz o viés transferencial e faz perguntas de campo aos presentes ("vocês sentem desafios específicos nesses settings diferentes?"), convidando experiências. {{ts:acervo-20@0:37:47}}
+- **Co-facilitação complementar:** Malu contextualiza e traz o viés transferencial {{ts:acervo-20@0:30:21}}. Outra integrante da equipe, com experiência em plantão de busca ativa, pede que se explique o projeto a quem é de fora e pergunta aos presentes se "sentem desafios específicos nesses settings diferentes" {{ts:acervo-20@0:36:47}}. As perguntas de campo convidam experiências e distribuem a palavra.
 - **Dá lugar a quem produziu o material:** apresenta o mapa e o manual e passa a palavra à autora, reconhecendo publicamente o trabalho. {{ts:acervo-20@0:44:22}} {{ts:acervo-20@0:46:49}}
 - **Costura as contribuições:** "Perfeito, ela falou tudo", seguido de um complemento breve e da passagem da palavra ("Malu"). {{ts:acervo-20@0:50:36}}
 - **Integra o público externo:** Malu para a discussão para explicar a Allos e a parceria a quem chegou pelo PAPS. {{ts:acervo-20@0:43:11}}
