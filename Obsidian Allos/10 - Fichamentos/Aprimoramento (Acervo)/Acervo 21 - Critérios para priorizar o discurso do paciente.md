@@ -207,7 +207,7 @@ Uma participante pergunta se ainda estão falando de aprofundamento ou de priori
 - **Faz uma pergunta aberta e abstrata para levantar os critérios implícitos:** "o que vocês priorizam?". {{ts:acervo-21@0:04:41}}
 - **Parafraseia e checa o entendimento:** "deixa eu ver se eu entendi, você usa da repetição também?"; "você está me contando duas coisas diferentes". {{ts:acervo-21@0:07:05}} {{ts:acervo-21@0:07:53}}
 - **Lança uma pergunta provocativa para todos:** "Quem é que define o que é central? E eu jogo a pergunta para todo mundo." {{ts:acervo-21@0:08:53}}
-- **Pede exemplos concretos:** "você consegue me dar um exemplo, Rodolfo?", e sustenta a espera até o exemplo sair. {{ts:acervo-21@0:13:37}}
+- **Pede exemplos concretos:** "você consegue me dar um exemplo?", e sustenta a espera até o exemplo sair. {{ts:acervo-21@0:13:37}}
 - **Problematiza sistematicamente:** "vou começar a problematizar as coisas que vocês falaram" e, para cada critério, "qual é o problema de...?". {{ts:acervo-21@0:15:35}}
 - **Cria analogias na hora:** o menino que implica com a menina, reconhecendo que o exemplo é "muito estranho" e reformulando. {{ts:acervo-21@0:19:29}}
 - **Sintetiza em lista visível:** retoma todos os critérios antes da nova rodada. {{ts:acervo-21@0:25:29}}
