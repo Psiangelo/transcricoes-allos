@@ -11,7 +11,7 @@ duracao: "1:05:11"
 transcricao: "[[01 - 1º Introdução a PD]]"
 competencias: ["[[Desenvolvimento profissional]]", "[[Pessoa do terapeuta]]", "[[Feedback clínico]]", "[[Articulação teoria-prática]]", "[[Relação terapêutica]]"]
 abordagens: []
-dinamicas: ["[[Dinâmica - Intuição antes da evidência]]"]
+dinamicas: ["[[Dinâmica - Pergunta disparadora]]"]
 conceitos: ["[[Prática deliberada]]", "[[Revisão sistemática]]", "[[Metanálise]]", "[[Tamanho do efeito]]", "[[Ensaio clínico randomizado]]", "[[Estagnação dos resultados da psicoterapia]]", "[[Excesso de confiança]]", "[[Automaticidade]]", "[[Feedback informal]]", "[[Efeito Hawthorne]]", "[[Ciência da exceção]]", "[[Primado do fenômeno sobre a teoria]]", "[[Teoria como escudo]]", "[[Generalização entre casos]]", "[[Terceirização da responsabilidade]]", "[[Insegurança do terapeuta]]", "[[Estudo longitudinal]]", "[[Supervisão clínica]]", "[[Psicologia baseada em medidas]]", "[[Fatores comuns]]"]
 autores: ["[[Sigmund Freud]]"]
 tags: [allos/pratica-deliberada, competencia/desenvolvimento-profissional, competencia/pessoa-do-terapeuta, competencia/feedback-clinico, competencia/teoria-pratica, competencia/relacao-terapeutica]
@@ -149,7 +149,7 @@ O facilitador organiza esta parte (que segue o livro-base) em três camadas:
 
 ## Dinâmica(s)
 
-### [[Dinâmica - Intuição antes da evidência]]
+### [[Dinâmica - Pergunta disparadora]]
 - **Objetivo:** fazer o grupo explicitar suas crenças intuitivas sobre a eficácia da psicoterapia e sobre o próprio desenvolvimento **antes** de ver os dados de pesquisa. O choque entre intuição e evidência cria a motivação para aprender prática deliberada.
 - **Competência treinada:** [[Desenvolvimento profissional]], [[Pessoa do terapeuta]] (autoavaliação, relação com a própria insegurança).
 - **Configuração:** grupo todo, online, com slides compartilhados, microfone aberto e chat; cerca de 10 a 15 participantes, entre estudantes e psicólogos (alguns já atendem).
@@ -346,5 +346,5 @@ O facilitador organiza esta parte (que segue o livro-base) em três camadas:
 - [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] (encontro seguinte da série)
 - [[Prática deliberada]] · [[Excesso de confiança]] · [[Automaticidade]] · [[Estagnação dos resultados da psicoterapia]] · [[Ciência da exceção]]
 - [[Desenvolvimento profissional]] · [[Pessoa do terapeuta]] · [[Feedback clínico]] · [[Articulação teoria-prática]] · [[Relação terapêutica]]
-- [[Dinâmica - Intuição antes da evidência]]
+- [[Dinâmica - Pergunta disparadora]]
 - [[Psicologia baseada em evidências]] · [[Psicologia baseada em medidas]] · [[Fatores comuns]]

@@ -12,7 +12,7 @@ transcricao: "[[04 - 3° Encontro]]"
 competencias: ["[[Intervenção]]", "[[Construção frasal]]", "[[Relação terapêutica]]", "[[Direção do tratamento]]", "[[Primeira sessão e entrevistas iniciais]]", "[[Interpretação]]", "[[Aprofundamento]]", "[[Psicoeducação]]", "[[Escuta clínica]]", "[[Feedback clínico]]", "[[Desenvolvimento profissional]]"]
 abordagens: ["[[Abordagem centrada na pessoa]]", "[[Terapia sistêmica]]", "[[Terapia cognitivo-comportamental]]", "[[Psicanálise freudiana]]"]
 dinamicas: ["[[Dinâmica - Leitura comentada de atendimento simulado]]", "[[Dinâmica - Enquete de direção clínica]]", "[[Dinâmica - Explique a intervenção]]", "[[Dinâmica - Construção frasal]]"]
-conceitos: ["[[Velocidade clínica]]", "[[Criatividade clínica]]", "[[Psicoeducação implícita e explícita]]", "[[Assentimento tácito]]", "[[Viés da inação]]", "[[Silêncio terapêutico]]", "[[Leitmotiv]]", "[[Paciente simulado por inteligência artificial]]", "[[Enquadre clínico]]", "[[Transparência de hipóteses]]", "[[Hipóteses em suspenso]]", "[[Máximas clínicas]]", "[[Braqueologia]]", "[[Esquemas de aprofundamento]]", "[[Triangulação]]", "[[Intervenção memorável]]", "[[Discurso corrente]]", "[[História ensaiada]]", "[[Holding clínico]]", "[[Aliança terapêutica]]", "[[Paranoia]]"]
+conceitos: ["[[Velocidade clínica]]", "[[Criatividade clínica]]", "[[Psicoeducação implícita e explícita]]", "[[Assentimento tácito]]", "[[Viés da inação]]", "[[Silêncio terapêutico]]", "[[Leitmotiv]]", "[[Paciente simulado por inteligência artificial]]", "[[Enquadre clínico]]", "[[Transparência de hipóteses]]", "[[Hipóteses em suspenso]]", "[[Máximas clínicas]]", "[[Braqueologia]]", "[[Esquemas de aprofundamento]]", "[[Triangulação]]", "[[Intervenção memorável]]", "[[Discurso corrente]]", "[[História ensaiada]]", "[[Holding clínico]]", "[[Aliança terapêutica]]", "[[Paranoia]]", "[[Assimetria na relação terapêutica]]"]
 autores: ["[[Michel Foucault]]", "[[Zygmunt Bauman]]", "[[Edgar Allan Poe]]", "[[Johan Huizinga]]", "[[Ivan Pavlov]]"]
 tags: [allos/pratica-clinica, competencia/intervencao, competencia/construcao-frasal, competencia/relacao-terapeutica, competencia/direcao-do-tratamento, competencia/primeira-sessao, competencia/interpretacao, competencia/aprofundamento, competencia/psicoeducacao, competencia/escuta, competencia/feedback-clinico, competencia/desenvolvimento-profissional, abordagem/acp, abordagem/sistemica, abordagem/tcc, abordagem/psicanalise]
 aliases: ["3° Encontro", "Prática Clínica 04", "Velocidade clínica em atendimentos simulados"]
@@ -382,6 +382,7 @@ Alan revela o desfecho: de tanto manter a tensão, ele descobre para onde ir, e 
 - [[Holding clínico]] — a sustentação construída na relação, que permite intervenções "agressivas" sem ruptura.
 - [[Aliança terapêutica]] — vínculo que pode ser fortalecido mesmo durante uma recusa ou um tensionamento.
 - [[Paranoia]] — na definição psicanalítica clássica lembrada por Alan: observar a realidade e ligar os pontos; hipótese que ele recusa aplicar ao menino.
+- [[Assimetria na relação terapêutica]] — lugar "sênior" escolhido para aquele caso, não por posição a priori; permite entregar mais do que o paciente vê e ser aberto com as hipóteses (Sherlock e Watson).
 
 ## Frases para guardar
 

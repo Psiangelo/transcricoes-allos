@@ -11,7 +11,7 @@ duracao: "1:02:03"
 transcricao: "[[02 - 2º Introdução a PD]]"
 competencias: ["[[Desenvolvimento profissional]]", "[[Pessoa do terapeuta]]", "[[Feedback clínico]]", "[[Escuta clínica]]", "[[Articulação teoria-prática]]"]
 abordagens: []
-dinamicas: ["[[Dinâmica - Intuição antes da evidência]]"]
+dinamicas: ["[[Dinâmica - Pergunta disparadora]]"]
 conceitos: ["[[Prática deliberada]]", "[[Talento versus trabalho duro]]", "[[Desempenho especializado]]", "[[Qualidade da prática]]", "[[Decomposição de habilidades]]", "[[Visão do todo]]", "[[Metanálise]]", "[[Coeficiente de correlação]]", "[[Representação mental]]", "[[Automaticidade]]", "[[Excesso de confiança]]", "[[Preconceito teórico]]", "[[Humildade clínica]]", "[[Estagnação dos resultados da psicoterapia]]"]
 autores: ["[[Anders Ericsson]]", "[[Robert Pool]]", "[[Brooke Macnamara]]", "[[David Hambrick]]", "[[Frederick Oswald]]"]
 tags: [allos/pratica-deliberada, competencia/desenvolvimento-profissional, competencia/pessoa-do-terapeuta, competencia/feedback-clinico, competencia/escuta, competencia/teoria-pratica]
@@ -142,7 +142,7 @@ Respostas do grupo, que o facilitador guarda para retomar:
 
 ## Dinâmica(s)
 
-### [[Dinâmica - Intuição antes da evidência]]
+### [[Dinâmica - Pergunta disparadora]]
 - **Objetivo:** fazer o grupo formular suas crenças sobre excelência, talento, volume de prática e competência **antes** de ver os estudos, para que o dado confirme, refine ou derrube a intuição de forma memorável.
 - **Competência treinada:** [[Desenvolvimento profissional]] e [[Pessoa do terapeuta]] (crenças sobre o próprio desenvolvimento, limites, humildade).
 - **Configuração:** grupo todo, online, com slides, microfone e chat; cerca de 10 participantes.
@@ -337,4 +337,4 @@ Respostas do grupo, que o facilitador guarda para retomar:
 - [[Prática deliberada]] · [[Automaticidade]] · [[Representação mental]] · [[Qualidade da prática]] · [[Decomposição de habilidades]] · [[Excesso de confiança]]
 - [[Desenvolvimento profissional]] · [[Pessoa do terapeuta]] · [[Feedback clínico]] · [[Escuta clínica]] · [[Abertura e encerramento de sessão]] · [[Relação terapêutica]]
 - [[Anders Ericsson]] · [[Robert Pool]]
-- [[Dinâmica - Intuição antes da evidência]]
+- [[Dinâmica - Pergunta disparadora]]

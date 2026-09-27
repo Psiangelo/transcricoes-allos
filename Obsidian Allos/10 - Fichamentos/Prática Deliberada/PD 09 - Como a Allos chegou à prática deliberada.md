@@ -421,16 +421,16 @@ Na maior parte é uma aula expositiva, mas alguns movimentos se destacam:
 - [[Pseudoprática]] — Acumular horas sem retorno sobre o efeito das próprias ações (o basquete vendado de Hayes). É assim que a clínica costuma ser praticada.
 - [[Cristalização de preconceitos]] — Conhecer é trocar o trabalho de enxergar por modelos mentais. Com a repetição, o clínico passa a ouvir o modelo, não o paciente.
 - [[Curva de experiência do terapeuta]] — Dado de que o resultado dos pacientes não melhora, e em média piora levemente, com os anos de prática. A média esconde trajetórias individuais muito variadas.
-- [[Efeito do terapeuta]] — A diferença entre clínicos excelentes e péssimos é enorme, muito maior que os 5 a 10% entre abordagens.
+- [[Efeito do terapeuta]] — A diferença entre clínicos excelentes e péssimos é enorme, muito maior que os 5 a 10% entre abordagens. Miller estudou qualitativamente esses terapeutas excepcionais ("supershrinks" (?)) e chegou à PD.
 - [[Veredito do pássaro Dodô]] — Medindo bem-estar geral em vez de escalas por transtorno, todas as abordagens empatam (Alan não usa o termo).
 - [[Fatores comuns]] — Tese de Wampold: o que cura são elementos comuns às abordagens, não técnicas específicas.
-- [[Critério psicométrico de existência]] — Para a psicometria, um construto existe se não se correlaciona de forma discreta com outro. A alta comorbidade do DSM sugere más definições.
+- [[Critério psicométrico de existência]] — Para a psicometria, um construto existe se não se correlaciona de forma discreta com outro. A alta comorbidade do DSM sugere más definições. Sem fatores patognomônicos (sinais que definem inequivocamente a doença, como na medicina), o modelo médico fica frágil na psicologia.
 - [[Autoavaliação do terapeuta]] — Aqui, a autoavaliação é ilusória: 80% se acham acima da média, e a percepção da própria sensibilidade não prediz resultado. A insegurança, sim, se correlaciona com ser bom.
 - [[Fundamentos da clínica]] — Habilidades básicas a treinar sempre. Para Miller, as que a literatura liga ao resultado; para Alan, também as plausíveis, como a interpretação.
 - [[Plausibilidade]] — Critério legítimo para escolher intervenções e conteúdos de treino quando faltam dados, ao lado da solidez epistêmica e da efetividade.
 - [[Expectativas do paciente]] — Tratadas por Miller como fundamento. Alan as considera efeito placebo e diz que as pesquisas sobre elas são mal desenhadas.
 - [[Reforço positivo]] — Mais complexo do que elogiar: depende do tempo e do que é de fato reforçador para aquela pessoa (atenção, até pela bronca). Acenos indiscriminados reforçam o que não se quer.
-- [[Supervisão de habilidades]] — Supervisão que usa o caso para treinar a habilidade em falta, idealmente a partir de gravação, em vez de só discutir o caso.
+- [[Supervisão de habilidades]] — Supervisão que usa o caso para treinar a habilidade em falta, idealmente a partir de gravação, em vez de só discutir o caso, e que constrói com o terapeuta uma regra geral. A generalização é, para Alan, o mais difícil do ensino clínico.
 - [[Gabarito coletivo]] — Em vez de resposta pronta, o grupo reflete sobre as consequências das intervenções no roleplay e monta o gabarito de forma retroativa.
 - [[Ruptura e reparo da aliança]] — As melhores alianças são rompidas e restabelecidas com frequência. Alianças sempre acolhedoras rendem menos.
 - [[Aqui e agora]] — O que acontece entre terapeuta e paciente na sessão, inclusive o tédio do terapeuta, como material privilegiado (Rogers).
