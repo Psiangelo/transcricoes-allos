@@ -30,7 +30,7 @@ aliases: ["Monitoria Alan - Monitoria Eidrian", "Monitoria 02 - Alan"]
 
 ## Resumo
 
-É a primeira etapa da monitoria de uma aluna: ver um primeiro atendimento. O caso é uma **paciente simulada por inteligência artificial**, que vários alunos da Allos já atenderam na ferramenta da escola (Alan compara os "logs" de diferentes alunos com a mesma paciente). Alan avisa logo na abertura que vai mudar o foco em relação à monitoria anterior, com outra aluna, quando trabalhou a linguagem: agora quer "deixar o atendimento correr" e entender **a interpretação do caso e a tomada de decisão** da supervisionanda. Ela aceita, porque essa foi justamente a maior dificuldade dela no caso {{ts:mon-02@0:00:16}}.
+É a primeira etapa da monitoria de uma aluna: ver um primeiro atendimento. O caso é uma **paciente simulada por inteligência artificial**, que vários alunos da Allos já atenderam na ferramenta da escola (Alan compara os "logs" de diferentes alunos com a mesma paciente). Alan avisa logo na abertura que vai mudar o foco em relação à monitoria anterior, com outra aluna, quando trabalhou a linguagem ([[Monitoria 03 - Alan - Análise da linguagem do paciente]]): agora quer "deixar o atendimento correr" e entender **a interpretação do caso e a tomada de decisão** da supervisionanda. Ela aceita, porque essa foi justamente a maior dificuldade dela no caso {{ts:mon-02@0:00:16}}.
 
 O procedimento é simples: a aluna lê a própria intervenção e comenta, depois lê a fala da paciente e comenta; Alan interrompe para perguntar, propor leituras alternativas, pedir variações de frase e marcar pontos para "guardar no bolso" e retomar depois {{ts:mon-02@0:01:54}}. Parte da sessão é conduzida com Alan andando na rua a caminho de uma aula, o que produz ruído e pausas.
 
@@ -300,7 +300,8 @@ Alan recorre ao "lacanês", o [[Quatro discursos de Lacan|discurso do mestre]]. 
 
 ## Relacionados
 - Continuação: [[Monitoria 05 - Alan - Relatório e escolha do referencial teórico]] (mesma aluna, mesmo caso, etapa do relatório)
-- Monitoria anterior, com foco em linguagem, citada na abertura: transcrição [[03 - Monitoria Alan - Monitoria Alice Cechi]]
+- Monitoria anterior, com foco em linguagem, citada na abertura: [[Monitoria 03 - Alan - Análise da linguagem do paciente]]
+- Monitoria seguinte da série de Alan (versatilidade e uso da teoria): [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]]
 - A mesma aluna em outras monitorias: [[10 - Monitoria João de Bragança - Monitoria Eidrian]], [[18 - Monitoria Diogo - Monitoria Eidrian]]
 - Competências: [[Escuta clínica]], [[Interpretação]], [[Intervenção]], [[Construção frasal]], [[Aprofundamento]], [[Psicoeducação]], [[Relação terapêutica]], [[Primeira sessão e entrevistas iniciais]], [[Abertura e encerramento de sessão]], [[Formulação de caso]], [[Pessoa do terapeuta]]
 - Encontros do Alan: [[Alan 03 - Distância, intensidade, forma e conteúdo]], [[Alan 06 - Esquemas de aprofundamento]], [[Alan 07 - Psicoeducação]], [[Alan 02 - Construção frasal]]

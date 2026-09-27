@@ -297,7 +297,8 @@ Um supervisor não consegue criticar uma estrutura de escolha que não foi expli
 
 ## Relacionados
 - Etapa anterior: [[Monitoria 02 - Alan - Leitura do caso e tomada de decisão clínica]] (primeiro atendimento da mesma paciente simulada)
-- Monitoria citada como parecida (trabalho explícito com teoria): transcrição [[01 - Monitoria Alan - Monitoria Ângelo - Uso da teoria]]
+- Monitoria citada como parecida (trabalho explícito com teoria): [[Monitoria 01 - Alan - Uso da teoria e flexibilidade clínica]]
+- Monitoria de linguagem da mesma série: [[Monitoria 03 - Alan - Análise da linguagem do paciente]]
 - A mesma aluna em outras monitorias: [[10 - Monitoria João de Bragança - Monitoria Eidrian]], [[18 - Monitoria Diogo - Monitoria Eidrian]]
 - Competências: [[Articulação teoria-prática]], [[Formulação de caso]], [[Direção do tratamento]], [[Desenvolvimento profissional]], [[Pessoa do terapeuta]], [[Feedback clínico]]
 - Abordagens: [[Terapias contextuais]], [[Terapia cognitivo-comportamental]], [[Análise do comportamento]]
