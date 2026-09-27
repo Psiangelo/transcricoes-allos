@@ -4,7 +4,7 @@ serie: "Introdução à Prática Deliberada"
 fonte_id: pd-05
 numero: 5
 titulo_original: "5º Introdução a PD"
-facilitadores: ["Facilitador do Núcleo de Prática Deliberada (nome não citado)"]
+facilitadores: ["Bernardo"]
 formato: "Curso de PD"
 video: "https://www.youtube.com/watch?v=7aHutJ-HDWk"
 duracao: "0:49:52"
@@ -24,7 +24,7 @@ aliases: ["5º Introdução a PD", "PD 05", "Efeito Hawthorne e aliança"]
 > O encontro trata de três erros comuns ao aplicar escalas: tratá-las como burocracia, supor que o paciente vai detestá-las e ignorar o **efeito Hawthorne**. Depois justifica por que medir a **aliança terapêutica** e mostra, com os estudos de Michael Lambert, que o feedback de um caso não se generaliza para outros. A conclusão é que seu verdadeiro valor está em desenvolver a **auto-observação**, antídoto contra o automatismo clínico.
 
 > [!info] Ficha
-> **Facilitador:** facilitador do Núcleo de Prática Deliberada da Allos (nome não citado) · **Duração:** 0:49:52 · **Formato:** Curso de PD (aula online de cerca de 50 minutos, formato combinado no encontro anterior; slides do *Better Results*, perguntas ao grupo; novatos presentes; termina com foto do grupo para o Instagram do Núcleo) · **Competências:** [[Relação terapêutica]], [[Feedback clínico]], [[Desenvolvimento profissional]], [[Pessoa do terapeuta]]
+> **Facilitador:** Bernardo, do Núcleo de Prática Deliberada da Allos (não diz o nome neste encontro; identificado pelos encontros PD 01, PD 02 e PD 07 da mesma série, que ele conduz com continuidade explícita) · **Duração:** 0:49:52 · **Formato:** Curso de PD (aula online de cerca de 50 minutos, formato combinado no encontro anterior; slides do *Better Results*, perguntas ao grupo; novatos presentes; termina com foto do grupo para o Instagram do Núcleo) · **Competências:** [[Relação terapêutica]], [[Feedback clínico]], [[Desenvolvimento profissional]], [[Pessoa do terapeuta]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=7aHutJ-HDWk) · **Transcrição:** [[05 - 5º Introdução a PD]]
 
 ## Resumo
@@ -129,7 +129,7 @@ Se o feedback não é generalizável, ainda assim desenvolve uma habilidade fund
 **O que fazem os melhores** {{ts:pd-05@0:41:18}}. Para obter melhores resultados é preciso identificar onde e quando o padrão habitual e eficaz de performance falha, e então desenvolver, praticar e refinar um plano de melhoria. Estudos citados mostram que os psicoterapeutas com melhores resultados **reservam parte da rotina para auto-observação e reflexão**. O que importa é a **qualidade** desse tempo, não a quantidade: estão de fato comprometidos em identificar fraquezas, estabelecer objetivos e fazer um plano? Ou apenas dizem "acho que preciso melhorar como lido com a ruptura de aliança" e param aí? {{ts:pd-05@0:42:34}}
 
 ### Próximo passo: métricas {{ts:pd-05@0:44:55}}
-Números não falam por si. Para traduzi-los em informação são necessárias métricas como o **tamanho de efeito** e o **tamanho de efeito relativo**, que o clínico pode usar para analisar os dados das próprias escalas. Esse conteúdo fica para o encontro seguinte, porque é "mais maçante".
+Números não falam por si. Para traduzi-los em informação são necessárias métricas como o **tamanho de efeito** e o **tamanho de efeito relativo**, que o clínico pode usar para analisar os dados das próprias escalas. Esse conteúdo fica para o encontro seguinte ([[PD 06 - Métricas de resultado e a tocha na caverna]]), porque é "mais maçante".
 
 ## Dinâmica(s)
 
@@ -285,7 +285,7 @@ Números não falam por si. Para traduzi-los em informação são necessárias m
 - Os estudos citados sobre terapeutas que reservam tempo para reflexão (qualidade × quantidade): quais são?
 
 ## Relacionados
-- Curso: [[PD 03 - Os quatro pilares da prática deliberada]] · [[PD 04 - Linha de base e medidas de resultado]]
+- Curso: [[PD 03 - Os quatro pilares da prática deliberada]] · [[PD 04 - Linha de base e medidas de resultado]] · [[PD 06 - Métricas de resultado e a tocha na caverna]] · [[PD 07 - Caso Eta e o modo de aplicar escalas]]
 - Competências: [[Relação terapêutica]] · [[Feedback clínico]] · [[Desenvolvimento profissional]] · [[Pessoa do terapeuta]]
 - Conceitos: [[Aliança terapêutica]] · [[Ruptura e reparo da aliança]] · [[Fatores comuns]] · [[Veredito do pássaro Dodô]] · [[Prática deliberada]] · [[Psicologia baseada em medidas]]
 - Encontros do Alan (para comparar): [[Alan 01 - Relação terapêutica tensionada]] · [[Alan 08 - Escuta em fenomenologia]]

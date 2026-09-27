@@ -4,7 +4,7 @@ serie: "Introdução à Prática Deliberada"
 fonte_id: pd-03
 numero: 3
 titulo_original: "3º Introdução a PD"
-facilitadores: ["Facilitador do Núcleo de Prática Deliberada (nome não citado)"]
+facilitadores: ["Bernardo"]
 formato: "Curso de PD"
 video: "https://www.youtube.com/watch?v=demM9dPaAdg"
 duracao: "0:47:56"
@@ -24,12 +24,12 @@ aliases: ["3º Introdução a PD", "PD 03", "Quatro pilares da PD"]
 > Primeiro encontro em que o curso define de fato a prática deliberada. Ele parte da distinção entre **prática** (treinar) e **performance** (atender) e apresenta os quatro pilares do livro *Better Results*: objetivos de aprendizagem, supervisão, feedback e refinamento sucessivo. No caminho, critica a supervisão feita só por relato e a falta de roleplay na graduação.
 
 > [!info] Ficha
-> **Facilitador:** facilitador do Núcleo de Prática Deliberada da Allos (não diz o nome na gravação; não é o Alan, que aparece citado em outros encontros da série como terceiro) · **Duração:** 0:47:56 · **Formato:** Curso de PD (aula expositiva online com slides do livro *Better Results*, perguntas ao grupo e discussão; cerca de 8 a 10 participantes, alguns novatos) · **Competências:** [[Desenvolvimento profissional]], [[Feedback clínico]], [[Relação terapêutica]], [[Pessoa do terapeuta]]
+> **Facilitador:** Bernardo, do Núcleo de Prática Deliberada da Allos (não diz o nome neste encontro; identificado pelos encontros PD 01, PD 02 e PD 07 da mesma série, que ele conduz com continuidade explícita) · **Duração:** 0:47:56 · **Formato:** Curso de PD (aula expositiva online com slides do livro *Better Results*, perguntas ao grupo e discussão; cerca de 8 a 10 participantes, alguns novatos) · **Competências:** [[Desenvolvimento profissional]], [[Feedback clínico]], [[Relação terapêutica]], [[Pessoa do terapeuta]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=demM9dPaAdg) · **Transcrição:** [[03 - 3º Introdução a PD]]
 
 ## Resumo
 
-É o terceiro encontro do curso "Introdução à Prática Deliberada", conduzido pelo Núcleo de Prática Deliberada da Allos e baseado no livro *Better Results* (nota do fichamento: *Better Results: Using Deliberate Practice to Improve Therapeutic Effectiveness*, de Scott D. Miller, Mark Hubble e Daryl Chow; o facilitador cita só o título). Os dois encontros anteriores contextualizaram o tema sem definir o conceito. Este é o primeiro a tratar a prática deliberada "especificamente", pelos seus **quatro pilares**. Por isso o facilitador avisa que quem chega agora "não pega o bonde andando" {{ts:pd-03@0:00:00}}.
+É o terceiro encontro do curso "Introdução à Prática Deliberada", conduzido por Bernardo, do Núcleo de Prática Deliberada da Allos e baseado no livro *Better Results* (nota do fichamento: *Better Results: Using Deliberate Practice to Improve Therapeutic Effectiveness*, de Scott D. Miller, Mark Hubble e Daryl Chow; o facilitador cita só o título). Os dois encontros anteriores ([[PD 01 - Estagnação da psicoterapia e limites da experiência]] e [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]]) contextualizaram o tema sem definir o conceito. Este é o primeiro a tratar a prática deliberada "especificamente", pelos seus **quatro pilares**. Por isso o facilitador avisa que quem chega agora "não pega o bonde andando" {{ts:pd-03@0:00:00}}.
 
 O encontro começa desfazendo uma confusão de vocabulário. No uso comum da psicologia, "prática clínica" é atender. Na literatura de prática deliberada, **performance** é o ato de fazer psicoterapia e **prática** é o ato de treinar, como a diferença entre jogar uma pelada e treinar o chute {{ts:pd-03@0:03:54}}. Depois de ouvir o grupo sobre os "ingredientes de uma prática efetiva", ele apresenta a definição de Ericsson e Lehmann (1996) e os quatro pilares do *Better Results*. O primeiro são **objetivos de aprendizagem** específicos, decompostos em passos e desafiadores na medida certa, na "praia" da zona de desenvolvimento proximal de Vygotsky. O segundo é a **supervisão** que *observa* a performance, e não apenas recebe relatos. O terceiro é um **feedback** oportuno, imediato, contínuo, individualizado, focado em tarefa e dado por uma autoridade respeitada. O quarto é o **refinamento sucessivo**, porque repetir sem objetivo só automatiza.
 
@@ -300,7 +300,7 @@ Os próximos encontros tratam do *processo* da prática deliberada e do desafio 
 - O paciente é uma "autoridade confiável" para qual tipo de feedback, e o supervisor para qual?
 
 ## Relacionados
-- Curso: [[PD 04 - Linha de base e medidas de resultado]] · [[PD 05 - Problemas da mensuração, aliança e auto-observação]]
+- Curso: [[PD 01 - Estagnação da psicoterapia e limites da experiência]] · [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] · [[PD 04 - Linha de base e medidas de resultado]] · [[PD 05 - Problemas da mensuração, aliança e auto-observação]]
 - Competências: [[Desenvolvimento profissional]] · [[Feedback clínico]] · [[Relação terapêutica]] · [[Pessoa do terapeuta]]
 - Conceitos: [[Prática deliberada]] · [[Expertise clínica]] · [[Zona de desenvolvimento proximal]] · [[Refinamento sucessivo]] · [[Roleplay]]
 - Aplicação no método da Allos (para comparar): [[Alan 02 - Construção frasal]] · [[Alan 01 - Relação terapêutica tensionada]]

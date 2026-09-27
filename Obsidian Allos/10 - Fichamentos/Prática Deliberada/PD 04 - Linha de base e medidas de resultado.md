@@ -4,7 +4,7 @@ serie: "Introdução à Prática Deliberada"
 fonte_id: pd-04
 numero: 4
 titulo_original: "4º Introdução a PD"
-facilitadores: ["Facilitador do Núcleo de Prática Deliberada (nome não citado)"]
+facilitadores: ["Bernardo"]
 formato: "Curso de PD"
 video: "https://www.youtube.com/watch?v=Bfbrb4bujbo"
 duracao: "0:51:42"
@@ -24,7 +24,7 @@ aliases: ["4º Introdução a PD", "PD 04", "Linha de base em psicoterapia"]
 > Para praticar deliberadamente é preciso saber de onde se parte: a **linha de base**. Como o julgamento do próprio terapeuta é enviesado (viés de superioridade ilusória), ela precisa de medida. O encontro percorre a história dos critérios de "melhora" em psicoterapia (fidelidade à teoria, redução de sintomas, bem-estar geral) e apresenta duas escalas: a **ORS** (bem-estar) e a **SRS** (aliança).
 
 > [!info] Ficha
-> **Facilitador:** facilitador do Núcleo de Prática Deliberada da Allos (nome não citado; está doente e avisa que terá menos energia) · **Duração:** 0:51:42 · **Formato:** Curso de PD (aula expositiva online com slides do *Better Results*, escalas mostradas na tela, perguntas ao grupo e chat) · **Competências:** [[Desenvolvimento profissional]], [[Feedback clínico]], [[Relação terapêutica]], [[Psicodiagnóstico]], [[Formulação de caso]]
+> **Facilitador:** Bernardo, do Núcleo de Prática Deliberada da Allos (não diz o nome neste encontro; identificado pelos encontros PD 01, PD 02 e PD 07 da mesma série, que ele conduz com continuidade explícita; está doente e avisa que terá menos energia) · **Duração:** 0:51:42 · **Formato:** Curso de PD (aula expositiva online com slides do *Better Results*, escalas mostradas na tela, perguntas ao grupo e chat) · **Competências:** [[Desenvolvimento profissional]], [[Feedback clínico]], [[Relação terapêutica]], [[Psicodiagnóstico]], [[Formulação de caso]]
 > **Vídeo:** [assistir no YouTube](https://www.youtube.com/watch?v=Bfbrb4bujbo) · **Transcrição:** [[04 - 4º Introdução a PD]]
 
 ## Resumo
@@ -304,7 +304,7 @@ Há portanto **duas linhas de base**, a do caso e a nossa como terapeutas. Sem e
 - Conferir as datas e os dados citados (Eysenck 1952; escala global de funcionamento no DSM-III; números do caso Drummond).
 
 ## Relacionados
-- Curso: [[PD 03 - Os quatro pilares da prática deliberada]] · [[PD 05 - Problemas da mensuração, aliança e auto-observação]]
+- Curso: [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] · [[PD 03 - Os quatro pilares da prática deliberada]] · [[PD 05 - Problemas da mensuração, aliança e auto-observação]] · [[PD 06 - Métricas de resultado e a tocha na caverna]]
 - Competências: [[Desenvolvimento profissional]] · [[Feedback clínico]] · [[Relação terapêutica]] · [[Psicodiagnóstico]] · [[Formulação de caso]]
 - Conceitos: [[Psicologia baseada em medidas]] · [[Aliança terapêutica]] · [[Fatores comuns]] · [[Veredito do pássaro Dodô]] · [[Prática deliberada]]
 - Encontros do Alan (para comparar): [[Alan 11 - Psicodiagnóstico]] · [[Alan 01 - Relação terapêutica tensionada]]
