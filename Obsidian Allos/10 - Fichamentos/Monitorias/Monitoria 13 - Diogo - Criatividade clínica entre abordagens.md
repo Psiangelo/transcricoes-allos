@@ -128,7 +128,7 @@ Pergunta de uma participante: se a relação terapêutica se baseia em confianç
 - **Compensação:** para alguns pacientes, o terapeuta é "a única pessoa que me ouve", e a terapia compensa a realidade sem mudá-la.
 - **Estágios de mudança:** talvez a paciente ainda não veja a questão como problema a mudar {{ts:mon-13@0:53:27}}.
 - **Consolidação de ganhos:** se, fora da sessão, expor-se não é reforçado (os outros ignoram), a insistência do terapeuta pode soar como "esse terapeuta não está me ouvindo" e levar ao abandono {{ts:mon-13@0:54:31}}.
-- **Mecanismos inconscientes:** dificultar o processo pode ser um modo de se manter no mesmo lugar. Diogo dá como exemplo genérico a frequência de pedidos por terapeuta do mesmo gênero {{ts:mon-13@0:54:41}}. Com um participante de orientação psicanalítica, lembra que o inconsciente não segue a temporalidade lógica {{ts:mon-13@0:56:11}}.
+- **Mecanismos inconscientes:** dificultar o processo pode ser um modo de se manter no mesmo lugar. Diogo dá como exemplo genérico a frequência de pedidos por terapeuta do mesmo gênero {{ts:mon-13@0:54:41}}. Respondendo à participante (que tem afinidade com a psicologia analítica) e citando um colega de orientação psicanalítica, lembra um pressuposto que julga compartilhado: o inconsciente não segue a temporalidade lógica {{ts:mon-13@0:56:11}}.
 - **O vínculo existe:** "não é que não haja vínculo; é um vínculo que ainda não permite fazer determinada coisa". Se não houvesse vínculo, ela não voltaria {{ts:mon-13@0:57:30}} {{ts:mon-13@0:58:03}}.
 
 ### Figura e fundo (contribuição do chat) {{ts:mon-13@1:01:34}}
@@ -210,7 +210,7 @@ Uma participante sugere a noção gestáltica de **figura e fundo**: como o "fun
 - **Explicita a consigna e as etapas**, e depois recapitula onde o grupo está ("Rodolfo trouxe a primeira interpretação, eu trouxe a minha, traduzimos; a próxima etapa é aplicar"). {{ts:mon-13@0:10:05}} {{ts:mon-13@0:21:07}}
 - **Parafraseia para checar** ("só para ver se eu entendi...") e aceita correção do monitorado. {{ts:mon-13@0:13:06}} {{ts:mon-13@0:14:18}}
 - **Evita dar aula:** "o propósito não é ficar dando aula de conceito nesse grupo". {{ts:mon-13@0:14:33}}
-- **Faz perguntas honestas sobre a outra abordagem** ("incongruência é o oposto de espontaneidade ou de autenticidade?") e reconhece o que não sabe (figura e fundo, mediação entre conceitos). {{ts:mon-13@0:20:02}} {{ts:mon-13@1:02:27}}
+- **Faz perguntas honestas sobre a outra abordagem** ("incongruência é o oposto de espontaneidade ou de autenticidade?") e reconhece o que não sabe (não sabe aplicar figura e fundo clinicamente). {{ts:mon-13@0:20:02}} {{ts:mon-13@1:02:27}}
 - **Pergunta por resultados antes de propor** e checa a expectativa do terapeuta. {{ts:mon-13@0:30:19}} {{ts:mon-13@0:33:27}}
 - **Protege o monitorado:** "não estou dizendo que você seja um mau terapeuta". {{ts:mon-13@0:34:58}}
 - **Reconhece quando pergunta demais** e oferece reformular ("acho que fiz muitas perguntas de uma vez"). {{ts:mon-13@0:39:33}}

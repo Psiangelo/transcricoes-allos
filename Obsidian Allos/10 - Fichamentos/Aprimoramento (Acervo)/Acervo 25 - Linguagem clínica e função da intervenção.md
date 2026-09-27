@@ -143,7 +143,7 @@ Ao responder se essas dificuldades se resolvem da mesma forma, o grupo nota o tr
 - **Competência treinada:** [[Psicoeducação]], [[Construção frasal]], [[Articulação teoria-prática]]
 - **Configuração:** no encontro, foi **uma demonstração do facilitador para o grupo todo**, não praticada pelos participantes.
 - **Tempo aproximado:** 2 a 3 minutos por conceito.
-- **Consigna (o que o facilitador pede):** "Define autenticidade, jogo. Vou trazer uma definição formal e uma definição informal." {{ts:acervo-25@0:55:21}}
+- **Consigna (o que o facilitador pede):** Diogo encena o pedido de um participante ("Diogo, define autenticidade") e responde: "Vou trazer uma definição formal e uma definição informal." {{ts:acervo-25@0:55:21}}
 - **Passo a passo (como Diogo fez):**
   1. Escolher um conceito da abordagem de alguém do grupo (autenticidade, da ACP).
   2. Dar a definição formal.
