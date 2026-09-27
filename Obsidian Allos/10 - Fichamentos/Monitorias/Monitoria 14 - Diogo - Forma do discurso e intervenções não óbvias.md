@@ -204,7 +204,7 @@ Pergunta de fechamento: ao chegar a um ponto mais profundo, o que fazer com o qu
 
 ## Como o facilitador conduz
 
-- **Enquadra para quem chega e para a gravação:** pergunta ao novo ouvinte se já participou, explica a monitoria e o recurso de IA e declara que vai "experimentar" um formato de tema aberto {{ts:mon-14@0:00:07}}.
+- **Enquadra para quem chega e para a gravação:** pergunta a um ouvinte se já tinha participado de alguma monitoria, explica a monitoria e o recurso de IA e declara que vai "experimentar" um formato de tema aberto {{ts:mon-14@0:00:07}}.
 - **Divide a retomada:** pede à monitorada a última intervenção, completa com seu resumo da monitoria anterior e pergunta "faltou alguma coisa?" {{ts:mon-14@0:01:36}} {{ts:mon-14@0:02:41}}.
 - **Combina os papéis de leitura:** "continua lendo que aí eu vou pausando nas intervenções, senão eu vou falar muito". O supervisor se autolimita para dar espaço à monitorada {{ts:mon-14@0:03:58}}.
 - **Pergunta aberta antes de qualquer correção:** "o que você apreende dessa fala?", "que que você percebeu nessa fala?" {{ts:mon-14@0:06:18}} {{ts:mon-14@0:30:36}}.
