@@ -14,7 +14,7 @@ abordagens: ["[[Psicanálise freudiana]]", "[[Fenomenologia e existencialismo]]"
 dinamicas: ["[[Dinâmica - Duelo de abordagens]]", "[[Dinâmica - Reformulação coletiva do encerramento]]"]
 conceitos: ["[[Funcionamento do discurso]]", "[[Informação qualitativa do caso]]", "[[Expectativas do paciente]]", "[[Pergunta estruturada]]", "[[Parâmetros da intervenção (distância, intensidade, forma e conteúdo)]]", "[[Aliança terapêutica]]", "[[Hipótese clínica]]", "[[Responsabilização]]", "[[Angústia da escolha]]", "[[Triangulação]]", "[[Plantão psicológico]]", "[[Contratransferência]]", "[[Libido]]"]
 autores: ["[[Epicteto]]", "[[Søren Kierkegaard]]", "[[Carl Jung]]", "[[Sigmund Freud]]"]
-tags: [allos/acervo, formato/duelo-de-abordagens, competencia/intervencao, competencia/construcao-frasal, competencia/aprofundamento, competencia/abertura-encerramento, competencia/formulacao-de-caso, competencia/relacao-terapeutica, competencia/feedback-clinico, competencia/pessoa-do-terapeuta, abordagem/psicanalise, abordagem/fenomenologia, abordagem/contextuais, abordagem/tcc, abordagem/sistemica]
+tags: [allos/acervo, competencia/intervencao, competencia/construcao-frasal, competencia/aprofundamento, competencia/abertura-encerramento, competencia/formulacao-de-caso, competencia/relacao-terapeutica, competencia/feedback-clinico, competencia/pessoa-do-terapeuta, abordagem/psicanalise, abordagem/fenomenologia, abordagem/contextuais, abordagem/tcc, abordagem/sistemica]
 aliases: ["Encontro 31 e Encontro 32", "Duelo de abordagens - Diogo"]
 ---
 

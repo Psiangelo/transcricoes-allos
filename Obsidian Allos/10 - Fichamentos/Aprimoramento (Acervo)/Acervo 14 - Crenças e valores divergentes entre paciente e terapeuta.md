@@ -273,7 +273,7 @@ Com o grupo já reduzido, Rodolfo negocia um **roleplay de 7 minutos**. Um parti
 - **Post · maximas-e-reflexoes:** "Todo sentimento do terapeuta é dele. A questão é se está elaborado." → terapia pessoal como afinação do instrumento. Corte sugerido: {{ts:acervo-14@1:04:57}}–{{ts:acervo-14@1:06:04}}
 - **Stories · bastidores-dos-grupos:** "Liste em um minuto três temas que te tiram do eixo" → caixinha de respostas e convite para o grupo. Corte sugerido: {{ts:acervo-14@0:01:56}}–{{ts:acervo-14@0:02:50}}
 - **Carrossel · formacao-do-psicologo:** "Por que não fazer psicoeducação do óbvio" → o racista já ouviu a correção; o que muda é ajudar a agir na própria realidade. Corte sugerido: {{ts:acervo-14@0:41:44}}–{{ts:acervo-14@0:42:50}}
-- **Reels · clinica-na-pratica:** "A atitude afobada" → não tire abruptamente o que sustenta o paciente. Corte sugerido: {{ts:acervo-14@1:10:53}}–{{ts:acervo-14@1:12:05}}
+- **Reels · clinica-na-pratica:** "A atitude afobada" → não tire abruptamente o que sustenta o paciente. Corte sugerido: {{ts:acervo-14@1:10:53}}–{{ts:acervo-14@1:13:04}}
 
 ## Para replicar este encontro
 **Preparação:** um facilitador e, de preferência, um cofacilitador de outra abordagem; grupo de 6 a 10 pessoas; cronômetro; um conceito-âncora curto (a introjeção, ou equivalente na sua abordagem). Planeje **reservar metade do tempo para o exercício**, que foi o ponto fraco aqui.
