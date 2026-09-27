@@ -11,7 +11,7 @@ duracao: "1:31:18"
 transcricao: "[[13 - Formulação de caso 2]]"
 competencias: ["[[Formulação de caso]]", "[[Interpretação]]", "[[Priorização clínica]]", "[[Direção do tratamento]]", "[[Articulação teoria-prática]]", "[[Relação terapêutica]]", "[[Psicoeducação]]", "[[Escuta clínica]]"]
 abordagens: ["[[Terapia cognitivo-comportamental]]", "[[Análise do comportamento]]", "[[Fenomenologia e existencialismo]]", "[[Psicanálise freudiana]]", "[[Psicanálise lacaniana]]", "[[Psicologia analítica junguiana]]", "[[Abordagem centrada na pessoa]]", "[[Terapias contextuais]]", "[[Gestalt-terapia]]"]
-dinamicas: ["[[Dinâmica - Formulação de caso]]", "[[Dinâmica - Criatividade clínica]]", "[[Dinâmica - Identificação de pensamentos automáticos]]", "[[Dinâmica - Esquemas de aprofundamento]]"]
+dinamicas: ["[[Dinâmica - Formulação de caso]]", "[[Dinâmica - Criatividade clínica]]", "[[Dinâmica - Identificação de pensamentos automáticos]]", "[[Dinâmica - Desenhe o esquema de aprofundamento]]"]
 conceitos: ["[[Círculo hermenêutico]]", "[[Pré-figuração do caso]]", "[[Modelo cognitivo]]", "[[Pensamento automático]]", "[[Crença intermediária]]", "[[Crença central]]", "[[Comportamento de segurança]]", "[[Dialética da pergunta e da resposta]]", "[[Criatividade clínica]]", "[[Máximas clínicas]]", "[[Inflação e deflação psíquica]]", "[[Esquiva experiencial]]", "[[Sujeito suposto saber]]", "[[Contratransferência]]", "[[Padrão de repetição]]", "[[Dialética do senhor e do escravo]]", "[[Contracontrole]]", "[[Enantiodromia]]", "[[Cosmovisão]]", "[[Hermenêutica]]", "[[Conformação do objeto às hipóteses]]", "[[Função sentimento]]", "[[Esquemas de aprofundamento]]"]
 autores: ["[[Aaron Beck]]", "[[Judith Beck]]", "[[Martin Heidegger]]", "[[Hans-Georg Gadamer]]", "[[G. W. F. Hegel]]", "[[Friedrich Nietzsche]]", "[[B. F. Skinner]]", "[[Sigmund Freud]]", "[[Carl Rogers]]", "[[Carl Jung]]"]
 tags: [allos/alan, competencia/formulacao-de-caso, competencia/interpretacao, competencia/priorizacao, competencia/direcao-do-tratamento, competencia/teoria-pratica, competencia/relacao-terapeutica, competencia/psicoeducacao, competencia/escuta, abordagem/tcc, abordagem/analise-do-comportamento, abordagem/fenomenologia, abordagem/psicanalise, abordagem/lacan, abordagem/junguiana, abordagem/acp, abordagem/contextuais, abordagem/gestalt]
@@ -147,8 +147,8 @@ Buscar **o que se repete** (pulsão de morte, gozo…, "cada linha dá um nome")
 - **Passos:** 1. Recolher trechos. 2. Localizar no texto. 3. Classificar como estrito (ligado a um fato, "do nada") ou resposta (ligada a uma pergunta). 4. Tentar o "passo a mais" até uma crença. 5. Ligar à criatividade clínica.
 - **Feedback:** as escolhas "dariam pega", pois revelam crenças, mas estritamente não são pensamentos automáticos. **Nível:** iniciante. **Online:** sim.
 
-### [[Dinâmica - Esquemas de aprofundamento]] (proposta para o encontro seguinte)
-Pouca teoria e "direto para o exercício": Alan contaria uma nova sessão deste caso ou um caso novo para testar com o grupo as imagens intuitivas de aprofundamento {{ts:alan-13@1:30:14}}. A dinâmica foi adiada porque só apareceu um esquema nas formulações do dia. Ver [[Alan 06 - Esquemas de aprofundamento]].
+### [[Dinâmica - Desenhe o esquema de aprofundamento]] (proposta para o encontro seguinte)
+Pouca teoria e "direto para o exercício": Alan contaria uma nova sessão deste caso ou um caso novo para testar com o grupo as imagens intuitivas de aprofundamento {{ts:alan-13@1:30:14}}. A dinâmica foi adiada porque só apareceu um esquema nas formulações do dia. Ao que parece, ela foi realizada em [[Alan 06 - Esquemas de aprofundamento]], em outro formato (roleplays curtos, com o grupo desenhando a estrutura das perguntas).
 
 ## Dicas clínicas
 
