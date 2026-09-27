@@ -91,7 +91,7 @@ Na segunda metade, a monitorada conta que, depois de confirmar sua hipótese (ev
 ## Conteúdo teórico
 
 ### O formato: monitoria com pacientes simulados por IA {{ts:mon-17@0:00:00}}
-A monitoria "especificamente olha para os casos da IA": discute possibilidades de atendimento, o que está surgindo no caso, e escolhe "um caso do dia". Um participante lembra que antes Diogo fazia "um formato de intervisão". Nesta sessão, como parte do grupo tinha visto o mesmo caso no Aprimoramento da véspera, Diogo "adianta" o caso para onde pararam. No "modelo da monitoria", a monitorada lê as respostas do paciente, inteiras ou resumidas, e responde às perguntas do supervisor sobre cada intervenção. {{ts:mon-17@0:01:28}} {{ts:mon-17@0:03:57}}
+A monitoria "especificamente olha para os casos da IA": discute possibilidades de atendimento, o que está surgindo no caso, e escolhe "um caso do dia". Alguém que já tinha vindo antes lembra que Diogo fazia "um formato de intervisão", ainda sem casos de IA. Nesta sessão, como parte do grupo tinha visto o mesmo caso no Aprimoramento da véspera, Diogo "adianta" o caso para onde pararam. No "modelo da monitoria", a monitorada lê as respostas do paciente, inteiras ou resumidas, e responde às perguntas do supervisor sobre cada intervenção. {{ts:mon-17@0:01:28}} {{ts:mon-17@0:03:57}}
 
 ### Repetições: potência e propósito {{ts:mon-17@0:10:01}}
 Repetições "cutucam os ouvidos": são destaques no discurso do paciente que chamam a atenção e oferecem um caminho útil, e até fácil, para chegar à potência clínica na sessão. Mas é preciso ter um motivo para usá-las ("uso racional não foi o melhor termo, mas a repetição não pode ser usada de forma alheia e à toa"). Há duas estratégias possíveis diante de uma repetição {{ts:mon-17@0:07:23}} {{ts:mon-17@0:07:42}}:
@@ -242,7 +242,7 @@ Olhando para trás, ele entendeu o que faltava na hipótese: **esse funcionament
 
 ## Como o facilitador conduz
 
-- **Situa quem chega e adapta o plano ao grupo.** Explica o funcionamento da monitoria a uma participante que só conhecia o formato antigo, de intervisão. Como muitos viram o caso na véspera, "adianta" o material. {{ts:mon-17@0:00:00}} {{ts:mon-17@0:01:28}}
+- **Situa quem chega e adapta o plano ao grupo.** Explica o funcionamento da monitoria a quem só conhecia o formato antigo, de intervisão. Como muitos viram o caso na véspera, "adianta" o material. {{ts:mon-17@0:00:00}} {{ts:mon-17@0:01:28}}
 - **Começa pelo vivido do terapeuta.** Pede à monitorada um resumo do que sentiu e do que o caso lhe trouxe, e isso faz a pessoa do terapeuta aparecer desde o início. {{ts:mon-17@0:02:05}}
 - **Dá protagonismo a quem apresenta.** No "modelo da monitoria", é a monitorada que lê e escolhe o que é relevante. {{ts:mon-17@0:03:57}}
 - **Faz perguntas socráticas em cadeia.** Quase nunca afirma primeiro. Pergunta o que é relevante, por que não fez de outro jeito, qual a função, aonde queria chegar, por que não perguntou isso, por que agora, qual movimento, por que esse entre todos, o que a resposta diz sobre o caso e se isso muda a hipótese. {{ts:mon-17@0:05:37}} {{ts:mon-17@0:08:47}} {{ts:mon-17@0:14:38}} {{ts:mon-17@0:34:44}} {{ts:mon-17@0:38:26}} {{ts:mon-17@0:44:33}}

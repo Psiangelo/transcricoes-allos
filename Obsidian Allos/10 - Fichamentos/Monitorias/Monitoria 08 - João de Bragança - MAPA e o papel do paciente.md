@@ -86,7 +86,7 @@ Não há caso central. Surgem **vinhetas breves de casos reais**, dos participan
 | {{ts:mon-08@0:35:23}} | Discussão | Limites da abertura do terapeuta; relato de autenticidade na supervisão | Levar a discussão para a pessoa do terapeuta |
 | {{ts:mon-08@0:42:41}} | Teoria | Síntese de João: compreender demais × ser compreendido demais; processo × personalidade; teoria como limite justo | Consolidar teses |
 | {{ts:mon-08@0:46:18}} | Discussão | Explicar a personalidade tira o efeito; a ironia é projetiva | Refinar a tese com contribuições do grupo |
-| {{ts:mon-08@0:48:50}} | Bate-papo/Outro | Agenda de roleplays da semana | Logística do grupo |
+| {{ts:mon-08@0:48:20}} | Bate-papo/Outro | Agenda de roleplays da semana | Logística do grupo |
 | {{ts:mon-08@0:49:23}} | Discussão | Explicar o papel mecaniza a sessão? "O que é importante?" Metáfora das zebras | Voltar a subir o nível de abstração |
 | {{ts:mon-08@0:58:01}} | Discussão | Síntese de um participante: vale delimitar o papel, exceto no acolhimento intenso; a meta é a autonomia | Fechamento de conteúdo feito pelo grupo |
 | {{ts:mon-08@0:59:47}} | Fechamento | Encerramento informal e piadas sobre atrasos de terapeutas | Despedida |
@@ -273,7 +273,7 @@ Síntese de um participante, aceita pelo grupo: em geral vale a pena delimitar o
 
 - **Carrossel · clinica-na-pratica:** "Você diz ao paciente qual é o papel dele na terapia?" → Recursos explícitos ("a terapia é a dois", "interprete comigo") e implícitos ("e a *sua* semana?", trazer para o aqui e agora). Os dois servem; decida quando usar cada um. Corte sugerido: {{ts:mon-08@0:00:01}}–{{ts:mon-08@0:03:02}}
 - **Post · abordagens-em-dialogo:** "Adaptar-se não é ajustar-se (Jung)" → a flexibilidade do terapeuta precisa de um núcleo fiel a si; quem vira outra pessoa a cada caso não tem identidade clínica. Corte sugerido: {{ts:mon-08@0:25:51}}–{{ts:mon-08@0:27:11}}
-- **Reels · maximas-e-reflexoes:** "Nunca anuncie que está sendo irônico" → a ironia é projetiva, e explicar a personalidade tira o efeito ("vou te bater, mas sou meio nervoso"). Corte sugerido: {{ts:mon-08@0:47:19}}–{{ts:mon-08@0:48:50}}
+- **Reels · maximas-e-reflexoes:** "Nunca anuncie que está sendo irônico" → a ironia é projetiva, e explicar a personalidade tira o efeito ("vou te bater, mas sou meio nervoso"). Corte sugerido: {{ts:mon-08@0:47:19}}–{{ts:mon-08@0:49:23}}
 - **Carrossel · maximas-e-reflexoes:** "A teoria também existe para te limitar" → personalidade × método; usar valores para pensar é bom, impô-los não. Corte sugerido: {{ts:mon-08@0:43:52}}–{{ts:mon-08@0:46:18}}
 - **Post · clinica-na-pratica:** "Responsabilidade do paciente não é igual para todos" → para uns é trazer o que evitam, para outros é afrouxar a hiper-responsabilidade; um princípio abstrato e aberto. Corte sugerido: {{ts:mon-08@0:27:11}}–{{ts:mon-08@0:28:17}}
 - **Stories · bastidores-dos-grupos:** enquete "Você explica seu método ao paciente ou deixa implícito?" + caixinha. Mostra como a monitoria usa perguntas do MAPA. Corte sugerido: {{ts:mon-08@0:07:23}}–{{ts:mon-08@0:08:30}}
