@@ -334,6 +334,8 @@ Respostas do grupo, que o facilitador guarda para retomar:
 ## Relacionados
 
 - [[PD 01 - Estagnação da psicoterapia e limites da experiência]] (encontro anterior da série)
+- [[PD 03 - Os quatro pilares da prática deliberada]] (encontro seguinte: supervisão, feedback, objetivos)
+- [[PD 09 - Como a Allos chegou à prática deliberada]] (encontro extra da série)
 - [[Prática deliberada]] · [[Automaticidade]] · [[Representação mental]] · [[Qualidade da prática]] · [[Decomposição de habilidades]] · [[Excesso de confiança]]
 - [[Desenvolvimento profissional]] · [[Pessoa do terapeuta]] · [[Feedback clínico]] · [[Escuta clínica]] · [[Abertura e encerramento de sessão]] · [[Relação terapêutica]]
 - [[Anders Ericsson]] · [[Robert Pool]]

@@ -9,12 +9,12 @@ formato: "Prática clínica"
 video: "https://www.youtube.com/watch?v=0cTyM1BH_Yc"
 duracao: "1:02:00"
 transcricao: "[[07 - 6º Encontro]]"
-competencias: ["[[Interpretação]]", "[[Priorização clínica]]", "[[Escuta clínica]]", "[[Desenvolvimento profissional]]", "[[Direção do tratamento]]", "[[Articulação teoria-prática]]", "[[Feedback clínico]]", "[[Intervenção]]"]
+competencias: ["[[Interpretação]]", "[[Priorização clínica]]", "[[Escuta clínica]]", "[[Desenvolvimento profissional]]", "[[Direção do tratamento]]", "[[Articulação teoria-prática]]", "[[Feedback clínico]]", "[[Intervenção]]", "[[Formulação de caso]]"]
 abordagens: ["[[Psicanálise freudiana]]", "[[Psicanálise lacaniana]]", "[[Gestalt-terapia]]", "[[Terapia sistêmica]]", "[[Psicologia analítica junguiana]]", "[[Terapia cognitivo-comportamental]]", "[[Análise do comportamento]]", "[[Terapias contextuais]]", "[[Psicodrama]]"]
 dinamicas: ["[[Dinâmica - Sair da sala ao formar opinião]]", "[[Dinâmica - Criatividade clínica]]", "[[Dinâmica - Apostas na supervisão coletiva]]", "[[Dinâmica - Grifar o essencial]]", "[[Dinâmica - Adivinhar pelo trailer]]"]
 conceitos: ["[[Elementos da interpretação]]", "[[Ancoragem da priorização]]", "[[Reconstrução do contexto]]", "[[Decisão ética]]", "[[Conferência da interpretação]]", "[[Repertório clínico]]", "[[Track record]]", "[[Consciência taxonômica]]", "[[Teoria como lente]]", "[[Interpretação intuitiva]]", "[[Espelhamento]]", "[[Intervisão]]", "[[Colonização ideológica]]", "[[Fator patognomônico]]", "[[Execução clínica]]", "[[Entrevistas preliminares]]", "[[Secretariar o paciente]]", "[[Associação livre]]", "[[Complexo de Édipo]]", "[[Cadeira vazia]]", "[[Dessensibilização sistemática]]", "[[Psicologia baseada em medidas]]"]
 autores: ["[[Karl Marx]]", "[[Agatha Christie]]", "[[Sigmund Freud]]", "[[Carl Jung]]", "[[Alfred Adler]]", "[[Aaron Beck]]", "[[Jacob Levy Moreno]]", "[[Scott D. Miller]]"]
-tags: [allos/pratica-clinica, competencia/interpretacao, competencia/priorizacao, competencia/escuta, competencia/desenvolvimento-profissional, competencia/direcao-do-tratamento, competencia/teoria-pratica, competencia/feedback-clinico, competencia/intervencao, abordagem/psicanalise, abordagem/lacan, abordagem/gestalt, abordagem/sistemica, abordagem/junguiana, abordagem/tcc, abordagem/analise-do-comportamento, abordagem/contextuais, abordagem/psicodrama]
+tags: [allos/pratica-clinica, competencia/interpretacao, competencia/priorizacao, competencia/escuta, competencia/desenvolvimento-profissional, competencia/direcao-do-tratamento, competencia/teoria-pratica, competencia/feedback-clinico, competencia/intervencao, competencia/formulacao-de-caso, abordagem/psicanalise, abordagem/lacan, abordagem/gestalt, abordagem/sistemica, abordagem/junguiana, abordagem/tcc, abordagem/analise-do-comportamento, abordagem/contextuais, abordagem/psicodrama]
 aliases: ["6º Encontro", "Prática Clínica 07", "Como treinar interpretação"]
 ---
 
@@ -370,7 +370,7 @@ Os três devem ser **aplicados a cada subcomponente** da interpretação. Na par
 - Até que ponto a tese "psicoterapia é execução, medicina é interpretação" se sustenta diante da literatura de fatores comuns e de tratamentos específicos?
 
 ## Relacionados
-- Encontro anterior: [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]]
+- Encontro anterior: [[Prática Clínica 06 - Raciocínio clínico, memória e decisão ética]] · série: [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] (macrocategorias) · [[Prática Clínica 04 - Velocidade e criatividade clínica em atendimentos simulados]] (criatividade clínica)
 - Competências: [[Interpretação]] · [[Priorização clínica]] · [[Escuta clínica]] · [[Desenvolvimento profissional]] · [[Direção do tratamento]] · [[Feedback clínico]]
 - Conceitos: [[Elementos da interpretação]] · [[Conferência da interpretação]] · [[Track record]] · [[Repertório clínico]] · [[Colonização ideológica]] · [[Prática deliberada]] · [[Psicologia baseada em medidas]]
 - Encontros do Alan com temas vizinhos: [[Alan 14 - Priorização clínica 1]] · [[Alan 15 - Priorização clínica 2]] · [[Alan 12 - Formulação de caso 1]] · [[Alan 17 - Qualidade da intervenção]]

@@ -12,7 +12,7 @@ transcricao: "[[06 - 5º Encontro]]"
 competencias: ["[[Interpretação]]", "[[Direção do tratamento]]", "[[Articulação teoria-prática]]", "[[Escuta clínica]]", "[[Priorização clínica]]", "[[Pessoa do terapeuta]]", "[[Desenvolvimento profissional]]"]
 abordagens: ["[[Psicodrama]]", "[[Gestalt-terapia]]", "[[Análise do comportamento]]", "[[Psicanálise freudiana]]", "[[Terapia cognitivo-comportamental]]", "[[Abordagem centrada na pessoa]]", "[[Psicanálise lacaniana]]", "[[Terapia sistêmica]]"]
 dinamicas: ["[[Dinâmica - Taxonomia construída pelo grupo]]", "[[Dinâmica - De onde veio esse raciocínio]]", "[[Dinâmica - Direção clínica intuitiva em vinhetas]]", "[[Dinâmica - Uma intervenção para cada hipótese]]"]
-conceitos: ["[[Raciocínio clínico]]", "[[Categorias da prática clínica]]", "[[Reconstrução do contexto]]", "[[Decisão ética]]", "[[Memória clínica]]", "[[Máximas clínicas]]", "[[Imagem fundamental]]", "[[Vício clínico]]", "[[Tomada de consciência]]", "[[Atenção flutuante]]", "[[Aquecimento]]", "[[Espelhamento caricatural]]", "[[Psicologia comparada]]", "[[Duplo vínculo]]"]
+conceitos: ["[[Raciocínio clínico]]", "[[Macrocategorias de habilidades clínicas]]", "[[Reconstrução do contexto]]", "[[Decisão ética]]", "[[Memória clínica]]", "[[Máximas clínicas]]", "[[Imagem fundamental]]", "[[Vício clínico]]", "[[Tomada de consciência]]", "[[Atenção flutuante]]", "[[Aquecimento]]", "[[Espelhamento caricatural]]", "[[Psicologia comparada]]", "[[Duplo vínculo]]", "[[Teoria como defesa]]"]
 autores: ["[[Jacob Levy Moreno]]", "[[Jacques Lacan]]", "[[Carl Jung]]", "[[Immanuel Kant]]", "[[Aristóteles]]", "[[Chris Voss]]", "[[Edgar Allan Poe]]", "[[Fiódor Dostoiévski]]"]
 tags: [allos/pratica-clinica, competencia/interpretacao, competencia/direcao-do-tratamento, competencia/teoria-pratica, competencia/escuta, competencia/priorizacao, competencia/pessoa-do-terapeuta, competencia/desenvolvimento-profissional, abordagem/psicodrama, abordagem/gestalt, abordagem/analise-do-comportamento, abordagem/psicanalise, abordagem/tcc, abordagem/acp, abordagem/lacan, abordagem/sistemica]
 aliases: ["5º Encontro", "Prática Clínica 06", "Raciocínio clínico (Prática Clínica)"]
@@ -80,7 +80,7 @@ Pense numa linha: **escuta → raciocínio → comunicação**.
 
 ### A memória no raciocínio clínico: três fontes {{ts:pc-06@0:15:47}}
 Da proposta de uma participante (*escuto → compreendo → penso → busco na memória → respondo*), Alan destrincha o **buscar na memória**:
-1. **Teoria.** O que você lembra do que estudou ("isso me lembrou uma frase do Lacan, um raciocínio que vi o Jung fazer"). A participante brinca que "a gente estuda teoria para se defender da realidade", e Alan reconhece que isso às vezes acontece e é uma crítica legítima ao estudo teórico {{ts:pc-06@0:15:08}}.
+1. **Teoria.** O que você lembra do que estudou ("isso me lembrou uma frase do Lacan, um raciocínio que vi o Jung fazer"). A participante brinca que "a gente estuda teoria para se defender da realidade", e Alan reconhece que isso às vezes acontece e é uma crítica legítima ao estudo teórico ([[Teoria como defesa]]) {{ts:pc-06@0:15:08}}.
 2. **Experiências passadas**, que podem ser **suas ou de outros**, como um caso que um professor contou em sala. As duas entram no raciocínio {{ts:pc-06@0:16:55}}.
 3. **"Algo parecido"**, a categoria que o grupo não sabe definir e que o resto do encontro tenta preencher. A tentativa de uma participante ("visoconstrução", juntar partes que se encaixam) acaba se mostrando uma variação de experiência passada {{ts:pc-06@0:18:06}}.
 
@@ -253,7 +253,7 @@ A moral: **separar os componentes serve para ver como eles se integram** {{ts:pc
 
 ## Conceitos-chave
 - [[Raciocínio clínico]]: o que acontece entre escutar e comunicar. Divide-se, no mínimo, em interpretação e decisão ética.
-- [[Categorias da prática clínica]]: taxonomia não canônica da série (setting, escuta, raciocínio, comunicação) para tornar conscientes dimensões que costumam passar despercebidas.
+- [[Macrocategorias de habilidades clínicas]]: taxonomia não canônica da série (setting, escuta, raciocínio, comunicação) para tornar conscientes dimensões que costumam passar despercebidas.
 - [[Reconstrução do contexto]]: definição de interpretar neste grupo. Dar significância clínica ao que se escutou, reconstruindo o contexto com teoria, experiência e máximas.
 - [[Decisão ética]]: a passagem do raciocínio para a comunicação, isto é, decidir qual é a própria posição diante do que se entendeu. É articulada com a interpretação, mas distinta dela.
 - [[Memória clínica]]: o que se busca na memória ao raciocinar. Teoria, experiências (próprias ou alheias) e máximas ou imagens fundamentais.
@@ -325,6 +325,7 @@ A moral: **separar os componentes serve para ver como eles se integram** {{ts:pc
 - Como a divisão interpretação/decisão deste encontro conversa com a taxonomia do encontro seguinte, que inclui a deliberação entre os elementos da interpretação?
 
 ## Relacionados
+- Encontro anterior: [[Prática Clínica 05 - Setting e taxonomia das habilidades clínicas]] (taxonomia setting, escuta, raciocínio e comunicação; setting)
 - Encontro seguinte: [[Prática Clínica 07 - Como treinar cada elemento da interpretação]]
 - Competências: [[Interpretação]] · [[Direção do tratamento]] · [[Articulação teoria-prática]] · [[Escuta clínica]] · [[Priorização clínica]] · [[Pessoa do terapeuta]]
 - Conceitos: [[Raciocínio clínico]] · [[Reconstrução do contexto]] · [[Decisão ética]] · [[Máximas clínicas]] · [[Imagem fundamental]] · [[Psicologia comparada]]

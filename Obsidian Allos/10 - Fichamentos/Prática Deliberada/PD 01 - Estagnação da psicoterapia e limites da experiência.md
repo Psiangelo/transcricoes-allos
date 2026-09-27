@@ -338,12 +338,13 @@ O facilitador organiza esta parte (que segue o livro-base) em três camadas:
 - Quais são exatamente os dois estudos longitudinais dos gráficos? Os números citados (cerca de 150 terapeutas em 18 anos; 153 terapeutas em 7 anos numa instituição comunitária) parecem corresponder aos estudos de Goldberg e colaboradores (2016), mas isso também precisa ser conferido.
 - O efeito Hawthorne costuma ser descrito na literatura como a mudança de comportamento por saber-se observado. A definição dada em aula (moldar-se à expectativa de uma autoridade) aproxima-se também das "características de demanda". Vale estudar a diferença.
 - Se a orientação teórica pesa pouco no resultado, o que exatamente deve ser treinado? (Tema das aulas seguintes.)
-- Como medir a melhora do paciente sem cair nos vieses do feedback informal e sem engessar objetivos que mudam com a vida?
+- Como medir a melhora do paciente sem cair nos vieses do feedback informal e sem engessar objetivos que mudam com a vida? (A série volta a isso em [[PD 04 - Linha de base e medidas de resultado]] e [[PD 05 - Problemas da mensuração, aliança e auto-observação]].)
 - A estagnação de 40 anos vale para todas as condições e populações, ou é um efeito médio que esconde áreas que progrediram?
 
 ## Relacionados
 
 - [[PD 02 - Origem da prática deliberada e armadilha da automaticidade]] (encontro seguinte da série)
+- [[PD 09 - Como a Allos chegou à prática deliberada]] (encontro extra da série, sobre a adoção da PD pela Allos)
 - [[Prática deliberada]] · [[Excesso de confiança]] · [[Automaticidade]] · [[Estagnação dos resultados da psicoterapia]] · [[Ciência da exceção]]
 - [[Desenvolvimento profissional]] · [[Pessoa do terapeuta]] · [[Feedback clínico]] · [[Articulação teoria-prática]] · [[Relação terapêutica]]
 - [[Dinâmica - Pergunta disparadora]]
